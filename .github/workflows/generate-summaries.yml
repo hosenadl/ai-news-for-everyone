@@ -1,0 +1,37 @@
+# Regenerates summaries.json every 6 hours using the Claude API.
+# Setup (when this folder becomes a GitHub repository):
+#   1. In the repo: Settings → Secrets and variables → Actions → New repository secret
+#      Name: ANTHROPIC_API_KEY   Value: your key
+#   2. In the repo: Settings → Actions → General → Workflow permissions →
+#      select "Read and write permissions" (so the workflow can commit the file)
+# That's it — summaries update themselves from then on.
+
+name: Generate plain-English summaries
+
+on:
+  schedule:
+    - cron: "15 */6 * * *" # every 6 hours
+  workflow_dispatch: {} # allows running it manually from the Actions tab
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate summaries
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node generate-summaries.js
+
+      - name: Commit updated summaries
+        run: |
+          git config user.name "summary-bot"
+          git config user.email "actions@github.com"
+          git add summaries.json
+          git diff --cached --quiet || git commit -m "Update plain-English summaries"
+          git push

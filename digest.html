@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Email Digest — AI News in Plain English</title>
+  <meta name="description" content="A ready-to-send weekly email with this week's AI news, explained simply.">
+  <meta name="theme-color" content="#0071e3">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="icon" type="image/png" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav class="site-nav" aria-label="Main sections">
+    <div class="container nav-inner">
+      <a class="nav-brand" href="index.html">AI News in Plain English</a>
+      <div class="nav-links">
+        <a href="index.html#news">Today's News</a>
+        <a href="index.html#basics">AI Basics</a>
+        <a href="index.html#business">Your Business</a>
+        <a href="index.html#scams">Scam Watch</a>
+        <a href="index.html#glossary">Word Guide</a>
+        <a href="digest.html">Weekly Email</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container">
+      <h1>The weekly email.</h1>
+      <p class="hero-sub">A ready-made email with this week's AI news, explained simply. Send it to the family every week — it takes about a minute.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+
+        <div class="digest-steps">
+          <div class="digest-step">
+            <span class="step-num">1</span>
+            <h3>We build it</h3>
+            <p>The email below is created fresh from this week's top AI stories, with a "word of the week" explained in plain English.</p>
+          </div>
+          <div class="digest-step">
+            <span class="step-num">2</span>
+            <h3>You copy it</h3>
+            <p>Press "Copy the email." Then open Gmail (or any email app), start a new message, and paste.</p>
+          </div>
+          <div class="digest-step">
+            <span class="step-num">3</span>
+            <h3>Send to the family</h3>
+            <p>Add your parents and uncles as recipients and hit send. Tip: save them as a group so next week is one click.</p>
+          </div>
+        </div>
+
+        <div class="digest-toolbar">
+          <button type="button" id="copy-email-btn" class="btn">Copy the email</button>
+          <button type="button" id="mailto-btn" class="btn btn-secondary">Open in my Mail app</button>
+          <span id="copy-confirm" class="copy-confirm" hidden>Copied! Now paste it into a new email.</span>
+        </div>
+
+        <div id="digest-status" class="news-status">Building this week's email from the latest news…</div>
+
+        <div id="email-preview" class="email-preview" hidden>
+          <div class="email-preview-header">
+            <div><span style="color:#6e6e73;">Subject:</span> <span class="subject-line" id="email-subject"></span></div>
+          </div>
+          <div class="email-preview-body" id="email-body"></div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Made with care to help everyone keep up with AI.</p>
+      <p class="footer-note">Stories come from public news websites. Links in the email open the full story on the original news site.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script src="digest.js"></script>
+</body>
+</html>

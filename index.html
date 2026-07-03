@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News in Plain English</title>
+  <meta name="description" content="The latest AI news explained in simple, everyday language — made for people who are new to technology.">
+  <meta name="theme-color" content="#0071e3">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="icon" type="image/png" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav class="site-nav" aria-label="Main sections">
+    <div class="container nav-inner">
+      <a class="nav-brand" href="index.html">AI News in Plain English</a>
+      <div class="nav-links">
+        <a href="#news">Today's News</a>
+        <a href="#basics">AI Basics</a>
+        <a href="#business">Your Business</a>
+        <a href="#scams">Scam Watch</a>
+        <a href="#glossary">Word Guide</a>
+        <a href="digest.html">Weekly Email</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container">
+      <h1>Keep up with AI.<br>No tech talk required.</h1>
+      <p class="hero-sub">The latest AI news, explained in plain English — with every confusing word one click away from making sense.</p>
+      <div class="text-size-control" role="group" aria-label="Text size">
+        <span class="text-size-label">Text size</span>
+        <span class="size-segment">
+          <button type="button" data-size="normal" class="size-btn active">A</button>
+          <button type="button" data-size="large" class="size-btn size-btn-large">A</button>
+          <button type="button" data-size="xlarge" class="size-btn size-btn-xlarge">A</button>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ===================== NEWS ===================== -->
+    <section id="news" class="section section-alt">
+      <div class="container">
+        <div class="section-heading">
+          <h2>Today's AI News</h2>
+          <button type="button" id="refresh-btn" class="btn">Get the latest news</button>
+        </div>
+        <p class="section-intro">
+          Real stories from trusted news websites, updated all day long.
+          Words with a <span class="jargon-demo">dotted&nbsp;underline</span> are technical terms —
+          <strong>click them</strong> and we'll explain what they mean in plain English.
+        </p>
+        <div id="category-filters" class="filter-bar" hidden>
+          <span class="filter-label">Show me:</span>
+          <button type="button" data-cat="all" class="filter-btn active">Everything</button>
+          <button type="button" data-cat="business" class="filter-btn">Money &amp; Business</button>
+          <button type="button" data-cat="gadgets" class="filter-btn">Gadgets &amp; Apps</button>
+          <button type="button" data-cat="safety" class="filter-btn">Safety &amp; Rules</button>
+        </div>
+        <div id="news-status" class="news-status">Loading the latest news for you…</div>
+        <div id="news-list" class="news-list"></div>
+        <p id="filter-empty" class="filter-empty" hidden>No stories in this group right now — check back later, or press "Everything".</p>
+      </div>
+    </section>
+
+    <!-- ===================== BASICS ===================== -->
+    <section id="basics" class="section">
+      <div class="container">
+        <h2>AI Basics. Start here.</h2>
+        <p class="section-intro">New to all this? These short explanations will get you up to speed. No tech background needed.</p>
+        <div class="card-grid">
+
+          <article class="card">
+            <div class="card-icon">🤖</div>
+            <h3>What is AI, really?</h3>
+            <p>AI (Artificial Intelligence) is computer software that can do tasks that used to need a human — like writing, answering questions, or spotting patterns.</p>
+            <p><strong>Think of it like this:</strong> a very fast assistant who has read millions of books and can help with almost any question — but who sometimes gets things wrong, so you still check their work.</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">💬</div>
+            <h3>What is ChatGPT?</h3>
+            <p>ChatGPT is the most famous AI tool. You type a question in normal English, and it types back an answer — like texting with a knowledgeable helper.</p>
+            <p><strong>Example:</strong> You could type "Write a friendly sign telling customers we close early on Sundays" and it writes one for you in seconds. Claude and Gemini are similar tools made by other companies.</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">🆓</div>
+            <h3>Does it cost money?</h3>
+            <p>Most AI tools have a free version that is plenty for getting started. Paid versions (usually around $20 a month) are faster and more capable, but you don't need one to begin.</p>
+            <p><strong>Tip:</strong> Start with the free version. If you find yourself using it every day, then consider paying.</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">⚠️</div>
+            <h3>Can I trust what AI says?</h3>
+            <p>Mostly, but not always. AI sometimes states wrong information with full confidence — experts call this a "hallucination."</p>
+            <p><strong>The golden rule:</strong> treat AI like a bright new employee. Great at drafts and ideas, but double-check anything important — prices, laws, medical advice, dates.</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">🔒</div>
+            <h3>Is it safe to use?</h3>
+            <p>Yes, using AI tools is safe for everyday tasks. Just follow one rule: don't type in passwords, bank details, or private customer information.</p>
+            <p><strong>Also good to know:</strong> scammers now use AI to write convincing fake emails. Be extra careful with unexpected messages asking for money or passwords — even ones that sound personal.</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">📱</div>
+            <h3>How do I try it?</h3>
+            <p>Go to <strong>chatgpt.com</strong> or <strong>claude.ai</strong> in your web browser — the same way you'd visit any website. Create a free account, then just type like you're sending a text message.</p>
+            <p><strong>First thing to try:</strong> "Explain what AI could do for a small [your type of business] in simple terms."</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== BUSINESS ===================== -->
+    <section id="business" class="section section-alt">
+      <div class="container">
+        <h2>AI for your business.</h2>
+        <p class="section-intro">You don't need to be a tech person. Here are real, simple ways small business owners are using AI today.</p>
+        <div class="card-grid">
+
+          <article class="card">
+            <div class="card-icon">✍️</div>
+            <h3>Writing made easy</h3>
+            <p>Emails, ads, social media posts, product descriptions, customer replies — tell the AI what you want to say, and it writes a polished draft.</p>
+            <p class="try-it"><strong>Try saying:</strong> "Write a warm thank-you email to a customer who has shopped with us for 10 years."</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">📋</div>
+            <h3>Paperwork &amp; admin</h3>
+            <p>AI can summarize long documents, draft contracts to review with your lawyer, organize notes, and turn a rambling voice memo into a tidy to-do list.</p>
+            <p class="try-it"><strong>Try saying:</strong> "Summarize this letter in 3 bullet points" (then paste the letter in).</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">💡</div>
+            <h3>A thinking partner</h3>
+            <p>Stuck on a decision? Ask AI to list the pros and cons, suggest ideas for a slow season, or explain a confusing government form.</p>
+            <p class="try-it"><strong>Try saying:</strong> "Give me 10 low-cost ideas to bring more customers into my bakery in winter."</p>
+          </article>
+
+          <article class="card">
+            <div class="card-icon">🌍</div>
+            <h3>Reaching more customers</h3>
+            <p>AI can translate your menu or flyer into other languages, write posts for Facebook, and help you answer online reviews professionally — even the unfair ones.</p>
+            <p class="try-it"><strong>Try saying:</strong> "Help me write a calm, professional reply to this negative review" (then paste it in).</p>
+          </article>
+
+        </div>
+        <div class="callout">
+          <h3>The honest truth</h3>
+          <p>You don't need to understand how AI works to benefit from it — just like you don't need to know how an engine works to drive a car. Start with one small task, like writing an email. That's how everyone starts.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== SCAM WATCH ===================== -->
+    <section id="scams" class="section">
+      <div class="container">
+        <h2>Scam Watch.</h2>
+        <p class="section-intro">Criminals now use AI too — and their tricks are getting very convincing. Here are the ones going around right now, and how to stay safe. Please share this with friends.</p>
+        <div class="card-grid">
+
+          <article class="card card-scam">
+            <div class="card-icon">📞</div>
+            <h3>The fake family phone call</h3>
+            <p>Scammers can copy a person's voice from a short video clip online. Then they call you sounding exactly like your child or grandchild: "I'm in trouble, I need money fast, don't tell anyone."</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Hang up and call the family member back on the number you already have for them. Even better — agree on a family code word for real emergencies.</p>
+          </article>
+
+          <article class="card card-scam">
+            <div class="card-icon">✉️</div>
+            <h3>The too-perfect email</h3>
+            <p>Scam emails used to be full of spelling mistakes. AI now writes them flawlessly — they can look exactly like your bank, the post office, or a supplier asking to "update payment details."</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Never click links in unexpected emails. Go to the company's website yourself, the way you usually do, or phone them using the number on your card or statement.</p>
+          </article>
+
+          <article class="card card-scam">
+            <div class="card-icon">🎥</div>
+            <h3>The fake celebrity video</h3>
+            <p>AI can make a video of a famous person "recommending" an investment or miracle product — mouth movements, voice and all. These are fakes designed to take your money.</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Treat any video promising easy money as fake, full stop. Real investments are never advertised through celebrity videos on social media.</p>
+          </article>
+
+          <article class="card card-scam">
+            <div class="card-icon">🔎</div>
+            <h3>The fake customer service number</h3>
+            <p>Scammers put fake "support phone numbers" on the internet for banks and airlines. You search, call the number, and a convincing "agent" asks for your card details or remote access to your computer.</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Get phone numbers only from the back of your bank card, a paper statement, or the company's official app — not from a web search.</p>
+          </article>
+
+        </div>
+        <div class="callout">
+          <h3>The three golden rules</h3>
+          <p>1) No real bank, government office, or company ever asks for gift cards or a money transfer to "fix" something. 2) Scammers always create urgency — real organizations let you take your time. 3) When in doubt, hang up and check with someone you trust. Being careful is never rude.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== GLOSSARY ===================== -->
+    <section id="glossary" class="section section-alt">
+      <div class="container">
+        <h2>Word Guide.</h2>
+        <p class="section-intro">The tech words you'll see in the news, translated into plain English. These are the same explanations that pop up when you click a dotted word in a headline.</p>
+        <div id="glossary-list" class="glossary-list"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Made with care to help everyone keep up with AI.</p>
+      <p class="footer-note">News headlines come from public news websites (Google News, TechCrunch, The Verge). Clicking a headline opens the full story on the original news site.</p>
+    </div>
+  </footer>
+
+  <!-- Popup for jargon explanations -->
+  <div id="jargon-popup" class="jargon-popup" hidden>
+    <div class="jargon-popup-box" role="dialog" aria-modal="true" aria-labelledby="jargon-popup-term">
+      <button type="button" class="jargon-popup-close" aria-label="Close explanation">Close</button>
+      <h3 id="jargon-popup-term"></h3>
+      <p id="jargon-popup-meaning"></p>
+      <p id="jargon-popup-example" class="jargon-popup-example"></p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

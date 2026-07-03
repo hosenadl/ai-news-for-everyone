@@ -1,0 +1,6 @@
+# Never commit secrets (the key lives in ../.env, outside this folder, but belt and suspenders)
+.env
+*.env
+
+node_modules/
+.DS_Store
