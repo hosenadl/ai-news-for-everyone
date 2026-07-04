@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-04T04:03:56.138Z",
+  "generated_at": "2026-07-04T09:02:33.585Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Zuckerberg: Meta’s AI reorganization goals 'haven’t come to fruition’",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0w0ZHM5UFpPeEJEZVF0a2x0enBGQmJOank5S2FrZ1BVUmpJdmpuSjZ1V3FWUkhhXzA4RVhFdnN0N0xlcUU2SkQ4Q0VheExzUG9nS012WXpXLXFPdTNLQzRLcDVKN2hGbnpYUWt3RWcxMzRkQnNJSlRReVR3ZkpWTkpvdDF5dGJDLXZST0pXY0JkQQ?oc=5",
-      "source": "Yahoo Finance Australia",
-      "date": "2026-07-04T02:33:00.000Z",
-      "simple_summary": "Mark Zuckerberg said that Meta's plan to reorganize around AI didn't work out the way he wanted it to.",
-      "why_it_matters": "This mostly matters to people who invested in Meta stock — nothing you need to act on."
+      "title": "AI did not just demand more electricity — it demanded water. By 2025, U.S. data centres, increasingly expanded for AI workloads, were consuming nearly one trillion litres of water a year, much of it used in cooling systems that shed heat by evaporating water i",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOTnBvUXd1cTBFUHB0VlNSd2RkajRFeVFnbHlSZkRFV3J3VXRTY0tLQko4VEdORFFWVEVWWDFta2p5MEY1VllwNDY2UWVkRUM4ekdXS3ZyS0pHcVd4N1VoOHdoeHExQjNkRlBQQVBfYVhNcm5aTy1ZWGc5a2piSFhEUHh3TjRhSnVtV1U5M3plYVZid1p2LV9tQk94Z05jdm9qM0duM0YxMWJvbUlMS2lndUNQWVZuY0owMXJiWEg0cF9jWkZwNmxLaGF6RlQ5U3I1ZEhmUDREUEllZ1Z1YnMzSl9HVlhYQ3FYSlpsWDZISEZZMkk2dkUtWjNQYlFZYmFsUHdma0psUmVBYjQtMDNVNzRTMEpxQU41b09LZnFrekFzMmJQdU5TSmpZY1NfeFRjSkw2Wg?oc=5",
+      "source": "Space Daily",
+      "date": "2026-07-04T01:10:30.000Z",
+      "simple_summary": "AI data centers (the huge computer buildings that power AI) are using nearly a trillion liters of water every year to cool down all their equipment, because running AI creates a lot of heat.",
+      "why_it_matters": "This matters to everyone because it uses precious water resources in places that might already have water shortages, similar to how a factory using too much of a shared town well affects the whole community."
     },
     {
       "title": "The only AI glossary you’ll need this year",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFI5UTA2VEN1MDducW9ac0w0QlJ3N3BVdVAxNFNkdE9pMHRrRlZIRnNSS1hnQ2d1dHUzX3ZfTUs0YjIzY24wQTJtTXlZOGdiME9qRnhzUkRjMURuQW5EUWlRaTlrZUFuXzIxZDdaeGJyM19MTWQwN25Bc2EzVTVLb18yeHZ0ZzNNRjNBOXJ1REgyWDYxMHA1OThoMVp3YzBPNm5MckNleEJpWDJZUmd4a21MQmU5bGZPdkE?oc=5",
       "source": "TechCrunch",
       "date": "2026-07-03T21:20:00.000Z",
-      "simple_summary": "TechCrunch created a guide explaining all the AI words and terms people use.",
-      "why_it_matters": "This could be helpful if you keep hearing AI words and want to understand what they mean."
+      "simple_summary": "TechCrunch made a guide explaining all the confusing AI words people use.",
+      "why_it_matters": "This is a helpful reference if you get lost reading about AI, but it's not news about anything that actually changed."
+    },
+    {
+      "title": "Libertyville middle school teacher charged after authorities say he created AI child sex abuse materials",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmhiaEszcENKMmZZWVhycFEwLXVNUTl2Vy1Sdnphb1RLVjVTNVlNX2MxZGxuZk1McFJ4TUFDOTFzbTh2RThMVVMyRlZJak1BUF9tN2t5MU1Qcmg5a2twRVV0NDJzY2Q1VUx3dU9FNXVHNW5HVTlNMWNHNFJZTGtMcmRVOUhnazc0d01NUFMwalpSNk01eklZRmp1YzNsOVc2c2Zfc01PY0FLb1A4VjdEQkQ3aG5ZWF92Mm0xRHFwV1VtSy1JTGc?oc=5",
+      "source": "Daily Herald",
+      "date": "2026-07-03T19:23:50.000Z",
+      "simple_summary": "A teacher was arrested for using AI to create illegal child abuse images.",
+      "why_it_matters": "This is a serious crime showing that AI tools can be misused for terrible purposes, and it's a reminder that these technologies need rules and enforcement."
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVpKdXQwN0ZQU2E4WEpvNS1iTXlfLURXYkFGQzRkcjdnMDJNcWNTOWN6blpWN0N5NVBicGlqbnVET0llUGFoUFZ2SjZ3VE1ReDlXVjA4TjVkX2JTanQybU1FUUUzb1cwaWFfZ0RlWTVkRnlUVGlJTGFTSzNhd0hTak12bTBMb190TlZPYnFCWVFRbmNiUG9JNDBpXzBMVTRqREdFZFJqaw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-03T18:51:00.000Z",
+      "simple_summary": "A financial writer is comparing two tech companies' stock prices to say which AI investment might be better.",
+      "why_it_matters": "This mostly matters to investors buying stocks — nothing you need to act on unless you're managing retirement investments."
     },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch",
       "date": "2026-07-03T18:43:00.000Z",
-      "simple_summary": "There are other web browsers besides Chrome and Safari that you can use to look at websites.",
-      "why_it_matters": "If you're frustrated with your current browser, you have other options to try — but this isn't urgent."
+      "simple_summary": "Different web browsers (like Chrome and Safari) are competing with each other, and there are other options available to choose from.",
+      "why_it_matters": "If you're frustrated with your current browser, you could try a different one, but this is mainly just competition between tech companies."
+    },
+    {
+      "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-03T18:18:00.000Z",
+      "simple_summary": "The author says people debate whether AI is ethical but society isn't actually changing how AI is being used.",
+      "why_it_matters": "This reflects a real problem: we talk about AI concerns but don't have strong enough rules or action plans yet."
     },
     {
       "title": "Gen Z isn’t happy about AI. Even when mom helped invent it.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFJKejd4eXQ4MEthX1YxNnpkMnZqamxrUGtNTUVwNXBtU2c2a0Y3WVkzMmlDZWpQZU4zUHYtNkZ5Nzk4OTJiNEZISHkwTHZLZkVHbHdlM0RYMFpZYXdOa2FQZHc3eGZtN3I2NEtRSlZRY09NTmcweXZZcS1SVC00X1NGZ3huUQ?oc=5",
       "source": "The Boston Globe",
       "date": "2026-07-03T16:00:42.000Z",
-      "simple_summary": "Young people are unhappy about how AI is being used, even though some of their parents helped create it.",
-      "why_it_matters": "This is mainly about what young adults think — doesn't directly affect your business or daily life."
+      "simple_summary": "Young people don't like AI, even when their parents work in the AI industry.",
+      "why_it_matters": "This honestly doesn't affect you much unless you're a parent worried about what your kids think, but it shows generational disagreement about AI."
     },
     {
       "title": "Anthropic wants to develop its own drugs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "source": "The Verge",
       "date": "2026-07-03T13:56:52.000Z",
-      "simple_summary": "Anthropic, a company that makes AI tools, created a new AI helper designed to help scientists discover and make medicines.",
-      "why_it_matters": "This is mostly interesting to doctors and researchers — unless you work in medicine or science, this won't affect you yet."
-    },
-    {
-      "title": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaF9maFpfZVhyc3RQM3lLSzhxeUxZZzRPMWZsQXRSY01QbWpNYi1COEhsNW5ydDRENC1Wa3Q4U3ctM1BqYk52X1UxeEVySVVDRFZGLWdXbkdTWjJIeFJ2bVJRa1RkQTBiLVBaYl9vYWY5eTdlWFBzenpLSWJmZXJsalFrazl2d09MV2NNVXJTZHF6YzR3c2h3bFlhVXpQZFJ3eFdITkVnVi1IOFYwT0Y0T2xZZWRFVUk?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-03T12:00:00.000Z",
-      "simple_summary": "There are apps that use AI to remove clothes from people's photos without permission, and child safety experts are warning parents about them.",
-      "why_it_matters": "If you have grandchildren, it's worth knowing these apps exist so you can talk to them about protecting themselves online."
-    },
-    {
-      "title": "Journalist Karen Hao on Sam Altman, OpenAI &amp; the “Quasi-Religious” Push for Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZ2pKc2dJTWtnTENqV08xUnMxbGxnMm0xYjFPYnJMb3pOd09vQUhYRFdaUEhUM2IwUktMaVdmeVNNQV8wRnVpdmNzUjlqREdud3MwV3NUa2hYVEc1QW5IbVJ0T2JDV19vZmxJTmFoVmU4VkRSbThsdElSYmc?oc=5",
-      "source": "Democracy Now!",
-      "date": "2026-07-03T11:54:19.000Z",
-      "simple_summary": "A journalist named Karen Hao talked about Sam Altman, who runs OpenAI, and how he talks about AI in a very enthusiastic, almost religious way.",
-      "why_it_matters": "This is mostly about how tech leaders talk and what they believe — doesn't directly affect you."
+      "simple_summary": "A company called Anthropic is building AI tools to help scientists discover new medicines by organizing information and making pictures of data.",
+      "why_it_matters": "This could eventually lead to new drugs and treatments faster, but it's very early-stage and mostly matters to pharmaceutical researchers right now."
     },
     {
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "source": "The Verge",
       "date": "2026-07-03T11:49:10.000Z",
-      "simple_summary": "Midjourney showed a video of an AI ultrasound machine it wants to sell to spas and hospitals, but hasn't proven yet that it actually works well.",
-      "why_it_matters": "This is a tech company's exciting idea, but until they prove it works, it's just a promise — not something to consider yet."
+      "simple_summary": "A company called Midjourney (known for making AI pictures) showed a video of a new ultrasound machine they're developing, but hasn't yet proven it actually works well.",
+      "why_it_matters": "If this ever works, it could provide cheap medical scans without radiation, but for now it's just an idea — don't expect changes to your doctor visits soon."
     },
     {
-      "title": "Artificial intelligence for food innovation",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMG1mV0ZMUTk3UzAzRlVxRTRBdWFrOFdRUnlITXRWUER0OHl4a2VUOWhyTld3RHV0ZWtXUnRsSVNmTHFwaXRYR0ZMMUNudVFQVlE4RGEtMllNZW53a3R3?oc=5",
-      "source": "Nature",
-      "date": "2026-07-03T09:35:43.000Z",
-      "simple_summary": "Scientists are using AI to help create new types of food and food products.",
-      "why_it_matters": "This could eventually affect what food products are available in stores, but it's still early research."
-    },
-    {
-      "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
+      "title": "Argentina's plan for AI-run companies can't avoid humans",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
       "source": "Reuters",
-      "date": "2026-07-03T05:00:00.000Z",
-      "simple_summary": "An article discusses a disagreement in Silicon Valley about how AI companies are copying each other's ideas.",
-      "why_it_matters": "This is about investor and business competition in tech — nothing you need to pay attention to."
+      "date": "2026-07-03T10:21:05.000Z",
+      "simple_summary": "Argentina is planning to allow companies run entirely by AI, but they're realizing that's not completely possible — humans are still needed somewhere.",
+      "why_it_matters": "This is mostly relevant to investors and policy experts debating the future; it won't affect your daily life right now."
     },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "source": "TechCrunch",
       "date": "2026-07-02T23:38:10.000Z",
-      "simple_summary": "Mark Zuckerberg told Meta employees that AI agents (computer helpers that do tasks on their own) haven't improved as fast as he expected.",
-      "why_it_matters": "This mostly matters to Meta investors — nothing you need to act on."
+      "simple_summary": "Mark Zuckerberg (who runs Meta) told his employees that their AI isn't improving as quickly as he expected it to.",
+      "why_it_matters": "This mostly matters to tech investors and Meta employees — it shows AI progress isn't as fast as some hype suggests, but nothing changes for regular people."
     },
     {
       "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KUjhVS0NLS2IwTEdxVFJUWmUtal9UcEVjTGVOdlFUR1lhM1RJQl9tZUNpajlKV0tiQWx2Z3pSMVRQdWJNeThfZ1VQWUlqb3pIWUhja1JpUjRYUQ?oc=5",
       "source": "BBC",
       "date": "2026-07-02T23:02:09.000Z",
-      "simple_summary": "A computer scientist named Yann LeCun is working on making AI systems that are more adaptable and flexible.",
-      "why_it_matters": "This is technical research that engineers care about — doesn't affect your daily life right now."
+      "simple_summary": "A famous AI scientist is working on making AI that's more flexible and adaptable rather than just good at one specific task.",
+      "why_it_matters": "This is early research that might make AI better in the future, but it's mainly for engineers and scientists to follow."
     }
   ]
 }
