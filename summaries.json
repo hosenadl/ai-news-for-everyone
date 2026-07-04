@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-04T09:02:33.585Z",
+  "generated_at": "2026-07-04T14:00:58.113Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI did not just demand more electricity — it demanded water. By 2025, U.S. data centres, increasingly expanded for AI workloads, were consuming nearly one trillion litres of water a year, much of it used in cooling systems that shed heat by evaporating water i",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOTnBvUXd1cTBFUHB0VlNSd2RkajRFeVFnbHlSZkRFV3J3VXRTY0tLQko4VEdORFFWVEVWWDFta2p5MEY1VllwNDY2UWVkRUM4ekdXS3ZyS0pHcVd4N1VoOHdoeHExQjNkRlBQQVBfYVhNcm5aTy1ZWGc5a2piSFhEUHh3TjRhSnVtV1U5M3plYVZid1p2LV9tQk94Z05jdm9qM0duM0YxMWJvbUlMS2lndUNQWVZuY0owMXJiWEg0cF9jWkZwNmxLaGF6RlQ5U3I1ZEhmUDREUEllZ1Z1YnMzSl9HVlhYQ3FYSlpsWDZISEZZMkk2dkUtWjNQYlFZYmFsUHdma0psUmVBYjQtMDNVNzRTMEpxQU41b09LZnFrekFzMmJQdU5TSmpZY1NfeFRjSkw2Wg?oc=5",
-      "source": "Space Daily",
-      "date": "2026-07-04T01:10:30.000Z",
-      "simple_summary": "AI data centers (the huge computer buildings that power AI) are using nearly a trillion liters of water every year to cool down all their equipment, because running AI creates a lot of heat.",
-      "why_it_matters": "This matters to everyone because it uses precious water resources in places that might already have water shortages, similar to how a factory using too much of a shared town well affects the whole community."
+      "title": "The fanfiction community is at war with AI — and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge",
+      "date": "2026-07-04T12:00:00.000Z",
+      "simple_summary": "Fanfiction writers are fighting against other fanfiction writers who use AI to write stories. The methods people are using to catch AI writers might accidentally catch regular writers too.",
+      "why_it_matters": "If you write fanfiction as a hobby, you could get accused unfairly — but if you just read fanfiction, this doesn't affect you."
     },
     {
       "title": "The only AI glossary you’ll need this year",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFI5UTA2VEN1MDducW9ac0w0QlJ3N3BVdVAxNFNkdE9pMHRrRlZIRnNSS1hnQ2d1dHUzX3ZfTUs0YjIzY24wQTJtTXlZOGdiME9qRnhzUkRjMURuQW5EUWlRaTlrZUFuXzIxZDdaeGJyM19MTWQwN25Bc2EzVTVLb18yeHZ0ZzNNRjNBOXJ1REgyWDYxMHA1OThoMVp3YzBPNm5MckNleEJpWDJZUmd4a21MQmU5bGZPdkE?oc=5",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch",
       "date": "2026-07-03T21:20:00.000Z",
-      "simple_summary": "TechCrunch made a guide explaining all the confusing AI words people use.",
-      "why_it_matters": "This is a helpful reference if you get lost reading about AI, but it's not news about anything that actually changed."
-    },
-    {
-      "title": "Libertyville middle school teacher charged after authorities say he created AI child sex abuse materials",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmhiaEszcENKMmZZWVhycFEwLXVNUTl2Vy1Sdnphb1RLVjVTNVlNX2MxZGxuZk1McFJ4TUFDOTFzbTh2RThMVVMyRlZJak1BUF9tN2t5MU1Qcmg5a2twRVV0NDJzY2Q1VUx3dU9FNXVHNW5HVTlNMWNHNFJZTGtMcmRVOUhnazc0d01NUFMwalpSNk01eklZRmp1YzNsOVc2c2Zfc01PY0FLb1A4VjdEQkQ3aG5ZWF92Mm0xRHFwV1VtSy1JTGc?oc=5",
-      "source": "Daily Herald",
-      "date": "2026-07-03T19:23:50.000Z",
-      "simple_summary": "A teacher was arrested for using AI to create illegal child abuse images.",
-      "why_it_matters": "This is a serious crime showing that AI tools can be misused for terrible purposes, and it's a reminder that these technologies need rules and enforcement."
-    },
-    {
-      "title": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVpKdXQwN0ZQU2E4WEpvNS1iTXlfLURXYkFGQzRkcjdnMDJNcWNTOWN6blpWN0N5NVBicGlqbnVET0llUGFoUFZ2SjZ3VE1ReDlXVjA4TjVkX2JTanQybU1FUUUzb1cwaWFfZ0RlWTVkRnlUVGlJTGFTSzNhd0hTak12bTBMb190TlZPYnFCWVFRbmNiUG9JNDBpXzBMVTRqREdFZFJqaw?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-03T18:51:00.000Z",
-      "simple_summary": "A financial writer is comparing two tech companies' stock prices to say which AI investment might be better.",
-      "why_it_matters": "This mostly matters to investors buying stocks — nothing you need to act on unless you're managing retirement investments."
+      "simple_summary": "TechCrunch published a list explaining all the new AI words and phrases that people keep using.",
+      "why_it_matters": "This is just a reference tool — helpful if you want to understand the words you're hearing, but not something you need to do anything about."
     },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch",
       "date": "2026-07-03T18:43:00.000Z",
-      "simple_summary": "Different web browsers (like Chrome and Safari) are competing with each other, and there are other options available to choose from.",
-      "why_it_matters": "If you're frustrated with your current browser, you could try a different one, but this is mainly just competition between tech companies."
-    },
-    {
-      "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-03T18:18:00.000Z",
-      "simple_summary": "The author says people debate whether AI is ethical but society isn't actually changing how AI is being used.",
-      "why_it_matters": "This reflects a real problem: we talk about AI concerns but don't have strong enough rules or action plans yet."
-    },
-    {
-      "title": "Gen Z isn’t happy about AI. Even when mom helped invent it.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFJKejd4eXQ4MEthX1YxNnpkMnZqamxrUGtNTUVwNXBtU2c2a0Y3WVkzMmlDZWpQZU4zUHYtNkZ5Nzk4OTJiNEZISHkwTHZLZkVHbHdlM0RYMFpZYXdOa2FQZHc3eGZtN3I2NEtRSlZRY09NTmcweXZZcS1SVC00X1NGZ3huUQ?oc=5",
-      "source": "The Boston Globe",
-      "date": "2026-07-03T16:00:42.000Z",
-      "simple_summary": "Young people don't like AI, even when their parents work in the AI industry.",
-      "why_it_matters": "This honestly doesn't affect you much unless you're a parent worried about what your kids think, but it shows generational disagreement about AI."
+      "simple_summary": "This article talks about different web browsers you can use instead of Chrome or Safari (the programs you use to look at websites).",
+      "why_it_matters": "This is mainly for people interested in trying different browser options — nothing urgent for your everyday use."
     },
     {
       "title": "Anthropic wants to develop its own drugs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "source": "The Verge",
       "date": "2026-07-03T13:56:52.000Z",
-      "simple_summary": "A company called Anthropic is building AI tools to help scientists discover new medicines by organizing information and making pictures of data.",
-      "why_it_matters": "This could eventually lead to new drugs and treatments faster, but it's very early-stage and mostly matters to pharmaceutical researchers right now."
+      "simple_summary": "Anthropic, an AI company, announced a new tool called Claude Science to help scientists organize their research and create charts and diagrams.",
+      "why_it_matters": "This only matters if you're a scientist or involved in medical research — regular business owners won't use this."
     },
     {
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "source": "The Verge",
       "date": "2026-07-03T11:49:10.000Z",
-      "simple_summary": "A company called Midjourney (known for making AI pictures) showed a video of a new ultrasound machine they're developing, but hasn't yet proven it actually works well.",
-      "why_it_matters": "If this ever works, it could provide cheap medical scans without radiation, but for now it's just an idea — don't expect changes to your doctor visits soon."
-    },
-    {
-      "title": "Argentina's plan for AI-run companies can't avoid humans",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-03T10:21:05.000Z",
-      "simple_summary": "Argentina is planning to allow companies run entirely by AI, but they're realizing that's not completely possible — humans are still needed somewhere.",
-      "why_it_matters": "This is mostly relevant to investors and policy experts debating the future; it won't affect your daily life right now."
+      "simple_summary": "An AI company called Midjourney showed a video of an ultrasound machine they're developing that uses AI, but they haven't proven yet that it actually works well.",
+      "why_it_matters": "This is mostly hype right now — the machine isn't available yet and may never work as promised, so there's nothing for you to act on."
     },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "source": "TechCrunch",
       "date": "2026-07-02T23:38:10.000Z",
-      "simple_summary": "Mark Zuckerberg (who runs Meta) told his employees that their AI isn't improving as quickly as he expected it to.",
-      "why_it_matters": "This mostly matters to tech investors and Meta employees — it shows AI progress isn't as fast as some hype suggests, but nothing changes for regular people."
+      "simple_summary": "Mark Zuckerberg told his employees that AI progress at Meta is moving slower than he expected.",
+      "why_it_matters": "This mostly matters to investors — it's nothing that affects your day-to-day business."
     },
     {
-      "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KUjhVS0NLS2IwTEdxVFJUWmUtal9UcEVjTGVOdlFUR1lhM1RJQl9tZUNpajlKV0tiQWx2Z3pSMVRQdWJNeThfZ1VQWUlqb3pIWUhja1JpUjRYUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-07-02T23:02:09.000Z",
-      "simple_summary": "A famous AI scientist is working on making AI that's more flexible and adaptable rather than just good at one specific task.",
-      "why_it_matters": "This is early research that might make AI better in the future, but it's mainly for engineers and scientists to follow."
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T20:11:59.000Z",
+      "simple_summary": "A sandwich shop called Jersey Mike's mentioned AI in their documents when they went public (sold stock to investors), even though AI has nothing to do with their business.",
+      "why_it_matters": "This shows companies are just adding AI into their plans to sound trendy — if you see an AI mention that doesn't make sense, it's probably just hype."
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T18:44:02.000Z",
+      "simple_summary": "Meta (Facebook's parent company) quietly released an app where you can type descriptions and have AI create small games for you to play.",
+      "why_it_matters": "This is an experimental game app — only relevant if you like trying out new gaming apps from Meta."
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T18:31:09.000Z",
+      "simple_summary": "Anthropic is talking to Samsung about building a special computer chip designed just for AI.",
+      "why_it_matters": "This is mostly for investors and engineers — it doesn't change anything for regular business owners."
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T15:20:51.000Z",
+      "simple_summary": "The CEO of OpenAI suggested giving 5% of his company to the U.S. government to let regular people share in the profits from AI.",
+      "why_it_matters": "This is a discussion about how to split money from AI companies with the public — mostly relevant to investors and policy people."
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T13:53:00.000Z",
+      "simple_summary": "Microsoft announced a new division with $2.5 billion to help companies set up and use AI systems.",
+      "why_it_matters": "If you run a business and Microsoft approaches you about AI services, this explains they're now offering that — but you'd need to decide if it helps your business."
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch",
+      "date": "2026-07-02T12:00:00.000Z",
+      "simple_summary": "Someone created an automated script using AI tools to message many women on Instagram for dating purposes.",
+      "why_it_matters": "This is an example of AI being used in a way that bothers people — nothing you need to worry about unless you're dating online."
     }
   ]
 }
