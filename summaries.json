@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-05T04:31:52.428Z",
+  "generated_at": "2026-07-05T09:24:00.347Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Opinion | ‘China shock 3.0’ is coming. And it’ll be AI-powered robots",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWxDekp1cE1MN0xOek03NVNMVnVDdURQUVVFaFVUZ05jdV9LUHpHOXdYYnVLNWZhejlJNEhOVE8xMS1CUXlMU3E2VUdTUXdob2VIbC1ScmJSeUdLYVRIR1R1U1E5bkhWa3liVGhKaWZuR2pTTWdPbDctY0N4QWJLZG9icmdIVk1oSXdLMFJxS0pWRFlzRUxvbk9yTlkxQnh5aHJ2SzZSZEZ3SUpjbnZ30gGvAUFVX3lxTE1mbk1vR3d2czctT1FncV9vWndkYTVZZVNBVl9ieTRST0tveUZkcFFVMDFlMEdITUlqQkZhMkNYaUFzT1BOUXV5eEpUel9aYlZ5dlc2TE9zZi04MHhMajdfZXhrUEM5NGVRUU51c3lMem45aURoOFVURWtPNzNITDZBSnFqVUJkQjA0bWZ6WjYtQzdQRzdnaHUwRFk0cTZZR3V1QXQtTTVQOHNRR0NRS1U?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-07-05T08:30:05.000Z",
+      "simple_summary": "An opinion piece warns that China will soon use AI-powered robots to compete with other countries in manufacturing and business, similar to how China became a major factory for the world decades ago.",
+      "why_it_matters": "This is mostly about international economics and what investors should watch for — not something you need to do anything about right now."
+    },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "source": "TechCrunch",
       "date": "2026-07-04T20:55:25.000Z",
-      "simple_summary": "Google made an advertisement imagining what would happen if the people who wrote the Declaration of Independence had used Google's AI tools to help them write it.",
-      "why_it_matters": "This is just an advertisement — nothing you need to act on. It's Google showing off its tools in a creative way."
+      "simple_summary": "Google made an advertisement imagining what the Founding Fathers could have written if they'd had access to Google's AI writing tools.",
+      "why_it_matters": "This is just marketing — Google is showing off its AI tools, but it doesn't affect how you run your business or life."
     },
     {
       "title": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazl3cHZDdzFzYU9wSGZDOXI2bXN4VTZOYjYxSi1JRHp5LWduTzBtcXpjOHdpX0lhWUg5NHlPNVNNM1JnaWI0UHZQQ09ZbzBTaHI0U1RJVjRKcHRvODRyT1g1WE5PWm82S2lab0hkYjZma2xRZU9oT2J0UzNLeHVBQ3JWSjhFM1h5OU9ja3VBYktJQmhUa2tYSw?oc=5",
       "source": "The Motley Fool",
       "date": "2026-07-04T20:30:00.000Z",
-      "simple_summary": "An investment website is promoting a way to make money from the AI industry boom with a small amount of money.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on. This is about buying stocks, not about AI affecting your daily life."
+      "simple_summary": "",
+      "why_it_matters": ""
     },
     {
       "title": "AI security questions loom over NATO summit",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUDRUeTFWZUxRRk96eWdGQVJsZjI5bC14YmFMRldxYlRSVHQyYllzX1VCczhyeGFqYV80M3RYZ0duV0l3dHlsY0dhbkJ0N1lPajk4NWdJZ3VEZm56Z25qa1ZJaUJGWVdTMXdoZkoxNkJPaUZMVmo3UVNrWmNmUQ?oc=5",
       "source": "Politico",
       "date": "2026-07-04T20:00:00.000Z",
-      "simple_summary": "Military and political leaders at NATO are worried about security risks from artificial intelligence.",
-      "why_it_matters": "This is about national defense issues — nothing you need to act on personally or for your small business."
-    },
-    {
-      "title": "AI race weakens climate pledges at Google, Amazon",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1dYb2poamFaRmM2MDVjUmhJcWpsM2lZb2I3cElLUWNDaThjTFR5NkZzbHI5d2RENzctTU1GcTRIWEFXQngyNVNaOHBNaVo1UTlrMjY2U3k4SjJnQVBzazJaM19MVnhPQ1FjR1Yta3VwcUxUV2VFQV9EWmlyZHFFOEx2S0xIZEFiX2VoeVhqdGNKaUtmX0diUjFkWmVuQkFsQlg3NldtQjFoaVdu?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-04T20:00:00.000Z",
-      "simple_summary": "Google and Amazon are focusing so much on AI development that they may not be following through on their promises to help the environment.",
-      "why_it_matters": "This shows big companies sometimes choose profit over environmental goals, but it doesn't directly affect how you use their services."
+      "simple_summary": "Military and government leaders meeting at NATO are discussing security concerns about artificial intelligence.",
+      "why_it_matters": "This is about high-level government policy — nothing specific you need to act on."
     },
     {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "source": "TechCrunch",
       "date": "2026-07-04T18:00:05.000Z",
-      "simple_summary": "A company called Midjourney (which makes AI art tools) is asking Hollywood studios in court to explain how they're using AI themselves.",
-      "why_it_matters": "This is mostly interesting to lawyers and Hollywood — nothing you need to worry about."
+      "simple_summary": "A company called Midjourney (which makes AI art tools) is demanding that Hollywood studios tell them how those studios use AI in their own work, as part of a legal fight.",
+      "why_it_matters": "This is mostly interesting to lawyers and entertainment companies — it doesn't directly affect most small business owners."
     },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "source": "TechCrunch",
       "date": "2026-07-04T16:32:08.000Z",
-      "simple_summary": "A large Chinese company called Alibaba has told its employees they cannot use a tool called Claude Code because it thinks it's too risky.",
-      "why_it_matters": "This mostly matters to large companies and their employees — it doesn't affect small business owners unless you use Claude Code."
+      "simple_summary": "The Chinese company Alibaba told its employees they cannot use a tool called Claude Code because it considers it too risky.",
+      "why_it_matters": "This is a corporate policy at one big company — it doesn't affect your business unless you work there."
     },
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "source": "TechCrunch",
       "date": "2026-07-04T15:51:32.000Z",
-      "simple_summary": "A new AI company called Mistral AI is trying to become a major competitor to OpenAI by offering AI tools that lots of people can use.",
-      "why_it_matters": "This matters mainly to investors and tech companies — consumers will benefit if more competition makes AI tools better and cheaper over time."
+      "simple_summary": "A company called Mistral AI is building AI tools and has raised a lot of money, with the goal of making advanced AI available to more people instead of keeping it exclusive.",
+      "why_it_matters": "This means more AI options may become available to small business owners in the future, but nothing is changing right now."
     },
     {
       "title": "For one small business, AI was key to a quick start and expansion",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
       "source": "Reuters",
       "date": "2026-07-04T15:20:44.000Z",
-      "simple_summary": "A small business used AI tools to help it get started and grow faster.",
-      "why_it_matters": "This shows AI can help small business owners save time and money — it might be worth exploring how AI could help your own business."
+      "simple_summary": "A small business used AI tools to get started quickly and grow faster than it might have otherwise.",
+      "why_it_matters": "This shows that AI can genuinely help small businesses save time and money — worth paying attention to if you're looking to streamline your work."
     },
     {
       "title": "The fanfiction community is at war with AI — and itself",
       "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "source": "The Verge",
       "date": "2026-07-04T12:00:00.000Z",
-      "simple_summary": "Writers of fan fiction are arguing with each other about whether people should use AI to help write stories, and some are trying to catch people who use AI.",
-      "why_it_matters": "If you enjoy reading fan fiction online, you might notice more conflict in those communities, but this doesn't directly affect most people."
+      "simple_summary": "Writers of fanfiction (stories based on existing movies or books) are fighting with each other about whether anyone should use AI to write stories, and some are trying to catch and punish AI use.",
+      "why_it_matters": "Unless you write fanfiction online, this doesn't affect you — it's a community debate among creative writers."
     },
     {
       "title": "‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU5sN0JqMFdYMXJHNUtVSWw3TXF5dDhOT1h3SWpiVWVlS1VBTktxZ2U3MzRjQlFuUVhJMFk1TlZleEwyUmJKWnJqZGFlZWZyTDltbUFTU2tjTnlKV2lPV3JuMzlYdHJ3QzVldHZoNEl3ajJseXpzai15eUxwTVdzaXdtVDIwNTg?oc=5",
       "source": "The New York Times",
       "date": "2026-07-04T09:00:29.000Z",
-      "simple_summary": "Some voters are asking AI chatbots like ChatGPT to help them decide who to vote for in elections.",
-      "why_it_matters": "If you're voting soon, be careful about trusting an AI to tell you who to vote for — you should do your own research and thinking on important decisions."
+      "simple_summary": "Some voters are asking AI tools like ChatGPT to help them decide who to vote for in elections.",
+      "why_it_matters": "It's worth knowing that some people are using AI for voting advice, but you should think for yourself about candidates — an AI doesn't know your local issues."
     },
     {
       "title": "The only AI glossary you’ll need this year",
       "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch",
       "date": "2026-07-03T21:20:00.000Z",
-      "simple_summary": "A website created a dictionary explaining all the new words and phrases people use when talking about artificial intelligence.",
-      "why_it_matters": "This could be helpful if you want to understand what people mean when they use confusing AI terminology."
+      "simple_summary": "TechCrunch published a dictionary explaining new AI words and phrases that have become common.",
+      "why_it_matters": "Not urgent — but if you're curious about what AI terms mean when you hear them, this could be useful reference material."
     },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch",
       "date": "2026-07-03T18:43:00.000Z",
-      "simple_summary": "An article talks about different web browsers you can use instead of Chrome or Safari.",
-      "why_it_matters": "This isn't really about AI — it's about web browsers, which is a different topic entirely."
+      "simple_summary": "An article reviews alternative web browsers (the programs you use to visit websites) that people can use instead of Chrome and Safari.",
+      "why_it_matters": "This is about picking a web browser — mostly a personal choice that doesn't require urgent action."
     }
   ]
 }
