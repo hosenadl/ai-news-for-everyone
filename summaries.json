@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-05T14:11:24.400Z",
+  "generated_at": "2026-07-05T19:43:43.074Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Are we human? Why ByteDance and Alibaba are disabling AI agents in China",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0xnWV8yeVV2YlgzeWZkNlV5a3g2SWFJemdKZTgzRlBRS0Vqb3JJOXN4NE02QkY1MFhLc21BRlJmOWNod29lTkEwNnNsc19qRTNuSlhTYjN3WmVONlZRc1FJMTVaUkE0Mk4xV1FpU0RONVFSZnJhSFpGT2ZzTUFuVGphMnc4NktHSTRyS1lyYV8zdjBBc2Mtck02R3RhOGU4dktEOHB3el9ucUh2MWRTdFlDTHJFLWlYaklWYW1YTdIBvwFBVV95cUxOOWFYYUcySUh5MkVWVXhSSHZyek9nWVdiRkZPRk1hTUltTXNpYlFLdUNqRmRfSkplUVRQUWVtbWlvejkzM1FWcE9DWjFNdWFnZFB1RG9ERjJVWmNqUFBoSU9vS1N1RzYyQnFmclFRNGxQZkZVVFo5b2h4SGhGcUs2bTM0WWxubzBNMjRjbjJ0b05Eei1EZXJmNThNQ0lXYWtHQm01U25TVF9Ic3Z1aW4tOXdLLS1PbEYxWXF2U1Judw?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-05T11:32:53.000Z",
-      "simple_summary": "Large Chinese companies ByteDance and Alibaba are turning off AI agents (programs that make decisions and take actions on their own) in China. This appears to be a response to rules from their government.",
-      "why_it_matters": "This mostly matters to people in China and to tech companies — not something that affects your daily life or small business unless you operate in China."
+      "title": "Microsoft and LinkedIn Just Analyzed the Future of Work and AI. It All Points to One Key Skillset",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGh3QlJjTk1GaFNubHR3U3BqSzQ0MUVpbVpsNXVtZnZtZzk4SXRHR2J6Q0JBU2RtMWhvbDlVRE9YbkFrVV9sTzBxS2RFTU9JUmFsN1BkYUtvM0llRlFyVi1yLXdjVHMtZEdOTmJ0R0NoazVZZGNuRGhQeXNEdThHQUFLWVJvY1RMeWRpbTZKR0ZtUWM0a2hDS1F6RExpaERaek9oclg1Qzg4N1J1MkE?oc=5",
+      "source": "inc.com",
+      "date": "2026-07-05T18:11:39.000Z",
+      "simple_summary": "Microsoft and LinkedIn studied how AI will change work in the future. They found that one particular skill is becoming more important than others.",
+      "why_it_matters": "If you're learning new skills or training staff, it might be worth paying attention to what skill they're recommending — though the headline doesn't say what it is."
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch",
+      "date": "2026-07-05T17:43:36.000Z",
+      "simple_summary": "Amazon is closing its Mechanical Turk service to new customers. This was a platform where people could sign up to do small tasks online for money.",
+      "why_it_matters": "If you relied on Mechanical Turk as a income source, you won't be able to join anymore, but existing customers can still use it for now."
+    },
+    {
+      "title": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVBDZlBWRGVJMHU5TFpoeGVtZ2M5T1lMSVl1Q0ZxZ2VxblIzLW0xcXR5LVZFZ2dRVWJDd18yeS0yVTBMUWFEdFROYnlZNG5TQmNkcDNZSnZwLWlUa21lcWRubVptWm1zSi0zT2l1UjlVRzJwRmRHM3BVeEN3eUVJODV0M2NOVF9DemU2b2oyWDZTaHpUMHZxN3gwSXY3Qm5ubkpib21mcFpDUHpmVkYxUHpUOFhaOTN0emc?oc=5",
+      "source": "24/7 Wall St.",
+      "date": "2026-07-05T16:13:48.000Z",
+      "simple_summary": "An investment article is recommending you buy stock in a company that makes AI memory chips, saying it could be a great investment.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge",
+      "date": "2026-07-05T14:23:11.000Z",
+      "simple_summary": "Google made a funny (or annoying, depending on your taste) commercial showing what would happen if the Founding Fathers had used Google's AI tools to write the Declaration of Independence.",
+      "why_it_matters": "This is just a commercial — it doesn't affect your daily life or business."
+    },
+    {
+      "title": "Philosophers Are the Latest Hiring Target for AI Companies",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-05T13:25:06.000Z",
+      "simple_summary": "AI companies are starting to hire philosophers — people who study big questions about right and wrong, knowledge, and how things work.",
+      "why_it_matters": "This shows AI companies are thinking about serious questions like ethics and safety, but it doesn't directly change anything for you."
+    },
+    {
+      "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWEdVUUN6MVgwQlFIN1F4QTRBdkFyTFdtbEJEYUV4RGhtanJvYmIzQVF5bkJ1MlZwQjdLekQ1Mkc4SXpVbV9pZnhJT2U2Yjh3YUpsRTZHSW5sM3BBc2JTMk1LRzBOS2cxSDFiM0w0YTZrQ0hPNVQ5MllMcG5ZdkVmdTQtT1pSdXFRLURwNjlqUkxrR1NTZGJ2WEpTSDljOG9fZHFvaTh4ZldwU1hxWEN2R0dxOXREQmRVejdCUUlRSWJqblBoTHZCVVU3aklKLU5uZDhxWHNCLVMyR092Yk13NGI2RXUxRGREdE1aeWdkcnVRSGlBMm1lUUd4Q3RFTHA2Qk8zQURKanlQa1ZIb0pZbHhJYkhmUjA5Y3pFRnJ4WW1TRGNvUlhCTkF4OVlxTVBpM01mdXBnNkhjRjAwSkxpbGFfYzFLTG1XdWhZOVpIUVNWRzZFYkE?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-07-05T12:20:00.000Z",
+      "simple_summary": "Alibaba (a Chinese company) stopped letting employees use Claude Code, an AI writing tool made by another company. Alibaba says it's too risky.",
+      "why_it_matters": "Unless you work at Alibaba, this doesn't affect you — it's a business disagreement between two tech companies."
+    },
+    {
+      "title": "Palo Alto Networks and Koi Security sued over alleged AI error in cyber threat report",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nNEp1NEJsa1A4cnRJTHp4cXhvaE1UMUFtaGZjakFHUEpES0xJa0NDaGZoc1JqU0phcVZrVllkbFpNdzEwQmt3TFdWRjcxQ01tNDlpbVB1eVE4Q3laU1VnZnJJbl9iZmFt?oc=5",
+      "source": "CTech",
+      "date": "2026-07-05T12:15:00.000Z",
+      "simple_summary": "A company called Palo Alto Networks is being sued because their AI made a mistake when reporting on a cybersecurity threat, and the wrong information may have caused harm.",
+      "why_it_matters": "This shows AI isn't perfect at everything — if you rely on AI security tools, remember they can make mistakes, just like people can."
     },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "source": "TechCrunch",
       "date": "2026-07-04T20:55:25.000Z",
-      "simple_summary": "Google made an advertisement showing what the Declaration of Independence might have looked like if the Founding Fathers had used Google's AI writing tools to help write it.",
-      "why_it_matters": "This is just a creative advertisement — it doesn't affect you, but it shows how companies are trying to make AI tools seem helpful for important writing tasks."
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazl3cHZDdzFzYU9wSGZDOXI2bXN4VTZOYjYxSi1JRHp5LWduTzBtcXpjOHdpX0lhWUg5NHlPNVNNM1JnaWI0UHZQQ09ZbzBTaHI0U1RJVjRKcHRvODRyT1g1WE5PWm82S2lab0hkYjZma2xRZU9oT2J0UzNLeHVBQ3JWSjhFM1h5OU9ja3VBYktJQmhUa2tYSw?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-07-04T20:30:00.000Z",
-      "simple_summary": "Someone is promoting a way to invest money in AI computer memory companies, claiming you can profit from it with small amounts of money.",
-      "why_it_matters": "This is investment advice for people with money to invest — nothing you need to act on unless you're looking to buy stocks."
+      "simple_summary": "Google made a commercial joking about what it would be like if the Founding Fathers had used Google's AI tools to help write the Declaration of Independence.",
+      "why_it_matters": "This is just a commercial — it doesn't affect your daily life or business."
     },
     {
       "title": "AI security questions loom over NATO summit",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUDRUeTFWZUxRRk96eWdGQVJsZjI5bC14YmFMRldxYlRSVHQyYllzX1VCczhyeGFqYV80M3RYZ0duV0l3dHlsY0dhbkJ0N1lPajk4NWdJZ3VEZm56Z25qa1ZJaUJGWVdTMXdoZkoxNkJPaUZMVmo3UVNrWmNmUQ?oc=5",
       "source": "Politico",
       "date": "2026-07-04T20:00:00.000Z",
-      "simple_summary": "Military and government leaders are discussing safety concerns about AI at a NATO meeting.",
-      "why_it_matters": "This is mostly relevant to government officials and military planners — not something that affects your business or daily life right now."
+      "simple_summary": "Military and government leaders from NATO countries are discussing concerns about AI security at a big meeting.",
+      "why_it_matters": "This mostly affects government policy — nothing you need to act on personally."
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcER4NHRGdF9OUW1HLXJpU3FiamhtZVZqZHBmcmhnVDdMbFVxOTZOSHFtZlcxLURNUFBHdTF0QXg4OVVSVl9WSWNyTkdtQlVRdVFhN255WlBtc3RMZGhZaldBRExGTkFESXpHRkVqa2pIVTJSeGhmN0dCamxkVzhlVERZR05lOVl4ZTBreEJXaEY4WmpCT0xEaHBpT1FCR1J1bEI1dkpaN2FvX1d5?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-04T19:50:00.000Z",
+      "simple_summary": "An investment article says AI memory chips are becoming more valuable and suggests you could invest in them with a small amount of money.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "source": "TechCrunch",
       "date": "2026-07-04T18:00:05.000Z",
-      "simple_summary": "A company called Midjourney (which makes AI image software) is asking Hollywood movie studios to explain how they use AI in their own work, as part of a legal dispute.",
-      "why_it_matters": "This mostly matters to investors and entertainment lawyers — nothing you need to worry about."
+      "simple_summary": "Midjourney (a company that makes AI art) is in a legal fight with movie studios and is asking the studios to admit how they're using AI in their films.",
+      "why_it_matters": "This is a legal dispute between big companies — nothing you need to act on personally."
     },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "source": "TechCrunch",
       "date": "2026-07-04T16:32:08.000Z",
-      "simple_summary": "The company Alibaba told its employees they cannot use a specific AI tool called Claude Code because they consider it risky or unsafe.",
-      "why_it_matters": "This mainly matters to Alibaba's employees — it shows companies are being cautious about which AI tools they allow, but it doesn't affect your small business."
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch",
-      "date": "2026-07-04T15:51:32.000Z",
-      "simple_summary": "Mistral AI is a newer AI company (similar to OpenAI which makes ChatGPT) that has raised a lot of money and wants to make powerful AI tools available to everyone.",
-      "why_it_matters": "This gives you another AI option if you want to try AI tools, though ChatGPT and Google's AI are still more well-known and widely used."
-    },
-    {
-      "title": "The Impact of Encounters with Alien Intelligence on the Future of Humanity",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzdXXzZSRGNGLVJNemtSdjZfdlU2UEVBMkx6SnVnY2xOanRHMDZnc0ZwNWZZN05aX1RaN1B5QW40RDF0em1hSnF6akgtb3E3RkJlVHYyQ0xweVdMOVZrOW02aFpWTTJHTmduZ3F2dk16Y0FXdUJ4Zm1MU3cwNk9KTmxBY1ZudHA3MWFLR21QVmhrcnlIQTB2UnptMTk4TUdhNVlhajRaZ2YwS0lLb2h6UHZVb01oUQ?oc=5",
-      "source": "Avi Loeb – Medium",
-      "date": "2026-07-04T13:02:12.000Z",
-      "simple_summary": "An article discusses what might happen if humans ever encountered intelligent life from outer space.",
-      "why_it_matters": "This is science fiction thinking — not related to AI technology you use or need to understand."
-    },
-    {
-      "title": "The fanfiction community is at war with AI — and itself",
-      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "source": "The Verge",
-      "date": "2026-07-04T12:00:00.000Z",
-      "simple_summary": "Writers in the fanfiction community (people who write stories based on existing books and shows) are fighting with each other about whether using AI to write stories is acceptable, and trying to catch who's using AI.",
-      "why_it_matters": "Unless you write fanfiction, this doesn't affect you — but it shows creative communities are struggling with questions about AI and human work."
-    },
-    {
-      "title": "Silicon Valley faith-based co-working spaces emerging as AI prompts reflection on changing industry",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDdTSW04bWhQem9QdGQtaXFOeEF0RUJ0b1Q0MEpMU1VES3NaZU9ENlBaWEFHeUJyRmtfUkZJSm9SOWdWQUR5RXJUQXRfWDJqMzdCMUhSa0FfdE1MZGc1Nlg2TVNUQmR1aGYzaTRwOWRZejdrZU1meF9KLU1PVEFrcC1Nc0NDdlpReXNWTzk1NThoRkpYd0NwODZCQ1BqUlJh?oc=5",
-      "source": "CBS News",
-      "date": "2026-07-04T01:41:39.000Z",
-      "simple_summary": "Some companies in Silicon Valley (tech industry area) are opening shared office spaces focused on faith and spirituality, partly because people are thinking more deeply about AI and its impact on society.",
-      "why_it_matters": "This doesn't affect you — it's mainly about what tech workers are thinking about."
-    },
-    {
-      "title": "The only AI glossary you’ll need this year",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "date": "2026-07-03T21:20:00.000Z",
-      "simple_summary": "Someone created a list explaining all the new AI words and terms people are using, to help people understand the vocabulary.",
-      "why_it_matters": "This could actually be helpful if you want to understand AI words you hear — it's a resource guide, not news about a change."
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "date": "2026-07-03T18:43:00.000Z",
-      "simple_summary": "An article reviews web browsers (like Chrome and Safari that you use to look at websites) and lists alternatives you could try instead.",
-      "why_it_matters": "This is about web browsers, not AI — it has nothing to do with artificial intelligence."
+      "simple_summary": "Alibaba told its employees they cannot use Claude Code, which is an AI tool made by another company, because the company thinks it's risky.",
+      "why_it_matters": "Unless you work at Alibaba, this doesn't affect you — it's a business decision by one company."
     }
   ]
 }
