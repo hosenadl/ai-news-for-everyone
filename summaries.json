@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-06T04:41:28.707Z",
+  "generated_at": "2026-07-06T11:05:37.262Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Applying Artificial Intelligence and machine learning in precision nutrition",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN2k5ZDZjR3NJR1ZqajlIZHBUZEE1SG5ZVDczb2NZMjZvcG90QWpJRWl6VWhIQ0tZbTcwei1mcTF3MGp0cGpPY3RpVTBUM2pRRjZDNk1fZThVN0dMV21v?oc=5",
+      "source": "Nature",
+      "date": "2026-07-06T09:56:55.000Z",
+      "simple_summary": "Scientists are studying how AI can help create personalized nutrition plans for people based on their individual health needs.",
+      "why_it_matters": "This could eventually help doctors give you better diet advice tailored to you, but it's still early research — nothing you need to do now."
+    },
+    {
+      "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpHSG1TQzNCYlJwaUFUb3poMjhydmVPSnRucmY1cnpKRWJKbTh4OGxlcWh0RTQtR01kOEJJaG1LU3dfeFFUcU5FQjhmTVBpX0xFR0xkRzRmd0ItTHB4TDNVTUVzNEl1RFFzTU91VzM4UDhlZGx2WDFDa3ROYkxJRloyS0VGZFYwU1RvUEtKZGRQZkZ0Q3U3Nzg4al9jeEpjMjFIbmNLQUdra2xscFZF?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-06T07:00:00.000Z",
+      "simple_summary": "A big AI project in Scotland promised to help with renewable energy but is falling behind and unlikely to deliver what was promised.",
+      "why_it_matters": "If you live in Scotland, this means a project you may have heard about won't deliver as hoped — mostly a concern for local government and energy planning."
+    },
     {
       "title": "Microsoft Merges Enterprise and Consumer Copilot Apps",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
       "source": "PYMNTS.com",
-      "date": "2026-07-06T01:22:57.000Z",
-      "simple_summary": "Microsoft is combining its AI assistant Copilot into one app instead of having separate versions for home and business users.",
-      "why_it_matters": "If you use Microsoft products, you might notice changes to where you find the AI assistant, but it should work the same way."
-    },
-    {
-      "title": "Anthropic, White House Have Not Discussed Government Stake in Firm",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tFeDdyUU1NanA2WF9DbTByS2FKa3didEg3TTkzMXg5aXZPYVBLaS1iN3BNWVZPU0NvVzk5S3dNUHFDUVlCYTNEM2tVQmt1NjJCSGhNdldIcGZBMmFqZUtVekliVkFEeE1xZ0V6Q2M5VUYtZk94MEJsblBSanFzTDBQM2ZRcTNTS2NQekI1MnhyYTE2c3I5cmZfWUw3bjRaVTd6cUR4Ym1ZLUlmRWg0Vkk2ejVObEoxZTZDTzJGa2s?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-07-06T00:34:45.000Z",
-      "simple_summary": "The White House and Anthropic (an AI company) have not discussed the government buying a stake in the company.",
-      "why_it_matters": "This mostly matters to investors and company owners — nothing you need to act on."
-    },
-    {
-      "title": "Tesla Pumps Brakes on In-House AI Usage",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVldoQ2M5YXZ2MzlIUC1QWFhkYXBjSWF0SEgwc01PT2tCaHQ3UVZRWXd1ak9LMUdVb1RfajZPeEZxZk1ZLXVxS1pPZnY5eksteDZRUlhtRG1CcDBDeXF5WGdHUnhKUzFDYzNBbjhrb2NqMjFpT1c3THZ3anhRcXFwa0cxR21qVjJEMmRSdWtxT0dPWjVrckRrUHY1TXlzQQ?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-07-06T00:09:45.000Z",
-      "simple_summary": "Tesla is slowing down how much it uses its own artificial intelligence tools in its business.",
-      "why_it_matters": "This mostly matters to Tesla investors — nothing you need to act on."
+      "date": "2026-07-06T01:24:45.000Z",
+      "simple_summary": "Microsoft combined its ChatGPT-like tools (called Copilot) for businesses and regular people into one program.",
+      "why_it_matters": "If you use Microsoft products, you might see fewer separate apps to choose from — a small change that makes things slightly simpler."
     },
     {
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "source": "The Verge",
       "date": "2026-07-05T22:30:54.000Z",
-      "simple_summary": "Some wealthy families are using AI programs to teach their children instead of sending them to regular schools.",
-      "why_it_matters": "Most people still don't trust AI with their children's education, but this shows a growing trend among the rich that may eventually influence education choices."
+      "simple_summary": "Some wealthy families are using AI instead of hiring traditional tutors or enrolling their children in regular schools.",
+      "why_it_matters": "For most families, traditional school is still the norm and what's available — this mostly affects very wealthy households experimenting with new options."
     },
     {
       "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLTVpYlZ3dTczTXpQQmJBWGo0SEZwSVc5c1h0Qk5zRVI4VmlGVTktd3BtdWd2TWVXY1JQNnJERXNhcWkxMGg1a1VCTDF2Vnp2SkRfYU5CZ2hHY2prb1RUOU9RdVhISHVCWlZJbk5uYkNNMHBwcTVoaXFQb0RVWEFIakkwZ3k4Tmg2d0NVb3kzQVo?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-05T21:26:00.000Z",
-      "simple_summary": "An investment article is recommending certain AI company stocks they think will perform well in the second half of 2026.",
-      "why_it_matters": "This is only for people thinking about buying stocks — ordinary people and small business owners don't need to do anything."
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVlSU2tsWWZWYWVFckc3aEVCSzBNbHhWRXZNanhzd3hMSVVWeUV2dlVVVEZVSUh1aHNxdnN5OTd6dk8wbW5xUnlTMjVfeXRVTS1DbXJIR2VrSUxXazRKdTBNdENHU0h1RVd2cFBRMmw5LVZLQzcxTjJnLXBDVXd2MFJqZlBBRVhjN2ZtVTVRSVE1V01pak9TMQ?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-07-05T22:06:00.000Z",
+      "simple_summary": "An investment website is recommending certain AI company stocks they think will perform well.",
+      "why_it_matters": "This is investment advice for stock traders — nothing you need to act on unless you're actively buying stocks."
     },
     {
-      "title": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEYwNmQ0dFF2eWlVQXhSZU16ajVjRDAyby1aeDFQR1g2VkVPWW1jYTZwdVpCM0ZJSVJwOFZmUWNyM1FUNUcyY1V4bkxyWld1UEx0RlB6cS1TUEhsMUlaaU9JZlBhS25TcS1YMGxmQ2I5MkhySEpaZlpuU1dTQjVlYzJ2cVJVQzl0TlFGTXJ5dmJ0MTEyYzBKag?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-07-05T18:00:00.000Z",
-      "simple_summary": "An investment advisor predicts a certain AI company's stock price could double before the end of 2026.",
-      "why_it_matters": "This is only relevant if you're investing in stocks — nothing you need to act on otherwise."
+      "title": "Global push for AI governance amid warnings of ‘catastrophic harm’",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wRnVPT1YyTXBENHBlZEFnOUZDLUNfdXdjczBfTzlGSFgydExNTXhDZEc4Z2Z6bmhycVgwSGoxQ0lDelhod01UbkZEbUNpUnQxZWQwLVFrbw?oc=5",
+      "source": "UN News",
+      "date": "2026-07-05T21:00:00.000Z",
+      "simple_summary": "World leaders are working together to create rules for how AI should be used safely, because people are worried AI could cause serious harm.",
+      "why_it_matters": "This matters to everyone long-term — good safety rules now could prevent problems later, though changes may take years."
     },
     {
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
       "source": "TechCrunch",
       "date": "2026-07-05T17:43:36.000Z",
-      "simple_summary": "Amazon is stopping new sign-ups for Mechanical Turk, which is a service where people do small computer tasks to earn money.",
-      "why_it_matters": "If you were thinking of earning extra money this way, you won't be able to join, though existing workers can keep going for now."
+      "simple_summary": "Amazon is closing its Mechanical Turk program, which was a website where people could do small tasks online for money.",
+      "why_it_matters": "If you used this as a side income, you'll need to find another option — otherwise, this doesn't affect most people."
     },
     {
-      "title": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVBDZlBWRGVJMHU5TFpoeGVtZ2M5T1lMSVl1Q0ZxZ2VxblIzLW0xcXR5LVZFZ2dRVWJDd18yeS0yVTBMUWFEdFROYnlZNG5TQmNkcDNZSnZwLWlUa21lcWRubVptWm1zSi0zT2l1UjlVRzJwRmRHM3BVeEN3eUVJODV0M2NOVF9DemU2b2oyWDZTaHpUMHZxN3gwSXY3Qm5ubkpib21mcFpDUHpmVkYxUHpUOFhaOTN0emc?oc=5",
-      "source": "24/7 Wall St.",
-      "date": "2026-07-05T16:13:48.000Z",
-      "simple_summary": "An investment article is promoting a new AI memory company as a great stock to buy.",
-      "why_it_matters": "This is investment advice for stock buyers — nothing you need to act on unless you're investing."
+      "title": "“Rubbish, it didn’t help at all”: Mick Jagger’s no fan of AI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUndNTEc0anB1cW9uMEg4UDdDMW1pVnAwLVItTjJDX3NOSE16Y3dtREFZY1hXN1E1dy1aQmowNXR1blRiY2RvVm9KdHhSZUlqR3pUZ1ZqTDNxWnJ4aHJGbnRDVnZVRUNFWFU4Tno1Q2FSdzBzWjBtcUZsdGhFZWMwcFhINjVrRkR3bU1CWTNobEpjQQ?oc=5",
+      "source": "Salon.com",
+      "date": "2026-07-05T17:30:16.000Z",
+      "simple_summary": "Mick Jagger, the famous rock singer, says AI-generated music isn't helpful and he doesn't like it.",
+      "why_it_matters": "This is one person's opinion about a celebrity topic — it doesn't change anything about how AI works or affect your life."
+    },
+    {
+      "title": "China Insight: China’s Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2x4Z1ZJVjdxMVJYTl9HTTJjRlJLNHNyeE90cjM3V2toa1kzZ094RVVmSDdvYk9wOHkyZjdPWlJLMUxfekloV2ZsUnNuRzRnVDZPMkhlMjg3Zm5SMHlhdFRZQ1p6Y0g2RzFxZHJrdHM2bFhVcDc0WTdYOFVXZW9JcFVGWEFPSTRDYlRxbUtGS1Mta0pTRFdldmpSUlQyakxfcUFLandVSDg5VERmSWpWdXVldXFUODg?oc=5",
+      "source": "WWD",
+      "date": "2026-07-05T15:00:34.000Z",
+      "simple_summary": "Chinese clothing companies are using AI to help customers discover products instead of relying on search tools.",
+      "why_it_matters": "If you shop from Chinese fashion companies, they might recommend items to you differently — a subtle change in how online shopping works."
     },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "source": "The Verge",
       "date": "2026-07-05T14:23:11.000Z",
-      "simple_summary": "Google made a funny advertisement imagining what would happen if the Founding Fathers had used Google's AI tools to write the Declaration of Independence.",
-      "why_it_matters": "This is just advertising — it doesn't affect you or your business."
-    },
-    {
-      "title": "Philosophers Are the Latest Hiring Target for AI Companies",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-05T13:25:07.000Z",
-      "simple_summary": "AI companies are now hiring philosophers (people who think deeply about right and wrong) to help them make better decisions.",
-      "why_it_matters": "This shows that AI companies are starting to care more about fairness and ethics, which could mean safer AI products in the future."
+      "simple_summary": "Google made a commercial showing what it would look like if the founding fathers used Google's tools to write the Declaration of Independence.",
+      "why_it_matters": "This is marketing for Google's products — just an ad trying to be funny, nothing that affects how you work or live."
     },
     {
       "title": "Palo Alto Networks and Koi Security sued over alleged AI error in cyber threat report",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nNEp1NEJsa1A4cnRJTHp4cXhvaE1UMUFtaGZjakFHUEpES0xJa0NDaGZoc1JqU0phcVZrVllkbFpNdzEwQmt3TFdWRjcxQ01tNDlpbVB1eVE4Q3laU1VnZnJJbl9iZmFt?oc=5",
       "source": "CTech",
       "date": "2026-07-05T12:15:00.000Z",
-      "simple_summary": "Two companies are being sued because their AI tools made a mistake in a report about a cyber threat (a computer security problem).",
-      "why_it_matters": "This shows that AI is not perfect and mistakes can cause real problems, which is why it's important not to trust AI completely with important decisions."
+      "simple_summary": "A company is being sued because AI gave a wrong answer in a cybersecurity report, potentially causing harm.",
+      "why_it_matters": "This shows AI can make mistakes that matter — mostly relevant to cybersecurity professionals and investors, though it highlights why you shouldn't trust AI completely."
     },
     {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-04T20:55:25.000Z",
-      "simple_summary": "Google created an advertisement imagining how the Founding Fathers might have used Google's collaboration tools and AI if they existed in 1776.",
-      "why_it_matters": "This is just an advertisement for Google's business tools — it doesn't affect you personally."
+      "title": "Philosophers Are the Latest Hiring Target for AI Companies",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-05T09:01:46.000Z",
+      "simple_summary": "AI companies are hiring philosophers (people who study thinking, logic, and ethics) to help them build better AI systems.",
+      "why_it_matters": "This is mostly interesting for job hunters in specialized fields — it shows companies care about ethics, but doesn't change AI tools you might use."
     }
   ]
 }
