@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-06T15:56:05.466Z",
+  "generated_at": "2026-07-06T20:15:52.895Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T19:49:10.000Z",
+      "simple_summary": "A tech company leader is discussing whether AI models (the thinking engines) should be separate from AI agents (the systems that actually do tasks). This is mostly a technical business debate.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T19:01:59.000Z",
+      "simple_summary": "Apple is making Siri (their voice assistant) sound more natural and less robotic by letting you adjust how fast she talks and how expressive she sounds.",
+      "why_it_matters": "If you use an iPhone, Siri might sound more like a real person soon, which could make it more pleasant to use."
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T18:35:00.000Z",
+      "simple_summary": "Many big tech companies have fired workers this year and blamed AI as one of the reasons.",
+      "why_it_matters": "This shows companies are concerned AI might replace some jobs, which is worth being aware of if you work in tech or related fields."
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T17:04:58.000Z",
+      "simple_summary": "Google changed its settings so it can use more of your data to train its AI, but you can turn this off if you want.",
+      "why_it_matters": "If you use Google and care about privacy, you should check your settings to decide whether you want Google using your information this way."
+    },
+    {
+      "title": "I spy",
+      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "source": "The Verge",
+      "date": "2026-07-06T16:00:00.000Z",
+      "simple_summary": "A TV show about smart glasses showed both the potential and the problems with this technology.",
+      "why_it_matters": "This is mainly for tech enthusiasts interested in glasses you can wear — not relevant to most people right now."
+    },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
       "source": "TechCrunch",
       "date": "2026-07-06T15:32:43.000Z",
-      "simple_summary": "Microsoft fired about 4,800 workers (about 1 out of every 50 employees). Most of the people let go worked in selling to businesses or making Xbox games.",
-      "why_it_matters": "This shows large companies are making big changes, but unless you work at Microsoft, it doesn't directly affect your business. This is mostly news for workers and investors to pay attention to."
+      "simple_summary": "Microsoft fired about 4,800 workers, mostly in their gaming division and sales team, saying AI changes played a role.",
+      "why_it_matters": "Like other layoffs, this shows large companies are shifting how they operate because of AI, but it doesn't directly affect you unless you work at Microsoft."
     },
     {
-      "title": "Tech CEOs Walk Back Dire AI Job Loss Predictions",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG5MellBR2NKNjh3UHdpNzY4bUc5OHMyT1ZaZGFpcmdBV1l3UE1KbE5SYnFTMDdMQW9WdnU3dHRDWnluelBBUGNCdy1yLXdZVDJiTGRNSXpGeDdqNTNRbmRpR09mY0pEUzFFSzA5SzFaUTRTVjRZbUJvUVMyeW51UVhpSTRGRDBoTWtmczM3eUd3Qms0bnlIamc3MGNtUUd3X1N0dC12U25hUQ?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-07-06T13:36:49.000Z",
-      "simple_summary": "Tech company leaders are now saying they were wrong when they predicted AI would take away lots of jobs.",
-      "why_it_matters": "Nobody knows yet if AI will really replace jobs or not — experts keep changing their minds, so take big predictions about the future with a grain of salt."
-    },
-    {
-      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkRmUHRzNzdsLWFnc0dvQXdYOWF3SkVrQVFIWUFnNXU3M3BDV3FZcWRVbjNMRlltWTNSNV85ZEFBNTQ5RjA5MVZEVERkVHJvdmxES1lSdDFwVktMeEN3OVdDNkRGenExTXRqWDdmZG0wb1RoWFVjdldDSXpQY2FoY3M1Q05kel9waTI5UGxxQ2M5TmNsMHVCVUUzazFIUTU1N2dacGFDQ0xqLXN3bU9oXw?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-06T13:31:56.000Z",
-      "simple_summary": "",
-      "why_it_matters": ""
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T15:22:08.000Z",
+      "simple_summary": "Reddit is using AI to fight spam and fake posts on its site, because AI also helped create the problem in the first place.",
+      "why_it_matters": "If you use Reddit, the site may have cleaner discussions in the future as they fight spam more effectively."
     },
     {
       "title": "Microsoft is laying off 4,800 employees",
       "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "source": "The Verge",
       "date": "2026-07-06T13:30:00.000Z",
-      "simple_summary": "Microsoft is firing about 4,800 employees, mostly people who sell products to businesses and people who work on Xbox video games.",
-      "why_it_matters": "Unless you work at Microsoft, this doesn't directly affect your daily life or small business."
-    },
-    {
-      "title": "Pritzker to sign Illinois bill aimed at artificial intelligence accountability",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTkwOG9uc01qNmdKUXhyMllUSG9OTmJ2dDY1NWlZa1EydFNGQ2U1bXQtbkJrOWFnVTN2c3lPRHdGWUZ5a3VfOEZWZkprcThOaGJOeFhHOUNJa3lwNWlHVjdPRXRDNTdVNElxME9ISTlaZWJ6WE8yeHMtcXZYMU1oeTVkUWRpZzFVOFJQbURKVkZKNDR1S3NabDdvZHNUWlR2UnBGbXRtQ3ZPNEZPaTEzUExfWQ?oc=5",
-      "source": "CBS News",
-      "date": "2026-07-06T13:12:34.000Z",
-      "simple_summary": "The governor of Illinois plans to sign a new law about making AI companies responsible for how their AI systems work.",
-      "why_it_matters": "This could mean AI companies operating in Illinois will have clearer rules to follow, which is generally good for protecting people."
+      "simple_summary": "Microsoft is laying off 4,800 employees, about 2% of its total workforce, mostly from sales and the Xbox gaming business.",
+      "why_it_matters": "This confirms large tech companies are reorganizing, but it directly affects you only if you work there or depend on Xbox services."
     },
     {
       "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
       "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
       "source": "TechCrunch",
       "date": "2026-07-06T13:00:00.000Z",
-      "simple_summary": "A large startup building space in Paris is helping young AI companies get started and grow in Europe.",
-      "why_it_matters": "This mostly matters to investors and tech entrepreneurs in Europe — nothing you need to act on."
-    },
-    {
-      "title": "AI altering meaning of users’ drafts on issues from abortion to climate, study finds",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWNncEJkU2FCcXpPR3A3VjlfbmtINWxKdEZyY2NodFRoLXVsUDRNU0Z1MmtFVEhZVHJ1NEdEaEdYRXQ3T0ZlaTZOZkYxc1MySzM0UlNXZ2JUY0tSSVhBVVpUejZNOFRKRjdOZXV2OFBSLU8yNDdZSll3ZHVFbUdCWGpRbEZhTkt2VVRoQ1BGaFl1WEMzMksyUzZCZHhualhZQWs5Q3MzQWR0QXZWSnRjTGNmR3ZjdWZOdkdVMUNxOGduTE9ZeThkd3F3cjBnZw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-06T11:01:00.000Z",
-      "simple_summary": "A study found that AI sometimes accidentally changes the meaning of what people write when it helps them with topics like abortion or climate change.",
-      "why_it_matters": "If you use AI to help write emails or documents, be careful and always read what it wrote to make sure it still says what you meant."
-    },
-    {
-      "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble - News of the United States",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVNyS09jZVNsN3dmLVQ1NFJNNUcwcm1qZ0xVaThpMldCcXRsNVRMZnNmbHhHcl93c1FkQno3Tzl6LUdCRzgtZWFVSUQwU0U1ckVTMk5ESC1mM183WkJueGRieGJyeFBvWG1jRTNtNHRrQkpkbjNCTjJvTHBadHJhWi0xejlwYWM?oc=5",
-      "source": "NOTUS",
-      "date": "2026-07-06T09:02:39.000Z",
-      "simple_summary": "The U.S. Treasury Department made a secret report warning that AI investment might become like a bubble (like when house prices got too high before 2008) and crash.",
-      "why_it_matters": "This warns that some AI investments might be risky, similar to any trendy investment — be cautious if someone tries to get you to invest in AI companies."
-    },
-    {
-      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVWl4MXFOV253U1dKa3lqMzlFYTdlZWpZT0E0eXZlWC03d0dKR3FxdDZVQWZxT21Uc2gzekM0cmRwTjVKc3BjRG9CR1FiZlZzQWFyV3k5MA?oc=5",
-      "source": "UN News",
-      "date": "2026-07-06T08:17:27.000Z",
-      "simple_summary": "The United Nations leader is asking world governments to make rules about AI and how it's used in warfare.",
-      "why_it_matters": "Countries are starting to think about how to control dangerous AI uses, which is important for safety — but this is high-level government work, not something you need to worry about personally."
-    },
-    {
-      "title": "Artificial Intelligence. Real War.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0twOW9aLWQwYzNXSHJVTEt6Y1dndkk0am1wVC1uVm1zcl9tVTBUTzh3eVJ6c3VUV1pmdk1NMGlocVhqbWxCcTNhQ3o0OVlSdTJ0ZGYxVGJQVjl5X0FpNFhGM2xuLVd0bnJSUHF0VURLRV9EMDU0a0QxN2p4ZzNqMFBWQzE?oc=5",
-      "source": "The Dispatch",
-      "date": "2026-07-06T06:49:17.000Z",
-      "simple_summary": "This headline suggests AI is being used in war or military situations.",
-      "why_it_matters": "This is serious news about how governments might use AI, but the headline is too vague to explain exactly what it means."
+      "simple_summary": "A startup hub in Paris is helping European AI companies grow and find funding.",
+      "why_it_matters": "This mostly matters to investors and people starting AI companies — nothing you need to act on."
     },
     {
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "source": "The Verge",
       "date": "2026-07-05T22:30:54.000Z",
-      "simple_summary": "Some wealthy families are using AI computer tutors to teach their children instead of sending them to regular schools.",
-      "why_it_matters": "Most people still don't trust AI for important jobs like teaching, and this is mainly something only rich families can afford to try."
+      "simple_summary": "Some wealthy families are using AI programs instead of traditional schools to teach their children.",
+      "why_it_matters": "If you're thinking about education options, know that some families are experimenting with AI tutors, though this is mostly available to the very wealthy right now."
     },
     {
-      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVlSU2tsWWZWYWVFckc3aEVCSzBNbHhWRXZNanhzd3hMSVVWeUV2dlVVVEZVSUh1aHNxdnN5OTd6dk8wbW5xUnlTMjVfeXRVTS1DbXJIR2VrSUxXazRKdTBNdENHU0h1RVd2cFBRMmw5LVZLQzcxTjJnLXBDVXd2MFJqZlBBRVhjN2ZtVTVRSVE1V01pak9TMQ?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-07-05T22:06:00.000Z",
-      "simple_summary": "A financial advice company is recommending two AI company stocks they think will do well in the second half of the year.",
-      "why_it_matters": "This is investment advice for people with stock market money — honest advice: be very cautious about stock tips, especially ones that say something will \"soar.\""
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch",
+      "date": "2026-07-05T17:43:36.000Z",
+      "simple_summary": "Amazon is stopping its Mechanical Turk program, which let people earn money by doing small online tasks.",
+      "why_it_matters": "If you used Mechanical Turk to make extra money, you won't be able to do this through Amazon anymore after the changeover."
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge",
+      "date": "2026-07-05T14:23:11.000Z",
+      "simple_summary": "Google made a commercial showing the Founding Fathers using Google's AI and collaboration tools, and many people thought it was embarrassing.",
+      "why_it_matters": "This is just advertising news — it doesn't affect how Google products actually work."
     }
   ]
 }
