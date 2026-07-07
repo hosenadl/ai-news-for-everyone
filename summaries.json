@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-07T04:18:21.282Z",
+  "generated_at": "2026-07-07T10:02:13.678Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Into the spider’s lair: how an Australian film-maker made an impossible documentary with AI",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHlRa1BibUhGemczVUQtSkNfSkswMzZTQlFBU2NJUzB0enNna3NJU3o3TDFLYW5yZzZjUFVEc1RTTHBJZlhXc041WlJyd2R3bl9UaU5YVEdCS3JVTGNLQ2ZoMi1SUndveElUb0VtbjV3ekF3bElxS0dmZzhzb1VMRy1BeEk2YkQ3d1Y3a3dBVUgzTTJWZjA1QkozWmxlX28wZURyX0phZWZkNHlWcUR2VDRWMkx0cVd5YklTaGp6YTI2Zw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-07T00:49:00.000Z",
-      "simple_summary": "An Australian film-maker used AI tools to help make a documentary about spiders that would have been impossible to create otherwise.",
-      "why_it_matters": "This shows AI can help creative people do things they couldn't do before — but honestly, this is mostly interesting as a cool story rather than something that affects your daily life or business."
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch",
+      "date": "2026-07-07T09:00:00.000Z",
+      "simple_summary": "The U.S. military has sent over 100 robot vehicles without drivers to fight in Ukraine. These are remote-controlled or self-driving trucks and similar vehicles.",
+      "why_it_matters": "This doesn't affect you directly — it's about military technology in a war zone."
+    },
+    {
+      "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOandZTm9IbUhHdHVwd3ZickVXX01xbjlrTWk1TUJGZkxNUUNTQVVPTG96OFpXejh6Y0RpSnpoQU9MMFFrYmRCcEw5UVVCVmRLQk1WeHFwNzB4a01OZ0ItQzZUT0MwVjc0U0VVbmtScHZ4SFd5amVBajVRQW8wRjJSdEJ3VFZSQXB4NUhJYnVVY3lMano3N1l4TGUwVE9JVkNuYS1RVGVPVmtWTHMw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-07T08:15:00.000Z",
+      "simple_summary": "An investment newsletter is recommending three AI-related companies as stocks they think could make people rich.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you're actively buying stocks."
+    },
+    {
+      "title": "Exponential Growth Forecast in AI Cognitive Computing Market: From $45.5 Billion in 2025 to $157.26 Billion by 2030",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVJyekNFZEJfSVRqekRkRjY2UUdjVzdiaUpCQUdLanIxMmVJWnVXczQxaEU2akJhaU9BbFp6ZWlNQmFPMDZRMTV0T1Rwc3VoNlJOZzdiZVMyZXhsT3MwM2MyeEwzTWRDN0prcV9teE1lYmZFNWhnMVNDRTBxYWdYdmhlSmVRTS12NlZvaG1Ud3Zoczg?oc=5",
+      "source": "Yahoo Finance UK",
+      "date": "2026-07-07T08:09:00.000Z",
+      "simple_summary": "Market analysts predict that AI computing technology businesses will make a lot more money in the coming years (growing from about $45 billion to $157 billion).",
+      "why_it_matters": "This mostly matters to investors and large tech companies — it doesn't change how AI affects your daily life."
+    },
+    {
+      "title": "Explosive Growth: AI-Powered Debt Risk Platform Market to Surge from $6.61 Billion in 2025 to $23.77 Billion by 2030",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMklwLUMwZzRCSm1TZHlIM0tfVXJkM2ZXRHkyNkFZZGowWkk3dVNXcV9YWG9JWm90QjJOYTVvSFZmZExmWExoaDN2UzRjVllNX0xXUEF0TjdRWmxDSUVmS2haSDNsN0JiM2xFT1lxdUJlRUN2SWhpMGxFSEFOVmpKY0xKcWpKb2llYUp5RnZkemFpR2ZtUVo2dV9yUjA?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-07T08:01:00.000Z",
+      "simple_summary": "Financial experts predict that AI software designed to spot risky loans will become a much bigger business over the next five years.",
+      "why_it_matters": "This mostly matters to investors and banks — nothing you need to act on."
+    },
+    {
+      "title": "Samsung profits jump 1,800% as AI chip sales soar",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RSlZNMzN0UWtYc1BKa0lLeVB2M01ENGJTOUtaMDBDSEc4b1YzYnJQN1lwTzNCNFdqMEp6cVgzSklad2x1bVZTT1E2TmI3SFhydXBQLWJVVUNUdw?oc=5",
+      "source": "BBC",
+      "date": "2026-07-07T03:24:14.000Z",
+      "simple_summary": "Samsung, a big electronics company, made much more profit recently because so many companies want to buy the special computer chips that power AI.",
+      "why_it_matters": "This shows AI is booming in business, but it doesn't directly change what you'd pay for a Samsung phone or TV."
     },
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
       "source": "TechCrunch",
       "date": "2026-07-06T23:56:14.000Z",
-      "simple_summary": "An AI program helped carry out a cyberattack (where criminals lock up your computer files and demand money), but a human still made all the important decisions and did the setup work.",
-      "why_it_matters": "This shows AI didn't actually do anything new yet — humans are still in charge of cyberattacks. Your regular computer security practices remain your best defense."
+      "simple_summary": "Last week's news said an AI program pulled off a hacking attack all by itself, but it turns out a human actually chose the victim and did most of the setup work — the AI only did the final technical steps.",
+      "why_it_matters": "This is good news for cybersecurity — AI isn't taking over hacking the way the scary headlines suggested. Humans are still running the show."
     },
     {
       "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
       "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
       "source": "TechCrunch",
       "date": "2026-07-06T23:21:03.000Z",
-      "simple_summary": "A company that makes computer memory chips is doing very well because AI needs lots of these chips, and now Americans will be able to invest in their company.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you have money in stock market investments."
+      "simple_summary": "SK Hynix, a company that makes computer memory chips for AI, is getting so much business that it's planning to sell stock to American investors for several billion dollars.",
+      "why_it_matters": "This matters mostly to investors — nothing you need to do, but it shows how much demand there is for AI technology."
     },
     {
-      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5",
+      "title": "CNBC's The China Connection newsletter: What to watch for in the second half",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2hiZnA0VGhHRzJwVlhoNzVHMktDVGNqRF81UTd1c0FvR25YeUU5cFlyNEZEcEM0NXdTOGRJM0lheGIxM05Uamx5Sm5YMUZfWkZwUHUxa0dXMlZKUGp3RWtvalJzekhRa01QNVJZZ1NEalVlcHlKdXJoSWcweGZIeW9QcjBTQ0g4SGFRX1JrSEItSzlHLWxSdDlNcWVFTjF5UkVwc3Fn0gGrAUFVX3lxTE5PaWk5Uk1uYS05NTdJd2JjVnJvdUdKVUx0Mzc2d1o3eDRfMkpnQVZGRDN1WnpMV1dXdjR4R2ZMcUptamp6d0lSV09vQ2VRSFZiU19BM0lMRGo5a3NPX2Q3SHZBQTBEdUx4WjJEYndQQVo2cDVmVzd1UjBPTDVWa3hWMWoxVmhybFdOMDZIR0FxTjU0dzBSeW5sM0JXbmVKbV93YkZHa0xwclg4UQ?oc=5",
       "source": "CNBC",
-      "date": "2026-07-06T20:49:25.000Z",
-      "simple_summary": "China's Alibaba company banned its employees from using Anthropic's AI tool after accusing it of stealing their technology.",
-      "why_it_matters": "This is a business dispute between big companies and mostly matters to investors and tech workers — nothing you need to act on."
+      "date": "2026-07-06T23:00:02.000Z",
+      "simple_summary": "A business news newsletter is previewing stories about China and economics in the coming months.",
+      "why_it_matters": "This is just a preview of upcoming news — not a story itself."
     },
     {
       "title": "Gov. JB Pritzker signs Illinois AI regulations into law, aiming to rein in 'the tech bros'",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanhadjE5WFVhRldRZTdzRHhvSnBWLU5pcVUwOGdzV1lJR1BxRHFQU2tMVWlaMUZxOGJGNWgwNmtuOGdvTWFmS0ctZDZHM2ZzRHFEcmRxR004anFqSWFfdEtTZkVzQksxd1lxTjFlSDdqeHRIUEpETUk0S1pOczRFRDczOGEwMGtIbGJSbkdNLWNyVzFJalZZ?oc=5",
       "source": "Chicago Sun-Times",
       "date": "2026-07-06T19:57:00.000Z",
-      "simple_summary": "Illinois passed a law to set rules for how AI can be used, trying to make sure tech companies don't cause harm.",
-      "why_it_matters": "If you live or work in Illinois, new laws will require AI systems to be more transparent and fair, which is good protection for you."
+      "simple_summary": "Illinois's governor signed a new law to make rules about how AI companies can use people's information and make decisions. The law is meant to stop big tech companies from doing whatever they want.",
+      "why_it_matters": "If you live or do business in Illinois, this gives you some protection — companies now have to be more careful with your data and explain how their AI makes important decisions."
     },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
       "source": "TechCrunch",
       "date": "2026-07-06T19:49:10.000Z",
-      "simple_summary": "A tech company leader is discussing how to make AI work more efficiently by separating different parts of AI systems.",
-      "why_it_matters": "This is a technical business discussion that only matters to software engineers and investors — nothing you need to act on."
+      "simple_summary": "A tech company leader is discussing whether AI systems should keep 'thinking models' and 'action agents' separate from each other, or combine them.",
+      "why_it_matters": "This is technical talk for engineers and investors — nothing that affects you directly."
     },
     {
       "title": "Illinois Governor JB Pritzker signs AI bill into law",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3lIX041VnNHM1dyamtJQWpvNnM1b3RHQ1NvLURvb045TXF6VktIU1NWVktQOWExNGZBR3hpMmtGVm1mb0FhOTZRVVo0alZHb1ZvYnZqWUc0U3c5b1NsYzdhamtVaXRtVklZcUNGU0loSlk4M1g4bjBvTmRPUWMwMGxSLVZQS2tXV2tDV3hB0gGTAUFVX3lxTFB5OGhWSGlrcDg5SktaOVZCS2RXS2RrV083eEtCR01IbFRMaFdhWWsyZl94czBHbzdaMXFwVDJ5clVWUkpKb3R6Z2lqTHVJNlZBcTRkNmRYLXRmM1p5Vk1OQldPZzhFNUdib2ZlQnZMZm1pN1VrcmhGLTRkV01ZTXZIRTJ6M2d3RURZdG1GUTNIOE5adw?oc=5",
       "source": "ABC7 Chicago",
       "date": "2026-07-06T19:06:13.000Z",
-      "simple_summary": "Illinois passed a law to set rules for how AI can be used, trying to make sure tech companies don't cause harm.",
-      "why_it_matters": "If you live or work in Illinois, new laws will require AI systems to be more transparent and fair, which is good protection for you."
+      "simple_summary": "Illinois's governor signed a new law to regulate how AI companies operate in the state.",
+      "why_it_matters": "If you live or do business in Illinois, this means companies have to follow new rules about how they use AI with your information and make automatic decisions."
     },
     {
       "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
       "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "source": "TechCrunch",
       "date": "2026-07-06T19:01:59.000Z",
-      "simple_summary": "Apple is updating Siri (its voice assistant) to sound more natural and let you adjust how fast it talks and how much emotion it shows.",
-      "why_it_matters": "If you use an iPhone and talk to Siri, the assistant should soon feel more like talking to a real person — a small improvement in convenience."
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T18:35:00.000Z",
-      "simple_summary": "Big tech companies have laid off many workers this year, and they've said AI is one of the reasons.",
-      "why_it_matters": "If you work in tech, this shows companies are making changes because of AI, but for most small businesses this doesn't directly affect you."
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T17:04:58.000Z",
-      "simple_summary": "Google changed its privacy rules so it can now save more of your information — like your photos, files, and videos — to train its AI, but you can turn this off.",
-      "why_it_matters": "If you use Google, you should know they're collecting more of your personal content, and you have the right to say no to this in your settings."
-    },
-    {
-      "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-06T16:04:08.000Z",
-      "simple_summary": "AI 'distillation' (where companies copy what one AI learned into a smaller, simpler AI) has become a big topic in competition between the US and China.",
-      "why_it_matters": "This is mostly a story about government and business strategy — nothing you need to act on."
-    },
-    {
-      "title": "I spy",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "source": "The Verge",
-      "date": "2026-07-06T16:00:00.000Z",
-      "simple_summary": "A writer watched a Netflix show and noticed it shows why smart glasses (glasses with cameras and AI) create a real problem: people won't trust them because they worry about being secretly filmed.",
-      "why_it_matters": "If smart glasses become popular, this shows an important problem — people need to see and trust how they work, which is just good sense."
+      "simple_summary": "Apple is updating Siri (its voice assistant) so you can change how fast it talks and how expressive it sounds. Apple is also rebuilding Siri with new AI technology.",
+      "why_it_matters": "If you use an iPhone or iPad, Siri will soon sound more natural and personal to you, and you'll have more control over how it sounds."
     }
   ]
 }
