@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-06T20:15:52.895Z",
+  "generated_at": "2026-07-07T04:18:21.282Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Into the spider’s lair: how an Australian film-maker made an impossible documentary with AI",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHlRa1BibUhGemczVUQtSkNfSkswMzZTQlFBU2NJUzB0enNna3NJU3o3TDFLYW5yZzZjUFVEc1RTTHBJZlhXc041WlJyd2R3bl9UaU5YVEdCS3JVTGNLQ2ZoMi1SUndveElUb0VtbjV3ekF3bElxS0dmZzhzb1VMRy1BeEk2YkQ3d1Y3a3dBVUgzTTJWZjA1QkozWmxlX28wZURyX0phZWZkNHlWcUR2VDRWMkx0cVd5YklTaGp6YTI2Zw?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-07T00:49:00.000Z",
+      "simple_summary": "An Australian film-maker used AI tools to help make a documentary about spiders that would have been impossible to create otherwise.",
+      "why_it_matters": "This shows AI can help creative people do things they couldn't do before — but honestly, this is mostly interesting as a cool story rather than something that affects your daily life or business."
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T23:56:14.000Z",
+      "simple_summary": "An AI program helped carry out a cyberattack (where criminals lock up your computer files and demand money), but a human still made all the important decisions and did the setup work.",
+      "why_it_matters": "This shows AI didn't actually do anything new yet — humans are still in charge of cyberattacks. Your regular computer security practices remain your best defense."
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch",
+      "date": "2026-07-06T23:21:03.000Z",
+      "simple_summary": "A company that makes computer memory chips is doing very well because AI needs lots of these chips, and now Americans will be able to invest in their company.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you have money in stock market investments."
+    },
+    {
+      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-06T20:49:25.000Z",
+      "simple_summary": "China's Alibaba company banned its employees from using Anthropic's AI tool after accusing it of stealing their technology.",
+      "why_it_matters": "This is a business dispute between big companies and mostly matters to investors and tech workers — nothing you need to act on."
+    },
+    {
+      "title": "Gov. JB Pritzker signs Illinois AI regulations into law, aiming to rein in 'the tech bros'",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanhadjE5WFVhRldRZTdzRHhvSnBWLU5pcVUwOGdzV1lJR1BxRHFQU2tMVWlaMUZxOGJGNWgwNmtuOGdvTWFmS0ctZDZHM2ZzRHFEcmRxR004anFqSWFfdEtTZkVzQksxd1lxTjFlSDdqeHRIUEpETUk0S1pOczRFRDczOGEwMGtIbGJSbkdNLWNyVzFJalZZ?oc=5",
+      "source": "Chicago Sun-Times",
+      "date": "2026-07-06T19:57:00.000Z",
+      "simple_summary": "Illinois passed a law to set rules for how AI can be used, trying to make sure tech companies don't cause harm.",
+      "why_it_matters": "If you live or work in Illinois, new laws will require AI systems to be more transparent and fair, which is good protection for you."
+    },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
       "source": "TechCrunch",
       "date": "2026-07-06T19:49:10.000Z",
-      "simple_summary": "A tech company leader is discussing whether AI models (the thinking engines) should be separate from AI agents (the systems that actually do tasks). This is mostly a technical business debate.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "A tech company leader is discussing how to make AI work more efficiently by separating different parts of AI systems.",
+      "why_it_matters": "This is a technical business discussion that only matters to software engineers and investors — nothing you need to act on."
+    },
+    {
+      "title": "Illinois Governor JB Pritzker signs AI bill into law",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3lIX041VnNHM1dyamtJQWpvNnM1b3RHQ1NvLURvb045TXF6VktIU1NWVktQOWExNGZBR3hpMmtGVm1mb0FhOTZRVVo0alZHb1ZvYnZqWUc0U3c5b1NsYzdhamtVaXRtVklZcUNGU0loSlk4M1g4bjBvTmRPUWMwMGxSLVZQS2tXV2tDV3hB0gGTAUFVX3lxTFB5OGhWSGlrcDg5SktaOVZCS2RXS2RrV083eEtCR01IbFRMaFdhWWsyZl94czBHbzdaMXFwVDJ5clVWUkpKb3R6Z2lqTHVJNlZBcTRkNmRYLXRmM1p5Vk1OQldPZzhFNUdib2ZlQnZMZm1pN1VrcmhGLTRkV01ZTXZIRTJ6M2d3RURZdG1GUTNIOE5adw?oc=5",
+      "source": "ABC7 Chicago",
+      "date": "2026-07-06T19:06:13.000Z",
+      "simple_summary": "Illinois passed a law to set rules for how AI can be used, trying to make sure tech companies don't cause harm.",
+      "why_it_matters": "If you live or work in Illinois, new laws will require AI systems to be more transparent and fair, which is good protection for you."
     },
     {
       "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
       "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "source": "TechCrunch",
       "date": "2026-07-06T19:01:59.000Z",
-      "simple_summary": "Apple is making Siri (their voice assistant) sound more natural and less robotic by letting you adjust how fast she talks and how expressive she sounds.",
-      "why_it_matters": "If you use an iPhone, Siri might sound more like a real person soon, which could make it more pleasant to use."
+      "simple_summary": "Apple is updating Siri (its voice assistant) to sound more natural and let you adjust how fast it talks and how much emotion it shows.",
+      "why_it_matters": "If you use an iPhone and talk to Siri, the assistant should soon feel more like talking to a real person — a small improvement in convenience."
     },
     {
       "title": "Every major tech layoff in 2026 that has name-checked AI",
       "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch",
       "date": "2026-07-06T18:35:00.000Z",
-      "simple_summary": "Many big tech companies have fired workers this year and blamed AI as one of the reasons.",
-      "why_it_matters": "This shows companies are concerned AI might replace some jobs, which is worth being aware of if you work in tech or related fields."
+      "simple_summary": "Big tech companies have laid off many workers this year, and they've said AI is one of the reasons.",
+      "why_it_matters": "If you work in tech, this shows companies are making changes because of AI, but for most small businesses this doesn't directly affect you."
     },
     {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
       "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "source": "TechCrunch",
       "date": "2026-07-06T17:04:58.000Z",
-      "simple_summary": "Google changed its settings so it can use more of your data to train its AI, but you can turn this off if you want.",
-      "why_it_matters": "If you use Google and care about privacy, you should check your settings to decide whether you want Google using your information this way."
+      "simple_summary": "Google changed its privacy rules so it can now save more of your information — like your photos, files, and videos — to train its AI, but you can turn this off.",
+      "why_it_matters": "If you use Google, you should know they're collecting more of your personal content, and you have the right to say no to this in your settings."
+    },
+    {
+      "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-06T16:04:08.000Z",
+      "simple_summary": "AI 'distillation' (where companies copy what one AI learned into a smaller, simpler AI) has become a big topic in competition between the US and China.",
+      "why_it_matters": "This is mostly a story about government and business strategy — nothing you need to act on."
     },
     {
       "title": "I spy",
       "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
       "source": "The Verge",
       "date": "2026-07-06T16:00:00.000Z",
-      "simple_summary": "A TV show about smart glasses showed both the potential and the problems with this technology.",
-      "why_it_matters": "This is mainly for tech enthusiasts interested in glasses you can wear — not relevant to most people right now."
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T15:32:43.000Z",
-      "simple_summary": "Microsoft fired about 4,800 workers, mostly in their gaming division and sales team, saying AI changes played a role.",
-      "why_it_matters": "Like other layoffs, this shows large companies are shifting how they operate because of AI, but it doesn't directly affect you unless you work at Microsoft."
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T15:22:08.000Z",
-      "simple_summary": "Reddit is using AI to fight spam and fake posts on its site, because AI also helped create the problem in the first place.",
-      "why_it_matters": "If you use Reddit, the site may have cleaner discussions in the future as they fight spam more effectively."
-    },
-    {
-      "title": "Microsoft is laying off 4,800 employees",
-      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "source": "The Verge",
-      "date": "2026-07-06T13:30:00.000Z",
-      "simple_summary": "Microsoft is laying off 4,800 employees, about 2% of its total workforce, mostly from sales and the Xbox gaming business.",
-      "why_it_matters": "This confirms large tech companies are reorganizing, but it directly affects you only if you work there or depend on Xbox services."
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T13:00:00.000Z",
-      "simple_summary": "A startup hub in Paris is helping European AI companies grow and find funding.",
-      "why_it_matters": "This mostly matters to investors and people starting AI companies — nothing you need to act on."
-    },
-    {
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "The Verge",
-      "date": "2026-07-05T22:30:54.000Z",
-      "simple_summary": "Some wealthy families are using AI programs instead of traditional schools to teach their children.",
-      "why_it_matters": "If you're thinking about education options, know that some families are experimenting with AI tutors, though this is mostly available to the very wealthy right now."
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch",
-      "date": "2026-07-05T17:43:36.000Z",
-      "simple_summary": "Amazon is stopping its Mechanical Turk program, which let people earn money by doing small online tasks.",
-      "why_it_matters": "If you used Mechanical Turk to make extra money, you won't be able to do this through Amazon anymore after the changeover."
-    },
-    {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "The Verge",
-      "date": "2026-07-05T14:23:11.000Z",
-      "simple_summary": "Google made a commercial showing the Founding Fathers using Google's AI and collaboration tools, and many people thought it was embarrassing.",
-      "why_it_matters": "This is just advertising news — it doesn't affect how Google products actually work."
+      "simple_summary": "A writer watched a Netflix show and noticed it shows why smart glasses (glasses with cameras and AI) create a real problem: people won't trust them because they worry about being secretly filmed.",
+      "why_it_matters": "If smart glasses become popular, this shows an important problem — people need to see and trust how they work, which is just good sense."
     }
   ]
 }
