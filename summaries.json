@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-07T15:17:45.917Z",
+  "generated_at": "2026-07-07T20:17:06.457Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch",
+      "date": "2026-07-07T20:04:32.000Z",
+      "simple_summary": "This article discusses whether free, open-source AI tools are competing with or complementing expensive AI companies.",
+      "why_it_matters": "Mostly interesting to investors and tech industry people."
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch",
+      "date": "2026-07-07T19:58:20.000Z",
+      "simple_summary": "Microsoft is spending less money on AI by using its own AI tools instead of paying other companies for theirs.",
+      "why_it_matters": "If you use Microsoft products, they may gradually improve their built-in AI features without you paying extra."
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch",
+      "date": "2026-07-07T19:28:38.000Z",
+      "simple_summary": "Discord (a chat app) apologized because its AI safety system made a mistake and banned hundreds of innocent users for weeks, thinking harmless pictures were breaking the rules.",
+      "why_it_matters": "If you use Discord, their AI moderator got too strict, but they fixed it — a good reminder that AI tools can make mistakes."
+    },
+    {
+      "title": "Nearly half of early career lawyers use AI daily, survey finds",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBhbW5xZ25XcnpySHRTZjRCeGRVWjhHQWd0cUdCLVRkWk9uLXBTQzlldXBydVNMX2lta3otMU8xN0k4R0FyanZlTTJITTJOb0RmOVlHNXhqdm9EWU55d3pBaFBSdUdvRXBQbFRCS0ZhZElFV0FGbUZQUVFPUHQ4V25BSFJqVllaN29ySXc5OF9Qbm05YkFpUXhCUGNEU2JvMWxUWlFvRFNSUmRQUHJlLXhwR1o?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-07T18:40:35.000Z",
+      "simple_summary": "A survey found that nearly half of new lawyers are using AI tools every day to help with their work.",
+      "why_it_matters": "Young lawyers are finding AI helpful for their jobs, which might change how legal services work in the future."
+    },
+    {
+      "title": "China Built Cheap AI. Now It’s Building a Great Wall Around It",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVRlMFBlMVpQUnBfZHVnOWU0bU51NjFYM1Y4RmpEUmQwenZfX3o5S2FLLXp6c1NpRVozZklrQy1oWkpIZFIzVE9EYTVjcjFFSl9xQk92WThlcnh1SEZzTFVlOGZZcG95dTh3dVNDeGdBWTJOTnBKWHItUkRjS2VibEN1ODRHX2hRSkVIbE1IcXBEVThGTVE?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-07-07T18:15:28.000Z",
+      "simple_summary": "China has built cheap AI tools and is now restricting how people can use them, similar to how a government might control what citizens can see on television.",
+      "why_it_matters": "This is mostly about government control — nothing directly affecting most ordinary people outside China."
+    },
+    {
+      "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-07T18:00:01.000Z",
+      "simple_summary": "Meta (Facebook's parent company) is creating its own AI tool that makes pictures, trying to attract advertisers and people who pay for subscriptions.",
+      "why_it_matters": "If you use Facebook or Instagram, Meta may add this image-making AI feature to their apps eventually."
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge",
+      "date": "2026-07-07T17:46:59.000Z",
+      "simple_summary": "Anthropic's Claude AI tool (which was only available on computers) is now becoming available on phones and websites for the first time.",
+      "why_it_matters": "If you subscribe to Claude, you'll soon be able to use it on your phone and web browser, not just your computer."
+    },
+    {
+      "title": "US trade deficit surges amid artificial intelligence spending boom",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hsbG52T01yZFNCUmNQN2k5alNLaWtEOFZNTmdzeVVFWU5sY0JuZDFXTEhNMElPZnNtSkV2cFc3NzZ1WnNSaWstMV85RFNzX01vTUs5cm4ySUVUSGF4SGtkX3NKYVZ2VWV6Z1g0TlFkdUNwcWo2QnVabldkeUJCM2ZHNlM1cENTb2txa3hQZExRc2lKTG1ITmlZcFhQUVVGM1RaRDNablozV01HT2fSAbMBQVVfeXFMTXpDczJJT3JlLUlIX2hPZmZ5N1BDNWxKSm5ZcTBmelpia3NERFZhX3pzdm5kY0NNa0VZeFdkSVRUV1p1RkhRcHM5THY5azZRUk56MUFYS3BVWF9oZUFuOTBJLVQybFJVWW8zT3hJTEpxQXdEQlUxS09EM3VVeXFFUk1na2t1NWdZZkJZaEFlMkFvY0F4MlJFQmlIN1VxT2lId3kwZExIZ3ROX3VvRE9FaVZGZ0E?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-07-07T16:41:54.000Z",
+      "simple_summary": "America's trade deficit (the gap between what we buy from other countries versus what we sell) grew partly because the US is buying a lot of expensive AI equipment and computer parts from overseas.",
+      "why_it_matters": "This mostly matters to economists and policy makers — it's not something that directly affects your daily life."
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch",
+      "date": "2026-07-07T16:27:18.000Z",
+      "simple_summary": "Claude Cowork (an AI work assistant) is expanding to phones and websites, so you can start a task on your computer, check progress on your phone, and finish it later even if your computer is off.",
+      "why_it_matters": "If you use this AI tool, it becomes much more flexible — like being able to manage a project from anywhere."
+    },
     {
       "title": "Column | How to stop ChatGPT from ruining how you think",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEZPU0NDMHJ2SUFzcnFkTE1PbXUxdFlJSE1JWmpQV09EMV9aTFdKbWMwcFBkOXRHVUg5WUNrbmxLZElMYmVSNEtlUEdsS3g2WVB3UVlpS1p6M3UtMmIwOEVGb0JCOVA0SU5PVmNoUU9OZ0hkRjRwcTVZQUZDWlQySTFuUmcwUlVxbWc0MXoxUG1YUTJSQkdv?oc=5",
       "source": "The Washington Post",
-      "date": "2026-07-07T15:01:31.000Z",
-      "simple_summary": "An opinion piece warns that using ChatGPT too much might change how you think and reason about problems.",
-      "why_it_matters": "If you rely on AI to do all your thinking, you might lose your own problem-solving skills — like how a calculator can make you forget how to do math in your head."
-    },
-    {
-      "title": "Cybersecurity expert warns China's AI advances could intensify global tech competition",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQbktQWHQtNGxZNFJ1MWZMSGZ5WE9NQjdRZWNraXJmSkpfR1dfSjFrZExoeWc5Sm1JR0tHbjFLdG1xTzhjM0tvcjJLbjdXUU5hS1llOGUtbVVMbDg1LVpNeDIxNzhZRTJ1YV9hMlBaQTdpNllqWDhWUEs0M29QbHo5RHVMUDVXeGU2UDg0Q2dKZ2tEQzhmRjFUUXRUOGVyaEhsaUdZcHVEU25qam1ZRlZjblJUNVpzTGJSVUw4V29HbmxWOGc5X0N1R0RVMVBtbk8wUlZ0OTJ3VWhHUXBoREExYjVMODhoZE5FUXcxMnRUN015SkV1dHJqYWJsWVg2TmM5Q0k0Y09FQ3hNa21wVkU1QXhOWWs3N1pNejFtdmFpY3J1dXpuUEtNNm5OQXZQZnVqWXI1RFRiOGhPWVpjMDUwZ3g4bHhKal9IMVA0X1p1U1JoWnRYc1pHVHozT3Fqdmx0ZkQtaGc1UmdKMk9MMnc?oc=5",
-      "source": "KOMO",
-      "date": "2026-07-07T15:00:45.000Z",
-      "simple_summary": "China is getting better at AI, which is making other countries worried about competition.",
-      "why_it_matters": "This mostly matters to politicians and large companies — it won't directly change your daily life or small business soon."
-    },
-    {
-      "title": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEN0ZE80SEJqaHotd0NQS050T0VXY25RS0VNZmFkRjRFaWFmbjRiUXZOdkxyMFQ3VW03OTEwMmlrdk1xdVBUb2oyYnpyaW5vV2hXT0RqeUVJc0FzMjRtSktGNmd1cU5uOUZNSF84TGRHbXJ5ejA1bW80VGkzOTRjYWFPYWtORWlJNTEydjlsM01JSVhaVUlFdkRCM3RDN2xSUTdDSUxIeVlkSDFXd2tFMy1vX2E?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-07T14:46:07.000Z",
-      "simple_summary": "A boss of an AI company got caught using secret tips from lawyers to make unfair trades and make money illegally.",
-      "why_it_matters": "This is a legal case about one person breaking the rules — it doesn't affect ordinary people or small businesses."
-    },
-    {
-      "title": "UCSD aims to put AI research into practice",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHTzU4Zk91TUJYT2Z1cDdpX0JYaXU2SzNrZmxkd2VDZXRpVVI1SVNXVEVhQ3E1Sk01b2Mxb0tMdFl1WVZNSGpKMWxXOVZLc05XRXY3ZXFMT1paZE9rMjB1R3FtckJXa01QZDh3RUxrR3dZWXgzWmEyc3FiY2w?oc=5",
-      "source": "Healthcare IT News",
-      "date": "2026-07-07T14:34:20.000Z",
-      "simple_summary": "A university is trying to take AI research discoveries and turn them into real tools that hospitals and doctors can actually use.",
-      "why_it_matters": "Over time, this could mean better medical care, though it will take years before you'd notice any difference."
+      "date": "2026-07-07T16:00:00.000Z",
+      "simple_summary": "The Washington Post published advice about how to use ChatGPT in ways that don't harm your own thinking skills.",
+      "why_it_matters": "If you use ChatGPT or similar AI, it's a reminder to think for yourself rather than letting AI do all your thinking."
     },
     {
       "title": "Solos debuts an even lighter version of its camera-less smart glasses",
       "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
       "source": "The Verge",
       "date": "2026-07-07T13:00:00.000Z",
-      "simple_summary": "A company made new smart glasses that are half the weight of last year's version and use voice commands instead of cameras.",
-      "why_it_matters": "If you're interested in wearable tech that you talk to, this is getting lighter and more practical — though these are still expensive gadgets for early adopters."
+      "simple_summary": "A company made lighter smart glasses with an AI voice assistant that works without a camera — they weigh about half as much as the previous version.",
+      "why_it_matters": "This is interesting technology but still mainly a gadget for early adopters — most people don't need AI smart glasses yet."
     },
     {
       "title": "Stymied datacentre projects threaten global AI revolution",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzVFeW9kTVRJQ3FyUmExcTNSbkJMejRqQUlRbGZ2NjVOVUM0eENtWXhIMXltR00taTQ0VGNNQXo1czBtblhFbnFWbUN4WFFydE1hWk94dlpXR3V3ajFmX2JtbUxYclpiYXJKTXc1UDF0eVVjZDVzczVGQ2N3NzY0eWFwY0oyU2ZhcktkRXY5VDA3cUdjdFhWMmRtVGRHSzhxdThHYXFfZEtPNE1t?oc=5",
       "source": "The Guardian",
       "date": "2026-07-07T12:57:00.000Z",
-      "simple_summary": "There aren't enough large computer warehouses being built fast enough to support AI growth around the world.",
-      "why_it_matters": "This mostly matters to tech investors and AI companies — nothing you need to worry about as a small-business owner right now."
-    },
-    {
-      "title": "Amazon Returns to US Bond Market to Fund AI Infrastructure Build",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-07-07T12:14:20.000Z",
-      "simple_summary": "Amazon borrowed billions of dollars from investors to pay for building more powerful computer systems for AI.",
-      "why_it_matters": "This is a financial move by a huge company — it doesn't directly affect small businesses or everyday people."
-    },
-    {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch",
-      "date": "2026-07-07T12:00:00.000Z",
-      "simple_summary": "A new app is being launched to help warn people when someone is trying to scam them with fake AI voices, like pretending to be a kidnapper demanding money.",
-      "why_it_matters": "If you or your family get calls from scammers using AI voices, this app might help protect you from falling for it."
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch",
-      "date": "2026-07-07T09:00:00.000Z",
-      "simple_summary": "The U.S. military is using over 100 self-driving robot vehicles (like small ATVs) in Ukraine to help with the war.",
-      "why_it_matters": "This is a military application in a war zone — it doesn't affect your life or small business."
-    },
-    {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T23:56:14.000Z",
-      "simple_summary": "A computer attack using AI still needed a human to choose the target and set up most of the work — the AI just did the final technical step.",
-      "why_it_matters": "This means AI isn't taking over criminal attacks on its own yet; criminals still need to do the thinking — nothing new to fear as a business owner."
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T23:21:03.000Z",
-      "simple_summary": "A Korean computer chip company is selling shares to American investors because AI is driving huge demand for their products.",
-      "why_it_matters": "This is a stock market event that matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "TechCrunch",
-      "date": "2026-07-06T19:49:10.000Z",
-      "simple_summary": "A tech company leader is talking about separating AI models from AI agents to make them work better and cheaper in real-world use.",
-      "why_it_matters": "This is a technical discussion for engineers and tech companies — not something that affects ordinary people or small businesses."
+      "simple_summary": "Building the giant computer centers needed to train and run AI tools is running into delays and problems, which could slow down AI development worldwide.",
+      "why_it_matters": "This mostly matters to tech companies and investors — it might slow down when advanced AI becomes widely available, but nothing you need to worry about now."
     }
   ]
 }
