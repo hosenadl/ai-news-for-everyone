@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-08T03:47:24.732Z",
+  "generated_at": "2026-07-08T08:45:29.991Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "China's DeepSeek developing its own AI chip",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPRGVDRlJRTm9jRjVzVERyLUs2ZVlDMHktQm5VdDBqcXRZMkt1RVFKNWJRMnNOTFZQdWUtVTNmZkFCbTQ3RHEzU3lVOVhjYVNKeWVua0VhWkw4YlpteFhDdnZKV2dITndTMU03SXQ1emNZRkFPVDZhTnJ2OC1FRmRjMk1JcmxScElNZ2FZNDNQb3MwWTltM0Nfa1FvNHlnczIzSkZ2SW12OFEtZGd3T2xYN2NZVEExWFVtZEJNRHJUYzI4TWF1S1Y5RlRxQ0ZKZU1VNVFDdHEtbnhaRUM4NHEtNUx5QmxoZnBLNXBXcVBFaTFxUDhlTU9zVVVldG9wOEdJMlpIYzd2dDdWR2JKZUZLeDYzbWI3Z0VTNmZReHVabnhWaVFLNnVhampMSGUwM1Jld1dzT2x30gHzAUFVX3lxTE5TMjBuRkVaQ3pScHlCSTBlUUt0VllhQkpXZzhSYTlubDBFR295NWw5dFNMSzNZMVhTSjQ5T0w2V2k4R0JPdW5SaTF5ZFdrTUNKRTBWQWt5eG1zeDFRTWhURmxsMFBYa2lLQ2JubDhKd1JTSUVyR00wM2pwX3huRDZCQkM4Q0NvZUk0N0NTZ2hqSTNaeGVwUDc3OFROd2lPc3RsT2NSVUNZc2dGX3hMYUo4V1dGZVZyWVgtQ3Z5d1VPMElRNUgtZlhVZnZzR0V2MmF2bGViN2tRa20wTzNfUGtEaEx3SXVYcnBIWmdUek0xTlFfMA?oc=5",
-      "source": "ET CIO",
-      "date": "2026-07-08T02:36:00.000Z",
-      "simple_summary": "China is building its own computer chips designed specially for AI, instead of buying them from other countries. This is like a bakery deciding to build its own ovens instead of renting them.",
-      "why_it_matters": "This mostly matters to tech investors and governments tracking global power — not something you need to worry about for your daily life or business."
+      "title": "The AI licensure debate is missing the point of licensure",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQS1VU3FTTkFqRGZVTHppRE0wYndMZXlzRU53T1NkeWs0TTBKbTRFQ1ZRcDJIbENmOHFSQ2h0bDJ4b3NMYlRnRm9NTTRjOTdacUc3TjFIVEU5bjRtdU9qZjdNeWpFOC1aZ21NUnhGSTFYSkw2X2w5TFhiMmlPdlRMSUJmLXlPbHd0a2VV?oc=5",
+      "source": "STAT",
+      "date": "2026-07-08T08:31:30.000Z",
+      "simple_summary": "People are debating whether AI systems should require licenses (like doctors or plumbers do), but the discussion isn't focused on what really matters about licensing.",
+      "why_it_matters": "This mostly matters to lawmakers and tech companies — nothing you need to act on right now."
     },
     {
-      "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlRkSjNJOENQVlVFOE1LWVlBZDBUcWNYQ2Y5cEJydG4xaVc1MTdhclItX2szQ0pWZW02VURhUkdJMktNbFBGZUl3dGtlb003OURMdjdFdmZmR2xqNjcxRTh5R3RGcXFVNEN3NlBKdjFWLXppcXdxb29TRExueVh1S01fRHFMTUc3ZkdQYldQeUhIbDVlVGJHSWdzR01NWmVV0gGmAUFVX3lxTE1UVVRlc29LZngzN2dWM2szVFNGU0ZjMW83aHVpVjhxOFMxUVRwSzRuY3JQYTR2dmtad2pQbEl0Q2x4dXp1bVl6YkY5QWhOLVN1UjdaU3J1WWhQYWRwcmR2UnhTLVFvOTR5TDQ5NDljT2xZenBxY3NfOVJkNTAzaWp2blFhcnN6UjNJRHp4U3ZpdmcwYXUxaDU3d01HTzA4SnZFb2c4ZHc?oc=5",
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
       "source": "CNBC",
-      "date": "2026-07-07T22:26:48.000Z",
-      "simple_summary": "A financial expert thinks Samsung's recent performance might show that different companies are becoming leaders in AI technology instead of the same few staying on top.",
-      "why_it_matters": "This is mostly investor talk — nothing you need to act on right now."
+      "date": "2026-07-08T08:14:28.000Z",
+      "simple_summary": "The Chinese government issued a warning about Claude, an AI assistant made by a company called Anthropic.",
+      "why_it_matters": "This is mostly important to investors and governments — it doesn't directly affect how you'd use AI tools."
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "date": "2026-07-08T08:00:00.000Z",
+      "simple_summary": "A French AI company created free software that makes AI systems run faster and cheaper on different types of computer chips.",
+      "why_it_matters": "If you use AI tools in your business, they might become less expensive to run in the future."
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUN0YXFqRGEtZXNPeXkzSWFrVmUzZjhfZl9fb3ZxbUhCbllYMkZBa2JVbHdWaTFfZXpCb01CVFVxUkpTcnFTaDA4al9vRkJtTTFSWE8tei1ENlNPQ1JJbFhwY2xjQU1lRVNheE1DdnNaQmZwTlludGx5UUstVzFoSHVRNk1QRGNsSS1PWl8yd2lvbnNsMnVZTFdBMWtyZUhR?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-08T07:45:00.000Z",
+      "simple_summary": "Someone is recommending certain stocks related to AI memory as good investments to buy.",
+      "why_it_matters": "This is investment advice — only relevant if you buy stocks; it doesn't affect using AI."
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "date": "2026-07-08T07:16:00.000Z",
+      "simple_summary": "A company that makes special computer chips for AI just raised a huge amount of money (though it's worth less than another company thought it was worth months ago).",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TechCrunch",
       "date": "2026-07-07T22:18:10.000Z",
-      "simple_summary": "Meta (Facebook's owner) launched a new tool that creates pictures using AI, but people are upset because it might be using photos of real Instagram users without permission.",
-      "why_it_matters": "If you use Instagram, be aware your photos could potentially be used to train this AI system — you may want to check your privacy settings."
+      "simple_summary": "Meta (which owns Facebook and Instagram) created a new AI tool that makes pictures, but some people are upset because it might use their photos from Instagram without permission.",
+      "why_it_matters": "If you post photos on Instagram or Facebook, Meta's new AI might use them to create pictures, which some users see as a problem."
+    },
+    {
+      "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVdxNmR0Qm50THd5eU01ZkpfOTJyR2tNU2NZV3lzZmVNb3hseVV4MGtGeEZnaEdBVURqbkR3bXBxc3BjQjNPcGd4VnJsVWR5V1NmazVWN2VQVVNtWkJfNDgyNnZzUUFuc21tYndjWmludzY5OHhjMTNFVU93U0xXZ3lzak5NREttcnFleEJxY0xJZGEtMUNURXZodW9CRDJ6dUhLTmU3OEtyMF9kOE4wRUhUUDExUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-07-07T21:09:56.000Z",
+      "simple_summary": "Amazon borrowed $25 billion by selling bonds (like an IOU) to help pay for building AI systems.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
       "source": "The Verge",
       "date": "2026-07-07T20:31:58.000Z",
-      "simple_summary": "Meta's new AI picture-maker can include real people from Instagram in fake photos it creates, and it's now available in Meta AI, Instagram, and WhatsApp.",
-      "why_it_matters": "If you use these apps, understand that AI might create pictures containing your image without asking first."
+      "simple_summary": "Meta launched an AI picture-maker that can pull real photos of Instagram users into AI-generated images.",
+      "why_it_matters": "If you use Instagram, your photos could end up in AI-made pictures created by other people."
     },
     {
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "source": "TechCrunch",
       "date": "2026-07-07T20:04:32.000Z",
-      "simple_summary": "Free, publicly-available AI tools are becoming popular, but this isn't hurting the big companies that make fancy AI systems yet — they seem to serve different purposes.",
-      "why_it_matters": "This mostly matters to tech companies and investors — nothing urgent for regular business owners."
+      "simple_summary": "Even though free, open AI models are becoming more popular, it's not hurting Anthropic's business because they serve different purposes.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
     },
     {
       "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
       "source": "TechCrunch",
       "date": "2026-07-07T19:58:20.000Z",
-      "simple_summary": "Microsoft is spending less money on AI by using its own AI tools instead of paying other companies for theirs.",
-      "why_it_matters": "This is mostly investor news — it doesn't change what Microsoft offers to small businesses right now."
+      "simple_summary": "Microsoft is spending less money on AI by using more of its own AI models instead of paying other companies for them.",
+      "why_it_matters": "This might mean Microsoft's AI services stay affordable, but it's mainly a business decision by a big company."
     },
     {
       "title": "Meta Unveils an A.I. Image Generator",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUUcxd0lXNnBmbUtySE1MalRjLVc2d2JMbXA1MkVrdnZGQjNIb2tFUHVqQXBWSHR3ZzF3MnVSbEh5SFZaWEJFY2EzcDdEM0gzY3pqc1ZoUkcyOV9qdmZteXJNODYzekp4LXp5WWdoMmtfa21wS3lBZg?oc=5",
       "source": "The New York Times",
       "date": "2026-07-07T19:50:55.000Z",
-      "simple_summary": "Meta announced a new tool that creates AI-generated pictures.",
-      "why_it_matters": "If you use Meta's apps, you now have access to an AI tool for making images — though be aware it may use real people's photos in the process."
+      "simple_summary": "Meta created a new AI tool that can generate pictures.",
+      "why_it_matters": "You may see AI-generated images in Meta's apps like Facebook and Instagram."
     },
     {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "source": "TechCrunch",
       "date": "2026-07-07T19:28:38.000Z",
-      "simple_summary": "Discord (a chat app) had a mistake in its AI safety system that wrongly banned users for harmless pictures — it affected people since May until they fixed it.",
-      "why_it_matters": "If you use Discord, this was a bad bug but they've fixed it now — just something to know about how automated systems sometimes make errors."
-    },
-    {
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "source": "The Verge",
-      "date": "2026-07-07T17:46:59.000Z",
-      "simple_summary": "Claude (an AI assistant made by Anthropic) can now be used on phones and computers through the web, not just on desktop apps.",
-      "why_it_matters": "If you subscribe to Claude, you can now use it anywhere instead of being stuck at your desk — makes it more convenient to get AI help while on the go."
-    },
-    {
-      "title": "US trade deficit surges amid artificial intelligence spending boom",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hsbG52T01yZFNCUmNQN2k5alNLaWtEOFZNTmdzeVVFWU5sY0JuZDFXTEhNMElPZnNtSkV2cFc3NzZ1WnNSaWstMV85RFNzX01vTUs5cm4ySUVUSGF4SGtkX3NKYVZ2VWV6Z1g0TlFkdUNwcWo2QnVabldkeUJCM2ZHNlM1cENTb2txa3hQZExRc2lKTG1ITmlZcFhQUVVGM1RaRDNablozV01HT2fSAbMBQVVfeXFMTXpDczJJT3JlLUlIX2hPZmZ5N1BDNWxKSm5ZcTBmelpia3NERFZhX3pzdm5kY0NNa0VZeFdkSVRUV1p1RkhRcHM5THY5azZRUk56MUFYS3BVWF9oZUFuOTBJLVQybFJVWW8zT3hJTEpxQXdEQlUxS09EM3VVeXFFUk1na2t1NWdZZkJZaEFlMkFvY0F4MlJFQmlIN1VxT2lId3kwZExIZ3ROX3VvRE9FaVZGZ0E?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-07-07T16:41:54.000Z",
-      "simple_summary": "America is importing more goods than it exports, partly because of lots of spending on AI-related equipment and technology.",
-      "why_it_matters": "This is economics and trade news — mostly matters to policy makers, not something affecting your daily business."
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "TechCrunch",
-      "date": "2026-07-07T16:27:18.000Z",
-      "simple_summary": "Claude's AI work tool now works on your phone and web browser, so you can start a task on your computer, check it on your phone, and finish it later anywhere.",
-      "why_it_matters": "If you use Claude for work, it's now more flexible — you can work from anywhere and pick up where you left off on different devices."
-    },
-    {
-      "title": "Column | How to stop ChatGPT from ruining how you think",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEZPU0NDMHJ2SUFzcnFkTE1PbXUxdFlJSE1JWmpQV09EMV9aTFdKbWMwcFBkOXRHVUg5WUNrbmxLZElMYmVSNEtlUEdsS3g2WVB3UVlpS1p6M3UtMmIwOEVGb0JCOVA0SU5PVmNoUU9OZ0hkRjRwcTVZQUZDWlQySTFuUmcwUlVxbWc0MXoxUG1YUTJSQkdv?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-07T16:00:00.000Z",
-      "simple_summary": "A newspaper article warns about how using ChatGPT might change the way you think about problems.",
-      "why_it_matters": "This is opinion writing — worth thinking about whether relying too much on AI might make your own thinking lazier, but not urgent news."
+      "simple_summary": "Discord (a chat app) made a mistake with its AI system that incorrectly banned some users for harmless pictures, and the company has fixed the problem.",
+      "why_it_matters": "If you use Discord, this bug has been fixed, so you shouldn't be wrongly banned for harmless images anymore."
     }
   ]
 }
