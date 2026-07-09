@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-09T04:15:30.399Z",
+  "generated_at": "2026-07-09T10:04:06.564Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T22:41:33.000Z",
-      "simple_summary": "A company called Lovable is trying to raise money that would value it at $13.2 billion. This is mostly a business deal between the company and investors.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Generative Artificial Intelligence (AI) in Teaching Market Report 2026: Global Analysis Projects 42.8% CAGR and $9.1 Billion Valuation by 2030",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGlHOWdPU2prMnFQTWZHMnlPUld5SEpqZEdpSkZnMnpvNWZuc0daMFhlNTlCREdTeUNPUllhZkYxemF6aUh4dlBway1LeE1uZFBVSWUtM1VMdUp1Q1l3UmdlNkRMXy1UbGc2anVzaUloSG5MRzN0djFYcTJYbzdmaFBSeEs0U0g2dUgyVnZ3YzZ1RUpUMWQ5X3pSWUo2aHVqMndvNlRLOUVwVjZtWkJz?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-09T08:06:00.000Z",
+      "simple_summary": "A report predicts that AI tools for teachers will become a much bigger business, growing to $9.1 billion in value by 2030.",
+      "why_it_matters": "This mostly matters to investors and education companies — nothing you need to act on right now."
+    },
+    {
+      "title": "Generative AI in Architecture Market Report 2026 Now Available — 250-Page Study Covers Design Automation, Urban Planning, and Cloud Collaboration",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamJIOC05RExleDZrVzNncnpUUXRCU1hnYk40bU8yekdRT1I3dklBYzVMek51RkRBdm9rT1cySDZuN1lwUGRseXhuU05HeDFEeENJSk56Ty1qTlFvU1VwZDJiVlAxcFVCcVBFaVc4NGdNUnhnTGhBbG56aG9nVkd2bTlYSnJSa2pDNG1idllNYWp3OVE?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-07-09T08:05:00.000Z",
+      "simple_summary": "A study looked at how AI can help architects design buildings and plan cities more quickly and work together online better.",
+      "why_it_matters": "This mostly matters to architecture firms and investors — if you're not in that business, it doesn't directly affect you."
+    },
+    {
+      "title": "Asian investors eye firms benefiting from but resilient to AI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFpaYnVRNlJkWkNoakZYaHJJOHZpY3gtM3dGY1FZTEhlSnJmY052SUoyTGZWdDk2SF84dTJfeXEtZDhhUEhEQlRBcl9zbDAxYll4clVNOXdlbUN2UEZGWDl0YWFsdkdGSTYwSTZDTXJxaUV3VGJWMFFEczRMbE1yMWxCak12VHR5UTYtcUItaWxlNDg4eGkzUmlPQVZudw?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-09T07:34:41.000Z",
+      "simple_summary": "Asian investors are looking for companies that will do well even if AI doesn't deliver everything people hope for.",
+      "why_it_matters": "This matters mainly to investors — it shows people are being careful about which AI companies might actually succeed."
     },
     {
       "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0ptYU8zWm9JNDV2dXRsaHh1V2xnekNyakdBMHdPWV96TExVNElNRlJPa3UzSHJEMl9GZ3UzeC1XdUFZUWpsRmxDUnFUTncxSEE4N3RlTGVDcGZKRzJHeFNzellGMnJ5c3BldXRwN1AwdXF6c1YtWUpnYlE4b19ubzZqSEEyX0ItUUVMT3YxZDViQU1pNWhqdDhtS2xUSnNzQ3UtVndQbmdBdHdnaU1xSGNnRlJlNUMzcm9MdXNmS2xQMWRSLW16a3NNSkM?oc=5",
       "source": "The Guardian",
-      "date": "2026-07-08T22:20:00.000Z",
-      "simple_summary": "The article discusses concerns about how much electricity AI systems use and whether their benefits are worth the environmental cost.",
-      "why_it_matters": "This could eventually affect your electricity bills and the environment, but there's no immediate action needed right now."
+      "date": "2026-07-09T06:45:00.000Z",
+      "simple_summary": "A writer warns that the big computer servers that power AI use so much electricity that it could become a serious problem for the environment and costs.",
+      "why_it_matters": "This matters because if AI keeps growing, electricity bills could go up for everyone, and environmental damage affects us all."
+    },
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch",
+      "date": "2026-07-08T22:41:33.000Z",
+      "simple_summary": "A company called Lovable is raising money and might be worth $13.2 billion soon.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
       "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
       "source": "TechCrunch",
       "date": "2026-07-08T20:37:03.000Z",
-      "simple_summary": "Google made a tool that can spot fake images made by AI. It was used to confirm that a photo of Senator McConnell was fake, not real.",
-      "why_it_matters": "This matters because it helps protect people from being fooled by fake photos online — something that could affect anyone reading news on the internet."
+      "simple_summary": "Google built a tool that can spot when pictures are fake AI creations, and it helped prove that a picture of Senator McConnell was not real.",
+      "why_it_matters": "This matters because it's getting easier to catch fake pictures and videos online, which helps protect people from being tricked."
     },
     {
-      "title": "NEWSLETTER: China weighs silicon curtain around sought-after AI models",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGx1VW5GVElsZUZsbWtoM0xUX3pUeHd4bm0tSW94Y3ZFRUx6OXdzbmZHV21ELTV2RXJKTV82Wi0tMkxFS1VQY3VuQnVhd00xODBKd3l2SUJZODFucnU0djhxQXRRVERnV0VGZ2xDSk1teU9FZWU2dWxEaWZ0NW5QQWllNTZ0VVBTbEZBQVlCTHlYRDg3QzhFVDZvRmNobHJadjl4YzZhb2FEQzlrTTNSbWtxWlZPbXVoU3pnMG1ndXpQYW1Odlp0MA?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-08T20:00:00.000Z",
-      "simple_summary": "China is considering limiting which powerful AI systems can be exported or used internationally.",
-      "why_it_matters": "This mostly affects tech companies and investors — ordinary people and small-business owners likely won't notice a change."
+      "title": "Introducing Claude apps gateway for AWS",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-07-08T19:49:22.000Z",
+      "simple_summary": "Amazon announced a new way for people to use Claude (an AI assistant) through Amazon's cloud computer services.",
+      "why_it_matters": "This mainly matters to tech businesses who use Amazon's services — it gives them another AI tool to choose from."
     },
     {
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
       "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "source": "TechCrunch",
       "date": "2026-07-08T19:30:16.000Z",
-      "simple_summary": "Elon Musk's company released a new AI chatbot called Grok 4.5 that they say is cheaper and faster than similar products.",
-      "why_it_matters": "If you use AI tools, cheaper options might become available, though this particular one is still very new and specialized."
+      "simple_summary": "Elon Musk's company released a new and cheaper version of an AI assistant called Grok that works more efficiently.",
+      "why_it_matters": "This mostly matters to investors and AI companies comparing different tools — it doesn't change anything for your daily life."
     },
     {
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
       "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "source": "TechCrunch",
       "date": "2026-07-08T19:19:15.000Z",
-      "simple_summary": "A startup thinks they can train robots to be smarter by using data from video games instead of real-world examples.",
-      "why_it_matters": "This is early research that might make robots better in the future, but it's not something small-business owners need to think about yet."
+      "simple_summary": "A startup thinks they can train robots to be smarter by using millions of hours of video game footage instead of teaching them in the real world.",
+      "why_it_matters": "This could eventually lead to better robots, but it's early research — nothing you need to worry about or act on now."
     },
     {
       "title": "Opinion | Did We Make the Wrong Bet on Big A.I.?",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlBwMUMwQW5jWWF5MnlWTUVGam51dUd2QlVZa1dsTWJQa2xIajNrMVJoVHpwT29MbU5ORUlVZ1NhcFB5OTBzVDdSTm01aEt2WHAzUlFud0phU3RrSUY5TUhVU25haHpiaFFUakc1WWRsZkYtUkJmNGw2bV80aTl6bVd4QkhvUTVldTJR?oc=5",
       "source": "The New York Times",
       "date": "2026-07-08T19:00:05.000Z",
-      "simple_summary": "An opinion piece questions whether companies and investors have bet too much money on advanced AI systems.",
-      "why_it_matters": "This is someone's opinion piece about business strategy — nothing specific for you to act on."
+      "simple_summary": "Someone is questioning whether betting so much money on advanced AI was the right decision.",
+      "why_it_matters": "This is one person's opinion about whether AI companies will succeed as investors hope — it doesn't affect your life directly."
     },
     {
       "title": "Google Photos adds a new AI ‘Video Remix’ tool",
       "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
       "source": "TechCrunch",
       "date": "2026-07-08T18:30:08.000Z",
-      "simple_summary": "Google added a new feature to Google Photos that uses AI to improve your videos — it can brighten dark videos, change backgrounds, or add artistic effects.",
-      "why_it_matters": "If you use Google Photos, you'll have new tools to make your vacation videos and family photos look better."
+      "simple_summary": "Google Photos added a new feature that can improve your videos by adding better lighting, changing backgrounds, or adding artistic effects.",
+      "why_it_matters": "If you use Google Photos, you now have new tools to make your family videos and pictures look nicer without much work."
     },
     {
       "title": "Why this CEO thinks video games make better training data than the internet",
       "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
       "source": "TechCrunch",
       "date": "2026-07-08T17:47:55.000Z",
-      "simple_summary": "Someone thinks robots and AI will learn better from video game data than from information on the internet.",
-      "why_it_matters": "This is research thinking about AI's future development — nothing that affects you or your small business right now."
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T17:11:18.000Z",
-      "simple_summary": "Meta is adding a light to indicate when its AI glasses are recording, so people don't secretly film others. But Meta is also collecting more personal data for its AI products.",
-      "why_it_matters": "If you or people around you use these glasses, it's good they're adding a visible light — but the privacy concerns about data collection remain something to be cautious about."
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T17:00:00.000Z",
-      "simple_summary": "OpenAI improved its voice AI so it can talk and listen at the same time, which makes live translation between languages easier and more natural.",
-      "why_it_matters": "If you travel or talk with people in different languages, this could eventually make translation easier and more natural-sounding."
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "source": "The Verge",
-      "date": "2026-07-08T17:00:00.000Z",
-      "simple_summary": "OpenAI made ChatGPT's voice feature better at sounding like a real person — it interrupts you less and lets you finish your thoughts.",
-      "why_it_matters": "If you use ChatGPT's voice feature, conversations will feel more natural and less frustrating, like talking to a real person instead of a robot."
+      "simple_summary": "A CEO believes that teaching AI using video game information might be better than teaching it from the internet, because games show how things actually move.",
+      "why_it_matters": "This is mostly tech research — nothing you need to act on, but it could eventually make AI better at understanding the physical world."
     }
   ]
 }
