@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-09T15:35:27.127Z",
+  "generated_at": "2026-07-09T20:05:55.323Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T19:40:45.000Z",
+      "simple_summary": "Meta (Facebook's parent company) released a new AI tool that helps computer programmers write code faster and fix mistakes. It's designed to handle big, complicated projects.",
+      "why_it_matters": "This mostly matters to large businesses and programmers — nothing you need to worry about as a small-business owner unless you hire programmers."
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T19:05:58.000Z",
+      "simple_summary": "The New York Times says OpenAI didn't show them tools that could prove ChatGPT copied their news articles. They're suing over this.",
+      "why_it_matters": "This is a legal battle between big companies and lawyers — it won't directly affect you, though it may eventually affect what AI can and can't do with content."
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T18:40:51.000Z",
+      "simple_summary": "Google now requires advertisers to tell people when an ad was created or changed using AI. Before, only election ads had to do this.",
+      "why_it_matters": "If you run ads online, you'll need to disclose when AI helped create them — but this is a straightforward labeling requirement, not complicated."
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T18:34:35.000Z",
+      "simple_summary": "A Paris AI company raised $100 million to expand to California and compete with other AI companies. This is mostly about investors and where tech jobs are growing.",
+      "why_it_matters": "This matters to investors and tech workers — nothing relevant to ordinary people or most small businesses."
+    },
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T18:22:39.000Z",
+      "simple_summary": "It's unclear exactly how the government decided it was safe for OpenAI to release its latest powerful AI system.",
+      "why_it_matters": "This is mainly a question for policy experts and investors — it doesn't directly affect how you'd use AI day-to-day."
+    },
+    {
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T17:56:47.000Z",
+      "simple_summary": "Meta's AI can now generate pictures using photos from anyone's public Instagram account. You can now opt out and prevent your photos from being used this way.",
+      "why_it_matters": "If you have a public Instagram account, you should check this setting if you don't want your photos used to train Meta's AI image generator."
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+      "source": "OpenAI",
+      "date": "2026-07-09T17:48:45.000Z",
+      "simple_summary": "OpenAI announced a new very powerful AI model.",
+      "why_it_matters": "This is exciting news for tech companies using cutting-edge AI, but ordinary people should wait to see what it actually does before worrying about it."
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T17:17:37.000Z",
+      "simple_summary": "Meta is building its own computer chips designed for AI, and they'll start making them in September. The design can be changed if AI technology shifts quickly.",
+      "why_it_matters": "This matters to investors and engineers — it shows Meta is serious about AI — but it won't directly affect your daily life."
+    },
+    {
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T17:06:11.000Z",
+      "simple_summary": "Nvidia sells the powerful computer chips that everyone uses for AI, but because so many companies want to buy them, other businesses are getting rich selling simpler products around the edges.",
+      "why_it_matters": "This is mostly an investors' story — nothing you need to do or understand unless you own stock."
+    },
+    {
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "source": "The Verge",
+      "date": "2026-07-09T17:00:00.000Z",
+      "simple_summary": "Microsoft is using AI to find Windows security problems faster, so Windows 11 will get more security updates at once. This helps protect against hackers who are also using AI.",
+      "why_it_matters": "This is good news — your Windows computer will get better security protection without you doing anything different."
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "source": "The Verge",
+      "date": "2026-07-09T17:00:00.000Z",
+      "simple_summary": "OpenAI released GPT-5.6 (a very powerful AI) to the public after government approval. They also launched ChatGPT Work, a version for businesses.",
+      "why_it_matters": "There's now a business version of ChatGPT available if your company wants to use AI — but it's optional and you'd need to decide if it fits your needs."
+    },
     {
       "title": "Anthropic’s new Claude feature is quietly selling you on AI",
       "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
       "source": "TechCrunch",
       "date": "2026-07-09T14:53:09.000Z",
-      "simple_summary": "Anthropic (a company that makes Claude, an AI chatbot) added a new dashboard that shows you how much you use their AI tool. This display is designed to make you think about how much you've come to rely on it.",
-      "why_it_matters": "This is mostly a marketing trick — nothing you need to act on, but be aware that companies use these reminders to get you more attached to their products."
-    },
-    {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T14:51:00.000Z",
-      "simple_summary": "Three major AI companies are about to go public (sell shares on the stock market), and together they'll be worth more money than 25 years of all other tech company sales combined.",
-      "why_it_matters": "This mostly matters to investors and people in the stock market — nothing you need to act on."
-    },
-    {
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "source": "The Verge",
-      "date": "2026-07-09T14:00:00.000Z",
-      "simple_summary": "Meta (Facebook's parent company) released a new AI tool that can help programmers write computer code, and they're making it available for other companies to use.",
-      "why_it_matters": "This matters mainly to software developers and tech companies — not something the average person or small business owner needs to worry about."
-    },
-    {
-      "title": "Say hello to Claude Wrapped",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "source": "The Verge",
-      "date": "2026-07-09T13:30:00.000Z",
-      "simple_summary": "Claude (an AI chatbot) now has a feature like Spotify Wrapped that shows you how you used the AI over the past month.",
-      "why_it_matters": "If you use Claude, you can now see a year-end summary of your activity — similar to how Spotify shows you your favorite songs."
-    },
-    {
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "source": "The Verge",
-      "date": "2026-07-09T13:11:53.000Z",
-      "simple_summary": "Character.AI (a company that makes chatbots) is now creating short video shows that you can watch and chat with the characters in them, like interactive TV.",
-      "why_it_matters": "This is mostly for entertainment and investors — not something that affects your daily life or business."
-    },
-    {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T13:00:00.000Z",
-      "simple_summary": "Ollama, a free tool that lets people run AI programs on their own computer instead of using a company's website, raised $65 million and now has almost 9 million users.",
-      "why_it_matters": "If you're tech-savvy or a programmer, this tool gives you more control over AI without relying on big companies — but most small-business owners won't use it."
-    },
-    {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T13:00:00.000Z",
-      "simple_summary": "Character.AI is making TV-like shows where you can pause and chat with the characters or change what happens in the story.",
-      "why_it_matters": "This is mostly for entertainment — nothing you need to act on."
-    },
-    {
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "source": "The Verge",
-      "date": "2026-07-09T13:00:00.000Z",
-      "simple_summary": "FL Studio (music-making software) upgraded its AI helper to not just answer questions, but actually assist you while you're making music, like having a smart assistant in the program.",
-      "why_it_matters": "This only matters if you make music with FL Studio — otherwise it doesn't affect you."
-    },
-    {
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T12:00:00.000Z",
-      "simple_summary": "A business leader in India is stepping back from one role at an investment company as that company raises $200 million to invest in AI and financial-tech startups.",
-      "why_it_matters": "This mostly matters to investors and people in India's tech industry — nothing you need to act on."
-    },
-    {
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T22:41:33.000Z",
-      "simple_summary": "A company called Lovable is raising $300 million and may become worth $13.2 billion based on investor interest.",
-      "why_it_matters": "This mostly matters to investors and people tracking the AI startup market — nothing you need to act on."
-    },
-    {
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T20:37:03.000Z",
-      "simple_summary": "Google created a tool that can spot AI-generated fake images, and it was used to prove that a photo of a senator was actually a fake made by AI.",
-      "why_it_matters": "This is good news — as AI-generated fakes become more common, having tools to detect them helps protect people from being tricked by false information."
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "source": "TechCrunch",
-      "date": "2026-07-08T19:30:16.000Z",
-      "simple_summary": "Elon Musk's company released a new AI model called Grok 4.5 that's supposed to be cheaper and work faster than other powerful AI tools.",
-      "why_it_matters": "This mostly matters to investors and tech companies looking for cheaper AI options — it doesn't change anything for the average person or small business owner."
+      "simple_summary": "Anthropic (a company that makes Claude, a chatbot) added a dashboard that shows you how much you use their AI. The dashboard subtly encourages you to use it even more.",
+      "why_it_matters": "If you use Claude, be aware they're tracking and highlighting your usage — it's a marketing technique to get you hooked on the tool."
     }
   ]
 }
