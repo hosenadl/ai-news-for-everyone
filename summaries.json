@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-10T04:17:04.393Z",
+  "generated_at": "2026-07-10T09:54:33.829Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI, science and the risks in China’s reliance on imported precision equipment",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVFJSzY1aGRzV0p5VFlFM1dtS1pqcDBZcUxDYVB5ZF9kMnB1ZmFEV19CTTdmVzdueUwwck9fUzJlUFdSZndVcUJNNTI3TkxmZ2dxRVBjeHh0YkRxdGJEZk9qbzQ5cHM0dU9lWDJTYTFuemdzZkhvcUJYNldzcFltZGdVS1ZtbGptUkVZYWpib0FuUTA1Wm5Rb1JsRUZDcTdWMDN6T3A5T0hrZjg4VUNPbVp6NlRzZmh1aXRrMHJlQdIBvwFBVV95cUxQNFZibjFZVGdqV2ZtNE1tRlREcGNoenhjcUVYM1JBMWx3Y2RzOEtQSjVobHNwRmJtUzE4clludTFUa2l0ZkNjTlRGSk03X0paekgwdHFtT0syTndqdjV5c1RCVXNSQzZIZU1Dc0tSbXk4NUl3Uy1JYXNCcVZpRmJNdXpWLW1sUU9OYzNKSmhheHA0b3dEdEtHcVhjbjVZZ25TQ2JNUkYwcGxEeTVfQWd6Z2w4ZkZIeTlmVlYyd2p2VQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-10T03:00:07.000Z",
-      "simple_summary": "China relies heavily on imported precision equipment for AI development, and this creates risks if those supplies are cut off or controlled by other countries.",
-      "why_it_matters": "This mostly matters to investors and government policy makers — nothing you need to act on personally."
+      "title": "Study Finds AI Must Earn the Right to Move Money",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFh6MG1aZDlsSTVqbmdXUVZxNG02SnBkQ0g3elh4Sld6RFN5TE5tc3pManVrUzF1Q013TlR6MWkxUExjNDYwejRnTzFqSUg0c0hHZWxCQ0M2NlBoR3pYT092YUJtdHhXcm13U1o2OFFwQWtudFAxS0tMSzFibmRjQTVfeDk2TW5mTTc0TEJYMEp3Qi00b1NZZGVGWWd0NDZuNkhqZEQtYmRvZw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-07-10T08:00:34.000Z",
+      "simple_summary": "Researchers studied whether AI systems should be allowed to handle money and banking. They concluded AI needs to prove it's trustworthy before being given that responsibility.",
+      "why_it_matters": "This is mostly important for banks and financial companies deciding how much to trust AI — not something you need to act on right now."
+    },
+    {
+      "title": "Meta's new AI image generator may use your Instagram photos. Here's how to opt out",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlNEOUw5bFlEOVJNMHl5R0JOWFNmMG9lalo3Z2ozdUV2eEIxVk5Mc0NnTVhhWkFpeXJSRVlLQmtDLWNPWlZjQkNRT0pFQ3pXdDllWWZ0d19McFJQNmUtbmtLdzR0UnRlTmtDeTVhMVFiZGRfWDlNYUo3RURHUkxBNzhtS1h3UjRGQ2VqcEt30gGWAUFVX3lxTFB5WUN4WFB6Sm9lX0I1OUVnaEdMZElqQUVnRXZMbDZKeWVHQjFHSHJvT1BZeHc2dVZmVVJOc1A3XzU0VFFPalAxUjVsNGVpcDJydFROeWdSQmxyRTdxMTZIX0RXN1VWZ0dqSnRMYW9Za3NIOUFmNExOS3NaVEhuUS02UG1PRXB1RFkyYUFHOE9jc3psdVhuUQ?oc=5",
+      "source": "NBC Bay Area",
+      "date": "2026-07-10T00:36:09.000Z",
+      "simple_summary": "Meta (which owns Instagram) is building an AI tool that can create images, and it might use photos you've posted. They're letting people opt out if they don't want their photos used.",
+      "why_it_matters": "If you use Instagram, you may want to check your settings to control whether your photos help train Meta's AI."
     },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "TechCrunch",
       "date": "2026-07-10T00:16:54.000Z",
-      "simple_summary": "OpenAI's newest AI software will continue to power Microsoft's workplace programs like the ones used in many offices.",
-      "why_it_matters": "If you use Microsoft Office tools at work, they may get smarter AI features, but this doesn't require you to do anything."
+      "simple_summary": "OpenAI released a new, improved version of its AI called GPT-5.6 that will power Microsoft's workplace software like Word and Excel.",
+      "why_it_matters": "If you use Microsoft Office tools, you may eventually see smarter AI features built in, but this doesn't require any action from you now."
     },
     {
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "source": "The Verge",
       "date": "2026-07-10T00:04:13.000Z",
-      "simple_summary": "Microsoft's energy use and pollution went up 25% last year, mostly because they're building more computer power for AI.",
-      "why_it_matters": "This is mainly a concern for environmentally-minded investors — it doesn't directly affect your business operations."
+      "simple_summary": "Microsoft's pollution and carbon emissions went up 25 percent last year because they're running more powerful computers for their AI work.",
+      "why_it_matters": "This is mainly relevant to investors and people concerned about climate change — it doesn't affect your daily use of their products."
     },
     {
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch",
       "date": "2026-07-09T23:38:00.000Z",
-      "simple_summary": "A top leader at OpenAI is stepping down from her full-time job due to a health condition that requires ongoing treatment.",
-      "why_it_matters": "This mostly matters to investors watching OpenAI — it doesn't affect everyday users of AI tools."
+      "simple_summary": "A high-ranking executive at OpenAI had to step down from her full-time job due to a health condition and is now working part-time instead.",
+      "why_it_matters": "This matters mainly to investors tracking OpenAI — it doesn't affect regular users of their AI tools."
     },
     {
       "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
       "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
       "source": "The Verge",
       "date": "2026-07-09T23:24:04.000Z",
-      "simple_summary": "The same OpenAI leader is moving to part-time work instead of leading their AGI (advanced AI) research team.",
-      "why_it_matters": "This is company news for investors — it doesn't change how AI works for regular people."
+      "simple_summary": "OpenAI's second-in-command, Fidji Simo, is stepping back from her full-time leadership role because of an illness and will work part-time as an advisor.",
+      "why_it_matters": "This matters mainly to investors tracking OpenAI — it doesn't affect regular users of their AI tools."
     },
     {
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "source": "TechCrunch",
       "date": "2026-07-09T22:24:24.000Z",
-      "simple_summary": "OpenAI released a new version of their AI software (GPT-5.6) that they say works better in several areas, including protecting against computer attacks.",
-      "why_it_matters": "Better AI security is good for everyone, though you probably won't notice changes unless you use OpenAI's tools directly."
+      "simple_summary": "OpenAI released a new family of AI models called GPT-5.6 with improvements, including better security against computer attacks.",
+      "why_it_matters": "This is a technical update for developers and businesses using OpenAI's technology — most regular users won't notice an immediate change."
     },
     {
       "title": "An AI agent startup just let its agent run its $100M fundraise",
       "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "source": "TechCrunch",
       "date": "2026-07-09T22:08:58.000Z",
-      "simple_summary": "A company used its own AI robot worker to handle all the paperwork and meetings needed to raise $100 million in funding, proving the AI actually works well.",
-      "why_it_matters": "This is impressive technology news but mostly relevant to tech investors — small businesses aren't using AI agents this advanced yet."
+      "simple_summary": "A company called Lyzr used its own AI agent to help raise $100 million in funding, which shows their AI can actually do real work like sales and negotiation.",
+      "why_it_matters": "This is interesting proof that AI agents can handle real business tasks, but it mostly matters to investors and large companies considering using such tools."
     },
     {
       "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
       "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
       "source": "TechCrunch",
       "date": "2026-07-09T22:03:54.000Z",
-      "simple_summary": "OpenAI is shutting down its AI web browser product, but moving some of those features to its desktop app and Chrome extension.",
-      "why_it_matters": "If you were using OpenAI's browser, you'll need to switch, but the AI features are still available in other forms."
+      "simple_summary": "OpenAI is shutting down a browser it built that used AI, but it's moving those AI features into other products like a Chrome extension.",
+      "why_it_matters": "If you were using OpenAI's browser, you'll need to switch to their other tools — otherwise, this doesn't affect you."
     },
     {
       "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
       "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
       "source": "TechCrunch",
       "date": "2026-07-09T21:57:42.000Z",
-      "simple_summary": "Elon Musk says a competing AI company (Anthropic) can trust him to run their computer servers safely and won't cut off their access.",
-      "why_it_matters": "This is business and investment news — it doesn't affect regular people unless you use Anthropic's AI tools."
-    },
-    {
-      "title": "OpenAI launches new system the Trump administration initially put on a leash",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hzXzRZLXlLd1BTbS1mWWF1SjVUUHZwTkZQcEZyQll3aW15TkVtQ1pHV010X1RORi1RWnZvRUtqbDFZYUJzSGp6b1VuZUdHWVU0ZVFrWkhzNTM0aTZ5RnlPVmpRSXd3bldEOXZxSnliWkZNQ2FBN1NnRzByam9vNVhVZU4zak5FVmlsN2ZPM290cXNUcUN4NG0yazBVbXpNTVY3bFRlYm9tQ29IVnF6Sy1n?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-09T21:51:31.000Z",
-      "simple_summary": "OpenAI launched a new AI system that the Trump administration had briefly restricted.",
-      "why_it_matters": "Without more details, it's hard to say what this means — check back when there's clearer information about what the system does."
+      "simple_summary": "Elon Musk is reassuring the AI company Anthropic that he won't interfere with their business if they use his servers to run their AI.",
+      "why_it_matters": "This is a business deal between powerful people and companies — it doesn't affect ordinary people or small-business owners."
     },
     {
       "title": "Can AI answer the $3 trillion question?",
       "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
       "source": "TechCrunch",
       "date": "2026-07-09T21:47:50.000Z",
-      "simple_summary": "Technology companies and investors are debating whether AI tools actually save money and boost profits enough to justify the huge spending on them.",
-      "why_it_matters": "This matters to business owners thinking about investing in AI — if AI doesn't deliver real results, that's important to know before you spend money."
+      "simple_summary": "People are debating whether the $3 trillion investment in AI is actually worth the money and will actually deliver real value.",
+      "why_it_matters": "This matters to investors asking if AI is overhyped and overpriced — if you're not investing in AI stocks, this is financial expert talk."
     },
     {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRFZmZ3eDZLSzBVODZoTnBxOUVIWm9odExkR0g4RU10OXo4NWRlZUR4ZTFTV3N2bTdGaWZRUXB5ODhfdXd1Q01PSkV6cXdyd1BCck9VbHRrQzdLWVlfWVpCeDg1ZVZpeGZleVJSWXQxeWJGTXlKTk5nWnN0M3paTExmb1dsbnYyOGdZWUZTenpnYmVNOXc?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-09T20:36:00.000Z",
-      "simple_summary": "A financial website is recommending one particular AI-related stock as their top pick for investors.",
-      "why_it_matters": "This is investment advice — talk to a financial advisor before buying any stock based on headlines like this."
+      "title": "Nobel-Winning U.S. Chemist Will Move to China to Lead A.I. Institute",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeW5vSkVET01COWJCRm96TWJTYkVWejAyQkZlSEpxTnpBOFlNS3hMYUNLbWFDcktTUkVkeTdIRkJkYTVxNU5QenpubmUwVUpIY09veWl3RFFqQldqb2NBcFF6YzVFY0RHM2stV09vcEJuVjF5SUxuMHM0LUM0WXRteFczd0lkRXFBLXFZZUFmUXBTTzJ0Z2RnTjlia0NBX1pvMTZaTFhuZXhhQ0JfWEo5OEN3?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-09T21:15:56.000Z",
+      "simple_summary": "A famous American scientist who won a Nobel Prize is moving to China to lead an AI research institute there.",
+      "why_it_matters": "This matters mainly to people interested in where top scientific talent is going — it doesn't affect your daily life."
     }
   ]
 }
