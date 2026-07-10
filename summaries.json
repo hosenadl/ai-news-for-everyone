@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-09T20:05:55.323Z",
+  "generated_at": "2026-07-10T04:17:04.393Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "title": "AI, science and the risks in China’s reliance on imported precision equipment",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVFJSzY1aGRzV0p5VFlFM1dtS1pqcDBZcUxDYVB5ZF9kMnB1ZmFEV19CTTdmVzdueUwwck9fUzJlUFdSZndVcUJNNTI3TkxmZ2dxRVBjeHh0YkRxdGJEZk9qbzQ5cHM0dU9lWDJTYTFuemdzZkhvcUJYNldzcFltZGdVS1ZtbGptUkVZYWpib0FuUTA1Wm5Rb1JsRUZDcTdWMDN6T3A5T0hrZjg4VUNPbVp6NlRzZmh1aXRrMHJlQdIBvwFBVV95cUxQNFZibjFZVGdqV2ZtNE1tRlREcGNoenhjcUVYM1JBMWx3Y2RzOEtQSjVobHNwRmJtUzE4clludTFUa2l0ZkNjTlRGSk03X0paekgwdHFtT0syTndqdjV5c1RCVXNSQzZIZU1Dc0tSbXk4NUl3Uy1JYXNCcVZpRmJNdXpWLW1sUU9OYzNKSmhheHA0b3dEdEtHcVhjbjVZZ25TQ2JNUkYwcGxEeTVfQWd6Z2w4ZkZIeTlmVlYyd2p2VQ?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-07-10T03:00:07.000Z",
+      "simple_summary": "China relies heavily on imported precision equipment for AI development, and this creates risks if those supplies are cut off or controlled by other countries.",
+      "why_it_matters": "This mostly matters to investors and government policy makers — nothing you need to act on personally."
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "TechCrunch",
-      "date": "2026-07-09T19:40:45.000Z",
-      "simple_summary": "Meta (Facebook's parent company) released a new AI tool that helps computer programmers write code faster and fix mistakes. It's designed to handle big, complicated projects.",
-      "why_it_matters": "This mostly matters to large businesses and programmers — nothing you need to worry about as a small-business owner unless you hire programmers."
+      "date": "2026-07-10T00:16:54.000Z",
+      "simple_summary": "OpenAI's newest AI software will continue to power Microsoft's workplace programs like the ones used in many offices.",
+      "why_it_matters": "If you use Microsoft Office tools at work, they may get smarter AI features, but this doesn't require you to do anything."
     },
     {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T19:05:58.000Z",
-      "simple_summary": "The New York Times says OpenAI didn't show them tools that could prove ChatGPT copied their news articles. They're suing over this.",
-      "why_it_matters": "This is a legal battle between big companies and lawyers — it won't directly affect you, though it may eventually affect what AI can and can't do with content."
-    },
-    {
-      "title": "Google will now disclose which ads are made with AI",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T18:40:51.000Z",
-      "simple_summary": "Google now requires advertisers to tell people when an ad was created or changed using AI. Before, only election ads had to do this.",
-      "why_it_matters": "If you run ads online, you'll need to disclose when AI helped create them — but this is a straightforward labeling requirement, not complicated."
-    },
-    {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T18:34:35.000Z",
-      "simple_summary": "A Paris AI company raised $100 million to expand to California and compete with other AI companies. This is mostly about investors and where tech jobs are growing.",
-      "why_it_matters": "This matters to investors and tech workers — nothing relevant to ordinary people or most small businesses."
-    },
-    {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T18:22:39.000Z",
-      "simple_summary": "It's unclear exactly how the government decided it was safe for OpenAI to release its latest powerful AI system.",
-      "why_it_matters": "This is mainly a question for policy experts and investors — it doesn't directly affect how you'd use AI day-to-day."
-    },
-    {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T17:56:47.000Z",
-      "simple_summary": "Meta's AI can now generate pictures using photos from anyone's public Instagram account. You can now opt out and prevent your photos from being used this way.",
-      "why_it_matters": "If you have a public Instagram account, you should check this setting if you don't want your photos used to train Meta's AI image generator."
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-      "source": "OpenAI",
-      "date": "2026-07-09T17:48:45.000Z",
-      "simple_summary": "OpenAI announced a new very powerful AI model.",
-      "why_it_matters": "This is exciting news for tech companies using cutting-edge AI, but ordinary people should wait to see what it actually does before worrying about it."
-    },
-    {
-      "title": "Meta’s new AI chips will begin production in September",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T17:17:37.000Z",
-      "simple_summary": "Meta is building its own computer chips designed for AI, and they'll start making them in September. The design can be changed if AI technology shifts quickly.",
-      "why_it_matters": "This matters to investors and engineers — it shows Meta is serious about AI — but it won't directly affect your daily life."
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch",
-      "date": "2026-07-09T17:06:11.000Z",
-      "simple_summary": "Nvidia sells the powerful computer chips that everyone uses for AI, but because so many companies want to buy them, other businesses are getting rich selling simpler products around the edges.",
-      "why_it_matters": "This is mostly an investors' story — nothing you need to do or understand unless you own stock."
-    },
-    {
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "source": "The Verge",
-      "date": "2026-07-09T17:00:00.000Z",
-      "simple_summary": "Microsoft is using AI to find Windows security problems faster, so Windows 11 will get more security updates at once. This helps protect against hackers who are also using AI.",
-      "why_it_matters": "This is good news — your Windows computer will get better security protection without you doing anything different."
+      "date": "2026-07-10T00:04:13.000Z",
+      "simple_summary": "Microsoft's energy use and pollution went up 25% last year, mostly because they're building more computer power for AI.",
+      "why_it_matters": "This is mainly a concern for environmentally-minded investors — it doesn't directly affect your business operations."
     },
     {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "source": "The Verge",
-      "date": "2026-07-09T17:00:00.000Z",
-      "simple_summary": "OpenAI released GPT-5.6 (a very powerful AI) to the public after government approval. They also launched ChatGPT Work, a version for businesses.",
-      "why_it_matters": "There's now a business version of ChatGPT available if your company wants to use AI — but it's optional and you'd need to decide if it fits your needs."
-    },
-    {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch",
-      "date": "2026-07-09T14:53:09.000Z",
-      "simple_summary": "Anthropic (a company that makes Claude, a chatbot) added a dashboard that shows you how much you use their AI. The dashboard subtly encourages you to use it even more.",
-      "why_it_matters": "If you use Claude, be aware they're tracking and highlighting your usage — it's a marketing technique to get you hooked on the tool."
+      "date": "2026-07-09T23:38:00.000Z",
+      "simple_summary": "A top leader at OpenAI is stepping down from her full-time job due to a health condition that requires ongoing treatment.",
+      "why_it_matters": "This mostly matters to investors watching OpenAI — it doesn't affect everyday users of AI tools."
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge",
+      "date": "2026-07-09T23:24:04.000Z",
+      "simple_summary": "The same OpenAI leader is moving to part-time work instead of leading their AGI (advanced AI) research team.",
+      "why_it_matters": "This is company news for investors — it doesn't change how AI works for regular people."
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T22:24:24.000Z",
+      "simple_summary": "OpenAI released a new version of their AI software (GPT-5.6) that they say works better in several areas, including protecting against computer attacks.",
+      "why_it_matters": "Better AI security is good for everyone, though you probably won't notice changes unless you use OpenAI's tools directly."
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T22:08:58.000Z",
+      "simple_summary": "A company used its own AI robot worker to handle all the paperwork and meetings needed to raise $100 million in funding, proving the AI actually works well.",
+      "why_it_matters": "This is impressive technology news but mostly relevant to tech investors — small businesses aren't using AI agents this advanced yet."
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T22:03:54.000Z",
+      "simple_summary": "OpenAI is shutting down its AI web browser product, but moving some of those features to its desktop app and Chrome extension.",
+      "why_it_matters": "If you were using OpenAI's browser, you'll need to switch, but the AI features are still available in other forms."
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T21:57:42.000Z",
+      "simple_summary": "Elon Musk says a competing AI company (Anthropic) can trust him to run their computer servers safely and won't cut off their access.",
+      "why_it_matters": "This is business and investment news — it doesn't affect regular people unless you use Anthropic's AI tools."
+    },
+    {
+      "title": "OpenAI launches new system the Trump administration initially put on a leash",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hzXzRZLXlLd1BTbS1mWWF1SjVUUHZwTkZQcEZyQll3aW15TkVtQ1pHV010X1RORi1RWnZvRUtqbDFZYUJzSGp6b1VuZUdHWVU0ZVFrWkhzNTM0aTZ5RnlPVmpRSXd3bldEOXZxSnliWkZNQ2FBN1NnRzByam9vNVhVZU4zak5FVmlsN2ZPM290cXNUcUN4NG0yazBVbXpNTVY3bFRlYm9tQ29IVnF6Sy1n?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-09T21:51:31.000Z",
+      "simple_summary": "OpenAI launched a new AI system that the Trump administration had briefly restricted.",
+      "why_it_matters": "Without more details, it's hard to say what this means — check back when there's clearer information about what the system does."
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch",
+      "date": "2026-07-09T21:47:50.000Z",
+      "simple_summary": "Technology companies and investors are debating whether AI tools actually save money and boost profits enough to justify the huge spending on them.",
+      "why_it_matters": "This matters to business owners thinking about investing in AI — if AI doesn't deliver real results, that's important to know before you spend money."
+    },
+    {
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRFZmZ3eDZLSzBVODZoTnBxOUVIWm9odExkR0g4RU10OXo4NWRlZUR4ZTFTV3N2bTdGaWZRUXB5ODhfdXd1Q01PSkV6cXdyd1BCck9VbHRrQzdLWVlfWVpCeDg1ZVZpeGZleVJSWXQxeWJGTXlKTk5nWnN0M3paTExmb1dsbnYyOGdZWUZTenpnYmVNOXc?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-09T20:36:00.000Z",
+      "simple_summary": "A financial website is recommending one particular AI-related stock as their top pick for investors.",
+      "why_it_matters": "This is investment advice — talk to a financial advisor before buying any stock based on headlines like this."
     }
   ]
 }
