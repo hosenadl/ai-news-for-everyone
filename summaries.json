@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-11T08:15:41.604Z",
+  "generated_at": "2026-07-11T13:56:36.526Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjNGb19FOGwxUFRYUUU5MW5pX3duLWZ3MS02Q0pIUTNXVEtSZ1ZDb0xDMUFkcTRwQ1dlak1wdm1RbExYdFBMRy0yLXFTd3ZmanhVMkw4U0dCWnVTQ1drSWstNHpIcW5ZalBEUEtBSkkzbjVuX0tPamZsbkt0eVhWUFdhcE16RjNURHZwVm5qNUF6TzQweXJPX1lEQks5N01BeWc?oc=5",
+      "title": "The Best AI Degrees And How To Choose The Right Major",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNUpNVmRaTVhnWmRWTFRnT0hZMkxpbHFySnptWDgzLWQwbktJOGlSZFRqdEJJT1Q1VUkyOXkweGlyWS1HRU1kWGdjVVRmelJ5azZFYzREa1RoOTFQN2JveW5vNmlGc3NBS3pzM0ZDVEVGdXA4ZGc?oc=5",
+      "source": "Forbes",
+      "date": "2026-07-11T11:00:00.000Z",
+      "simple_summary": "An article about which college degrees to study if you want to work with AI, and how to pick the right one.",
+      "why_it_matters": "This mostly matters to students and parents thinking about college — nothing you need to act on."
+    },
+    {
+      "title": "3 Phenomenal Artificial Intelligence (AI) Stocks to Buy Before They Report Earnings",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEhkRGU1aXVMOVNXVDVNaWRhMWtMTjhub1RpT3BEOTVrMElDUXh4dThJQmZ2ZzQxUW9aa0JjemVMal9qcVBqQ1hPRjdkTm9Sd1l2aVBjLWw1ck1yOXJMZWZKeVV6RVYzaFpMZEhTTUc4eXZUWXZWa0dZZTZJWWliYmJkV3F1c1BMM3dJaW5kY2g1dmtYT29ZOWdMQ0M4MnpmUFlQZUhDRQ?oc=5",
       "source": "Yahoo Finance",
-      "date": "2026-07-11T06:55:00.000Z",
-      "simple_summary": "A big computer chip maker (Micron) is spending $250 billion to make more special chips used for AI.",
-      "why_it_matters": "This mostly matters to investors and tech companies — you won't see direct changes to your daily life soon."
-    },
-    {
-      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-11T05:33:46.000Z",
-      "simple_summary": "Apple is suing OpenAI (the company behind ChatGPT), saying OpenAI stole Apple's secret technology.",
-      "why_it_matters": "This is a legal battle between big tech companies; it likely won't affect you unless it slows down AI tools you use."
-    },
-    {
-      "title": "Silicon Valley's next generation feels the AI blues",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOTd1VjBWdnNOcnJEZm80LUREMVlBX2NwcDVtQk11UkdyaWZ6UTNKN212RzhPRkJJcEhpTjFnc1AzVXpZaFFtMkR2WDVvVW5PazFCQ0lvNEZvY3lfM01ZYzhQVUM1blJNbXBLNXdORTVkbHBDNlJuZ3VpRkZ4YzBJWGVzX1Q3MVN2NnhPcFJyZUd0cGtyR1NuTlJXN25CMTRUNGtMMmdBS0NhWlVIaHlNQlozeDFQYkpBMlNqYXhTX2ZuLUFhOGRicg?oc=5",
-      "source": "Le Monde.fr",
-      "date": "2026-07-11T03:00:02.000Z",
-      "simple_summary": "Young tech workers in Silicon Valley are worried about AI taking their jobs.",
-      "why_it_matters": "This shows some people in tech are concerned about AI's impact on employment, though it's mainly a story about younger workers' feelings."
+      "date": "2026-07-11T10:20:00.000Z",
+      "simple_summary": "An article recommending certain AI company stocks to buy before they announce their financial results.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNal9vaWJmc0I4clJLd21qSkRPRHhxc0ppNnNTYmFFeklxLXplenI5RVUyVHNmWGNzby1jaVNYLTNpSnFUaUVsTU1FUVlRQ2wtYUQwbEc4Sm9sSGd4alVySW5mUnpqbVF4SXdTTE9Od3VKTVpMOGZkR2t1RmJidFUzNW9LNGdvUFljX2U2ME0wQ2JWcURIdUstWjNLQzgyaERLV3c?oc=5",
       "source": "TechCrunch",
       "date": "2026-07-10T23:55:07.000Z",
-      "simple_summary": "Meta (Facebook's parent company) turned off an Instagram feature that created AI fake pictures of people using their public photos without asking permission.",
-      "why_it_matters": "If you use Instagram, this means Meta listened to complaints and removed a feature that could have copied your public photos without your say-so."
+      "simple_summary": "Meta (which owns Instagram) turned off a feature that let people create fake AI pictures of other people.",
+      "why_it_matters": "If you use Instagram, this is good news — fewer fake deepfake images of real people will be made without permission."
     },
     {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge",
       "date": "2026-07-10T23:49:50.000Z",
-      "simple_summary": "Meta removed an Instagram tool that let people make fake AI images of other people's accounts without the account owner's permission.",
-      "why_it_matters": "If you have a public Instagram account, your photos are safer now because Meta won't automatically let others use them to create deepfakes."
-    },
-    {
-      "title": "Apple files lawsuit, accuses OpenAI of stealing trade secrets",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGhTc2t3b2FxZVRVODZWZHptdjVsS2JTMEVEay1oa3lnNExxdGVZOTBOMzJBMVRpRzFhbUVMN2p5RzB5dzF2TFN0TW1reEU0Y25sV2ttWDFyX3ZpUll0dnZOSDFCaGZCZEpCeDdQZHZ1anFlcjNZQUNTb29DWFVRZg?oc=5",
-      "source": "CBC",
-      "date": "2026-07-10T23:06:36.000Z",
-      "simple_summary": "Apple is suing OpenAI for allegedly stealing Apple's secret technology.",
-      "why_it_matters": "This is the same lawsuit as headlines 1, 6, 7, and 8 — a big legal case between tech companies that likely won't affect you directly."
+      "simple_summary": "Meta removed an Instagram feature that let anyone create AI images pretending to be public accounts, without asking permission first.",
+      "why_it_matters": "If you or your business has a public Instagram account, this protects you from imposters using your image without your say-so."
     },
     {
       "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWtGRVlvQTA3OXBzNEI1YUZSN3duYzN1OXZQNGNDUmg1T1Z6eGNwbXNhQl81a3liMjAxQlB0QzlGZlBnZ3FWZ19waDZDZm9lczl4THlPTzAzdF9ja2haZkdGS1NKbmxrQ3FLZmlWdTRJVEVxczJKVnFEeG9OaUk5ekFGNEEwUjlwN0E?oc=5",
       "source": "The Guardian",
       "date": "2026-07-10T22:33:00.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming the AI company stole Apple's trade secrets.",
-      "why_it_matters": "This is the same lawsuit mentioned in other headlines — a legal dispute between big companies, nothing you need to act on."
+      "simple_summary": "Apple is suing OpenAI, claiming that some of OpenAI's workers who used to work at Apple stole secret information about Apple's devices.",
+      "why_it_matters": "This is a legal battle between tech giants — nothing you need to worry about."
     },
     {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "source": "The Verge",
       "date": "2026-07-10T21:36:51.000Z",
-      "simple_summary": "Apple is suing OpenAI and another company, saying they stole Apple's hardware secrets to help build AI products.",
-      "why_it_matters": "This is ongoing legal drama between tech giants; unless you own an AI company or work in tech, this won't directly affect you."
+      "simple_summary": "Apple is suing OpenAI and other companies, claiming their former employees stole Apple's secret hardware information and gave it to OpenAI.",
+      "why_it_matters": "This is a legal dispute between large tech companies — nothing you need to act on."
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "TechCrunch",
       "date": "2026-07-10T21:00:29.000Z",
-      "simple_summary": "Apple sued OpenAI, claiming the company's leaders directed employees to steal Apple's secrets.",
-      "why_it_matters": "This is part of the same lawsuit against OpenAI — legal news for tech companies, not something ordinary people need to worry about."
+      "simple_summary": "Apple is taking OpenAI to court for allegedly stealing Apple's trade secrets (secret recipes for how they build things), supposedly ordered by OpenAI's leaders.",
+      "why_it_matters": "This is a corporate legal case between tech giants — nothing that affects your daily life."
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "TechCrunch",
       "date": "2026-07-10T19:00:00.000Z",
-      "simple_summary": "Hugging Face (a company that lets people share AI tools freely) is growing fast and says more companies are using open-source AI instead of renting it from big companies.",
-      "why_it_matters": "This means AI tools are becoming more available to smaller businesses instead of just big tech companies — potentially more options at lower costs."
+      "simple_summary": "More and more companies are using AI tools that are free and shared openly (like a library) instead of paying companies for private AI.",
+      "why_it_matters": "If your small business uses AI tools, there are now more free options available, which could save you money."
     },
     {
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "source": "TechCrunch",
       "date": "2026-07-10T17:17:12.000Z",
-      "simple_summary": "A Korean chip company raised $26.5 billion (the largest by a foreign company in US history) and is being asked to build factories in America.",
-      "why_it_matters": "This is mainly investor news, though building US factories could mean more jobs — still mostly relevant to investors and business analysts."
+      "simple_summary": "A Korean chip-making company raised a huge amount of money and is being encouraged to build factories in America to make AI computer chips.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZBbWdwb0JoNWxLZlpGZF96S0JHeklnOEJYNXpPb1NadHBVX1JmMkszdGxiNHkzVndYZlRCYS1SelZVS2F5dzMta2lsYXlZTFVJTVdnRTNIM0pTbFktVWttOWVPa1VCcWxaOW10XzdMY3Bzb3ktamxzR1BFNkpXaFcxWjJOWDJtbUdCZms3T1o4ZUdkRnNIdlRjYUxKV0tjWHN2am9Eb3hmT2tIeldZRHN3?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-07-10T15:23:25.000Z",
+      "simple_summary": "A company built a smart AI assistant that works with Amazon's services to help manage business software.",
+      "why_it_matters": "This is technical business software mostly for large companies — nothing you need to act on."
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
       "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "source": "TechCrunch",
       "date": "2026-07-10T14:00:00.000Z",
-      "simple_summary": "The CEO of Hugging Face says companies are moving away from renting AI tools from big companies and instead using free, shared AI tools they can own and control.",
-      "why_it_matters": "This suggests smaller businesses may soon have easier and cheaper access to AI tools instead of paying big companies like OpenAI for service."
+      "simple_summary": "More companies are choosing to build and run their own AI tools instead of paying to rent them from big tech companies.",
+      "why_it_matters": "If your business uses AI, owning your own tools might become cheaper than renting — this trend could save you money over time."
+    },
+    {
+      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "source": "The Verge",
+      "date": "2026-07-10T13:45:02.000Z",
+      "simple_summary": "Instagram's leader says he won't hide AI-made posts, but says you can choose not to see them if you want.",
+      "why_it_matters": "If you use Instagram, you may get options to control whether you see AI-generated content in your feed."
     }
   ]
 }
