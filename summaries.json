@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-12T08:32:36.518Z",
+  "generated_at": "2026-07-12T13:57:52.777Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "The Verge",
+      "date": "2026-07-12T12:00:00.000Z",
+      "simple_summary": "People and towns are starting to push back against the huge power plants being built to run AI systems. The fight over where these data centers can be built is just getting started.",
+      "why_it_matters": "If you live near where a data center might be built, this could affect your local power bills and neighborhood. Otherwise, this is mostly about big company decisions."
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch",
       "date": "2026-07-11T14:13:00.000Z",
-      "simple_summary": "OpenAI is hiring someone to make ChatGPT work better for families and older adults. They want to design features that are easier for these groups to use.",
-      "why_it_matters": "If you're older or help care for parents or grandparents, ChatGPT may soon be simpler to use, similar to how some phones have bigger text options for older eyes."
+      "simple_summary": "ChatGPT is hiring someone to make the AI tool work better for families and older adults. They want grandparents and caregivers to be able to use it more easily.",
+      "why_it_matters": "If you're an older adult or help take care of someone, ChatGPT might become easier for you to use soon."
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "TechCrunch",
       "date": "2026-07-10T23:55:07.000Z",
-      "simple_summary": "Instagram removed a new AI tool after people complained about it. The tool let users create fake images of real people without their permission.",
-      "why_it_matters": "If you post on Instagram, your photos won't be used to create fake images of you anymore — Instagram listened to complaints and fixed the problem."
+      "simple_summary": "Instagram had a new AI feature that let people create fake pictures of other people on Instagram. After lots of complaints, Instagram turned it off.",
+      "why_it_matters": "If you use Instagram, you don't have to worry about AI fake pictures of you being made without your permission anymore."
     },
     {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge",
       "date": "2026-07-10T23:49:50.000Z",
-      "simple_summary": "Meta (Instagram's owner) turned off the same AI deepfake feature mentioned above because people were upset that it could copy anyone's public photos without asking.",
-      "why_it_matters": "Your Instagram photos are now safer because the company stopped letting the AI use them to make fake versions without your permission."
+      "simple_summary": "Meta removed an Instagram feature that let people create AI-generated images based on anyone's public posts, even without asking permission. They stopped it because people didn't like it.",
+      "why_it_matters": "If you have a public Instagram account, your content is safer now because people can't automatically turn it into AI images without your say-so."
     },
     {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "source": "The Verge",
       "date": "2026-07-10T21:36:51.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming that some OpenAI employees who used to work at Apple stole Apple's secrets to help OpenAI build hardware products.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — it's a legal fight between giants that doesn't affect what you can do with AI."
+      "simple_summary": "Apple is suing OpenAI, saying that OpenAI employees who used to work at Apple stole secret information about hardware to help OpenAI build AI devices.",
+      "why_it_matters": "This mostly matters to investors and people who follow tech company lawsuits — nothing you need to act on right now."
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "TechCrunch",
       "date": "2026-07-10T21:00:29.000Z",
-      "simple_summary": "Apple alleges that OpenAI's leadership directed employees to steal Apple's trade secrets for hardware development.",
-      "why_it_matters": "This mostly matters to investors — it's a corporate lawsuit between two tech companies with nothing you need to act on."
+      "simple_summary": "Apple is accusing OpenAI of stealing Apple's secret hardware designs, and says OpenAI's top leadership directed this.",
+      "why_it_matters": "This is a legal battle between two big tech companies — it doesn't directly affect ordinary people or small businesses yet."
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "TechCrunch",
       "date": "2026-07-10T19:00:00.000Z",
-      "simple_summary": "Open source AI (AI that anyone can use and modify, like sharing a recipe) is growing fast. A company called Hugging Face has become like a library where people share AI tools, and many big companies use them.",
-      "why_it_matters": "As open source AI spreads, more small businesses may be able to use powerful AI tools without paying expensive companies, similar to how free software has helped small businesses before."
+      "simple_summary": "Open source AI (free AI that anyone can download and use) is growing fast. Companies are using shared AI tools instead of always paying big companies for AI.",
+      "why_it_matters": "If you run a small business, this could mean cheaper AI tools might become available to you in the future instead of paying expensive monthly fees."
     },
     {
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "source": "TechCrunch",
       "date": "2026-07-10T17:17:12.000Z",
-      "simple_summary": "A chip company called SK Hynix raised a huge amount of money on the stock market. People are now asking them to build computer chip factories in the United States.",
-      "why_it_matters": "This mostly matters to investors and people in tech manufacturing — it's about big business deals and factory building, not something that affects your daily use of AI."
+      "simple_summary": "A Korean chip company raised over $26 billion on Wall Street and is being asked to build chip factories in the United States to help with the AI boom.",
+      "why_it_matters": "This mostly matters to investors and the tech industry — it signals AI is a big business, but doesn't change what you can do today."
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
       "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "source": "TechCrunch",
       "date": "2026-07-10T14:00:00.000Z",
-      "simple_summary": "Companies are increasingly choosing to own their own AI tools instead of renting them from big companies. Open source AI (free AI anyone can use) is making this possible.",
-      "why_it_matters": "Small businesses might save money in the future by using free or owned AI tools instead of paying subscription fees to big tech companies."
+      "simple_summary": "Companies are moving away from renting AI from big companies and instead using free, shared AI tools they can run themselves. This is becoming a popular choice.",
+      "why_it_matters": "Small businesses might save money by using free AI tools instead of always paying for expensive subscriptions from big tech companies."
     },
     {
       "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
       "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
       "source": "The Verge",
       "date": "2026-07-10T13:45:02.000Z",
-      "simple_summary": "Instagram's leader says he won't filter out AI-made content from your feed, but he says you should be able to turn it off if you want to see less of it.",
-      "why_it_matters": "You may soon get better control over whether you see AI-generated posts on Instagram, so you won't have to look at fake content if you don't want to."
+      "simple_summary": "Instagram's leader says he won't filter out or hide AI-made content on Instagram. Instead, he says you should be able to choose whether you want to see AI posts.",
+      "why_it_matters": "If you use Instagram, you may see more AI-made content mixed in with regular posts unless you set your preferences to avoid it."
     },
     {
       "title": "Would you host part of an AI data center in your home?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
       "source": "The Verge",
       "date": "2026-07-10T13:20:25.000Z",
-      "simple_summary": "A solar company is offering to pay homeowners to put small AI computer equipment in their homes. This equipment would help run AI services without needing big data centers.",
-      "why_it_matters": "If your home has good space and power, you could earn some money by hosting this equipment — it's like renting out part of your garage, but the company handles everything."
+      "simple_summary": "A solar company is asking customers to put AI computers in their homes and will pay them money to do it. The AI computers would use the homes as part of a network.",
+      "why_it_matters": "If you have solar panels or own your home, you might be able to earn extra money by letting this company put small computer boxes in your house."
     },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "TechCrunch",
       "date": "2026-07-10T00:16:54.000Z",
-      "simple_summary": "OpenAI's newest AI model will keep powering Microsoft's Copilot tools (the AI features in Microsoft Office and other products).",
-      "why_it_matters": "If you use Microsoft Word or Excel, your AI features will continue working with the latest technology — no changes needed on your end."
-    },
-    {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "source": "The Verge",
-      "date": "2026-07-10T00:04:13.000Z",
-      "simple_summary": "Microsoft's greenhouse gas emissions went up by 25 percent last year, mostly because they're building more AI data centers that use lots of electricity.",
-      "why_it_matters": "All this AI growth uses a lot of electricity, which is a concern for the environment — it's worth knowing that the technology has a real cost to our planet."
+      "simple_summary": "OpenAI's newest AI model (GPT 5.6) will be the main AI powering Microsoft's office and work tools like Outlook and Word.",
+      "why_it_matters": "If you use Microsoft Office or work tools, they will continue using OpenAI's AI — this is a business agreement between two big companies."
     }
   ]
 }
