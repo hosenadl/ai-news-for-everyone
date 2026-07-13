@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-12T19:33:20.884Z",
+  "generated_at": "2026-07-13T04:02:29.565Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcG0xWGRKX2pfSHFodWJVZlFIR0dVSUFYdk5NaWwtSGZrZXl3N00zTG11aVhadVczclRZLVdYR21NTXdYV3ZvYkw4NDZvWU04LUhQcVZDR0otei1lX1RBemRFazFKcE5idnY1bFpyR0c1VU9sdFJodWQzNkphUWlPWV9hdzZOTU10cFVWbHhCQWJDTGlacHllMkwyMGxBRkdoUTJoYw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-12T22:25:00.000Z",
+      "simple_summary": "A financial article discusses which technology companies that make AI chips might be good investments in the stock market.",
+      "why_it_matters": "This mostly matters to people who invest in stocks — nothing you need to act on."
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "The Verge",
+      "date": "2026-07-12T20:10:19.000Z",
+      "simple_summary": "Singer Lorde said she doesn't like the new AI glasses that Ray-Ban and Meta are selling, calling them not attractive.",
+      "why_it_matters": "Nothing important — this is just one person's opinion about a gadget."
+    },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
       "source": "The Verge",
       "date": "2026-07-12T16:27:06.000Z",
-      "simple_summary": "Apple's attempt to build a self-driving car didn't succeed, but the powerful computer chips they developed for it turned out to be great for AI tasks. Those chips are now used in Apple's everyday products.",
-      "why_it_matters": "This doesn't affect you directly — it's mostly about why Apple's gadgets are good at AI tasks, which you probably already notice."
+      "simple_summary": "Apple tried and failed to build a self-driving car, but the smart computer chips they created for it turned out to be very useful for other AI tasks.",
+      "why_it_matters": "This mostly matters to tech companies and investors — the chips help Apple's products work better with AI."
     },
     {
       "title": "The fight against AI data centers is just beginning",
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "source": "The Verge",
       "date": "2026-07-12T12:00:00.000Z",
-      "simple_summary": "Communities and towns are starting to push back against building large AI data centers (huge warehouses full of computers) because they use enormous amounts of electricity.",
-      "why_it_matters": "If you live near where a data center might be built, this could affect your local power costs and energy availability."
+      "simple_summary": "Communities are starting to push back against all the huge AI data centers being built near their homes because they use a lot of electricity.",
+      "why_it_matters": "If you live near where big data centers might be built, this shows people are fighting to protect their local power supply and environment."
+    },
+    {
+      "title": "Campaign text messages could soon get more effective — and annoying",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FsTHYzdUp1alY5RXBqUlNGa3hnSW5zTWpBbV9jOW12RFlFcXE1WnFkdzRPbkRiNlJ3UER5YmJyRVJrMkNvZG9MbThOVnAyNHZ2VzZNc3gzNERHdjgzSW9TS2lSMU1VY2taX3gxNjBFNDFQMVZKYUhSTDRzaURzeThPTU5hMWJtUmRNYWQ0VERhWnJLdXJTbjc5R0JuQ0QtTVp5ZEZxQQ?oc=5",
+      "source": "NPR",
+      "date": "2026-07-12T09:00:00.000Z",
+      "simple_summary": "Political campaigns might start using AI to make text messages to voters better targeted and more frequent.",
+      "why_it_matters": "You might receive more political text messages, and they could be harder to ignore because AI will make them more relevant to you."
+    },
+    {
+      "title": "Canada based Punjabi Abhinandan Gill warns against misuse of artificial intelligence in politics",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnpPOGRLRUY3dXJpSkN2aEd6TkN0a1NibXRyZFdaTVJnMVlVSklhbGk1WlpiSllmQkdhN2hRUHFuVEw3S0pjNHRPR1czV3RiREdQMkE3UEt1Rlh5QjZ1YU96UWxrNy1taEkxbzBFX01fWjJQcm5jbkRZTGVBZnVlbjJXTjE2N0Y5OEpVVmlvWVlYSV9PNHJod0VBeUpBRkRMdWVuSENROWsteVZQczYwSmc0aUZQNlpPR2N4c2o4SmhDNEZIQWszdWJiU0NXY3VGM2x4eG14R2laYmxlSE53QnFGWm1FTFItVGpnWWg5UEVsbGkybnRUMUYzRDlvQjZXbkR4QdIBigJBVV95cUxNaFhhbVU2UzE4U0stZU5OdEVtalhPRlBpU0psRU11TGNBdnNBX2w0OElPVWxha1BJdTZKenZLWmFtTU1JZExKSnM4WDFGT29mTGxrMW9CSzBxSElPTm1QejlpYXk5QmlTTWNBMlNUTlZ2WUNYQjFlTHVjTTB0cV9KUWFmLWtoSmo4TG9ELWttcTRWU0ZseXF4cmRGRlhVeFlUQnEyODczMVpzNzBma1Q5b0Z1dmpsWGozTm5xbUtuOGNOaWFUSVZuNTUxSnJwOWgzMlJBNTZFS2pRVGVrMVlranlRNlFWUE40NU1fRVNVSEROeXZ1WEd6aFkzby1UaDJZalVqQTl1ZHN5dw?oc=5",
+      "source": "The Times of India",
+      "date": "2026-07-12T08:26:00.000Z",
+      "simple_summary": "A Canadian person named Abhinandan Gill warned that AI could be misused in politics to spread false information or manipulate people.",
+      "why_it_matters": "It's a reminder to be careful about political claims you see online — they might be created or spread by AI."
+    },
+    {
+      "title": "World AI Conference, South Korea monetary policy, China economic data",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9pZ25GQTREeVVvTEtIVmxDT040b2pJc2dxaGpJeTFWNV9na3JYenlfQzk0aTkzQWIyX1VDVE9pd25JYVBGT3c5TzFEMnA5d09YYXNUekxWckREUGE0X1YwZEMydWJBeGxHUldFRWdFWTJxbGVlTUNqUWxWNUNRMFEybkctR0lCUGdIb2tDQjB2WVR0cGlrX3NfMEJ3U2lBOWRPMlNuSlpHeG9nOE5GamhoamZ6ckUxQm5J?oc=5",
+      "source": "Nikkei Asia",
+      "date": "2026-07-12T06:31:00.000Z",
+      "simple_summary": "This is just a list of upcoming events and news topics in Asia related to AI and economics.",
+      "why_it_matters": "Nothing for you to act on — this is a schedule of news items."
+    },
+    {
+      "title": "A new Manhattan Project: The countries treating AI like a nuclear bomb",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWRqbTBXQXdma2pMNlFJakN4dXB0TXp2bEhvTUxZVUEzNHUtNUVoVzkxX2pRdWd4NDlBR0h3Q0l4Rl9RMmRaUFotdy12YTViRElycmNNQnNuWEdYYnRpZEJJWFJJeDByWEdXNWF0VXZnSmloTG9zVmZKX1BzUGc2dE5qNFMyLXlrZEhZZnQ2SGFpV2NLQUNkaDVB?oc=5",
+      "source": "The Independent",
+      "date": "2026-07-12T05:00:00.000Z",
+      "simple_summary": "Several countries are treating artificial intelligence as seriously and carefully as governments treated nuclear weapons during the Cold War.",
+      "why_it_matters": "It shows that world governments are paying attention to AI's power and trying to control it responsibly."
+    },
+    {
+      "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-07-12T04:30:00.000Z",
+      "simple_summary": "Meta (which owns Facebook and Instagram) announced a new plan for how it will use AI.",
+      "why_it_matters": "Without details, it's hard to say, but Meta always works on ways AI can show you more relevant content."
     },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch",
       "date": "2026-07-11T14:13:00.000Z",
-      "simple_summary": "OpenAI (the company behind ChatGPT) is hiring someone to make ChatGPT work better for families, caregivers, and older adults.",
-      "why_it_matters": "This means ChatGPT might become easier for you and your family to use in the future."
+      "simple_summary": "ChatGPT is hiring someone to make the AI tool easier for families and older people to use.",
+      "why_it_matters": "If you're older or have family helping you with technology, ChatGPT might become easier to use soon."
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "TechCrunch",
       "date": "2026-07-10T23:55:07.000Z",
-      "simple_summary": "Instagram removed a new AI feature after people complained about it. The feature let users create fake AI images based on real Instagram posts from public accounts.",
-      "why_it_matters": "Your Instagram photos are safer now — Instagram won't turn them into AI pictures without your permission."
+      "simple_summary": "Meta removed a feature on Instagram that used AI after people complained it wasn't working well.",
+      "why_it_matters": "Nothing for you to do — Meta listened to complaints and took the tool away."
     },
     {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge",
       "date": "2026-07-10T23:49:50.000Z",
-      "simple_summary": "Meta turned off an Instagram feature that let people use anyone's public photos to make fake AI images of them without asking permission first.",
-      "why_it_matters": "Your social media photos are better protected — people can't easily create fake AI pictures of you anymore."
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "date": "2026-07-10T21:36:51.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming that former Apple employees stole Apple's secret information about hardware (physical equipment) and gave it to OpenAI.",
-      "why_it_matters": "This is mainly a legal battle between two big tech companies — it doesn't directly affect you, but it shows companies are protective of their secrets."
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T21:00:29.000Z",
-      "simple_summary": "Apple filed a lawsuit against OpenAI, alleging that current and former Apple workers gave OpenAI secret information about how to build hardware.",
-      "why_it_matters": "This is a business dispute between major companies — nothing you need to worry about."
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T19:00:00.000Z",
-      "simple_summary": "Open source AI (free AI software that anyone can use and modify) is growing fast. About half of big Fortune 500 companies now use it.",
-      "why_it_matters": "This means AI tools are becoming more available to smaller businesses and individuals, not just giant corporations."
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T17:17:12.000Z",
-      "simple_summary": "A computer chip company called SK Hynix raised $26.5 billion in the stock market (its biggest financial event), and now people are asking them to build factories in the United States.",
-      "why_it_matters": "This mostly matters to investors and the economy — building new factories could create local jobs in some areas."
-    },
-    {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T14:00:00.000Z",
-      "simple_summary": "Companies are starting to prefer using free, open source AI tools instead of renting AI from big companies like OpenAI or Google.",
-      "why_it_matters": "Small businesses may have cheaper AI options available to them in the future."
-    },
-    {
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "source": "The Verge",
-      "date": "2026-07-10T13:45:02.000Z",
-      "simple_summary": "Instagram's leader says the platform won't hide AI-generated content, but you'll be able to tell which posts are AI-made so you can choose not to see them.",
-      "why_it_matters": "You'll have a choice about whether you want to see AI content in your Instagram feed."
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "source": "The Verge",
-      "date": "2026-07-10T13:20:25.000Z",
-      "simple_summary": "A solar energy company is testing a program where they pay homeowners to put small AI computer equipment in their homes to help run AI services.",
-      "why_it_matters": "You could potentially earn money by letting a company put computer equipment in your house, though this is just a test program right now."
+      "simple_summary": "Meta turned off an Instagram AI tool that could create fake pictures of real people from other accounts because it didn't have those people's permission.",
+      "why_it_matters": "This is good news — it shows companies will remove AI features that could be used to create fake images of you without your permission."
     }
   ]
 }
