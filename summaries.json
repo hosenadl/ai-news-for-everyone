@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-13T04:02:29.565Z",
+  "generated_at": "2026-07-13T09:49:07.494Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcG0xWGRKX2pfSHFodWJVZlFIR0dVSUFYdk5NaWwtSGZrZXl3N00zTG11aVhadVczclRZLVdYR21NTXdYV3ZvYkw4NDZvWU04LUhQcVZDR0otei1lX1RBemRFazFKcE5idnY1bFpyR0c1VU9sdFJodWQzNkphUWlPWV9hdzZOTU10cFVWbHhCQWJDTGlacHllMkwyMGxBRkdoUTJoYw?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-12T22:25:00.000Z",
-      "simple_summary": "A financial article discusses which technology companies that make AI chips might be good investments in the stock market.",
-      "why_it_matters": "This mostly matters to people who invest in stocks — nothing you need to act on."
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge",
+      "date": "2026-07-13T09:00:00.000Z",
+      "simple_summary": "Google is adding its AI assistant Gemini to the Waze driving app so it can help you plan trips in a more personalized way. Some features are getting AI updates to make them work better.",
+      "why_it_matters": "If you use Waze for directions, the app might become slightly more helpful at suggesting routes or handling reports about traffic problems."
+    },
+    {
+      "title": "Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEpmaHAtcU9hNzl5WEF4MTZ0eVJoQ0E5TTdtaXdLVVBvREQ5UlZTWGhjOU1mNlBncG96dzZvRE5fSm95NXdGUGlnOG9XY0w3QlZjaU1ZR2NxcUVzSDJPODg4ZXhJR2xZaVYzUl8zN2VsWVE1aFV4TXhpMFZiMWU0RFluamEyZFRkbXpGaXJR?oc=5",
+      "source": "Yahoo Finance UK",
+      "date": "2026-07-13T08:03:00.000Z",
+      "simple_summary": "This is a market report about how AI is being used in automation (machines and software doing tasks automatically) and how fast this industry is growing.",
+      "why_it_matters": "This mostly matters to investors and business analysts — nothing you need to act on right now."
+    },
+    {
+      "title": "PANIM Emerges from Stealth to Build Distributed Infrastructure for the Next Generation of Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmc3YkpSSFBWa1M4V3pKWjNCenFMSElsM1FoZTFILW11c0NBTDV6Wks0ME15MkJiUThuSmRTQ1hFVkp4SVpyYWFFLWw2LWRHTE0weldPa3ZPb1ZBRTIyWjlScVpEOTRqTDFhVUZlajR6VzNocWtCY1JGVEhzVnhpVzJpa3l3VU1BYS1rcTIwMUdHUQ?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-07-13T08:00:00.000Z",
+      "simple_summary": "A company called PANIM is starting a business to build the underlying computer systems that new AI technology needs to run on.",
+      "why_it_matters": "This mostly matters to tech companies and investors — nothing a typical small business owner needs to know about."
+    },
+    {
+      "title": "Breakingviews - AI giants revive the golden era of invention",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTZtSGgtWndyNG9ONnRjYWY1eHh5ZXpfT3p2Ujk3RGprcm5jZ1Axd0pvQkNyWVR3dHJiNDF2cHRCd3JRYUJMSXN0WUlHSTZ1RFRJU2t1ZUpvSzE2VlBVREk0UXBFbmI5eW9CUi1sVlZ3WUxvMHZjVFBaYXJPbTBlbkVqUUtDYTZ4VlpLVUdLMWlqdnNPd3lkd25ac190R0k?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-13T05:00:00.000Z",
+      "simple_summary": "A news article discusses how big AI companies are inventing new things, similar to what happened during past eras of big technological breakthroughs.",
+      "why_it_matters": "This is mainly a business and investment opinion piece — nothing that affects your daily life."
+    },
+    {
+      "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTll5RGR0Z3YzblNRUkFyVWZ1YUx3SUN1cGxqSXBaV0FZcmpMdmhkYl9tRnJHdEpIWnNpMzlHLUNycTJDSnRFMXZCVFFHcHp3M2kzN0gybEhWcEZONVJ1TVh2SlZHYVFKelliVU0yY29WcDhoaW5KR1A3VDhKMzJubXpqOWhCdy1tMGdLM3dnTGtncmZJdTR6ekRTUXhEMnBnbjNIMC1aYUJzeTNkcFU0RVRrWUMwQQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-13T03:19:00.000Z",
+      "simple_summary": "Movie director Christopher Nolan said people are unfairly against AI, and he thinks the worry that AI will replace humans is incorrect.",
+      "why_it_matters": "This is one person's opinion about attitudes toward AI — it doesn't change how AI actually works or affects you."
+    },
+    {
+      "title": "Indian companies look to Chinese LLMs as AI costs bite",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2VwYkJIeTZ5MHZGX2c5YXRiQzc2WGpnSGhrMnZzN2FFSHhicHdIcm9oTVhxeFBDWl9waTFyN0sxT1FabVVmVHhMVHB6ZGdVV2VrcjZtVGhOazU3Wl9YTDBZZC11eHdJenZjZXFPRkdFbG5CeG9VWmRfZFl6Ql9HQ0hDQ2RpaTRtcnl4RFFfc1E5eDFHOXhCSFU4M2hVODVNSG42YURIZXVha0Zta1BCUTlqeUg3cGctc2hlc0t6WQ?oc=5",
+      "source": "Nikkei Asia",
+      "date": "2026-07-13T02:50:00.000Z",
+      "simple_summary": "Some companies in India are choosing to use cheaper AI systems made in China because AI technology has become expensive to use.",
+      "why_it_matters": "This mostly matters to large businesses making technology choices — nothing a small business owner needs to worry about."
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "source": "The Verge",
       "date": "2026-07-12T20:10:19.000Z",
-      "simple_summary": "Singer Lorde said she doesn't like the new AI glasses that Ray-Ban and Meta are selling, calling them not attractive.",
-      "why_it_matters": "Nothing important — this is just one person's opinion about a gadget."
+      "simple_summary": "Singer Lorde criticized AI-powered glasses (like Ray-Ban's smart glasses made with Meta) during a concert, saying she doesn't think they look appealing.",
+      "why_it_matters": "This is one person's opinion about a gadget's appearance — nothing that affects whether you should buy these glasses."
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
       "source": "The Verge",
       "date": "2026-07-12T16:27:06.000Z",
-      "simple_summary": "Apple tried and failed to build a self-driving car, but the smart computer chips they created for it turned out to be very useful for other AI tasks.",
-      "why_it_matters": "This mostly matters to tech companies and investors — the chips help Apple's products work better with AI."
+      "simple_summary": "Apple stopped working on a self-driving car, but the powerful computer chips the company developed for that project became useful for running AI tasks.",
+      "why_it_matters": "This explains why Apple's phones and devices are good at AI tasks, but it doesn't change anything about how you use your devices."
+    },
+    {
+      "title": "Journalist Alarmed When He’s Fired, But Company Keeps Posting AI Slop Under His Name",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd25SY1ZBaGNpeVU3Sy1uQlFkVzc0ZE5wSHFXaVh2N1ZmY1JIaVpXU3VsU3BPSDRUbDNEbjRBdGNVU0FVcnZrNnMwdkxjTUpjTE1nWjZIOF9sZWZ1czkwaE5VX3IzM1JvR3hObTBtVUxSZmlNdDY2eHRuUmdwem1PaGlwMlhjWDViQlE?oc=5",
+      "source": "Futurism",
+      "date": "2026-07-12T14:01:00.000Z",
+      "simple_summary": "A journalist was fired from his job, but the company kept publishing AI-written articles under his name without his permission.",
+      "why_it_matters": "This is a warning that some companies might use AI to write content and claim it's from a real person — be skeptical of who actually wrote what you read online."
     },
     {
       "title": "The fight against AI data centers is just beginning",
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "source": "The Verge",
       "date": "2026-07-12T12:00:00.000Z",
-      "simple_summary": "Communities are starting to push back against all the huge AI data centers being built near their homes because they use a lot of electricity.",
-      "why_it_matters": "If you live near where big data centers might be built, this shows people are fighting to protect their local power supply and environment."
+      "simple_summary": "Communities are starting to push back against the huge new computer centers that run AI systems, because they use a lot of electricity and affect local power supply.",
+      "why_it_matters": "If you live near where one of these AI data centers might be built, it could eventually affect your local electricity costs and availability."
+    },
+    {
+      "title": "New Ridley clinic opens, uses AI to improve care while reducing costs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2pqUVZpT0I4WkluMlY5Z1JTSUpJSTFKZEZ0UHRVZnNsRi1YY1hnMFo3aVVWcGJQN2VfYmU3anUwazdOSmNfRFYzN0NGeHplWFd6eENPUWNFTkh0Z2tEZnNCQk1HVzNpODU2bXJVY3E2VlFpVjFYcnJGOVRpRVBFVUZYOGtqU1NGSDNIaEdyMERtQVk1TFZNZkNrSVZCS3BIeWQzSE9mbEgyVkk?oc=5",
+      "source": "Delco Times",
+      "date": "2026-07-12T10:21:01.000Z",
+      "simple_summary": "A new medical clinic is using AI to help doctors provide better care to patients and spend less money doing it.",
+      "why_it_matters": "If you go to this clinic, you might get faster or better medical care, though you probably won't notice the AI working in the background."
     },
     {
       "title": "Campaign text messages could soon get more effective — and annoying",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FsTHYzdUp1alY5RXBqUlNGa3hnSW5zTWpBbV9jOW12RFlFcXE1WnFkdzRPbkRiNlJ3UER5YmJyRVJrMkNvZG9MbThOVnAyNHZ2VzZNc3gzNERHdjgzSW9TS2lSMU1VY2taX3gxNjBFNDFQMVZKYUhSTDRzaURzeThPTU5hMWJtUmRNYWQ0VERhWnJLdXJTbjc5R0JuQ0QtTVp5ZEZxQQ?oc=5",
       "source": "NPR",
       "date": "2026-07-12T09:00:00.000Z",
-      "simple_summary": "Political campaigns might start using AI to make text messages to voters better targeted and more frequent.",
-      "why_it_matters": "You might receive more political text messages, and they could be harder to ignore because AI will make them more relevant to you."
-    },
-    {
-      "title": "Canada based Punjabi Abhinandan Gill warns against misuse of artificial intelligence in politics",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnpPOGRLRUY3dXJpSkN2aEd6TkN0a1NibXRyZFdaTVJnMVlVSklhbGk1WlpiSllmQkdhN2hRUHFuVEw3S0pjNHRPR1czV3RiREdQMkE3UEt1Rlh5QjZ1YU96UWxrNy1taEkxbzBFX01fWjJQcm5jbkRZTGVBZnVlbjJXTjE2N0Y5OEpVVmlvWVlYSV9PNHJod0VBeUpBRkRMdWVuSENROWsteVZQczYwSmc0aUZQNlpPR2N4c2o4SmhDNEZIQWszdWJiU0NXY3VGM2x4eG14R2laYmxlSE53QnFGWm1FTFItVGpnWWg5UEVsbGkybnRUMUYzRDlvQjZXbkR4QdIBigJBVV95cUxNaFhhbVU2UzE4U0stZU5OdEVtalhPRlBpU0psRU11TGNBdnNBX2w0OElPVWxha1BJdTZKenZLWmFtTU1JZExKSnM4WDFGT29mTGxrMW9CSzBxSElPTm1QejlpYXk5QmlTTWNBMlNUTlZ2WUNYQjFlTHVjTTB0cV9KUWFmLWtoSmo4TG9ELWttcTRWU0ZseXF4cmRGRlhVeFlUQnEyODczMVpzNzBma1Q5b0Z1dmpsWGozTm5xbUtuOGNOaWFUSVZuNTUxSnJwOWgzMlJBNTZFS2pRVGVrMVlranlRNlFWUE40NU1fRVNVSEROeXZ1WEd6aFkzby1UaDJZalVqQTl1ZHN5dw?oc=5",
-      "source": "The Times of India",
-      "date": "2026-07-12T08:26:00.000Z",
-      "simple_summary": "A Canadian person named Abhinandan Gill warned that AI could be misused in politics to spread false information or manipulate people.",
-      "why_it_matters": "It's a reminder to be careful about political claims you see online — they might be created or spread by AI."
-    },
-    {
-      "title": "World AI Conference, South Korea monetary policy, China economic data",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9pZ25GQTREeVVvTEtIVmxDT040b2pJc2dxaGpJeTFWNV9na3JYenlfQzk0aTkzQWIyX1VDVE9pd25JYVBGT3c5TzFEMnA5d09YYXNUekxWckREUGE0X1YwZEMydWJBeGxHUldFRWdFWTJxbGVlTUNqUWxWNUNRMFEybkctR0lCUGdIb2tDQjB2WVR0cGlrX3NfMEJ3U2lBOWRPMlNuSlpHeG9nOE5GamhoamZ6ckUxQm5J?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2026-07-12T06:31:00.000Z",
-      "simple_summary": "This is just a list of upcoming events and news topics in Asia related to AI and economics.",
-      "why_it_matters": "Nothing for you to act on — this is a schedule of news items."
-    },
-    {
-      "title": "A new Manhattan Project: The countries treating AI like a nuclear bomb",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWRqbTBXQXdma2pMNlFJakN4dXB0TXp2bEhvTUxZVUEzNHUtNUVoVzkxX2pRdWd4NDlBR0h3Q0l4Rl9RMmRaUFotdy12YTViRElycmNNQnNuWEdYYnRpZEJJWFJJeDByWEdXNWF0VXZnSmloTG9zVmZKX1BzUGc2dE5qNFMyLXlrZEhZZnQ2SGFpV2NLQUNkaDVB?oc=5",
-      "source": "The Independent",
-      "date": "2026-07-12T05:00:00.000Z",
-      "simple_summary": "Several countries are treating artificial intelligence as seriously and carefully as governments treated nuclear weapons during the Cold War.",
-      "why_it_matters": "It shows that world governments are paying attention to AI's power and trying to control it responsibly."
-    },
-    {
-      "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-07-12T04:30:00.000Z",
-      "simple_summary": "Meta (which owns Facebook and Instagram) announced a new plan for how it will use AI.",
-      "why_it_matters": "Without details, it's hard to say, but Meta always works on ways AI can show you more relevant content."
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "date": "2026-07-11T14:13:00.000Z",
-      "simple_summary": "ChatGPT is hiring someone to make the AI tool easier for families and older people to use.",
-      "why_it_matters": "If you're older or have family helping you with technology, ChatGPT might become easier to use soon."
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T23:55:07.000Z",
-      "simple_summary": "Meta removed a feature on Instagram that used AI after people complained it wasn't working well.",
-      "why_it_matters": "Nothing for you to do — Meta listened to complaints and took the tool away."
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "date": "2026-07-10T23:49:50.000Z",
-      "simple_summary": "Meta turned off an Instagram AI tool that could create fake pictures of real people from other accounts because it didn't have those people's permission.",
-      "why_it_matters": "This is good news — it shows companies will remove AI features that could be used to create fake images of you without your permission."
+      "simple_summary": "Political campaigns are starting to use AI to write text messages to voters that might be more convincing and harder to ignore.",
+      "why_it_matters": "You may start getting more text messages from political campaigns that feel more personally targeted — they're just getting better at persuasion tactics."
     }
   ]
 }
