@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-13T15:13:30.871Z",
+  "generated_at": "2026-07-13T19:51:44.911Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch",
+      "date": "2026-07-13T18:22:10.000Z",
+      "simple_summary": "Apple is suing OpenAI, claiming the company stole secret information about Apple's products and asked job candidates to bring unreleased Apple hardware to interviews.",
+      "why_it_matters": "This mostly matters to investors and lawyers — it's a corporate dispute between two big tech companies. Nothing you need to act on."
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch",
+      "date": "2026-07-13T17:28:37.000Z",
+      "simple_summary": "Sam Altman (head of OpenAI) and Elon Musk are publicly arguing about whether space data centers are a good investment.",
+      "why_it_matters": "This is just wealthy executives arguing on social media — it doesn't affect your daily life or business."
+    },
+    {
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge",
+      "date": "2026-07-13T17:00:00.000Z",
+      "simple_summary": "Apple is accusing OpenAI of trying to steal Apple's secret product designs by asking job applicants to bring unreleased prototypes to interviews.",
+      "why_it_matters": "This is a legal fight between two giant companies. It doesn't affect ordinary people or small business owners."
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch",
+      "date": "2026-07-13T16:31:23.000Z",
+      "simple_summary": "An article raises a philosophical question about whether AI should help someone do something harmful (the headline example is deliberately extreme).",
+      "why_it_matters": "This is a thought experiment about AI ethics — interesting to think about but nothing that impacts you today."
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch",
+      "date": "2026-07-13T15:34:59.000Z",
+      "simple_summary": "Anthropic (an AI company) is now letting people in India pay for their Claude AI assistant using Indian currency instead of U.S. dollars.",
+      "why_it_matters": "If you're in India and use Claude, you'll see prices in rupees instead of dollars, which makes it clearer what you're paying. Otherwise, this doesn't affect you."
+    },
     {
       "title": "Waze adds new AI-powered features and customization updates",
       "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
       "source": "TechCrunch",
       "date": "2026-07-13T14:18:16.000Z",
-      "simple_summary": "Google is adding new features to Waze, the navigation app, using its AI assistant to help you customize your driving directions and trips.",
-      "why_it_matters": "If you use Waze for navigation, you may see new options to personalize your routes — but this is mostly a feature improvement, not something that changes how the app works."
+      "simple_summary": "Waze (a GPS and traffic app) is adding AI features to help you customize your driving routes and trips.",
+      "why_it_matters": "If you use Waze to navigate, the app will get new features to personalize your experience, though you don't have to use them."
     },
     {
       "title": "Waze is getting a bunch of new AI-powered features",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
       "source": "The Verge",
       "date": "2026-07-13T09:00:00.000Z",
-      "simple_summary": "Waze is getting updated with Google's AI assistant Gemini to help you personalize your trips and improve the app's reporting tools.",
-      "why_it_matters": "If you already use Waze, you might notice some helpful new personalization options, but the core app will work much the same way."
+      "simple_summary": "Google is adding AI-powered tools to the Waze driving app to let users customize their trips better.",
+      "why_it_matters": "Waze users may see new options to personalize their drives, but it's optional — you can use Waze as you always have."
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "source": "The Verge",
       "date": "2026-07-12T20:10:19.000Z",
-      "simple_summary": "Singer Lorde criticized AI glasses (like Ray-Ban Meta glasses) during a concert, saying they are not fashionable or appealing.",
-      "why_it_matters": "This mostly matters to investors in smart glasses companies — it's just one person's opinion about a new technology that most people don't use yet."
+      "simple_summary": "Singer Lorde said she doesn't think smart glasses with AI cameras are attractive or appealing.",
+      "why_it_matters": "This is just a celebrity's personal opinion — it doesn't change anything about AI glasses or their availability."
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
       "source": "The Verge",
       "date": "2026-07-12T16:27:06.000Z",
-      "simple_summary": "Apple stopped making a self-driving car, but the powerful computer chips it created for that project became very good at running AI tasks.",
-      "why_it_matters": "This is interesting history, but doesn't change anything for everyday people or small business owners right now."
+      "simple_summary": "Apple's attempt to build a self-driving car failed, but the powerful AI chips the company developed for it ended up making all Apple devices better at AI tasks.",
+      "why_it_matters": "If you use an iPhone or iPad, this explains why Apple's AI features work smoothly — the company learned how to build powerful chips even though the car project didn't succeed."
     },
     {
       "title": "The fight against AI data centers is just beginning",
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "source": "The Verge",
       "date": "2026-07-12T12:00:00.000Z",
-      "simple_summary": "Communities are starting to push back against the massive computer data centers that power AI systems because they use lots of electricity and take up space.",
-      "why_it_matters": "If you live near where a data center might be built, this could eventually matter to your electricity costs and local environment — but this is a longer-term issue."
+      "simple_summary": "Communities are starting to push back against big companies building huge data centers for AI because they use lots of electricity and water.",
+      "why_it_matters": "If you live near where a large data center might be built, this issue could affect your local community's power supply and water resources."
     },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch",
       "date": "2026-07-11T14:13:00.000Z",
-      "simple_summary": "OpenAI (the company behind ChatGPT) is hiring someone to make ChatGPT better for families and older adults.",
-      "why_it_matters": "If you have grandchildren or want to learn about ChatGPT, the company is thinking about how to make it easier for people across all ages to use."
+      "simple_summary": "OpenAI is hiring someone to make ChatGPT easier for families, caregivers, and older adults to use.",
+      "why_it_matters": "OpenAI is working to make ChatGPT more accessible to older people and families, which could be helpful if you're interested in trying the tool."
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "TechCrunch",
       "date": "2026-07-10T23:55:07.000Z",
-      "simple_summary": "Meta (Instagram's parent company) stopped a controversial AI feature that let people create fake images of other Instagram accounts after people complained about it.",
-      "why_it_matters": "If you use Instagram, you don't have to worry about this particular feature — Meta listened to complaints and removed it."
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "date": "2026-07-10T23:49:50.000Z",
-      "simple_summary": "Meta turned off an AI feature on Instagram that created images using content from public accounts without asking the account owner's permission.",
-      "why_it_matters": "If you have a public Instagram account, you're now protected from that feature being used to make AI images based on your posts."
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "date": "2026-07-10T21:36:51.000Z",
-      "simple_summary": "Apple is suing OpenAI and another company, claiming that former Apple employees stole Apple's secret technology to help build OpenAI's hardware products.",
-      "why_it_matters": "This is mainly a legal battle between big companies — it doesn't affect you or your small business unless you work in the tech industry."
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T21:00:29.000Z",
-      "simple_summary": "Apple is taking OpenAI to court, saying former Apple workers stole trade secrets to help OpenAI build hardware.",
-      "why_it_matters": "This is a corporate legal dispute between major tech companies — it doesn't affect ordinary people or small business owners."
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T19:00:00.000Z",
-      "simple_summary": "Open-source AI (AI tools that anyone can use and modify freely, like recipes you can share and adjust) is becoming more popular and is now used by about half of large companies.",
-      "why_it_matters": "If you run a small business, open-source AI tools are becoming easier to access and use without paying expensive licensing fees."
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "date": "2026-07-10T17:17:12.000Z",
-      "simple_summary": "A South Korean computer chip company raised a huge amount of money on the US stock market (the biggest foreign company to do so), and now the government is asking them to build factories in America.",
-      "why_it_matters": "This mostly matters to investors and people in the tech industry — the US government wants more computer chip manufacturing here, which could create jobs in some areas."
+      "simple_summary": "Instagram removed an AI feature that let people use public photos from others in creative projects, because many users complained about it.",
+      "why_it_matters": "If you use Instagram, the app listened to complaints and removed a feature people didn't like — this shows the company paying attention to user feedback."
     }
   ]
 }
