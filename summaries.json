@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:37:15.067Z",
+  "generated_at": "2026-07-14T08:29:19.923Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "source": "TechCrunch",
       "date": "2026-07-14T02:46:42.000Z",
-      "simple_summary": "Rich tech company leaders are jumping back into work because they're worried they'll miss out on making even more money from AI.",
-      "why_it_matters": "This mostly matters to investors and people who own tech company stocks — nothing you need to act on."
-    },
-    {
-      "title": "A new Illinois law will prohibit the use of AI in teacher evaluations",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXhJNEV5bDNFTkprYTR6RE1PNGlzV0hqOXZQZEFPRTJFZFBkb0lsaENhQ05KNVFNbGpOR1Z4Sm5ueHp4cTd0cVUzYkcwOUV1SllldHVkZGNDbTRXbkpZUTlCSHh4YXFIaU5oSUxLSUJ6ZUlhTDZhVlFyUzktYlVGbUJQdzUwMnBCYVdUNHFKWmFpZ1hWdUd1OTRBZ3RaWVlSRHg0WWYxTEd2MFJKajByRXZhNEs0TEQ3WlBLOFBPOWg1UjN4Q2RvQk1QV3AwZ9IB1gFBVV95cUxNYzgzNlJXNXlhWnIwSGV2VUd2ZFo5TUpLckR2b3hFVTJNSnQzWW9yYkc4Y0FOX1FuNUQxdkktb2g5RGVlX2RsWjVZUFB4VnBieTVEaHhBcnZOZktYYmw1R3d6S2ZHV3JFQzEtOWVtNUFMOTctek9zT19UZWlfNEtqRXpQUFVYTHUyZGtrZ3JXcUxGc1JXR1NNazZ4NkFvYnpjUTRXRUotU0ppNUhIeVUwVkJWck9naV8tLXJGbkVaTm9zWmlTTm1lMTBKU1hGRXNmYUdLUklR?oc=5",
-      "source": "NBC 5 Chicago",
-      "date": "2026-07-14T01:15:48.000Z",
-      "simple_summary": "Illinois passed a law that says schools cannot use AI computer programs to decide whether teachers are doing a good job.",
-      "why_it_matters": "If you live in Illinois and have school-age children, this means your child's teachers will be evaluated by humans, not by computers that might make unfair decisions."
+      "simple_summary": "Rich tech company leaders are jumping into AI projects again because they're afraid of missing out on the chance to make even more money from AI's growth.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
     },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "source": "TechCrunch",
       "date": "2026-07-14T00:45:00.000Z",
-      "simple_summary": "Uber is working on using AI in its apps and services, including helping with robotaxis and paying drivers with new financial tools.",
-      "why_it_matters": "If you use Uber, you may notice the app getting smarter about pickup times or ride suggestions in the coming months."
-    },
-    {
-      "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWJMRWdrYXVZRVpyU1VfUDdPRU5ZQ0s2WGltTmVPV2FGWXlyYjZOMDB3Sm52aEU5RmhVS1BNYmg0Umh3Qmc2TDhTQnBtNVlyNHJzUVFQWE1JRzNNR2FvVktFa1o3SVRfWTZSRS1iZGdudHpIcGxZLWNiaFJQLXdGR25hcnVmeFliWEFhZVpwbDZRTHNKRnZQVWoxcVNCZ2tEVlBPcU1VMUZYYlVBTTB30gG0AUFVX3lxTE5VWlVQc0t3QTVkS01mZmlueDJYZXFaSTJNVFR0NWllOEttUmlOQlc3QVY3Q0sxTnNkSVJuaXdpNkttRjdTd3FhX21SNFg0UVdnOEZjTlRqZmVGSzhIdXphZlFwYnlxaDBrN2lhU0lWaEN0aFhsUHVmSnNtdjl5WnFYcXpKQ010bEdXc3BXajhQOGxKZnNfLVpPT2xLLV9DS25vNW4yaWNIRTlrcUgzZmFBenBCZA?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-07-14T00:05:24.000Z",
-      "simple_summary": "Hundreds of AI experts are warning that the world needs to start getting ready now for the big changes AI will bring.",
-      "why_it_matters": "This is general advice to governments and businesses to prepare — it's worth paying attention to when you hear news about AI regulations in your area."
+      "simple_summary": "Uber is expanding beyond rides into hotels and self-driving cars, and is adding AI features that riders and drivers will start to notice soon.",
+      "why_it_matters": "If you use Uber, you may see some new features and services appear over time, but nothing major is changing right now."
     },
     {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
       "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
       "source": "TechCrunch",
       "date": "2026-07-14T00:00:00.000Z",
-      "simple_summary": "A company that makes AI videos just raised hundreds of millions of dollars and became worth over 2 billion dollars.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A company called PixVerse that makes AI videos just raised a huge amount of money and is now worth over 2 billion dollars.",
+      "why_it_matters": "This mostly matters to investors — it shows AI video tools are getting a lot of funding, but doesn't directly affect your daily life yet."
     },
     {
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "source": "TechCrunch",
       "date": "2026-07-13T23:31:18.000Z",
-      "simple_summary": "An AI company is raising 75 million dollars from investors at a very high valuation.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A company called Nous Research that makes AI helpers is trying to raise at least $75 million from investors, making the company worth $1.5 billion.",
+      "why_it_matters": "This is mainly important to investors tracking AI companies — it doesn't affect you personally right now."
+    },
+    {
+      "title": "Nobel economists, tech leaders warn how AI could threaten jobs",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlVGVF9nYnhzWkgxZ01GRlJZbENRYXQzNzU4ZlNiV01LNzFmUTlOWUdfTjIxbk9DMjRtLW56SWtxb0xENHE2NmloZ0JkM1VpLXNidVhBWEd0RG5INWJiNjFMNXRMRmszNUNXdFhkc1pudjVCS2toVXVUdGUtc3E5MFQ3WFl6U2o5VVJVV0U4NDFxaGprclNibGx1RTEweVlIUXAyLWUxMk1BSTczRHBNZ2o5S09DUQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-13T23:30:00.000Z",
+      "simple_summary": "Famous economists and tech leaders are warning that AI could cost people their jobs.",
+      "why_it_matters": "This is an important concern — if you own a small business, it's worth thinking about how AI might change your industry over the next few years."
     },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
       "source": "TechCrunch",
       "date": "2026-07-13T20:59:00.000Z",
-      "simple_summary": "Microsoft's leader warned companies that they need to be careful about relying too much on AI systems made by big tech companies.",
-      "why_it_matters": "If you use AI tools in your small business, remember not to depend on them completely — always keep human oversight in the loop."
+      "simple_summary": "Microsoft's leader Satya Nadella is warning companies about a potential risk with using AI from big tech companies — he thinks there may be security or control problems.",
+      "why_it_matters": "If your business uses AI tools, it's smart to ask your tech provider what safeguards they have in place, just like you'd check a contractor's insurance."
     },
     {
       "title": "Siri AI is already changing how I use my iPhone",
       "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
       "source": "The Verge",
       "date": "2026-07-13T20:43:20.000Z",
-      "simple_summary": "Apple is adding new AI features to iPhones that make Siri smarter and more helpful.",
-      "why_it_matters": "If you own an iPhone, you may see Siri get better at understanding what you want and doing tasks for you."
+      "simple_summary": "Apple's new iPhone software (iOS 27) includes AI improvements to Siri, the voice assistant, that are starting to be tested by regular users.",
+      "why_it_matters": "If you have an iPhone, you'll eventually get these updates and your Siri will work better — this is a practical improvement coming to your phone."
     },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
       "source": "TechCrunch",
       "date": "2026-07-13T18:22:10.000Z",
-      "simple_summary": "Apple sued OpenAI, claiming OpenAI employees may have stolen secret information about Apple's products.",
-      "why_it_matters": "This is mostly a legal fight between big companies — nothing you need to act on."
+      "simple_summary": "Apple is suing OpenAI, claiming the company stole Apple's secret information and hired Apple employees to help them do it.",
+      "why_it_matters": "This is a legal battle between two big companies — mostly interesting to watch, but it doesn't directly affect you unless you work in tech."
     },
     {
-      "title": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-13T18:18:01.000Z",
-      "simple_summary": "The Trump Administration is buying stakes in private companies and the article raises the question of whether they might invest in AI companies next.",
-      "why_it_matters": "This mostly matters to investors and people who care about government policy — nothing you need to act on."
+      "title": "Anthropic’s Claude Science app is coming for Kendall Square",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1A0dFdtek0xTjB4S0RsNW1jUUxtV0xXQWV0eVVGZHl4YjVqYjVCNDFqUFZzUVRLRTI1VHlJdk5Xc21HMWRHbV8yRm85MndZbk12SDA4N2l2NHcyR2FOR2xzczkyYmROT0dVSVU1dVotZWtjUEt5Y21pUTdCXzBXcU96VkI1SGVPUTNwOWd2RnVlalFLcGtiZ1RQNjQ1NExWM1J6cXhsb0xLS2pZ?oc=5",
+      "source": "The Boston Globe",
+      "date": "2026-07-13T18:21:06.000Z",
+      "simple_summary": "Anthropic, the company that makes Claude (an AI assistant), is launching a science-focused app aimed at researchers and scientists.",
+      "why_it_matters": "Unless you work in science or research, this probably won't affect you — it's a specialized tool for professionals."
     },
     {
       "title": "Top House progressive warns Democrats to get serious on AI messaging",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnRpQWZLLUg2Qk1MUm0wOVJVX1IxSFlmUVh0bVpSWVRTcUxvemtOTmFfazFTb3p6OGt3dTNheGUyMlRiQnBlT1NnTWdfYnB5UmZTWlZMZmJKYlFONUdIalpUT1lzOFhLWDVXNXY0MG1aZzlueWhZUEhnbkFHR3ZoajU2RUJWTkxPbWV5OEhn?oc=5",
       "source": "Politico",
       "date": "2026-07-13T17:34:00.000Z",
-      "simple_summary": "A Democratic House member is telling other Democrats they need to do a better job talking about AI issues to voters.",
-      "why_it_matters": "This is about politics and messaging — nothing you need to act on."
+      "simple_summary": "A top Democratic politician is telling other Democrats they need better ways to talk about AI to the public and voters.",
+      "why_it_matters": "This is about political communication — it shows politicians are paying more attention to AI as an election issue."
     },
     {
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
       "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
       "source": "TechCrunch",
       "date": "2026-07-13T17:28:37.000Z",
-      "simple_summary": "Sam Altman from OpenAI made a joke that most AI experts already believe — that Elon Musk's idea for space data centers doesn't make financial sense.",
-      "why_it_matters": "This mostly matters to tech enthusiasts following the debate between these company leaders — nothing you need to act on."
+      "simple_summary": "Sam Altman from OpenAI responded to Elon Musk's criticism by pointing out that Musk is also making wild promises about future technology that aren't proven yet.",
+      "why_it_matters": "This is mostly famous tech people arguing with each other — nothing you need to worry about."
+    },
+    {
+      "title": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-13T17:26:22.000Z",
+      "simple_summary": "The Trump administration is buying stakes in private companies and the question is whether they might do the same with AI companies.",
+      "why_it_matters": "This is about government investment policy — it's too early to know what this means, but it shows government is watching AI companies closely."
     }
   ]
 }
