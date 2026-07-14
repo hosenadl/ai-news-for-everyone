@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-14T14:15:46.003Z",
+  "generated_at": "2026-07-14T19:45:27.348Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "source": "The Verge",
+      "date": "2026-07-14T19:25:00.000Z",
+      "simple_summary": "A coding tool made by SpaceXAI was secretly sending all of users' computer code to Google's cloud storage without permission, even code the users told it to ignore. The company turned it off after this was discovered.",
+      "why_it_matters": "If you use this tool for your small business's software, your private code could have been exposed. However, this is mostly fixed now, so you only need to worry if you were using this specific tool recently."
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T18:33:31.000Z",
+      "simple_summary": "Google is being sued by major book publishers who say Google trained its AI system on their copyrighted books without asking permission first.",
+      "why_it_matters": "This is mostly a legal fight between big companies — it doesn't directly affect most small business owners or regular people right now."
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T17:45:55.000Z",
+      "simple_summary": "A leader at Google's AI lab is suggesting that AI companies need an independent group (like a referee) to check that new powerful AI systems are safe and fair before releasing them.",
+      "why_it_matters": "This mostly matters to tech industry professionals and investors — for you, it just means there might be better safety checks on AI tools in the future."
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "source": "The Verge",
+      "date": "2026-07-14T17:18:11.000Z",
+      "simple_summary": "Former employees at Meta are suing the company, saying Meta used AI tools to unfairly decide which workers to lay off, targeting people who were already on leave.",
+      "why_it_matters": "If you run a small business and use AI to make hiring or firing decisions, this is a warning that you need to be very careful to treat people fairly and not let AI introduce hidden bias."
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T16:22:15.000Z",
+      "simple_summary": "Meta's Instagram leader thinks companies will soon need to limit how much each engineer can spend on using AI tools, similar to how they limit budgets for other expenses.",
+      "why_it_matters": "This is mostly about how tech companies manage their own spending internally — unless you're a tech company yourself, this doesn't affect you."
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T16:00:00.000Z",
+      "simple_summary": "Google Images is redesigning its homepage to show you pictures it thinks you might like, similar to how Pinterest works, instead of just showing a blank search page.",
+      "why_it_matters": "If you use Google Images, you'll see recommended pictures before you search, which might help you discover things but also means Google is tracking what you like."
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "source": "The Verge",
+      "date": "2026-07-14T16:00:00.000Z",
+      "simple_summary": "Google Images is changing its homepage to show you recommended pictures based on your interests before you even search for anything.",
+      "why_it_matters": "This is the same change as the previous story — Google Images will recommend pictures to you automatically now."
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "source": "The Verge",
+      "date": "2026-07-14T15:47:36.000Z",
+      "simple_summary": "Spotify is testing a new feature where you can type or talk to the app to ask it what music or podcasts to play, like having a conversation with someone who knows your taste.",
+      "why_it_matters": "If you pay for Spotify Premium, you'll soon be able to find music by just describing what you want instead of searching — it's more convenient, but Spotify will learn even more about what you like."
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T15:17:59.000Z",
+      "simple_summary": "New York State is pausing approval for new large computer data centers (buildings that store data and power AI) because they use a lot of electricity and water.",
+      "why_it_matters": "If you live in New York, this means AI companies can't easily build new facilities there, which might slow down local AI development but could help keep your electric bills lower."
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T14:37:48.000Z",
+      "simple_summary": "A new AI company made a $1 billion deal to rent computer power from another company so it can train and run its AI systems.",
+      "why_it_matters": "This mostly matters to tech investors and engineers — it's just a business deal between two companies working on AI behind the scenes."
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T14:24:53.000Z",
+      "simple_summary": "A leader at an AI research company says that most real-world businesses want to use simpler, more affordable AI models instead of the newest, most powerful AI systems.",
+      "why_it_matters": "For small business owners, this is good news — it suggests practical AI tools will get cheaper and more available instead of only the biggest companies having access."
+    },
     {
       "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
       "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
       "source": "TechCrunch",
       "date": "2026-07-14T14:06:47.000Z",
-      "simple_summary": "Spotify is adding a chatbot feature to its app where you can talk to AI to get music and podcast recommendations, similar to how you'd ask a friend for suggestions.",
-      "why_it_matters": "If you use Spotify, you'll have a new way to discover music without scrolling through lists — but it's just a convenience feature, not something you need to worry about."
-    },
-    {
-      "title": "Sam Altman didn’t need another lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "source": "The Verge",
-      "date": "2026-07-14T14:01:07.000Z",
-      "simple_summary": "Apple is suing OpenAI, the company behind ChatGPT, over some kind of legal dispute involving hardware that OpenAI invested in.",
-      "why_it_matters": "This is mostly a story for investors and tech industry watchers — it doesn't affect your daily use of AI tools."
-    },
-    {
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "source": "The Verge",
-      "date": "2026-07-14T11:43:29.000Z",
-      "simple_summary": "A Google executive is saying the world needs a government agency to watch over AI and make sure it stays safe, and that the US should run it.",
-      "why_it_matters": "This is about big-picture policy — it doesn't change anything you do today, but it's an idea about how AI might be governed in the future."
-    },
-    {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "source": "The Verge",
-      "date": "2026-07-14T09:00:00.000Z",
-      "simple_summary": "New York state has blocked new large computer data centers (the buildings that power AI and other internet services) from being built there for up to a year.",
-      "why_it_matters": "This could slightly slow down AI companies' growth in New York, but for most people and small businesses this is just a political decision with limited direct impact."
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T02:46:42.000Z",
-      "simple_summary": "Wealthy tech companies and founders who've already made a lot of money are jumping back into business to compete in AI, worried they'll miss out.",
-      "why_it_matters": "This is mostly about what's happening inside the tech industry — nothing you need to act on personally."
-    },
-    {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T00:45:00.000Z",
-      "simple_summary": "Uber is exploring new services like hotels and self-driving cars, and using AI to improve how riders and drivers experience the app.",
-      "why_it_matters": "If you use Uber, the app may get smarter and offer you more options over time, but no immediate changes for you right now."
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T00:00:00.000Z",
-      "simple_summary": "A startup company that makes videos using AI just raised a huge amount of money and is now worth over $2 billion.",
-      "why_it_matters": "This is an investor story — it shows money is flowing into video AI, but it doesn't affect you unless you work in that industry."
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "source": "TechCrunch",
-      "date": "2026-07-13T23:31:18.000Z",
-      "simple_summary": "A smaller AI company is raising about $75 million from investors at a $1.5 billion valuation.",
-      "why_it_matters": "This is purely an investor story — nothing relevant to regular people or small business owners."
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-13T20:59:00.000Z",
-      "simple_summary": "Microsoft's leader is warning companies to be careful about relying too heavily on AI from big companies, suggesting it could be a hidden risk.",
-      "why_it_matters": "If your business uses AI tools from big companies, this is a reminder to think about whether you're becoming too dependent on them — good advice to keep in mind."
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "source": "The Verge",
-      "date": "2026-07-13T20:43:20.000Z",
-      "simple_summary": "Apple's new iPhone software update includes AI features for Siri (the voice assistant) that make it more helpful and natural to use.",
-      "why_it_matters": "If you have an iPhone, you'll eventually get updates that make Siri smarter and more useful — this is a normal improvement to your device."
-    },
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "source": "TechCrunch",
-      "date": "2026-07-13T18:22:10.000Z",
-      "simple_summary": "Apple's lawsuit against OpenAI includes some unusual claims, like OpenAI employees joking about accessing Apple's systems without permission and asking job candidates to bring Apple computers to interviews.",
-      "why_it_matters": "This is the legal details of the lawsuit between two tech giants — just interesting news, nothing that affects you."
-    },
-    {
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "source": "TechCrunch",
-      "date": "2026-07-13T17:28:37.000Z",
-      "simple_summary": "Sam Altman from OpenAI responded to Elon Musk by criticizing Musk's claims about space-based data centers, saying Musk is misleading investors.",
-      "why_it_matters": "This is a public argument between tech executives — interesting gossip, but nothing that impacts ordinary people or businesses."
+      "simple_summary": "Spotify is launching an AI chat feature for Premium users that lets you have a conversation to find and play music, podcasts, and audiobooks.",
+      "why_it_matters": "If you pay for Spotify, you can soon just chat with the app to ask for music instead of typing searches — it's more natural and convenient."
     }
   ]
 }
