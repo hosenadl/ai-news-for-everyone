@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-14T19:45:27.348Z",
+  "generated_at": "2026-07-15T03:38:17.769Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHFsVkpkbTV3bFllZWJxSENQNGU1QVQySnR1Mzc0alJTcWJPQV9VdTR2SUlRdVhoTGJrMEZ4YlVaSGdMb19YdDU4dU51MVpBTkY4aVlaWXdCT2d0LTN5NlZadzlKS1Y5ZzViamFHR3VLSzR1V3Jnbzd2VGpUUmtCdWlxdXJiSzJ3b3U2WHc1UHZrVEd0bE5hbTVJYTdwbkVrOFQ5VXF2RS0zeUVnbUNiV0FwaGZwTktsS2pXd3Bmd3cwTmpZVndLZFZCV3Ytbm15aG5Zb2VR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-15T01:32:00.000Z",
+      "simple_summary": "Australia's Prime Minister says the government will speed up approval processes for large computer buildings that run AI systems, to encourage more investment in the country.",
+      "why_it_matters": "This is mostly about government policy and attracting big tech companies — nothing you need to act on unless you're considering a major business expansion in Australia."
+    },
+    {
+      "title": "Widener University hosts first artificial intelligence summer camp for Philadelphia-area high school students",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3BWdTk4UHlXNFk0eXprRktHVndvRDJwV3JCbG9KeXVNYjJ4MlQ2akNsbDVkWlFrdG05QW85TDVQU1dDUi1wcnZ6dGNzOEVTc2VYZURBdU1FelppeHd0VHVYanB2NWszczNjYU5INFpzQ3B0ekFqS2x4b3FtUnRUaVRxTUFJcTJXV0FvNHBlOGp2czNXTmRqYTBNZHlHQQ?oc=5",
+      "source": "CBS News",
+      "date": "2026-07-15T00:28:39.000Z",
+      "simple_summary": "A university in Philadelphia is offering a summer camp where high school students can learn about artificial intelligence.",
+      "why_it_matters": "If you have a teenager interested in computers or tech, they might enjoy learning about this field, but this is just one educational program."
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "source": "TechCrunch",
+      "date": "2026-07-15T00:27:04.000Z",
+      "simple_summary": "A researcher from OpenAI is working to start a new company that would use AI to help discover new medicines, and investors are putting in billions of dollars.",
+      "why_it_matters": "This matters mostly to investors and people in the medicine industry — nothing you need to do, but it shows AI is being used for real health breakthroughs."
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T23:10:02.000Z",
+      "simple_summary": "The musician Lorde said that AI glasses (special eyeglasses with computer technology) are not attractive, and expressed worry that it's getting harder to tell what's real in the world.",
+      "why_it_matters": "This is just one person's opinion about fashion and technology — it doesn't affect you unless you're considering buying AI glasses."
+    },
+    {
+      "title": "White House launches cybersecurity clearinghouse to patch software flaws discovered by AI",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDZKRkY3VFNweXRPV190VDV6Y3VMaWs2RTZXX3F0THJyNEpVUlBDdXhSSmd6TjlJMm8zTV9fUkYxOXEzcTVIYkRXVm54TFpyQ0ZfZGctZG0wLUdFZFM1SzdnZFctNXdHcTNaYk41a2F4b0pxZUhESmU5Zk9PNnNQZWVXXzRIWENTRXYxbF9QdldKNWNuNjk4MEpFLVhpcWJLN3E0d21iTmIzbHI2WDFmNjk1ZTNSN251VXNkS0w1NWdVa3RHY3pmMGVfSzJEbElHb1FrOUxLVkdIdVZXZDdpbTJLUF8?oc=5",
+      "source": "Politico",
+      "date": "2026-07-14T22:38:00.000Z",
+      "simple_summary": "The White House created a system to help find and fix security problems in computer software using AI, so hackers have a harder time breaking in.",
+      "why_it_matters": "This is a government security project — it may help protect all of us online over time, but you don't need to do anything about it yourself."
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T22:22:24.000Z",
+      "simple_summary": "OpenAI (the company behind ChatGPT) is building a speaker device without a screen that can move around and is meant to feel like a companion.",
+      "why_it_matters": "This is still experimental — it may become a product someday but it's too early to say whether it will actually be useful for a small business owner."
+    },
+    {
+      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFhGZmNZVjhwcHVBWTRlWmxUZGVjZ1JfRFhUeVNKamNMZG5tVlJreEVPTkE2Rjg2MWJ6ZGRZWWVuNWlMOTVKM01rd2ZkNS1TWXk5TkJrbnh1NFFneDkwMGVLUXgySDhoTzQzd3BzOGtsdWwwRHNGd0pjakFNc0RGNC1ESjhDV3ZCRHfSAY8BQVVfeXFMUGJRWng1RTE4U1cxLWxzLWhscVFOYVVtOW5KRmt2ejVDcklOX2NaYmg4by02UlRLZnE1d3ozT2g0eS1fcnpWQU14SUE1VHZBejgyR252eUZ1NmhKWjBFaVVTd2hGQXhtcy1jQ2d6b25aVXQxR2J2azdrOXFueFJiT0dZV0w0cWRJdFBUSXZvakU?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-14T22:20:46.000Z",
+      "simple_summary": "A financial expert says people are worried that AI companies' stock prices are too high right now, but he thinks those worries are not justified.",
+      "why_it_matters": "This is investment advice for stock market traders — unless you own stock in AI companies, you don't need to worry about this."
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T22:07:42.000Z",
+      "simple_summary": "OpenAI said that a legal lawsuit Apple filed against them doesn't have valid reasons.",
+      "why_it_matters": "This is a legal dispute between two big companies — it's just noise unless you're thinking about which company to do business with."
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "source": "TechCrunch",
+      "date": "2026-07-14T21:50:11.000Z",
+      "simple_summary": "Some people say that OpenAI's new ChatGPT version is accidentally deleting files and data without asking first, though the company had warned about this problem earlier.",
+      "why_it_matters": "If you use ChatGPT, you should be careful not to rely on it to store important files or information — it's better to keep backups elsewhere."
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
-      "date": "2026-07-14T19:25:00.000Z",
-      "simple_summary": "A coding tool made by SpaceXAI was secretly sending all of users' computer code to Google's cloud storage without permission, even code the users told it to ignore. The company turned it off after this was discovered.",
-      "why_it_matters": "If you use this tool for your small business's software, your private code could have been exposed. However, this is mostly fixed now, so you only need to worry if you were using this specific tool recently."
+      "date": "2026-07-14T21:26:32.000Z",
+      "simple_summary": "OpenAI is planning to release a smart speaker (like Amazon Alexa) that has no screen but has a camera and lets you talk to ChatGPT.",
+      "why_it_matters": "This is a product in development — if it comes out, it may be another way to use AI at home, but there's no action needed from you yet."
     },
     {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T18:33:31.000Z",
-      "simple_summary": "Google is being sued by major book publishers who say Google trained its AI system on their copyrighted books without asking permission first.",
-      "why_it_matters": "This is mostly a legal fight between big companies — it doesn't directly affect most small business owners or regular people right now."
+      "title": "When China’s open-source AI is a trap",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEh4QmxfWFRUZDdmd1pUTXdScUF5VFdTdVJYanViTGJTVWZuTU9ZN1JobXg0a0VZdDZYQ1FyV1g3MHFIMXVwOEZMRGM3VVpTMXQwc253Z3g3M0pTX1RIbG1zU3NxZlZBM3FkWWM5NG1oTXVFOElzVGo0NVRPSWp4dHBvNGZWdWI1cTA5cEpHdGc?oc=5",
+      "source": "The Economist",
+      "date": "2026-07-14T20:17:29.000Z",
+      "simple_summary": "China has released free AI software tools, but there may be hidden risks or disadvantages to using them.",
+      "why_it_matters": "Unless you work directly with Chinese tech, this is mostly relevant to engineers and business strategists — nothing you need to act on."
     },
     {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T17:45:55.000Z",
-      "simple_summary": "A leader at Google's AI lab is suggesting that AI companies need an independent group (like a referee) to check that new powerful AI systems are safe and fair before releasing them.",
-      "why_it_matters": "This mostly matters to tech industry professionals and investors — for you, it just means there might be better safety checks on AI tools in the future."
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "source": "The Verge",
-      "date": "2026-07-14T17:18:11.000Z",
-      "simple_summary": "Former employees at Meta are suing the company, saying Meta used AI tools to unfairly decide which workers to lay off, targeting people who were already on leave.",
-      "why_it_matters": "If you run a small business and use AI to make hiring or firing decisions, this is a warning that you need to be very careful to treat people fairly and not let AI introduce hidden bias."
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T16:22:15.000Z",
-      "simple_summary": "Meta's Instagram leader thinks companies will soon need to limit how much each engineer can spend on using AI tools, similar to how they limit budgets for other expenses.",
-      "why_it_matters": "This is mostly about how tech companies manage their own spending internally — unless you're a tech company yourself, this doesn't affect you."
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T16:00:00.000Z",
-      "simple_summary": "Google Images is redesigning its homepage to show you pictures it thinks you might like, similar to how Pinterest works, instead of just showing a blank search page.",
-      "why_it_matters": "If you use Google Images, you'll see recommended pictures before you search, which might help you discover things but also means Google is tracking what you like."
-    },
-    {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "source": "The Verge",
-      "date": "2026-07-14T16:00:00.000Z",
-      "simple_summary": "Google Images is changing its homepage to show you recommended pictures based on your interests before you even search for anything.",
-      "why_it_matters": "This is the same change as the previous story — Google Images will recommend pictures to you automatically now."
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "source": "The Verge",
-      "date": "2026-07-14T15:47:36.000Z",
-      "simple_summary": "Spotify is testing a new feature where you can type or talk to the app to ask it what music or podcasts to play, like having a conversation with someone who knows your taste.",
-      "why_it_matters": "If you pay for Spotify Premium, you'll soon be able to find music by just describing what you want instead of searching — it's more convenient, but Spotify will learn even more about what you like."
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T15:17:59.000Z",
-      "simple_summary": "New York State is pausing approval for new large computer data centers (buildings that store data and power AI) because they use a lot of electricity and water.",
-      "why_it_matters": "If you live in New York, this means AI companies can't easily build new facilities there, which might slow down local AI development but could help keep your electric bills lower."
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T14:37:48.000Z",
-      "simple_summary": "A new AI company made a $1 billion deal to rent computer power from another company so it can train and run its AI systems.",
-      "why_it_matters": "This mostly matters to tech investors and engineers — it's just a business deal between two companies working on AI behind the scenes."
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T14:24:53.000Z",
-      "simple_summary": "A leader at an AI research company says that most real-world businesses want to use simpler, more affordable AI models instead of the newest, most powerful AI systems.",
-      "why_it_matters": "For small business owners, this is good news — it suggests practical AI tools will get cheaper and more available instead of only the biggest companies having access."
-    },
-    {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch",
-      "date": "2026-07-14T14:06:47.000Z",
-      "simple_summary": "Spotify is launching an AI chat feature for Premium users that lets you have a conversation to find and play music, podcasts, and audiobooks.",
-      "why_it_matters": "If you pay for Spotify, you can soon just chat with the app to ask for music instead of typing searches — it's more natural and convenient."
+      "title": "5 Brilliant Artificial Intelligence (AI) Stocks That Are Just Getting Started",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG9iZTZ5Uy1OTU5UdlJYWHdNdEQ5MFZvT00zTjl6UG5kVGQzOVA4ZEplS0sydlE0NUVCT2djZ0xNZEc5UUlodUFLdWZ6Z1VPa082MllpdnNkVnF1RmdFZjVkZjhnVk5DYWpZZzFPSGlGWjB4bkczNXNhNmlMNGxzaDYtSE5zUHhpZkFtWkxrS2pwTjFiVTVNMTNVNVJQSktzaUJhMw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-14T20:03:00.000Z",
+      "simple_summary": "A financial website lists five AI company stocks that they think have potential to grow.",
+      "why_it_matters": "This is investment advice for people buying stocks — if you're not a stock investor, you don't need to pay attention to this."
     }
   ]
 }
