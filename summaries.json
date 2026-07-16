@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-16T14:25:28.002Z",
+  "generated_at": "2026-07-16T19:35:18.758Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The Navy’s Strategy to Weaponize Data and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbllHMmU1TG5zWTVnQ0VLMnl2TnZPT2lEQ3ZPcXFtcjQ3Ti1XcFlyRTJHWFVXN2xuVmVwV3NDMkpmN2xfQUx0MXJtczZnTTZzMkF5S0hnb21GdjFSeGVvdFFjZlNwUkFpQzY0OFVvZkxiSmVaUXdDMVlpcFM5dTcyM0FZRTVYRVpjeklWTERMQWJhZGJmUmMxNVQ3ZkhqZw?oc=5",
-      "source": "USNI News",
-      "date": "2026-07-16T14:03:00.000Z",
-      "simple_summary": "The U.S. Navy is planning to use artificial intelligence and data more strategically for military purposes.",
-      "why_it_matters": "This is about military strategy and doesn't affect ordinary people or small businesses — nothing you need to act on."
-    },
-    {
-      "title": "Editorial: AI in the workplace",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTlmaFR5LVBHVGFkdFFydURxM0pNeDluUDhETy1TTlItTlhXQVZwY25HU2tuVTRYSkVndk45ZTdpX2xOR0owbnVBM1VWTXJGOUZYdjdiVmo4WVNaak5IblJfSlc0TlVBaXZUQXpZY0tLdGRHbVVnTEQ4MUtOX1JLWDBOOVl1RlNCNm90Ng?oc=5",
-      "source": "WBAL-TV",
-      "date": "2026-07-16T14:01:27.000Z",
-      "simple_summary": "A news outlet is discussing how AI is changing workplaces and what that means for workers.",
-      "why_it_matters": "Depending on what they said, this could be relevant to small business owners thinking about using AI tools, but without seeing the full article it's hard to say specifically what applies to you."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TechCrunch",
-      "date": "2026-07-16T13:17:59.000Z",
-      "simple_summary": "Apple is allowing two Chinese companies (Alibaba and Baidu) to help run Apple's AI features in China instead of running them directly.",
-      "why_it_matters": "If you don't use Apple products in China, this doesn't affect you — this is mostly about Apple doing business in a specific country."
+      "date": "2026-07-16T18:32:54.000Z",
+      "simple_summary": "Google is adding a feature where you can create videos with a digital copy of yourself as the main character. You describe what you want the video to do, and the AI creates it.",
+      "why_it_matters": "This could be useful for small business owners who want to make promotional videos without hiring an actor or video crew—though you'd still need to learn how to use the tool."
     },
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch",
+      "date": "2026-07-16T18:22:06.000Z",
+      "simple_summary": "Roblox (a platform where people make games) is letting creators build simple games by just typing what they want, instead of writing code.",
+      "why_it_matters": "This matters mainly to game developers and people who enjoy Roblox—not really relevant to most small business owners."
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "source": "The Verge",
-      "date": "2026-07-16T13:00:00.000Z",
-      "simple_summary": "Claude, an AI chatbot, can now ask your permission to log into your accounts (like travel booking websites) and do tasks for you using your stored passwords.",
-      "why_it_matters": "If you use Claude and trust it with sensitive tasks, this could save time, but it means trusting an AI tool with your login information — think carefully before allowing this."
+      "date": "2026-07-16T17:58:37.000Z",
+      "simple_summary": "New York's governor is using AI to read through all the state's old rules and regulations to find ones that are outdated or don't make sense anymore.",
+      "why_it_matters": "This could eventually lead to simpler, updated rules for everyone—but these changes take time and you won't see immediate effects on your business."
     },
     {
-      "title": "Behind the risks and benefits of letting AI manage your money",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NFcjZvQU04cGZaU2xGWTdmYUVOcEtrWER2ck16bFE5SlJENGRTMFFxM0YtZk1zUkNyM3QzYVJTMnlDT1JZbFMySXpKR3JtWGxFdm9fcDFYUkt2cUROekFvclA3MkZwTHpJT1NKUXhVbW9HTjNsME1veUVkNmRaQzM4RTUyZVItc2JFOVdkcGZYM3BNdi1v?oc=5",
+      "title": "Europe tells Google it must open Android phones to rivals’ AI bots",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjdaSVBkWnJsV2FiZ25xeGxFd2xfRno1aFFkMHVPYTZOMkxNVmd2TkFOR3pOLTlMRGtTcU1DZEdIRFJCcFljbWVDa3NIb2o0bHVnYjY5NU44RGpEb3VBQldWOVMyOHRCNTIxR3ZOd0FLYVFrNmVIaHB0LWoxVEYwbFhLR2ZKU1puYldMajFwWEhkR2pZaHVPTjd0M1lHNFNQVHhCWDlZazNoY3pKUmRVbGlsdF9wQTg?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-16T17:52:48.000Z",
+      "simple_summary": "European regulators are telling Google it must allow other AI assistants to work on Android phones, instead of only Google's own AI.",
+      "why_it_matters": "This mostly affects tech companies and investors—nothing you need to act on as a small business owner."
+    },
+    {
+      "title": "Atlanta company works with businesses to lower data risks from AI misuse",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzBWSEdjcVJ0c2JXWlBBT0psLWNSdGswVDhIOUlXZ2tSMVZlWFpjaEJZeC1NUnN4RGxuMnU1TjJDOVZFQnQwaS1kWWlobXhaWEtrS0VESGZiOC0yWWZ3YWtNWU9iLUlEclAyWF90S0xEZGFGTVJwb1lPbXdDY0VrMUZJMXdQdm5WMmJPaVFlRGs1RjNJcE1SNHJiVHVDUFhFbUNSNVRZV09QTmxYLWNn?oc=5",
       "source": "CBS News",
-      "date": "2026-07-16T12:15:00.000Z",
-      "simple_summary": "An article discusses the good and bad sides of letting AI software handle your investments and money decisions.",
-      "why_it_matters": "If you're considering AI tools to manage your savings or investments, you'll want to understand the risks and benefits before trusting your money to them."
+      "date": "2026-07-16T17:38:11.000Z",
+      "simple_summary": "A company in Atlanta is helping other businesses protect themselves from problems that happen when AI is misused or makes mistakes.",
+      "why_it_matters": "If your business uses AI tools or stores sensitive customer data, this type of service could help protect you—but it depends on your specific needs."
     },
     {
-      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-16T12:10:18.000Z",
-      "simple_summary": "Europe is trying to build its own AI technology so it doesn't rely completely on American companies, but it's proving very difficult.",
-      "why_it_matters": "This is mostly about government and business competition — it doesn't directly affect your daily life or small business."
+      "title": "Taxpayer group warns New York's AI data center moratorium could cost jobs and investment",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNd1NGenNlczJnanhfa1JZLUxFdFQwUXhfMlV5NEhEVU02ZVpzU1FIRmg5eWZXaHl1Vm41OUV6OHpqcFg3M2Nrakxsd2VsYTYta1VLRi1sMXlYeFAtSGo4bV9pVlJxQlhmbnVueWpmcjltX2VOYWk1ZVNoaDNWR3o4eEtYTS1pYlV1c3BBMTkwOXQzTmYyTnFsZG14M3NSbDVCalkxcWJTeGV2eEdaMEdrZWd4RnFMb01wOEtrUHUyMk9JZHJwNXUzejhPOVBaUnZRdWRzUnFjRU1nU2VtbUZSRlpmaGhYQngtSV9LdTZOQ3dJZ2lFdF9VLXhBTEZzTldjWW9OMi1mdy1iOUs0N3BONEFpMldwdl9laFhBOS0wQVg0QmxIZ2wtbWJxTy1oVFNSNUVWUjdVQnBTMWJITzJxYnNkVmJYVnFtUW5tYTZKUW11enEzWlF6QVNKOVU0VG9DdmxySTNzenZiVjZJYzgwOTk2S1pmRXRreUJyUFY2bUdsZ0U3dHhweS1yOFNYUTNCUVZ6aXhNSmEyZzI3?oc=5",
+      "source": "KOMO",
+      "date": "2026-07-16T17:06:06.000Z",
+      "simple_summary": "A taxpayer group is warning that New York's decision to stop building new AI data centers could hurt job creation and business investment in the state.",
+      "why_it_matters": "This is mostly about politics and policy debate—not something that directly affects your daily business operations."
     },
     {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge",
-      "date": "2026-07-16T12:06:51.000Z",
-      "simple_summary": "The European Union ordered Google to let other companies' AI assistants and search engines work better with Android phones and Google Search.",
-      "why_it_matters": "This might eventually give you more choices in search engines and AI helpers on your phone, but it's mainly a legal decision affecting big tech companies."
-    },
-    {
-      "title": "Computer cops",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "source": "The Verge",
-      "date": "2026-07-16T11:00:00.000Z",
-      "simple_summary": "A news story is exploring how police departments are using AI technology in their work.",
-      "why_it_matters": "Depending on details, this could be relevant to how law enforcement operates in your area, but without more information it's hard to say what it means for you."
-    },
-    {
-      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
-      "source": "AP News",
-      "date": "2026-07-16T10:36:00.000Z",
-      "simple_summary": "A study warns that AI chatbots might repeat and spread government censorship and speech restrictions from around the world.",
-      "why_it_matters": "This is mostly a concern for researchers and policymakers — it doesn't immediately change how you can use AI tools today."
-    },
-    {
-      "title": "Nobel Laureates sign Rome Declaration on Nuclear Weapons and AI",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWlNempPcFlwelVwU2lCdVpJVi1lNTllb3VqbVl1eDZZcGtQSTlTdTllSndDSXV5SkNhaGVXVTB6eGpuNTFGSUpBd0NYYUZCa09lbGN4UWJWUUtfRml3N0sxTjZoYW9YaDZkZGVPWkVMcXM2dVRDRUduS0lsM3N5bGJwSzFlTVM0WDZJdGtHSWRwQng3SXNzbWFhMGY4SEl4RThvdWVoanNFZVVmbFBEMFJsLTM?oc=5",
-      "source": "Vatican News",
-      "date": "2026-07-16T10:03:05.000Z",
-      "simple_summary": "Nobel Prize winners signed a declaration expressing concern about the risks of nuclear weapons combined with artificial intelligence.",
-      "why_it_matters": "This is about serious global issues but doesn't require any action from ordinary people or small business owners."
-    },
-    {
-      "title": "For Software Engineers, the AI Reckoning Is Already Here",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFBJZXNvd0pWdVB3SGYxbjFRNVFTQXN3Wk5zYUV4dm05U0Y5NWVxTjdXMHN1X2F6WG43Q1dfd0RqNm1JY2JFTUk0RW9saXdBbzF0RGlOQVFfaVFJWlNudjdiVi1yempDQlJraGE4a09pbURMT2ZiZzNjdkxtSGZ1ZkVHOHRQMklOa1cwVkE0TmpFZWZXUUw1bXFmUjdXMzN5cmFwREtDVlJRWVZIOTdybW5n?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-07-16T09:00:20.000Z",
-      "simple_summary": "Software engineers who write computer code are experiencing big changes in their jobs because of AI tools that can write code.",
-      "why_it_matters": "If you're not a software engineer, this doesn't directly affect you — it's mostly relevant to people in tech jobs."
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "source": "TechCrunch",
-      "date": "2026-07-16T04:00:00.000Z",
-      "simple_summary": "A company raised $20 million to build an AI system that can manage and optimize entire oil and gas plants.",
-      "why_it_matters": "Unless you work in the oil, gas, or petrochemical industry, this doesn't affect you — it's a specialized tool for large industrial operations."
+      "date": "2026-07-16T16:00:00.000Z",
+      "simple_summary": "Google's AI is getting an upgrade so it can do tasks for you across different apps you already use (like calendar, email, or shopping apps).",
+      "why_it_matters": "If you use Google's tools for business, this could save you time by automating repetitive tasks—though you'd need to set it up and trust it with your information."
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "source": "The Verge",
+      "date": "2026-07-16T16:00:00.000Z",
+      "simple_summary": "Google is renaming one of its AI note-taking apps from NotebookLM to Gemini Notebook, but it still works the same way.",
+      "why_it_matters": "This is just a name change—nothing you need to do unless you currently use this app."
+    },
+    {
+      "title": "Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGFrSTl2NmFzX1FpbEJxUEFUTzVJT0dtcTlqWExNOTNyOXhKbXIzZlZ4N2JoZ0lYVkMtcF9QVWxRTFJpMGVQeHBYcEdlSDh6elNrRWtXX3pUVHBXTzBoemVlcDVQQjFLN01jNEFtUlc4WVRkaUNMRzdrOGozVmZnTHRnX1d1NFNENHJ3?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-16T15:53:00.000Z",
+      "simple_summary": "A company called xAI is suing someone who allegedly misused their AI chatbot called Grok to create illegal child abuse material.",
+      "why_it_matters": "This is a legal and criminal matter that doesn't directly affect your business—it shows companies are taking action against serious misuse of their AI tools."
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "source": "TechCrunch",
+      "date": "2026-07-16T15:38:55.000Z",
+      "simple_summary": "DoorDash is testing a tool that lets computer code and AI programs order food delivery without a person clicking buttons—just through typing commands.",
+      "why_it_matters": "This mostly matters to software developers and is of interest mainly to investors—not relevant to small business owners unless you run a restaurant using DoorDash."
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch",
+      "date": "2026-07-16T15:31:09.000Z",
+      "simple_summary": "OpenAI released a basketball with ChatGPT branding as merchandise or a novelty item.",
+      "why_it_matters": "This is just a fun product a company made—it has no business relevance."
+    },
+    {
+      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-16T15:23:43.000Z",
+      "simple_summary": "Twenty-nine countries agreed to work together and create a group that will help set guidelines and rules for how AI should be used globally.",
+      "why_it_matters": "This is early-stage international cooperation that could eventually affect AI regulations worldwide, but it won't have immediate effects on your business."
     }
   ]
 }
