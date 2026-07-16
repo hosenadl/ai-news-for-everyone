@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-15T19:38:01.558Z",
+  "generated_at": "2026-07-16T03:40:37.790Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Murati’s Thinking Machines releases first AI model for broad use",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5",
-      "source": "Fortune",
-      "date": "2026-07-15T18:46:00.000Z",
-      "simple_summary": "A new AI company called Thinking Machines released their first AI tool that anyone can use.",
-      "why_it_matters": "This mostly matters to tech companies and developers — nothing you need to act on right now."
+      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlluX1dkMUFKZEt1QkdlZmlzdWc3bndGVGoyWGhxX3hHUHZ6MEZYeWtQaWlDNUo2Zk1VWmRHakFjdjlZM3gxMjJDQjlhZnFRQVNRRndzY2U3RW94U2VYS3l6cno1TUwyczhrOXdfcktpcjJmbEg3VlJ5Z3R3MWNWM1FGbzlUcVE4UzZUbtIBkgFBVV95cUxNSmRwWWxyYjZGakNXblZCX1daMXZXME5FVTFsZlZxdWJvSVdBQ1RPVjJPS3JsMXJyUlVwTWI0SXJ2amRYUDJfUG93VHpqc2JYOTdDZVY2aVVkem9hQzhkMGhrU2ZoVXJmM2JTVWFFVjQ2T1p1eW9XVjB0cFQ2UG4zbTZSc2RCeHE5cHZpdW5xaDhjQQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-16T03:12:00.000Z",
+      "simple_summary": "Apple has partnered with AI companies, which made investors excited about two big Chinese tech companies (Alibaba and Baidu) that work in AI.",
+      "why_it_matters": "This mostly matters to investors and stock traders — nothing you need to act on."
     },
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "date": "2026-07-15T23:59:44.000Z",
+      "simple_summary": "Microsoft is training its sales team to tell customers that Microsoft's own AI tools are cheaper and work better than competitors' tools like OpenAI and Anthropic.",
+      "why_it_matters": "If you use Microsoft products, you might see Microsoft pushing their AI tools more, but this is really about competition between big tech companies."
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "source": "The Verge",
+      "date": "2026-07-15T21:33:20.000Z",
+      "simple_summary": "An AI company owned by Elon Musk is suing someone who they say misused their chatbot to create illegal harmful images.",
+      "why_it_matters": "This shows AI companies are starting to take legal action when people break rules — it doesn't affect ordinary people unless you're breaking laws."
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "source": "The Verge",
+      "date": "2026-07-15T20:00:00.000Z",
+      "simple_summary": "The headline talks about cheap AI-made movies competing with big-budget real movies in theaters.",
+      "why_it_matters": "Movie studios might start making cheaper AI-assisted films, so you may eventually see lower-quality movies in theaters — but this is mainly a problem for the film industry, not everyday people."
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch",
+      "date": "2026-07-15T19:41:38.000Z",
+      "simple_summary": "OpenAI released a special keyboard (a typing device with lights) to go with one of their computer coding tools.",
+      "why_it_matters": "This is only relevant if you're a computer programmer — nothing for a regular business owner or retired person."
+    },
+    {
+      "title": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
+      "source": "WSJ",
+      "date": "2026-07-15T18:50:00.000Z",
+      "simple_summary": "A former executive from a big AI company started a new AI company and released their first AI model to compete with the big players.",
+      "why_it_matters": "This matters mostly to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TOFlKM21SbUg3MzJFQzRTZnNVVU1HOE9SVWs1SnJCWlVaOHlDY1RKd1BZMFYxREZvTVVaNUdXbm9PWE9NeE9BcnFiUFZRSkQzVnlGVlR5emRtR3RFZGdiRTZYQnU5X21HdFhFaDg3U25PVDg1Rk1HVQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-15T18:08:58.000Z",
+      "simple_summary": "China's biggest chip-making company is raising a lot of money to build better AI chips as part of a race with other countries.",
+      "why_it_matters": "This is mainly about international competition and investors — it doesn't change anything for ordinary people or small businesses right now."
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "source": "TechCrunch",
       "date": "2026-07-15T18:06:05.000Z",
-      "simple_summary": "SpaceX's stock price has dropped since it first started trading publicly, and people are becoming less excited about the company's promises.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "SpaceX's stock price has dropped since it first went public, showing that investors are becoming less excited about it.",
+      "why_it_matters": "This matters to SpaceX investors — nothing you need to act on unless you own SpaceX stock."
     },
     {
       "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
       "source": "TechCrunch",
       "date": "2026-07-15T18:04:06.000Z",
-      "simple_summary": "Thinking Machines released a new AI tool called Inkling that works differently than other AI systems.",
-      "why_it_matters": "This mostly matters to tech companies and developers — nothing you need to act on right now."
+      "simple_summary": "A company called Thinking Machines released a new AI model they've been working on in private.",
+      "why_it_matters": "This mostly matters to AI researchers and tech companies — nothing you need to act on."
     },
     {
       "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "source": "The Verge",
       "date": "2026-07-15T17:48:01.000Z",
-      "simple_summary": "Someone hacked into the AI music company Suno and found that it copied millions of songs from YouTube, Deezer, and other music websites to teach itself how to make music.",
-      "why_it_matters": "If you're a musician or songwriter, this matters because your music may have been copied without permission to train AI."
+      "simple_summary": "A hacking incident revealed that Suno, an AI music-making tool, secretly copied millions of songs from YouTube, Spotify-like services, and other websites to train itself.",
+      "why_it_matters": "If you use Suno to make music, you should know it was trained on other people's music without permission — this could lead to legal problems for the company."
+    },
+    {
+      "title": "CIA Says AI Drones Give Russian Troops Only 30 Minutes to Live",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaElqVm9nYW9qUG5jQldSRGgzNGsxc3I3Q1d4cC1WRFYybGVhRDBsd1EzbFBVam9LZ3FDUHpmbGdMMjZUVVBhaEg2TFdWVHNiYmxWaXJTYThka0pVVDdfY3ZlcWFLNkZrTDVocy1FYk9uN0Q3RmxWd094R3d0azM0b2xaX3JCSVpvcWc2dW1QWXVwVW14cXVFdEEtTE1IcWdLYm5XVV9qaGc5SGJ0WHFjOXJ1VQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-07-15T17:09:35.000Z",
+      "simple_summary": "According to U.S. intelligence, AI-controlled drones used by Russia can locate and attack targets so quickly that enemy troops have only about 30 minutes to escape.",
+      "why_it_matters": "This is about military technology and warfare — nothing that affects everyday life for civilians or small business owners."
     },
     {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
       "source": "TechCrunch",
       "date": "2026-07-15T17:00:34.000Z",
-      "simple_summary": "A hacker broke into Suno's systems and discovered the company secretly copied decades of audio from YouTube to train its music-making AI.",
-      "why_it_matters": "If you're a musician or songwriter, this matters because your work may have been used to train this AI without asking you first."
-    },
-    {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T17:00:00.000Z",
-      "simple_summary": "Whatnot, a live shopping platform (like a TV shopping channel but online), bought a company called Shaped that helps suggest products to customers in real-time.",
-      "why_it_matters": "If you sell things on live shopping platforms, the recommendations to customers might get smarter, which could help you sell more."
-    },
-    {
-      "title": "Bernie and AOC Are Taking On AI. Only One of Them Is Doing It Right.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmVUFzbEMzSUJXU1BZRFh6NDVMNFZOczZMV1RaOHdaUXh0UklFQkd1OHBta2g4aUxGUm9idE9zLXYwLVVvWHBmdG4taDJYNURVWi02bVU2cGJMZVFhQm14WUt6RdIBigFBVV95cUxNdGtCUEVoWWhiVjItdVBMdEhvQkJrWU9VSUF2RUdTYnpBUjM5UUFiTWR3ZjRPeHY3WUg0VTFyczN4NmowWWRwYXJCN3dQRlVrc1gwNmF2dHdycDNkVVp2dWdwWXBFMHJCNkhGRU52TXBud0IwWE1OQjhXVTlJY09rRjh0V1cyVXdWWVE?oc=5",
-      "source": "The Nation",
-      "date": "2026-07-15T16:22:39.000Z",
-      "simple_summary": "Politicians Bernie Sanders and AOC are speaking out about AI, but they have different approaches.",
-      "why_it_matters": "This is mostly political news — not something you need to act on."
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T16:20:18.000Z",
-      "simple_summary": "Microsoft fixed 570 security problems (a record number) in its software, and it used AI to help find many of these problems.",
-      "why_it_matters": "If you use Microsoft products, your computer is getting safer because Microsoft is using AI to find bugs faster."
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "source": "The Verge",
-      "date": "2026-07-15T16:00:00.000Z",
-      "simple_summary": "OpenAI created a small device with buttons designed to work with its Codex coding platform.",
-      "why_it_matters": "This mostly matters to computer programmers — nothing you need to act on."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T15:29:33.000Z",
-      "simple_summary": "Apple got permission to use AI features in China by partnering with a Chinese company called Alibaba to provide the AI instead.",
-      "why_it_matters": "If you own an Apple device in China or do business there, Apple's AI features will now work in that country."
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T15:00:00.000Z",
-      "simple_summary": "A new company called Ode is sending engineers to help big businesses use AI, backed by major investment firms.",
-      "why_it_matters": "If you run a very large company, this is a new service to consider, but most small businesses don't need this yet."
-    },
-    {
-      "title": "We'd Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of \"The Odyssey\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9abWh3VWkzaXZOVjVmM2t5VWNBTTlqT2xzcUxoUEtxSkNNSE5jNTBXZ0huOXQzNFB1ZzVNczRtaXRMNnhOQzB2RGhtN2xfWV9TS2hwZGVpLWNnVTI5VUtuakJPV0ZvWTNLellaYTdxZy13NnM?oc=5",
-      "source": "Futurism",
-      "date": "2026-07-15T14:45:55.000Z",
-      "simple_summary": "Someone made a version of the ancient story \"The Odyssey\" entirely using AI, and critics think it's not good.",
-      "why_it_matters": "This doesn't affect you — it's just commentary on whether AI-made entertainment is worth watching."
+      "simple_summary": "A hacker broke into Suno's systems and found proof that the company copied lots of music from YouTube to train their AI music tool.",
+      "why_it_matters": "This is similar to headline #9 — if you use Suno, you should know it was trained on copied music, which could create legal issues for the company."
     }
   ]
 }
