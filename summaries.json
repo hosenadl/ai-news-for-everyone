@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-16T08:35:57.855Z",
+  "generated_at": "2026-07-16T14:25:28.002Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE85LWRaZG9oRFprVGRTdGh0bEhXN2RfYUVzU05WTnJFa3lHcXlEMFNHUUVJdV9oV1FWdTNMSUE0SDJiVGs4bUNJUkVWbHMtNE1DRGo3TmtqWk5tMzRiYTU3dEpQWWJoQnZ6S1ctYXNLZm1obEJLZUE4RkR1eDJZTVJQYXpHTV9peDZPZFZYa2w5OHp3MHg0X0lB?oc=5",
-      "source": "Yahoo",
-      "date": "2026-07-16T07:43:45.000Z",
-      "simple_summary": "Japanese robot companies are partnering with Nvidia (a computer chip maker) to build robots that move and interact with the real world using AI.",
-      "why_it_matters": "This mostly matters to investors and engineers — unless you're in manufacturing or buy factory robots, you don't need to act on this."
+      "title": "The Navy’s Strategy to Weaponize Data and Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbllHMmU1TG5zWTVnQ0VLMnl2TnZPT2lEQ3ZPcXFtcjQ3Ti1XcFlyRTJHWFVXN2xuVmVwV3NDMkpmN2xfQUx0MXJtczZnTTZzMkF5S0hnb21GdjFSeGVvdFFjZlNwUkFpQzY0OFVvZkxiSmVaUXdDMVlpcFM5dTcyM0FZRTVYRVpjeklWTERMQWJhZGJmUmMxNVQ3ZkhqZw?oc=5",
+      "source": "USNI News",
+      "date": "2026-07-16T14:03:00.000Z",
+      "simple_summary": "The U.S. Navy is planning to use artificial intelligence and data more strategically for military purposes.",
+      "why_it_matters": "This is about military strategy and doesn't affect ordinary people or small businesses — nothing you need to act on."
     },
     {
-      "title": "Top Microsoft Executives Replaced In Major AI Overhaul: Report",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZFIyV1lqYXFCc3g5dXk4WDE2M0RnOG1sblpjd1Q3Uzk0TDViNlg2SW0ycldFbDc2UkNQby05VTVneDJJcE9RejBrQWZfa2V3aXdZTVZlTE5vS2dpcnVLVHpaYUxfN1Y4RUFJSVljRHJ0SnljNm94cXV0NVhkSms0MXdNdkktVXdOV2ppZlJzVzBlN3pNTXduUDY0ZGJsbEFfZzVxeWtNcVNiUmhaSHE2Uy0xOExZa1VCeWVINFNGd0tzRklXWFlFRk9DRjFtek45SzR2UmR4UmstdnczTHhHdXhuX3jSAewBQVVfeXFMT3Z3VzJlZ0E1M0ZkZkgtZWtYU08wZjhkdUs4Qkp1YXByZHQwa3VudWdkREdoZVl5YXdpNnVYSHVaYmFuVjRVaDVKWFRoRl9Qb0xGTWJvS2RhbzFnMWtVN2VuQkJzT1V4c2REc2UtUVNaN3pURmlWSVYybkkwb2VYMnlYOHFEalZfUFZmeVFlSklQazU4QzhCdlh0VHd2eXJYTTQ4bzZTZlNDZUxPZHB2TklvaTc3WjBLX2NaWlRCMWxzTGp2a3dkZlRuTkV3ZzlRZ05LOXBDMl8yRkhHQVlXWmd0VmlsZDNtejQwX00?oc=5",
-      "source": "NDTV",
-      "date": "2026-07-16T06:50:37.000Z",
-      "simple_summary": "Microsoft changed which executives lead its AI division.",
-      "why_it_matters": "This mostly matters to Microsoft employees and investors — no change for you or your small business."
+      "title": "Editorial: AI in the workplace",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTlmaFR5LVBHVGFkdFFydURxM0pNeDluUDhETy1TTlItTlhXQVZwY25HU2tuVTRYSkVndk45ZTdpX2xOR0owbnVBM1VWTXJGOUZYdjdiVmo4WVNaak5IblJfSlc0TlVBaXZUQXpZY0tLdGRHbVVnTEQ4MUtOX1JLWDBOOVl1RlNCNm90Ng?oc=5",
+      "source": "WBAL-TV",
+      "date": "2026-07-16T14:01:27.000Z",
+      "simple_summary": "A news outlet is discussing how AI is changing workplaces and what that means for workers.",
+      "why_it_matters": "Depending on what they said, this could be relevant to small business owners thinking about using AI tools, but without seeing the full article it's hard to say specifically what applies to you."
     },
     {
-      "title": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVNxYzJJbUZNRzh6NFdVaWlUZHhkTWdSNkhoY0tRbTVXa2tRVHBVOE1YdktnTk1KMGE0aWs5bl9pdlBWOGlyUUxEU1lrUU1kbGVlaktsMFJfUnYtenU0OWN4dW9xMjZ5R09WWm1xdWFlNGRVeU0xT05UN0ZHVEtnUlZGa21UNTVWTjBWZVUzR0xfM3R0QUxaZm5JYjU4V19TalV2UHNVU0VqYkdZT0JRN1ZhRFFVdkZmSmxmNXMxTXZybHNY?oc=5",
-      "source": "Politico",
-      "date": "2026-07-16T06:04:00.000Z",
-      "simple_summary": "The head of Anthropic (an AI company) gave $1 million to support political causes related to AI.",
-      "why_it_matters": "This is a political story, not something that affects your daily life or business."
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-16T13:17:59.000Z",
+      "simple_summary": "Apple is allowing two Chinese companies (Alibaba and Baidu) to help run Apple's AI features in China instead of running them directly.",
+      "why_it_matters": "If you don't use Apple products in China, this doesn't affect you — this is mostly about Apple doing business in a specific country."
     },
     {
-      "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge",
+      "date": "2026-07-16T13:00:00.000Z",
+      "simple_summary": "Claude, an AI chatbot, can now ask your permission to log into your accounts (like travel booking websites) and do tasks for you using your stored passwords.",
+      "why_it_matters": "If you use Claude and trust it with sensitive tasks, this could save time, but it means trusting an AI tool with your login information — think carefully before allowing this."
+    },
+    {
+      "title": "Behind the risks and benefits of letting AI manage your money",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NFcjZvQU04cGZaU2xGWTdmYUVOcEtrWER2ck16bFE5SlJENGRTMFFxM0YtZk1zUkNyM3QzYVJTMnlDT1JZbFMySXpKR3JtWGxFdm9fcDFYUkt2cUROekFvclA3MkZwTHpJT1NKUXhVbW9HTjNsME1veUVkNmRaQzM4RTUyZVItc2JFOVdkcGZYM3BNdi1v?oc=5",
+      "source": "CBS News",
+      "date": "2026-07-16T12:15:00.000Z",
+      "simple_summary": "An article discusses the good and bad sides of letting AI software handle your investments and money decisions.",
+      "why_it_matters": "If you're considering AI tools to manage your savings or investments, you'll want to understand the risks and benefits before trusting your money to them."
+    },
+    {
+      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5",
       "source": "The New York Times",
-      "date": "2026-07-16T04:01:09.000Z",
-      "simple_summary": "Europe wants to build its own technology instead of relying only on American and Chinese companies.",
-      "why_it_matters": "If you buy European technology or software, this could mean more local options in the future, but no immediate action needed."
+      "date": "2026-07-16T12:10:18.000Z",
+      "simple_summary": "Europe is trying to build its own AI technology so it doesn't rely completely on American companies, but it's proving very difficult.",
+      "why_it_matters": "This is mostly about government and business competition — it doesn't directly affect your daily life or small business."
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge",
+      "date": "2026-07-16T12:06:51.000Z",
+      "simple_summary": "The European Union ordered Google to let other companies' AI assistants and search engines work better with Android phones and Google Search.",
+      "why_it_matters": "This might eventually give you more choices in search engines and AI helpers on your phone, but it's mainly a legal decision affecting big tech companies."
+    },
+    {
+      "title": "Computer cops",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge",
+      "date": "2026-07-16T11:00:00.000Z",
+      "simple_summary": "A news story is exploring how police departments are using AI technology in their work.",
+      "why_it_matters": "Depending on details, this could be relevant to how law enforcement operates in your area, but without more information it's hard to say what it means for you."
+    },
+    {
+      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
+      "source": "AP News",
+      "date": "2026-07-16T10:36:00.000Z",
+      "simple_summary": "A study warns that AI chatbots might repeat and spread government censorship and speech restrictions from around the world.",
+      "why_it_matters": "This is mostly a concern for researchers and policymakers — it doesn't immediately change how you can use AI tools today."
+    },
+    {
+      "title": "Nobel Laureates sign Rome Declaration on Nuclear Weapons and AI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWlNempPcFlwelVwU2lCdVpJVi1lNTllb3VqbVl1eDZZcGtQSTlTdTllSndDSXV5SkNhaGVXVTB6eGpuNTFGSUpBd0NYYUZCa09lbGN4UWJWUUtfRml3N0sxTjZoYW9YaDZkZGVPWkVMcXM2dVRDRUduS0lsM3N5bGJwSzFlTVM0WDZJdGtHSWRwQng3SXNzbWFhMGY4SEl4RThvdWVoanNFZVVmbFBEMFJsLTM?oc=5",
+      "source": "Vatican News",
+      "date": "2026-07-16T10:03:05.000Z",
+      "simple_summary": "Nobel Prize winners signed a declaration expressing concern about the risks of nuclear weapons combined with artificial intelligence.",
+      "why_it_matters": "This is about serious global issues but doesn't require any action from ordinary people or small business owners."
+    },
+    {
+      "title": "For Software Engineers, the AI Reckoning Is Already Here",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFBJZXNvd0pWdVB3SGYxbjFRNVFTQXN3Wk5zYUV4dm05U0Y5NWVxTjdXMHN1X2F6WG43Q1dfd0RqNm1JY2JFTUk0RW9saXdBbzF0RGlOQVFfaVFJWlNudjdiVi1yempDQlJraGE4a09pbURMT2ZiZzNjdkxtSGZ1ZkVHOHRQMklOa1cwVkE0TmpFZWZXUUw1bXFmUjdXMzN5cmFwREtDVlJRWVZIOTdybW5n?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-07-16T09:00:20.000Z",
+      "simple_summary": "Software engineers who write computer code are experiencing big changes in their jobs because of AI tools that can write code.",
+      "why_it_matters": "If you're not a software engineer, this doesn't directly affect you — it's mostly relevant to people in tech jobs."
     },
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
       "source": "TechCrunch",
       "date": "2026-07-16T04:00:00.000Z",
-      "simple_summary": "A company is using $20 million to build an AI tool specifically designed to help oil and gas plants run themselves better.",
-      "why_it_matters": "Unless you work in oil, gas, or petrochemicals, this doesn't affect you — this is a specialized tool for one industry."
-    },
-    {
-      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlluX1dkMUFKZEt1QkdlZmlzdWc3bndGVGoyWGhxX3hHUHZ6MEZYeWtQaWlDNUo2Zk1VWmRHakFjdjlZM3gxMjJDQjlhZnFRQVNRRndzY2U3RW94U2VYS3l6cno1TUwyczhrOXdfcktpcjJmbEg3VlJ5Z3R3MWNWM1FGbzlUcVE4UzZUbtIBkgFBVV95cUxNSmRwWWxyYjZGakNXblZCX1daMXZXME5FVTFsZlZxdWJvSVdBQ1RPVjJPS3JsMXJyUlVwTWI0SXJ2amRYUDJfUG93VHpqc2JYOTdDZVY2aVVkem9hQzhkMGhrU2ZoVXJmM2JTVWFFVjQ2T1p1eW9XVjB0cFQ2UG4zbTZSc2RCeHE5cHZpdW5xaDhjQQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-16T03:12:00.000Z",
-      "simple_summary": "Stock prices for two Chinese companies (Alibaba and Baidu) went up because Apple announced it's working with them on AI.",
-      "why_it_matters": "This mostly matters to people who own these stocks — no impact on everyday life or small businesses."
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T23:59:44.000Z",
-      "simple_summary": "Microsoft is telling its salespeople to convince customers that Microsoft's AI is better and cheaper than competitors like OpenAI.",
-      "why_it_matters": "If your business uses AI tools, you might get pitched Microsoft's version — just compare options like you would any software."
-    },
-    {
-      "title": "US hardens AI stance on China as Anthropic calls for extending lead",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmFMMG0yWk8yLTBnMFB6cUlQSVRELVNBZDI0Z3pHelVVSUFra2gyM1ZFajE4NTR5RW5OQTJ5Z3NMeXZmclAycG41Yk8zX1E1UU9RVXFtTUlNSGVwRm1pLVRWQnJEblVlRDNWdXdUUG1MSGRuUnNtLVdqMjg2TENLRi03MVVadW1PMGN6aVpWNDVlTTJWZkQxWGpwVVVGbFo3bGtCUdIBpAFBVV95cUxOUElSQmUzejJWVzRxcy1lS0w0Wkd4d0NwNXZZNU1mbDFudnFGeHJZSTFPOFpRNFUzU00ydHNVVlVlSlVuenhBaHFYbDlLYlJWT01uTE1nVjZqSElRdUlfbUt3OGpfRHhXTkRocW13RTBzM3NhOWEtbUl4LWpyN2ducEJubjNFb24yNnVZMVZ6ZHdSZXJobms5WEh2aDRlODFaZzMzeQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-15T22:05:35.000Z",
-      "simple_summary": "The US government is stricter about which AI technology American companies can sell to China.",
-      "why_it_matters": "This mostly affects large tech companies and investors — no change for typical small businesses."
-    },
-    {
-      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "The Verge",
-      "date": "2026-07-15T21:33:20.000Z",
-      "simple_summary": "A company that owns an AI chatbot is suing a man who allegedly used it to create fake harmful images of children.",
-      "why_it_matters": "This shows companies are taking legal action when their tools are misused, but it doesn't change what you need to know about AI."
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "source": "The Verge",
-      "date": "2026-07-15T20:00:00.000Z",
-      "simple_summary": "Movies made cheaply with AI are being sold like old-fashioned low-budget movies — quick cash grabs that don't get theatrical releases.",
-      "why_it_matters": "You might encounter poor-quality AI-generated movies streaming online, but quality films still need real filmmakers."
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch",
-      "date": "2026-07-15T19:41:38.000Z",
-      "simple_summary": "OpenAI released a special keyboard for its coding AI tool while in a legal dispute with Apple about hardware.",
-      "why_it_matters": "This is a niche product for programmers — unless you're a coder, you won't need this keyboard."
-    },
-    {
-      "title": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
-      "source": "WSJ",
-      "date": "2026-07-15T18:50:00.000Z",
-      "simple_summary": "A former executive from OpenAI started her own AI company and released its first AI model to compete with bigger AI companies.",
-      "why_it_matters": "This mostly matters to tech investors and engineers — this is about industry competition, not something affecting your business."
+      "simple_summary": "A company raised $20 million to build an AI system that can manage and optimize entire oil and gas plants.",
+      "why_it_matters": "Unless you work in the oil, gas, or petrochemical industry, this doesn't affect you — it's a specialized tool for large industrial operations."
     }
   ]
 }
