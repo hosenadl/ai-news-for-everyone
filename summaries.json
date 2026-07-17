@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-17T03:40:32.083Z",
+  "generated_at": "2026-07-17T08:29:38.053Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-17T05:43:49.000Z",
+      "simple_summary": "China's leader is telling developing countries that China can be a good AI partner, while warning about risks from AI. This is mostly about China's international politics and business strategy.",
+      "why_it_matters": "This doesn't affect your daily life or small business unless you work in international trade — it's about which countries do business with which."
+    },
+    {
+      "title": "Australia to Put Environmental Brakes on A.I. Data Centers",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjl3NUl2VkZ3a0ZaOGlvTlU0YXJoZzJHMDZUUnI0bDRSS0J4V2g0XzYwSWJ0R2x5YmZsRExhWTdZMElVSFBUY09fUkd4cEdBTDBVTDJOM0xDVHNzWTdVSk9vRTNZSUpoNHBqTHo0LUFna1J0VkVhZkdjSXpUd3NVN2NidzRUbzFaM1BuZFJ1NkNtUHI2NURDZmtrNjdfbVcx?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-17T00:46:00.000Z",
+      "simple_summary": "Australia is putting limits on new AI data centers because they use a lot of electricity and water. AI companies need huge computer centers to run their systems.",
+      "why_it_matters": "If you live in Australia, this might keep electricity costs more stable; for everyone else, this mostly matters to tech investors."
+    },
+    {
+      "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-16T19:07:42.000Z",
+      "simple_summary": "Google's powerful new AI tool is delayed, and this news made Google's stock price drop. This is about investor concerns, not a product change you'd notice.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
     {
       "title": "Google Vids now lets you star in your own AI videos",
       "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TechCrunch",
       "date": "2026-07-16T18:32:54.000Z",
-      "simple_summary": "Google is adding a feature to its video-creation tool that lets you make videos starring a digital version of yourself. You can describe what video you want, and AI will generate it.",
-      "why_it_matters": "If you run a small business or want to create marketing videos without filming yourself, this could save you time and money—but it's still new and mostly for people comfortable experimenting with new tools."
+      "simple_summary": "Google's video-making tool now lets you create videos with a fake version of yourself in them, without needing cameras or actors. You just type what you want and AI makes a video.",
+      "why_it_matters": "If you run a small business and need videos for marketing, this could save you money instead of hiring someone to film or act."
     },
     {
       "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "source": "TechCrunch",
       "date": "2026-07-16T18:22:06.000Z",
-      "simple_summary": "Roblox (a platform where people create games) now lets you type a description and have AI automatically make a basic game for you.",
-      "why_it_matters": "This doesn't affect most small business owners or older adults—it's mainly for young people interested in game creation."
+      "simple_summary": "Roblox (a game-making platform for young people) now lets you create simple games by just typing what you want — no coding needed.",
+      "why_it_matters": "This doesn't directly affect most small businesses, unless you sell games or want to learn how AI helps non-experts create things."
     },
     {
       "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "source": "The Verge",
       "date": "2026-07-16T17:58:37.000Z",
-      "simple_summary": "New York's governor announced she's using AI to read through all the state's rules and regulations to find ones that are outdated or no longer make sense.",
-      "why_it_matters": "This could eventually lead to simpler rules for businesses and less paperwork, but it's too early to know what will actually change."
+      "simple_summary": "New York's governor is using AI to read through all the state's old rules and laws to find ones that are outdated or no longer make sense.",
+      "why_it_matters": "This could eventually affect you if state rules change, but it's mostly a government efficiency project — no immediate action needed."
     },
     {
       "title": "Google’s AI Mode now lets you link and interact with select apps",
       "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "source": "TechCrunch",
       "date": "2026-07-16T16:00:00.000Z",
-      "simple_summary": "Google's AI chatbot can now do tasks in other apps you use—like scheduling, sending messages, or other actions—instead of just answering questions.",
-      "why_it_matters": "This is mostly for tech enthusiasts right now; ordinary users likely won't notice changes yet."
+      "simple_summary": "Google's AI assistant can now do real tasks (like sending emails or managing your calendar) instead of just answering questions.",
+      "why_it_matters": "If you use Google tools for your business, this could save you time on routine tasks, though you'll need to set it up carefully."
     },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "source": "The Verge",
       "date": "2026-07-16T16:00:00.000Z",
-      "simple_summary": "Google is renaming its note-taking app from NotebookLM to Gemini Notebook, but it works the same way—it's just getting a new name to fit with Google's other AI products.",
-      "why_it_matters": "This doesn't affect what the tool does or how you'd use it; it's just a name change."
+      "simple_summary": "Google is renaming one of its AI note-taking apps from NotebookLM to Gemini Notebook — it's the same tool with a new name.",
+      "why_it_matters": "If you already use this app, you just need to know the new name; if you don't, this doesn't affect you."
     },
     {
       "title": "Yes, you can now order DoorDash from the command line",
       "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
       "source": "TechCrunch",
       "date": "2026-07-16T15:38:55.000Z",
-      "simple_summary": "DoorDash created a special tool that lets computer programmers (and their AI assistants) order food through text commands instead of using the website or app.",
-      "why_it_matters": "This is only for computer programmers and tech companies—nothing that affects ordinary people or small business owners."
+      "simple_summary": "DoorDash is testing a way for AI programs to order food directly, like a person would. This is designed for software and robots, not regular people.",
+      "why_it_matters": "This mostly matters to tech companies building AI systems — nothing you need to act on."
     },
     {
       "title": "Why is OpenAI selling a ChatGPT basketball?",
       "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
       "source": "TechCrunch",
       "date": "2026-07-16T15:31:09.000Z",
-      "simple_summary": "OpenAI released a basketball with ChatGPT branding on it, though the article doesn't explain why or what it does.",
-      "why_it_matters": "This appears to be a novelty product or merchandise—it doesn't affect your daily life or business."
+      "simple_summary": "OpenAI released its first real product you can hold (besides software) — it's a basketball with ChatGPT built in. The details aren't clear from the headline.",
+      "why_it_matters": "This is probably more a fun novelty or marketing idea than something most people need."
     },
     {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "source": "TechCrunch",
       "date": "2026-07-16T15:02:00.000Z",
-      "simple_summary": "A former AI researcher raised $300 million from investors to start a company focused on visual AI (making AI better at understanding images and video).",
-      "why_it_matters": "This mostly matters to investors—it's a significant business development but nothing you need to act on right now."
+      "simple_summary": "A former AI researcher raised a huge amount of money ($300 million) for a new company about visual AI, before even releasing a product yet.",
+      "why_it_matters": "This mostly matters to investors and tech industry people — nothing you need to act on."
     },
     {
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
       "source": "TechCrunch",
       "date": "2026-07-16T14:40:00.000Z",
-      "simple_summary": "A startup CEO working on AI thinks people use overhyped words like 'superintelligence' when describing AI, and he prefers not to use them.",
-      "why_it_matters": "This is mainly interesting to AI enthusiasts and investors; the debate about terminology doesn't affect ordinary people."
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T14:26:29.000Z",
-      "simple_summary": "A Chinese AI company is building a large language model (computer program that understands and writes language) expected to be as good as other leading AI systems.",
-      "why_it_matters": "This mostly matters to investors and tech companies competing in AI—it doesn't directly affect your day-to-day life."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T13:17:59.000Z",
-      "simple_summary": "Apple made a deal with Chinese companies Alibaba and Baidu to provide AI services for Apple products in China.",
-      "why_it_matters": "If you use Apple products in China, this means Apple Intelligence features will work there; if you're elsewhere, this doesn't affect you."
-    },
-    {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "source": "The Verge",
-      "date": "2026-07-16T13:00:00.000Z",
-      "simple_summary": "Claude (an AI chatbot) can now access your passwords from 1Password (a password manager) so it can log into accounts and complete tasks like booking travel without you typing in your information.",
-      "why_it_matters": "This is convenient if you use both services and trust AI with your passwords, but many people will feel uncomfortable letting AI access their login credentials."
+      "simple_summary": "A startup CEO is disagreeing with other AI companies about using big words like 'superintelligence' to describe their AI systems.",
+      "why_it_matters": "This is mostly inside talk among AI researchers and investors about how honest companies should be about their claims."
     }
   ]
 }
