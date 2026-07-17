@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-17T08:29:38.053Z",
+  "generated_at": "2026-07-17T14:05:09.042Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Opinion | Are you there, Claude? It’s me, Margaret.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVdIZXVXX3kycWhld2RnS1VTVE1BemNZdFBNeWR4bjlKTC1rdW9DUERtZzZkSDVjS29jRXhxb0Y2TVpoSzBPOFkxLUhVc0wzbGV5ZDBObjVGRFhJV3B3a0N4WXhTSzJtNHJrRXd1ZTFjaEx4Smo3aEplLV9DNkI4NVNWRlBxdTBVQ1JoT05UWWRoQXl2RkpYT1Nxc29pSENFX1hkUTQ0T2g?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-17T12:32:00.000Z",
+      "simple_summary": "This is an opinion piece comparing interactions with an AI assistant named Claude to personal relationships.",
+      "why_it_matters": "This is mostly just someone's thoughts about talking to AI — nothing you need to act on."
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T12:00:00.000Z",
+      "simple_summary": "Companies that built expensive AI computers are now borrowing money using cheaper AI chips as collateral instead, in a $400 million deal.",
+      "why_it_matters": "This mostly matters to investors and technology companies — nothing you need to act on."
+    },
+    {
+      "title": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT25TNFlXeVFQMmVqWFYtSS1oSkpEUl9WeExTZUpmZEtFb1RpQ3dRbGxGV1hVWjNpMkRxTlpaQk5NSXNfdzlmYmg1cW5MUGlmR3FpeHV2bmpzMDBXQW1mV1B0N3QzUmZOOFU5T0w1QWFqYldjWnZER0t0UmNzcGZBQll1dWZBNEYyWTV3dnZvMkRzTkhqNHBDak5TTXd4b080eUJGbExOSUVCeU5Cd1ZmUWVXUG1SUQ?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-07-17T11:32:01.000Z",
+      "simple_summary": "China built a very large AI system and claims it works better than similar American systems at writing computer code.",
+      "why_it_matters": "This mostly matters to tech investors and governments — nothing you need to act on."
+    },
+    {
+      "title": "Got $1,000? 2 High-Growth Artificial Intelligence (AI) Moonshots With Massive Upside Potential.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjB5REJHWXJEYTJJcjhWSEtoNERSVkNHSUJOUXJIb3NQYWZNVEFCYVI5X1RVX1N1OXlkWE9GOEZRMzVpaFF2MkRoWDlHdnNkaXlMejhiQ0VYVFEtQTF1Q3ZIcXVzRk0ya1FhLUJlam5Qam1HYXJvSDljY0xQRnlQTEZTYXh0THM?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-17T10:32:00.000Z",
+      "simple_summary": "Someone is recommending two AI company stocks as investments for people with $1,000 to spend.",
+      "why_it_matters": "This is investment advice for stock market investors — not relevant to small business owners unless you're looking to invest your savings."
+    },
     {
       "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
       "source": "CNBC",
       "date": "2026-07-17T05:43:49.000Z",
-      "simple_summary": "China's leader is telling developing countries that China can be a good AI partner, while warning about risks from AI. This is mostly about China's international politics and business strategy.",
-      "why_it_matters": "This doesn't affect your daily life or small business unless you work in international trade — it's about which countries do business with which."
+      "simple_summary": "China's leader is telling developing countries that China can help them with AI, while warning them to be careful about security risks.",
+      "why_it_matters": "This is about international politics and trade — nothing you need to act on."
     },
     {
       "title": "Australia to Put Environmental Brakes on A.I. Data Centers",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjl3NUl2VkZ3a0ZaOGlvTlU0YXJoZzJHMDZUUnI0bDRSS0J4V2g0XzYwSWJ0R2x5YmZsRExhWTdZMElVSFBUY09fUkd4cEdBTDBVTDJOM0xDVHNzWTdVSk9vRTNZSUpoNHBqTHo0LUFna1J0VkVhZkdjSXpUd3NVN2NidzRUbzFaM1BuZFJ1NkNtUHI2NURDZmtrNjdfbVcx?oc=5",
       "source": "The New York Times",
       "date": "2026-07-17T00:46:00.000Z",
-      "simple_summary": "Australia is putting limits on new AI data centers because they use a lot of electricity and water. AI companies need huge computer centers to run their systems.",
-      "why_it_matters": "If you live in Australia, this might keep electricity costs more stable; for everyone else, this mostly matters to tech investors."
+      "simple_summary": "Australia is making new rules to limit how much water and electricity AI data centers (massive computer buildings) can use.",
+      "why_it_matters": "This mostly matters to large technology companies — nothing you need to act on."
     },
     {
-      "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-16T19:07:42.000Z",
-      "simple_summary": "Google's powerful new AI tool is delayed, and this news made Google's stock price drop. This is about investor concerns, not a product change you'd notice.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base | Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORktCSWpQYXlBU2Z6N0lQLXlKNnZCTi14LWVpN28wYlE1TnpHeXRYeDF6elJELWhvYnZ6M2ZQb01CbVRFUUNzZGFZS2l0eDctNktZVDJyV0QxRXlaRnJJSHdEVE1FQnd1VVJ3UUNncXlybVYyOUtTQUNJNzVuMjlteXFUX2pqQnBLV0MyWWFldXc2WG5qZG1RVGZpZFFWcUFXQ2IzelBzQlhNZlNUQ3NnM1BzM25pNnhUZnBGUzM3cThWdw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-07-16T21:29:14.000Z",
+      "simple_summary": "Amazon is offering a new tool that helps businesses set up search systems for AI assistants to use when answering customer questions.",
+      "why_it_matters": "This could help larger businesses improve their customer service, but it's mainly for companies building custom AI systems."
     },
     {
       "title": "Google Vids now lets you star in your own AI videos",
       "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TechCrunch",
       "date": "2026-07-16T18:32:54.000Z",
-      "simple_summary": "Google's video-making tool now lets you create videos with a fake version of yourself in them, without needing cameras or actors. You just type what you want and AI makes a video.",
-      "why_it_matters": "If you run a small business and need videos for marketing, this could save you money instead of hiring someone to film or act."
+      "simple_summary": "Google now lets you create videos where a digital copy of your face and voice appears in the video, made by AI.",
+      "why_it_matters": "This could be fun for making videos without being on camera yourself, but it's still mostly a novelty tool right now."
     },
     {
       "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "source": "TechCrunch",
       "date": "2026-07-16T18:22:06.000Z",
-      "simple_summary": "Roblox (a game-making platform for young people) now lets you create simple games by just typing what you want — no coding needed.",
-      "why_it_matters": "This doesn't directly affect most small businesses, unless you sell games or want to learn how AI helps non-experts create things."
+      "simple_summary": "Roblox (a platform where people create games) added a feature that lets you type a description and AI builds a simple game from it.",
+      "why_it_matters": "This makes game creation easier for beginners, but it's mainly interesting if you or your family uses Roblox."
     },
     {
       "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "source": "The Verge",
       "date": "2026-07-16T17:58:37.000Z",
-      "simple_summary": "New York's governor is using AI to read through all the state's old rules and laws to find ones that are outdated or no longer make sense.",
-      "why_it_matters": "This could eventually affect you if state rules change, but it's mostly a government efficiency project — no immediate action needed."
+      "simple_summary": "New York's governor says her team is using AI to read through all the state's rules and regulations to find outdated ones.",
+      "why_it_matters": "This is how government is starting to use AI to do paperwork faster — interesting but probably won't directly affect you."
     },
     {
       "title": "Google’s AI Mode now lets you link and interact with select apps",
       "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "source": "TechCrunch",
       "date": "2026-07-16T16:00:00.000Z",
-      "simple_summary": "Google's AI assistant can now do real tasks (like sending emails or managing your calendar) instead of just answering questions.",
-      "why_it_matters": "If you use Google tools for your business, this could save you time on routine tasks, though you'll need to set it up carefully."
+      "simple_summary": "Google's AI assistant can now do simple tasks for you across different apps (like sending messages or finding information), not just answer questions.",
+      "why_it_matters": "This could save time if you use Google's services regularly, but it's still in early stages."
     },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "source": "The Verge",
       "date": "2026-07-16T16:00:00.000Z",
-      "simple_summary": "Google is renaming one of its AI note-taking apps from NotebookLM to Gemini Notebook — it's the same tool with a new name.",
-      "why_it_matters": "If you already use this app, you just need to know the new name; if you don't, this doesn't affect you."
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T15:38:55.000Z",
-      "simple_summary": "DoorDash is testing a way for AI programs to order food directly, like a person would. This is designed for software and robots, not regular people.",
-      "why_it_matters": "This mostly matters to tech companies building AI systems — nothing you need to act on."
-    },
-    {
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T15:31:09.000Z",
-      "simple_summary": "OpenAI released its first real product you can hold (besides software) — it's a basketball with ChatGPT built in. The details aren't clear from the headline.",
-      "why_it_matters": "This is probably more a fun novelty or marketing idea than something most people need."
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T15:02:00.000Z",
-      "simple_summary": "A former AI researcher raised a huge amount of money ($300 million) for a new company about visual AI, before even releasing a product yet.",
-      "why_it_matters": "This mostly matters to investors and tech industry people — nothing you need to act on."
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch",
-      "date": "2026-07-16T14:40:00.000Z",
-      "simple_summary": "A startup CEO is disagreeing with other AI companies about using big words like 'superintelligence' to describe their AI systems.",
-      "why_it_matters": "This is mostly inside talk among AI researchers and investors about how honest companies should be about their claims."
+      "simple_summary": "Google is renaming its NotebookLM note-taking app to Gemini Notebook and connecting it more closely to its other AI tools.",
+      "why_it_matters": "If you use this app for taking notes and organizing ideas, it will stay the same but with a new name and better connections to Google's other services."
     }
   ]
 }
