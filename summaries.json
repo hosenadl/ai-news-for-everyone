@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-17T19:34:39.406Z",
+  "generated_at": "2026-07-18T03:34:51.478Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDlla1psdEVISG5sbjhYY0ZqdDg4SWwtOU5KTFZ4Smk5NFViN0VmWG9sLTc2M0hsSFNMSmxReEJaV3dva1ZScUlLNjc0WndKZjlFbWtBTHpUX1Y2VlhaNmhXal9pRUhYdHQ1QzVINFFEN1dFdjhuTUF6VDZYZlhJeFlQT01GcnFTMFhJRWtCNWlxTldNQ2ZnU3ZrYnZ1b0pHRjRDZ1o2VlRaRG9BSXEyQk8yNnhhMFY2UUlrMDVNeGVxUThBcTFaT3Z3?oc=5",
-      "source": "WRAL",
-      "date": "2026-07-17T18:35:58.000Z",
-      "simple_summary": "A Chinese company has created an AI tool that works about as well as ChatGPT and Claude (the popular AI assistants people use).",
-      "why_it_matters": "This mostly matters to tech investors and companies competing in AI. For everyday use, you have plenty of good AI options already."
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T22:55:09.000Z",
+      "simple_summary": "A luxury phone company called Vertu is selling an AI assistant service for $6,880 per year. A tech reviewer tested whether it actually works well.",
+      "why_it_matters": "Unless you're shopping for very expensive luxury gadgets, this doesn't affect you — it's a niche product for wealthy people."
     },
     {
-      "title": "Opinion | People of faith are finding a new moral guide in AI",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVdIZXVXX3kycWhld2RnS1VTVE1BemNZdFBNeWR4bjlKTC1rdW9DUERtZzZkSDVjS29jRXhxb0Y2TVpoSzBPOFkxLUhVc0wzbGV5ZDBObjVGRFhJV3B3a0N4WXhTSzJtNHJrRXd1ZTFjaEx4Smo3aEplLV9DNkI4NVNWRlBxdTBVQ1JoT05UWWRoQXl2RkpYT1Nxc29pSENFX1hkUTQ0T2g?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-17T18:00:00.000Z",
-      "simple_summary": "Some religious people are starting to ask AI tools for guidance on moral and faith questions instead of always consulting clergy or religious texts.",
-      "why_it_matters": "This is interesting philosophically, but it doesn't change whether you personally use AI — that's entirely your choice based on your own values."
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T22:12:56.000Z",
+      "simple_summary": "A company called Databricks became more valuable ($188 billion) by focusing on AI technology and showing that certain types of AI can save money on coding work.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on, though it shows AI for coding is becoming mainstream."
+    },
+    {
+      "title": "What to know about the AI chip stock selloff - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktN9IBfkFVX3lxTE44MWExZWpUamhhZlplNDVkdFlBSUJlNUZqVDE0Y3BPNUtta19CTUprVGZQYUlQMk16YTdsRGRFQWZRQ2JxYnltZjhOQUJ1MVhPbVFwbnpZeG5rWk9aOUIyZE8yY0l1REFwcUtvT1d6Nl81SjVZMVlwc1I2N0kzZw?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-07-17T21:26:41.000Z",
+      "simple_summary": "The headline doesn't give enough details, but it appears to be about stock prices falling for companies that make AI computer chips.",
+      "why_it_matters": "This is mainly a stock market story — only relevant if you own these stocks or invest in tech."
+    },
+    {
+      "title": "Dell Technologies vs. NVIDIA: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmJWbmQxVzJjS3B5SFBoU3p3Z25vWXVPekVIZEJQYjNYU084VWZxLUJtMi1mOHVNZzR4LW82Y1F5R0lnSzk0b3JULTJoZS1xcmxoa1FWRFBHTC1adng1dWsxMnozc1ZDVTJRR2N3X05TTmFRUkwtcGZ6XzJPbnF5MkFGUE5KVU92NHMtWFRfQzhOOHJVWWFqdElIVE5kbFY4TnJzMGxR?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-17T21:24:01.000Z",
+      "simple_summary": "This is comparing whether to buy NVIDIA or Dell as stock investments based on their AI businesses.",
+      "why_it_matters": "This is only for investors considering which AI-related stocks to buy — not relevant for small business owners or everyday use."
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T21:20:47.000Z",
+      "simple_summary": "Zoom is now recording and summarizing meetings with AI, which raises privacy concerns — some people worry too many conversations are being automatically recorded and that no one will actually read all the summaries.",
+      "why_it_matters": "If you use Zoom meetings for your business, be aware that conversations may be recorded and summarized by AI — you should check your privacy settings."
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T20:19:49.000Z",
+      "simple_summary": "A robotics company called Agility is opening a new training center near where Tesla is located to teach its robot called Digit.",
+      "why_it_matters": "This is mainly news for the robotics and tech industry — nothing immediate for small business owners, though it shows robot technology is advancing."
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T20:09:27.000Z",
+      "simple_summary": "In India, smartphone prices and demand are changing because phone makers are adding more expensive AI features, causing a slowdown in how many phones people are buying.",
+      "why_it_matters": "If you buy budget smartphones, prices may rise as companies add AI features — but this is mainly affecting the Indian market right now."
+    },
+    {
+      "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-17T20:04:57.000Z",
+      "simple_summary": "China released a new AI model called Kimi that is competitive with American AI technology.",
+      "why_it_matters": "This is mainly tech industry news — it matters more to companies building AI rather than small business owners or everyday users."
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge",
+      "date": "2026-07-17T19:34:30.000Z",
+      "simple_summary": "TikTok is testing a tool that can spot when someone uses AI to create a fake version of your face or voice, and lets you report it.",
+      "why_it_matters": "If you're a content creator on TikTok, this tool could help protect you from people making fake AI copies of you."
+    },
+    {
+      "title": "Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjd5MTJmSFZmLU5FUmR1dDM1SUdRNVkzeFlZYXhIUXZLZHdMWDA3NFFjWDBfcXIwZnVpNllpbzd3VjE3T1ZBRHI3cHItM2tId0FNcE9mN3BkNTBCT3ZCNFFuNVFNX2lXTS1rcko0VHZwbmk0N2VRODZEMFpVanBkUC1GNFBtOTh4SGNEdTVqMUlmSmc1YkRnVkEtTG9DOE9hUUNB?oc=5",
+      "source": "WSJ",
+      "date": "2026-07-17T19:03:00.000Z",
+      "simple_summary": "SpaceX is talking with the Pentagon about providing computer power to help the military with AI projects.",
+      "why_it_matters": "This is a military and government contract story — it doesn't affect everyday business owners or regular people."
+    },
+    {
+      "title": "MLB restricts using dugout iPads for AI-assisted in-game strategy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXhZWUlDMmhHckx3YnlSTktDS2k3QnlfOEFaaGZiNnNUTVQwX3g0T2pzY09OSlREMVRkSndFY3ZQOXQ2WTJTVUZYZTJPZHVnZnUzeGVZSms1alhtUmUxby11SjhpQlFjV0dLbE95MnFKbDI3eTVlUG9uLU1hbmlhanlralk5Y09CNjFyNDR3WWV4a29mZGltdllUeDBzSWprRnVtNUJGbFhDTFFzckR5V25sQWFvTFJyRG1QLWgzRDFsYmhhVlE?oc=5",
+      "source": "ESPN",
+      "date": "2026-07-17T18:10:00.000Z",
+      "simple_summary": "Major League Baseball is now restricting teams from using iPads with AI tools to help make in-game strategy decisions during games.",
+      "why_it_matters": "This is only about professional baseball rules — it doesn't affect ordinary people or small businesses."
     },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch",
       "date": "2026-07-17T17:45:46.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming OpenAI stole Apple's secrets and hired 400+ former Apple workers. This lawsuit is happening right when OpenAI is trying to raise money by becoming a public company (like selling stock to the public).",
-      "why_it_matters": "This is a legal battle between big tech companies — nothing you need to worry about as a small-business owner or retiree."
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge",
-      "date": "2026-07-17T17:41:32.000Z",
-      "simple_summary": "Apple is suing OpenAI over trade secrets and hiring practices, though some experts think these kinds of disputes are common in tech.",
-      "why_it_matters": "This is a corporate dispute between two large companies. It doesn't affect how you or a small business can use AI tools."
-    },
-    {
-      "title": "Huge AI data center rejected in Florida. Why are they so controversial?",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFdQcUFFWW1hamZsSkJteW5XY1RvR0pZOXhVSjZIOFlBNHh2WmkzaU5rcm5obktBOTF6aW1JTnlEZkJJS2l5YjJVZ19vY2pITWhyMjJ3el9KeXlBRkpiNEoyY05kUVdwQy1vS0pZM3p1VGJJRVFHRm96aGtDd2RkRkdnVWVscXFRQWllWUhNUU5IRzE2TkpTS0ZYQVNhY3hHVHdGQ2FnYXUyOVZ5dklmU3BKNHVoVmhpcm5XWjJZa2RlZjJBX3RLbTVTUmttd0hJ?oc=5",
-      "source": "USA Today",
-      "date": "2026-07-17T17:27:00.000Z",
-      "simple_summary": "Florida rejected a plan to build a huge data center for AI processing (the computers that power AI).",
-      "why_it_matters": "People worry these data centers use a lot of electricity and affect local communities, but this rejection doesn't change your access to AI tools."
-    },
-    {
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-07-17T16:53:04.000Z",
-      "simple_summary": "A Chinese AI company says their new AI tool works as well as OpenAI's and other top AI assistants.",
-      "why_it_matters": "This mostly matters to investors tracking which countries lead in AI technology — nothing that affects how you'd use AI in daily life."
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T15:21:17.000Z",
-      "simple_summary": "Patreon (a platform where creators get paid by fans) is now actively blocking AI bots from copying creators' work to train AI systems, instead of just asking them nicely to stop.",
-      "why_it_matters": "If you're a small creator using Patreon, this means your work gets better protection from being used to train AI without your permission."
-    },
-    {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T14:00:00.000Z",
-      "simple_summary": "Apple sued OpenAI over stolen trade secrets and hiring many Apple employees, and this lawsuit is happening at a bad time for OpenAI's plans to go public.",
-      "why_it_matters": "This is a corporate legal dispute between two giant tech companies and doesn't affect you."
-    },
-    {
-      "title": "China’s Xi Jinping launches new AI alliance: What is it?",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-07-17T13:50:09.000Z",
-      "simple_summary": "China's leader launched a new alliance or organization focused on AI (the headline doesn't explain what it does specifically).",
-      "why_it_matters": "This is mostly relevant to people tracking international tech competition and policy — nothing that changes how you'd use AI."
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T12:00:00.000Z",
-      "simple_summary": "A company that invests in AI hardware is now funding a $400 million deal for a different type of computer chip that runs AI more efficiently.",
-      "why_it_matters": "This is an investment story relevant to tech financiers and engineers — nothing affecting everyday AI users or small businesses."
-    },
-    {
-      "title": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT25TNFlXeVFQMmVqWFYtSS1oSkpEUl9WeExTZUpmZEtFb1RpQ3dRbGxGV1hVWjNpMkRxTlpaQk5NSXNfdzlmYmg1cW5MUGlmR3FpeHV2bmpzMDBXQW1mV1B0N3QzUmZOOFU5T0w1QWFqYldjWnZER0t0UmNzcGZBQll1dWZBNEYyWTV3dnZvMkRzTkhqNHBDak5TTXd4b080eUJGbExOSUVCeU5Cd1ZmUWVXUG1SUQ?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-07-17T11:32:01.000Z",
-      "simple_summary": "China created a very large AI model that scores well on coding tests, partly as a way around U.S. limits on selling advanced computer chips to China.",
-      "why_it_matters": "This is mostly relevant to investors and policy experts. It doesn't change what AI tools are available to you."
-    },
-    {
-      "title": "Meet LBF's 20 People to Know in AI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXNrQ1hzeUlOYXpKSnhkSUlCMF9XSmJJUGVrU090ellhbGJhQk9NWVhYcmtIWHdDSmNHSmJ3ajk1RU0zYmVhTG9vSFlqei12SnJla0R0OFF1NW9pZkhUUlpCcGZHTDJEd1J3YXVZNGltSEVuVVYwVVRFQmZ3U1dYVWVfUFo3OWdLUXRR?oc=5",
-      "source": "The Business Journals",
-      "date": "2026-07-17T10:47:00.000Z",
-      "simple_summary": "A business publication listed 20 notable people working in the AI field.",
-      "why_it_matters": "This is industry insider content that doesn't affect you unless you work in AI."
+      "simple_summary": "Apple is suing OpenAI, claiming it stole trade secrets and hired many former Apple employees. This legal fight comes at a bad time as OpenAI is planning to go public (sell stock to the public).",
+      "why_it_matters": "This is mainly important to investors and tech industry insiders — if you use ChatGPT, this doesn't change your experience, though it shows big tech companies are fighting over AI."
     }
   ]
 }
