@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-18T03:34:51.478Z",
+  "generated_at": "2026-07-18T08:10:49.749Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch",
+      "date": "2026-07-18T04:47:25.000Z",
+      "simple_summary": "A successful investor thinks the huge amounts of money being made from AI will eventually need to be shared more widely among people, either by choice or by force.",
+      "why_it_matters": "This mostly matters to investors and wealthy people — nothing you need to act on right now."
+    },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:55:09.000Z",
-      "simple_summary": "A luxury phone company called Vertu is selling an AI assistant service for $6,880 per year. A tech reviewer tested whether it actually works well.",
-      "why_it_matters": "Unless you're shopping for very expensive luxury gadgets, this doesn't affect you — it's a niche product for wealthy people."
+      "simple_summary": "A luxury phone company wants to sell an expensive AI assistant (a computer helper) built into a fancy foldable phone for nearly $7,000.",
+      "why_it_matters": "Unless you're interested in expensive gadgets, this doesn't affect you — it's a product for people with very high budgets."
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:12:56.000Z",
-      "simple_summary": "A company called Databricks became more valuable ($188 billion) by focusing on AI technology and showing that certain types of AI can save money on coding work.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on, though it shows AI for coding is becoming mainstream."
+      "simple_summary": "A company called Databricks is now worth $188 billion because it helps businesses use AI, especially for writing computer code.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "What to know about the AI chip stock selloff - ABC News",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktN9IBfkFVX3lxTE44MWExZWpUamhhZlplNDVkdFlBSUJlNUZqVDE0Y3BPNUtta19CTUprVGZQYUlQMk16YTdsRGRFQWZRQ2JxYnltZjhOQUJ1MVhPbVFwbnpZeG5rWk9aOUIyZE8yY0l1REFwcUtvT1d6Nl81SjVZMVlwc1I2N0kzZw?oc=5",
       "source": "Breaking News, Latest News and Videos",
       "date": "2026-07-17T21:26:41.000Z",
-      "simple_summary": "The headline doesn't give enough details, but it appears to be about stock prices falling for companies that make AI computer chips.",
-      "why_it_matters": "This is mainly a stock market story — only relevant if you own these stocks or invest in tech."
+      "simple_summary": "The stock prices of companies that make AI computer chips have dropped recently.",
+      "why_it_matters": "This matters to investors — nothing you need to act on."
     },
     {
       "title": "Dell Technologies vs. NVIDIA: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmJWbmQxVzJjS3B5SFBoU3p3Z25vWXVPekVIZEJQYjNYU084VWZxLUJtMi1mOHVNZzR4LW82Y1F5R0lnSzk0b3JULTJoZS1xcmxoa1FWRFBHTC1adng1dWsxMnozc1ZDVTJRR2N3X05TTmFRUkwtcGZ6XzJPbnF5MkFGUE5KVU92NHMtWFRfQzhOOHJVWWFqdElIVE5kbFY4TnJzMGxR?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-07-17T21:24:01.000Z",
-      "simple_summary": "This is comparing whether to buy NVIDIA or Dell as stock investments based on their AI businesses.",
-      "why_it_matters": "This is only for investors considering which AI-related stocks to buy — not relevant for small business owners or everyday use."
+      "simple_summary": "Financial advisors are comparing two big tech companies to decide which is a better investment for buying their stock.",
+      "why_it_matters": "This matters to investors — nothing you need to act on."
     },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "source": "TechCrunch",
       "date": "2026-07-17T21:20:47.000Z",
-      "simple_summary": "Zoom is now recording and summarizing meetings with AI, which raises privacy concerns — some people worry too many conversations are being automatically recorded and that no one will actually read all the summaries.",
-      "why_it_matters": "If you use Zoom meetings for your business, be aware that conversations may be recorded and summarized by AI — you should check your privacy settings."
+      "simple_summary": "An AI feature on Zoom can automatically record, transcribe (convert speech to text), and summarize meetings, but some people worry about privacy and whether anyone will actually read all this information.",
+      "why_it_matters": "If you use Zoom for business meetings, this matters — you may want to check your settings to control whether your meetings are being recorded and summarized."
     },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "source": "TechCrunch",
       "date": "2026-07-17T20:19:49.000Z",
-      "simple_summary": "A robotics company called Agility is opening a new training center near where Tesla is located to teach its robot called Digit.",
-      "why_it_matters": "This is mainly news for the robotics and tech industry — nothing immediate for small business owners, though it shows robot technology is advancing."
+      "simple_summary": "A robotics company is opening a training center in California for its robot named Digit, in the same area where Tesla operates.",
+      "why_it_matters": "This mostly matters to engineers and robotics companies — nothing you need to act on."
     },
     {
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "source": "TechCrunch",
       "date": "2026-07-17T20:09:27.000Z",
-      "simple_summary": "In India, smartphone prices and demand are changing because phone makers are adding more expensive AI features, causing a slowdown in how many phones people are buying.",
-      "why_it_matters": "If you buy budget smartphones, prices may rise as companies add AI features — but this is mainly affecting the Indian market right now."
-    },
-    {
-      "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-17T20:04:57.000Z",
-      "simple_summary": "China released a new AI model called Kimi that is competitive with American AI technology.",
-      "why_it_matters": "This is mainly tech industry news — it matters more to companies building AI rather than small business owners or everyday users."
+      "simple_summary": "Companies making smartphones in India are struggling because AI features are making phones more expensive and people aren't buying them as much.",
+      "why_it_matters": "If you're shopping for a new phone, prices may stay higher because companies are adding AI features — you might want to wait or look for simpler models."
     },
     {
       "title": "TikTok is testing an AI likeness detection tool",
       "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
       "date": "2026-07-17T19:34:30.000Z",
-      "simple_summary": "TikTok is testing a tool that can spot when someone uses AI to create a fake version of your face or voice, and lets you report it.",
-      "why_it_matters": "If you're a content creator on TikTok, this tool could help protect you from people making fake AI copies of you."
+      "simple_summary": "TikTok is testing a tool that can spot fake videos made by AI that pretend to be real people, and lets creators report them.",
+      "why_it_matters": "If you use TikTok or create videos, this could help you know if someone is using AI to impersonate you or spread fake videos of you."
     },
     {
-      "title": "Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjd5MTJmSFZmLU5FUmR1dDM1SUdRNVkzeFlZYXhIUXZLZHdMWDA3NFFjWDBfcXIwZnVpNllpbzd3VjE3T1ZBRHI3cHItM2tId0FNcE9mN3BkNTBCT3ZCNFFuNVFNX2lXTS1rcko0VHZwbmk0N2VRODZEMFpVanBkUC1GNFBtOTh4SGNEdTVqMUlmSmc1YkRnVkEtTG9DOE9hUUNB?oc=5",
-      "source": "WSJ",
-      "date": "2026-07-17T19:03:00.000Z",
-      "simple_summary": "SpaceX is talking with the Pentagon about providing computer power to help the military with AI projects.",
-      "why_it_matters": "This is a military and government contract story — it doesn't affect everyday business owners or regular people."
+      "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-17T19:13:57.000Z",
+      "simple_summary": "A Chinese AI company has released a new AI model, which some people see as competition to American AI companies.",
+      "why_it_matters": "This mostly matters to tech companies and investors — nothing you need to act on."
     },
     {
       "title": "MLB restricts using dugout iPads for AI-assisted in-game strategy",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXhZWUlDMmhHckx3YnlSTktDS2k3QnlfOEFaaGZiNnNUTVQwX3g0T2pzY09OSlREMVRkSndFY3ZQOXQ2WTJTVUZYZTJPZHVnZnUzeGVZSms1alhtUmUxby11SjhpQlFjV0dLbE95MnFKbDI3eTVlUG9uLU1hbmlhanlralk5Y09CNjFyNDR3WWV4a29mZGltdllUeDBzSWprRnVtNUJGbFhDTFFzckR5V25sQWFvTFJyRG1QLWgzRDFsYmhhVlE?oc=5",
       "source": "ESPN",
       "date": "2026-07-17T18:10:00.000Z",
-      "simple_summary": "Major League Baseball is now restricting teams from using iPads with AI tools to help make in-game strategy decisions during games.",
-      "why_it_matters": "This is only about professional baseball rules — it doesn't affect ordinary people or small businesses."
+      "simple_summary": "Major League Baseball is preventing baseball teams from using AI-powered suggestions on their iPads to make playing decisions during games.",
+      "why_it_matters": "If you're a baseball fan, this means games will be decided by human strategy rather than AI advice — nothing you need to act on."
     },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch",
       "date": "2026-07-17T17:45:46.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming it stole trade secrets and hired many former Apple employees. This legal fight comes at a bad time as OpenAI is planning to go public (sell stock to the public).",
-      "why_it_matters": "This is mainly important to investors and tech industry insiders — if you use ChatGPT, this doesn't change your experience, though it shows big tech companies are fighting over AI."
+      "simple_summary": "Apple sued OpenAI claiming the company stole secret information and hired over 400 of Apple's former employees, which could cause problems if OpenAI tries to sell shares to the public soon.",
+      "why_it_matters": "This matters to investors — nothing you need to act on, though it shows that big tech companies are fighting over AI talent and ideas."
     }
   ]
 }
