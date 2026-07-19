@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-18T19:33:52.296Z",
+  "generated_at": "2026-07-19T03:57:10.827Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Green says Mets fully compliant on AI after report of usage",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQm9nQjJfNXc3NnFNRUdSTlhLbVVYaHNzQTRJb1VPZmVDQWdLWFBtM05nMW52Z1NiZjN4amlrSnpsMm91NFJzTVNDTHFLQzZpaW4zU0NzLVR2dWV3SWVnVGZzMHNBN19tY1NLVld2MmFGRDVmaXI3amlLXzhCZTlWZWQyNUVpTXRm?oc=5",
-      "source": "ABC7 New York",
-      "date": "2026-07-18T19:05:07.000Z",
-      "simple_summary": "The Mets baseball team checked their use of AI tools and confirmed they're following all the rules.",
-      "why_it_matters": "This mostly matters to sports fans and the Mets organization — nothing you need to act on."
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDZLZURmSHJ3MmxUang2enVIeEdaT1pKRHNUUUNPYi16ZHR4YWdhMGFWcmZDVjdCc3M0TnZ1bGFTU0o2U0ZBTW94a2lhZmhUdUFCT001Q1FLYXNBb2NQd2M1N2JYYWpQcXF5Y2RkTW56aHYxeVp1dWE1SDBFMjBpa0xhZV9VQjljUlpSbjdtZmZhSXhFMVlYSURkcEE2MHkzVUczNGp6MUN2MmVWaG0zcW9Ea0lOaWc?oc=5",
+      "source": "The Verge",
+      "date": "2026-07-18T20:54:42.000Z",
+      "simple_summary": "Writer Dave Eggers criticized ChatGPT, saying it's preventing certain voices and ideas from being heard.",
+      "why_it_matters": "This is mainly about debates between writers and AI companies — nothing you need to act on right now, though it's part of a bigger conversation about what AI should and shouldn't do."
     },
     {
       "title": "Kimi: Threat or menace?",
       "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "source": "TechCrunch",
       "date": "2026-07-18T18:51:07.000Z",
-      "simple_summary": "A Chinese AI company released a new version of their AI helper, and some people are worried about how it compares to American AI tools.",
-      "why_it_matters": "This mostly matters to investors and tech companies tracking competition — it doesn't change what AI tools you can use today."
+      "simple_summary": "A Chinese AI company called Moonshot released a new AI model called Kimi, which some people worry could be a Chinese alternative to American AI tools.",
+      "why_it_matters": "This mostly matters to investors and tech competitors — nothing you need to do, though it shows different countries are competing to build AI."
+    },
+    {
+      "title": "Green says Mets fully compliant on AI after report of usage",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkxDSkQwWl9WWlhPR1JzMk5wZ21LTnVyZmVHUHI3NjRpVmFOX3BHczFVUENKR2hIM3lOQWg1TURCUjQyWmRhbkRhYXUwR3hjdTFfSzBtSlVVV1AyWFpHZmlQUktxR0hZNFpjSWV5dlZiRzR5M1JzbHdXSU93WkU5RWVGbUpRaVVoT3hCbmVfZnJ4WmdhdXRr?oc=5",
+      "source": "ESPN",
+      "date": "2026-07-18T18:51:00.000Z",
+      "simple_summary": "The New York Mets baseball team said they are following all the rules about how they use AI.",
+      "why_it_matters": "This is a sports business story — it doesn't affect ordinary people or small-business owners."
+    },
+    {
+      "title": "Artificial intelligence: Xi Jinping promotes open and accessible Chinese alternative to challenge the US",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZTJyNFhlQWRmZWRETmtWcnZERWlEdkZzSm5SLXdGam5ydHdQcmx0bzgzQU5NS0Y1Rm1nNzBuUGNDalVLS3JNSGp4OUpkY0R0LXMtQzV6U1hURE1QSF83bVctZ3gwd2tvaXVQZVRfZEVuOXlzaXB4Z0xqMExZOFUyUXhZRnE0MGVrTEd0UzVLZzVLTTRUWE9WellIUEVfaGY4clAwdzlfalZXVjAySlpuT1BoTFE4ZTJiZGlfcV9IdkRQSEpjYVlBTG5kajFHc0szbkVfeTdibkpucG1KWHpibzJyVGRPYjFpaW9xNnhsOFBrMmpON3Z6akw1YTRBTjJYOFE?oc=5",
+      "source": "Le Monde.fr",
+      "date": "2026-07-18T16:05:36.000Z",
+      "simple_summary": "China's leader Xi Jinping is promoting Chinese-made AI tools as an open and accessible alternative to American AI.",
+      "why_it_matters": "This is mainly important to investors and governments — nothing you need to act on."
+    },
+    {
+      "title": "Your Child’s Next Teacher Could Be a Sex Robot",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORHNIOWttc0t6NC1LQklCS3lqRGxXSzZqeFJrVU9vU2VIVXBZcmx4am04NzNVX0pLY1BvV0NuTUxmd2V2ZkVKM1BkcVk4cW5iT1ZyT294bkJneUdxLTV4cGxLaHFyRG9pM3BGSHIydUoxSGdXRnlRQ3lXZmN1VG0zSVBR?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-07-18T16:02:33.000Z",
+      "simple_summary": "The headline suggests someone is proposing AI-powered robots as teachers for children.",
+      "why_it_matters": "The headline is vague, but this raises important questions about education — something to stay aware of, though it's unlikely to become common anytime soon."
     },
     {
       "title": "The apps, gadgets, and tools every reader needs",
       "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "source": "The Verge",
       "date": "2026-07-18T12:00:00.000Z",
-      "simple_summary": "A tech magazine published its usual guide recommending helpful apps and gadgets to readers.",
-      "why_it_matters": "If you read tech reviews, this might have some useful tool recommendations, but there's no AI news here specifically."
+      "simple_summary": "This is a guide about helpful apps and gadgets, and may include some AI-related tools.",
+      "why_it_matters": "This is just a shopping guide — it's not breaking news about AI."
     },
     {
       "title": "Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFBpNEEzNVFPVXZfZzhkX19aZlM5Rmg4NGNITEFtRWRrNU5DMkg2aDExWGh0RzlpZTJZZHQxampaTGR5b2lqX0FUQnY2QWZyenQxT0pOd0NjbVA5UFVEUlBDcTlOU2xiUWFyOHBQRHdubEtvd1lNRnlvd2MtUGU0ZUxJR1Z5WU16bXIyUmlCQUZ4TnFUOXY4N21LcV83bHZ0cjFVakEtVFZOLWpMMmUyVVVHQXEyUQ?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-07-18T11:00:00.000Z",
-      "simple_summary": "A Chinese AI company's new tool is performing better than expected, which challenges the idea that American companies are always ahead.",
-      "why_it_matters": "This mostly matters to investors and business strategists — the AI tools you use should continue working the same."
+      "simple_summary": "Moonshot's new Kimi AI model is surprising experts who thought America would stay ahead of China in AI development.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
     },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "source": "TechCrunch",
       "date": "2026-07-18T04:47:25.000Z",
-      "simple_summary": "A wealthy investor predicts that the huge profits being made from AI will eventually need to be shared more widely with society.",
-      "why_it_matters": "This mostly matters to investors and policymakers — it's about money redistribution, not anything affecting how you'd use AI."
+      "simple_summary": "A famous investor predicts that huge profits made from AI will eventually have to be shared more widely with other people.",
+      "why_it_matters": "This is mainly about investor predictions and economics — nothing you need to act on right now."
+    },
+    {
+      "title": "Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-17T23:52:32.000Z",
+      "simple_summary": "China's leader Xi Jinping is pushing for open, accessible AI as a way to influence how AI develops worldwide.",
+      "why_it_matters": "This is mainly political and affects governments — nothing you need to act on."
     },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:55:09.000Z",
-      "simple_summary": "A luxury phone company is selling a personal AI assistant feature for nearly $7,000, and reviewers tested whether it's actually worth that price.",
-      "why_it_matters": "Unless you're thinking about buying an extremely expensive luxury phone, this doesn't affect you — it's a niche product."
+      "simple_summary": "A luxury phone company is selling an expensive AI assistant for nearly $7,000, and reviewers tested how well it actually works.",
+      "why_it_matters": "Unless you buy very expensive luxury phones, this doesn't affect you — this is a specialty product for wealthy people."
+    },
+    {
+      "title": "The Books the Most Powerful People in A.I. Are Reading",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2tkbER0YmNOTWJfTExodEIwVDNoRW5ueDBDM0hHaVVucktkZDlCQWJ2QkNFSm1mbU9ma3I0ZlY3TWtLbWt3ZnlNN1k4TmZXcFoxSXg4Z1ZPeXZsU1VyaUFucmpacUE1T2p2bkQzT2M5aEx1YzcxQjNkdWJ4TGZMenROM19kS0Q1Ukl3a3VrMFlSRG5zb3REdHVVZHFKcmEw?oc=5",
+      "source": "observer.com",
+      "date": "2026-07-17T22:33:48.000Z",
+      "simple_summary": "Someone made a list of books that powerful AI leaders are reading.",
+      "why_it_matters": "This is mostly a culture piece about what influential people read — nothing you need to act on."
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:12:56.000Z",
-      "simple_summary": "A data company called Databricks is now worth $188 billion because it switched to focusing on AI tools, especially ones that help write computer code.",
-      "why_it_matters": "This mostly matters to investors — it shows the AI industry thinks certain tools are very valuable, but doesn't change what's available to you."
-    },
-    {
-      "title": "What to know about the AI chip stock selloff - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktN9IBfkFVX3lxTE44MWExZWpUamhhZlplNDVkdFlBSUJlNUZqVDE0Y3BPNUtta19CTUprVGZQYUlQMk16YTdsRGRFQWZRQ2JxYnltZjhOQUJ1MVhPbVFwbnpZeG5rWk9aOUIyZE8yY0l1REFwcUtvT1d6Nl81SjVZMVlwc1I2N0kzZw?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-07-17T21:26:41.000Z",
-      "simple_summary": "Stocks of companies that make AI computer chips dropped in price recently.",
-      "why_it_matters": "If you own these stocks, pay attention to this; otherwise it's mainly investor news about market changes."
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T21:20:47.000Z",
-      "simple_summary": "There's a feature that stops Zoom video calls from being recorded and transcribed automatically, raising questions about whether recording everything is useful.",
-      "why_it_matters": "If you use Zoom for work or meetings, this is worth knowing about — you can now opt out of automatic recording if you want privacy."
-    },
-    {
-      "title": "China’s Xi Jinping Wants AI to Be Open to the World—and Out of America’s Control",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVRKZy1NclA3RllzYmZLMW9YUXhGdjZxMW9GOEdZbUc3ZmYxYmhNTVBOamIzcTZscXBGT19jU0tCTGdKckV5T1Y3TUltWXZoT3J2QXlWejlQUks0eDdWX0EzMk14MjFpQVRUMHl3RGUtd3E1bk9oU1BYWFJCc1dycjg5dVJCeXd2WXFDbzVFbHBCTG5nOW84ZFlZOFlXcEttVXRKSURYZlpSTDRUZXc?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-07-17T20:25:33.000Z",
-      "simple_summary": "China's leader says he wants AI technology to be available to countries around the world and not controlled only by America.",
-      "why_it_matters": "This is political news about countries competing for power — it doesn't directly change what AI tools you can use today."
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T20:19:49.000Z",
-      "simple_summary": "A robot company is opening a training facility in California to teach their robot helpers to do warehouse and delivery jobs.",
-      "why_it_matters": "This signals that AI robots are being tested for real warehouse work, which could eventually affect job availability in shipping and delivery, but it's still very early."
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T20:09:27.000Z",
-      "simple_summary": "India's smartphone market is slowing down because many new phones now need extra memory for AI features, which is making them more expensive.",
-      "why_it_matters": "If you buy smartphones, this suggests prices may stay higher as companies add AI features — phones are becoming costlier to make."
+      "simple_summary": "A data company called Databricks is now worth $188 billion because it rebranded itself as an AI company and showed how to save money using certain types of AI.",
+      "why_it_matters": "This is mainly news for investors — nothing you need to act on, though it shows AI companies are getting expensive investments."
     }
   ]
 }
