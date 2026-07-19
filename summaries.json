@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:34:47.304Z",
+  "generated_at": "2026-07-19T13:55:53.325Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "source": "The Verge",
       "date": "2026-07-18T20:54:42.000Z",
-      "simple_summary": "Author Dave Eggers spoke to OpenAI workers and said that AI tools like ChatGPT might be hurting writers and creative people by replacing their work.",
-      "why_it_matters": "If you're a writer, artist, or create content for your business, this is a real concern worth thinking about as AI tools become more common."
+      "simple_summary": "Author Dave Eggers visited OpenAI and told the company's staff that AI like ChatGPT is preventing young writers from developing their skills and voices. He's concerned that AI is replacing the opportunity for new generations to learn and practice writing.",
+      "why_it_matters": "If you're in a creative field or teaching young people, this raises a real question: will AI tools replace people doing creative work, or will it just change how they work?"
     },
     {
       "title": "Kimi: Threat or menace?",
       "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "source": "TechCrunch",
       "date": "2026-07-18T18:51:07.000Z",
-      "simple_summary": "A Chinese AI company released a new version of its AI tool, and some people are worried about what it might mean.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to worry about right now."
+      "simple_summary": "A Chinese company made a new AI tool called Kimi. Some people are worried about what it means for competition and control in AI technology.",
+      "why_it_matters": "This mostly matters to investors and tech companies worried about competition — nothing you need to act on."
     },
     {
       "title": "The apps, gadgets, and tools every reader needs",
       "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "source": "The Verge",
       "date": "2026-07-18T12:00:00.000Z",
-      "simple_summary": "This is a shopping guide recommending useful apps and gadgets.",
-      "why_it_matters": "Only relevant if you're looking for product recommendations from this website — not AI news."
+      "simple_summary": "This is a list of recommendations for apps and gadgets that readers might find useful. It's a shopping guide rather than news.",
+      "why_it_matters": "Nothing urgent here — just optional shopping recommendations for people interested in tools."
     },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "source": "TechCrunch",
       "date": "2026-07-18T04:47:25.000Z",
-      "simple_summary": "A wealthy investor thinks the huge amounts of money being made from AI in Silicon Valley will need to be shared more fairly with other people.",
-      "why_it_matters": "This mostly matters to investors and wealthy people — it's prediction about the economy, not something that directly affects your daily life."
+      "simple_summary": "A wealthy investor predicts that the huge profits being made from AI will eventually have to be shared more widely with society, either by choice or by force.",
+      "why_it_matters": "This mostly matters to investors and policy-makers — nothing you need to act on right now."
     },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:55:09.000Z",
-      "simple_summary": "A luxury phone company is selling an expensive AI assistant for $6,880, and the article reviews how well it actually works.",
-      "why_it_matters": "Unless you're considering buying a very expensive luxury phone, this doesn't affect you — it's for wealthy early adopters."
+      "simple_summary": "A luxury phone company is selling an expensive phone with an AI helper for $6,880, and reviewers tested how well it actually works.",
+      "why_it_matters": "This is only relevant if you're thinking about buying a very expensive luxury phone — most people don't need this product."
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "TechCrunch",
       "date": "2026-07-17T22:12:56.000Z",
-      "simple_summary": "A company called Databricks is now worth $188 billion because investors believe it's a second successful AI business.",
-      "why_it_matters": "This mostly matters to investors — it's business valuation news, not something that affects your operations."
+      "simple_summary": "A company called Databricks (which helps other companies work with data and AI) is now worth $188 billion. It has repositioned itself as an AI company.",
+      "why_it_matters": "This mostly matters to investors — it shows which companies are seen as winners in AI."
     },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "source": "TechCrunch",
       "date": "2026-07-17T21:20:47.000Z",
-      "simple_summary": "Someone found a way to block Zoom from recording and transcribing conversations automatically.",
-      "why_it_matters": "If you use Zoom for meetings, you might want to know that automatic recording and transcription features could be stopped or disabled."
+      "simple_summary": "There's a new feature for Zoom meetings that can record and summarize conversations. The headline questions whether recording everything actually helps people, or just creates too much information.",
+      "why_it_matters": "If you use Zoom for business, it's worth thinking about whether automatic recordings of meetings help or just create clutter."
     },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "source": "TechCrunch",
       "date": "2026-07-17T20:19:49.000Z",
-      "simple_summary": "A robot company is opening a training center in California to teach its robots how to work better.",
-      "why_it_matters": "This is early-stage robotics news — not affecting small businesses yet, mostly relevant to people watching the industry develop."
+      "simple_summary": "A robotics company called Agility is opening a training center for its robots (called Digit) in California, near where Tesla operates.",
+      "why_it_matters": "This is mostly relevant to engineers and investors in robotics — nothing you need to act on."
     },
     {
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "source": "TechCrunch",
       "date": "2026-07-17T20:09:27.000Z",
-      "simple_summary": "AI is making smartphone memory chips very expensive and hard to get, which is slowing down phone sales in India.",
-      "why_it_matters": "If you sell phones or electronics, expect that AI demand is pushing up costs and changing what customers want and buy."
+      "simple_summary": "Phone companies in India are struggling because AI tools take up so much computer memory inside phones. This is causing shortages and changing what phones cost.",
+      "why_it_matters": "If you buy smartphones, you might eventually see prices stay higher because AI features require more expensive computer chips inside them."
     },
     {
       "title": "TikTok is testing an AI likeness detection tool",
       "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
       "date": "2026-07-17T19:34:30.000Z",
-      "simple_summary": "TikTok is testing a tool that spots AI-generated fake versions of people's faces and lets creators report them.",
-      "why_it_matters": "If you create videos online or worry about deepfakes of yourself, this tool could help protect you from AI fakes being shared."
+      "simple_summary": "TikTok is testing a new tool that lets creators find and report fake videos where AI has copied someone's face or voice without permission.",
+      "why_it_matters": "If you create videos online or are worried about deepfakes, this tool will give creators some protection against AI copies of their appearance."
     },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch",
       "date": "2026-07-17T17:45:46.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming the company stole trade secrets and hired away over 400 of Apple's former employees.",
-      "why_it_matters": "This is a legal battle between two big companies that could affect when OpenAI goes public (sells stock) — mostly matters to investors, not your business."
+      "simple_summary": "Apple is suing OpenAI, claiming the company stole trade secrets and hired over 400 of Apple's former workers. This lawsuit could cause problems for OpenAI's plan to go public and become a publicly-traded company.",
+      "why_it_matters": "This is mostly relevant to investors and tech industry watchers — the lawsuit shows growing conflict between big tech companies over AI."
     },
     {
       "title": "Apple’s plot to crush OpenAI",
       "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
       "source": "The Verge",
       "date": "2026-07-17T17:41:32.000Z",
-      "simple_summary": "Apple filed a lawsuit against OpenAI over stolen secrets and employee hiring, and experts disagree about how serious the claims really are.",
-      "why_it_matters": "This is a big company fight that doesn't directly affect ordinary business owners or retirees right now."
+      "simple_summary": "Apple filed a lawsuit against OpenAI. Experts disagree on how serious the claims are, but the timing is awkward since OpenAI is planning to sell stock to the public.",
+      "why_it_matters": "This is mostly relevant to investors and tech watchers — it shows big companies are fighting over AI control and money."
     }
   ]
 }
