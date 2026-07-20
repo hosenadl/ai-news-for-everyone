@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-19T19:34:17.114Z",
+  "generated_at": "2026-07-20T04:06:52.701Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch",
+      "date": "2026-07-19T21:16:07.000Z",
+      "simple_summary": "The head of a major AI chip company visited Japan and made business deals with Japanese technology companies.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch",
       "date": "2026-07-19T19:24:45.000Z",
-      "simple_summary": "Apple is suing OpenAI, and people are wondering if this legal case could stop OpenAI from building their own computer devices or going public.",
-      "why_it_matters": "This mostly matters to investors and OpenAI employees — nothing you need to act on right now."
+      "simple_summary": "Apple is suing OpenAI, and people are wondering if this lawsuit will stop OpenAI from making AI devices and becoming a public company (selling stock to regular people).",
+      "why_it_matters": "This is mostly a business battle between big companies — you don't need to do anything about it right now."
     },
     {
       "title": "I hate that I don’t hate this song made with Suno",
       "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "source": "The Verge",
       "date": "2026-07-19T17:35:54.000Z",
-      "simple_summary": "A music-making AI tool called Suno created a song that a critic actually liked, even though they usually dislike AI-made music.",
-      "why_it_matters": "This is interesting for entertainment, but doesn't affect you unless you're looking to use AI to help make music — and it sounds like it's still pretty hit-or-miss."
-    },
-    {
-      "title": "AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
-      "source": "Medical Xpress",
-      "date": "2026-07-19T17:00:01.000Z",
-      "simple_summary": "A study found that using AI to help doctors spot cancer in a specific genetic condition doesn't automatically work better than regular methods.",
-      "why_it_matters": "This is technical medical research — if you have this specific genetic condition, talk to your doctor, but this doesn't change typical cancer screening."
-    },
-    {
-      "title": "Could AI be conscious?",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-19T16:44:00.000Z",
-      "simple_summary": "People are debating whether AI systems like ChatGPT could actually be conscious or self-aware.",
-      "why_it_matters": "This is a philosophical question that experts still disagree on — it doesn't affect your daily life."
-    },
-    {
-      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-07-19T16:40:47.000Z",
-      "simple_summary": "An investment newsletter is recommending three AI-related companies to buy as stocks.",
-      "why_it_matters": "This is purely for stock market investors — nothing you need to act on unless you're buying stocks."
+      "simple_summary": "A music critic was surprised to find that a song made by AI (using a tool called Suno) was actually pretty good, even though they usually think AI-made music is boring.",
+      "why_it_matters": "AI music-making tools are getting better, so if you enjoy music, you might hear more of it in the future — but you don't have to use these tools yourself."
     },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
       "source": "TechCrunch",
       "date": "2026-07-19T14:52:08.000Z",
-      "simple_summary": "Filmmaker Christopher Nolan compared AI to a Trojan horse — something that looks helpful but secretly contains danger.",
-      "why_it_matters": "A famous director is warning people to be careful about AI, which is fair feedback, but mostly this is his opinion that matters to movie fans."
+      "simple_summary": "Famous movie director Christopher Nolan said that AI is a 'Trojan horse' — meaning it looks harmless but has hidden dangers inside.",
+      "why_it_matters": "A respected filmmaker is warning about AI risks, which adds to an important conversation about AI safety — but there's no specific action you need to take."
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "source": "TechCrunch",
       "date": "2026-07-19T14:00:00.000Z",
-      "simple_summary": "A nonprofit group is trying to build free AI tools that work for everyone, including people from different cultures who might not speak English.",
-      "why_it_matters": "If this succeeds, it could give small business owners free access to AI tools instead of paying for them, but it's still early-stage."
-    },
-    {
-      "title": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVV9pX2pVRUg1N0ZaUl9GUEYyMVlxWXF6bTd5MFNPcDJfN3pQU1g2RFFNV29TNFgyZFc0aVluZjI5ajFJMDFvcktEcTliRzB1NkkxWUJmbGllVmE2R1VoemlBYjYyVlpEelAwbkZKNEZLdjhjc283Tk1jQ25wQ3FjbEhub3fSAYoBQVVfeXFMTXRkb0t3akVHOXFVUlVUWlRCa2ZsZVVNemgyNHJfN25FWTFFTFlfQ0ZzTmdpZzhHY080ODFnUkpjNFBDSTF0SDRkVlNWSlhibFQ4NEpGMzZaakZ0Q29hNkw3LWlfZUJFRmozYmlRTHZ0T29Yb25RVVJIbWpzcGNwR2FtM1Z4TmRFUDVB?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-19T13:30:01.000Z",
-      "simple_summary": "A business professor warns that relying too much on AI at work might make your job performance look boring or unmemorable to your boss.",
-      "why_it_matters": "If you use AI to do your work, make sure you add your own thinking and creativity so you don't seem replaceable."
-    },
-    {
-      "title": "Changzhou says it is building China’s first city-level green token factory",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGlRT2Z6Y3dGZ25MWHMydTFaYjYwOUlLMloyVElVTUNxa2NudWlUQXpyZmdValNBMldpLWRZWHBhN3doVG1DbldTMGVTVWdoOTlsay16UEp0cFY2Q2JYSlBRNnlUSnk3RnZ6dVkyMEhQOExQQkRxeW5MMXVTWGtIWjdxaGdlaWdCNnBWZjNaLTl2UndCNkcxRjlBdFU3cVBab0R4eGdybXdYZkdmRkxMX1JybEJURHppMFHSAboBQVVfeXFMUGFKdmlwcmliZnNoLUR2b09hMm9LOVBxOU43WEdFNlJvNHRJaUZ3TUJBS01xNTlGOFd3OE1feXMzNE80RG1XODRWZ2l5ZnQtVGxSTVYyT3EySUI0a0xvUEpaMWMtMU1zY2ZGdHdFYXQzcDVxWjdJX1FOTS1jYV85YTl1Z0daM3RuTW4wZVd2SUVwbFpOTFNHMjJ5WnlubDVLVzF6MDZoSVZPdXZvVm5vN09mdWloZ0xVNnVn?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-19T08:00:12.000Z",
-      "simple_summary": "A city in China announced it's building a factory for something called a 'green token' — the headline doesn't explain what that is.",
-      "why_it_matters": "Without understanding what this means, it's hard to say — but it's a China-focused project that likely won't affect most people."
-    },
-    {
-      "title": "'My heart is empty': Millions of Chinese forced to end AI relationships",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWJFSU96bGZFVHExajlKbEx3ZWhNMXc0dmRqSFpLQ3JLOW9NdlpOM3NyRG9ERWctOVREY0hWcXd5dXcxWFNnaGMwYTNhUUQ2TXZIUFBZNmhnTXA1NXNsbjBlOVV2UDRYMUpBcFVsVDlTd0czQXg3S1JlQ0hnZ1RfNTdURVNRa3VXS3c5S0p6V1RfcjExVTVFMmtqZVZJSVhveDNfNC1WSQ?oc=5",
-      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
-      "date": "2026-07-19T00:46:07.000Z",
-      "simple_summary": "Millions of people in China used AI chatbots as companions, but the services were shut down, and people are sad they lost these relationships.",
-      "why_it_matters": "This shows a real human need for companionship, and the risk of becoming emotionally dependent on AI — something to be aware of if you use AI apps."
-    },
-    {
-      "title": "'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5",
-      "source": "Fortune",
-      "date": "2026-07-18T22:30:00.000Z",
-      "simple_summary": "An economist says that as AI does more jobs, we may need to give everyone free money from the government (called universal basic income) or move toward socialism.",
-      "why_it_matters": "This is speculation about the far future — it's interesting to think about, but nothing happening today that affects your business or life."
+      "simple_summary": "A nonprofit organization is working to build AI tools that anyone in the world can use for free, no matter what country or culture they're from.",
+      "why_it_matters": "This could make AI tools more available to small businesses and people who can't afford expensive software — this is genuinely good news."
     },
     {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "source": "The Verge",
       "date": "2026-07-18T20:54:42.000Z",
-      "simple_summary": "Author Dave Eggers told OpenAI workers that ChatGPT is hurting writers by reducing opportunities for new writers to be heard.",
-      "why_it_matters": "If you're a writer or creative professional, this is a real concern worth thinking about — AI can make it harder to get noticed when companies use AI instead of hiring people."
+      "simple_summary": "Author Dave Eggers told OpenAI employees that AI tools like ChatGPT are hurting writers by making it easier to create writing without human writers doing the work.",
+      "why_it_matters": "If you're a writer or work with writing, AI tools that generate text could affect your work — this is something worth paying attention to."
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch",
+      "date": "2026-07-18T18:51:07.000Z",
+      "simple_summary": "A Chinese AI company released a new version of its AI chatbot, which some people worry about because China might use AI differently than American companies do.",
+      "why_it_matters": "This mostly matters to investors worried about global competition — nothing you need to act on."
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge",
+      "date": "2026-07-18T12:00:00.000Z",
+      "simple_summary": "This is a recommendation column about useful apps, gadgets, and tools that readers might find helpful.",
+      "why_it_matters": "This is a shopping guide, not news — only relevant if you're looking for product recommendations."
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch",
+      "date": "2026-07-18T04:47:25.000Z",
+      "simple_summary": "A venture capitalist (investor) predicts that the huge amount of money being made from AI will eventually be shared with more people in society.",
+      "why_it_matters": "This is mostly about how wealth might be distributed — nothing you need to act on."
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T22:55:09.000Z",
+      "simple_summary": "A luxury phone company is selling an expensive AI assistant (a tool that helps you with tasks) for $6,880, and a reviewer tested how well it actually works.",
+      "why_it_matters": "Unless you're considering buying a very expensive phone with AI features, this is just a product review — nothing you need to act on."
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T22:12:56.000Z",
+      "simple_summary": "Databricks, a company that helps other companies use AI, is now worth $188 billion and is becoming very successful in the AI business.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch",
+      "date": "2026-07-17T21:20:47.000Z",
+      "simple_summary": "Zoom is adding a feature that lets people say 'don't record me,' but the article questions whether recording and summarizing every meeting is even a good idea.",
+      "why_it_matters": "If you use Zoom for business meetings, this is worth knowing about — you may soon have more control over whether your meetings get recorded and turned into summaries."
     }
   ]
 }
