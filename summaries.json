@@ -1,13 +1,45 @@
 {
-  "generated_at": "2026-07-20T04:06:52.701Z",
+  "generated_at": "2026-07-20T09:35:16.032Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZy1MZ2F0c2lyb19ZWWJOOHNCeG1MWmJQdEFYTTJkVE5qWXVvY2FsVnFWT3V3SmRZdmtvTlNTUF9PbDBSaEFraEtOT09nY2RNZXZVLUxGakRlaWZGOVRKV3RBS2ZDV2hLVnJ2cHZIVEVFanpOMV9tNGUtMTRqYWNHa2VSNkNOWURuMlFmSl9XNjI1RWRWMFFONXo4V1VZdWQtaGtNaEdmNmw3VXpoQkNtVWJ5VEZBdGNNN3RqYzNsRQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-20T08:03:46.000Z",
+      "simple_summary": "A Chinese AI chatbot company called Kimi paused letting people buy subscriptions because so many people want to use it. They're also preparing to sell shares of the company to the public.",
+      "why_it_matters": "This mostly matters to investors and people in China — nothing you need to act on."
+    },
+    {
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
+      "source": "Our World in Data",
+      "date": "2026-07-20T07:07:30.000Z",
+      "simple_summary": "A news article looked at how much electricity data centers (huge computer buildings that power AI) and AI systems use.",
+      "why_it_matters": "This helps you understand that AI uses real electricity and has real costs, which eventually gets passed along in prices people pay."
+    },
+    {
+      "title": "Are Trump and AI driving a nuclear power boom? : Short Wave",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEFMMlhLUXVqMktVZGgyaUdNbThZVmlFWlJ4VzZlUnA0VElRN0FVWTdtN0ZORDBJcHEzVVd0QjdyTG55Y2lEZHNXc0x6MHVoV0xNLWFxRE5CQjJQTDRKdHI2R09xQ2RjRmRQcF9kZ2Fjc0ZNYkVCVU5hYVFYMWpOWTJRbklWTU9SWUhMQUZVMDBaTXYx?oc=5",
+      "source": "NPR",
+      "date": "2026-07-20T07:00:00.000Z",
+      "simple_summary": "Some people think President Trump and AI interest are leading to more nuclear power plants being built.",
+      "why_it_matters": "If nuclear power grows, it could eventually affect your electricity bills or energy costs, though this is still mostly future talk."
+    },
+    {
+      "title": "AI-altered images on birdwatching forums putting research at risk",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-20T06:34:00.000Z",
+      "simple_summary": "People are using AI to fake or alter bird photos on birdwatching websites, which makes real bird research harder because scientists can't tell which photos are real.",
+      "why_it_matters": "This shows that AI can create convincing fake images, which means you should be careful about believing pictures you see online without checking the source."
+    },
     {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
       "source": "TechCrunch",
       "date": "2026-07-19T21:16:07.000Z",
-      "simple_summary": "The head of a major AI chip company visited Japan and made business deals with Japanese technology companies.",
+      "simple_summary": "Jensen Huang, who runs a major AI computer chip company, visited Japan and made business deals with Japanese technology companies.",
       "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
     },
     {
@@ -15,88 +47,56 @@
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch",
       "date": "2026-07-19T19:24:45.000Z",
-      "simple_summary": "Apple is suing OpenAI, and people are wondering if this lawsuit will stop OpenAI from making AI devices and becoming a public company (selling stock to regular people).",
-      "why_it_matters": "This is mostly a business battle between big companies — you don't need to do anything about it right now."
+      "simple_summary": "Apple is suing OpenAI (the company behind ChatGPT), and people are wondering if this lawsuit could stop OpenAI from making AI hardware devices.",
+      "why_it_matters": "This is a legal battle between tech giants; for now, it mainly affects investors and won't change what you can do with AI."
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczVELUs4d0FZOUNORVJ0UmE5QmdTM09iTm1RU2tnSWt5OXhuOUMxX191ZTd2S2Q4Qmo3Z0w4WGpfZ0M0R0xyUXFqaFlCYjdPYmp0dGZ1bjVCaFNUa1hPczJXX3p3V2pBcnpIREhiNXl2MktOSUFYZ2F0NG02Z1hLYlhKT19HRXBkSDhrVGpRMUVGUWJvaFBzVlB2aWQzakZoZDd4dTU1SnFQcVgyeXBF?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-19T18:30:00.000Z",
+      "simple_summary": "Taiwan Semiconductor Manufacturing Company announced something important about making chips for AI systems.",
+      "why_it_matters": "This mostly matters to investors in tech stocks — the headline doesn't give enough detail to explain the real impact."
     },
     {
       "title": "I hate that I don’t hate this song made with Suno",
       "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "source": "The Verge",
       "date": "2026-07-19T17:35:54.000Z",
-      "simple_summary": "A music critic was surprised to find that a song made by AI (using a tool called Suno) was actually pretty good, even though they usually think AI-made music is boring.",
-      "why_it_matters": "AI music-making tools are getting better, so if you enjoy music, you might hear more of it in the future — but you don't have to use these tools yourself."
+      "simple_summary": "Someone wrote that a song created by an AI music tool called Suno is actually pretty good, even though they usually find AI music boring.",
+      "why_it_matters": "This shows AI music-making is improving, though it's still mostly a curiosity — most people still prefer music made by human musicians."
+    },
+    {
+      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-07-19T17:15:00.000Z",
+      "simple_summary": "An investment newsletter recommended three AI company stocks to buy.",
+      "why_it_matters": "This is investment advice for people who trade stocks — not relevant unless you're actively buying and selling company shares."
     },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
       "source": "TechCrunch",
       "date": "2026-07-19T14:52:08.000Z",
-      "simple_summary": "Famous movie director Christopher Nolan said that AI is a 'Trojan horse' — meaning it looks harmless but has hidden dangers inside.",
-      "why_it_matters": "A respected filmmaker is warning about AI risks, which adds to an important conversation about AI safety — but there's no specific action you need to take."
+      "simple_summary": "Filmmaker Christopher Nolan said AI is like a Trojan horse (a hidden danger disguised as something helpful).",
+      "why_it_matters": "This is one director's opinion about AI risks — it's worth thinking about, but it's an artistic viewpoint, not a concrete warning about something specific."
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "source": "TechCrunch",
       "date": "2026-07-19T14:00:00.000Z",
-      "simple_summary": "A nonprofit organization is working to build AI tools that anyone in the world can use for free, no matter what country or culture they're from.",
-      "why_it_matters": "This could make AI tools more available to small businesses and people who can't afford expensive software — this is genuinely good news."
+      "simple_summary": "A nonprofit organization is building AI tools that they want to make free and available to everyone worldwide, not just wealthy countries.",
+      "why_it_matters": "This could eventually mean more people around the world get access to AI tools for free, though it's still in early stages."
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "source": "The Verge",
-      "date": "2026-07-18T20:54:42.000Z",
-      "simple_summary": "Author Dave Eggers told OpenAI employees that AI tools like ChatGPT are hurting writers by making it easier to create writing without human writers doing the work.",
-      "why_it_matters": "If you're a writer or work with writing, AI tools that generate text could affect your work — this is something worth paying attention to."
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch",
-      "date": "2026-07-18T18:51:07.000Z",
-      "simple_summary": "A Chinese AI company released a new version of its AI chatbot, which some people worry about because China might use AI differently than American companies do.",
-      "why_it_matters": "This mostly matters to investors worried about global competition — nothing you need to act on."
-    },
-    {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "source": "The Verge",
-      "date": "2026-07-18T12:00:00.000Z",
-      "simple_summary": "This is a recommendation column about useful apps, gadgets, and tools that readers might find helpful.",
-      "why_it_matters": "This is a shopping guide, not news — only relevant if you're looking for product recommendations."
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "source": "TechCrunch",
-      "date": "2026-07-18T04:47:25.000Z",
-      "simple_summary": "A venture capitalist (investor) predicts that the huge amount of money being made from AI will eventually be shared with more people in society.",
-      "why_it_matters": "This is mostly about how wealth might be distributed — nothing you need to act on."
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T22:55:09.000Z",
-      "simple_summary": "A luxury phone company is selling an expensive AI assistant (a tool that helps you with tasks) for $6,880, and a reviewer tested how well it actually works.",
-      "why_it_matters": "Unless you're considering buying a very expensive phone with AI features, this is just a product review — nothing you need to act on."
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T22:12:56.000Z",
-      "simple_summary": "Databricks, a company that helps other companies use AI, is now worth $188 billion and is becoming very successful in the AI business.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch",
-      "date": "2026-07-17T21:20:47.000Z",
-      "simple_summary": "Zoom is adding a feature that lets people say 'don't record me,' but the article questions whether recording and summarizing every meeting is even a good idea.",
-      "why_it_matters": "If you use Zoom for business meetings, this is worth knowing about — you may soon have more control over whether your meetings get recorded and turned into summaries."
+      "title": "Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzlSZ2pUZ0JXR1ZiSEx2Y3k0a1NOdHFMRDVDSmd6QTdPczdmRHlQTE04bGtGVXFDUnpuODdKUlo4SVI2eGxFQU1XZ3czd0R1V3JkR01VSlR0TGtKeFliaWNfVjBQeFhoQ0NrWlVNaVFua3pqd3A1dElvUXdxSzE3SFNqOWpXa0VsRGNPd293d2N6VDVBaWtvOTZ0dDFoR19ET1BsdA?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-19T09:00:48.000Z",
+      "simple_summary": "A New York Times article discusses finding your best talents and skills before AI changes the job market.",
+      "why_it_matters": "This is general advice to think about what unique skills you have that AI can't easily replace — good to consider as technology changes."
     }
   ]
 }
