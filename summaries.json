@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-20T09:35:16.032Z",
+  "generated_at": "2026-07-20T14:34:37.802Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZy1MZ2F0c2lyb19ZWWJOOHNCeG1MWmJQdEFYTTJkVE5qWXVvY2FsVnFWT3V3SmRZdmtvTlNTUF9PbDBSaEFraEtOT09nY2RNZXZVLUxGakRlaWZGOVRKV3RBS2ZDV2hLVnJ2cHZIVEVFanpOMV9tNGUtMTRqYWNHa2VSNkNOWURuMlFmSl9XNjI1RWRWMFFONXo4V1VZdWQtaGtNaEdmNmw3VXpoQkNtVWJ5VEZBdGNNN3RqYzNsRQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-20T08:03:46.000Z",
-      "simple_summary": "A Chinese AI chatbot company called Kimi paused letting people buy subscriptions because so many people want to use it. They're also preparing to sell shares of the company to the public.",
-      "why_it_matters": "This mostly matters to investors and people in China — nothing you need to act on."
+      "title": "Opinion | Open models for AI were inevitable",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-20T12:40:47.000Z",
+      "simple_summary": "An opinion piece argues that AI models that are open to the public were always going to happen eventually.",
+      "why_it_matters": "This is mostly a debate for tech experts and investors — nothing you need to act on."
     },
     {
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
-      "source": "Our World in Data",
-      "date": "2026-07-20T07:07:30.000Z",
-      "simple_summary": "A news article looked at how much electricity data centers (huge computer buildings that power AI) and AI systems use.",
-      "why_it_matters": "This helps you understand that AI uses real electricity and has real costs, which eventually gets passed along in prices people pay."
+      "title": "Mass. residents are largely using AI, but have more concerns than excitement about it, poll shows",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGxFb2JuQW9OSUhlWXZFZXRCQl9GS054V3c0SE52MzMteDRkZlRWM09NRUduUlVwdFRQX3N4VWtUNkJyUmdtUXJsVE5zY3ZiellLMlhFZmpJVC03OXk4VVNER0JlUDBzeldQeFhRZmlFSHc5c1lEdlNfNHBlcFVyNmtjc2FaSURxUHpXcVNLLVdUenB1LUE?oc=5",
+      "source": "The Boston Globe",
+      "date": "2026-07-20T12:33:55.000Z",
+      "simple_summary": "A poll in Massachusetts found that most people are already using AI tools, but they're worried about it more than excited about it.",
+      "why_it_matters": "This shows ordinary people share common concerns about AI — you're not alone if you feel cautious about it."
     },
     {
-      "title": "Are Trump and AI driving a nuclear power boom? : Short Wave",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEFMMlhLUXVqMktVZGgyaUdNbThZVmlFWlJ4VzZlUnA0VElRN0FVWTdtN0ZORDBJcHEzVVd0QjdyTG55Y2lEZHNXc0x6MHVoV0xNLWFxRE5CQjJQTDRKdHI2R09xQ2RjRmRQcF9kZ2Fjc0ZNYkVCVU5hYVFYMWpOWTJRbklWTU9SWUhMQUZVMDBaTXYx?oc=5",
-      "source": "NPR",
-      "date": "2026-07-20T07:00:00.000Z",
-      "simple_summary": "Some people think President Trump and AI interest are leading to more nuclear power plants being built.",
-      "why_it_matters": "If nuclear power grows, it could eventually affect your electricity bills or energy costs, though this is still mostly future talk."
+      "title": "Voters in Colorado’s battleground district are wary of AI — and party affiliation doesn’t much matter",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkhza2V3VlhyU3Y4TXZmTjgtekQwUHEtZmZqVUhPWUltbWNobWtrSnBZWmlUem1iY01YVGdoX2d2WlUwWllDU3poYWxvXy1NOUhYUU1KX1RTZGVidzhBQmU3b09STjU5aXktSVhiRGlBanp0QU9LVDJSSFZLdnlKbDBSVUZFdHhLbTNhVjFxWjlzWjQ2UTBsSjZlWUdnSDdjT2FoR0xB?oc=5",
+      "source": "The Denver Post",
+      "date": "2026-07-20T12:00:25.000Z",
+      "simple_summary": "Voters in a Colorado area are nervous about AI, and their concerns don't break down neatly along political party lines.",
+      "why_it_matters": "Worry about AI is widespread across different groups — a sign that people generally want more safeguards."
     },
     {
-      "title": "AI-altered images on birdwatching forums putting research at risk",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-20T06:34:00.000Z",
-      "simple_summary": "People are using AI to fake or alter bird photos on birdwatching websites, which makes real bird research harder because scientists can't tell which photos are real.",
-      "why_it_matters": "This shows that AI can create convincing fake images, which means you should be careful about believing pictures you see online without checking the source."
+      "title": "China delivers a one-two punch to America’s AI dominance ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge",
+      "date": "2026-07-20T10:16:33.000Z",
+      "simple_summary": "Chinese AI companies are releasing powerful tools that work almost as well as American ones but cost much less money.",
+      "why_it_matters": "This mostly matters to tech investors — it means competition is heating up, but it doesn't immediately change your options as a customer."
+    },
+    {
+      "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVdfN2RfcnotMjlQeGpnY3BkMjNvTzdyc3BrXzdSaGhaNkNDQ0NnM2RKenhKWnRMcks1elBpZHAycVJsTDJYQ0JLdjBLcUZrZGhBelI4bUhzOGc4RnhhLVpiMW9RU0pRb1NlcTNWTXZ6THVkSzJ6dmp0RTgyMHVEctIBhgFBVV95cUxNYy00UWxqQnNVMzBVS0RCU3VPZ1pFLVNiSk5tNnVabEZhTGNoYmNfc2VmaXFmTjJxb2xEbV9PYXY0MEM1UHhBSEJDQ2MtUFRoT0xidkVwbGw2bzVBMy1rMzNJSG01dWYxbXVjbmlVSkI2V0MyV1NzOHF0M3VKdm5KbVdjV3V4UQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-20T09:58:05.000Z",
+      "simple_summary": "Jeff Bezos is backing a startup that's working with Nvidia (a major computer chip company) to find new materials for making chips.",
+      "why_it_matters": "This is mainly relevant to investors and engineers — nothing a typical business owner needs to worry about."
+    },
+    {
+      "title": "How AI is supercharging drug development",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGE3eHZGYmZNVFVON1ZySDZMNjAxSlpadC1DeHpvN1poeDlKTzA0QVNiLUVwVDJ6dG5kNkhQS3JKTm9mN2VMUHUtb2NUMHdfbnNCWjRCdDFKU3M2WmFneWQ3SzlvdTVmcXUxZ2FCeXVFdzAwUkw0enlJLUpsbXA5dFpzbFE3TXM?oc=5",
+      "source": "Axios",
+      "date": "2026-07-20T09:30:19.000Z",
+      "simple_summary": "AI is helping scientists discover and test new medicines faster than before.",
+      "why_it_matters": "This could eventually lead to new treatments and medicines reaching patients sooner, which is good news for health."
     },
     {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
       "source": "TechCrunch",
       "date": "2026-07-19T21:16:07.000Z",
-      "simple_summary": "Jensen Huang, who runs a major AI computer chip company, visited Japan and made business deals with Japanese technology companies.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "Jensen Huang (a top executive at Nvidia) visited Japan and made several business deals with Japanese tech companies.",
+      "why_it_matters": "This matters mostly to investors — it shows big tech companies are making partnerships, but doesn't directly affect you."
+    },
+    {
+      "title": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZHdEZqeWNySTFONkN2VzRhS3NieVFrTW5zeThPVkp2M0xEbU1keUw4NWk5TkNJS1lpbXYyendkbEtIbU9TQ05OQU9aRTItNHNzSk05TW1ZcnlRdXBHUDAya25kVUtjbTY3NTNNdlhxVEt5RktBT040ZDV6enM0TURtOGFaWVAxU0NlMXlXc1k1T1dpV0dNNzFnS2dRdElfTmc?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-19T19:38:00.000Z",
+      "simple_summary": "An executive predicted AI could grow into a very large industry, and one article suggests this could make Nvidia an extremely valuable company.",
+      "why_it_matters": "This is investment speculation — interesting to some, but not something most business owners need to act on."
     },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch",
       "date": "2026-07-19T19:24:45.000Z",
-      "simple_summary": "Apple is suing OpenAI (the company behind ChatGPT), and people are wondering if this lawsuit could stop OpenAI from making AI hardware devices.",
-      "why_it_matters": "This is a legal battle between tech giants; for now, it mainly affects investors and won't change what you can do with AI."
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczVELUs4d0FZOUNORVJ0UmE5QmdTM09iTm1RU2tnSWt5OXhuOUMxX191ZTd2S2Q4Qmo3Z0w4WGpfZ0M0R0xyUXFqaFlCYjdPYmp0dGZ1bjVCaFNUa1hPczJXX3p3V2pBcnpIREhiNXl2MktOSUFYZ2F0NG02Z1hLYlhKT19HRXBkSDhrVGpRMUVGUWJvaFBzVlB2aWQzakZoZDd4dTU1SnFQcVgyeXBF?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-19T18:30:00.000Z",
-      "simple_summary": "Taiwan Semiconductor Manufacturing Company announced something important about making chips for AI systems.",
-      "why_it_matters": "This mostly matters to investors in tech stocks — the headline doesn't give enough detail to explain the real impact."
+      "simple_summary": "Apple is suing OpenAI, and some people wonder if this might affect OpenAI's plans to make hardware devices or go public.",
+      "why_it_matters": "This is a legal battle between big tech companies — mostly important to investors right now."
     },
     {
       "title": "I hate that I don’t hate this song made with Suno",
       "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "source": "The Verge",
       "date": "2026-07-19T17:35:54.000Z",
-      "simple_summary": "Someone wrote that a song created by an AI music tool called Suno is actually pretty good, even though they usually find AI music boring.",
-      "why_it_matters": "This shows AI music-making is improving, though it's still mostly a curiosity — most people still prefer music made by human musicians."
+      "simple_summary": "A music critic was surprised to discover that a song made by AI music software (Suno) wasn't as boring as they expected.",
+      "why_it_matters": "This shows AI music tools are improving, but for most people this is just interesting news — not something that affects your daily life yet."
     },
     {
       "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
       "source": "The Motley Fool",
       "date": "2026-07-19T17:15:00.000Z",
-      "simple_summary": "An investment newsletter recommended three AI company stocks to buy.",
-      "why_it_matters": "This is investment advice for people who trade stocks — not relevant unless you're actively buying and selling company shares."
+      "simple_summary": "An investment advice column recommends three AI-related stocks to buy.",
+      "why_it_matters": "This is only for people interested in stock investing — nothing a small business owner needs to act on unless you're considering investments."
     },
     {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "source": "TechCrunch",
-      "date": "2026-07-19T14:52:08.000Z",
-      "simple_summary": "Filmmaker Christopher Nolan said AI is like a Trojan horse (a hidden danger disguised as something helpful).",
-      "why_it_matters": "This is one director's opinion about AI risks — it's worth thinking about, but it's an artistic viewpoint, not a concrete warning about something specific."
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "source": "TechCrunch",
-      "date": "2026-07-19T14:00:00.000Z",
-      "simple_summary": "A nonprofit organization is building AI tools that they want to make free and available to everyone worldwide, not just wealthy countries.",
-      "why_it_matters": "This could eventually mean more people around the world get access to AI tools for free, though it's still in early stages."
-    },
-    {
-      "title": "Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzlSZ2pUZ0JXR1ZiSEx2Y3k0a1NOdHFMRDVDSmd6QTdPczdmRHlQTE04bGtGVXFDUnpuODdKUlo4SVI2eGxFQU1XZ3czd0R1V3JkR01VSlR0TGtKeFliaWNfVjBQeFhoQ0NrWlVNaVFua3pqd3A1dElvUXdxSzE3SFNqOWpXa0VsRGNPd293d2N6VDVBaWtvOTZ0dDFoR19ET1BsdA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-19T09:00:48.000Z",
-      "simple_summary": "A New York Times article discusses finding your best talents and skills before AI changes the job market.",
-      "why_it_matters": "This is general advice to think about what unique skills you have that AI can't easily replace — good to consider as technology changes."
+      "title": "Could AI be conscious?",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-19T16:44:00.000Z",
+      "simple_summary": "An article explores the question of whether AI systems might someday become conscious or aware like humans are.",
+      "why_it_matters": "This is a philosophical question being debated by experts — it doesn't affect your life right now."
     }
   ]
 }
