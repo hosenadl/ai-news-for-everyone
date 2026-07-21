@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-21T03:48:23.072Z",
+  "generated_at": "2026-07-21T08:47:23.953Z",
   "model": "claude-haiku-4-5",
   "stories": [
-    {
-      "title": "How Google’s A.I. Search Is Imperiling the Open Web",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUjF6UzRoT0FXakF3OTNUaktTRW96NjIxOWZhZGpVaFRtZDFMNGtQTDZyRkFwQlpRT2ppNWpvS1ZRQzhjaHlsQUttVkUxQUd4dE1qUGlQa094c1hxb0JPbHRqQUM5WUMwUmlKYmhMTHBCSzBSY2d6ZQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-21T01:50:36.000Z",
-      "simple_summary": "Google's AI search tool is changing how the internet works—it answers questions directly instead of sending people to other websites, which worries people who run those websites.",
-      "why_it_matters": "If fewer people click through to websites, small business owners who rely on Google search traffic could see fewer visitors to their sites."
-    },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TechCrunch",
       "date": "2026-07-21T00:12:24.000Z",
-      "simple_summary": "Anthropic (an AI company) paid $1.5 billion to settle a lawsuit about using copyrighted writing to train their AI, though this doesn't fully solve the bigger copyright problem.",
-      "why_it_matters": "This shows AI companies may have to pay for using people's creative work, which could affect how AI tools are built going forward."
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: The AI consumer bet might surprise you",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVI4dWVQUnRqX2pKNkFKMDdtRWwxaXRmM1NOVDFoXzg3cENxV0NKdk1KeWdmOFFobHdnb2NiMmpxeEV5WlVqaGhndW9JUmk3VEVVNmhxMzZtVERkcWR2ZmlVRlA4QnRGbjBIRzF0MjN1MUNPdEFDd3FYeVdaQzJ2SHQzb21wT0c0TjNOandYLXhSMDVxT1JvTmZGbWgyeFVuWFJ2TzJUT1hrZHYzMzhRbkFHc9IBuAFBVV95cUxNa25aVElOVTNkNGNSV3RZcURxMzk5dk41bWVYQlJwc1JGSjBSeFVrWmR2alpPOWFrbHk2cXNUVUFkVFJwTVh3WjBWc1otVFNDV21oa1ZaTkk2RTdISkdXZ1Y4djI0TkJZWkFUTXhGcmg3RVV3STdobjVFTm4tX09oXy1KMGxDVm1SOUh2MWJ1SXhoN29yODZ1V3Y2RnhDcFFabHRhdFU2M2gyUGlsN2ttZWNPODh6R1NK?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-20T23:00:01.000Z",
-      "simple_summary": "This headline doesn't give enough detail to explain what it's about.",
-      "why_it_matters": "Cannot determine from headline alone."
-    },
-    {
-      "title": "Head of US AI safety agency resigns",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-20T22:23:42.000Z",
-      "simple_summary": "The person leading the U.S. government's AI safety efforts has quit.",
-      "why_it_matters": "This mostly matters to investors and people focused on AI policy—nothing you need to act on."
+      "simple_summary": "Anthropic (an AI company) paid $1.5 billion to settle a lawsuit about using copyrighted books to train AI models. However, this only settles one case — the bigger question of whether AI companies can use copyrighted material is still being argued in court.",
+      "why_it_matters": "This mostly matters to investors and tech companies — it shows AI companies may have to pay for content they use, but nothing you need to act on right now."
     },
     {
       "title": "Trump’s latest AI czar has already resigned",
       "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
       "source": "TechCrunch",
       "date": "2026-07-20T22:21:04.000Z",
-      "simple_summary": "Another person has quit as the head of the government's AI standards office. This job has had a lot of turnover.",
-      "why_it_matters": "This mostly matters to investors and people tracking government leadership—nothing you need to act on."
+      "simple_summary": "The person Trump picked to lead a government AI office just quit. This is the second person to leave this job in a short time.",
+      "why_it_matters": "This is mostly political news — unless you're invested in government AI policy, it doesn't affect your daily life."
     },
     {
       "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
       "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
       "source": "The Verge",
       "date": "2026-07-20T22:19:12.000Z",
-      "simple_summary": "Sony is suing an AI music-making tool for illegally copying more than 30,000 of its songs, including famous ones.",
-      "why_it_matters": "This signals that AI tools may not be able to freely use famous music—important if you were thinking AI could create music for your business for free."
+      "simple_summary": "Sony (the music company) is suing an AI music-making tool called Udio, saying it used 30,000 of Sony's songs without permission to learn how to make music.",
+      "why_it_matters": "This is part of a bigger fight between musicians/record companies and AI companies — it may eventually affect how AI music tools work, but nothing urgent for you."
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
       "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
       "source": "TechCrunch",
       "date": "2026-07-20T21:21:15.000Z",
-      "simple_summary": "Google is designing a new computer chip to make its Gemini AI run faster and cheaper.",
-      "why_it_matters": "This mostly matters to investors and engineers—it's an internal improvement that won't directly affect you."
+      "simple_summary": "Google is building a special computer chip to make its AI assistant Gemini work faster and use less power. It's like building a more efficient engine for a car.",
+      "why_it_matters": "This mostly matters to Google and tech enthusiasts — it doesn't change how you'd use AI."
     },
     {
       "title": "SpaceX in your index fund, explained",
       "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
       "source": "The Verge",
       "date": "2026-07-20T21:00:00.000Z",
-      "simple_summary": "This article is about how SpaceX might get added to a popular investment fund—not related to AI.",
-      "why_it_matters": "This isn't about AI and mostly matters to people managing investment portfolios."
+      "simple_summary": "SpaceX (Elon Musk's rocket company) is being added to a popular stock index fund, which means regular investors can now easily own a small piece of SpaceX.",
+      "why_it_matters": "If you have an index fund for retirement, you may now own a tiny bit of SpaceX — but you don't need to do anything about it."
     },
     {
       "title": "AI’s most important protocol is getting a little bit easier to use",
       "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "source": "TechCrunch",
       "date": "2026-07-20T20:50:40.000Z",
-      "simple_summary": "A technical system that AI uses behind the scenes is being redesigned to work more simply.",
-      "why_it_matters": "This mostly matters to AI engineers and companies building AI tools—nothing you need to know."
-    },
-    {
-      "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-20T19:38:08.000Z",
-      "simple_summary": "Powerful AI models are being released for free, and this was bound to happen.",
-      "why_it_matters": "This means more AI tools will become available to regular people and small businesses without expensive fees."
+      "simple_summary": "A technical system that helps AI talk to websites is being simplified to work more like regular websites already do.",
+      "why_it_matters": "This is a technical change that engineers care about — it won't affect you directly."
     },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
       "source": "TechCrunch",
       "date": "2026-07-20T19:37:39.000Z",
-      "simple_summary": "X (formerly Twitter) finished rebuilding its app for Android phones after a year of work.",
-      "why_it_matters": "If you use X on an Android phone, the app should work better—nothing urgent you need to do."
+      "simple_summary": "Elon Musk's X (formerly Twitter) released a rebuilt version of its Android phone app after working on it for a year.",
+      "why_it_matters": "If you use X on an Android phone, the app should work better now — that's it."
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
       "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
       "source": "TechCrunch",
       "date": "2026-07-20T19:33:25.000Z",
-      "simple_summary": "OpenAI is worried about free AI models (especially ones made in China) that anyone can use and modify.",
-      "why_it_matters": "This mostly matters to investors and people watching AI business competition—nothing you need to act on."
+      "simple_summary": "OpenAI and other US companies are worried about Chinese AI models that are free for anyone to use and modify, because it's harder to make money when competitors give away their tools.",
+      "why_it_matters": "This mostly matters to investors and AI companies — it's about business competition, not something that affects regular people."
+    },
+    {
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "source": "The Verge",
+      "date": "2026-07-20T16:00:00.000Z",
+      "simple_summary": "Adobe (which makes photo editing software) updated its experimental iPhone camera app to include AI tools that can improve and adjust your photos.",
+      "why_it_matters": "If you use Adobe's camera app, you'll have more fancy photo-editing options available — otherwise, nothing changes."
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-20T15:45:00.000Z",
+      "simple_summary": "Adobe's Project Indigo camera app can now use AI to remove backgrounds from photos (like making your selfie stand out by removing the messy room behind you).",
+      "why_it_matters": "If you take a lot of photos and like editing tools, this could be useful — for most people, it's just a nice feature to have available."
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch",
+      "date": "2026-07-20T15:23:06.000Z",
+      "simple_summary": "YouTube announced clearer rules about which AI-made videos and low-quality videos won't be allowed to earn money from ads.",
+      "why_it_matters": "If you upload videos to YouTube, you should check these rules — but most regular viewers won't notice a change."
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge",
+      "date": "2026-07-20T10:16:33.000Z",
+      "simple_summary": "Chinese AI companies released new AI assistants that they say work as well as America's best AI models (from OpenAI and others) but cost much less to build.",
+      "why_it_matters": "This is important for tech competition between countries — it may push US companies to improve faster, but it doesn't change what AI can do for your business right now."
     }
   ]
 }
