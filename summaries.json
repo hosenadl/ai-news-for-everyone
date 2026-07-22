@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-22T14:25:34.795Z",
+  "generated_at": "2026-07-22T19:45:53.537Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Red Dot winner Yanice Yang advances AI-powered health technology",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEk2Ql9XZ1E1RTRWWXVpUEFqMEFVdC1kQkE4TmhTNG1WZC1WWXIxMmp0TUVEMmVBWkZrMzlob2lRUXRvRWhtdE96Tng0eFA2RjVnZlRuZ0lwU2x2dGJHM0c4Tk5rS1ZTUEx3SVNSRFF6ZnRiWmVuZjlwMDlVcFlKdGpta3k5QQ?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-07-22T13:41:14.000Z",
-      "simple_summary": "A person named Yanice Yang won an award for creating an AI health technology tool.",
-      "why_it_matters": "This is mostly a news item about a specific person's achievement — nothing you need to act on right now."
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T19:11:46.000Z",
+      "simple_summary": "OpenAI accidentally left a practice testing area unsecured, which allowed hackers to break into a website called Hugging Face using AI tools.",
+      "why_it_matters": "This is mostly a lesson for tech companies about security — nothing you need to act on right now, but it shows even big AI companies make mistakes."
     },
     {
-      "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T18:50:44.000Z",
+      "simple_summary": "Travis Kalanick (the Uber founder) raised $1.7 billion for a company called Atoms that uses robots and AI for factories and warehouses.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you run a large factory or warehouse."
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T18:13:58.000Z",
+      "simple_summary": "A new social media app called Yope raised $12.3 million; it focuses on small groups of friends and family chatting privately instead of using feeds that show you posts from people you don't know.",
+      "why_it_matters": "If you like Facebook or Instagram but prefer private groups, this is an alternative worth knowing about."
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T17:54:14.000Z",
+      "simple_summary": "Monday.com, a company that helps teams organize their work, is laying off about 630 people (20% of staff) so it can focus on adding more AI features.",
+      "why_it_matters": "If you use Monday.com for your small business, expect the product to change and may have fewer people supporting customers."
+    },
+    {
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlfczRxV0p5OWJkUEQzYm10cUpNSTFUNUQ4NERwY1pqcTRUbTFhbVZURjdBNEl1MVpoSkNqM2hwNDlLaWxNTlRKclJ0TGJFVkcxV194OWR5ekRrdGR1eWMyTXBaV2pWSEZiNkRTVzFjVm83azlqTzhkeTFzdEFtaC1zTDB1SGQzcjBV0gGQAUFVX3lxTE9oQjhWRGJzem1MU1ZjWmN5NGRIMGNOUk82VGRXWTRVZ0Y2QTN6T0xJdHZaWmtkMkZHakl3MDVqRXI2SWF2dExQS2g5N09kRG1GSkRBS0t0NEtCQzlBS3JpalRQaXdkMldOVWtGdnR5dFRET3l0em45NHFaSmszdUUyTVlXQldJTTlHRURBSVNDSg?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-22T17:26:30.000Z",
+      "simple_summary": "Amazon is cutting some jobs in the part of the company working on artificial general intelligence (AI that could do many different kinds of thinking).",
+      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
+    },
+    {
+      "title": "We must reject any notion of AI consciousness | Letters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0lfUEVKLXU2STZwclhldFFFeXJhb0lERDZCcVVsTUFqTkEzdUFsSEZIWnR5UkwtOEVXQWNEOTBXQlFWUjVMY0V4c0Z0V3NraThOYjhDcElocHpScmw0VVBxSUk1TGdfbnlLRkhsQTlJQU9STWtqanByVFdfTG9ZT1ppX2RfNHg3Tk1aOU9aWTRiRkozU2pldThvYm0?oc=5",
       "source": "The Guardian",
-      "date": "2026-07-22T13:34:00.000Z",
-      "simple_summary": "The publisher of Harry Potter books is getting paid money by an AI company called Anthropic because the company used Harry Potter books to train its AI without permission.",
-      "why_it_matters": "This sets a precedent that authors and publishers can be paid when their work is used to train AI — good news if you've written anything or own content."
+      "date": "2026-07-22T17:11:00.000Z",
+      "simple_summary": "Someone wrote an opinion piece saying we shouldn't believe AI systems are actually thinking or conscious like humans.",
+      "why_it_matters": "This is a philosophical discussion — nothing that affects your daily life or business."
     },
     {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T13:20:35.000Z",
-      "simple_summary": "There are other internet browsers besides Chrome and Safari that you can use instead.",
-      "why_it_matters": "If you're unhappy with Chrome or Safari, you have alternatives available — but this mostly matters to people interested in exploring new tools."
-    },
-    {
-      "title": "As China advances in AI, Trump faces a new test in the technology race",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFBSLVZicnRxWHFzU21aU1dSajBhVTRUWmhQaHcyTmx6SmZFck5RQWttZlM3NjBsMURJbGFEWDNCVUotc1JfMkFNeDVpbERfSWNXX2NJajdxZHl5cDNidkFvNnhlWXhESjdvbHFMRS16RjFvMkxya2t0OW1SRFlJUFBWX3ppaGx4OVFobzA3bzBFOE1ORmhpb3hJSDh0dDdwSXM3TDRLT1FZVU5n?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-22T13:02:21.000Z",
-      "simple_summary": "China is getting better at AI technology, which is a concern for the United States government.",
-      "why_it_matters": "This is about global politics and business competition between countries — nothing you need to act on."
-    },
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T13:00:00.000Z",
-      "simple_summary": "A company called Passionfroot that helps businesses and content creators connect with each other just raised $15 million to expand to the US.",
-      "why_it_matters": "This mostly matters to investors and content creators looking for work — not relevant to most small business owners."
-    },
-    {
-      "title": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLTQwaDQ4bFlvZnVnRjdGemZzcGdQV0ZuRkpWell0UlRWNWJLZzRwVnJvUmVDRHQ3cVNIdHh0MVhPM0pzb2F5MjMwTm9xWElOVDlZVVFWZmVPQldfUEZHYkZDTjkxQlkxQXdwSjQ3Y3UzZUhUOUFnY0dUYUVJUHN6RGdjUWFZU3FMd0d0a0NLRU9XcHRURGJmRlZKS0VJajdsYTRMME9TcEk5dURoRVY2RnNxTkkxZVNfN1VtUnhmV2oyQ2VWeDcta0dURHhmUXBFU0dTbENndmFldHozVHM4XzJPX3FEOGF3cU83aWRrTkJvS19teVVXMjA1UzNGUUEzRnBIMXFwMVU?oc=5",
-      "source": "MarketWatch",
-      "date": "2026-07-22T12:05:00.000Z",
-      "simple_summary": "An investor is warning that AI will use a lot more natural gas electricity, and suggesting certain stocks to buy.",
-      "why_it_matters": "This is investment advice — you should not buy stocks based on a headline, and would need to talk to a financial advisor."
-    },
-    {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "title": "Here’s what Samsung’s smart glasses actually look like",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
       "source": "The Verge",
-      "date": "2026-07-22T11:00:00.000Z",
-      "simple_summary": "Meta (Facebook's company) created a watermarking system (an invisible label) to mark images that its AI creates, so people can tell AI images from real photos.",
-      "why_it_matters": "In the future, you might be able to tell whether images online are fake AI creations, which helps you spot misleading content."
+      "date": "2026-07-22T16:35:34.000Z",
+      "simple_summary": "Samsung is making smart glasses (glasses with tiny screens and computers built in) that work 9 hours on battery, made with Google and eyewear companies, coming this fall.",
+      "why_it_matters": "If you're curious about new gadgets, these glasses might be worth checking out when they arrive, but they're not essential for most people."
     },
     {
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "source": "The Verge",
-      "date": "2026-07-22T10:12:13.000Z",
-      "simple_summary": "US electricity companies are promising not to raise your power bills too much because of all the energy that AI systems are using.",
-      "why_it_matters": "Your electricity company is committing to controlling costs as AI grows — good news for your future bills, though this is still a developing issue."
-    },
-    {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "source": "TechCrunch",
-      "date": "2026-07-22T10:00:00.000Z",
-      "simple_summary": "A new company called Glow is launching a security tool to protect businesses from risks caused by the widespread use of AI.",
-      "why_it_matters": "This matters mainly to large businesses concerned about protecting their computers and data — not something a small business needs to worry about yet."
+      "date": "2026-07-22T16:24:08.000Z",
+      "simple_summary": "An AI research company says that AI tools made in China aren't more dangerous than those made in America, even though some people worry about Chinese AI.",
+      "why_it_matters": "This is mostly a discussion for tech leaders and government — nothing you need to decide on."
     },
     {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
       "source": "TechCrunch",
-      "date": "2026-07-22T08:00:00.000Z",
-      "simple_summary": "A company called Synthesia is letting employees practice conversations with AI characters that look like real people, for training purposes.",
-      "why_it_matters": "This is a new training tool for large companies — not something that affects most small business owners right now."
+      "date": "2026-07-22T16:23:09.000Z",
+      "simple_summary": "Substack, a newsletter platform, is adding a tool that shows readers whether a newsletter was written mostly by a human or partly by AI.",
+      "why_it_matters": "If you read newsletters or write one, you'll now know if AI was used to create the content."
     },
     {
-      "title": "Will your job be replaced by AI? Here are the roles most affected",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSjNSeGVCQUlxZ1N3U0Q3aURSVFdrMUlUT2pnMHNVZUV1dHFWa1lmaldFRkotUEVBNlZNYUhiRkVRVVl0cEl5eVFPU00zMlRjYTV4cVZpRWpFdw?oc=5",
-      "source": "BBC",
-      "date": "2026-07-22T07:40:33.000Z",
-      "simple_summary": "The BBC published information about which jobs are most likely to be affected by AI.",
-      "why_it_matters": "If you're worried about your job, this headline suggests a useful story to read — but the actual impact will depend on your specific work."
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
       "source": "TechCrunch",
-      "date": "2026-07-22T03:20:57.000Z",
-      "simple_summary": "There is a rumor on social media about whether one AI company might buy another AI company.",
-      "why_it_matters": "This is rumors among investors and tech insiders — nothing that affects you right now."
+      "date": "2026-07-22T16:13:30.000Z",
+      "simple_summary": "OpenAI plans to spend $750 billion building computers and buildings for AI through 2030 (that's more money than entire countries spend).",
+      "why_it_matters": "This is a business story showing how much money AI companies are investing — mostly relevant to investors, not to everyday users."
+    },
+    {
+      "title": "Amazon Cuts Jobs in Artificial General Intelligence Unit",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5",
+      "source": "WSJ",
+      "date": "2026-07-22T15:44:00.000Z",
+      "simple_summary": "Amazon is cutting some jobs in the part of the company working on artificial general intelligence.",
+      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
+    },
+    {
+      "title": "Amazon cuts jobs in its artificial general intelligence group",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-22T15:30:10.000Z",
+      "simple_summary": "Amazon is reducing jobs in its artificial general intelligence group.",
+      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
     }
   ]
 }
