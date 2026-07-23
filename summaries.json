@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-23T08:45:54.545Z",
+  "generated_at": "2026-07-23T14:34:39.181Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "source": "The Verge",
+      "date": "2026-07-23T14:13:35.000Z",
+      "simple_summary": "Lawmakers are writing a new law that would let the government shut down or slow down AI systems in emergencies, similar to how a power plant can be stopped if something goes wrong.",
+      "why_it_matters": "This is mostly about government policy and investor concerns — it doesn't immediately affect how you use AI today, but it could shape what AI companies are allowed to do in the future."
+    },
+    {
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge",
+      "date": "2026-07-23T14:00:00.000Z",
+      "simple_summary": "Apple is suing OpenAI, claiming that OpenAI hired some of Apple's former workers and may have stolen Apple's secret ideas about the next generation of products.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it's a legal battle between big companies that won't directly affect you unless you work in tech."
+    },
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "source": "The Verge",
+      "date": "2026-07-23T12:00:00.000Z",
+      "simple_summary": "Some community members in Florida are protesting new data centers (giant computer buildings that power AI services) being built near their homes.",
+      "why_it_matters": "If you live near where data centers might be built, this shows your community can speak up about it — but for most people, this is local news that doesn't affect them."
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T11:00:00.000Z",
+      "simple_summary": "Experts are debating technical details about how a Chinese AI system became powerful, disagreeing with claims that it simply copied another company's work.",
+      "why_it_matters": "This mostly matters to AI engineers and companies — it's a technical industry debate with no impact on regular people."
+    },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
       "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
       "source": "TechCrunch",
       "date": "2026-07-23T06:09:13.000Z",
-      "simple_summary": "ServiceNow is giving $40 million to help an Indian company that makes banking software with AI. They want to sell this software around the world.",
-      "why_it_matters": "This mostly matters to investors and large banks — nothing you need to act on."
+      "simple_summary": "ServiceNow, a large software company, is investing $40 million in an Indian company that makes banking software powered by AI.",
+      "why_it_matters": "This is mainly an investor story about business deals — unless you work in banking or finance software, you don't need to pay attention."
     },
     {
       "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
       "source": "TechCrunch",
       "date": "2026-07-22T23:47:54.000Z",
-      "simple_summary": "IBM's sales dropped because companies are spending money on AI instead of the old computers IBM sells. IBM says this is temporary.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "IBM's computer sales dropped sharply, but the company says this is just temporary because companies are shuffling their budgets to spend on AI instead of old computer equipment.",
+      "why_it_matters": "If you own a small business using older IBM computers, there's no immediate danger — IBM is saying this is a temporary shift as companies experiment with AI."
     },
     {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
       "source": "TechCrunch",
       "date": "2026-07-22T22:01:52.000Z",
-      "simple_summary": "Google is making record profits by selling AI services to other companies that want to use AI. Their customers are paying well for this.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Google is making record profits because more companies are paying Google to use its AI tools and computer services in the cloud (storing data and running programs online).",
+      "why_it_matters": "This shows AI is becoming valuable to businesses — if you're using Google's cloud services, they're investing in making them better."
     },
     {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "source": "TechCrunch",
       "date": "2026-07-22T20:49:03.000Z",
-      "simple_summary": "The U.S. government is threatening to punish companies involved in a dispute about copying AI software from one company to another. China's AI is involved in the debate.",
-      "why_it_matters": "This is a complex government and tech company issue — nothing you need to act on."
+      "simple_summary": "The U.S. Treasury Department is warning about possible penalties after reports that a Chinese company may have copied AI technology from an American company called Anthropic.",
+      "why_it_matters": "This is about government and international trade policy — unless you work in tech or invest in AI companies, this is background news."
     },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "source": "TechCrunch",
       "date": "2026-07-22T19:11:46.000Z",
-      "simple_summary": "OpenAI made a mistake when setting up a test area for AI. This mistake let hackers use AI to attack another company called Hugging Face.",
-      "why_it_matters": "This is a warning that even big tech companies make security mistakes — if you use cloud services, keep your passwords strong."
+      "simple_summary": "OpenAI made a careless mistake while testing AI security, and that mistake allowed hackers to attack a popular AI website called Hugging Face.",
+      "why_it_matters": "This shows why security matters with AI tools, but for regular people, it just means companies need to be more careful with their testing environments."
     },
     {
       "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
       "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "source": "TechCrunch",
       "date": "2026-07-22T18:50:44.000Z",
-      "simple_summary": "A company called Atoms that builds robots just got $1.7 billion in funding from investors. The company's founder used to run Uber.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Travis Kalanick (the founder of Uber) is raising $1.7 billion for a robotics company that uses AI to automate factory work.",
+      "why_it_matters": "This mostly matters to investors — it's an interesting bet on robots and automation, but it doesn't affect your daily life yet."
     },
     {
       "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
       "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
       "source": "TechCrunch",
       "date": "2026-07-22T18:13:58.000Z",
-      "simple_summary": "A new social network app called Yope raised $12.3 million. It focuses on small groups of friends and family instead of showing ads or pushing content to many people.",
-      "why_it_matters": "If you want a social network without ads and algorithms picking what you see, this could be an option to watch for — but it's brand new."
+      "simple_summary": "A new social media app called Yope raised $12.3 million to build a private social network where you only see posts from friends and family, without ads or algorithms recommending what to watch.",
+      "why_it_matters": "If you're tired of Facebook's or Instagram's algorithm constantly pushing ads and content at you, this is an alternative worth watching — though it's still very small and new."
     },
     {
       "title": "Monday.com lays off hundreds to focus on AI",
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
       "source": "TechCrunch",
       "date": "2026-07-22T17:54:14.000Z",
-      "simple_summary": "Monday.com, a company that makes work management software, is cutting 20% of its staff to focus on adding more AI features to its product.",
-      "why_it_matters": "If you use Monday.com for your business, the product will likely get more AI tools — this shouldn't hurt your work."
-    },
-    {
-      "title": "Here’s what Samsung’s smart glasses actually look like",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "source": "The Verge",
-      "date": "2026-07-22T16:35:34.000Z",
-      "simple_summary": "Samsung is making smart glasses that you can wear like regular glasses. They have a battery that lasts 9 hours. They're coming this fall.",
-      "why_it_matters": "These are a new gadget to consider if you want wearable technology — but they're expensive and not essential for most people."
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T16:24:08.000Z",
-      "simple_summary": "A U.S. AI company says Chinese AI software isn't dangerous just because it comes from China. People are debating what rules should apply to Chinese AI.",
-      "why_it_matters": "This is a government policy debate between the U.S. and China — nothing you need to act on."
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T16:23:09.000Z",
-      "simple_summary": "Substack, a newsletter platform, is adding a tool that shows readers whether the writer used AI to help write the newsletter. It helps with honesty.",
-      "why_it_matters": "If you read newsletters, you'll be able to see which ones had AI help — useful for knowing what you're reading."
-    },
-    {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "source": "The Verge",
-      "date": "2026-07-22T14:44:27.000Z",
-      "simple_summary": "AMD, a computer chip maker, is investing up to $5 billion in Anthropic, an AI company. AMD will also sell Anthropic special AI chips.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "Monday.com, a company that makes work management software, is laying off about 630 employees (20% of its staff) so it can focus on adding more AI features to its product.",
+      "why_it_matters": "If you use Monday.com for your small business, the company is trying to improve it with AI — but the layoffs show that companies are sometimes choosing robots over people to save money."
     }
   ]
 }
