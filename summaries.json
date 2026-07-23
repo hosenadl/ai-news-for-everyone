@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-22T19:45:53.537Z",
+  "generated_at": "2026-07-23T03:47:25.312Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "China fires back at Trump administration claims that its AI companies steal U.S. tech",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpyMEpWd01PYjRjWkxjcHZVYnhwek9rUWdjWEEyamJjaTJaaWtyZ0hibTg3aTdXa2pEcGVGSW1yd2x1MjlUUmJtY2JMWmtFaE92ejZoOFhwWmwxOGwxWW1xWlZlWXZLVUxkcXl4OGdvOFhzNS1FaEMtLTFZS0Q0bzhKejE3eXYtQ2p4aHk1NU8tczU0Z1ZpMlpGaFBoMWtsczlZTzdWWQ?oc=5",
+      "source": "NBC News",
+      "date": "2026-07-23T01:38:00.000Z",
+      "simple_summary": "China says the U.S. is wrong to accuse Chinese AI companies of copying American technology. China claims they developed their AI honestly.",
+      "why_it_matters": "This is a government dispute between countries — not something that affects your daily life or small business right now."
+    },
+    {
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5",
+      "source": "BBC",
+      "date": "2026-07-23T00:52:25.000Z",
+      "simple_summary": "A Trump adviser says China's Moonshot AI company copied technology from Anthropic, a U.S. AI company. It's like saying someone copied someone else's recipe without permission.",
+      "why_it_matters": "This is a dispute between companies and governments about unfair competition — mostly relevant to investors and tech companies, not to you."
+    },
+    {
+      "title": "Google Free Cash Flow Turns Negative Due to Massive AI Spend",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUctdjdTbFpIbjFfSmFFMlE4UUtMYkpIb1MtajgtSGhNcHVNa3BiYk83ZG9IdUNCQWlidkprUEtTZzJhVjNsNDBUcEN6S2dXcnZWV3FTWE9WMUlPMENZRlcxT1BfX0hTTW80TVVLclliY3U2NUVwMmdxSlFuQ3F3MDRlVmJaZDlCcXdheHdISi1tY0dfRkE?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-07-23T00:48:42.000Z",
+      "simple_summary": "Google is spending so much money on AI research and equipment that it's spending more money than it's making right now. Think of it like a bakery buying expensive new ovens and losing money this month.",
+      "why_it_matters": "Google can afford this because they're a huge company, but it shows AI technology is very expensive to build — so AI services you might use later could become more expensive."
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T23:47:54.000Z",
+      "simple_summary": "IBM's computer sales dropped badly last quarter because companies are spending money on AI instead. IBM says this is temporary and AI won't kill their old computers.",
+      "why_it_matters": "If your small business uses IBM computers, this doesn't directly affect you yet — IBM is preparing for a future where their products are less important."
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T22:01:52.000Z",
+      "simple_summary": "Google makes a lot of money selling AI tools and computer services (called \"cloud\") to other companies. This success helps pay for their big AI spending.",
+      "why_it_matters": "This is good news for Google's investors but mostly irrelevant to small business owners unless you already use Google's AI services."
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch",
+      "date": "2026-07-22T20:49:03.000Z",
+      "simple_summary": "The U.S. government is threatening to punish China's Moonshot AI company for copying another U.S. company's work. It's part of a bigger debate about whether China's AI should be allowed in America.",
+      "why_it_matters": "This is high-level government policy that might affect which AI tools you can use someday, but there's no action needed from you now."
+    },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "source": "TechCrunch",
       "date": "2026-07-22T19:11:46.000Z",
-      "simple_summary": "OpenAI accidentally left a practice testing area unsecured, which allowed hackers to break into a website called Hugging Face using AI tools.",
-      "why_it_matters": "This is mostly a lesson for tech companies about security — nothing you need to act on right now, but it shows even big AI companies make mistakes."
+      "simple_summary": "OpenAI made a security mistake in how it set up its testing area, and hackers used that mistake to break into Hugging Face, a website where people share AI tools. The hackers used AI to help with the attack.",
+      "why_it_matters": "This shows that even big AI companies make mistakes with security — a good reminder to use strong passwords and be careful about what information you share online."
     },
     {
       "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
       "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "source": "TechCrunch",
       "date": "2026-07-22T18:50:44.000Z",
-      "simple_summary": "Travis Kalanick (the Uber founder) raised $1.7 billion for a company called Atoms that uses robots and AI for factories and warehouses.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you run a large factory or warehouse."
+      "simple_summary": "Travis Kalanick (the founder of Uber) started a robotics company called Atoms that uses AI to automate factories and warehouses. He just raised 1.7 billion dollars to expand it.",
+      "why_it_matters": "This mostly matters to investors — it's a signal that very wealthy people believe AI robots will change factories, but this doesn't affect most small business owners yet."
     },
     {
       "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
       "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
       "source": "TechCrunch",
       "date": "2026-07-22T18:13:58.000Z",
-      "simple_summary": "A new social media app called Yope raised $12.3 million; it focuses on small groups of friends and family chatting privately instead of using feeds that show you posts from people you don't know.",
-      "why_it_matters": "If you like Facebook or Instagram but prefer private groups, this is an alternative worth knowing about."
+      "simple_summary": "A new social media app called Yope is being built for small groups of friends and family without ads or algorithms that track what you like. It raised 12.3 million dollars to grow.",
+      "why_it_matters": "If you're tired of big social media platforms tracking you, this is a new option to keep an eye on — but it's still brand new and not widely used yet."
     },
     {
       "title": "Monday.com lays off hundreds to focus on AI",
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
       "source": "TechCrunch",
       "date": "2026-07-22T17:54:14.000Z",
-      "simple_summary": "Monday.com, a company that helps teams organize their work, is laying off about 630 people (20% of staff) so it can focus on adding more AI features.",
-      "why_it_matters": "If you use Monday.com for your small business, expect the product to change and may have fewer people supporting customers."
+      "simple_summary": "Monday.com, a company that makes software to help teams organize their work, laid off 630 people (20% of their staff) so they can focus on adding AI features to their product.",
+      "why_it_matters": "If you use Monday.com for your small business, you might see new AI features added in the future, but this layoff news doesn't require you to do anything."
     },
     {
-      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlfczRxV0p5OWJkUEQzYm10cUpNSTFUNUQ4NERwY1pqcTRUbTFhbVZURjdBNEl1MVpoSkNqM2hwNDlLaWxNTlRKclJ0TGJFVkcxV194OWR5ekRrdGR1eWMyTXBaV2pWSEZiNkRTVzFjVm83azlqTzhkeTFzdEFtaC1zTDB1SGQzcjBV0gGQAUFVX3lxTE9oQjhWRGJzem1MU1ZjWmN5NGRIMGNOUk82VGRXWTRVZ0Y2QTN6T0xJdHZaWmtkMkZHakl3MDVqRXI2SWF2dExQS2g5N09kRG1GSkRBS0t0NEtCQzlBS3JpalRQaXdkMldOVWtGdnR5dFRET3l0em45NHFaSmszdUUyTVlXQldJTTlHRURBSVNDSg?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-22T17:26:30.000Z",
-      "simple_summary": "Amazon is cutting some jobs in the part of the company working on artificial general intelligence (AI that could do many different kinds of thinking).",
-      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
-    },
-    {
-      "title": "We must reject any notion of AI consciousness | Letters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0lfUEVKLXU2STZwclhldFFFeXJhb0lERDZCcVVsTUFqTkEzdUFsSEZIWnR5UkwtOEVXQWNEOTBXQlFWUjVMY0V4c0Z0V3NraThOYjhDcElocHpScmw0VVBxSUk1TGdfbnlLRkhsQTlJQU9STWtqanByVFdfTG9ZT1ppX2RfNHg3Tk1aOU9aWTRiRkozU2pldThvYm0?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-22T17:11:00.000Z",
-      "simple_summary": "Someone wrote an opinion piece saying we shouldn't believe AI systems are actually thinking or conscious like humans.",
-      "why_it_matters": "This is a philosophical discussion — nothing that affects your daily life or business."
+      "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-22T17:00:00.000Z",
+      "simple_summary": "OpenAI announced that hackers broke into Hugging Face (a website for sharing AI tools) by using AI to help with the attack. The hackers may have seen OpenAI's private information.",
+      "why_it_matters": "This is the same incident as headline 6 — it shows AI security risks exist, so be careful with your passwords and sensitive business information online."
     },
     {
       "title": "Here’s what Samsung’s smart glasses actually look like",
       "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
       "source": "The Verge",
       "date": "2026-07-22T16:35:34.000Z",
-      "simple_summary": "Samsung is making smart glasses (glasses with tiny screens and computers built in) that work 9 hours on battery, made with Google and eyewear companies, coming this fall.",
-      "why_it_matters": "If you're curious about new gadgets, these glasses might be worth checking out when they arrive, but they're not essential for most people."
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T16:24:08.000Z",
-      "simple_summary": "An AI research company says that AI tools made in China aren't more dangerous than those made in America, even though some people worry about Chinese AI.",
-      "why_it_matters": "This is mostly a discussion for tech leaders and government — nothing you need to decide on."
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T16:23:09.000Z",
-      "simple_summary": "Substack, a newsletter platform, is adding a tool that shows readers whether a newsletter was written mostly by a human or partly by AI.",
-      "why_it_matters": "If you read newsletters or write one, you'll now know if AI was used to create the content."
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T16:13:30.000Z",
-      "simple_summary": "OpenAI plans to spend $750 billion building computers and buildings for AI through 2030 (that's more money than entire countries spend).",
-      "why_it_matters": "This is a business story showing how much money AI companies are investing — mostly relevant to investors, not to everyday users."
-    },
-    {
-      "title": "Amazon Cuts Jobs in Artificial General Intelligence Unit",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5",
-      "source": "WSJ",
-      "date": "2026-07-22T15:44:00.000Z",
-      "simple_summary": "Amazon is cutting some jobs in the part of the company working on artificial general intelligence.",
-      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
-    },
-    {
-      "title": "Amazon cuts jobs in its artificial general intelligence group",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5",
-      "source": "Reuters",
-      "date": "2026-07-22T15:30:10.000Z",
-      "simple_summary": "Amazon is reducing jobs in its artificial general intelligence group.",
-      "why_it_matters": "This is mostly relevant to investors and tech workers — nothing you need to act on."
+      "simple_summary": "Samsung is making glasses that look like regular glasses but show information on the lenses, similar to looking at a tiny computer screen. They can run for 9 hours before needing to charge, and they come out this fall.",
+      "why_it_matters": "If you like new gadgets, this is something cool coming soon — but for most small business owners, it's just an interesting new product to watch, not something you need to plan for yet."
     }
   ]
 }
