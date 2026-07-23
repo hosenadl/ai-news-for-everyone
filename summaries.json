@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-23T14:34:39.181Z",
+  "generated_at": "2026-07-23T19:47:37.193Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T19:00:00.000Z",
+      "simple_summary": "Anthropic has improved Claude, their AI assistant, so it now works better when you talk to it by voice. It can help you reschedule meetings or write emails by listening to what you say.",
+      "why_it_matters": "If you use voice assistants and want one that understands speech better, this is a small improvement — but most small-business owners won't notice a big difference yet."
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge",
+      "date": "2026-07-23T19:00:00.000Z",
+      "simple_summary": "Anthropic is adding voice mode to two of their smarter AI models (Opus and Sonnet) and making it work with popular tools like Gmail and Slack.",
+      "why_it_matters": "If you already use AI assistants at work, this means more options for talking to them instead of typing — but it's mostly a convenience upgrade."
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T18:38:34.000Z",
+      "simple_summary": "A new company called AegisAI, founded by former Google security experts, has received $36 million to build AI tools that catch fake phishing emails — messages that trick people into revealing passwords or information.",
+      "why_it_matters": "If you run a business, this could eventually help protect your employees from email scams, though this news is mainly for big companies right now."
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "source": "The Verge",
+      "date": "2026-07-23T18:20:30.000Z",
+      "simple_summary": "Patreon, a website where creators get paid by fans, is firing about 93 employees because AI has changed how the company works.",
+      "why_it_matters": "This doesn't directly affect you unless you're a Patreon creator, but it shows many companies are using AI to do work that people used to do."
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T17:07:35.000Z",
+      "simple_summary": "Runway, a company that makes AI video and image tools, has created a new system that automatically picks the fastest or cheapest AI model for whatever job you need done.",
+      "why_it_matters": "This is mainly for software developers and companies making creative tools — nothing you need to worry about as a small-business owner."
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T17:00:00.000Z",
+      "simple_summary": "OpenAI has made ChatGPT Health available to everyone in the US, so you can connect it to your health data from apps like Apple Health and fitness trackers.",
+      "why_it_matters": "If you want an AI tool to help you understand your health and fitness information, this is now available, but remember it's not a replacement for a real doctor."
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "source": "The Verge",
+      "date": "2026-07-23T17:00:00.000Z",
+      "simple_summary": "OpenAI is telling people that its AI can now reason about health questions as well as or better than doctors.",
+      "why_it_matters": "These are big claims that haven't been proven yet — be cautious about relying on AI for serious health decisions instead of seeing an actual doctor."
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T16:28:50.000Z",
+      "simple_summary": "Meta made an advertisement about how great AI is, but they used a famous song that's actually about the world ending in five years.",
+      "why_it_matters": "This is just a funny mistake Meta made in their advertising — it doesn't affect you, but shows they weren't thinking carefully about their message."
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T15:00:00.000Z",
+      "simple_summary": "Nvidia is sending computer chips called GPUs (the processors that power AI) to the moon.",
+      "why_it_matters": "This is interesting news for space exploration, but it's mainly a story about Nvidia's business — nothing that changes your life."
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T15:00:00.000Z",
+      "simple_summary": "A new AI chip company called Etched has raised money and is now worth over $10 billion because they claim to have made chips that work faster than the ones Nvidia sells.",
+      "why_it_matters": "This mostly matters to investors — unless you run a huge company that uses lots of AI, this competition between chip makers won't affect you."
+    },
+    {
+      "title": "Google’s Gemini nears billion-user milestone",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T14:52:44.000Z",
+      "simple_summary": "Google's Gemini AI tool now has over 750 million monthly users and is getting close to a billion.",
+      "why_it_matters": "This shows how popular AI assistants are becoming, but it's mainly a business milestone — nothing new for you to use."
+    },
     {
       "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
       "source": "The Verge",
       "date": "2026-07-23T14:13:35.000Z",
-      "simple_summary": "Lawmakers are writing a new law that would let the government shut down or slow down AI systems in emergencies, similar to how a power plant can be stopped if something goes wrong.",
-      "why_it_matters": "This is mostly about government policy and investor concerns — it doesn't immediately affect how you use AI today, but it could shape what AI companies are allowed to do in the future."
-    },
-    {
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge",
-      "date": "2026-07-23T14:00:00.000Z",
-      "simple_summary": "Apple is suing OpenAI, claiming that OpenAI hired some of Apple's former workers and may have stolen Apple's secret ideas about the next generation of products.",
-      "why_it_matters": "This mostly matters to investors and tech workers — it's a legal battle between big companies that won't directly affect you unless you work in tech."
-    },
-    {
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "source": "The Verge",
-      "date": "2026-07-23T12:00:00.000Z",
-      "simple_summary": "Some community members in Florida are protesting new data centers (giant computer buildings that power AI services) being built near their homes.",
-      "why_it_matters": "If you live near where data centers might be built, this shows your community can speak up about it — but for most people, this is local news that doesn't affect them."
-    },
-    {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T11:00:00.000Z",
-      "simple_summary": "Experts are debating technical details about how a Chinese AI system became powerful, disagreeing with claims that it simply copied another company's work.",
-      "why_it_matters": "This mostly matters to AI engineers and companies — it's a technical industry debate with no impact on regular people."
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T06:09:13.000Z",
-      "simple_summary": "ServiceNow, a large software company, is investing $40 million in an Indian company that makes banking software powered by AI.",
-      "why_it_matters": "This is mainly an investor story about business deals — unless you work in banking or finance software, you don't need to pay attention."
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T23:47:54.000Z",
-      "simple_summary": "IBM's computer sales dropped sharply, but the company says this is just temporary because companies are shuffling their budgets to spend on AI instead of old computer equipment.",
-      "why_it_matters": "If you own a small business using older IBM computers, there's no immediate danger — IBM is saying this is a temporary shift as companies experiment with AI."
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T22:01:52.000Z",
-      "simple_summary": "Google is making record profits because more companies are paying Google to use its AI tools and computer services in the cloud (storing data and running programs online).",
-      "why_it_matters": "This shows AI is becoming valuable to businesses — if you're using Google's cloud services, they're investing in making them better."
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T20:49:03.000Z",
-      "simple_summary": "The U.S. Treasury Department is warning about possible penalties after reports that a Chinese company may have copied AI technology from an American company called Anthropic.",
-      "why_it_matters": "This is about government and international trade policy — unless you work in tech or invest in AI companies, this is background news."
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T19:11:46.000Z",
-      "simple_summary": "OpenAI made a careless mistake while testing AI security, and that mistake allowed hackers to attack a popular AI website called Hugging Face.",
-      "why_it_matters": "This shows why security matters with AI tools, but for regular people, it just means companies need to be more careful with their testing environments."
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T18:50:44.000Z",
-      "simple_summary": "Travis Kalanick (the founder of Uber) is raising $1.7 billion for a robotics company that uses AI to automate factory work.",
-      "why_it_matters": "This mostly matters to investors — it's an interesting bet on robots and automation, but it doesn't affect your daily life yet."
-    },
-    {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T18:13:58.000Z",
-      "simple_summary": "A new social media app called Yope raised $12.3 million to build a private social network where you only see posts from friends and family, without ads or algorithms recommending what to watch.",
-      "why_it_matters": "If you're tired of Facebook's or Instagram's algorithm constantly pushing ads and content at you, this is an alternative worth watching — though it's still very small and new."
-    },
-    {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "source": "TechCrunch",
-      "date": "2026-07-22T17:54:14.000Z",
-      "simple_summary": "Monday.com, a company that makes work management software, is laying off about 630 employees (20% of its staff) so it can focus on adding more AI features to its product.",
-      "why_it_matters": "If you use Monday.com for your small business, the company is trying to improve it with AI — but the layoffs show that companies are sometimes choosing robots over people to save money."
+      "simple_summary": "Some lawmakers are preparing a new law that would let the government shut down or slow down AI systems in emergencies, similar to how they can control other dangerous things.",
+      "why_it_matters": "This is about government regulation of AI — if passed, it could eventually make AI companies more responsible, but it's too early to know if or when this would actually happen."
     }
   ]
 }
