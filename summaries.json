@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-24T08:44:21.994Z",
+  "generated_at": "2026-07-24T14:14:57.552Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch",
+      "date": "2026-07-24T13:36:42.000Z",
+      "simple_summary": "You can now use ChatGPT's voice feature (talking instead of typing) on your computer, just like you could on your phone. It can do things like follow spoken instructions and control other apps.",
+      "why_it_matters": "If you use ChatGPT on your computer, you now have the option to talk to it instead of typing — helpful if you prefer speaking or if your hands are busy."
+    },
+    {
+      "title": "Is SpaceX Stake Google's Artificial Intelligence Piggy Bank?",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFdMZHZ4NDZoOWF1b09kUTBWZnpqUkRIZFI2dFRxMWpKRlNsb0xzTlYzWk81aS1Wc2M1NmEwT0FDdDY2VnhacnhrWjZEYlprT2lINExwYXduTjR4TVBpNURHRjZXSUNNVGxGSDlhMl9kcWY5cVl0cm16djJCb2tHc1V4MVJXbHZEYkVReDNXcG5jVDhWQy11VTZNS3RzUkNncmc1emlvMHFScEhvRVE?oc=5",
+      "source": "Investor's Business Daily",
+      "date": "2026-07-24T12:01:00.000Z",
+      "simple_summary": "A headline asking whether Elon Musk's SpaceX company is providing money to help Google with artificial intelligence.",
+      "why_it_matters": "This mostly matters to investors and tech watchers — nothing you need to act on."
+    },
+    {
+      "title": "As AI grows more powerful, a US-China feud threatens safety efforts",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-24T09:03:17.000Z",
+      "simple_summary": "The United States and China are fighting over how to make AI safer, and the disagreement is making it harder for both countries to work on safety problems together.",
+      "why_it_matters": "This is about government and international relations — mostly doesn't affect ordinary people or small businesses right now."
+    },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
       "source": "TechCrunch",
       "date": "2026-07-24T01:00:00.000Z",
-      "simple_summary": "Security researchers who test software for weaknesses say that AI safety rules from companies like OpenAI are making their job harder because the AI won't help them do certain types of testing.",
-      "why_it_matters": "This mostly matters to tech security professionals — nothing you need to act on."
+      "simple_summary": "Companies like OpenAI are putting safety restrictions on their AI to prevent misuse, and this is making it harder for computer security researchers who need to test how systems can be broken into and fixed.",
+      "why_it_matters": "This mostly matters to engineers and security experts — nothing you need to act on."
+    },
+    {
+      "title": "Parents: Teen boy used AI to create sexually explicit images of their daughters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2tjM2pIQTZ2eTctMFdFTlR4OVF2WDNCanRPSUd4MTN3WklBS01FdkxnSXdKNXBieHd6Zl9WVFpBTG8zNzVDcUNZMXdrb0ZjMFIxOTRQM2NWUld4SS00ZkJyWjNiSHFTblhZcUJpLVNtMFlqa2xuWklBX0twMnlZZVdTMFNyWktkbXh2TkY1djZOeWJwc290UHhUS2ctTjFfQW9YdkJaUFlLRXJ1NXBranNZY1RIY2VLNV9vZEhaX3g?oc=5",
+      "source": "WRAL",
+      "date": "2026-07-23T22:12:17.000Z",
+      "simple_summary": "A teenager used artificial intelligence tools to create harmful explicit images of real girls without permission.",
+      "why_it_matters": "This matters to parents: AI tools are being misused to hurt young people, so it's important to know what your kids are doing online."
     },
     {
       "title": "Amazon confirms new AI-related layoffs focused on tech giant's own AI division",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOalpRQkNtZjFObXk5SEsyN3o4ZG40LVNqbnFfekJUcjYtWWY4WWxBeUZDZ0lKM2hNTHVCVWR1SElrRDR2dHFoOFdpTGd2Nmgxcm9LNlJvMXowYkVmOWdGazVyc0QwQ21EZ3dhUXBYUGJtaW03bWgzbzBHZ2VGZWs4NF9qc0dIVTJnZVJQRVZuRG0zSjhXWmxlcXk5ZXFCVEQ1bVBUOUN0WUxaajlyTGdVdEhfY3FiSXQxcW5UeHM3V2VQTFlvZk9xX3BmZC1sQzhXTkxGbUxrU21BZXpPMVhxR3NtQW41NkRhZjh1Q21wN2ZJNHNrRllFVGpCQXY5WndJdlJZczktcHpXcF9ScHFzYVFnajZUc3BxNUVlb0VJSlYyWkZBRG5VVldDUEZLRFgxOUg3ZEQ2ZlRLaEpEeHNWQ2NYSEhwbkVReGR1Y1hsbE5seEY4aWN0NlZ4RFRLZHJoTExFOVNiOA?oc=5",
       "source": "KOMO",
       "date": "2026-07-23T21:35:07.000Z",
-      "simple_summary": "Amazon is cutting jobs in the division that builds its own AI systems.",
-      "why_it_matters": "This mostly matters to investors and people in the tech industry — it doesn't directly affect how you use Amazon's services."
+      "simple_summary": "Amazon is laying off some of its employees who work on artificial intelligence projects.",
+      "why_it_matters": "This mostly matters to Amazon employees and investors — nothing that directly affects customers or small business owners."
     },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
       "source": "The Verge",
       "date": "2026-07-23T21:15:06.000Z",
-      "simple_summary": "Amazon's Alexa voice assistant is getting smarter so it can understand more complicated requests and work with more smart home devices like door locks and thermostats.",
-      "why_it_matters": "If you use Alexa with smart home gadgets, it may soon understand your requests better without you having to repeat yourself."
-    },
-    {
-      "title": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZFJnRzEzWG5aR0pVLTdCbjNtOXpLdmJiQVRxXzI1RVlJQzJycnc5V0p6V2RIb2VZZzM2VHNaUk9Ed1BlZ2haSmtHeFhUVlRtY1dFdlpKWHRBQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-07-23T20:58:35.000Z",
-      "simple_summary": "US lawmakers want to create a way to shut down AI systems if they go wrong, after a recent incident with OpenAI.",
-      "why_it_matters": "This is about future safety rules that may be created — nothing you need to do right now."
+      "simple_summary": "Amazon's Alexa voice assistant is getting smarter and can now control more brands of smart home devices (like robot vacuums, door locks, and appliances) with more complicated instructions.",
+      "why_it_matters": "If you own smart home devices from these brands, you may soon be able to control them more easily by talking to Alexa."
     },
     {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "source": "TechCrunch",
       "date": "2026-07-23T20:33:02.000Z",
-      "simple_summary": "AMD, a computer chip maker, is releasing a new system to compete with Nvidia's chips that power AI computers.",
-      "why_it_matters": "This mostly matters to investors and large tech companies — nothing you need to act on."
+      "simple_summary": "Computer chip maker AMD is releasing new powerful equipment to compete with rival Nvidia in the market for machines that run large artificial intelligence systems.",
+      "why_it_matters": "This mostly matters to companies and investors buying very expensive AI equipment — nothing you need to act on."
     },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch",
       "date": "2026-07-23T19:00:00.000Z",
-      "simple_summary": "Anthropic improved its Claude voice assistant so you can talk to it to reschedule meetings, write emails, and do other tasks.",
-      "why_it_matters": "If you use Claude, you can now talk to it by voice to handle everyday tasks like you would ask a helpful assistant."
+      "simple_summary": "Anthropic (a company that makes AI) updated its voice assistant so you can talk to it to reschedule meetings or write emails.",
+      "why_it_matters": "If you use Anthropic's Claude AI, you can now speak to it instead of typing, and it can help with tasks like writing emails."
     },
     {
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "source": "The Verge",
       "date": "2026-07-23T19:00:00.000Z",
-      "simple_summary": "Anthropic is now letting more people use Claude's voice feature with its more powerful versions, and it works with apps like Gmail and Slack.",
-      "why_it_matters": "If you use these apps and want to talk instead of type, Claude's voice option may soon be available to you."
+      "simple_summary": "Anthropic made its voice feature available for more powerful versions of its Claude AI assistant and added it to popular apps like Gmail, Slack, and Canva.",
+      "why_it_matters": "If you use these apps and have access to Claude, you can now talk to the AI helper instead of typing in more of these places."
     },
     {
       "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "source": "TechCrunch",
       "date": "2026-07-23T18:38:34.000Z",
-      "simple_summary": "A new company founded by former Google engineers created AI tools to catch phishing emails — messages that trick you into revealing passwords or money.",
-      "why_it_matters": "This could help protect your business or personal email from scams, though it's early and mainly aimed at companies right now."
+      "simple_summary": "A new company founded by former Google security experts raised $36 million to build AI tools that catch fake phishing emails (messages designed to trick you into giving up passwords or information).",
+      "why_it_matters": "This could help protect your business or personal email from scammers pretending to be someone they're not."
     },
     {
       "title": "Patreon is laying off 20 percent of workers",
       "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
       "source": "The Verge",
       "date": "2026-07-23T18:20:30.000Z",
-      "simple_summary": "Patreon, a website where creators get paid by fans, is laying off 20 percent of its workers partly because AI has changed how the company works.",
-      "why_it_matters": "If you're a content creator using Patreon, this doesn't immediately affect your account, but shows how AI is changing tech companies."
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T17:07:35.000Z",
-      "simple_summary": "A company called Runway created a tool that automatically picks the best AI system to generate images, videos, or audio based on what you need — fast, good quality, or cheap.",
-      "why_it_matters": "This mostly matters to developers and creative companies using AI tools — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T17:00:00.000Z",
-      "simple_summary": "OpenAI released ChatGPT Health to all US users, letting you connect your health records and fitness data to the chatbot for health advice.",
-      "why_it_matters": "If you use ChatGPT, you can now share your health information with it to get personalized wellness guidance, though you should still talk to a real doctor for medical issues."
-    },
-    {
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "source": "The Verge",
-      "date": "2026-07-23T17:00:00.000Z",
-      "simple_summary": "OpenAI says its ChatGPT Health can give medical advice at levels as good as a real doctor, and it's now available to everyone in the US.",
-      "why_it_matters": "Be careful — while AI can give general health information, it should not replace visiting your actual doctor for diagnosis and treatment."
+      "simple_summary": "Patreon, a website where creators get money from fans, is laying off about 20 percent of its employees. The CEO says AI has changed how the tech industry works.",
+      "why_it_matters": "If you're a creator on Patreon, this doesn't immediately affect how the service works for you — this is mostly a business decision."
     }
   ]
 }
