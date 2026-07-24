@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-23T19:47:37.193Z",
+  "generated_at": "2026-07-24T03:46:23.232Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch",
+      "date": "2026-07-24T01:00:00.000Z",
+      "simple_summary": "Some AI safety companies are making it harder for cybersecurity researchers to test their tools because they're worried about misuse. The researchers say this makes it tougher to find bugs and protect computers.",
+      "why_it_matters": "This mostly matters to tech security professionals — nothing you need to act on."
+    },
+    {
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge",
+      "date": "2026-07-23T21:15:06.000Z",
+      "simple_summary": "Amazon is making Alexa (the voice assistant) smarter so it can control more types of smart home devices like door locks and vacuum cleaners.",
+      "why_it_matters": "If you have smart home devices, Alexa will soon work with more of them without you having to set things up manually."
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch",
+      "date": "2026-07-23T20:33:02.000Z",
+      "simple_summary": "AMD (a computer chip company) is launching a new powerful computer system to compete with Nvidia, another chip maker.",
+      "why_it_matters": "This mostly matters to investors and large tech companies — nothing you need to act on."
+    },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch",
       "date": "2026-07-23T19:00:00.000Z",
-      "simple_summary": "Anthropic has improved Claude, their AI assistant, so it now works better when you talk to it by voice. It can help you reschedule meetings or write emails by listening to what you say.",
-      "why_it_matters": "If you use voice assistants and want one that understands speech better, this is a small improvement — but most small-business owners won't notice a big difference yet."
+      "simple_summary": "Anthropic's Claude AI voice assistant is getting better at understanding complicated spoken requests, like rescheduling meetings or writing emails.",
+      "why_it_matters": "If you use Claude, it will soon be easier to give it voice commands for everyday tasks instead of typing."
     },
     {
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "source": "The Verge",
       "date": "2026-07-23T19:00:00.000Z",
-      "simple_summary": "Anthropic is adding voice mode to two of their smarter AI models (Opus and Sonnet) and making it work with popular tools like Gmail and Slack.",
-      "why_it_matters": "If you already use AI assistants at work, this means more options for talking to them instead of typing — but it's mostly a convenience upgrade."
+      "simple_summary": "Claude's voice mode is now available on more powerful versions of the AI and can work with apps like Gmail and Slack.",
+      "why_it_matters": "If you use Claude through these apps, you can now speak to it instead of typing in more situations."
     },
     {
       "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "source": "TechCrunch",
       "date": "2026-07-23T18:38:34.000Z",
-      "simple_summary": "A new company called AegisAI, founded by former Google security experts, has received $36 million to build AI tools that catch fake phishing emails — messages that trick people into revealing passwords or information.",
-      "why_it_matters": "If you run a business, this could eventually help protect your employees from email scams, though this news is mainly for big companies right now."
+      "simple_summary": "A new company called AegisAI is using AI to catch fake emails and phishing scams by spotting unusual patterns.",
+      "why_it_matters": "Businesses should watch this — it could help protect your company email from criminals trying to trick employees into revealing passwords or money."
     },
     {
       "title": "Patreon is laying off 20 percent of workers",
       "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
       "source": "The Verge",
       "date": "2026-07-23T18:20:30.000Z",
-      "simple_summary": "Patreon, a website where creators get paid by fans, is firing about 93 employees because AI has changed how the company works.",
-      "why_it_matters": "This doesn't directly affect you unless you're a Patreon creator, but it shows many companies are using AI to do work that people used to do."
+      "simple_summary": "Patreon (a platform for creators to get paid by fans) is laying off about 20 percent of its workers, partly because AI has changed how the company operates.",
+      "why_it_matters": "This shows companies using AI to work more efficiently — it doesn't affect most small business owners unless you use Patreon."
     },
     {
       "title": "Runway launches AI model router as generative media gets crowded",
       "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "source": "TechCrunch",
       "date": "2026-07-23T17:07:35.000Z",
-      "simple_summary": "Runway, a company that makes AI video and image tools, has created a new system that automatically picks the fastest or cheapest AI model for whatever job you need done.",
-      "why_it_matters": "This is mainly for software developers and companies making creative tools — nothing you need to worry about as a small-business owner."
+      "simple_summary": "A company called Runway created a tool that automatically picks the best AI system to create images, videos, or audio depending on what you need.",
+      "why_it_matters": "This mostly matters to professional video and graphic designers — nothing you need to act on."
     },
     {
       "title": "OpenAI makes ChatGPT Health available to all US users",
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "source": "TechCrunch",
       "date": "2026-07-23T17:00:00.000Z",
-      "simple_summary": "OpenAI has made ChatGPT Health available to everyone in the US, so you can connect it to your health data from apps like Apple Health and fitness trackers.",
-      "why_it_matters": "If you want an AI tool to help you understand your health and fitness information, this is now available, but remember it's not a replacement for a real doctor."
+      "simple_summary": "OpenAI's ChatGPT now has a health tool that all US users can try, letting you share your Apple Health data and fitness information with it.",
+      "why_it_matters": "If you want health advice from an AI, you can now connect your fitness trackers to ChatGPT — but remember it's not a real doctor."
     },
     {
       "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
       "source": "The Verge",
       "date": "2026-07-23T17:00:00.000Z",
-      "simple_summary": "OpenAI is telling people that its AI can now reason about health questions as well as or better than doctors.",
-      "why_it_matters": "These are big claims that haven't been proven yet — be cautious about relying on AI for serious health decisions instead of seeing an actual doctor."
+      "simple_summary": "OpenAI is rolling out ChatGPT Health widely and claims its AI is now as good as doctors at understanding medical information.",
+      "why_it_matters": "Be cautious — an AI tool is helpful information but should never replace talking to your actual doctor about serious health problems."
     },
     {
       "title": "Meta launched a new AI optimism ad set to a song about human extinction",
       "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
       "source": "TechCrunch",
       "date": "2026-07-23T16:28:50.000Z",
-      "simple_summary": "Meta made an advertisement about how great AI is, but they used a famous song that's actually about the world ending in five years.",
-      "why_it_matters": "This is just a funny mistake Meta made in their advertising — it doesn't affect you, but shows they weren't thinking carefully about their message."
+      "simple_summary": "Meta ran an upbeat advertisement about AI using a famous song that's actually about the world ending in five years.",
+      "why_it_matters": "This doesn't affect you — it's just an awkward choice of music by Meta for their ad."
     },
     {
       "title": "Nvidia is sending GPUs to the moon",
       "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "source": "TechCrunch",
       "date": "2026-07-23T15:00:00.000Z",
-      "simple_summary": "Nvidia is sending computer chips called GPUs (the processors that power AI) to the moon.",
-      "why_it_matters": "This is interesting news for space exploration, but it's mainly a story about Nvidia's business — nothing that changes your life."
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T15:00:00.000Z",
-      "simple_summary": "A new AI chip company called Etched has raised money and is now worth over $10 billion because they claim to have made chips that work faster than the ones Nvidia sells.",
-      "why_it_matters": "This mostly matters to investors — unless you run a huge company that uses lots of AI, this competition between chip makers won't affect you."
-    },
-    {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch",
-      "date": "2026-07-23T14:52:44.000Z",
-      "simple_summary": "Google's Gemini AI tool now has over 750 million monthly users and is getting close to a billion.",
-      "why_it_matters": "This shows how popular AI assistants are becoming, but it's mainly a business milestone — nothing new for you to use."
-    },
-    {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "source": "The Verge",
-      "date": "2026-07-23T14:13:35.000Z",
-      "simple_summary": "Some lawmakers are preparing a new law that would let the government shut down or slow down AI systems in emergencies, similar to how they can control other dangerous things.",
-      "why_it_matters": "This is about government regulation of AI — if passed, it could eventually make AI companies more responsible, but it's too early to know if or when this would actually happen."
+      "simple_summary": "Nvidia is sending its computer chips to the moon for a space project.",
+      "why_it_matters": "This mostly matters to space engineers — nothing you need to act on."
     }
   ]
 }
