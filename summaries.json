@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-24T19:48:44.709Z",
+  "generated_at": "2026-07-25T03:40:44.416Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "TechCrunch",
+      "date": "2026-07-25T00:23:11.000Z",
+      "simple_summary": "OpenAI made a new tool for programmers to use with their keyboard. It's designed for people who write computer code.",
+      "why_it_matters": "Unless you write computer code for work, this doesn't affect you — it's a specialist tool for programmers."
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch",
+      "date": "2026-07-24T22:25:58.000Z",
+      "simple_summary": "A new AI company is raising money to automate routine computer tasks that people do every day, like copying information between programs.",
+      "why_it_matters": "This could eventually make some office jobs faster and easier, but it's still being developed — nothing to worry about right now."
+    },
+    {
+      "title": "A winner of math’s top prize says AI will soon surpass mathematicians. He fears what comes next",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUFsWUprcnFVejFxQjNZUGJjZFhJeWNIX3Z2bjVqZjdlY09SZUgxZS1qbFhfeVNmYXI2cHBVSl9tMnQzM1pIaGk4eUJLQWFrTU1rdXV2N1ltTkxkbk13UHJQUlhtZUdkQkVCMi1tZzN5NzdYekhzeHpyOTZobFFJRW45cmRTb3hEU3FiWA?oc=5",
+      "source": "San Francisco Chronicle",
+      "date": "2026-07-24T20:45:10.000Z",
+      "simple_summary": "A world-class mathematician says AI will soon be better than humans at solving math problems, and he's concerned about what that means.",
+      "why_it_matters": "This mostly matters to mathematicians and researchers — it doesn't directly affect everyday life or small businesses yet."
+    },
     {
       "title": "Midjourney bought the astrology app Co-Star",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "source": "The Verge",
       "date": "2026-07-24T19:06:58.000Z",
-      "simple_summary": "Midjourney, a company that makes AI tools for creating images, bought Co-Star, which is an app that gives people daily horoscopes and astrology information.",
-      "why_it_matters": "This mostly matters to investors watching Midjourney grow — unless you use Co-Star daily, nothing changes for you right now."
+      "simple_summary": "Midjourney, a company that makes pictures with AI, bought an astrology app that gives daily horoscopes to millions of users.",
+      "why_it_matters": "If you use the Co-Star app for fun horoscopes, Midjourney now owns it — but the app should still work the same way."
+    },
+    {
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "source": "Reuters",
+      "date": "2026-07-24T18:07:36.000Z",
+      "simple_summary": "Major tech companies like Nvidia and Microsoft are supporting open-source AI models, meaning they're sharing AI technology freely instead of keeping it secret.",
+      "why_it_matters": "This is mostly of interest to investors and tech companies — it helps competition and innovation, but you won't notice a direct change."
     },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "source": "TechCrunch",
       "date": "2026-07-24T18:07:32.000Z",
-      "simple_summary": "A coding AI company called Cognition bought another AI tool called Poke that people interact with like a friend. They want to make their coding assistant feel friendlier and easier to talk to.",
-      "why_it_matters": "This mostly matters to computer programmers and tech investors — ordinary small business owners won't be directly affected."
+      "simple_summary": "An AI company bought another company to improve how their AI assistant talks to people and works with them.",
+      "why_it_matters": "This matters mostly to software engineers and investors — it's about making AI assistants friendlier and easier to work with."
+    },
+    {
+      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWmRuZW5mcU9vaWRTZ3JWYW9RaS04VUE5QmQ3NnhlU28wclpZR2dGakNONmE0RndremlFU1AyUm9rZmNGTkg0eTJVRjkydzVlUXRsNnI3amVRTFAyTEdQTFVxSXcxeVNoc2VYMTF1SURfNG5FYVl6S1lpWlA5WlJidWFFSElWTDh3aXdGY1dmYko4dw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-07-24T17:48:21.000Z",
+      "simple_summary": "A finance expert says that SpaceX's value shouldn't include any credit for AI, because the company doesn't really use AI in major ways.",
+      "why_it_matters": "This is for stock investors — nothing you need to think about unless you own SpaceX stock."
     },
     {
       "title": "You can’t ignore Google Zero anymore",
       "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
       "source": "The Verge",
       "date": "2026-07-24T17:29:48.000Z",
-      "simple_summary": "Google used to send lots of customers to websites through search results, but now it's keeping people on Google's own pages instead, breaking the deal that made the web work.",
-      "why_it_matters": "If you have a website for your business, you may get fewer customers from Google search, so this could hurt your online traffic over time."
+      "simple_summary": "Google is directing fewer people to regular websites because people are now asking Google's AI for answers directly instead of clicking through to web pages.",
+      "why_it_matters": "If you own a small business website, you might get fewer visitors from Google search in the future — this is a real concern worth watching."
     },
     {
       "title": "Anthropic launches Opus 5",
       "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
       "source": "TechCrunch",
       "date": "2026-07-24T17:00:00.000Z",
-      "simple_summary": "Anthropic released a new AI model called Opus 5 that costs less money and has fewer restrictions than their previous version.",
-      "why_it_matters": "If you use AI tools from Anthropic, this version might be cheaper and easier to use for your business."
+      "simple_summary": "Anthropic released a new AI model called Opus 5 that costs less money and has fewer restrictions than their previous model.",
+      "why_it_matters": "If you use Anthropic's AI assistant Claude, it might become cheaper or easier to use — but this is mainly for businesses and developers."
     },
     {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
       "source": "The Verge",
       "date": "2026-07-24T17:00:00.000Z",
-      "simple_summary": "Anthropic released Opus 5, a new AI that works almost as well as their top model but costs less and is less restrictive.",
-      "why_it_matters": "If you use AI tools, this gives you a cheaper option that still works well for most tasks."
+      "simple_summary": "Anthropic released a new AI model called Opus 5 that works almost as well as their previous top model but is cheaper and more flexible.",
+      "why_it_matters": "Businesses using AI might save money, but for typical small business owners, this is mainly a technical update worth monitoring."
     },
     {
       "title": "Meta is making its AI chatbot more like an assistant",
       "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "source": "The Verge",
       "date": "2026-07-24T17:00:00.000Z",
-      "simple_summary": "Meta's AI chatbot is getting new features so it can look at your calendar, help you plan, and do research — similar to what ChatGPT and Google's AI can do.",
-      "why_it_matters": "If you use Meta's AI, it will become more helpful for organizing your work and finding information, though this is early and still being developed."
+      "simple_summary": "Meta is adding new tools to its AI chatbot so it can look at your calendar and help you plan your day, similar to what other AI assistants do.",
+      "why_it_matters": "If you use Meta's AI assistant, it will soon be more helpful for scheduling and planning — a useful upgrade for everyday tasks."
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T15:51:49.000Z",
-      "simple_summary": "Tech companies are asking the U.S. government not to create strict rules about open-source AI models (AI that anyone can download and use) in response to competition from China.",
-      "why_it_matters": "This mostly matters to AI companies and investors — it's about government policy debates that won't directly affect your daily life soon."
-    },
-    {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T15:13:57.000Z",
-      "simple_summary": "Bluesky's AI tool Attie can now answer questions about news and conversations happening on Bluesky and other platforms.",
-      "why_it_matters": "If you use Bluesky, you can now ask an AI to help you understand trends and news on the platform."
-    },
-    {
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T15:09:55.000Z",
-      "simple_summary": "Midjourney bought Co-Star, the astrology app, as part of expanding what their AI company does.",
-      "why_it_matters": "This mostly matters to investors watching Midjourney's growth — nothing you need to act on unless you use Co-Star."
-    },
-    {
-      "title": "The tech-broification of American science has officially begun",
-      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "source": "The Verge",
-      "date": "2026-07-24T14:43:55.000Z",
-      "simple_summary": "The U.S. government announced $5 billion in funding for AI-driven science projects, comparing it to major projects like the Manhattan Project in urgency and importance.",
-      "why_it_matters": "If you work in science or education, this could eventually bring new AI tools and funding to your field, though details are still unclear."
-    },
-    {
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T14:00:00.000Z",
-      "simple_summary": "A Chinese AI model surprised the tech industry with its abilities, and an unreleased OpenAI model accidentally got exposed in a security incident — both making headlines in the AI world.",
-      "why_it_matters": "This mostly matters to AI industry watchers and investors — it shows competition between countries and some security risks that companies need to fix."
-    },
-    {
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T13:36:42.000Z",
-      "simple_summary": "OpenAI added voice capability (so you can talk to ChatGPT instead of typing) to its desktop app.",
-      "why_it_matters": "If you use ChatGPT on your computer, you can now speak to it instead of typing, which makes it easier to use while you're busy."
+      "title": "OpenAI's HuggingFace breach heralds an unprecedented age of AI cyber warfare — contemporary LLMs have caused massive upheaval in cybersecurity, and it's only going to get worse",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNHBXRkJBZ3dxd3BOUUdmU0dfM0NYdFhjOS1MUVRKUnR6TWJLSUJsN1ozTW1USlYyWjNXSmRFakxXVllZOUNFYTJoaFJGWDlCT041eWEybkdQc1g2ZzMzZ2pfUTQwM3ZKZTZtOEdRMmVfbUtnS3VPWDBsNngzajdtU1A1ekpPeHktcW9KWDR2U2ZSNUlqMzI3clpSN3VDNHpMTUhtREd3aXZFSXlsaTRiMUU5UkdvYmNPU2pEa0hzZWVzdGJXQl9yZzlvVGwzaVpRQXZMMk5iM2ZLeW9FZHBJemdyWkdFTVF0SFhXdWRSejVLTUd4T3pTYUZZNUFwb0ZmeWlSNU1vTmlXVEt6ZnU2cURyVGFTWk1TQ2RxZjN0cDcyRVA2akZsV0xnODRFQ2o2dzJsdW9oek5oSWNlc1B5cWVCYU5zQlI5azJac3ZFVF9uYVdNME4wRy13?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-07-24T16:12:08.000Z",
+      "simple_summary": "OpenAI suffered a security break-in, and the article warns that AI tools are making it easier for hackers to attack computer systems.",
+      "why_it_matters": "This is a warning that AI is making cyber-attacks more dangerous — it's worth paying attention if you handle customer data or important business information."
     }
   ]
 }
