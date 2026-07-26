@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-26T03:57:34.290Z",
+  "generated_at": "2026-07-26T08:40:00.274Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "AI layoffs mount amid software sector bloodbath",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeDBuUWxkU3g1eWpoZmhlN1JqZ2dIMXhsQ3BoSkZLX2NZRERnTlljaHMwX1MyZnVONVpZNUd1X25wdkJBOXlER0drQXRBNlZzRjdlN05kUXYtcVhsakxlT3ZMOWVsLW5rYmtIVQ?oc=5",
+      "source": "The Jerusalem Post",
+      "date": "2026-07-26T05:34:37.000Z",
+      "simple_summary": "Tech companies are firing a lot of workers and saying it's because of AI.",
+      "why_it_matters": "If you work in tech or know someone who does, job security is becoming less certain in that industry."
+    },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch",
       "date": "2026-07-26T01:30:00.000Z",
-      "simple_summary": "Many tech companies, including Monday.com, have laid off workers and said it was because of AI. The article lists 20 companies that have done this.",
-      "why_it_matters": "If you own a small business using tech tools, this shows the market is changing quickly — but most small business AI tools are still being built and improved, so it's worth watching what happens next."
+      "simple_summary": "Many big tech companies have laid off employees this year, and they're blaming AI for needing fewer workers.",
+      "why_it_matters": "This shows a pattern across the tech industry, but unless you work in tech, your own job is unlikely to be affected yet."
+    },
+    {
+      "title": "North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough?",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU8zT2ZQNTFRaDNxQy1JV3M4M0lsT3FBMVVfZUJrUFFkU3I2VDdQeXhTenByRWMyT3Jnd2Z2NGpucFJFYWpKSVlOVkFobnpzenhKSkVtVjRGdnZOMU95YTRXNnZtWnRyUEZaZUh6M2tmWVluUkVhUDRzN3BqdzZQUk94cDdfT3JiZFlpRXFmOXlPblg0OFFNTDFxMnRyckpUWDJhdmxFVVd5cVJFQjRaNzZtWlBYMGVJZGd2aV8zVQ?oc=5",
+      "source": "WRAL",
+      "date": "2026-07-25T19:29:51.000Z",
+      "simple_summary": "A teenager in North Carolina used AI to create sexual material as a way to harm or exploit someone, and the question is whether laws protect people enough.",
+      "why_it_matters": "This matters if you're a parent — it shows a new way young people can misuse technology to hurt others, and current laws may not catch it."
     },
     {
       "title": "What's the difference between closed, open‑source and open-weight AI? A researcher explains",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQk8tTDNWNWMySk52QlB0VVpFdDFVLWxQaEh0Q3VDUHZtWE9iaXFGckNUeWwyaWpGSVZiRkVYLVlzdUVxeEROYUY0cnoxS3ZFRnoydzYxZ1B3WmkyVmlYT2h2SHItdHlqdVFOTDRucjhCb1p5b0xmY2tVUHFYdTVSeDJya1E1U1lyVjJoUWpJMEU3alFhQUJhcThVZXZ4R0FnbzdIbkhyemVjNXVlWDNjajd2WVhBNTZsejFMMDdTS2lZRVRvazZSSnk3ZFljUdIB0wFBVV95cUxQRHdvaUthdXZ2cl9oLUI4REVRaWZJcUU5c0FGQUtydEQ5akszNU56TzRoanBZVUNHRk9WcklpU0FfVnZvT2JTWTBNbE1mZlNRUG1VSmJwMnByM3Bnc2ZISV9JWEZodVpaMjJieTUwSm5Zb28yRU1SbG9WS2YyTFVGaDhaTzRxSjJnSTNBMjF0M0JIRHlHRE1tWU95VGZJU1VHd1M1N2RtU3hmd0VKWXd4YzdvbnZRUXREVFV1UU1hajhuWHhrNHFpeWEyMmFXbTNpSG1V?oc=5",
       "source": "PBS",
       "date": "2026-07-25T19:00:54.000Z",
-      "simple_summary": "The article explains the differences between three types of AI: closed AI (a company controls it completely), open-source AI (the recipe is public and anyone can modify it), and open-weight AI (the instructions are published but with some restrictions).",
-      "why_it_matters": "Understanding these differences helps you know how much control companies have over AI and whether it's truly transparent or not — useful for deciding which AI tools to trust for your business."
+      "simple_summary": "A researcher is explaining the different types of AI systems and how open or closed they are to the public.",
+      "why_it_matters": "This is mostly educational background information — helpful if you're curious about how AI works, but nothing that requires action."
     },
     {
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "source": "TechCrunch",
       "date": "2026-07-25T16:00:00.000Z",
-      "simple_summary": "Libraries are running popular workshops called 'Avoiding AI' where many people are showing up to learn how to stay away from AI systems.",
-      "why_it_matters": "People are feeling overwhelmed and want help opting out — this shows you're not alone if you feel frustrated with AI being everywhere."
+      "simple_summary": "Libraries are running workshops where people learn how to avoid using AI and Big Tech companies.",
+      "why_it_matters": "If you're concerned about privacy or don't want to use AI, there are now resources at libraries to help you live differently."
     },
     {
       "title": "People Are Starting to Record Every Conversation They Have Without Disclosing It, and It's Gross",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGR3LUJhb2hIdzRCQVlRWFYzZVA1dWtOVDFtamRPTVVGVnd4ZFpzNFIzOVhqQnlkUDYwajdteERVMklyekNsRVNBUXpFa0drWWZOcjU3enA2dHhUYldRckNPYVFLMEVabzJ3WkEzQkQ2M1FQNUNhTW1uLUJwZDBHSXkzU0VhTDd1TUpDemtQRQ?oc=5",
       "source": "Futurism",
       "date": "2026-07-25T14:02:00.000Z",
-      "simple_summary": "People are now secretly recording conversations with AI (and possibly other people) without telling anyone it's happening.",
-      "why_it_matters": "This is a privacy concern — be aware that some conversations might be recorded and stored without your knowledge, and be cautious about what you discuss."
+      "simple_summary": "Some people are secretly recording conversations without telling the other person, using AI tools.",
+      "why_it_matters": "You should be aware that someone might be recording you without permission — it's worth knowing this happens, even though it's controversial and risky legally."
     },
     {
       "title": "Robert Morris University infuses artificial intelligence into MBA curriculum",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkI3dGVQc25iUFRMUWhObUZVYmlsQjFmbXc4VFNoZ24xbWlNRnJKYmRiNG96TlRQd0xvSEFNVmpUenlwT3NfUE5hLVdQUDkySWQ3b2pyRldQc2owSVgxNnA0YTRZN0Z6elpvd1BpdGp2bUhjZmV3NlpSRWhMVUNydmZIeEQ4Ul82eF96N1hLZ1Fwal9sVWhKcVFoMlY2VGNRejN4WjItb1ZhVVBLNjFGemg2UVhjcWFURmFDZHZfWmlnS2M?oc=5",
       "source": "TribLIVE.com",
       "date": "2026-07-25T13:30:48.000Z",
-      "simple_summary": "A university is now teaching AI as part of its MBA (business degree) program to train future business leaders.",
-      "why_it_matters": "This is mostly about education for young professionals — nothing you need to act on right now, but shows AI is becoming standard business knowledge."
+      "simple_summary": "A university business school is adding artificial intelligence classes to its MBA program.",
+      "why_it_matters": "If you're considering business education or have grandchildren exploring careers, MBA programs are now teaching AI as a core skill."
     },
     {
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "TechCrunch",
       "date": "2026-07-25T13:05:00.000Z",
-      "simple_summary": "AI data centers (huge computer buildings that power AI) had a problem when a power line fell in Virginia, and they weren't prepared to handle the outage well.",
-      "why_it_matters": "This is mostly a technical issue for engineers and city planners — it doesn't affect you directly, but shows data centers need better emergency backup systems."
+      "simple_summary": "When one power line failed in Virginia, it showed that AI data centers (huge computer buildings) don't handle power outages well.",
+      "why_it_matters": "This mostly matters to engineers and infrastructure experts — for ordinary people, it's a warning that AI infrastructure needs to be more reliable."
     },
     {
       "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlRPeHY4ZnZBa010WDFSS1p4YUxWNzdVRWo3X0g0Vk5LUEdFcjBsbnBMWTAzdG9jS0FUMTFKNkNsSnJnMTlNR1BoVkhYQy1EZmN2ZV8yWVJKbTFVTWJwZ2F2TjFLcU1OSlc4WEt6dW14QU1LUkFZVnlVUEpmVE93bGlkNEhqajRR?oc=5",
       "source": "The Guardian",
       "date": "2026-07-25T13:01:00.000Z",
-      "simple_summary": "Experts say AI probably won't cause a massive sudden loss of jobs across the entire economy in the near future, even though some jobs will change.",
-      "why_it_matters": "If you worried AI would wipe out entire industries overnight, this research suggests change will be slower and more gradual than the scary headlines suggest."
+      "simple_summary": "Experts believe that AI probably won't cause massive job loss right away, despite people's worries.",
+      "why_it_matters": "If you've been worried about AI stealing jobs quickly, this suggests things will likely change more gradually than some people claim."
+    },
+    {
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-25T13:00:08.000Z",
+      "simple_summary": "Tech leaders in Silicon Valley disagree about whether to restrict China's access to advanced AI technology.",
+      "why_it_matters": "This mostly matters to investors and government policy — it's a political debate that doesn't directly affect your daily life or small business right now."
     },
     {
       "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5",
       "source": "CNBC",
       "date": "2026-07-25T12:00:02.000Z",
-      "simple_summary": "Tech companies and government officials are all talking about 'AI distillation' — a technique where you take a big complex AI and shrink it down to work on regular computers.",
-      "why_it_matters": "This matters mainly to tech investors and engineers — but in plain terms, it means AI could eventually run on cheaper equipment, making it more useful for small business."
+      "simple_summary": "Tech leaders and government officials are excited about something called 'distillation' — a technique to make AI systems smaller and faster.",
+      "why_it_matters": "This is mostly an engineering conversation among tech experts — nothing you need to understand or worry about for now."
     },
     {
-      "title": "Opinion | The Flawed Environmental Case Against Data Centers",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkM2aF9IU2syc0VEcnVYWUlBM05XSnA1NVRXWDRyYUZYRXVZSkRpbHRPTC0xZmJ4Y3FXYkRHN1JaWndQeGd5YlNSQ2V6SDlSN0UyVWxnU3lSTjBpZWpYZ3pOa3hlMzdZU0d4QXBLdXhYdGtJSDNYMUkyRnpxV2UtVQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-25T11:00:12.000Z",
-      "simple_summary": "This opinion piece argues that concerns about AI data centers harming the environment may be overstated or based on incomplete information.",
-      "why_it_matters": "This is an opinion debate among experts — not settled fact — so take environmental claims about AI with some skepticism until more proof arrives."
-    },
-    {
-      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcVdPWUdmRUFvQjRla2xDNEhQVldiT1V3Q2YtcUd4TjUyU0pzOHZyR0xjTjJnOVh0WmJqT21xVmV5MHh1ZEktcXJLWkhSMDBNMGkzT0Q4M2ZLYTROSkVXSWZGVTlUV3hPdW5EY1N0TEdEMS1fYVg3T0E5WXgtWGVJWDQ4WjBrWmJNLWlBZUYwVEFTV0FlWXY1akllZ0RnRlhjRV9QVWV4TjR2djhLTC1RX2R5c193TnZGTWpaNGlkemE2WUhwNlZ5VnZFd0JNeThZSW1La0piSVhzM3RMMGl6dWxlWlA4MDJS?oc=5",
-      "source": "Live Science",
-      "date": "2026-07-25T11:00:00.000Z",
-      "simple_summary": "OpenAI's AI models didn't go 'rogue' or break rules when they accessed a platform called Hugging Face — something else actually happened.",
-      "why_it_matters": "Stories about AI suddenly acting on its own and breaking rules are scary but usually not accurate — this is a reminder to be skeptical of dramatic headlines."
-    },
-    {
-      "title": "North Carolina teen accused of using AI for sexual exploitation. Are state laws strong enough?",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU8zT2ZQNTFRaDNxQy1JV3M4M0lsT3FBMVVfZUJrUFFkU3I2VDdQeXhTenByRWMyT3Jnd2Z2NGpucFJFYWpKSVlOVkFobnpzenhKSkVtVjRGdnZOMU95YTRXNnZtWnRyUEZaZUh6M2tmWVluUkVhUDRzN3BqdzZQUk94cDdfT3JiZFlpRXFmOXlPblg0OFFNTDFxMnRyckpUWDJhdmxFVVd5cVJFQjRaNzZtWlBYMGVJZGd2aV8zVQ?oc=5",
-      "source": "WRAL",
-      "date": "2026-07-25T01:30:29.000Z",
-      "simple_summary": "A teenager in North Carolina was accused of using AI to create sexual content to exploit someone, and the article asks whether state laws are tough enough for this crime.",
-      "why_it_matters": "This shows AI is being misused by some people for serious harm — it's a real safety issue that parents and communities should be aware of."
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "TechCrunch",
-      "date": "2026-07-25T00:23:11.000Z",
-      "simple_summary": "OpenAI made a new tool (an AI keypad) that coders might enjoy using, but most regular people will probably find confusing or not useful.",
-      "why_it_matters": "This is a new tool for programmers, not for typical small business owners — nothing you need to pay attention to unless you write code."
+      "title": "Have we lost our control over AI already?",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXgtSE11T1hKMlZ4LUVrd3psVWN4cEVwblB4cU1qTWtkc2tEd2JIbERvNmxUTzNCY2Nfa3lnTXUxV3RaQVhLeEVsZ25sMWh0MHpiaFViZUlyNUx1T0tRNFc3dTFRZFdKTTA4NFZBMm0xRmNMTFN5QUE0czF2ejFRdG94WWJkOFpFcVNVT3dnbw?oc=5",
+      "source": "The Times",
+      "date": "2026-07-25T11:03:00.000Z",
+      "simple_summary": "People are asking whether we've already lost the ability to control AI systems that are becoming very powerful.",
+      "why_it_matters": "This is a philosophical debate about the future — experts disagree, and there's no action to take right now, but it reflects genuine uncertainty about what comes next."
     }
   ]
 }
