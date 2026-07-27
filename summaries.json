@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-27T10:11:14.989Z",
+  "generated_at": "2026-07-27T15:15:48.933Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch",
+      "date": "2026-07-27T15:01:50.000Z",
+      "simple_summary": "A new AI research company called Safe Superintelligence is partnering with Nvidia, a company that makes the computer chips that power AI. They're planning to build bigger and better AI systems together.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on right now."
+    },
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "TechCrunch",
+      "date": "2026-07-27T13:00:00.000Z",
+      "simple_summary": "A company called Enigma raised a lot of money ($70 million) to make robots easier to control. They want controlling a robot to be as simple as turning a volume dial on a radio.",
+      "why_it_matters": "This is still early-stage technology — most people and small businesses won't see robots like this for several years."
+    },
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "date": "2026-07-27T12:06:22.000Z",
+      "simple_summary": "Nvidia and Microsoft joined with other companies to create free security tools that protect AI systems from attacks. They want to make AI safer for everyone to use.",
+      "why_it_matters": "This is mainly important for large tech companies that build AI — regular business owners don't need to do anything."
+    },
     {
       "title": "Are brain waves the next unlock for physical AI?",
       "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "TechCrunch",
       "date": "2026-07-27T00:19:14.000Z",
-      "simple_summary": "Researchers are experimenting with using brain wave readings to help train physical AI robots. Instead of just showing a robot videos, they want to measure what a person's brain is doing while they perform tasks.",
-      "why_it_matters": "This is still early research that mostly matters to scientists and engineers — nothing you need to worry about right now."
+      "simple_summary": "Researchers are exploring whether brain wave readings could help train robots and AI systems to move and act in the physical world.",
+      "why_it_matters": "This is experimental research — nothing that affects your daily life or business yet."
     },
     {
       "title": "Making sense of the panic over Chinese AI",
       "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
       "source": "TechCrunch",
       "date": "2026-07-26T19:40:57.000Z",
-      "simple_summary": "A Chinese AI company released a smart assistant that caught the attention of American tech investors and made some nervous. People are debating whether Chinese AI is advancing faster than expected.",
-      "why_it_matters": "This matters mainly to investors and tech companies watching competition — it doesn't directly affect your daily life or business."
+      "simple_summary": "There's concern in the tech world about AI being developed quickly in China, and a Chinese company called Moonshot AI caught people's attention.",
+      "why_it_matters": "This is mostly about tech industry competition and investor worry — not something that changes how you'd use AI."
     },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "source": "TechCrunch",
       "date": "2026-07-26T16:33:13.000Z",
-      "simple_summary": "Someone hacked into OpenAI's systems using an AI agent (a robot program that acts on its own), which is a new type of cyberattack. The leader of another AI company called for more transparency about what happened.",
-      "why_it_matters": "This shows AI systems can be vulnerable to attacks, but for most small business owners this is more of a warning sign to stay alert rather than an immediate threat."
+      "simple_summary": "OpenAI experienced a serious security hack where an AI system was attacked on its own. A company called Hugging Face is calling for more openness about how AI systems are protected.",
+      "why_it_matters": "This shows AI security is still being figured out, but for regular users it's a reminder to use strong passwords like you already should."
     },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch",
       "date": "2026-07-26T01:30:00.000Z",
-      "simple_summary": "Monday.com, a software company, laid off workers and blamed AI for making those jobs unnecessary. This is one of at least 20 big tech companies that have done the same this year.",
-      "why_it_matters": "If your business uses AI tools to replace jobs, this is a sign the technology is getting stronger — you should think carefully about how it fits into your plans."
+      "simple_summary": "Many tech companies, including Monday.com, have laid off workers and said they're using AI to do some of those jobs instead. At least 20 major companies have done this.",
+      "why_it_matters": "If you work in tech, watch what your industry is doing — but for most small businesses, this doesn't mean AI will replace your workers tomorrow."
     },
     {
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "source": "TechCrunch",
       "date": "2026-07-25T16:00:00.000Z",
-      "simple_summary": "Libraries across the country are running workshops teaching people how to avoid using AI and stay away from it. These workshops are surprisingly popular.",
-      "why_it_matters": "If you're worried about AI, you're not alone — many people feel the same way and are looking for ways to live without it."
+      "simple_summary": "Libraries across the country are offering workshops to help people understand and avoid AI systems they don't want to use.",
+      "why_it_matters": "If you're uncomfortable with AI, your library might offer free help learning what AI does and how to opt out of it."
     },
     {
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "TechCrunch",
       "date": "2026-07-25T13:05:00.000Z",
-      "simple_summary": "A power line went down in Virginia and caused problems for the giant computer buildings (data centers) that run AI systems. The problem shows these buildings aren't prepared for power problems.",
-      "why_it_matters": "This matters mainly to tech investors — if data centers fail, AI services go down, but this isn't something you need to act on."
+      "simple_summary": "A power line failure in Virginia showed that AI data centers (huge computer buildings) don't handle power outages well. Experts are suggesting ways to fix this problem.",
+      "why_it_matters": "This affects the reliability of AI services, but it's a technical problem for big companies to solve — not something you control."
     },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "source": "TechCrunch",
       "date": "2026-07-25T00:23:11.000Z",
-      "simple_summary": "OpenAI released a new typing tool designed to work with AI in a special way. It's interesting to computer programmers but most people probably won't use it.",
-      "why_it_matters": "This is designed for professional coders — unless you write computer code, you can skip this news."
+      "simple_summary": "OpenAI made a new specialized keyboard tool for computer programmers that uses AI. It will be useful for coders but confusing for most other people.",
+      "why_it_matters": "Unless you're a software programmer, this is a tool you won't use or need."
     },
     {
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "source": "TechCrunch",
       "date": "2026-07-24T22:25:58.000Z",
-      "simple_summary": "A new AI company is raising $100 million and believes the next big use of AI will be automating routine computer tasks instead of writing code.",
-      "why_it_matters": "This mostly matters to investors — it shows where money is flowing in AI, but no action needed for ordinary people right now."
+      "simple_summary": "A new AI research lab started by investment leaders Reid Hoffman and Mark Pincus is raising $100 million. They think automating simple computer tasks will become more important than writing code.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Midjourney bought the astrology app Co-Star",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "source": "The Verge",
       "date": "2026-07-24T19:06:58.000Z",
-      "simple_summary": "Midjourney, an AI image company, bought an astrology app called Co-Star. The company is expanding from making pictures to offering horoscopes.",
-      "why_it_matters": "This doesn't affect you directly — it shows AI companies are trying new business ideas, but your horoscope app isn't changing unless you use Co-Star."
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T18:07:32.000Z",
-      "simple_summary": "A company bought a smaller AI company partly because it had a friendly way of talking to people. They believe how an AI assistant sounds and acts is just as important as how smart it is.",
-      "why_it_matters": "If you use AI assistants, this means companies will focus more on making them easier and nicer to talk to — that's actually good news for users."
-    },
-    {
-      "title": "You can’t ignore Google Zero anymore",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "source": "The Verge",
-      "date": "2026-07-24T17:29:48.000Z",
-      "simple_summary": "Google has changed how it works with websites — it's keeping more of the web traffic for itself instead of sending visitors to other sites like it used to. The old deal between Google and websites is breaking down.",
-      "why_it_matters": "If you own a website or depend on Google sending you visitors, this could hurt your traffic — you may need to find new ways to reach customers."
-    },
-    {
-      "title": "Anthropic launches Opus 5",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "TechCrunch",
-      "date": "2026-07-24T17:00:00.000Z",
-      "simple_summary": "Anthropic released a new AI model called Opus 5 that is cheaper and less restricted than a previous version. It will probably be what most people choose to use.",
-      "why_it_matters": "If you use Anthropic's AI tools, this is good news — cheaper and easier to use means better value for your business."
+      "simple_summary": "Midjourney, an AI image-making company, bought Co-Star, which is a popular astrology app. They're combining astrology with AI.",
+      "why_it_matters": "If you use the Co-Star astrology app, it's now owned by an AI company — but the app should work the same way for users."
     }
   ]
 }
