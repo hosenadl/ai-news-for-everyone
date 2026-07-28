@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-28T09:06:49.594Z",
+  "generated_at": "2026-07-28T14:40:41.897Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG4xbTN5UkFaSWo5bEcyRVl1R3gzbEJlV0dpZENhcTF4aWhkZFFiTVBuQnBSOEllRUJLNmtfcC1TSnZsWnhfU1N3U3JWU29JWFV4VUlrc3czTndaWHpkeTNsLUllQndmeGVFd1k5bDJHNzRPMVRxTFpjbTJ6bTN2VTd4WkR4empPQmtOSDZlMHRvdXhqR2s3dUdKbDNCMlBUSkt6Ug?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-07-28T06:20:00.000Z",
-      "simple_summary": "A financial writer is recommending three companies that make or use AI as good investments right now.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on as a small-business owner or retiree."
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch",
+      "date": "2026-07-28T14:00:00.000Z",
+      "simple_summary": "A company called Fish Audio that creates AI voices for creators raised $50 million in funding. They already have 8 million people using their service and make $21 million per year.",
+      "why_it_matters": "If you create content or run a business that needs voice-overs, AI voices are becoming a real tool you might consider instead of hiring a person."
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch",
+      "date": "2026-07-28T13:19:17.000Z",
+      "simple_summary": "A company called Recursive Superintelligence is spending $400 million to buy computing power from Amazon to build AI systems.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge",
+      "date": "2026-07-28T12:30:00.000Z",
+      "simple_summary": "A company called Perplexity made a tool that turns Windows computers into AI assistants that can find things and do tasks on your computer automatically.",
+      "why_it_matters": "This is still very new and experimental — not something most people would use in a small business yet."
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge",
+      "date": "2026-07-28T12:00:00.000Z",
+      "simple_summary": "Smart rings (tiny computers you wear on your finger) are getting better at listening when you talk to them and understanding what you say.",
+      "why_it_matters": "As these devices improve, they might become a more natural way to use AI without typing — but they're still new and expensive."
+    },
+    {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "source": "The Verge",
+      "date": "2026-07-28T09:07:14.000Z",
+      "simple_summary": "A website called Hugging Face hosts free AI tools, and some of them are being misused to create fake, inappropriate pictures of real people without permission.",
+      "why_it_matters": "This is a serious problem, but it affects how these tools should be regulated — unless you run a platform, it's not something you'll directly face."
     },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
       "source": "TechCrunch",
       "date": "2026-07-28T04:30:00.000Z",
-      "simple_summary": "Cursor, a coding AI tool, is expanding in India and becoming very popular there. It's also preparing to be bought by SpaceX.",
-      "why_it_matters": "This mostly matters to tech investors and software developers — nothing you need to act on unless you write computer code."
-    },
-    {
-      "title": "A rogue AI just gave us a warning. Australia isn't prepared",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHJzSkpYUWNFbWlyQVl1LWMxUW53c3Q4V08xQkJYYnBPb0N6X1pZcHFpTnNvRHR3OHI3UXdOUHpkY2hseDduVFJkSUtCcEJWbmY2cmphZERuY1kzOFFheGtERnhkMGJDVW1ORWNFTzNSeXk3Qk9xcllsRF95bUowbzNMaXZ6SWRTNDdUQy1GNlg1bDZqV0tNWU11eFBlZm5KMnBaVlZHYTZHR3NYdXhR?oc=5",
-      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
-      "date": "2026-07-28T03:38:22.000Z",
-      "simple_summary": "An AI system in Australia apparently behaved unexpectedly, and Australia's government may not be ready for AI risks.",
-      "why_it_matters": "This is a warning sign that governments need to prepare for AI problems, but the headline is too vague to know exactly what happened or what you should do."
+      "simple_summary": "A coding AI tool called Cursor is expanding in India with cheaper pricing and plans to hire more people there.",
+      "why_it_matters": "If you're a programmer or tech business owner, this tool helps you write code faster — otherwise, not relevant to you."
     },
     {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch",
       "date": "2026-07-28T00:13:33.000Z",
-      "simple_summary": "The founder of Anthropic (a major AI company) says he's okay with open-weight models (AI systems that anyone can use and modify), but he's worried about AI development in China.",
-      "why_it_matters": "This mostly matters to technology companies and policy makers — nothing you need to act on."
-    },
-    {
-      "title": "Katy ISD sets new framework on artificial intelligence use in classrooms",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3F4S3ZaeGRKLXo2VnRfVEVHd1Nwb19kS3dkV211aVZxV0JmbW1GS0RvOG90aEZ3Y2ZWTGRpa3dWX25xamo4Zm1PZmEtV0JTTkNVV1ExQUZLLTk1ZFIzODZuaW44cUNHekFmVEJNbWFFN0xJQk9UT3F5Zm5wVllaQVVjaE5qWTEydzlBaUJJeXBSQS1KbVNDN1Vva1cySm9L0gGmAUFVX3lxTE13OGdLWXlveHhfTEZUQ1drM3hFbGp6bElsMmxZNG9nN09PdU5jQWNvMGV6Qm9PeEtlcmhPY1dTc2Nwdk5jSFZHUHI5QmNod3BUMUUySHpQWVk1dUJsXzlqV2NEZFYxMkxPVFpZY2JxYnlSTDUxVjRPVnp0b2RkQjFFdXVPQ20yY3NlZ01hTFJpcHIta3RpQXlaUnlzVE9Jc3ZpYVZMdVE?oc=5",
-      "source": "ABC13 Houston",
-      "date": "2026-07-27T23:45:15.000Z",
-      "simple_summary": "A school district in Katy, Texas created new rules for how teachers can use AI tools in classrooms.",
-      "why_it_matters": "If you have children or grandchildren in that school district, this affects how they learn; otherwise it's not relevant to you."
-    },
-    {
-      "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3lEcU1ielV0SXE2ZjRVM085N2w5UTFOSmNvYktWcFh0bmg3WjB3OEYtM2RMb2YtTnZ6RFR6VzFiaFRDOGE5ZXJYcHpXTkRRSnh4N3hEelBwTzJfTi13NXJ5Y1liSlNmZDFkQzFIMF81LTN0SXN6NzNnOGZQNWR6aC1uVnNPMHg1UHFHT0k2UFFMaXRZQmJsTlFTZ1ZsQdIBowFBVV95cUxNMkgzU0ZhU0NJeTVlR1ZndTNkNWFncXE1anFHSUhHa0RHa0gyaFpCV1hKRU9vRFJBQ3AxNGxMZTY5aGFBWVdDdTBORHp6STM1bkxtMVJLcVRhMUhLcTI3LVRoSElTRWs2ajFsbXZuRjdzVTVHTmpGRGZ1S1B6bHNzWi1MNWhhczktUzU3akhiTjN6MjNpd2pmaW1FQUVEYmg1dVpZ?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-27T22:20:01.000Z",
-      "simple_summary": "A famous financial expert is warning that AI companies are spending huge amounts of money in ways that remind him of the dot-com bubble — when tech companies wasted billions before collapsing in 2000.",
-      "why_it_matters": "If you have money in AI company stocks, this is a caution that prices might be unreasonably high; most ordinary people don't need to worry about it."
+      "simple_summary": "The head of Anthropic (a major AI company) said he supports making some AI freely available, but worries about China building powerful AI systems.",
+      "why_it_matters": "This is mostly a policy debate between big companies and countries — nothing for a small business owner to worry about right now."
     },
     {
       "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "source": "TechCrunch",
       "date": "2026-07-27T21:17:11.000Z",
-      "simple_summary": "Microsoft's leader says companies that rely on just one AI system for everything could be in trouble. He says businesses need to build their own AI tools or use protective systems that keep their information separate.",
-      "why_it_matters": "If you run a small business and plan to use AI heavily, you may need multiple AI tools rather than depending on just one company."
-    },
-    {
-      "title": "NVIDIA’s Huang heads to Capitol Hill for AI talks",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDNZVE9vaU03c000Zm51TEgwU3Vkcy1pR2hnY1JtMUE3Qms1SElkSnl3T2dTOVlvVHlIOEJFZ0l6NjFnczN3WDVjaHhnWGpkSF9LZTZ6MHpMT2tWc2F1ZW5FZkhlemlMbWxzeXJIVVBrLUhTVVNTWXpMVGVnN1dFQm5LeXV0RGhIS0lqS29hYlQwNER5R2VwRnE3bHQtSzk4R1ByamRWZEhrODM4dk4wUmNvSmJ1QQ?oc=5",
-      "source": "Politico",
-      "date": "2026-07-27T20:27:21.000Z",
-      "simple_summary": "The head of NVIDIA (a company that makes the computer chips that power AI) is meeting with Congress to discuss AI.",
-      "why_it_matters": "This mostly matters to investors and policy makers — nothing you need to act on."
+      "simple_summary": "Microsoft's leader warned that companies that rely on just one AI system (like ChatGPT) without their own AI tools might struggle in the future.",
+      "why_it_matters": "This is Microsoft trying to sell more products — for most small businesses, using one AI tool is perfectly fine and helpful."
     },
     {
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "source": "TechCrunch",
       "date": "2026-07-27T20:19:42.000Z",
-      "simple_summary": "Claude (an AI chatbot) has a feature that lets you share conversations with others by sending them a link, and some of these shared chats accidentally showed up on Google and became searchable.",
-      "why_it_matters": "If you use Claude and share conversations using the 'share chat' feature, be careful because other people might find them through Google search."
+      "simple_summary": "Some conversations people shared privately on Claude (an AI chatbot) accidentally showed up in Google search results because of a bug in the sharing feature.",
+      "why_it_matters": "If you use Claude to share private work, be careful about what you share — and avoid sharing sensitive business information in shared links."
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "source": "TechCrunch",
       "date": "2026-07-27T18:32:11.000Z",
-      "simple_summary": "Microsoft created a new AI system designed specifically to catch hackers and protect computers from cyber attacks.",
-      "why_it_matters": "If you use Microsoft products in your business, this could eventually help protect you from hackers — though it's probably too early to use right now."
-    },
-    {
-      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-07-27T18:14:45.000Z",
-      "simple_summary": "OpenAI's CEO claims that AI has now reached a major milestone called 'singularity' — a point where AI becomes extremely powerful and possibly self-improving.",
-      "why_it_matters": "This is a big claim from a company with a financial interest in getting people excited about AI; take it with skepticism until other experts agree."
+      "simple_summary": "Microsoft created a new AI tool specifically designed to help protect computers from hackers and cyber-attacks.",
+      "why_it_matters": "If you run a business and worry about security, Microsoft is adding AI tools to help — this could be worth learning about to protect your company."
     },
     {
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
       "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
       "source": "TechCrunch",
       "date": "2026-07-27T17:28:42.000Z",
-      "simple_summary": "There was a security break-in at Hugging Face (a popular AI website), and it's started a debate among experts about whether AI systems need better safety controls.",
-      "why_it_matters": "This mostly matters to AI developers and technology companies — nothing you need to act on unless you work in tech."
+      "simple_summary": "A security problem at Hugging Face has sparked arguments about whether AI systems need better safety controls built in from the start.",
+      "why_it_matters": "This is a technical debate among AI experts — nothing you need to act on."
+    },
+    {
+      "title": "Why China is giving away its best AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge",
+      "date": "2026-07-27T16:51:50.000Z",
+      "simple_summary": "China released a powerful AI system called Kimi that works as well as some American AI but costs much less to use.",
+      "why_it_matters": "This is mostly news for investors and big tech companies — the AI tools available to you probably won't change because of this."
     }
   ]
 }
