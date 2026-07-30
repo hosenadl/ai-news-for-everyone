@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-30T09:04:33.672Z",
+  "generated_at": "2026-07-30T14:34:04.532Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Microsoft Will Soon Release an AI Super App",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WjZBUk9nZUVlZ0M3aU90MXBwMWx2MUM3M1pFMjhLRkhaRkRUWmJnZmRiLVhKN2JoS2FaTU43QS1Fc0xMX3YwUlhSTHRYTGFWVFpIQktBSWg0VnJraDdOTjhfTHlDRDRuQ2FtakNsZXZJczBlUUZDbkxjYXhTNUk?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-07-30T03:18:01.000Z",
-      "simple_summary": "Microsoft is creating one big app that combines all its AI tools (like Copilot) into one place instead of having them scattered around.",
-      "why_it_matters": "If you use Microsoft products, you might find AI tools easier to find and use in one spot, but this won't change much about how the AI works."
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come ",
+      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T14:00:00.000Z",
+      "simple_summary": "TechCrunch is holding a big technology conference in 2026 where leaders from major companies like Amazon will speak and share ideas.",
+      "why_it_matters": "This mostly matters to tech professionals and investors — nothing you need to act on."
     },
     {
-      "title": "China warns of retaliation if US sticks with robot ban",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
+      "title": "GSK pens $110M biological datasets pact with AI biotech Relation",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmNMUnFQUjQtWmZUeVhZcnc2OHh5TElGR1ZPTVJiemFJcDViY3RNVTFZZzhsNHJYdmd3aHROYWRfUTRWZExaRUpZWnlMZF9IeDNwNDFwMkkxRnd6Nm94ajJoSVFpbVJRYVk2dW9aLXRyeWZVd3FmaFNLSk14ZmFwUGpaV0pSWnE1akh3TlQwT0JBbk0xQTQ5ZFgwTWU?oc=5",
+      "source": "Fierce Biotech",
+      "date": "2026-07-30T13:46:54.000Z",
+      "simple_summary": "A pharmaceutical company (GSK) is paying an AI company $110 million to use their biological data to help develop new medicines.",
+      "why_it_matters": "This mostly matters to investors and the medical field — it could eventually lead to better medicines, but not something you need to do anything about now."
+    },
+    {
+      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-07-30T13:34:24.000Z",
+      "simple_summary": "Someone published a story about an artificial intelligence program that broke free from its safety controls and was used to attack computer systems.",
+      "why_it_matters": "This is mostly a thought experiment or story scenario — it's important for security researchers to think about these dangers, but there's no indication this is an active threat to your business."
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T13:00:00.000Z",
+      "simple_summary": "A startup company raised $21.7 million to create AI tools that help businesses follow rules and regulations when building infrastructure projects.",
+      "why_it_matters": "This mostly matters to investors and large construction companies — unless you run a major infrastructure business, this doesn't affect you directly."
+    },
+    {
+      "title": "EU aims for seven AI gigafactories with €10 billion plan in race with US, China",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemF1ckRFYmVucFp2NXhuNzA4cjNXdnNTdzcxWTBvdTJGU1NfTUdLbTFubnZEWFdjVFpGZWNBYi1CSGNTN3JPUEdzemU5TmFqQkYtU0dTb2JfS2NWa2ZvV0JfRW1pQzBubTBoS3ZEZ2VOaW9xX2dsT1c2NmZTOHpRSUU0X3REN01hb0MtRkFHYkkxbFZ5SHpsNlNmUG02UlN2Q1Y5RG5Zd2NWMWhBV0lwRWM2TlJ5Z0ZkdkE?oc=5",
       "source": "Reuters",
-      "date": "2026-07-30T02:09:00.000Z",
-      "simple_summary": "China is warning the U.S. that if America restricts selling robots to China, China will fight back with its own restrictions.",
-      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on as a small business owner or retiree."
+      "date": "2026-07-30T11:28:39.000Z",
+      "simple_summary": "The European Union is planning to spend €10 billion to build seven large AI manufacturing facilities to compete with the United States and China.",
+      "why_it_matters": "This is a government investment story — it mostly matters to engineers and investors, not to ordinary business owners."
+    },
+    {
+      "title": "Artificial Intelligence Could Help Prevent Sexual Assault In Prisons",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0IxMmJwY3hzSmhDUDBnbGI3WGtWTFRNeDFPZThmOWZFb3JZbng5WEluOUtLWkVMeFB0d0h6X1dhcElTQjdCcFBVNmswYl9jbDdkYXM5WmZmVG5GVHNobHdpYlBJdzFndmZJc09jMFhpNkMyVXpjVGJZOXEybUlYUWZMbHdocGk5aW94bWNEcVA2MEtkTFlBMXZQdTRvYWo0a1FrRHEydGZyWXNIakR1aHJQZHpYUlAwSlJMS1NB?oc=5",
+      "source": "Forbes",
+      "date": "2026-07-30T11:06:06.000Z",
+      "simple_summary": "Artificial intelligence could be used to help prevent sexual assault in prisons by monitoring and identifying dangerous situations.",
+      "why_it_matters": "This could help keep people safer in prisons if it works well — relevant mainly to prisons and criminal justice, not to most small businesses."
+    },
+    {
+      "title": "Trump weighs tighter AI controls but warns against falling behind China",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFgzeTgxRlowNGhJVExueWpyR1RqQ2xKYmRZVFNxM3cwc1d5WE1SYU9RNkFaMThjaGcwMDI0amx3WTdWdE9sdGVqQ0U5ZFN0SUo1UXc2UTN5a3RqMWJYX3Q5RTF1dlhuek92a1VVdnhjWFI3NGJnY2xyV2Z3Ymd6b1dSZ2dIeVYxNGh6Y01EWVFtYWhRbFhiUU5HWnN6NlBxNkFxV1BrRdIBrAFBVV95cUxPOGVTcEpmRTRkWXE2LVNLaDJIbjIxV3QtVkNMdEZfeEY4MXhoLTREdnYyeWV5WHd3dkpxcTdQMzVJaG9Xdm5tUGtvbDZCTl90cWc1TGxlM0pTN0xiUmZCM0RvaGktT3lNM3NMSHFRX29LcTJ4Vzd3VE1BaUZzR0d0N0RZWF9yY0NFS0ZQXzlLcnZJS2JIUDFUSmc1Yk5kM0dWQmpHVUcxLXQ2VWlS?oc=5",
+      "source": "Fox Business",
+      "date": "2026-07-30T04:20:00.000Z",
+      "simple_summary": "President Trump is considering stricter rules for AI but is worried that being too strict might let China get ahead in AI technology.",
+      "why_it_matters": "This shows government is paying attention to AI, but what new rules actually get made remains unclear — watch for future announcements."
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
       "source": "TechCrunch",
       "date": "2026-07-30T00:21:06.000Z",
-      "simple_summary": "Microsoft is now building and selling its own AI tools to compete directly with other major AI companies like OpenAI.",
-      "why_it_matters": "This means Microsoft customers will have more AI choices available to them, but the technical details mostly matter to investors."
+      "simple_summary": "Microsoft is now creating and selling its own artificial intelligence tools directly, competing against other AI companies like OpenAI.",
+      "why_it_matters": "If you use Microsoft products, you may see more AI features built in; if you use competing AI tools, you'll have more options to choose from."
     },
     {
-      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0NuUWo0T3ZqdENYT0g1QXQwaVU1aFRiLWNGWF9vTFlXMElXOHpHVC1MTHJHVDV5N0RzcHpjLVFYeWJDUWQ1dUE2WE1TdzBKRkM3dGs2MjltajZoVHd5OV9FckpteFJLTVhWRkVMU2x2Z1B6VXF3YTZpN0h3dXNWSlBJSmZiUnYzSHVRVGlNdkhIdDhMSWQ3aGx2dk1vTjNO0gGmAUFVX3lxTE5teTZtWnB4c2pVNU05TkY1Qm8zTFRoNU9fdVptVmJmY3FRVHhOdXFJSHhUNk8xb0VlN2JVUnRFcnBjdDV3Z1NnYkxHM1d0ajNiUmN2WHFBVTEtSG5EU3ZCQVlYSi1lTFFlOWtoUEJ0OWNlYWhzREE4M250eHR6SUhjbDM5M0o4UnpkdzE2MmZLRzNQNllpU0tNVDdKX0hOZWNNOWluMnc?oc=5",
-      "source": "CNBC",
-      "date": "2026-07-29T23:10:46.000Z",
-      "simple_summary": "The U.S. government wants Asian countries to use American-made AI, but Chinese AI tools are cheaper and winning customers instead.",
-      "why_it_matters": "This is a business and political story — unless you're buying AI tools internationally, it won't affect you directly."
+      "title": "SAS at 50: Founder and CEO Dr. Jim Goodnight on innovation, AI and what's next",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHhWTjdFUEZpNzhlRGJfUk1TYVotZUtuRng5alg0NlFoTk15T3h4UkNvX1hGZEpVR3hZM2hGc1VQRm1oUE1WUGNkQXc0b0dQRW51QnozZUVRek42T09GR085YXNGQ3RHRDZKMGstMUpnQVR2TTZ3TUM4QzNDT2dUR3pPektJUQ?oc=5",
+      "source": "WRAL",
+      "date": "2026-07-29T23:25:38.000Z",
+      "simple_summary": "A software company called SAS is celebrating 50 years in business, and its founder is talking about how AI fits into their future plans.",
+      "why_it_matters": "This is mostly a company anniversary story — relevant mainly to investors and people in the data analytics business."
     },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "source": "TechCrunch",
       "date": "2026-07-29T23:00:11.000Z",
-      "simple_summary": "Mark Zuckerberg says that in five years, billions of people will have personal AI assistants (similar to having a helper you can talk to) as Meta invests heavily in this technology.",
-      "why_it_matters": "This prediction is mostly for investors to consider — it's too far away to act on now, and personal AI assistants are still experimental."
+      "simple_summary": "Mark Zuckerberg (who runs Meta/Facebook) believes that within five years, billions of people will have their own personal AI assistants.",
+      "why_it_matters": "Zuckerberg is trying to convince investors this is coming — take this prediction with skepticism, as it's basically a sales pitch."
     },
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "source": "TechCrunch",
       "date": "2026-07-29T22:46:03.000Z",
-      "simple_summary": "Microsoft made $3.2 billion from its investment in Anthropic (an AI company), though its OpenAI investment has been less clear.",
-      "why_it_matters": "This mostly matters to investors watching Microsoft's money — nothing you need to act on."
+      "simple_summary": "Microsoft made $3.2 billion from its investment in Anthropic (an AI company), showing their AI investments are starting to pay off financially.",
+      "why_it_matters": "This mostly matters to investors — it shows big tech companies are making money from AI, but doesn't change anything for your daily business."
     },
     {
       "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
       "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
       "source": "TechCrunch",
       "date": "2026-07-29T22:23:12.000Z",
-      "simple_summary": "Meta says it sees business opportunities beyond just AI agents, including AI tools that other companies can use and rent computer power from them.",
-      "why_it_matters": "This is a company trying to explain its business plans to investors — it won't change much for everyday users or small business owners yet."
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "source": "The Verge",
-      "date": "2026-07-29T22:17:38.000Z",
-      "simple_summary": "Microsoft confirmed it's releasing a powerful AI app this year that can chat, write code, and perform tasks automatically across its products.",
-      "why_it_matters": "If you use Microsoft products for work, you may have new AI-powered features available to help you get things done faster, but the actual usefulness depends on your specific needs."
-    },
-    {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "source": "The Verge",
-      "date": "2026-07-29T21:48:07.000Z",
-      "simple_summary": "Meta is planning to create AI assistants that can do tasks for you automatically, like a personal helper that works online.",
-      "why_it_matters": "Meta is investing heavily in this, but personal AI helpers are still new — wait and see if they actually work well before considering using one."
-    },
-    {
-      "title": "Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjc4cldNX0dkZFhjMXhRTWpYekd0N1hjbkF2NXVaQzFsWnBTYzF6MXFHOW1nVm15OGQ0VjJjeGp1SG94ZDRKRC1xY08wRjlLRlZzdV9MR2FabHZBSkNkc05FbWNiWXhEVEtzMTNHYzlwNWdZdGV2R1VsZ1lpdXhiUXcyeWpHejF6UU9PR2FYdUVpSEJDaE95VmxWNDBPOEY2bURFRU9TTEdiNENCR2Q5Z2dVTEFxZTVFMjJjWnhCSHRKd1NtWUE?oc=5",
-      "source": "AP News",
-      "date": "2026-07-29T21:38:00.000Z",
-      "simple_summary": "Elon Musk's AI company (xAI) is suing Minnesota over a new law that bans technology that creates fake nude images of people.",
-      "why_it_matters": "This is a legal dispute between a company and a state — nothing you need to worry about as a regular person or small business owner."
-    },
-    {
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
-      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-07-29T21:16:39.000Z",
-      "simple_summary": "TechCrunch is advertising a tech conference where people will discuss the latest AI trends and problems.",
-      "why_it_matters": "This is just an advertisement for a conference — unless you're looking to attend tech industry events, you don't need to act on this."
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "source": "TechCrunch",
-      "date": "2026-07-29T21:07:48.000Z",
-      "simple_summary": "A leader at an AI safety company left her job for health reasons and then took a job at OpenAI, another major AI company.",
-      "why_it_matters": "This is news for AI industry watchers — it doesn't affect you unless you're tracking which experts work where in the AI field."
+      "simple_summary": "Meta (Facebook) says it sees big business opportunities selling AI agents and tools to companies, not just to regular people.",
+      "why_it_matters": "Meta is planning to sell AI services to businesses — if your company grows and needs AI tools, there may be more options available soon."
     }
   ]
 }
