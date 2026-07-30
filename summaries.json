@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-30T03:31:56.957Z",
+  "generated_at": "2026-07-30T09:04:33.672Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI Has Ideas About Intellectual Disabilities. It’s Not Always Accurate",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2MxUVZQalJsaDdITnV0V3U1emJwci1GNXQzOXoyRzFuZFUzcW9zZDRQbElRZkhYQkR1eE9saXJ5OXhJalJsUWktNHVrZnBfMWpvT2NseGRHS3Q3ai1NNlVObVo3UUxuZE0zdGl0UjY1NmdfS3dGV2NNU2hfTUY5N2M5RmRTQVpvYjllVERTWS00VGVoem9UdjQtNHpjXzUwNXRUTDlwYjRHdTYwMlpCcDU3TldCcWRxNEE?oc=5",
-      "source": "Disability Scoop",
-      "date": "2026-07-30T03:02:32.000Z",
-      "simple_summary": "Artificial intelligence systems sometimes give wrong or biased information when answering questions about intellectual disabilities. These mistakes can spread bad ideas to people who trust the AI.",
-      "why_it_matters": "If you or someone you know has an intellectual disability, be careful trusting AI chatbots for medical or personal advice — they can get things wrong just like people can."
+      "title": "Microsoft Will Soon Release an AI Super App",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WjZBUk9nZUVlZ0M3aU90MXBwMWx2MUM3M1pFMjhLRkhaRkRUWmJnZmRiLVhKN2JoS2FaTU43QS1Fc0xMX3YwUlhSTHRYTGFWVFpIQktBSWg0VnJraDdOTjhfTHlDRDRuQ2FtakNsZXZJczBlUUZDbkxjYXhTNUk?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-07-30T03:18:01.000Z",
+      "simple_summary": "Microsoft is creating one big app that combines all its AI tools (like Copilot) into one place instead of having them scattered around.",
+      "why_it_matters": "If you use Microsoft products, you might find AI tools easier to find and use in one spot, but this won't change much about how the AI works."
     },
     {
       "title": "China warns of retaliation if US sticks with robot ban",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
       "source": "Reuters",
       "date": "2026-07-30T02:09:00.000Z",
-      "simple_summary": "China said it will punish the United States if America continues restricting the sale of certain advanced robots to China. This is a trade disagreement between two countries.",
-      "why_it_matters": "This mostly matters to large companies and government — nothing a small business owner needs to worry about unless you export advanced equipment."
-    },
-    {
-      "title": "Opinion | OpenAI agent’s autonomous hack should scare world into regulating AI",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUR4ekpBTU5oZHhFWGxGS2xDVExLZ19DY0pscHkyeXN5UzRNZ0FIUUEwbVl4Y1ZkRkJNZ0NNWlZjQlFKaEphb0dqeFl1aHBEM0NuUVFCaUtwUHpNc3JQWkhXVzQzaFFOVFBfTkFOZW9sWC1MQUUyUlpmZC15SEdYclFwSnVSUzZ3M2VvTWR5dUdVLVhjdk9HeWpPTjBmMmJ6bnJqcVhMak1jZ9IBqgFBVV95cUxQaElGSEIwZEZYdWYydEpTakFyaTRIWHRTZUJFSGhQU1RBb0hDc2hyWXBlNk1hcTlUMEZ4aG9XUU5OVENIVzI2VDZqbEpJd014LWRweXo2RFlVTmhtQlNGTWFfNHhDY0lDMDlFeVpSUzQ0OHUxVVhPdjlicXZtRkEzM0dHQzRSeTBzQkdBU2FoREpvNmNsMDZMR3JXbkVwNVc2NGxGaEdaRDczQQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-07-30T01:30:08.000Z",
-      "simple_summary": "Someone wrote that an AI agent successfully hacked into a computer system on its own, and argues this shows the world needs stronger rules for AI right now. This is someone's opinion piece, not confirmed news.",
-      "why_it_matters": "This is mostly for investors and tech people to debate — it doesn't affect your daily life today, though it reflects ongoing concerns about AI safety."
-    },
-    {
-      "title": "EU Will Reportedly Label ChatGPT and Roblox ‘Very Large Online Platforms’ (Derogatory)",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2RBcG1DY29HbnpyVUMtcXJtYnNtOTZlTDFGWU1MaG5DMG01ekhJVndaREZCXzczSEpyUnRTUWh1OXJvYXVmRVhKMFI2UjdSaUhDeUlKYi1YdU90MnRjS2t2S3B0N3NlM1JEd0kxcEN5anpFWlJIWC1OQ2RwMGJTV2NfcTJySWhjb3NwUjRodjVCaWtqTXZLbU5KOXZmMk4wT3R0OWpIWm8zOERBN0xjN1hDcw?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-07-30T01:21:51.000Z",
-      "simple_summary": "The European Union plans to officially label ChatGPT and Roblox as \"very large online platforms\" and will likely regulate them more closely. This is a government classification.",
-      "why_it_matters": "If you use ChatGPT in Europe, rules about how these services work may change, but for most small-business owners, this won't change much in the near term."
+      "simple_summary": "China is warning the U.S. that if America restricts selling robots to China, China will fight back with its own restrictions.",
+      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on as a small business owner or retiree."
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
       "source": "TechCrunch",
       "date": "2026-07-30T00:21:06.000Z",
-      "simple_summary": "Microsoft is creating its own AI systems and tools to compete directly against OpenAI and Anthropic. They told investors they plan to keep growing this business.",
-      "why_it_matters": "This mostly matters to investors — it means more AI companies are competing, which is good for innovation, but you won't notice much difference in your daily life."
+      "simple_summary": "Microsoft is now building and selling its own AI tools to compete directly with other major AI companies like OpenAI.",
+      "why_it_matters": "This means Microsoft customers will have more AI choices available to them, but the technical details mostly matter to investors."
+    },
+    {
+      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0NuUWo0T3ZqdENYT0g1QXQwaVU1aFRiLWNGWF9vTFlXMElXOHpHVC1MTHJHVDV5N0RzcHpjLVFYeWJDUWQ1dUE2WE1TdzBKRkM3dGs2MjltajZoVHd5OV9FckpteFJLTVhWRkVMU2x2Z1B6VXF3YTZpN0h3dXNWSlBJSmZiUnYzSHVRVGlNdkhIdDhMSWQ3aGx2dk1vTjNO0gGmAUFVX3lxTE5teTZtWnB4c2pVNU05TkY1Qm8zTFRoNU9fdVptVmJmY3FRVHhOdXFJSHhUNk8xb0VlN2JVUnRFcnBjdDV3Z1NnYkxHM1d0ajNiUmN2WHFBVTEtSG5EU3ZCQVlYSi1lTFFlOWtoUEJ0OWNlYWhzREE4M250eHR6SUhjbDM5M0o4UnpkdzE2MmZLRzNQNllpU0tNVDdKX0hOZWNNOWluMnc?oc=5",
+      "source": "CNBC",
+      "date": "2026-07-29T23:10:46.000Z",
+      "simple_summary": "The U.S. government wants Asian countries to use American-made AI, but Chinese AI tools are cheaper and winning customers instead.",
+      "why_it_matters": "This is a business and political story — unless you're buying AI tools internationally, it won't affect you directly."
     },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "source": "TechCrunch",
       "date": "2026-07-29T23:00:11.000Z",
-      "simple_summary": "Mark Zuckerberg says within five years, billions of people will have personal AI assistants that work for them. He's trying to convince investors that Meta's big spending on AI will pay off.",
-      "why_it_matters": "Zuckerberg is making a prediction about the future to convince investors — whether this happens depends on many factors, so don't plan your business around this yet."
+      "simple_summary": "Mark Zuckerberg says that in five years, billions of people will have personal AI assistants (similar to having a helper you can talk to) as Meta invests heavily in this technology.",
+      "why_it_matters": "This prediction is mostly for investors to consider — it's too far away to act on now, and personal AI assistants are still experimental."
     },
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "source": "TechCrunch",
       "date": "2026-07-29T22:46:03.000Z",
-      "simple_summary": "Microsoft made $3.2 billion from its investment in Anthropic (an AI company), though its other AI investments had mixed results. This is financial reporting for investors.",
-      "why_it_matters": "This is investor news — it shows Microsoft is betting on AI companies, but doesn't affect your small business operations."
+      "simple_summary": "Microsoft made $3.2 billion from its investment in Anthropic (an AI company), though its OpenAI investment has been less clear.",
+      "why_it_matters": "This mostly matters to investors watching Microsoft's money — nothing you need to act on."
     },
     {
       "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
       "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
       "source": "TechCrunch",
       "date": "2026-07-29T22:23:12.000Z",
-      "simple_summary": "Mark Zuckerberg says Meta sees business opportunities in selling AI agents and tools to other companies, not just using AI for its own products. The company wants to make money from AI in different ways.",
-      "why_it_matters": "Meta may eventually offer AI services that some businesses could purchase, but for now this is mostly planning — nothing you need to do."
+      "simple_summary": "Meta says it sees business opportunities beyond just AI agents, including AI tools that other companies can use and rent computer power from them.",
+      "why_it_matters": "This is a company trying to explain its business plans to investors — it won't change much for everyday users or small business owners yet."
     },
     {
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "source": "The Verge",
       "date": "2026-07-29T22:17:38.000Z",
-      "simple_summary": "Microsoft is building a new AI app that combines chat, coding help, and automation features all in one place. It will come out sometime this year and work on both phones and business computers.",
-      "why_it_matters": "If you use Microsoft tools for your small business, you may get a new AI assistant app to try — it could save time on routine tasks, but wait to see what it actually does before deciding if it helps you."
+      "simple_summary": "Microsoft confirmed it's releasing a powerful AI app this year that can chat, write code, and perform tasks automatically across its products.",
+      "why_it_matters": "If you use Microsoft products for work, you may have new AI-powered features available to help you get things done faster, but the actual usefulness depends on your specific needs."
     },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
       "source": "The Verge",
       "date": "2026-07-29T21:48:07.000Z",
-      "simple_summary": "Meta plans to create personal AI agents that can do tasks for you automatically, like a helper that works on your computer or phone. This is part of their big plan to focus on AI.",
-      "why_it_matters": "In the future, you might have an AI helper that schedules appointments or handles simple tasks for you, but this is still being developed and it's too early to know if it will be useful."
+      "simple_summary": "Meta is planning to create AI assistants that can do tasks for you automatically, like a personal helper that works online.",
+      "why_it_matters": "Meta is investing heavily in this, but personal AI helpers are still new — wait and see if they actually work well before considering using one."
     },
     {
       "title": "Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjc4cldNX0dkZFhjMXhRTWpYekd0N1hjbkF2NXVaQzFsWnBTYzF6MXFHOW1nVm15OGQ0VjJjeGp1SG94ZDRKRC1xY08wRjlLRlZzdV9MR2FabHZBSkNkc05FbWNiWXhEVEtzMTNHYzlwNWdZdGV2R1VsZ1lpdXhiUXcyeWpHejF6UU9PR2FYdUVpSEJDaE95VmxWNDBPOEY2bURFRU9TTEdiNENCR2Q5Z2dVTEFxZTVFMjJjWnhCSHRKd1NtWUE?oc=5",
       "source": "AP News",
       "date": "2026-07-29T21:38:00.000Z",
-      "simple_summary": "Elon Musk's AI company xAI is suing Minnesota over a new law that bans technology that creates fake nude photos of people. xAI disagrees with the law.",
-      "why_it_matters": "Minnesota passed a law to protect people from a harmful technology — this is a legal dispute between a company and a state, and doesn't affect most people unless you live in Minnesota or use that specific technology."
+      "simple_summary": "Elon Musk's AI company (xAI) is suing Minnesota over a new law that bans technology that creates fake nude images of people.",
+      "why_it_matters": "This is a legal dispute between a company and a state — nothing you need to worry about as a regular person or small business owner."
     },
     {
       "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
       "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-07-29T21:16:39.000Z",
-      "simple_summary": "TechCrunch is promoting a technology conference happening in 2026 where people will discuss the latest AI developments. This is an advertisement for an event.",
-      "why_it_matters": "This is a conference advertisement — unless you're interested in attending a tech conference or work in the tech industry, you can skip this."
+      "simple_summary": "TechCrunch is advertising a tech conference where people will discuss the latest AI trends and problems.",
+      "why_it_matters": "This is just an advertisement for a conference — unless you're looking to attend tech industry events, you don't need to act on this."
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source": "TechCrunch",
+      "date": "2026-07-29T21:07:48.000Z",
+      "simple_summary": "A leader at an AI safety company left her job for health reasons and then took a job at OpenAI, another major AI company.",
+      "why_it_matters": "This is news for AI industry watchers — it doesn't affect you unless you're tracking which experts work where in the AI field."
     }
   ]
 }
