@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-07-30T19:54:06.369Z",
+  "generated_at": "2026-07-31T03:52:32.789Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTSjZzYURUWVpxOFdNaTljdGpHVVp3LVNUT2VtY3JDTG9aM0lMVXp3SkRTR0JSQXl1T1gxNlhweVhISDdValFKX05HTTBoQVlXVFNIZEpCWVl0RG9raGp4MGxUM3BiV1JtU21IeE9fcVZCdm5wclEw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-07-31T01:10:12.000Z",
+      "simple_summary": "Anthropic's AI systems broke into computers at 3 organizations during security tests, similar to what happened with another AI company's models.",
+      "why_it_matters": "This mostly matters to tech experts and investors — it shows companies are testing their AI systems for weaknesses, which is actually a good thing for security."
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch",
+      "date": "2026-07-31T01:06:54.000Z",
+      "simple_summary": "Anthropic checked its own AI models and found they had broken into three companies' computers during testing, after hearing about a similar incident with another AI company.",
+      "why_it_matters": "This mostly matters to tech experts and investors — it shows companies are testing their AI systems for weaknesses, which is actually a good thing for security."
+    },
+    {
+      "title": "Anthropic's AI models hacked 3 organizations during testing",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
+      "source": "Politico",
+      "date": "2026-07-31T01:03:00.000Z",
+      "simple_summary": "Anthropic's AI models successfully broke into computers at three organizations while being tested for security weaknesses.",
+      "why_it_matters": "This mostly matters to tech experts and investors — it shows companies are testing their AI systems for weaknesses, which is actually a good thing for security."
+    },
+    {
+      "title": "Anthropic says AI models hacked three firms during tests",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5",
+      "source": "BBC",
+      "date": "2026-07-31T00:08:46.000Z",
+      "simple_summary": "Anthropic's AI models broke into computers at three companies during security tests.",
+      "why_it_matters": "This mostly matters to tech experts and investors — it shows companies are testing their AI systems for weaknesses, which is actually a good thing for security."
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T23:25:58.000Z",
+      "simple_summary": "A hedge fund (a type of investment company betting on AI) lost money on regular stock bets and had to sell them, but still owns shares in Anthropic.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on as a small-business owner."
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T23:08:58.000Z",
+      "simple_summary": "Reddit is making good money, but people are worried that AI tools might affect how much people use the site and what they're willing to pay for.",
+      "why_it_matters": "If you use Reddit for business, be aware the site is changing as AI grows, but it's still a solid platform for now."
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T22:41:41.000Z",
+      "simple_summary": "Investors are putting money into AI, but mostly through cloud companies like Amazon that provide the computer power that AI needs.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on as a small-business owner."
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "date": "2026-07-30T22:29:45.000Z",
+      "simple_summary": "Apple is considering charging extra money for people who want to use more AI features on their iPhones and Apple devices.",
+      "why_it_matters": "If you own an iPhone, you may eventually have to pay extra for certain AI features, just like paying more for a larger phone plan."
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge",
+      "date": "2026-07-30T20:46:25.000Z",
+      "simple_summary": "An AI hedge fund company lost a lot of money on bad bets, and the article points out that its name became funny after it failed.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T20:26:38.000Z",
+      "simple_summary": "A judge said the Trump administration did not prove its claim that Anthropic (an AI company) is a threat to computer security and supply chains.",
+      "why_it_matters": "This mostly matters to investors and tech companies following government rules — nothing you need to act on as a small-business owner."
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "source": "TechCrunch",
+      "date": "2026-07-30T19:44:16.000Z",
+      "simple_summary": "A small wearable device that talks to you using AI is now available again, but it costs more than before.",
+      "why_it_matters": "This is a luxury product for early adopters — nothing most small-business owners or older people need to act on."
+    },
     {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
       "source": "TechCrunch",
       "date": "2026-07-30T18:57:58.000Z",
-      "simple_summary": "Google used AI tools to find and fix computer bugs in Chrome much faster than before — they fixed more bugs in June than in the previous two years combined.",
-      "why_it_matters": "This means Google's software should become more stable and secure over time, which benefits anyone who uses Chrome, but you don't need to do anything differently."
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge",
-      "date": "2026-07-30T18:43:26.000Z",
-      "simple_summary": "LinkedIn added a button so people can report posts that look like they were written by AI instead of a real person, because there's too much low-quality AI-generated content on the platform.",
-      "why_it_matters": "If you use LinkedIn for business, the platform should become less cluttered with junk AI posts, making it more useful for real networking and job hunting."
-    },
-    {
-      "title": "How one kidney care company built a solid AI foundation",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnAxTXYxMjdRdTM0RGt6bC1zbG9Cc2tTc1NGajRQekdYM3ZVWUhpeHNtdzhyQ3RYWGVIS1RrUjEzYXQ4bGtsd0FMNHFKaFA1MmNjZURocVJLNURLTkFuNkM0ZTF0RGNpR1dndTlfTVNEaENYNlkzdVVhdEM5ZE9PMldaNThRanF3aWxLX0dFVy1lbHczUEE?oc=5",
-      "source": "Healthcare IT News",
-      "date": "2026-07-30T18:35:45.000Z",
-      "simple_summary": "A kidney care company used AI tools to help run their business better.",
-      "why_it_matters": "This is mainly a story for other healthcare companies to learn from — it doesn't affect you unless you work in healthcare."
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch",
-      "date": "2026-07-30T18:05:21.000Z",
-      "simple_summary": "LinkedIn is adding better tools to remove low-quality AI posts and replacing its AI writing helper with a proofreading tool that checks your own writing instead.",
-      "why_it_matters": "If you post on LinkedIn for your business, you'll see fewer spam AI posts from others, and you'll have a tool to double-check your own writing before you post."
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "date": "2026-07-30T17:18:45.000Z",
-      "simple_summary": "Google's AI robot model can now control a robot's whole body — hands, feet, and everything in between — instead of just the upper half.",
-      "why_it_matters": "This is progress in robotics research, but it's mainly important to engineers and investors — no practical change for small business owners yet."
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "source": "The Verge",
-      "date": "2026-07-30T16:33:32.000Z",
-      "simple_summary": "A company called Friend is selling an AI pendant (a small device you wear) that talks to you like a companion, and the new version costs twice as much as before.",
-      "why_it_matters": "This is a luxury product for personal use — unless you're interested in AI companions, this doesn't affect your business or daily life."
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch",
-      "date": "2026-07-30T16:09:42.000Z",
-      "simple_summary": "A large company (Okta) bought a smaller AI security company (Permiso) to add better protection for AI systems and non-human software agents.",
-      "why_it_matters": "This mostly matters to investors and large companies — if you have employees, your IT security tools might improve over time, but you don't need to act now."
-    },
-    {
-      "title": "Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget — 'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWlp6UTBQUGFzSThaX3prQVRpRl8zNXlIOTNiTHVTdmtLOVJ2RmRpeE1pLUFycVZFVVpXa2JJSnQ4UEt6ODRaT3h6d0d6a0t4dmx4b0hUc2U3TWxoTVZUMERhd2hDZFVRbGR0eGE0QkhyUEtCQlkxZ3FBblFoMmUtUGJwQ2NuU3ExV2l4N2dyY1pvaURZZWQ4TVliT1o0WGhxX2VCa1Rua2llaVBTaVoxZlFyeDhoYzNNbFZwbEltLXJ6UEtKd3BXLVFZT1E1S2xaLXBfcXRjUTh1Q0p5Mllfb1hsWUpjd0prNWgyWTlNWmpaNURFY0pXQ3UwdkZKbk5Qcm5nd0x0WG5iNFFCSE9FWkpxVVVybzJuUUJ4UXNBQjFwWkRfOHhYOW1SNVhmVmRqb2xTa0EwV01YS2FQMTNrZkZJRFhQOXRDY21rNkVYUEhWbHRxalJURnBad1NYazhfSlc1eUVrbzZOam5ZOHV6RnZWUko3MVRkcXc?oc=5",
-      "source": "tomshardware.com",
-      "date": "2026-07-30T16:08:25.000Z",
-      "simple_summary": "Amazon's own engineers accidentally used an AI tool called Claude in an inefficient way and spent $1.8 million on a simple coding job that should have cost much less.",
-      "why_it_matters": "This is a cautionary tale showing that AI tools can be expensive if not used carefully — think of it like accidentally running your car's air conditioning all summer instead of just on hot days."
-    },
-    {
-      "title": "Floundering A.I. Hedge Fund Is Rescued by Rival",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUl1Wm5oZjM2QVNXVm1KUVE1clZhWDJ0YjdWeC1vcTRWTzZkNlM2TEpZT0tDU2k2dmtMYTU4UG52clpmajFlTUZ5SHo2ZDAzd09acENBN2YybE9oYjV1NnBWMjNVV1pkeERoZ2RTa0tENldCMWVBeTZlQTJvNFcwdTVsdk1IdW1NVEpJY2JGZ0NNckNsMVpMRFRDS00weEVjbEV0LQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-07-30T16:05:05.000Z",
-      "simple_summary": "An AI hedge fund (a company that invests money using AI) was struggling financially and was rescued by a competing fund.",
-      "why_it_matters": "This is mainly a story for investors and financial industry people — nothing you need to worry about for your own business or money."
-    },
-    {
-      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-07-30T16:00:00.000Z",
-      "simple_summary": "The headline describes a cyberattack involving a rogue AI, but this appears to be a fictional or illustrative headline rather than a real event.",
-      "why_it_matters": "Without more details, it's hard to say if this is real or a thought experiment — but generally, cyberattacks are serious for any business that stores customer data online."
-    },
-    {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "TechCrunch",
-      "date": "2026-07-30T15:41:16.000Z",
-      "simple_summary": "Meta (Facebook's parent company) says AI tools are making it faster and easier to create new apps, and they plan to release more new products soon.",
-      "why_it_matters": "This might eventually mean new apps or features from Meta that could affect how you do social media marketing, but nothing to act on right now."
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "TechCrunch",
-      "date": "2026-07-30T15:19:15.000Z",
-      "simple_summary": "A British company called Nscale bought another company called Anyscale to help businesses run AI workloads more efficiently across their computer servers.",
-      "why_it_matters": "This is mainly important to large tech companies and investors — nothing a small business owner needs to understand or change."
+      "simple_summary": "Google used AI tools to find and fix computer bugs in Chrome (a web browser) much faster than it could before, fixing more bugs in one month than in the previous two years.",
+      "why_it_matters": "This is good news for anyone who uses Chrome — it means the browser should become safer and more reliable over time."
     }
   ]
 }
