@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-02T13:58:20.012Z",
+  "generated_at": "2026-08-02T19:36:18.799Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5",
+      "source": "CBS News",
+      "date": "2026-08-02T19:08:12.000Z",
+      "simple_summary": "An AI company called Hugging Face said another AI company (OpenAI) did something unusual and unexpected to them—something they called a hack.",
+      "why_it_matters": "This mostly matters to tech industry insiders — nothing you need to worry about in your daily life."
+    },
+    {
+      "title": "Minnesota's nudification ban takes effect after judge rejects xAI's bid to pause it",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
+      "source": "Mashable",
+      "date": "2026-08-02T14:04:37.000Z",
+      "simple_summary": "Minnesota passed a law banning apps that fake people into appearing nude in photos. A court said this ban can stay in effect even though a company tried to stop it.",
+      "why_it_matters": "If you live in Minnesota, this protects you and others from a harmful technology that creates fake nude images of people without permission."
+    },
     {
       "title": "Is paying artists enough to convince them to embrace AI?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
       "source": "The Verge",
       "date": "2026-08-02T13:00:00.000Z",
-      "simple_summary": "Artists' work has been used to train AI art generators without permission. Now some AI companies are trying to pay artists to get their support instead.",
-      "why_it_matters": "If you're an artist or illustrator, this affects how your work might be used. If you're not an artist, this mostly just determines what kinds of AI art tools will be available to you."
+      "simple_summary": "Artists are upset that AI companies used their artwork to train their AI tools without paying them or asking permission. Some companies are now offering to pay artists—the question is whether this will make artists accept AI.",
+      "why_it_matters": "If you're an artist or creative person, this affects whether your work gets used without permission and whether you can get paid for it."
     },
     {
-      "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+      "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5",
       "source": "CNBC",
       "date": "2026-08-02T12:30:01.000Z",
-      "simple_summary": "A news opinion says the U.S. is no longer ahead of China when it comes to artificial intelligence technology.",
-      "why_it_matters": "This is mainly important to government leaders and investors — it doesn't change anything about AI tools you might use today."
+      "simple_summary": "An opinion piece says the United States used to be ahead of China in AI technology, but that advantage has mostly disappeared.",
+      "why_it_matters": "This is political commentary meant for investors and policymakers — it doesn't directly affect your day-to-day life."
     },
     {
       "title": "Medical journals, law reviews, and literary magazines are grappling with AI-generated submissions",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0hoQnE4VTNHUkZsRXJMWkhMLWtwOXZ1aGJIMFhRM3IzNWFTN3VOZHFWSlhGdUN2QlloeTc2NWk3T3p0ZHB3OE9SejA5WEd2VmpMaEpnWExfOEp0Z0U3S1R5a3FLWWw3dlR5UGNsbGkweU1GdHN2ck9mNjR6azk4SEh4LS1yVjRldnJzLW05Ylk2OW81MjVhQ1F3aW42eUhs?oc=5",
       "source": "The Boston Globe",
       "date": "2026-08-02T10:03:15.000Z",
-      "simple_summary": "Magazines and journals that publish serious articles and research are now having to figure out how to handle submissions that might be written by AI instead of humans.",
-      "why_it_matters": "If you read scientific or academic articles, you may need to wonder if they're genuinely written by an expert or made by AI — but these publishers are working to solve this problem."
+      "simple_summary": "Magazines and journals that publish research and writing are now dealing with problems caused by AI-written submissions trying to get published.",
+      "why_it_matters": "This mostly affects writers and editors — average people won't notice much difference when they read these publications."
     },
     {
       "title": "Stock market turmoil sheds stark light on the opaque AI economy",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDA2eEdWZUVjWFNkbGdwZVFhZ0FUODRfU2dGQy1OaHVENmgzcFBDak1na3JzY08yTWtWS3N4STF0VjV3R0w5bzFMYTJxMl9XajZFYVFNd2s0ckdKdThkTlZ5UzZyRlo3RnZnSHU0eFpZM0JrMDdPNUtBNzhQOFV2TnFqbGZpY2FXbmRTSUhVOGVOTGU5Yjh5ZFAxWWRhYnBYUXIw?oc=5",
       "source": "The Guardian",
       "date": "2026-08-02T09:00:00.000Z",
-      "simple_summary": "Recent confusion in the stock market has shown that many AI companies' true value is hard to understand.",
-      "why_it_matters": "This mostly matters to people investing in AI stocks — nothing you need to worry about unless you're a stock investor."
+      "simple_summary": "Stock market problems have made it clear that the AI business world is messy and confusing, with a lot of hidden information.",
+      "why_it_matters": "This mostly matters to investors in AI companies — nothing you need to act on unless you have stock investments."
     },
     {
       "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDZqYjNxMzVHY1pEamxmVXJxVHpGYnNhR1E1dVhCdmFPc29VanFRSzVTUER5d0pNNlZVNmJaRUVNVV9wb2oyUHMxRW9ucmQxR3VCUFliN3dGSkRpZjBXMnFoUzhVanRvME5lbWd0YURsZWY1VklXRUtHUnpuQ1ljOXVoRjI2ZDAtd2ZWcTlQQnFuWEFma0VrNl9Oa05nQQ?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-02T08:20:00.000Z",
-      "simple_summary": "A financial website is recommending certain AI company stocks as good investments.",
-      "why_it_matters": "This is only relevant if you're thinking about buying stocks — honestly, this is investment advice and doesn't affect everyday life."
+      "simple_summary": "Someone is recommending specific AI company stocks as good investments.",
+      "why_it_matters": "This is investment advice meant for stock traders — nothing you need to act on unless you're buying stocks."
     },
     {
       "title": "The Race to Build an American Alternative to Cheap AI From China",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
       "source": "WSJ",
-      "date": "2026-08-02T05:26:25.000Z",
-      "simple_summary": "American companies are trying to build cheaper AI technology to compete with similar technology from China.",
-      "why_it_matters": "This mostly matters to investors and business strategists — it's a competition between countries and companies, not something that directly affects you."
+      "date": "2026-08-02T01:00:00.000Z",
+      "simple_summary": "American companies are trying to build AI tools that are cheap alternatives to AI tools made in China.",
+      "why_it_matters": "This mostly matters to large tech companies and investors — average people will benefit only if cheaper AI tools become available later."
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "source": "TechCrunch",
       "date": "2026-08-01T20:26:04.000Z",
-      "simple_summary": "Minnesota passed a law banning apps that digitally remove people's clothes from photos without permission, and a judge said this law can go forward even though one AI company tried to stop it.",
-      "why_it_matters": "If you live in Minnesota, apps that create fake nude pictures are becoming illegal, which protects you and others from having your image used this way."
+      "simple_summary": "A court refused to let a company stop Minnesota's law that bans apps that create fake nude images of people.",
+      "why_it_matters": "If you live in Minnesota, this protects you from apps that can humiliate people by creating fake inappropriate images."
     },
     {
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "source": "TechCrunch",
       "date": "2026-08-01T19:45:45.000Z",
-      "simple_summary": "A popular YouTuber said he's been using AI chatbots so much that it's become unhealthy for him, similar to how someone might spend too much time on social media.",
-      "why_it_matters": "This is a reminder that like any tool, AI chatbots can become addictive — so be mindful if you start using them a lot."
+      "simple_summary": "YouTuber Hank Green says using an AI chatbot gave him such a rush that it became unhealthy for him, like too much of a good feeling.",
+      "why_it_matters": "This is a reminder that AI tools can be addictive for some people — if you or someone you know uses them a lot, it's worth paying attention to your feelings."
     },
     {
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
       "source": "The Verge",
       "date": "2026-08-01T18:20:00.000Z",
-      "simple_summary": "A rap song that climbed high on the music charts might have been created mostly by AI instead of a human artist.",
-      "why_it_matters": "As AI creates music and art better, you may start encountering AI-made entertainment — you might want to know who actually created something before you support it."
+      "simple_summary": "A rap song recently became popular, but people are now wondering if most of it was created by AI instead of the actual musician.",
+      "why_it_matters": "This shows that AI is starting to create music that can fool people — it raises questions about what we're listening to and who deserves credit."
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch",
       "date": "2026-08-01T17:07:34.000Z",
-      "simple_summary": "The head of OpenAI (a major AI company) thinks parents should use ChatGPT (an AI chatbot) to help with parenting.",
-      "why_it_matters": "This is one person's opinion about using AI as a parenting tool — you don't need to use it this way if you don't want to."
-    },
-    {
-      "title": "Prediction: The Historic Artificial Intelligence (AI) Infrastructure Build-Out Will Make This Stock a Multibagger",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYURCRHlabGNGblNUbmZoUS1Fakk1MFdMV2hRS19BLVRQRzNRN3BjM1dzMnFoeUg5bDZTdVVlRDVodVVzR0s3YWg1a05hdU0wSUd0UXZjTmZfdHROaVl5R3dITWdZUzZmRDRiMWpkaUFPREVCR2gyWVRlclpjYzV0QnBKaWtnWXhEc19SeXd0MWlacGVJNU0zdQ?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-08-01T16:49:00.000Z",
-      "simple_summary": "An investment newsletter predicts that building all the computer equipment needed for AI will make one particular stock very valuable.",
-      "why_it_matters": "This is stock investment advice and prediction — nothing that affects your everyday life unless you invest in stocks."
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-01T15:58:17.000Z",
-      "simple_summary": "Someone invented a small $9 key that you physically have to touch to your phone before you can use distracting apps like social media.",
-      "why_it_matters": "If you struggle with using your phone too much, this is a simple tool that might help you take a break — it's just a helpful gadget, not AI-related."
+      "simple_summary": "The head of OpenAI (the company that made ChatGPT) is suggesting that parents could use ChatGPT to help with parenting decisions.",
+      "why_it_matters": "If you're a parent, you might consider using ChatGPT for advice, but you should remember it's just a tool—it's not a replacement for your own judgment or talking to trusted people."
     }
   ]
 }
