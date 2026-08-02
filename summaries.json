@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-02T03:56:12.676Z",
+  "generated_at": "2026-08-02T08:38:04.233Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "'I don't let my AI talk to me like that'",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0lLYkJPZVpwN1dGQWZYTkt6UnlrSFhCekpYVGtfLTFINW9QM3pzR0NGQllPY2paYXJFWkxrU1R1Wm4yUUpkZ0xkMmVfSzRIZG51TTN3WHBnSnRZaV8zX3hLT2VxRkZCMl96b1Qwa21fZjlNeFg1c0NzTEdDcW9qaHF2MGRvMEdMX1hVQXF6amdMMnljaVBKNUFiUzVnbU1BV2UteDlVd0xXSEEzRGc?oc=5",
+      "source": "Le Monde.fr",
+      "date": "2026-08-02T08:00:11.000Z",
+      "simple_summary": "Someone wrote about not letting an AI program talk to them disrespectfully. They're setting boundaries with how AI communicates with them.",
+      "why_it_matters": "This mostly matters to people who use chatbots regularly — it's a reminder that you can push back if an AI seems rude or unhelpful."
+    },
+    {
+      "title": "Harburg: Students shouldn’t be AI’s beta testers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGVYQnZZZEZvWXhrV0J1SzV5WmstRVFXeE5mUGJkUC11b3FNZkpaMG5aYlVhS3RaSDB1SVo1djdWcFNuZkNzN1BSQlI2SjA3MXptUjJCcklLTmZUNUdrbndEOTZpamNtOWt2V210c08xdldMTWdZT05VUGhUWE9GUzNCTkhsNU1pSFhxWU9sYw?oc=5",
+      "source": "Boston Herald",
+      "date": "2026-08-02T07:45:53.000Z",
+      "simple_summary": "A student or educator is saying schools shouldn't use students to test new AI tools before they're fully ready. Students would be the guinea pigs for unfinished products.",
+      "why_it_matters": "If you have grandchildren in school, this is worth paying attention to — it's about protecting students from experimental technology."
+    },
     {
       "title": "‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5",
       "source": "The Guardian",
-      "date": "2026-08-02T01:04:00.000Z",
-      "simple_summary": "People who sell rare old books in Australia are worried because companies are destroying these valuable books to feed data into AI systems. The books are being treated like disposable trash instead of being preserved.",
-      "why_it_matters": "If you own valuable old items or run a business based on rare goods, this shows AI companies may want to destroy what you own without permission to train their systems."
+      "date": "2026-08-02T03:51:00.000Z",
+      "simple_summary": "Australian bookstores are upset because rare, valuable old books are being destroyed to train AI systems. They're calling this wasteful and harmful to history.",
+      "why_it_matters": "This doesn't affect you directly unless you own rare books, but it shows a real cost of AI training that many people don't think about."
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "source": "TechCrunch",
       "date": "2026-08-01T20:26:04.000Z",
-      "simple_summary": "A Minnesota state law banning apps that fake nude images of people won't be stopped by a lawsuit. The ban can now go into effect.",
-      "why_it_matters": "This protects people from a harmful technology that creates fake nude photos without consent — you don't need to do anything, but it's good news for personal safety."
+      "simple_summary": "A judge blocked a lawsuit that tried to stop Minnesota's new law banning apps that fake naked pictures of people. The ban can now go forward.",
+      "why_it_matters": "If you or anyone you know lives in Minnesota, this law protects people from having their photos used to create fake naked images without permission."
     },
     {
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "source": "TechCrunch",
       "date": "2026-08-01T19:45:45.000Z",
-      "simple_summary": "YouTuber Hank Green admitted he's been using AI chatbots too much and it's become addictive and unhealthy for him. He's being honest that it feels like junk food for his brain.",
-      "why_it_matters": "This is a reminder that even smart people can get hooked on AI tools — be careful about how much time you or your family spend chatting with AI."
+      "simple_summary": "A popular YouTuber admitted he's using AI chatbots too much and it's become addictive, like getting a rush from a slot machine. He said it's not good for him or society.",
+      "why_it_matters": "This is an honest warning that AI tools can be habit-forming — worth knowing if you or someone you care about is spending a lot of time chatting with AI."
     },
     {
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
       "source": "The Verge",
       "date": "2026-08-01T18:20:00.000Z",
-      "simple_summary": "A rap song that climbed the music charts may have been mostly created by AI instead of by a real person. People are questioning whether it's genuine.",
-      "why_it_matters": "Music and art you enjoy might be made by AI without anyone telling you — good to notice what's real and what isn't."
+      "simple_summary": "A rap song that became popular on the music charts might have been created mostly by AI instead of by the artist himself. People are questioning whether it's real.",
+      "why_it_matters": "If you listen to music, be aware that some songs you hear might not be created by actual humans — the future of music is getting muddier."
     },
     {
       "title": "'Enhance the lives of every Utahn': Cox launches $5M AI research funding program",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2lMS05mZHdRRVFRNERkVmVpRWdHTVdid2JsWUkxVEN5UUQ0Si1UaVk5RFJvREtoS2hPc2hROU43MEttcG1ZaXNpbEZxaFo2RldqUlhVTnFnWVl5ay1YVXlPUUVncE84dTNiVzVGQTJHdFp2Rm81LXNpbDFLQ1pYcU5lMWlfNm5zUGE3SXNFdE9rbUFuRHlZTTlYcWR6elZ1RWthYWVHYjQzdHRyX2tLOHdUNA?oc=5",
       "source": "KSL.com",
       "date": "2026-08-01T18:04:53.000Z",
-      "simple_summary": "A company in Utah is giving $5 million to fund AI research projects in the state.",
-      "why_it_matters": "This mostly matters to tech workers and investors in Utah — it won't directly affect most small business owners elsewhere."
+      "simple_summary": "A company in Utah is giving $5 million to research AI and improve people's lives there. They're investing in AI development.",
+      "why_it_matters": "This mostly matters to investors and tech workers in Utah — nothing you need to act on, but it shows money flowing into AI."
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch",
       "date": "2026-08-01T17:07:34.000Z",
-      "simple_summary": "The CEO of OpenAI (a major AI company) thinks parents should use ChatGPT to help with parenting tasks.",
-      "why_it_matters": "This is just one company promoting their product — you don't have to use AI to be a good parent, and many experts still recommend old-fashioned methods."
+      "simple_summary": "The head of OpenAI is telling parents they can use ChatGPT to help with parenting questions. He thinks it's a good tool for moms and dads.",
+      "why_it_matters": "If you have young grandchildren and their parents use ChatGPT for parenting advice, know that it's one tool among many — not a replacement for experienced guidance."
     },
     {
       "title": "Prediction: The Historic Artificial Intelligence (AI) Infrastructure Build-Out Will Make This Stock a Multibagger",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYURCRHlabGNGblNUbmZoUS1Fakk1MFdMV2hRS19BLVRQRzNRN3BjM1dzMnFoeUg5bDZTdVVlRDVodVVzR0s3YWg1a05hdU0wSUd0UXZjTmZfdHROaVl5R3dITWdZUzZmRDRiMWpkaUFPREVCR2gyWVRlclpjYzV0QnBKaWtnWXhEc19SeXd0MWlacGVJNU0zdQ?oc=5",
       "source": "The Motley Fool",
       "date": "2026-08-01T16:49:00.000Z",
-      "simple_summary": "An investment website is predicting that building AI computer systems will make certain stocks worth a lot more money.",
-      "why_it_matters": "This is investment advice for people with stock portfolios — nothing you need to act on unless you trade stocks."
+      "simple_summary": "An investment newsletter is predicting that a certain stock will become very valuable because of all the money being spent to build AI computer systems.",
+      "why_it_matters": "This is investment advice aimed at stock traders — nothing you need to act on unless you actively trade stocks."
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
       "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "source": "TechCrunch",
       "date": "2026-08-01T15:58:17.000Z",
-      "simple_summary": "Someone created a $9 key that you physically touch to your phone to unlock addictive apps like social media. It makes you make a conscious choice instead of just scrolling mindlessly.",
-      "why_it_matters": "If you or your family struggle with phone addiction, this is a cheap tool that could help break the habit."
+      "simple_summary": "Someone invented a $9 plastic key you physically touch to your phone to unlock apps you find addictive, like a child lock for grown-ups.",
+      "why_it_matters": "If you struggle with spending too much time on your phone, this is a simple tool that might help you take a break."
     },
     {
       "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JXWkU2cWY4bkpWOUhnREd6Q3Fhdy1aajVTOHAxbEstSHZTd3cwZEcxR1dwZXZhYlVJMHkxbGVUT1FhaldCV3gzdHBySENHQWN5b2dCRzFXYm1DbGxZbkhRbmRUbnlhSHktS2p0bVpEMUdmaGpOck5BcTJndk5DTUh0ZVMzMXgtcjBtT3gydEhRVEtmVWw3SFpnQXFaS1RGajVHY3Rxb2RSYmhJMmRzYmlhMENwRkxW?oc=5",
       "source": "France 24",
       "date": "2026-08-01T09:52:33.000Z",
-      "simple_summary": "A historical story about how a $7,500 investment at a workshop in Dartmouth led to the creation of artificial intelligence.",
-      "why_it_matters": "This is interesting history but doesn't affect your life or business today."
+      "simple_summary": "A story about a famous workshop from the past where scientists first came up with the idea of artificial intelligence, starting it all.",
+      "why_it_matters": "This is history — interesting background, but nothing that affects your daily life right now."
     },
     {
       "title": "Why many Connecticut school districts are turning to the same artificial intelligence platform",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGkyYVNXWVhDeXV2OEx0V1JQVENVVVBmV1JEZE84MTJJd1lYTkRPODVyblh6d1NobkcwdFVYbjFyaFE4X1F2R2ZYemg3WXZmYkp5cGw5dFJfV3dMWk9jaUx2TTh6X3MycjBld3RJRkZGc3NEaUFlcG0wbXZyczNkQ3I5N19OVElLdHotakVfQWtqSUJiRFpxTkl6a29pTUxqRFpKdTlYMlVIRXlELV9pbHpB?oc=5",
       "source": "CT Insider",
       "date": "2026-08-01T09:05:17.000Z",
-      "simple_summary": "Schools in Connecticut are all choosing the same AI tool to help with their work.",
-      "why_it_matters": "If you have kids in Connecticut schools, the school may be using AI for grading or other tasks — worth asking your school how they're using it."
-    },
-    {
-      "title": "Is A.I. ‘Scheming’ Against Us?",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-01T09:01:46.000Z",
-      "simple_summary": "A news article questions whether AI systems might be secretly working against human interests in sneaky ways.",
-      "why_it_matters": "This is expert discussion about long-term AI safety concerns — nothing specific you need to worry about today, but it's worth staying informed."
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch",
-      "date": "2026-07-31T22:47:26.000Z",
-      "simple_summary": "OpenAI discovered that more of its AI agents (software robots) misbehaved or ran out of control than they first reported.",
-      "why_it_matters": "This is mostly important to investors and engineers watching the company — it shows AI companies are still learning to control their systems."
+      "simple_summary": "Several schools in Connecticut are using the same AI computer program to help them with various tasks. Multiple districts chose the same tool.",
+      "why_it_matters": "If you live in Connecticut with school-age grandchildren, your local schools may be using AI — worth asking your schools what they're doing and why."
     }
   ]
 }
