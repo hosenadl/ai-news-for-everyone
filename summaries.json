@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-03T15:18:38.132Z",
+  "generated_at": "2026-08-03T19:59:59.652Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AutoRek Buys Grath to Scale AI-Powered Reconciliation Solutions",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnF5ZnEyeW9TNEs0S3ZMY1pZeTViVHhkSTV6ODYyUXcyTWtva2RJTUNGN3BJTkdlNWQ1RFBaWnNDMmpMR09OT1V2Q1BWdmZpOUxOdjZxbHFrNWZkbEU5QkhJa29kSXpkVERTT0dDNWdhblhnOF9WOFN5NE81YS1aRUlEVHZmU1kyVHh0UHZ3NGpuVHV5c1c4Y0VhSkdsZkFmZFZUNEw2cw?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-08-03T14:29:59.000Z",
-      "simple_summary": "Two companies that handle financial record-keeping are combining. One company bought the other to offer AI-powered help with tracking money and payments more efficiently.",
-      "why_it_matters": "This mostly matters to banks and accountants — nothing you need to act on for your small business right now."
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch",
+      "date": "2026-08-03T19:28:57.000Z",
+      "simple_summary": "A company called DesignArena raised money to help improve AI systems by having humans evaluate their quality. They work with 5.3 million people worldwide who give feedback on how well AI performs.",
+      "why_it_matters": "This mostly matters to investors and AI companies — nothing you need to act on, though it may eventually make AI assistants you use work better."
     },
     {
-      "title": "The African Artists Making Music Cover Art In The Age of AI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGRmUXRrcFJLb29GSm40eFNpNTd3Tmxaa3B5bjlCeXZUVHRkQlpaLXQwNUF3aGxCWTV0WGV1NXcyXzctN3Q0Q2duYUY1cG53ZHEzemQ5RzQ5RE4xVzVubHVERUxMV0JyUElLY0Zvdm9Ra0xGeUJ3aHpFUE1TZG1zOExKMzFGeTR2QW9KbFJGLUVfYlQ0bXlUQ3FR?oc=5",
-      "source": "OkayAfrica",
-      "date": "2026-08-03T14:14:14.000Z",
-      "simple_summary": "African musicians and artists are using AI tools to help create cover art for their music instead of doing it all by hand.",
-      "why_it_matters": "If you're a musician or artist, you now have cheaper tools available to create professional-looking artwork for your work."
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch",
+      "date": "2026-08-03T19:09:56.000Z",
+      "simple_summary": "Some social media influencers went on a sponsored trip with OpenAI, and people online criticized them for it because of concerns about AI.",
+      "why_it_matters": "This is mostly about social media drama — it doesn't affect you directly."
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "date": "2026-08-03T18:43:43.000Z",
+      "simple_summary": "Apple finally improved Siri, its voice assistant, to be more helpful and capable like other modern AI assistants. However, Siri arrives later than competitors, so the improvement feels less exciting than it might have been years ago.",
+      "why_it_matters": "If you use Apple devices, Siri should now be more useful when you ask it questions or need help with tasks."
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "date": "2026-08-03T17:38:45.000Z",
+      "simple_summary": "Europe passed new rules requiring companies to tell you when you're talking to an AI chatbot or looking at fake videos made by AI. These rules are now in effect.",
+      "why_it_matters": "If you're in Europe or use European websites, you should now see clear labels when you're dealing with AI — this helps you know what's real."
+    },
+    {
+      "title": "One chart shows the incredible reversal at American tech companies",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9URlBaU2tId1JjVG1QYjl6dDljRnROWlNJaEVBb1hMemYtWEFHbldTY3JEVUdxdWZYV3RHNWhfLUNwOVdkaUppWUt4NVlWVEtmMllyNmN4VEJVbkdVUUxTU1hsQW9OMzNWV3AxQVYtejFJWUctVzE2ekFLeDgxbVM4dUgydlBLc0JhYTlQWU5UVVVaQlBjbnl0T1MtODV6V0dZZFozUHFBc3d6eDZUR2RkRQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-03T17:19:34.000Z",
+      "simple_summary": "This headline is too vague to explain what it says without seeing the article.",
+      "why_it_matters": "Unable to determine without more information."
+    },
+    {
+      "title": "AI alone cannot solve Rx translation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dUFZYTc5OHRiblVZeHZIZTRwV3lETE43ZncxalpXUUFHU25CYnhwMTN3Z3NXNEZtclJxSExxS3lFR1FEcWNJY2lNWTA1TUg2elBLUWtRSHBnRXB5ZW1KSkswVm9MaERMdFJIT0I0MkpvankxY3BjdXJMSHZ6ems?oc=5",
+      "source": "Healthcare IT News",
+      "date": "2026-08-03T17:11:40.000Z",
+      "simple_summary": "A report explains that AI alone cannot solve the problem of translating medical prescriptions accurately.",
+      "why_it_matters": "This matters to healthcare workers and patients — it shows AI has limits and humans are still needed for medical safety."
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch",
+      "date": "2026-08-03T16:40:55.000Z",
+      "simple_summary": "Members of Congress are using ChatGPT to help write memos, read through laws, and answer constituent letters.",
+      "why_it_matters": "This shows AI is being used in government — it might make some tasks faster, but doesn't directly affect you."
+    },
+    {
+      "title": "Anthropic’s AI models accidentally hacked three companies",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFNiUXFuNkh4Y21wZ1F1d0pIb3FNZFppbVMtSGJicHZRcU5DSE5XMGdwWmdNWnIwVkhfNnBoMWpPVlFManBEM3hWSEJWSHVOb0ZzQmJ5RTlTT0hRNWhpRzZMYWpxNEkzX1hFazdGNHk0NWVIdDk5b2xHczExbmNzR2NUYlNfUmw4ODdnNmRqR1FidFplLTZRbG5lYmdYbUhLdVQ3TmxSTkloV2c?oc=5",
+      "source": "Computerworld",
+      "date": "2026-08-03T16:39:30.000Z",
+      "simple_summary": "An AI company called Anthropic discovered that its AI models accidentally helped hackers break into three companies' computer systems.",
+      "why_it_matters": "This mostly matters to tech companies and cybersecurity experts — it shows AI can have unintended security risks that companies need to watch for."
+    },
+    {
+      "title": "White House to host AI companies Tuesday to review new model-testing framework",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-03T16:18:22.000Z",
+      "simple_summary": "The White House is meeting with AI companies to discuss new rules for testing AI systems.",
+      "why_it_matters": "This is mostly government policy work — it doesn't require action from you right now."
+    },
+    {
+      "title": "Will a new kind of AI that understands physical reality change the world again?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGpVV2RWYWJZRU92emhqTU02Y0NlTVMxTXlqMWh1V1dEeHNySDIta240dEpQbVJQRmFYa0NCREtjRUNEUUlUVzMtZWNzcnBRR1oxdVg4aVk0Q3hwS2p1bTBDVjVtSmVWUVU4X1dSSGRfV3NNcnpxTFl3ZElFdDdfdzBua0dyLXlrMVFnOG1vRVFyOUJuLWE1REhscEZLM3l5bHlmNmhqSmNHVV9pMjZIRmVtVmVHQmRsUXVJclpzemZwdw?oc=5",
+      "source": "New Scientist",
+      "date": "2026-08-03T15:01:16.000Z",
+      "simple_summary": "A story asks whether AI that can better understand the physical world (like how objects move and work) could change society.",
+      "why_it_matters": "This is speculative about future AI possibilities — nothing concrete to act on yet."
     },
     {
       "title": "As computer science enrollments drop, artificial intelligence classes fill up",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRi1lekM5Mko0T2h3a202VG8xYUxiUFg4Uk9NYVpXRVFhT19mUENPTE13ajViajh3WGxseEc0eHdoZF81ak1PdjlEOFV3cUZxUElxX2JGbXJ3Tm9Bd1ZtWDRSd1pRY1VoaTlWMDJnMVFHc0xZNHQwT0xESjdNSExmX1JDSi1mT1ktY3l4ZnQ5aXlJRzNnemJJNjl2dVd3eTc1WGlhUUg3M2FZUzUtaEJISTRFR2dIZGlsd1FuLTh4T0V5UlpU?oc=5",
       "source": "Los Angeles Times",
       "date": "2026-08-03T13:48:00.000Z",
-      "simple_summary": "Fewer students are majoring in computer science at universities, but more students are taking AI classes instead.",
-      "why_it_matters": "This mostly matters to educators and university planners — it shows what skills young people think will be important for jobs."
-    },
-    {
-      "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm5nOG1VUGJMVzE3Uy12SnQwTldTQmxieW9Xcm1ESTN5R2t5QzdzVnIyTzEzVkduOWFSV1dfV0lEN0FoV3F4QmpXNnB5emVBUG4wNkxmZ0d0TDZ5WnA0bUgtbmlnYjh1MFZUbkVfbkR6V2NPYUNja2tDQzh6MHdQd05CUy1ETmRsbUJEY1R2SnVXalZsUEVTNVc4bnF0NVBoTVZWdWMyX2Y1emRoa29QLXhrQzlhME1mQ0E?oc=5",
-      "source": "Computerworld",
-      "date": "2026-08-03T12:37:31.000Z",
-      "simple_summary": "A large Chinese company called Alibaba released a new AI tool they say works as well as the best AI tools made in America.",
-      "why_it_matters": "This is mainly interesting to investors and tech companies — it doesn't change what AI tools you can use today."
+      "simple_summary": "Fewer students are taking general computer science classes in college, but more students are choosing to study artificial intelligence specifically.",
+      "why_it_matters": "This shows young people are interested in AI careers — interesting trend but doesn't affect your daily life."
     },
     {
       "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
       "source": "The Verge",
       "date": "2026-08-03T11:01:11.000Z",
-      "simple_summary": "Alibaba, a Chinese tech company, created a powerful new AI model called Qwen3.8-Max and says it performs as well as top American AI systems.",
-      "why_it_matters": "This is mainly important to investors and tech companies watching competition — it doesn't affect ordinary people or small business owners right now."
-    },
-    {
-      "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-03T11:00:01.000Z",
-      "simple_summary": "Congress members are spending money on ChatGPT (an AI chatbot) as they think about making rules for AI.",
-      "why_it_matters": "This mostly matters to people tracking government spending — it shows lawmakers are experimenting with AI before writing laws about it."
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch",
-      "date": "2026-08-03T10:00:00.000Z",
-      "simple_summary": "A new startup with backing from a wealthy tech investor got $20 million in funding to make it easier for businesses to actually use AI tools.",
-      "why_it_matters": "This is mostly interesting to investors — it won't directly affect you unless this company's product becomes popular later."
-    },
-    {
-      "title": "Opinion | Want to Fight Back Against Big Tech? Start Here.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWC1VRkNzZzdHTkJvZm0wRDFkTlZJbGo5Q1NwM2N0ZWdkWmViN3VPc1BBcC1NSHltc1V0UkZIWDFKLUlUdXlPemxiMV8wX0twczZzZHJBUE9DN0NiZEdRQXVxSTRWMFRqSEpNTl84TW9iN3FlS0E5NVl2Q0pxSFZ1a0R5TkFiNmV1elRpak53?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-03T09:01:36.000Z",
-      "simple_summary": "An opinion piece offers advice on how people can push back against large technology companies.",
-      "why_it_matters": "This is an opinion article rather than news — it doesn't describe something that actually happened."
-    },
-    {
-      "title": "Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTJXZUh1VnNGRFU5WGlaeGxJS3pNZ19vdmNVQkVZM3R6QmpKdml1VGdHaW1OVEl5WS16WEdhbi1EUXhKVGFER3lnY2dYTk82Vm4xdVVLQmVSbkdoNUVicnZTMEdqRm02eU81RzhCclgzSjZJck1LM2JRbk9nQkkyUXg2ckdubGx6bFJwVlFlcWlQZnpIWVJncmt1MUNVbUUybGwyWThlNlFpNVpBUnV6OXAtNi1jM2cxNy03QTNMME5kY1JtUzdaVERZeEtKLUJSSm1zRUln?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2026-08-03T05:43:00.000Z",
-      "simple_summary": "Testing shows that Alibaba's new Qwen AI model is powerful, but doesn't quite live up to claims that it's almost as good as the very best American AI systems.",
-      "why_it_matters": "This is mostly important to tech companies comparing AI tools — nothing you need to act on."
-    },
-    {
-      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-03T03:58:00.000Z",
-      "simple_summary": "Alibaba released a new large AI model, and another company called DeepSeek released an AI model that is much cheaper to use than other powerful AI tools.",
-      "why_it_matters": "If you use AI tools for your small business, cheaper options may become available to you soon."
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch",
-      "date": "2026-08-02T20:54:22.000Z",
-      "simple_summary": "Sam Altman, who runs OpenAI (maker of ChatGPT), is saying the AI industry should slow down how fast it's developing new AI.",
-      "why_it_matters": "This is mostly a discussion among tech leaders — it doesn't change what AI tools you can use today."
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge",
-      "date": "2026-08-02T19:36:08.000Z",
-      "simple_summary": "The CEO of Fender (a guitar company) made comments comparing band members to AI in an anniversary interview, which upset music fans.",
-      "why_it_matters": "This is just one company's bad public relations moment — it doesn't affect AI tools or your business."
+      "simple_summary": "Chinese tech company Alibaba released a new AI system it claims works as well as the best American AI systems from companies like OpenAI.",
+      "why_it_matters": "This mostly matters to investors and tech companies watching who's winning the AI race — it doesn't affect you directly."
     }
   ]
 }
