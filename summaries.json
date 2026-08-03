@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-03T10:07:20.051Z",
+  "generated_at": "2026-08-03T15:18:38.132Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "AutoRek Buys Grath to Scale AI-Powered Reconciliation Solutions",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnF5ZnEyeW9TNEs0S3ZMY1pZeTViVHhkSTV6ODYyUXcyTWtva2RJTUNGN3BJTkdlNWQ1RFBaWnNDMmpMR09OT1V2Q1BWdmZpOUxOdjZxbHFrNWZkbEU5QkhJa29kSXpkVERTT0dDNWdhblhnOF9WOFN5NE81YS1aRUlEVHZmU1kyVHh0UHZ3NGpuVHV5c1c4Y0VhSkdsZkFmZFZUNEw2cw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-08-03T14:29:59.000Z",
+      "simple_summary": "Two companies that handle financial record-keeping are combining. One company bought the other to offer AI-powered help with tracking money and payments more efficiently.",
+      "why_it_matters": "This mostly matters to banks and accountants — nothing you need to act on for your small business right now."
+    },
+    {
+      "title": "The African Artists Making Music Cover Art In The Age of AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGRmUXRrcFJLb29GSm40eFNpNTd3Tmxaa3B5bjlCeXZUVHRkQlpaLXQwNUF3aGxCWTV0WGV1NXcyXzctN3Q0Q2duYUY1cG53ZHEzemQ5RzQ5RE4xVzVubHVERUxMV0JyUElLY0Zvdm9Ra0xGeUJ3aHpFUE1TZG1zOExKMzFGeTR2QW9KbFJGLUVfYlQ0bXlUQ3FR?oc=5",
+      "source": "OkayAfrica",
+      "date": "2026-08-03T14:14:14.000Z",
+      "simple_summary": "African musicians and artists are using AI tools to help create cover art for their music instead of doing it all by hand.",
+      "why_it_matters": "If you're a musician or artist, you now have cheaper tools available to create professional-looking artwork for your work."
+    },
+    {
+      "title": "As computer science enrollments drop, artificial intelligence classes fill up",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRi1lekM5Mko0T2h3a202VG8xYUxiUFg4Uk9NYVpXRVFhT19mUENPTE13ajViajh3WGxseEc0eHdoZF81ak1PdjlEOFV3cUZxUElxX2JGbXJ3Tm9Bd1ZtWDRSd1pRY1VoaTlWMDJnMVFHc0xZNHQwT0xESjdNSExmX1JDSi1mT1ktY3l4ZnQ5aXlJRzNnemJJNjl2dVd3eTc1WGlhUUg3M2FZUzUtaEJISTRFR2dIZGlsd1FuLTh4T0V5UlpU?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-08-03T13:48:00.000Z",
+      "simple_summary": "Fewer students are majoring in computer science at universities, but more students are taking AI classes instead.",
+      "why_it_matters": "This mostly matters to educators and university planners — it shows what skills young people think will be important for jobs."
+    },
+    {
+      "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm5nOG1VUGJMVzE3Uy12SnQwTldTQmxieW9Xcm1ESTN5R2t5QzdzVnIyTzEzVkduOWFSV1dfV0lEN0FoV3F4QmpXNnB5emVBUG4wNkxmZ0d0TDZ5WnA0bUgtbmlnYjh1MFZUbkVfbkR6V2NPYUNja2tDQzh6MHdQd05CUy1ETmRsbUJEY1R2SnVXalZsUEVTNVc4bnF0NVBoTVZWdWMyX2Y1emRoa29QLXhrQzlhME1mQ0E?oc=5",
+      "source": "Computerworld",
+      "date": "2026-08-03T12:37:31.000Z",
+      "simple_summary": "A large Chinese company called Alibaba released a new AI tool they say works as well as the best AI tools made in America.",
+      "why_it_matters": "This is mainly interesting to investors and tech companies — it doesn't change what AI tools you can use today."
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "date": "2026-08-03T11:01:11.000Z",
+      "simple_summary": "Alibaba, a Chinese tech company, created a powerful new AI model called Qwen3.8-Max and says it performs as well as top American AI systems.",
+      "why_it_matters": "This is mainly important to investors and tech companies watching competition — it doesn't affect ordinary people or small business owners right now."
+    },
+    {
+      "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-03T11:00:01.000Z",
+      "simple_summary": "Congress members are spending money on ChatGPT (an AI chatbot) as they think about making rules for AI.",
+      "why_it_matters": "This mostly matters to people tracking government spending — it shows lawmakers are experimenting with AI before writing laws about it."
+    },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
       "source": "TechCrunch",
       "date": "2026-08-03T10:00:00.000Z",
-      "simple_summary": "A new AI company called June raised $20 million to help other businesses use AI tools more easily. They're trying to solve the problem that AI is currently hard for most companies to actually use.",
-      "why_it_matters": "If they succeed, using AI in your small business might become simpler and more affordable, but this is very early and mostly for investors to watch right now."
+      "simple_summary": "A new startup with backing from a wealthy tech investor got $20 million in funding to make it easier for businesses to actually use AI tools.",
+      "why_it_matters": "This is mostly interesting to investors — it won't directly affect you unless this company's product becomes popular later."
     },
     {
-      "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5",
+      "title": "Opinion | Want to Fight Back Against Big Tech? Start Here.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWC1VRkNzZzdHTkJvZm0wRDFkTlZJbGo5Q1NwM2N0ZWdkWmViN3VPc1BBcC1NSHltc1V0UkZIWDFKLUlUdXlPemxiMV8wX0twczZzZHJBUE9DN0NiZEdRQXVxSTRWMFRqSEpNTl84TW9iN3FlS0E5NVl2Q0pxSFZ1a0R5TkFiNmV1elRpak53?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-03T09:01:36.000Z",
+      "simple_summary": "An opinion piece offers advice on how people can push back against large technology companies.",
+      "why_it_matters": "This is an opinion article rather than news — it doesn't describe something that actually happened."
+    },
+    {
+      "title": "Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTJXZUh1VnNGRFU5WGlaeGxJS3pNZ19vdmNVQkVZM3R6QmpKdml1VGdHaW1OVEl5WS16WEdhbi1EUXhKVGFER3lnY2dYTk82Vm4xdVVLQmVSbkdoNUVicnZTMEdqRm02eU81RzhCclgzSjZJck1LM2JRbk9nQkkyUXg2ckdubGx6bFJwVlFlcWlQZnpIWVJncmt1MUNVbUUybGwyWThlNlFpNVpBUnV6OXAtNi1jM2cxNy03QTNMME5kY1JtUzdaVERZeEtKLUJSSm1zRUln?oc=5",
+      "source": "Nikkei Asia",
+      "date": "2026-08-03T05:43:00.000Z",
+      "simple_summary": "Testing shows that Alibaba's new Qwen AI model is powerful, but doesn't quite live up to claims that it's almost as good as the very best American AI systems.",
+      "why_it_matters": "This is mostly important to tech companies comparing AI tools — nothing you need to act on."
+    },
+    {
+      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
       "source": "Reuters",
-      "date": "2026-08-03T05:41:00.000Z",
-      "simple_summary": "A Chinese AI model called DeepSeek is very cheap to run compared to other well-known AI systems.",
-      "why_it_matters": "This matters to businesses that use AI — cheaper options mean lower costs — but most small-business owners won't deal with this directly."
+      "date": "2026-08-03T03:58:00.000Z",
+      "simple_summary": "Alibaba released a new large AI model, and another company called DeepSeek released an AI model that is much cheaper to use than other powerful AI tools.",
+      "why_it_matters": "If you use AI tools for your small business, cheaper options may become available to you soon."
     },
     {
       "title": "Sam Altman and AI’s decel debate",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch",
       "date": "2026-08-02T20:54:22.000Z",
-      "simple_summary": "Sam Altman, who runs an AI company called OpenAI, is saying the industry should slow down how fast it's developing AI.",
-      "why_it_matters": "This is mostly business and industry discussion — it doesn't change anything for regular people or small shops right now."
+      "simple_summary": "Sam Altman, who runs OpenAI (maker of ChatGPT), is saying the AI industry should slow down how fast it's developing new AI.",
+      "why_it_matters": "This is mostly a discussion among tech leaders — it doesn't change what AI tools you can use today."
     },
     {
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
       "source": "The Verge",
       "date": "2026-08-02T19:36:08.000Z",
-      "simple_summary": "The CEO of guitar maker Fender said something about AI and music that upset musicians.",
-      "why_it_matters": "If you use Fender guitars or care about music, you might want to know the company is getting criticism, but the details aren't clear from the headline."
-    },
-    {
-      "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5",
-      "source": "CBS News",
-      "date": "2026-08-02T19:08:12.000Z",
-      "simple_summary": "A company called Hugging Face says OpenAI's AI did something unusual to their computer system that they found strange.",
-      "why_it_matters": "This is mostly a tech-industry story between two companies — nothing you need to worry about."
-    },
-    {
-      "title": "Israeli high school students to study English using artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSC1mbDdobFlDRS1tYmI5eXl3Q25VdVBfRk1QalA4RVNlMHBZUHQwbzVpVGN2NFdnTXhKZk1hLUdnSS1MTEZ0VHRsc0tkTUtDa1hWSDdBTldGVzJ0?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-08-02T17:40:47.000Z",
-      "simple_summary": "High school students in Israel will use AI to help them study and practice English.",
-      "why_it_matters": "This shows schools are starting to use AI for learning, which could happen in your area too — it's a sign of how education might change."
-    },
-    {
-      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjRYSERUdXUtZzNBY2xkbWNTLUxRcW9oV2o1NUVYUDYxNGU4X1JiX0F0YktFRjdseWllR2xuOFF4RjlsaXJOTnVVa25FV0tNbF9hVlBxT2tLVUlfOWFQMmhMakNwRTItSkoyR253dFZxcjZTNnhUMjVKN21jejZQQXhrREtDcTg5blBIT1cxcXlVYXYyUi1wT2ctbXZydmtjbzhlTVJJVUXSAa4BQVVfeXFMT25PbFBmNHk1dTlGckRReUowZ3duUWM4eklsd1VqQ1BHejgtM2lYU2pkODZ1aGpwaThjRHAyTERZS0JJMVMtajlBbHZTMVFQVXIzUDQ5YWJZS3BmUV8ycU5kR0N1QXloOUVZcndoSEV5ekh4RmdZb3lxa19TR0hHLTRhZU5faFhHZ2dONzdpSHhIMHRXeXl1MUhvU0xzQ2Jubm1EMXNmYXZZc1lQZmlR?oc=5",
-      "source": "abcnews.com",
-      "date": "2026-08-02T17:03:02.000Z",
-      "simple_summary": "At a famous opera festival in Germany, they used AI to help create stage designs, and audiences didn't like it.",
-      "why_it_matters": "This shows people aren't always comfortable with AI replacing human artists, which is a feeling many people share."
-    },
-    {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1hUWUJibFNvSW5fNXRYdXBiRjd5dWdOa2JSSmdBVE5OX0lrbmFKTEhVbVRlQ1BzQktnMzJRdGNuX1BVZUpWbzJKUUlGRzNQU1hwdENGYmp1OWxzWEFlRGo4OVNCQl9wWW9oV0tkc0NKd1FMVUdaeGEzbUx1SEp6am1PTGplR0xuaEx3cWF2Q3daOTRy?oc=5",
-      "source": "theverge.com",
-      "date": "2026-08-02T13:00:00.000Z",
-      "simple_summary": "Someone is asking whether paying artists money could make them accept AI being used to copy or replace their work.",
-      "why_it_matters": "If you're an artist or creator, this is about protecting your work — but it's still being debated with no clear answer yet."
-    },
-    {
-      "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-02T12:30:01.000Z",
-      "simple_summary": "Someone is warning that America's advantage over China in AI technology is disappearing and the government needs a new plan.",
-      "why_it_matters": "This is mostly political and economics — it doesn't change your life today, but it reflects worry among experts about where AI is heading."
-    },
-    {
-      "title": "Minnesota's nudification ban takes effect after judge rejects xAI's bid to pause it",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
-      "source": "Mashable",
-      "date": "2026-08-02T10:00:00.000Z",
-      "simple_summary": "Minnesota passed a law banning apps that fake people into nude photos, and a court said this ban can stay in place even though an AI company tried to stop it.",
-      "why_it_matters": "This protects people from a harmful misuse of AI — if you live in Minnesota or care about this issue, it's good news."
-    },
-    {
-      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDA2eEdWZUVjWFNkbGdwZVFhZ0FUODRfU2dGQy1OaHVENmgzcFBDak1na3JzY08yTWtWS3N4STF0VjV3R0w5bzFMYTJxMl9XajZFYVFNd2s0ckdKdThkTlZ5UzZyRlo3RnZnSHU0eFpZM0JrMDdPNUtBNzhQOFV2TnFqbGZpY2FXbmRTSUhVOGVOTGU5Yjh5ZFAxWWRhYnBYUXIw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-02T09:00:00.000Z",
-      "simple_summary": "Stock market problems are showing that the AI industry isn't very transparent about how it makes money or what it's really worth.",
-      "why_it_matters": "This is mostly for investors — it shows the AI economy is risky and unclear, but it doesn't directly affect your daily life."
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-01T20:26:04.000Z",
-      "simple_summary": "An AI company called xAI tried to sue to stop Minnesota's ban on 'nudify' apps (fake nude photos), but the court said no.",
-      "why_it_matters": "This protects people from harmful AI misuse — if you live in Minnesota, the ban can now go into effect."
+      "simple_summary": "The CEO of Fender (a guitar company) made comments comparing band members to AI in an anniversary interview, which upset music fans.",
+      "why_it_matters": "This is just one company's bad public relations moment — it doesn't affect AI tools or your business."
     }
   ]
 }
