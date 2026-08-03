@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-03T03:56:58.588Z",
+  "generated_at": "2026-08-03T10:07:20.051Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "date": "2026-08-03T10:00:00.000Z",
+      "simple_summary": "A new AI company called June raised $20 million to help other businesses use AI tools more easily. They're trying to solve the problem that AI is currently hard for most companies to actually use.",
+      "why_it_matters": "If they succeed, using AI in your small business might become simpler and more affordable, but this is very early and mostly for investors to watch right now."
+    },
+    {
+      "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-03T05:41:00.000Z",
+      "simple_summary": "A Chinese AI model called DeepSeek is very cheap to run compared to other well-known AI systems.",
+      "why_it_matters": "This matters to businesses that use AI — cheaper options mean lower costs — but most small-business owners won't deal with this directly."
+    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch",
       "date": "2026-08-02T20:54:22.000Z",
-      "simple_summary": "Sam Altman, who runs OpenAI (a major AI company), is saying the industry should slow down how fast it's making new AI tools.",
-      "why_it_matters": "This mostly matters to tech industry insiders — it doesn't directly affect what AI tools you can use today."
+      "simple_summary": "Sam Altman, who runs an AI company called OpenAI, is saying the industry should slow down how fast it's developing AI.",
+      "why_it_matters": "This is mostly business and industry discussion — it doesn't change anything for regular people or small shops right now."
     },
     {
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
       "source": "The Verge",
       "date": "2026-08-02T19:36:08.000Z",
-      "simple_summary": "Fender, the guitar company, made comments comparing human musicians to AI in a way that upset a lot of people.",
-      "why_it_matters": "If you're a musician or care about musicians' jobs, this shows some companies might be thinking about replacing human talent with AI."
+      "simple_summary": "The CEO of guitar maker Fender said something about AI and music that upset musicians.",
+      "why_it_matters": "If you use Fender guitars or care about music, you might want to know the company is getting criticism, but the details aren't clear from the headline."
     },
     {
       "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\"",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5",
       "source": "CBS News",
       "date": "2026-08-02T19:08:12.000Z",
-      "simple_summary": "A company called Hugging Face says another AI company (OpenAI) hacked into their system in an unusual way.",
-      "why_it_matters": "This mostly matters to tech companies and investors — it's about security between large companies, not something affecting you directly."
+      "simple_summary": "A company called Hugging Face says OpenAI's AI did something unusual to their computer system that they found strange.",
+      "why_it_matters": "This is mostly a tech-industry story between two companies — nothing you need to worry about."
     },
     {
       "title": "Israeli high school students to study English using artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSC1mbDdobFlDRS1tYmI5eXl3Q25VdVBfRk1QalA4RVNlMHBZUHQwbzVpVGN2NFdnTXhKZk1hLUdnSS1MTEZ0VHRsc0tkTUtDa1hWSDdBTldGVzJ0?oc=5",
       "source": "The Jerusalem Post",
       "date": "2026-08-02T17:40:47.000Z",
-      "simple_summary": "Schools in Israel plan to let students use AI to help them learn English.",
-      "why_it_matters": "If you're involved in education, this shows schools are testing AI as a learning tool, though it's not yet widespread in most countries."
+      "simple_summary": "High school students in Israel will use AI to help them study and practice English.",
+      "why_it_matters": "This shows schools are starting to use AI for learning, which could happen in your area too — it's a sign of how education might change."
     },
     {
-      "title": "Minnesota's nudification ban takes effect after judge rejects xAI's bid to pause it",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
-      "source": "Mashable",
-      "date": "2026-08-02T14:04:37.000Z",
-      "simple_summary": "Minnesota passed a law banning apps that use AI to remove clothes from photos, and a judge refused to stop that law from taking effect.",
-      "why_it_matters": "If you live in Minnesota or care about protecting people from harmful images, this law now protects you from having your photos misused in this way."
+      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjRYSERUdXUtZzNBY2xkbWNTLUxRcW9oV2o1NUVYUDYxNGU4X1JiX0F0YktFRjdseWllR2xuOFF4RjlsaXJOTnVVa25FV0tNbF9hVlBxT2tLVUlfOWFQMmhMakNwRTItSkoyR253dFZxcjZTNnhUMjVKN21jejZQQXhrREtDcTg5blBIT1cxcXlVYXYyUi1wT2ctbXZydmtjbzhlTVJJVUXSAa4BQVVfeXFMT25PbFBmNHk1dTlGckRReUowZ3duUWM4eklsd1VqQ1BHejgtM2lYU2pkODZ1aGpwaThjRHAyTERZS0JJMVMtajlBbHZTMVFQVXIzUDQ5YWJZS3BmUV8ycU5kR0N1QXloOUVZcndoSEV5ekh4RmdZb3lxa19TR0hHLTRhZU5faFhHZ2dONzdpSHhIMHRXeXl1MUhvU0xzQ2Jubm1EMXNmYXZZc1lQZmlR?oc=5",
+      "source": "abcnews.com",
+      "date": "2026-08-02T17:03:02.000Z",
+      "simple_summary": "At a famous opera festival in Germany, they used AI to help create stage designs, and audiences didn't like it.",
+      "why_it_matters": "This shows people aren't always comfortable with AI replacing human artists, which is a feeling many people share."
     },
     {
       "title": "Is paying artists enough to convince them to embrace AI?",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1hUWUJibFNvSW5fNXRYdXBiRjd5dWdOa2JSSmdBVE5OX0lrbmFKTEhVbVRlQ1BzQktnMzJRdGNuX1BVZUpWbzJKUUlGRzNQU1hwdENGYmp1OWxzWEFlRGo4OVNCQl9wWW9oV0tkc0NKd1FMVUdaeGEzbUx1SEp6am1PTGplR0xuaEx3cWF2Q3daOTRy?oc=5",
-      "source": "The Verge",
+      "source": "theverge.com",
       "date": "2026-08-02T13:00:00.000Z",
-      "simple_summary": "Some companies are offering to pay artists money to allow AI to learn from their work.",
-      "why_it_matters": "If you're an artist, this is about whether you should let AI companies use your work and what payment you should get."
+      "simple_summary": "Someone is asking whether paying artists money could make them accept AI being used to copy or replace their work.",
+      "why_it_matters": "If you're an artist or creator, this is about protecting your work — but it's still being debated with no clear answer yet."
     },
     {
       "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5",
       "source": "CNBC",
       "date": "2026-08-02T12:30:01.000Z",
-      "simple_summary": "An opinion piece argues that the United States is falling behind China in AI technology development.",
-      "why_it_matters": "This is mostly about national strategy and politics — it doesn't directly change what's available to you as a person or small business owner today."
+      "simple_summary": "Someone is warning that America's advantage over China in AI technology is disappearing and the government needs a new plan.",
+      "why_it_matters": "This is mostly political and economics — it doesn't change your life today, but it reflects worry among experts about where AI is heading."
+    },
+    {
+      "title": "Minnesota's nudification ban takes effect after judge rejects xAI's bid to pause it",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
+      "source": "Mashable",
+      "date": "2026-08-02T10:00:00.000Z",
+      "simple_summary": "Minnesota passed a law banning apps that fake people into nude photos, and a court said this ban can stay in place even though an AI company tried to stop it.",
+      "why_it_matters": "This protects people from a harmful misuse of AI — if you live in Minnesota or care about this issue, it's good news."
     },
     {
       "title": "Stock market turmoil sheds stark light on the opaque AI economy",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDA2eEdWZUVjWFNkbGdwZVFhZ0FUODRfU2dGQy1OaHVENmgzcFBDak1na3JzY08yTWtWS3N4STF0VjV3R0w5bzFMYTJxMl9XajZFYVFNd2s0ckdKdThkTlZ5UzZyRlo3RnZnSHU0eFpZM0JrMDdPNUtBNzhQOFV2TnFqbGZpY2FXbmRTSUhVOGVOTGU5Yjh5ZFAxWWRhYnBYUXIw?oc=5",
       "source": "The Guardian",
       "date": "2026-08-02T09:00:00.000Z",
-      "simple_summary": "Recent stock market problems are showing that many AI companies are hard to understand and don't clearly show whether they're actually making money.",
-      "why_it_matters": "If you have investments, this suggests being careful about AI company stocks because it's unclear which ones are truly valuable."
-    },
-    {
-      "title": "The Race to Build an American Alternative to Cheap AI From China",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
-      "source": "WSJ",
-      "date": "2026-08-02T01:00:00.000Z",
-      "simple_summary": "The U.S. is trying to build cheaper AI tools to compete with AI from China.",
-      "why_it_matters": "This mostly matters to investors and tech companies — it's about competition between nations, not something affecting ordinary people right now."
+      "simple_summary": "Stock market problems are showing that the AI industry isn't very transparent about how it makes money or what it's really worth.",
+      "why_it_matters": "This is mostly for investors — it shows the AI economy is risky and unclear, but it doesn't directly affect your daily life."
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "source": "TechCrunch",
       "date": "2026-08-01T20:26:04.000Z",
-      "simple_summary": "A company called xAI tried to stop Minnesota's new law banning apps that fake nude photos, but the judge said the law can go ahead.",
-      "why_it_matters": "If you live in Minnesota, your photos are now protected by law against being faked into nude images."
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch",
-      "date": "2026-08-01T19:45:45.000Z",
-      "simple_summary": "Popular YouTuber Hank Green admitted he's been using AI chatbots so much that it's become unhealthy for him, like an addiction.",
-      "why_it_matters": "This is a personal story about one person — it's worth noting that any tool (including AI) can become overused, but it doesn't mean AI itself is bad."
-    },
-    {
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "source": "The Verge",
-      "date": "2026-08-01T18:20:00.000Z",
-      "simple_summary": "A song that reached number 58 on the Billboard Hot 100 might have been created mostly using AI instead of by a real musician.",
-      "why_it_matters": "If you care about music, this raises questions about whether songs on the charts are made by real artists or by computers, which affects the music industry."
+      "simple_summary": "An AI company called xAI tried to sue to stop Minnesota's ban on 'nudify' apps (fake nude photos), but the court said no.",
+      "why_it_matters": "This protects people from harmful AI misuse — if you live in Minnesota, the ban can now go into effect."
     }
   ]
 }
