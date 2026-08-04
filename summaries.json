@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:40:06.848Z",
+  "generated_at": "2026-08-04T09:10:27.883Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9URlBaU2tId1JjVG1QYjl6dDljRnROWlNJaEVBb1hMemYtWEFHbldTY3JEVUdxdWZYV3RHNWhfLUNwOVdkaUppWUt4NVlWVEtmMllyNmN4VEJVbkdVUUxTU1hsQW9OMzNWV3AxQVYtejFJWUctVzE2ekFLeDgxbVM4dUgydlBLc0JhYTlQWU5UVVVaQlBjbnl0T1MtODV6V0dZZFozUHFBc3d6eDZUR2RkRQ?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-03T23:30:00.000Z",
-      "simple_summary": "American technology companies have reversed direction on something major, though the headline doesn't say what.",
-      "why_it_matters": "Hard to know without details — wait for clearer reporting."
+      "simple_summary": "A major shift is happening at big tech companies in America, but the headline doesn't explain exactly what changed.",
+      "why_it_matters": "Without knowing the specific details, it's hard to say if this affects you — this is mostly financial news for investors to pay attention to."
     },
     {
       "title": "Artificial intelligence: Why firms are struggling to set prices",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
       "source": "BBC",
       "date": "2026-08-03T23:21:10.000Z",
-      "simple_summary": "Companies are having trouble figuring out how much money to charge customers for AI tools and services.",
-      "why_it_matters": "If you're considering buying AI tools for your business, prices may still change as companies figure out what's fair."
+      "simple_summary": "Companies are having trouble figuring out what price to charge for AI tools and services.",
+      "why_it_matters": "If you use or might use AI tools for your business, prices may still be uncertain and could change as companies work out fair costs."
     },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
       "source": "TechCrunch",
       "date": "2026-08-03T23:19:50.000Z",
-      "simple_summary": "The CEO of a company called Palantir made a lot of money last quarter and warned that AI companies can't be trusted yet.",
-      "why_it_matters": "This mostly matters to investors — it's one CEO's opinion, not actionable advice for running your business."
+      "simple_summary": "Palantir, a big AI company, had a very profitable quarter but its CEO warned that some AI companies can't be trusted yet.",
+      "why_it_matters": "This mostly matters to investors and large businesses — it's a discussion among tech leaders about which companies to trust with sensitive work."
     },
     {
-      "title": "Trump Admin Has the Concept of a Plan for AI Safety Rules (Maybe)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3RNNWhxS1pPS1NUbUZQSWZJT3VuN1cxVmNLcjR1OWhTaDU0Q0R4S09QVjVHX2poS284aHRQeHl1OGhmVTZFUENxa09fMTdjYy1vNU1SeXR2LTE3ZEpiVUlxN0VXSWQ1Y2taRjd0Z0lFWFBCR3VzWXlwQzFhT3lyNm9obDMtWHlNNXpHQ090X0EyVmxWRFZqN1F3?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-03T20:40:08.000Z",
-      "simple_summary": "The Trump administration is thinking about rules for AI safety, though details aren't clear yet.",
-      "why_it_matters": "Government rules could eventually affect how AI tools work, but it's too early to know what that means for you."
+      "title": "Saline Co. Sheriff’s Office said AI was used to edit evidence photo after online backlash",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONG5DaTNNendwLXBiM2c1S0l2ZEdtZnRwUHh5d3hrM1dEeUFNOVY1S1hHZmtPeUdQX2taVEhFUEZyb0F2RHZqTkJKWkQ5d2NzWHdTTGJ3Sk1BaWdFYXpjQVdNQXdueXd0Tm0ycFdaLVpYallqSnJSclU4UVBFd1haTHI3UDBzR3hGbVFrX3UxbGZRTUhySXRYZkg3bTRaMFNuSjduMW9UQktEdjJ1OTlQdzZHR1BSTGhfdTBNWkxBVHYwY1hQbV8tRmJQQkc4U3JnR1lSRkNITHZaNWpDb0g2aXdHazJRYURudGhNV21xV0gwVFNLUzdNWklEM0taNGlUQk5xa0w2cFR4bFRsa29PRWVfS3M1Z2dVMVQ3VkNuR3E3WXZ3Q0o1S1kzb18tLW5GQWd6ZG5FY0U1TzNz?oc=5",
+      "source": "KATV",
+      "date": "2026-08-03T22:32:09.000Z",
+      "simple_summary": "A sheriff's office admitted they used AI to edit a piece of evidence in a photo after people complained online.",
+      "why_it_matters": "This is a serious problem — it shows we need clear rules about when AI can be used with evidence, so innocent people aren't wrongly accused."
     },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
       "source": "TechCrunch",
       "date": "2026-08-03T20:00:00.000Z",
-      "simple_summary": "Amazon's cloud service is now letting a coding tool called Superblocks work inside customer systems in a new way.",
-      "why_it_matters": "This is a technical change mostly relevant to software engineers — nothing you need to act on."
+      "simple_summary": "Amazon's cloud service (AWS) is now letting a coding tool work within private company systems, making it easier to separate AI from apps.",
+      "why_it_matters": "This mostly matters to software engineers and large companies — not something you need to think about unless you run a tech company."
     },
     {
       "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "source": "TechCrunch",
       "date": "2026-08-03T19:28:57.000Z",
-      "simple_summary": "A company that helps millions of people evaluate and improve AI models raised $7.9 million in funding.",
-      "why_it_matters": "This helps AI companies make better products, but the funding news itself doesn't affect you directly."
+      "simple_summary": "A company called Design Arena raised money because it helps AI systems learn good taste and style from human opinions.",
+      "why_it_matters": "This mostly matters to investors and AI companies — it shows one way AI is improving, but no action needed on your part."
     },
     {
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
       "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
       "source": "TechCrunch",
       "date": "2026-08-03T19:09:56.000Z",
-      "simple_summary": "Social media influencers attended a fancy trip paid for by OpenAI, and people online are criticizing them for it.",
-      "why_it_matters": "This is about public relations and social media drama — nothing that affects your life or business."
+      "simple_summary": "Popular social media personalities went on a trip sponsored by OpenAI, and people online criticized them for it.",
+      "why_it_matters": "This is entertainment and social media news — it doesn't affect your daily life or business."
     },
     {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "source": "TechCrunch",
       "date": "2026-08-03T18:43:43.000Z",
-      "simple_summary": "Apple finally made Siri, its voice assistant, much smarter and more capable than before.",
-      "why_it_matters": "If you own Apple devices, Siri will be more helpful, but it's not a breakthrough — other AI assistants have had these abilities for a while."
+      "simple_summary": "Apple finally improved its Siri voice assistant with new AI abilities, but people aren't as excited about it as they might have been a year ago.",
+      "why_it_matters": "If you use Apple devices, Siri should work better now — but it's less of a big deal since other AI assistants have already gotten good."
     },
     {
       "title": "Breakingviews - Big Tech’s circular AI trade grows too big to veil",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGlMYXdPSkJjMzdsYmVMLVUxdHFkRDh5TWhnQnJvTXhqc0Y2UjE4TllHRlAwSHNyekhIT1pvZ1lRM016aDUwNXRUM0dDUnd6eWd4cE9VYzlaTWNBWnR5NWlkQ0xQTWlnR01vREFmWmV6SmtwRUJEcmhzQ1EyYnlmRjllQmZTdExodGVGQ1NJM0ZydzdBU3NGamZVUGtCQjJlVjVlRnMwbzRVY00?oc=5",
       "source": "Reuters",
       "date": "2026-08-03T18:05:22.000Z",
-      "simple_summary": "Big technology companies are doing business with each other in ways involving AI that are becoming hard to hide or track.",
-      "why_it_matters": "This is financial analysis for investors — nothing affecting your day-to-day use of technology."
+      "simple_summary": "Big tech companies are increasingly trading money and data with each other in AI deals in ways that may not be fully transparent.",
+      "why_it_matters": "This mostly matters to investors watching for unfair business practices — nothing immediate for small business owners to act on."
     },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "source": "The Verge",
       "date": "2026-08-03T17:38:45.000Z",
-      "simple_summary": "Europe now requires companies to tell people when they're talking to an AI and when content is fake video made by AI.",
-      "why_it_matters": "If you live in Europe, you'll see clearer labels when using AI chatbots; in other places, rules may follow eventually."
+      "simple_summary": "Europe passed new rules that require companies to tell you when you're talking to an AI chatbot or looking at AI-created fake videos.",
+      "why_it_matters": "If you live or do business in Europe, companies must now be honest when they're using AI — this protects you from being tricked."
     },
     {
       "title": "Congress’ favorite AI tool? ChatGPT",
       "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "source": "TechCrunch",
       "date": "2026-08-03T16:40:55.000Z",
-      "simple_summary": "Members of Congress use ChatGPT a lot to write memos and letters and understand new laws.",
-      "why_it_matters": "This shows AI is becoming normal for getting work done faster — similar to how your small business might eventually use AI tools."
+      "simple_summary": "Members of Congress use ChatGPT (an AI tool) to help write memos, read legislation, and answer constituents.",
+      "why_it_matters": "This shows AI is now a standard work tool even in government — it's becoming as normal as email."
     },
     {
       "title": "White House finalizes artificial intelligence oversight framework",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjhZZGs2bWJOb3J4d2xpSy16MEtQYWRJOEx5S2FLajJ4d0c2RG12REdlTGpHMDR1RWFST0tIcjBPV3VOcUtqVnA4Q1h6Ql9pVlppTFRzMzh1clo4WWFBeWhGcG8zR3Y5bHRDcHlrTHNvT05pcHpLNGRqOXRodXJLYlFsRUx0TTg3NGc5UDNha1lFcmxkZDNPdklLWVg5TFAzTTV5NTZ3NA?oc=5",
       "source": "Politico",
       "date": "2026-08-03T16:27:00.000Z",
-      "simple_summary": "The White House finalized a framework for how to oversee and manage AI safely.",
-      "why_it_matters": "Government oversight of AI may eventually affect how tools work, but specific impacts on your business won't be clear for a while."
+      "simple_summary": "The White House created an official set of rules and guidelines for how AI should be overseen and managed.",
+      "why_it_matters": "This means the government is taking AI seriously and making official rules — over time, this could affect what AI tools you can use and how they work."
     }
   ]
 }
