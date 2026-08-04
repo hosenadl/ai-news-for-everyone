@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-04T14:41:09.284Z",
+  "generated_at": "2026-08-04T19:58:26.864Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch",
+      "date": "2026-08-04T19:48:40.000Z",
+      "simple_summary": "Anthropic, a company that makes AI tools, signed a big $10 billion deal with another company called Volta that provides cloud computing services (like renting computer power from the internet).",
+      "why_it_matters": "This mostly matters to investors and tech companies — it doesn't change anything for regular people or small business owners right now."
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch",
+      "date": "2026-08-04T19:28:49.000Z",
+      "simple_summary": "A new group of 120+ tech companies, led by Nvidia, formed a week ago to work on ways to protect against AI agents (AI programs that can act on their own) causing harm.",
+      "why_it_matters": "This is mostly relevant to tech engineers and investors — it's early-stage safety work that won't affect your business immediately."
+    },
+    {
+      "title": "How an OpenAI influencer trip backfired ",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "source": "The Verge",
+      "date": "2026-08-04T17:46:41.000Z",
+      "simple_summary": "OpenAI invited some social media influencers on an all-expenses-paid trip, which caused some hard feelings among influencers who weren't invited and criticism from the public.",
+      "why_it_matters": "This doesn't affect you — it's mainly a story about social media drama and how companies try to promote themselves."
+    },
+    {
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "source": "The Verge",
+      "date": "2026-08-04T17:33:46.000Z",
+      "simple_summary": "A popular science YouTuber said he was using AI in ways that weren't healthy and is stepping back from his work while people criticized him online.",
+      "why_it_matters": "This is a reminder to be thoughtful about how much you rely on AI tools, but it's mainly relevant to content creators — not something ordinary people need to worry about."
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "date": "2026-08-04T15:50:06.000Z",
+      "simple_summary": "Spotify is partnering with music distributors to let fans use AI to create remixes and covers of songs, while making sure the original artists get credit and paid.",
+      "why_it_matters": "If you use Spotify, you may eventually be able to create AI remixes of your favorite music — though you'll probably need to pay for this feature."
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch",
+      "date": "2026-08-04T15:42:35.000Z",
+      "simple_summary": "Texas stopped approving new data centers (giant computer buildings that power AI and other internet services) because the state worried it was straining the power supply.",
+      "why_it_matters": "This might affect how fast AI companies can expand, but for most people it just means electricity costs and availability could be affected in Texas long-term."
+    },
+    {
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "source": "The Verge",
+      "date": "2026-08-04T15:33:21.000Z",
+      "simple_summary": "Texas announced that new data centers must pass an official audit before they can connect to the state's power grid.",
+      "why_it_matters": "This could slow down where AI companies build their operations, but it's mainly a policy decision between tech companies and the government."
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch",
+      "date": "2026-08-04T15:20:06.000Z",
+      "simple_summary": "An analysis shows that Elon Musk spends about half his time on Tesla earnings calls (business meetings where he reports on company progress) talking about robots and AI instead of cars.",
+      "why_it_matters": "This suggests Musk may not be focused as much on his car business, which could matter if you own Tesla stock or are considering buying a Tesla car."
+    },
+    {
+      "title": "What Is AI Model Distillation?",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-08-04T14:35:35.000Z",
+      "simple_summary": "This is a headline with no details provided — it's asking what AI model distillation is (a technique that makes AI systems smaller and faster).",
+      "why_it_matters": "Without more information, we can't say whether this matters to you — this is a technical topic mostly for engineers and AI developers."
+    },
     {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "source": "TechCrunch",
       "date": "2026-08-04T14:03:01.000Z",
-      "simple_summary": "Apple says that some former employees who worked at Apple may have taken secret company information to OpenAI (the company that makes ChatGPT). Apple is investigating this through the court system.",
-      "why_it_matters": "This is a legal dispute between two huge tech companies — it doesn't affect ordinary people or small-business owners right now."
-    },
-    {
-      "title": "America’s Cosmic Bet on AI",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5",
-      "source": "Foreign Policy",
-      "date": "2026-08-04T13:55:38.000Z",
-      "simple_summary": "The headline mentions America's plans around artificial intelligence, but there's not enough detail to explain what specifically happened.",
-      "why_it_matters": "Without more information, it's hard to say what this means for you."
+      "simple_summary": "Apple is investigating whether more of its former employees took secret company information when they left to work at OpenAI.",
+      "why_it_matters": "This is a legal dispute between two big companies — unless you own Apple stock, this doesn't directly affect your daily life."
     },
     {
       "title": "AI offers 'lifeline' for emerging economies, World Bank says",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5",
       "source": "Reuters",
       "date": "2026-08-04T13:05:30.000Z",
-      "simple_summary": "The World Bank says that AI technology could help poorer countries and emerging economies grow their businesses and improve.",
-      "why_it_matters": "This is mostly about global policy and investing — it doesn't directly affect your daily life unless you have international business interests."
+      "simple_summary": "The World Bank says AI could help poorer countries develop their economies faster.",
+      "why_it_matters": "This is mainly relevant to developing nations and policy makers — it's a hopeful statement about AI's potential benefits globally."
     },
     {
       "title": "Is the future of data centers portable? Runware builds a pod to find out",
       "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
       "source": "TechCrunch",
       "date": "2026-08-04T13:00:00.000Z",
-      "simple_summary": "A company called Runware made a smaller, movable data center (the big computers that run AI). Instead of needing a giant building, their version can be moved around more easily.",
-      "why_it_matters": "This is mostly interesting to tech companies and investors — it doesn't change anything for small-business owners right now."
-    },
-    {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch",
-      "date": "2026-08-04T12:00:00.000Z",
-      "simple_summary": "A company wants to use space lasers instead of underwater cables to send data super-fast around the world.",
-      "why_it_matters": "This is early-stage technology that engineers and investors care about — nothing you need to worry about today."
-    },
-    {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "source": "The Verge",
-      "date": "2026-08-04T11:27:55.000Z",
-      "simple_summary": "Apple sued OpenAI for stealing trade secrets, and OpenAI publicly responded by sharing messages and emails saying Apple's lawsuit is unfair and wrong.",
-      "why_it_matters": "This is a legal argument between two giant companies playing out in public — it doesn't affect you unless you use both their products."
-    },
-    {
-      "title": "An AI for Africa would be built on Hunhu/Ubuntu ethics",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDZ2XzVxMVhrTlVWOTd1S1Z0UTd3VWlQUWt4ZUhtcjdfelZlUVBrNzBTRjZmMXNxWlNYbVhOMldVTmdWdG1XejNuN2x0Y2VxNFpFUUVZd3BCb0ZpZGxveUpVMERjQkI2cGJEZzlDQjVPYmVMLUhKYm9SVXNwdk52bU1Gdw?oc=5",
-      "source": "Aeon",
-      "date": "2026-08-04T10:01:33.000Z",
-      "simple_summary": "Someone is discussing the idea that AI technology designed for Africa should be based on African ethical values and community principles.",
-      "why_it_matters": "This is mostly a philosophical discussion — it doesn't have practical effects on small businesses right now."
-    },
-    {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "source": "The Verge",
-      "date": "2026-08-04T10:00:00.000Z",
-      "simple_summary": "AI is being used to create fake reviews and posts on Reddit to trick people into buying products. Reddit is trying to stop this spam.",
-      "why_it_matters": "If you read online reviews before buying something, be extra careful — AI-written fake reviews are becoming more common and harder to spot."
-    },
-    {
-      "title": "One chart shows the incredible reversal at American tech companies",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9URlBaU2tId1JjVG1QYjl6dDljRnROWlNJaEVBb1hMemYtWEFHbldTY3JEVUdxdWZYV3RHNWhfLUNwOVdkaUppWUt4NVlWVEtmMllyNmN4VEJVbkdVUUxTU1hsQW9OMzNWV3AxQVYtejFJWUctVzE2ekFLeDgxbVM4dUgydlBLc0JhYTlQWU5UVVVaQlBjbnl0T1MtODV6V0dZZFozUHFBc3d6eDZUR2RkRQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-08-03T23:30:00.000Z",
-      "simple_summary": "A chart shows something significant has changed at big American tech companies, but the headline doesn't say what.",
-      "why_it_matters": "Without knowing what the chart shows, it's impossible to say if this matters to you."
-    },
-    {
-      "title": "Artificial intelligence: Why firms are struggling to set prices",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-03T23:21:10.000Z",
-      "simple_summary": "Companies are finding it hard to figure out how much to charge customers for AI services because the technology is so new and changing so fast.",
-      "why_it_matters": "If you're thinking about using AI tools for your business, prices might still be uncertain and could change — wait to see where the market settles."
-    },
-    {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch",
-      "date": "2026-08-03T23:19:50.000Z",
-      "simple_summary": "The CEO of a company called Palantir said that most AI companies are untrustworthy and compared them to communist ideas. His company just made a lot of profit.",
-      "why_it_matters": "This is one executive's opinion — mostly interesting to investors and people following the AI industry closely."
-    },
-    {
-      "title": "Saline Co. Sheriff’s Office said AI was used to edit evidence photo after online backlash",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONG5DaTNNendwLXBiM2c1S0l2ZEdtZnRwUHh5d3hrM1dEeUFNOVY1S1hHZmtPeUdQX2taVEhFUEZyb0F2RHZqTkJKWkQ5d2NzWHdTTGJ3Sk1BaWdFYXpjQVdNQXdueXd0Tm0ycFdaLVpYallqSnJSclU4UVBFd1haTHI3UDBzR3hGbVFrX3UxbGZRTUhySXRYZkg3bTRaMFNuSjduMW9UQktEdjJ1OTlQdzZHR1BSTGhfdTBNWkxBVHYwY1hQbV8tRmJQQkc4U3JnR1lSRkNITHZaNWpDb0g2aXdHazJRYURudGhNV21xV0gwVFNLUzdNWklEM0taNGlUQk5xa0w2cFR4bFRsa29PRWVfS3M1Z2dVMVQ3VkNuR3E3WXZ3Q0o1S1kzb18tLW5GQWd6ZG5FY0U1TzNz?oc=5",
-      "source": "KATV",
-      "date": "2026-08-03T22:32:09.000Z",
-      "simple_summary": "A sheriff's office admitted they used AI to change a photograph of evidence after people complained online about it.",
-      "why_it_matters": "This is concerning — if police use AI to edit evidence photos, you should worry about accuracy and fairness in the legal system."
+      "simple_summary": "A company called Runware created a portable data center (a box-sized computer system) that can be moved around to power AI work.",
+      "why_it_matters": "This is mostly relevant to tech companies and investors — it's an interesting experiment, but there's no practical impact for most people yet."
     }
   ]
 }
