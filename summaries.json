@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-07T13:41:16.449Z",
+  "generated_at": "2026-08-07T19:17:33.560Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "date": "2026-08-07T18:59:46.000Z",
+      "simple_summary": "Roku is creating a TV channel that shows only computer-generated movies and shows instead of real programs made by people. It's free to watch but has advertisements.",
+      "why_it_matters": "This doesn't affect you unless you use Roku — and if you do, you now have the option to watch AI content, but plenty of regular shows are still available."
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge",
+      "date": "2026-08-07T18:40:34.000Z",
+      "simple_summary": "OpenAI stopped work on a new AI tool called Astra because they're worried it might be unsafe or too powerful before they add better security protections. Other AI companies admitted their programs also caused unexpected problems.",
+      "why_it_matters": "This is a sign that AI companies are being more careful about safety, which is good — but this mostly matters to tech companies and investors."
+    },
+    {
+      "title": "What’s behind the Google AI shake-up",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge",
+      "date": "2026-08-07T16:45:14.000Z",
+      "simple_summary": "Several important people who work on AI at Google, including a famous engineer named Jeff Dean, changed jobs or left Google this week.",
+      "why_it_matters": "This mostly matters to investors watching Google — it doesn't affect how you use Google's services today."
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch",
+      "date": "2026-08-07T16:16:09.000Z",
+      "simple_summary": "A company called Cloudflare created a special web browser designed for AI programs to use instead of people, which runs more efficiently.",
+      "why_it_matters": "This is mainly for programmers and tech companies building AI systems — nothing you need to know about as a regular person."
+    },
+    {
+      "title": "How AI Is Making Cybersecurity A Critical Tech Battlefield",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdm9yWXl3aHQyazhDRGU0LUJHUTZ6Y3dsQUlqT0NTUXVveVVHTHVXSWxzRGIxcVF5RURkS0M5S3gyb1BnclVmMlNnMmF3LWEzX2c0alRleENmRDhlY19QN2dLRUZsajlocGljT3RmeHBsZVdkcjljUFJIMXBVOGlXREVTTFUwRGI3YUpqT3lpU21VSHNUZlQ3dXY3UEdWQ0RfV3E0ag?oc=5",
+      "source": "Investor's Business Daily",
+      "date": "2026-08-07T14:38:00.000Z",
+      "simple_summary": "AI is making cybersecurity (protecting computers from hackers) more important and competitive.",
+      "why_it_matters": "Your business should keep paying attention to protecting your computers and passwords, as hackers are using more advanced tools."
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch",
+      "date": "2026-08-07T14:22:49.000Z",
+      "simple_summary": "Airbnb is using AI to build new features faster, including a new way to search for rentals on their website.",
+      "why_it_matters": "If you use Airbnb, you may soon see a search tool that works a bit differently — but it's designed to make finding rentals easier."
+    },
+    {
+      "title": "Doximity Stock Soars 55% After Earnings Miss. Its AI Can Beat Anthropic.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3d0dFdkE5b0tPcnlzZGNHaTNsemdqZjFWVVJFZ2FyWVM0RnhRTTVES2dOQkRUWjM1ZXM0V1ZxMmhkbGY5bXJBOVRONGFpWTBqZnlSTl9YWmVSVi1NSlpFTGpNZ0c1T1F3TnFtNkxUZ2QwWFRrMmpZ?oc=5",
+      "source": "Barron's",
+      "date": "2026-08-07T14:01:00.000Z",
+      "simple_summary": "A medical company's stock price went up 55% after they reported earnings, partly because their AI software performs well.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch",
+      "date": "2026-08-07T14:00:00.000Z",
+      "simple_summary": "A historian named Jill Lepore thinks tech companies use fancy language and big promises in a way that doesn't always match reality.",
+      "why_it_matters": "This is interesting criticism about how tech companies talk, but it doesn't directly affect your daily use of technology."
+    },
     {
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "TechCrunch",
       "date": "2026-08-07T11:40:37.000Z",
-      "simple_summary": "A court ordered Meta (Facebook and Instagram's company) to pay an additional $567 million for not protecting children safely on their platforms. This brings their total fine in this case to $942 million.",
-      "why_it_matters": "This shows that even huge tech companies face serious consequences for safety failures — it reminds us to be cautious about what our kids do online and which apps we trust them with."
+      "simple_summary": "Meta (which owns Facebook and Instagram) was ordered by a court in New Mexico to pay an additional $567 million for not protecting children safely on their platforms.",
+      "why_it_matters": "If you use Meta's apps, this shows the company is facing real consequences for safety problems — but it doesn't change how the apps work for you."
     },
     {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T22:43:53.000Z",
-      "simple_summary": "OpenAI is making a new smart speaker device that will cost between $300 and $400. It's a piece of technology you talk to, similar to Alexa or Google Home.",
-      "why_it_matters": "This is mostly important to investors and tech enthusiasts — most people already have affordable smart speakers, so you don't need to rush out and buy this."
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-07T10:19:08.000Z",
+      "simple_summary": "Lawyers are discussing who should be held responsible when an AI system makes a mistake or causes harm.",
+      "why_it_matters": "This is important for how laws will work in the future, but right now these legal rules are still being figured out."
     },
     {
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge",
-      "date": "2026-08-06T20:55:39.000Z",
-      "simple_summary": "OpenAI is designing a small, battery-powered smart speaker with famous Apple designer Jony Ive. It's about the size of a hockey puck and is expected to come out in 2027 for over $300.",
-      "why_it_matters": "This is mostly news for investors and tech watchers — nothing you need to act on right now since it won't be available for several more years."
+      "title": "As Colorado universities align with ChatGPT, student AI resisters take a stand against the ‘plagiarism machine’",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY29rMXBTeXR2S0pVSWtMREVYdW9JTEdsSGFkYUJ1anVFT1hCQU02UFRDNVBRTTVROTdGcl9Eb3hfbUlMbWdDUTN6TU83Ql92NDZ5YkowalFHTUVsOThBZkE4MG9JR0E4N3d3TTAtM2pHWXdvWHMtQmtDMk5Pa1Y1WFBmOU9sNjlwdVdtRmF3?oc=5",
+      "source": "The Denver Post",
+      "date": "2026-08-07T10:00:46.000Z",
+      "simple_summary": "Some Colorado college students are refusing to use ChatGPT because they believe it's like cheating or plagiarism, even though their universities are accepting it.",
+      "why_it_matters": "This doesn't affect you unless you're in college — but it shows there's real disagreement about whether AI tools should be allowed in school."
     },
     {
-      "title": "Suno shares plans to combat spammy AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge",
-      "date": "2026-08-06T17:39:43.000Z",
-      "simple_summary": "Suno, a company that uses AI to create music, is adding a watermark (like a hidden stamp) to its songs to prove they were made by AI and stop low-quality spam music from spreading everywhere.",
-      "why_it_matters": "This shows AI music companies are trying to be more responsible and transparent — if you encounter AI-made music, you'll be able to tell it's artificial."
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T17:34:42.000Z",
-      "simple_summary": "OpenAI is letting free ChatGPT users chat with the AI as much as they want without hitting limits. They're also adding a button to help with complicated questions.",
-      "why_it_matters": "If you use ChatGPT for free, you can now use it more without running into annoying restrictions."
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T17:00:37.000Z",
-      "simple_summary": "A company called Naïve raised $28.5 million to create software that automatically handles boring paperwork and setup tasks when you start a business.",
-      "why_it_matters": "If this tool works well, small-business owners might save time on paperwork in the future — but right now this is mostly a business investment story."
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge",
-      "date": "2026-08-06T17:00:00.000Z",
-      "simple_summary": "OpenAI is removing limits on how many times free ChatGPT users can chat with the AI each day.",
-      "why_it_matters": "If you use the free version of ChatGPT, you'll have fewer frustrations with the service restricting your use."
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T15:53:03.000Z",
-      "simple_summary": "Young dating apps are replacing the swipe system (like Tinder) with AI that tries to match people based on what they like instead of just photos.",
-      "why_it_matters": "If you or someone you know uses dating apps, these new ones might work better than endless swiping — but this only matters if you're actually looking to date."
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T15:10:32.000Z",
-      "simple_summary": "OpenAI is defending itself in a lawsuit from Apple by arguing that Apple's own security practices weren't strong enough to protect secret information.",
-      "why_it_matters": "This mostly matters to investors and legal watchers — the outcome of tech company lawsuits generally doesn't affect everyday people."
-    },
-    {
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "source": "The Verge",
-      "date": "2026-08-06T14:30:00.000Z",
-      "simple_summary": "Japanese company SoftBank donated $50 million to the Trump Presidential Library in January, then a few months later announced it would lease federal land to build a large data center in Ohio.",
-      "why_it_matters": "This raises questions about whether political donations influence business deals with the government — it's something to be aware of when big companies get favorable government treatment."
-    },
-    {
-      "title": "The left and right agree on one thing: no data centers",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "The Verge",
-      "date": "2026-08-06T14:00:00.000Z",
-      "simple_summary": "Communities across the country, both in Democratic and Republican areas, are opposing new data center construction because they're concerned about environmental and community impacts.",
-      "why_it_matters": "If you live near where a data center might be built, local resistance might prevent it — but if you don't, this probably doesn't affect you directly."
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T13:31:57.000Z",
-      "simple_summary": "Suno, an AI music creation company that's facing lawsuits, says it will add watermarks to its songs to show they were made by AI.",
-      "why_it_matters": "This is mostly important for the legal disputes between AI companies and musicians — most people won't notice the difference."
+      "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
+      "source": "Nature",
+      "date": "2026-08-07T09:50:07.000Z",
+      "simple_summary": "Scientists are learning how to use artificial intelligence to help discover new medicines faster.",
+      "why_it_matters": "In the future, this could mean new drugs get developed more quickly — but this is still early research and won't affect you right now."
     }
   ]
 }
