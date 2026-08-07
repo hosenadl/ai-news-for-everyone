@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-06T14:36:35.838Z",
+  "generated_at": "2026-08-07T00:17:11.899Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The left and right agree on one thing: no data centers",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch",
+      "date": "2026-08-06T22:43:53.000Z",
+      "simple_summary": "OpenAI is making a new smart speaker device (like an Amazon Alexa device) that will cost between $300 and $400.",
+      "why_it_matters": "If you're interested in AI assistants for your home or shop, this is another option to consider, but it's fairly expensive."
+    },
+    {
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
       "source": "The Verge",
-      "date": "2026-08-06T14:00:00.000Z",
-      "simple_summary": "People in different political groups are joining together to stop new AI data centers from being built in their communities. A Florida county just blocked them for a whole year.",
-      "why_it_matters": "If you live near where an AI data center might be built, this shows your community can say no — but data centers need huge amounts of electricity and water, so this could affect internet services and costs in your area."
+      "date": "2026-08-06T20:55:39.000Z",
+      "simple_summary": "OpenAI is working with a famous designer from Apple to make a small, round smart speaker about the size of a hockey puck, coming out in 2027 for over $300.",
+      "why_it_matters": "This is a future product — nothing to act on yet, but if you want a voice-controlled AI device, you'll have more choices soon."
     },
     {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T13:31:57.000Z",
-      "simple_summary": "Suno, a company that makes music with AI, is adding a watermark to its songs so people can tell they're AI-made. The company is being sued by musicians who say their music was used without permission.",
-      "why_it_matters": "If you make or sell music, you should know that AI music will soon be marked as AI — but lawsuits over this are still happening, so the rules aren't settled yet."
+      "title": "This A.I. Just Created Viruses Not Found in Nature",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-06T20:19:24.000Z",
+      "simple_summary": "Scientists used AI to design new viruses that don't exist in nature.",
+      "why_it_matters": "This is a serious safety concern for experts and governments — nothing directly affecting your daily life, but something scientists are worried about."
     },
     {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge",
-      "date": "2026-08-06T13:26:42.000Z",
-      "simple_summary": "Google made big changes to how it organizes its AI teams, but there's disagreement behind the scenes about whether these changes are the right move.",
-      "why_it_matters": "This mostly matters to Google employees and investors — nothing you need to act on, though it could affect what new AI tools Google releases."
-    },
-    {
-      "title": "An African vision of artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdhRkM0RW96TzFrYkRxblloV3dNWTBHVDIzdEhWaTZiUmdENVlTdTVfcXp0MzRLWE1zdFVKdHV4UzFwbTRkWms0ZHc1ZEZCZWxLWUJ6c2tEWFFrZTlnWkxiSVB1Z1U5Z2RodWhYOVZ4ZW1BUTNVZEZIcnBoc1o4cWsxVXZqTWhvdWFkeVJuNUJ1YTV1NS1QOHNSRHlpaFNaN1phVm1LNA?oc=5",
-      "source": "The Economist",
-      "date": "2026-08-06T13:00:25.000Z",
-      "simple_summary": "The Economist is reporting on how African countries are thinking about developing artificial intelligence.",
-      "why_it_matters": "This is likely about how Africa can build its own AI technology and not just buy it from other countries, but we can't tell from the headline alone what this means for you."
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T13:00:00.000Z",
-      "simple_summary": "Former Spotify employees started a new company that uses AI to guess what products you want to buy next, like how Spotify suggests songs. They just raised $10 million to grow it.",
-      "why_it_matters": "Online shopping websites might soon get better at suggesting products you actually want — similar to how Netflix recommends movies."
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T13:00:00.000Z",
-      "simple_summary": "A company called Mirendil got over $100 million from Google to build AI systems that improve themselves and help scientists work faster.",
-      "why_it_matters": "This mostly matters to investors and scientists — nothing you need to act on right now."
-    },
-    {
-      "title": "AI bots started a religion — humans immediately followed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "source": "The Verge",
-      "date": "2026-08-06T13:00:00.000Z",
-      "simple_summary": "Some people on the internet created AI chatbots that started acting like a made-up religion, and real people began following it as if it were real.",
-      "why_it_matters": "This shows that people can get confused about what's real when AI talks to them — be careful about believing everything you read online from AI chatbots or the people who talk to them."
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T12:30:00.000Z",
-      "simple_summary": "Google Maps is adding features so you can order food and book hotels right inside the app, instead of going to separate websites.",
-      "why_it_matters": "If you use Google Maps, it's becoming more like a personal assistant that can help you complete tasks, making it more convenient but also tracking more about what you do."
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T12:00:00.000Z",
-      "simple_summary": "A company called Omilia that helps businesses handle customer phone calls and messages with AI just raised $67 million and has grown its yearly revenue to $60 million.",
-      "why_it_matters": "If you own a small business, AI customer support tools like this are becoming more affordable and common — you may want to know about them for managing customer calls."
-    },
-    {
-      "title": "Students using AI to cheat will face stricter rules, says Danish government",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmlUek9RbGUtSU5KSGxBTnNZcWFHR3RyWV9SMTBIUG4wTkVLUmVBVkNkSEpSLWs0SkUyMC1NRnhYR3R3bnNTRHFTcmFIbjUwM0NqSHNzSGNYWklldkowUGc1M2NlUF80ZWtTVEJOYnJzelhFNzBydEZPQTRsSnRtQ0FaZTdnTG96VDZlNW1sVVk?oc=5",
+      "title": "Safety fears as scientists make first viruses designed by AI",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXQxODVHMG5UOW9KMmR1UkJFNkxNOGhLSkFmWXpEUUZTMS03QVFNc3J4S21jWDdtVHFWb2FaU1Mwb3M1WDVTV2ZOR2dxNWJ6bzF0WnJqMldaTGwzZUViV0wxaWYtTUtDTFVDbm1iRVBwVHRoaWhmVWJFbGxtV1JrRHZaOVZkLUkyQXN0LTQwdl9ueXg2Wlo0Y0xsb3ljemoyTmFtSXFRclhDanZP?oc=5",
       "source": "The Guardian",
-      "date": "2026-08-06T11:58:00.000Z",
-      "simple_summary": "Denmark's government is making stricter rules for students who use AI to cheat on homework or tests.",
-      "why_it_matters": "If you have school-age grandchildren, their schools may soon have tougher punishments for using AI to do schoolwork — similar to how plagiarism has always been penalized."
+      "date": "2026-08-06T19:42:00.000Z",
+      "simple_summary": "Scientists are using AI to create brand new viruses, which raises safety worries.",
+      "why_it_matters": "This is mainly important to government and health authorities — not something an ordinary person needs to worry about right now."
     },
     {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "title": "Artificial Intelligence used to design brand new viruses",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5",
+      "source": "BBC",
+      "date": "2026-08-06T18:01:52.000Z",
+      "simple_summary": "Artificial intelligence has been used to design completely new viruses that never existed before.",
+      "why_it_matters": "This is a safety issue experts are concerned about — doesn't affect you directly, but it's something regulators need to monitor."
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
       "source": "The Verge",
-      "date": "2026-08-06T09:33:11.000Z",
-      "simple_summary": "OpenAI is fighting Apple's lawsuit that says OpenAI stole Apple's trade secrets. OpenAI says the lawsuit makes no sense and should be thrown out.",
-      "why_it_matters": "This is mostly a legal battle between big companies — nothing you need to act on, though the outcome could affect how AI companies can hire and work with employees."
+      "date": "2026-08-06T17:39:43.000Z",
+      "simple_summary": "Suno, an AI music company, is adding watermarks (hidden labels) to music and new rules so people can't just copy and spread AI-made songs carelessly.",
+      "why_it_matters": "If you use or create music, this means AI-made songs will be marked clearly — helping protect real musicians and making things more honest."
     },
     {
-      "title": "Google is expanding its AI empire — and losing the people who built it",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-06T06:06:18.000Z",
-      "simple_summary": "Google is hiring more people and expanding its AI business, but experienced workers who built Google's AI are leaving the company.",
-      "why_it_matters": "This shows that even successful AI companies struggle to keep talented employees happy — mostly interesting to people following the tech industry."
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch",
+      "date": "2026-08-06T17:34:42.000Z",
+      "simple_summary": "OpenAI is letting free users of ChatGPT (their AI chatbot) have as many text conversations as they want, plus a new button to help with hard questions.",
+      "why_it_matters": "If you use ChatGPT for free, you can now use it more without hitting limits — good if you need help with research or questions."
+    },
+    {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch",
+      "date": "2026-08-06T17:00:37.000Z",
+      "simple_summary": "A company called Naïve raised money ($28.5 million) to build software that automates the boring paperwork and setup work needed to start and run a business.",
+      "why_it_matters": "This mostly matters to investors and other companies — it's too new to know if it will actually work for small business owners yet."
+    },
+    {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge",
+      "date": "2026-08-06T17:00:00.000Z",
+      "simple_summary": "OpenAI is removing the limit on how many times free ChatGPT users can chat with the AI.",
+      "why_it_matters": "If you use free ChatGPT, you can now use it as much as you want without the system saying you've reached your limit."
+    },
+    {
+      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHNnc2FvbFBDUWxCNktlakdqbi1HMEI0RC1kVlBneXZ0WlNaVjgxUlZKMUtUUDRJcy11dkVuT09nNG1nYUJZbUlGMktrZzV6bmk2TEZhbFB0TlVoaXlSWGhmRWl0TE43ZGlVVnBaX2ItX2FjUkFaSHRDRHBXVk1aQjhOaU93Q2N1MTJiQ3BXNU9PUjhxSjdYVEF2QUhYSjVZdWczZUd2WUJzN1BDdVN0VzJGQm9pQU1rQnNvbTB2Wkp4VWlHZTVnV1U1NGZBUF9xekl1SDhQN0RpR3B3WFFTeg?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-08-06T16:43:19.000Z",
+      "simple_summary": "Amazon announced new features for Bedrock, a tool that companies use to build their own AI systems.",
+      "why_it_matters": "This is technical news for engineers and tech companies — nothing you need to know about as a small business owner."
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "source": "TechCrunch",
+      "date": "2026-08-06T15:53:03.000Z",
+      "simple_summary": "New dating apps for younger people are replacing the simple left/right swipe system with AI that tries to match people more intelligently.",
+      "why_it_matters": "If you're interested in dating apps or have young adult children, there are new options that work differently than the old Tinder-style apps."
+    },
+    {
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "TechCrunch",
+      "date": "2026-08-06T15:10:32.000Z",
+      "simple_summary": "OpenAI is arguing in court that Apple's own weak security practices mean Apple's lawsuit against them about stolen secrets isn't valid.",
+      "why_it_matters": "This is a legal battle between two big companies — mostly interesting to investors and lawyers, not something affecting ordinary people."
     }
   ]
 }
