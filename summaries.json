@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-07T00:17:11.899Z",
+  "generated_at": "2026-08-07T07:43:33.497Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTkJpcmxGMnhSbVhYb2ZFbGF0em9IcjZwdFhaVUt5OGdoQ05BZVRzUGMtMElRNml6NS0tQWQ0a0h4UGVCbmdDSzZ2eDZkekNvaUdhNlBQWERRaGhhYVY3dUwxLUs3VUtVUlBvWTc4NkdPZTRZZUFncVAtdGs1NkdYbFIyVDRSWXR6ODZUWkF3N2Y0anA2SWc5aXpHdFVHdnBvVEc5T29WbWJwOU1VYkJZdFhvanpoOXV6Mnd4ZnF3UUtkZk1kRXMxOVl4ZFF4d0JqU3FfU2NFbm9pMFdVLXFieGRZRTl5TkhYSnctblBVQm5IUDhJSFE0VQ?oc=5",
+      "source": "WUSA9",
+      "date": "2026-08-07T02:00:00.000Z",
+      "simple_summary": "A university is starting a new college degree program in artificial intelligence where students can earn a bachelor's degree.",
+      "why_it_matters": "This matters if you have young people looking for college programs, but it's not something that affects your daily life or business right now."
+    },
+    {
+      "title": "Meta Artificial Intelligence Is the Latest AI Technology to Hack Another Company During Testing",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1NGQ1NwQVZGSFlLbTFuUjg1QThKTTFxTmE5cmd4SF9ISC1zeEFrbmh1N0s0bHp6UVZNUG1xS3RIdjR6S2VxWlBVZkx1TmZjX29MNkRFYXljRC1lZEpmQk1zSURxVWxXOFRIaXlucWI3YnhzMDM4UnJsdk03aEN5aVdVV3A3bkxzTEZXVGFya0ZqQzJWaG91bnJxWkFvVnllUXNQUVVPUzM0aFds?oc=5",
+      "source": "People.com",
+      "date": "2026-08-07T01:16:48.000Z",
+      "simple_summary": "Meta's AI software found a security problem in another company's system while being tested — like finding a hole in a fence during an inspection.",
+      "why_it_matters": "This mostly matters to tech companies and their security teams — it shows AI can be good at finding problems, but you don't need to take action."
+    },
+    {
+      "title": "WORDS OF WISDOM: Thoughts on using Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnJQMTRCbEdBeEVNR0c2NTJpb09WWUFJaXVFTkxieDJoLVgxZWVQaElsc3FJbzVCN3VLWTdtcDNFbVBUQl9ZRWxyV2VWMVNZVm9TaFExaURiMGVidmFYNzYzajBjdlFkNEtFYlFKQTFaRzJDaDV6eS1fY2lRV0l1alp1eGtWLTZMUFd4bEc3eVZUbUNfT2p6R2NSM2J4UQ?oc=5",
+      "source": "Tillamook County Pioneer",
+      "date": "2026-08-07T01:04:44.000Z",
+      "simple_summary": "Someone wrote an opinion piece about how to think carefully when using artificial intelligence.",
+      "why_it_matters": "This is general advice rather than news about something that changed, so it doesn't affect you unless you're interested in thinking more carefully about AI."
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "source": "TechCrunch",
       "date": "2026-08-06T22:43:53.000Z",
-      "simple_summary": "OpenAI is making a new smart speaker device (like an Amazon Alexa device) that will cost between $300 and $400.",
-      "why_it_matters": "If you're interested in AI assistants for your home or shop, this is another option to consider, but it's fairly expensive."
+      "simple_summary": "OpenAI is making a new small speaker device that uses AI and will cost somewhere between $300 and $400 when it comes out.",
+      "why_it_matters": "This is a product for people who want new gadgets, but most small-business owners and retirees don't need to buy it — nothing you need to act on."
     },
     {
       "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
       "source": "The Verge",
       "date": "2026-08-06T20:55:39.000Z",
-      "simple_summary": "OpenAI is working with a famous designer from Apple to make a small, round smart speaker about the size of a hockey puck, coming out in 2027 for over $300.",
-      "why_it_matters": "This is a future product — nothing to act on yet, but if you want a voice-controlled AI device, you'll have more choices soon."
+      "simple_summary": "A famous Apple designer is working with OpenAI to create a small, hockey-puck-sized speaker with AI that costs over $300 and will launch in 2027.",
+      "why_it_matters": "This is a future product announcement mostly interesting to tech enthusiasts and investors — you don't need to do anything about it now."
     },
     {
       "title": "This A.I. Just Created Viruses Not Found in Nature",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
       "source": "The New York Times",
-      "date": "2026-08-06T20:19:24.000Z",
-      "simple_summary": "Scientists used AI to design new viruses that don't exist in nature.",
-      "why_it_matters": "This is a serious safety concern for experts and governments — nothing directly affecting your daily life, but something scientists are worried about."
-    },
-    {
-      "title": "Safety fears as scientists make first viruses designed by AI",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXQxODVHMG5UOW9KMmR1UkJFNkxNOGhLSkFmWXpEUUZTMS03QVFNc3J4S21jWDdtVHFWb2FaU1Mwb3M1WDVTV2ZOR2dxNWJ6bzF0WnJqMldaTGwzZUViV0wxaWYtTUtDTFVDbm1iRVBwVHRoaWhmVWJFbGxtV1JrRHZaOVZkLUkyQXN0LTQwdl9ueXg2Wlo0Y0xsb3ljemoyTmFtSXFRclhDanZP?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-06T19:42:00.000Z",
-      "simple_summary": "Scientists are using AI to create brand new viruses, which raises safety worries.",
-      "why_it_matters": "This is mainly important to government and health authorities — not something an ordinary person needs to worry about right now."
-    },
-    {
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5",
-      "source": "BBC",
-      "date": "2026-08-06T18:01:52.000Z",
-      "simple_summary": "Artificial intelligence has been used to design completely new viruses that never existed before.",
-      "why_it_matters": "This is a safety issue experts are concerned about — doesn't affect you directly, but it's something regulators need to monitor."
+      "date": "2026-08-06T18:00:05.000Z",
+      "simple_summary": "An AI program created viruses that don't exist in nature — computer viruses created by artificial intelligence.",
+      "why_it_matters": "This is concerning for security experts and scientists studying AI safety, but for an average person or small-business owner, this doesn't pose an immediate threat you need to worry about."
     },
     {
       "title": "Suno shares plans to combat spammy AI music",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
       "source": "The Verge",
       "date": "2026-08-06T17:39:43.000Z",
-      "simple_summary": "Suno, an AI music company, is adding watermarks (hidden labels) to music and new rules so people can't just copy and spread AI-made songs carelessly.",
-      "why_it_matters": "If you use or create music, this means AI-made songs will be marked clearly — helping protect real musicians and making things more honest."
+      "simple_summary": "A company that makes AI music announced they're adding technology to mark their AI songs and stop spam — like putting a watermark on documents to prove who made them.",
+      "why_it_matters": "If you use AI to create music, this means the quality will improve and there will be less junk; if you don't, this doesn't affect you."
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
       "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "source": "TechCrunch",
       "date": "2026-08-06T17:34:42.000Z",
-      "simple_summary": "OpenAI is letting free users of ChatGPT (their AI chatbot) have as many text conversations as they want, plus a new button to help with hard questions.",
-      "why_it_matters": "If you use ChatGPT for free, you can now use it more without hitting limits — good if you need help with research or questions."
+      "simple_summary": "OpenAI is letting free users of ChatGPT chat with the AI as many times as they want, plus a new button for harder questions.",
+      "why_it_matters": "If you use ChatGPT for free, you get more access; if you don't use it, nothing changes for you."
     },
     {
       "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
       "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
       "source": "TechCrunch",
       "date": "2026-08-06T17:00:37.000Z",
-      "simple_summary": "A company called Naïve raised money ($28.5 million) to build software that automates the boring paperwork and setup work needed to start and run a business.",
-      "why_it_matters": "This mostly matters to investors and other companies — it's too new to know if it will actually work for small business owners yet."
+      "simple_summary": "A new AI company raised $28.5 million in funding to create software that automates the paperwork and setup work of starting and running a business.",
+      "why_it_matters": "This is mainly interesting to investors and tech companies right now — the software doesn't exist yet, so it's not something you can use today."
     },
     {
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
       "source": "The Verge",
       "date": "2026-08-06T17:00:00.000Z",
-      "simple_summary": "OpenAI is removing the limit on how many times free ChatGPT users can chat with the AI.",
-      "why_it_matters": "If you use free ChatGPT, you can now use it as much as you want without the system saying you've reached your limit."
+      "simple_summary": "OpenAI is removing limits on how many free text conversations you can have with ChatGPT.",
+      "why_it_matters": "If you use the free version of ChatGPT, you'll have better access; if you don't use it, this doesn't affect you."
     },
     {
-      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHNnc2FvbFBDUWxCNktlakdqbi1HMEI0RC1kVlBneXZ0WlNaVjgxUlZKMUtUUDRJcy11dkVuT09nNG1nYUJZbUlGMktrZzV6bmk2TEZhbFB0TlVoaXlSWGhmRWl0TE43ZGlVVnBaX2ItX2FjUkFaSHRDRHBXVk1aQjhOaU93Q2N1MTJiQ3BXNU9PUjhxSjdYVEF2QUhYSjVZdWczZUd2WUJzN1BDdVN0VzJGQm9pQU1rQnNvbTB2Wkp4VWlHZTVnV1U1NGZBUF9xekl1SDhQN0RpR3B3WFFTeg?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "date": "2026-08-06T16:43:19.000Z",
-      "simple_summary": "Amazon announced new features for Bedrock, a tool that companies use to build their own AI systems.",
-      "why_it_matters": "This is technical news for engineers and tech companies — nothing you need to know about as a small business owner."
+      "title": "UNESCO Peru promotes dialogue on the ethical horizons of artificial intelligence at FIL Lima 2026",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjRBeDVrZ1BHX3l6Z2czaEgzZ1RkTzVxZVg3X0kxS3BFQ3NacEVJX1NDRWxnZEJ4RHE3SUVKNFFPYUF4OUd4QnNiM3VDYkVZQjRycnFJUmY2V2NEMUlPRDl0alRMYXJoenlnYUF2MTYwU1BSYkdRMGtZRTZBb19EVjdYVHBmb0M4clJUblVMaUppN2VjZ2ZYSHJJVEZraUY2eU5ieEFjLXB4LWNxMmlxY0VaWnRnVk0td0o4?oc=5",
+      "source": "UNESCO",
+      "date": "2026-08-06T16:28:12.000Z",
+      "simple_summary": "UNESCO in Peru is hosting discussions about the ethical rules and values we should use when creating and using artificial intelligence.",
+      "why_it_matters": "This is important work for policy makers and educators, but it's not an action item for you unless you're involved in education or government policy."
     },
     {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T15:53:03.000Z",
-      "simple_summary": "New dating apps for younger people are replacing the simple left/right swipe system with AI that tries to match people more intelligently.",
-      "why_it_matters": "If you're interested in dating apps or have young adult children, there are new options that work differently than the old Tinder-style apps."
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch",
-      "date": "2026-08-06T15:10:32.000Z",
-      "simple_summary": "OpenAI is arguing in court that Apple's own weak security practices mean Apple's lawsuit against them about stolen secrets isn't valid.",
-      "why_it_matters": "This is a legal battle between two big companies — mostly interesting to investors and lawyers, not something affecting ordinary people."
+      "title": "Today's Podcast Episode: AI in Financial Services—Consumer Protection Challenges in the Age of Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWnVHZXpwbm8zVlBjMVpwQlV2YktYTGI5a3FWcEZveFpJZ2dya3hFbThFeS0yVS1sckJVQ2lCcHVSOTFWX1d0VENNQncxMDhhUmVETWh5ZFhOVFFrbjFPYks0R0RjZi1QajNmTXo0WXRrWVBOWjc4YW1rdGtvZnBHT09rdHNJOUJpbUNHdlRmemJKY3pKOUdQNnZKQmh1SWF4V2xmQTh2clhWMEhxb0twR2VXeURmU1RTa3d1dmRUY2h5d2dQZXdMdGd4WVpMd1BTUkdnSkRza0VpWDc1R3BISVlSS3NFMXVxWHhXOXBBZnBFQ2s4ckFDNmJrYw?oc=5",
+      "source": "Consumer Finance Monitor",
+      "date": "2026-08-06T16:09:06.000Z",
+      "simple_summary": "Someone created a podcast episode about how artificial intelligence is being used in banking and what consumer protection issues that creates.",
+      "why_it_matters": "If you use banks and want to understand AI in financial services, this podcast might be interesting to listen to, but nothing you need to do right now."
     }
   ]
 }
