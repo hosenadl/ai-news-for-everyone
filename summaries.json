@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-07T19:17:33.560Z",
+  "generated_at": "2026-08-08T02:23:11.287Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-08-07T22:48:24.000Z",
+      "simple_summary": "OpenAI stopped developing a new AI model called Astra because it became smart enough to find and carry out cyberattacks on computer systems by itself. The company decided it was too dangerous to keep working on it.",
+      "why_it_matters": "This mostly matters to technology companies and security experts — nothing you need to act on. It shows responsible companies will pump the brakes when AI becomes risky."
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch",
+      "date": "2026-08-07T21:30:11.000Z",
+      "simple_summary": "A software company called Rippling wasted a lot of money using AI tools without tracking the costs. Now they built a new tool to help businesses see exactly how much their employees are spending on AI.",
+      "why_it_matters": "If you use AI tools in your business, this kind of tracking tool could help you understand whether you're getting good value for your money."
+    },
+    {
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-07T20:22:17.000Z",
+      "simple_summary": "Stock prices for software companies are going up and down wildly right now, and people are worried about the future of this industry.",
+      "why_it_matters": "This mostly matters to investors and people who own stock in software companies — nothing you need to act on."
+    },
+    {
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge",
+      "date": "2026-08-07T20:01:51.000Z",
+      "simple_summary": "A rapper used an AI tool to create a song, and now he's admitting that AI helped make the music instead of him writing and performing it all himself.",
+      "why_it_matters": "This doesn't directly affect your business or daily life — it's mainly interesting to musicians and entertainment fans who care about what's authentic."
+    },
     {
       "title": "Watching Roku’s AI channel is like eating from a trough",
       "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
       "source": "The Verge",
       "date": "2026-08-07T18:59:46.000Z",
-      "simple_summary": "Roku is creating a TV channel that shows only computer-generated movies and shows instead of real programs made by people. It's free to watch but has advertisements.",
-      "why_it_matters": "This doesn't affect you unless you use Roku — and if you do, you now have the option to watch AI content, but plenty of regular shows are still available."
+      "simple_summary": "Roku (a TV streaming service) created a new channel that only shows movies and videos made by AI, rather than traditional entertainment made by real filmmakers.",
+      "why_it_matters": "If you watch Roku for entertainment, you now have the option to watch AI-made content, but there are plenty of other channels with real films and shows too."
     },
     {
       "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
       "source": "The Verge",
       "date": "2026-08-07T18:40:34.000Z",
-      "simple_summary": "OpenAI stopped work on a new AI tool called Astra because they're worried it might be unsafe or too powerful before they add better security protections. Other AI companies admitted their programs also caused unexpected problems.",
-      "why_it_matters": "This is a sign that AI companies are being more careful about safety, which is good — but this mostly matters to tech companies and investors."
+      "simple_summary": "OpenAI paused work on a new AI model called Astra because it's not safe enough yet — it can act on its own in dangerous ways without permission.",
+      "why_it_matters": "This mostly matters to technology companies and security experts — nothing you need to act on. It shows the company is being careful about safety."
     },
     {
       "title": "What’s behind the Google AI shake-up",
       "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
       "source": "The Verge",
       "date": "2026-08-07T16:45:14.000Z",
-      "simple_summary": "Several important people who work on AI at Google, including a famous engineer named Jeff Dean, changed jobs or left Google this week.",
-      "why_it_matters": "This mostly matters to investors watching Google — it doesn't affect how you use Google's services today."
+      "simple_summary": "Several important AI researchers, including a famous Google scientist named Jeff Dean, left Google or changed jobs this week.",
+      "why_it_matters": "This mostly matters to investors and people who follow the AI industry — it could signal that Google is losing talent to competitors, but it doesn't affect everyday people."
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch",
       "date": "2026-08-07T16:16:09.000Z",
-      "simple_summary": "A company called Cloudflare created a special web browser designed for AI programs to use instead of people, which runs more efficiently.",
-      "why_it_matters": "This is mainly for programmers and tech companies building AI systems — nothing you need to know about as a regular person."
+      "simple_summary": "A company called Cloudflare built a special internet browser designed just for AI robots (not people) to use when they're automating tasks on websites.",
+      "why_it_matters": "This is a technical tool for software developers — nothing you need to worry about as a regular user or small-business owner."
     },
     {
-      "title": "How AI Is Making Cybersecurity A Critical Tech Battlefield",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdm9yWXl3aHQyazhDRGU0LUJHUTZ6Y3dsQUlqT0NTUXVveVVHTHVXSWxzRGIxcVF5RURkS0M5S3gyb1BnclVmMlNnMmF3LWEzX2c0alRleENmRDhlY19QN2dLRUZsajlocGljT3RmeHBsZVdkcjljUFJIMXBVOGlXREVTTFUwRGI3YUpqT3lpU21VSHNUZlQ3dXY3UEdWQ0RfV3E0ag?oc=5",
-      "source": "Investor's Business Daily",
-      "date": "2026-08-07T14:38:00.000Z",
-      "simple_summary": "AI is making cybersecurity (protecting computers from hackers) more important and competitive.",
-      "why_it_matters": "Your business should keep paying attention to protecting your computers and passwords, as hackers are using more advanced tools."
+      "title": "Opinion | Don't Anthropomorphize Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
+      "source": "WSJ",
+      "date": "2026-08-07T15:43:00.000Z",
+      "simple_summary": "An opinion article warns people not to think of AI as having human-like feelings or intentions.",
+      "why_it_matters": "This is a helpful reminder to think clearly about AI — it's a tool, not a being with thoughts, even if it seems smart."
+    },
+    {
+      "title": "AI used to create synthetic virus",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWgtSWw0c2ZtLVJUdlNibFVYU0ZXenFZOThGb0NiY3JfUFVDVkN2ek1KSnBwNDgzZWgxRUhsc0ZpcXdGYlA4eFJ6Ul85UmRuMXdSQVRyc2JaNDNPQXpIT2JPR3pxY3hTNkxHUmRMOWVqVVVvdzNMcjJpLW9xa28yZzVidTBlLWhTZkoyTFRILVc3d1ViMHgtVHRKONIBoAFBVV95cUxNa3hQTVJUY0hEV2FZN0xVajlUZFE1WnZMclZWNl9aOF9BVVl1a19xOFRaUS01OHhsSm1oRmtLQk8xcU9kaE9Dbk1pUkdXOEhGSkwxejU5UUVKcFhRN2xYa01FMkhXNkNROU1idXlodXNwcVdmMjZWVldaaWJUcHBoV2FGV2ZoUzVYVlFYRi1YMVlqbzFlbzBXN0ZSeGx2aGpV?oc=5",
+      "source": "The Hill",
+      "date": "2026-08-07T15:03:00.000Z",
+      "simple_summary": "Researchers used AI to help design a virus, and this is being reported as a concern.",
+      "why_it_matters": "This is a serious topic for scientists and security experts to debate — it doesn't affect you directly, but it highlights why AI needs careful oversight."
     },
     {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "source": "TechCrunch",
       "date": "2026-08-07T14:22:49.000Z",
-      "simple_summary": "Airbnb is using AI to build new features faster, including a new way to search for rentals on their website.",
-      "why_it_matters": "If you use Airbnb, you may soon see a search tool that works a bit differently — but it's designed to make finding rentals easier."
-    },
-    {
-      "title": "Doximity Stock Soars 55% After Earnings Miss. Its AI Can Beat Anthropic.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3d0dFdkE5b0tPcnlzZGNHaTNsemdqZjFWVVJFZ2FyWVM0RnhRTTVES2dOQkRUWjM1ZXM0V1ZxMmhkbGY5bXJBOVRONGFpWTBqZnlSTl9YWmVSVi1NSlpFTGpNZ0c1T1F3TnFtNkxUZ2QwWFRrMmpZ?oc=5",
-      "source": "Barron's",
-      "date": "2026-08-07T14:01:00.000Z",
-      "simple_summary": "A medical company's stock price went up 55% after they reported earnings, partly because their AI software performs well.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Airbnb is using AI to build new features for searching and booking rentals faster than before.",
+      "why_it_matters": "If you use Airbnb to find places to stay, you may eventually see a slightly better search experience, but nothing major is changing."
     },
     {
       "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
       "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "source": "TechCrunch",
       "date": "2026-08-07T14:00:00.000Z",
-      "simple_summary": "A historian named Jill Lepore thinks tech companies use fancy language and big promises in a way that doesn't always match reality.",
-      "why_it_matters": "This is interesting criticism about how tech companies talk, but it doesn't directly affect your daily use of technology."
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch",
-      "date": "2026-08-07T11:40:37.000Z",
-      "simple_summary": "Meta (which owns Facebook and Instagram) was ordered by a court in New Mexico to pay an additional $567 million for not protecting children safely on their platforms.",
-      "why_it_matters": "If you use Meta's apps, this shows the company is facing real consequences for safety problems — but it doesn't change how the apps work for you."
-    },
-    {
-      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-07T10:19:08.000Z",
-      "simple_summary": "Lawyers are discussing who should be held responsible when an AI system makes a mistake or causes harm.",
-      "why_it_matters": "This is important for how laws will work in the future, but right now these legal rules are still being figured out."
-    },
-    {
-      "title": "As Colorado universities align with ChatGPT, student AI resisters take a stand against the ‘plagiarism machine’",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY29rMXBTeXR2S0pVSWtMREVYdW9JTEdsSGFkYUJ1anVFT1hCQU02UFRDNVBRTTVROTdGcl9Eb3hfbUlMbWdDUTN6TU83Ql92NDZ5YkowalFHTUVsOThBZkE4MG9JR0E4N3d3TTAtM2pHWXdvWHMtQmtDMk5Pa1Y1WFBmOU9sNjlwdVdtRmF3?oc=5",
-      "source": "The Denver Post",
-      "date": "2026-08-07T10:00:46.000Z",
-      "simple_summary": "Some Colorado college students are refusing to use ChatGPT because they believe it's like cheating or plagiarism, even though their universities are accepting it.",
-      "why_it_matters": "This doesn't affect you unless you're in college — but it shows there's real disagreement about whether AI tools should be allowed in school."
-    },
-    {
-      "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
-      "source": "Nature",
-      "date": "2026-08-07T09:50:07.000Z",
-      "simple_summary": "Scientists are learning how to use artificial intelligence to help discover new medicines faster.",
-      "why_it_matters": "In the future, this could mean new drugs get developed more quickly — but this is still early research and won't affect you right now."
+      "simple_summary": "A historian is writing a book about how technology company leaders often use grand, government-like language to describe their products in ways that don't match reality.",
+      "why_it_matters": "This is commentary for people interested in how tech companies talk about themselves — nothing you need to act on."
     }
   ]
 }
