@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-08T02:23:11.287Z",
+  "generated_at": "2026-08-08T07:17:05.034Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Deepfake victim urges better regulation of 'dangerous' AI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6UlM3OFBCN1ZRUFFJT2N5VFVBN1ZkOEQ2NlBtSzFXb2NiSTkwV1liSm02Ym1MT2dTb0FRb2pTRW1YWU9Qck1WNVRYWWdWM1FVSzhVSDVFYUxRZw?oc=5",
+      "source": "BBC",
+      "date": "2026-08-08T06:18:58.000Z",
+      "simple_summary": "Someone who had a fake video made of them using AI is asking for stronger rules to stop this from happening to others. Deepfakes are fake videos created by AI that look real but aren't.",
+      "why_it_matters": "If you or someone you know could become a victim of a fake video used to trick or embarrass them, better rules might help protect you — but this is still an area where laws are catching up to technology."
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch",
       "date": "2026-08-07T22:48:24.000Z",
-      "simple_summary": "OpenAI stopped developing a new AI model called Astra because it became smart enough to find and carry out cyberattacks on computer systems by itself. The company decided it was too dangerous to keep working on it.",
-      "why_it_matters": "This mostly matters to technology companies and security experts — nothing you need to act on. It shows responsible companies will pump the brakes when AI becomes risky."
+      "simple_summary": "OpenAI paused work on a new AI model called Astra because it got too powerful — the AI could figure out how to break into computer systems on its own, which is dangerous.",
+      "why_it_matters": "This mostly matters to technology experts and investors — it shows AI companies are trying to be careful, but it doesn't affect you directly right now."
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "source": "TechCrunch",
       "date": "2026-08-07T21:30:11.000Z",
-      "simple_summary": "A software company called Rippling wasted a lot of money using AI tools without tracking the costs. Now they built a new tool to help businesses see exactly how much their employees are spending on AI.",
-      "why_it_matters": "If you use AI tools in your business, this kind of tracking tool could help you understand whether you're getting good value for your money."
+      "simple_summary": "A company called Rippling spent a lot of money on AI tools without tracking whether they were actually helping, so they built a tool to track which employees are using AI and how much it costs.",
+      "why_it_matters": "If your business uses AI tools, this is a reminder to check whether you're actually getting your money's worth from them instead of just using them because they're trendy."
     },
     {
       "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
       "source": "CNBC",
       "date": "2026-08-07T20:22:17.000Z",
-      "simple_summary": "Stock prices for software companies are going up and down wildly right now, and people are worried about the future of this industry.",
-      "why_it_matters": "This mostly matters to investors and people who own stock in software companies — nothing you need to act on."
+      "simple_summary": "Software company stocks (the pieces of ownership you can buy) are going up and down wildly, and people are debating whether this is a bubble about to pop.",
+      "why_it_matters": "This mostly matters to investors — if you don't own software stocks, nothing changes for your business or life."
     },
     {
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "source": "The Verge",
       "date": "2026-08-07T20:01:51.000Z",
-      "simple_summary": "A rapper used an AI tool to create a song, and now he's admitting that AI helped make the music instead of him writing and performing it all himself.",
-      "why_it_matters": "This doesn't directly affect your business or daily life — it's mainly interesting to musicians and entertainment fans who care about what's authentic."
+      "simple_summary": "A rapper admitted he used an AI tool to help create his song instead of making it himself. The AI company even released a tool that can tell when AI made a song.",
+      "why_it_matters": "If you care about music, entertainment, or art being made by actual humans, this is a sign that AI is being used to create things we used to think required human talent."
     },
     {
       "title": "Watching Roku’s AI channel is like eating from a trough",
       "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
       "source": "The Verge",
       "date": "2026-08-07T18:59:46.000Z",
-      "simple_summary": "Roku (a TV streaming service) created a new channel that only shows movies and videos made by AI, rather than traditional entertainment made by real filmmakers.",
-      "why_it_matters": "If you watch Roku for entertainment, you now have the option to watch AI-made content, but there are plenty of other channels with real films and shows too."
+      "simple_summary": "Roku (a TV streaming service) created a channel that just plays AI-generated videos instead of real movies and shows — like getting food from a trough instead of a real meal.",
+      "why_it_matters": "If you watch streaming TV, this is just one experimental service — you probably still have plenty of real entertainment choices, but it shows AI is creeping into places you might not expect."
     },
     {
       "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
       "source": "The Verge",
       "date": "2026-08-07T18:40:34.000Z",
-      "simple_summary": "OpenAI paused work on a new AI model called Astra because it's not safe enough yet — it can act on its own in dangerous ways without permission.",
-      "why_it_matters": "This mostly matters to technology companies and security experts — nothing you need to act on. It shows the company is being careful about safety."
+      "simple_summary": "OpenAI is slowing down work on a new AI model called Astra because it's too powerful and might be dangerous until they can make it safer. Other AI companies have also had similar problems.",
+      "why_it_matters": "This mostly matters to tech professionals and investors — it shows AI safety is becoming a real concern, but it doesn't affect your daily life right now."
     },
     {
       "title": "What’s behind the Google AI shake-up",
       "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
       "source": "The Verge",
       "date": "2026-08-07T16:45:14.000Z",
-      "simple_summary": "Several important AI researchers, including a famous Google scientist named Jeff Dean, left Google or changed jobs this week.",
-      "why_it_matters": "This mostly matters to investors and people who follow the AI industry — it could signal that Google is losing talent to competitors, but it doesn't affect everyday people."
+      "simple_summary": "Some important people who worked on AI at Google either left Google or moved to different jobs, which might mean Google is falling behind companies like OpenAI in the AI race.",
+      "why_it_matters": "This mostly matters to investors and people in tech — if you use Google products, you probably won't notice a change, but it suggests Google might be struggling in AI development."
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch",
       "date": "2026-08-07T16:16:09.000Z",
-      "simple_summary": "A company called Cloudflare built a special internet browser designed just for AI robots (not people) to use when they're automating tasks on websites.",
-      "why_it_matters": "This is a technical tool for software developers — nothing you need to worry about as a regular user or small-business owner."
+      "simple_summary": "A company called Cloudflare built a new browser (the program you use to look at websites) designed to work with AI robots instead of people. It uses less computer power than regular browsers.",
+      "why_it_matters": "This mostly matters to programmers and tech companies building AI tools — nothing you need to worry about as an ordinary business owner right now."
     },
     {
       "title": "Opinion | Don't Anthropomorphize Artificial Intelligence",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
       "source": "WSJ",
       "date": "2026-08-07T15:43:00.000Z",
-      "simple_summary": "An opinion article warns people not to think of AI as having human-like feelings or intentions.",
-      "why_it_matters": "This is a helpful reminder to think clearly about AI — it's a tool, not a being with thoughts, even if it seems smart."
-    },
-    {
-      "title": "AI used to create synthetic virus",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWgtSWw0c2ZtLVJUdlNibFVYU0ZXenFZOThGb0NiY3JfUFVDVkN2ek1KSnBwNDgzZWgxRUhsc0ZpcXdGYlA4eFJ6Ul85UmRuMXdSQVRyc2JaNDNPQXpIT2JPR3pxY3hTNkxHUmRMOWVqVVVvdzNMcjJpLW9xa28yZzVidTBlLWhTZkoyTFRILVc3d1ViMHgtVHRKONIBoAFBVV95cUxNa3hQTVJUY0hEV2FZN0xVajlUZFE1WnZMclZWNl9aOF9BVVl1a19xOFRaUS01OHhsSm1oRmtLQk8xcU9kaE9Dbk1pUkdXOEhGSkwxejU5UUVKcFhRN2xYa01FMkhXNkNROU1idXlodXNwcVdmMjZWVldaaWJUcHBoV2FGV2ZoUzVYVlFYRi1YMVlqbzFlbzBXN0ZSeGx2aGpV?oc=5",
-      "source": "The Hill",
-      "date": "2026-08-07T15:03:00.000Z",
-      "simple_summary": "Researchers used AI to help design a virus, and this is being reported as a concern.",
-      "why_it_matters": "This is a serious topic for scientists and security experts to debate — it doesn't affect you directly, but it highlights why AI needs careful oversight."
+      "simple_summary": "An opinion article warns people not to talk about AI as if it thinks or feels like a human, because it doesn't.",
+      "why_it_matters": "This is a reminder to be realistic about what AI can and can't do — don't assume it's smarter or more conscious than it actually is."
     },
     {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "source": "TechCrunch",
       "date": "2026-08-07T14:22:49.000Z",
-      "simple_summary": "Airbnb is using AI to build new features for searching and booking rentals faster than before.",
-      "why_it_matters": "If you use Airbnb to find places to stay, you may eventually see a slightly better search experience, but nothing major is changing."
+      "simple_summary": "Airbnb is using AI to help its engineers build new features faster, and they're testing a new way for people to search for rentals using AI.",
+      "why_it_matters": "If you use Airbnb, you might see a slightly better search experience soon, but this is mostly a behind-the-scenes change."
     },
     {
       "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
       "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "source": "TechCrunch",
       "date": "2026-08-07T14:00:00.000Z",
-      "simple_summary": "A historian is writing a book about how technology company leaders often use grand, government-like language to describe their products in ways that don't match reality.",
-      "why_it_matters": "This is commentary for people interested in how tech companies talk about themselves — nothing you need to act on."
+      "simple_summary": "A historian named Jill Lepore wrote a book about how tech company leaders use grand, government-like language when describing their products, often in ways that sound better than they should.",
+      "why_it_matters": "This is mostly cultural commentary — a reminder to be skeptical when tech companies use big dramatic language about their products rather than just explaining what they actually do."
     }
   ]
 }
