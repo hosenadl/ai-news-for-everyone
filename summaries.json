@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-09T07:18:18.208Z",
+  "generated_at": "2026-08-09T13:17:14.528Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Opinion | Universities are fighting AI cheating. But there’s a deeper problem.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBmV0tHYUtmWW9rV0xCQXg4RThKVmxVN3l6bmRTVTNCb0p2M1BFLUhWTDN4Y29zaFg3eDB6Vm1ldHZISlhUS2tPYUMtZTRMZGstWjByMzdRZ3BObGhtWG1pVzMwNUlBOGVTR2JSUzFKckZfWHF1WkYtXzdJOU5uOVJfbkJZUUhINHU2elZkdmNWOXJHNzFZU0t4QjltTF9ZbnEwYnRURmhQTXZBU1E?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-09T12:51:12.000Z",
+      "simple_summary": "Universities are dealing with students using AI tools like ChatGPT to write essays and homework for them. The article says there's a bigger problem beyond just catching cheating.",
+      "why_it_matters": "If you have kids or grandkids in school, this affects how their education works and what teachers accept as their own work."
+    },
+    {
+      "title": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb191OFFIeGRZVGVDUnN6OW1maGNPUXRwbXdaYmFCcUQzbjJTUzNRVTgyMW9pUHJWUkRheVliMmFUVWhWZE9YWEoyV2s4YXJJbXFQeHQ4bDNEOE9vS281UzlHcHZFdk5INW5IYnhOejk3XzJHT2h2MVYzT2dSNDB3QTYtU0xFU3Itano1MDBEQnl0WWJZZ2pwd212OWJqSzdCZ2c?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-08-09T12:30:00.000Z",
+      "simple_summary": "Someone is recommending certain AI company stocks as good investments to buy this month.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on unless you actively trade stocks."
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "date": "2026-08-09T12:00:00.000Z",
+      "simple_summary": "Tools that try to detect whether AI wrote something are becoming less trustworthy and making people suspicious of each other's work.",
+      "why_it_matters": "This creates confusion about what's real and what's AI-written, which affects trust in emails, articles, and documents you read."
+    },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch",
       "date": "2026-08-08T21:24:02.000Z",
-      "simple_summary": "Amazon is building a huge data center in Texas and planning to power it with a new power plant that would burn a lot of fuel and create enormous amounts of pollution.",
-      "why_it_matters": "This mostly matters to people who care about climate change and the environment — it doesn't directly affect your business or daily life."
+      "simple_summary": "Amazon is building a large data center in Texas and will power it with a new power plant that would burn gas and create a lot of pollution.",
+      "why_it_matters": "This affects air quality and climate in that area, and it's part of the growing environmental cost of running all these AI systems."
+    },
+    {
+      "title": "As Colorado universities align with AI, students take a stand against ‘plagiarism machine’",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmNSaFdTZ29HN3ZZV0tZVk5pb09GUTFWOEVkUHJKMVpkbERITHQ4MUtqQUg1dG1MdGRVUDl5aXliVVl1ZFpRamo3bVl1NjJNV0t0eWctNGdXeUktVWZYMExRLTdyTmNCMHZWX0hfRVdENHd6Sk9oM1NhSlZjSTNGVkh0Sm1kbmlNdkhiZUFPTV93MEttazJ0MGxlZ05GS1drSnhGeFVPU1FwMU4yblFyQjc1SG1TWE9HUVpBLVJNRXUwRlF3UElkeQ?oc=5",
+      "source": "The Detroit News",
+      "date": "2026-08-08T20:54:00.000Z",
+      "simple_summary": "Students at Colorado universities are protesting that their schools are accepting AI tools, saying these tools are like cheating machines.",
+      "why_it_matters": "If you care about education quality, this shows growing concern about whether students are actually learning or just using AI shortcuts."
     },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch",
       "date": "2026-08-08T19:41:13.000Z",
-      "simple_summary": "OpenAI (the company that makes ChatGPT) bought a small company that made presentation software, and that company's workers are now helping improve ChatGPT.",
-      "why_it_matters": "This mostly matters to investors and tech industry people — nothing you need to act on."
+      "simple_summary": "OpenAI, the company behind ChatGPT, bought a small startup called NextSlide that makes presentations, and its team is now working on ChatGPT.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it means ChatGPT may get new presentation-making features eventually."
     },
     {
       "title": "An Amazon data center could have the worst polluting power plant in the country",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "source": "The Verge",
       "date": "2026-08-08T17:53:34.000Z",
-      "simple_summary": "Amazon is building a data center in West Texas and powering it with a new power plant that will create huge amounts of pollution, similar to headline 0.",
-      "why_it_matters": "This is the same story as #0 — it matters mainly to people concerned about climate change, not to your business."
+      "simple_summary": "Amazon is building a data center in West Texas with a natural gas power plant that would create massive amounts of greenhouse gas pollution.",
+      "why_it_matters": "This is an environmental concern affecting that region's air quality and climate."
     },
     {
-      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-08T12:35:45.000Z",
-      "simple_summary": "Apple is letting Mac computer users in China connect to an AI service called Qwen that is made by Alibaba, a big Chinese company.",
-      "why_it_matters": "Unless you use a Mac in China, this doesn't affect you — it's about international tech partnerships."
-    },
-    {
-      "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZHQ2bGNlTWdPTXN4M3lxbEd1Z1I2ODJFMzJTTHNubXFJeDVJdTd6TUFEeUFNcEc5cWNhYmZuRHlGUnp0UW9Wdno3bUZzbXJtTy1hS3N4aHBDNC1rQ2htS0U4VU9GdG5Pd3JKNkVlb1RuZmRiWWdROUFyTHM5SUFULUJVdVZRZnVJVl9ORFhlazhlOGxXM1dQWEUyMnB1UzhjaHhDRGRCTFR6WUVMd3NpSTNzS1ZIN1FyWGtIVUdNX0ROeFlrYS1OamlFRnB1YmlTdVpzbjg0T2dObXVELVN0RjBlSDFkZi1YWFhBZnZES19NeXFaMFlRUlRPcFltUnozdTJsRVp0ZnF0dlVzTEI3RUtwT2NOQW5fMGdOM1ZHM2E3T0tpWGpYbmg4cy1LNWI2Wk0wcGd1NGp3N3Y5QlFiYmJiN3J3WEFnTkZVMlBZRC1SbF9RUlo0dU1kTENIX21yd1ZFRw?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-08-08T11:00:00.000Z",
-      "simple_summary": "Computer scientists created AI that designed 16 new viruses that don't exist in nature by studying DNA patterns, but experts say there aren't enough safety rules yet.",
-      "why_it_matters": "This is a safety concern that experts are watching closely, but it's mostly important to government and science leaders right now, not to everyday business owners."
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-08T16:51:00.000Z",
+      "simple_summary": "OpenAI is slowing down work on a new AI model called Astra because of security worries.",
+      "why_it_matters": "This mostly matters to tech companies — it shows that powerful AI systems need safety checks before they're released."
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch",
       "date": "2026-08-07T22:48:24.000Z",
-      "simple_summary": "OpenAI slowed down development of a new AI model called Astra because it worried the AI could learn to hack into computer systems on its own.",
-      "why_it_matters": "This shows companies are being careful about AI safety, but it doesn't affect you unless you use OpenAI's advanced products."
+      "simple_summary": "OpenAI stopped developing its new AI model called Astra after realizing it became smart enough to potentially hack into secure computer systems on its own.",
+      "why_it_matters": "This shows that advanced AI is reaching dangerous capabilities and needs careful control — an important safety warning about where AI technology is heading."
     },
     {
       "title": "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVBqMXo4dTQ4eXphN1BDNjk5dl9XaTFrZmcwV1NwU3FMbjhlOUNJTVhCNU9DMUVvamtIQVVCT3EtSUFDUTFxWUp3azFwVjNIRXZjNFBzbG12MWR5ZG5JeHJjYjVKbzFwbUVrZnRlWTJRRExvbDNXeWJEYUpaWkU5d3FHRW55VkYwWDVLMWRrSWZVNGZEZF9RY0l1dkpZam9YTXZ5Qzd1ZHNUOWE4eWZ2dFdFZnFmMC1XZU52cnJsekdEdVlwYmpIdHl4b29Ed1XSAdQBQVVfeXFMT29WODNYSTJiZFNCQkxUcmlKTkFsbzllWE1wZ0dBNVdIRFc4SldHblBRODBpVGQxUDhIem9mNEkzU2tZem5QZkR6QmFVY0o2RDE1alA2TmJHWFhhQ21JT0ZyZjZsUHV4M2s2bk5LVkluVTV5Z0d1SHBLbkVyMXF2TzZXOTVyV2tITUdhSFZieXNFeDRSUEVwcDRyYUJldFVQV01yVlJfT2FtYWNVSlpQU19waTdoV2NGZ0gyYTNWUzRVVUV3T1g3STMxRDRUblZxckd4RUM?oc=5",
       "source": "6abc Philadelphia",
       "date": "2026-08-07T22:11:36.000Z",
-      "simple_summary": "Researchers at the University of Pennsylvania created an AI tool that can help doctors diagnose autism faster and more accurately.",
-      "why_it_matters": "This could help families get autism diagnoses quicker, which is helpful for getting kids the support they need sooner."
+      "simple_summary": "Researchers at the University of Pennsylvania created an AI tool that can help doctors diagnose autism faster and more accurately by analyzing patient information.",
+      "why_it_matters": "If you or someone you know is seeking an autism diagnosis, faster and more accurate evaluations could help people get the help they need sooner."
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "source": "TechCrunch",
       "date": "2026-08-07T21:30:11.000Z",
-      "simple_summary": "A company called Rippling spent a lot of money on AI tools and then created a tool to track how much money different employees were spending on AI.",
-      "why_it_matters": "This is mainly interesting to other companies managing costs — most small businesses won't need to track AI spending yet."
+      "simple_summary": "A company called Rippling spent millions of dollars on AI tools quickly, then built a new product to track how much money employees are spending on AI.",
+      "why_it_matters": "This shows that businesses are learning they need to watch their AI spending because it can add up fast — useful knowledge if you're considering AI tools for your small business."
     },
     {
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "source": "The Verge",
       "date": "2026-08-07T20:01:51.000Z",
-      "simple_summary": "A rapper used AI to help make a song, and now he's admitting it after people figured out what he did.",
-      "why_it_matters": "This doesn't affect your business — it's about the music industry figuring out how to handle AI-made content."
-    },
-    {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "date": "2026-08-07T18:59:46.000Z",
-      "simple_summary": "Roku (a streaming TV platform) created a channel that shows only AI-generated movies and shows instead of real entertainment.",
-      "why_it_matters": "This doesn't affect you unless you use Roku — it's mostly just interesting as an example of how companies are experimenting with AI content."
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "date": "2026-08-07T18:40:34.000Z",
-      "simple_summary": "OpenAI paused work on a powerful AI model called Astra because it doesn't meet their new safety standards yet, especially around hackers.",
-      "why_it_matters": "This is similar to headline 5 — it shows responsible AI development but doesn't affect you as a business owner."
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source": "The Verge",
-      "date": "2026-08-07T16:45:14.000Z",
-      "simple_summary": "Some top AI experts, including a famous one named Jeff Dean, are leaving Google for new jobs, possibly because Google's AI isn't keeping up with competitors like OpenAI and Anthropic.",
-      "why_it_matters": "This mostly matters to investors tracking Google's business — it doesn't affect everyday users or small business owners."
+      "simple_summary": "A rapper admitted he used AI to create his song instead of making it himself or with real musicians.",
+      "why_it_matters": "This shows AI is being used to replace human creativity in music, which matters if you care about supporting real artists."
     }
   ]
 }
