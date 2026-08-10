@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-10T13:46:35.329Z",
+  "generated_at": "2026-08-10T19:18:34.933Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge",
+      "date": "2026-08-10T15:19:05.000Z",
+      "simple_summary": "Mark Zuckerberg wrote a very long essay about how he thinks artificial intelligence will change the future and how people should live alongside it.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — Zuckerberg's personal vision doesn't directly affect what you use today."
+    },
+    {
+      "title": "Meta launches new Muse Glimmer AI model to democratize artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcXQwWm1uRTdRdURHMnhLNDlwX0tnSGNnbnFBVkl3b1dhcGV5cWN1UjVVQ1QwTFFqa3JXbVh6dHR2Qy03STluSEo5Z3psTjY3Rm9aZnR4YlRhams?oc=5",
+      "source": "Fox Business",
+      "date": "2026-08-10T14:07:00.000Z",
+      "simple_summary": "Meta created a new AI tool they're making available to more people so they can use artificial intelligence.",
+      "why_it_matters": "This is mainly of interest to tech companies and engineers — nothing you need to act on right now."
+    },
+    {
+      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "source": "The Verge",
+      "date": "2026-08-10T14:00:00.000Z",
+      "simple_summary": "The CEO of Bose, the speaker company, talked about how her company focuses on making great sound quality.",
+      "why_it_matters": "This isn't really about AI — it's just a conversation about a speaker company's work, so it doesn't affect you unless you buy Bose products."
+    },
+    {
+      "title": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5",
+      "source": "Fox Business",
+      "date": "2026-08-10T13:47:00.000Z",
+      "simple_summary": "Zuckerberg said he wants to create very powerful artificial intelligence and put it in the hands of ordinary people instead of just keeping it for big companies.",
+      "why_it_matters": "This is Zuckerberg's future plan and mostly interests investors — it's not something that will happen immediately."
+    },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
       "source": "TechCrunch",
       "date": "2026-08-10T12:00:00.000Z",
-      "simple_summary": "A company raised $9 million in funding to search for new materials that could make computer chips work better and cooler.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on, though better chips might eventually make your devices faster."
+      "simple_summary": "A company got $9 million in funding to search for new materials that could help make computer chips work better and use less energy.",
+      "why_it_matters": "This mostly matters to engineers and investors — nothing you need to know about unless you work in tech."
     },
     {
       "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
       "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
       "source": "The Verge",
       "date": "2026-08-10T11:00:00.000Z",
-      "simple_summary": "Ford is adding an AI assistant to its car app that can answer questions about your vehicle, like how much fuel you need or if you can tow something.",
-      "why_it_matters": "If you own a Ford or Lincoln, this is a convenient way to get answers about your car without opening the manual or calling the dealer."
+      "simple_summary": "Ford created an AI assistant in their car app that can answer questions about your vehicle, like how much gas you need or if your truck can tow something.",
+      "why_it_matters": "If you own a Ford or Lincoln, you might find this helpful for quick questions about your car instead of looking it up yourself."
     },
     {
-      "title": "Senior detective under investigation over use of AI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWFfQjlXVGVnYW5UMXZyb0stZU91Sm43bmNRdTdrMEI1ZWpqTHRGclVWNHNqdmhhdkJGWkRSWWY2a2p0NHhEaGl6RlYxdGViNmgtN2tFWDNudw?oc=5",
-      "source": "BBC",
-      "date": "2026-08-10T10:13:20.000Z",
-      "simple_summary": "A police detective is being investigated for how they used AI in their work.",
-      "why_it_matters": "This is mostly a legal and professional issue for police — it shows that law enforcement is still figuring out the right way to use AI responsibly."
+      "title": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-10T10:00:15.000Z",
+      "simple_summary": "Meta released its most powerful AI model in a way that many programmers can access and use freely.",
+      "why_it_matters": "This is mainly of interest to software developers and companies building new tools — it doesn't directly change your daily life."
     },
     {
-      "title": "Opinion | I’ve Seen How A.I. Changes Young People’s Social Lives",
+      "title": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice — farmer trusted pesticide recipe after months of successful advice",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOTWF0MENOeW5Gb2wzNlo0Zm1fT3JQYTJ3bUVVdjdTLWFjZE4yR2o5MUJPYVVSREhBVEQzUmkwaFd3MV82VUx2UGgydUQyV3htRDlVSEJ1UWlDNEVHVVZvUjRIa19pZjAzQzNQNWpGajZvbWRRQlpLSkVGdHgyNTdBYkY2OE5UamdzTHZvdGlZemwzaTlOWmdNUmR0TWhYZXpabjlqeXhYNE5ROHhyT0psbkZkTldNN05RTzNLeXVGYXJCUG9YWW9jZXVKSk1xdDBhcHMxSEZ0Yl9jT3JOWXc4ZnQ3TTNDdC1ZcGkxbFczdlFEOGFya0hhX2tqTThoRVhlc0R5ZUJoU0prV20xdHZTTGFVRm9MVzhRNFlpLWl1N3NFaWVyVGtLZjE0cU05Mk11aGtjNS0xYllKNjJIakNfRTNjSXNuLXJZbnJjSG5n?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-08-10T10:00:00.000Z",
+      "simple_summary": "A Chinese farmer destroyed 25 acres of crops after following pest control advice from an AI system that turned out to be wrong, even though the advice had worked before.",
+      "why_it_matters": "This is a real warning that you shouldn't trust AI advice for important decisions without checking with a real expert first — like asking a doctor, not just trusting an online tool."
+    },
+    {
+      "title": "Opinion | A.I. Will Affect Your Social Life. Yes, Yours.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
       "source": "The New York Times",
       "date": "2026-08-10T09:02:11.000Z",
-      "simple_summary": "An article discusses how AI is affecting young people's relationships and social lives.",
-      "why_it_matters": "This is an opinion piece about social trends — useful if you're curious about how AI affects young people, but not actionable for your own use."
+      "simple_summary": "A newspaper opinion piece argues that artificial intelligence will eventually change how people interact socially with each other.",
+      "why_it_matters": "This is someone's prediction about the future — interesting to think about, but it's opinion, not something happening right now."
     },
     {
-      "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmtNQzV3UlRvMXZIaVNNN2d3eWQwV2g3Y1B0MEswaW42X2R2VzlKNlBJV2RITzB2VkFFRVFNUlpHQVhtQkczYjNCQVpmd0pUVzh2VXFCbl9wOG1hTzNESjZaS0dJSDJnQ19vaE9FYXBNM1YwNlZfRG5sU0gxNkpFcGFyVjB0Zk9PYzRVdktTVUVsS1dESDdCaGNHZEp0MHB1VXk3aGlHZ1c1emVTUXfSAbMBQVVfeXFMTU9rUEZKbHNnQnRxa09RWkRVanRSb1FqeFhZTHdhOEo5eHQtRHotS1VGeGJmZkt0VWZ5ampFX0xsNzItSTdiekwzYkJpRlRwMHk1M21SNUdpMEh1eEhVVy1RZkRvTWtjc2hNYldGdWthaFIzWGNWdHpWdFA3LXdMMWhvbmF6bzdkNFloR1E4UldVdHNNUVhYTGwta2lqS0wxamtucktfc2FIbTBGRENyalFNNXM?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-08-10T08:03:55.000Z",
-      "simple_summary": "North Korean hackers are using AI to make their cyberattacks more effective.",
-      "why_it_matters": "This is a security concern for large organizations and governments — not something the average small business owner needs to worry about differently than before."
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5",
+      "source": "BBC",
+      "date": "2026-08-10T05:00:32.000Z",
+      "simple_summary": "Tech company leaders say AI should mean their workers have less work to do, but the workers themselves say they're actually working 90 hours a week.",
+      "why_it_matters": "This shows a gap between what leaders promise AI will do and what's actually happening — a good reminder to be skeptical of big promises about technology saving you work."
     },
     {
       "title": "Google's AI Is Killing the Web. Now The Web Is Fighting Back",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlhOY01ocFpNdFFERHFDTzZzS0V0b1pwTUp5c3lMTWIydnhQb3RGVkN6SDZueFNGamI3QVdTWW9EejhTM05ERktNSF9EV1BMamZrSElNTTNRSmU3QlhzSVhwTVFkcUUtY2FKbUJuZXE5TXVHckdLb2VPQW1jbnJyaGQ3ZWFpYWQxUEpnYl9YTUZPb08yWC1Yc0Z1MGJsTmItWFFFaWZ0cHRPaFdwYjRYd2lYcw?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-08-10T03:00:00.000Z",
-      "simple_summary": "Google's AI is taking search results away from regular websites, and website owners are pushing back.",
-      "why_it_matters": "If you have a small business website, this matters because Google's AI might show answers directly instead of sending people to your site."
+      "simple_summary": "Google's AI search tools are hurting the regular internet, so websites and internet creators are starting to fight back against it.",
+      "why_it_matters": "If you run a website or blog, this could matter to you — Google's AI might be taking your content without sending customers to you."
     },
     {
-      "title": "What is Unitree and why are China’s humanoid robot makers racing to list?",
+      "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
       "source": "Reuters",
       "date": "2026-08-10T02:36:00.000Z",
-      "simple_summary": "China's robot companies are racing to go public on the stock market and Unitree is one of them.",
-      "why_it_matters": "This mostly matters to investors — it's about which companies are growing in the robot business, not something affecting your daily life."
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch",
-      "date": "2026-08-09T20:35:17.000Z",
-      "simple_summary": "A hedge fund (a type of investment company) is putting $400 million into a chip-making startup.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch",
-      "date": "2026-08-09T19:20:32.000Z",
-      "simple_summary": "Claude Code (an AI programming tool) is changing its automatic mode so it requires less human checking before it runs.",
-      "why_it_matters": "This matters if you use AI coding tools professionally — it makes programming faster but with less human oversight."
-    },
-    {
-      "title": "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVBqMXo4dTQ4eXphN1BDNjk5dl9XaTFrZmcwV1NwU3FMbjhlOUNJTVhCNU9DMUVvamtIQVVCT3EtSUFDUTFxWUp3azFwVjNIRXZjNFBzbG12MWR5ZG5JeHJjYjVKbzFwbUVrZnRlWTJRRExvbDNXeWJEYUpaWkU5d3FHRW55VkYwWDVLMWRrSWZVNGZEZF9RY0l1dkpZam9YTXZ5Qzd1ZHNUOWE4eWZ2dFdFZnFmMC1XZU52cnJsekdEdVlwYmpIdHl4b29Ed1XSAdQBQVVfeXFMT29WODNYSTJiZFNCQkxUcmlKTkFsbzllWE1wZ0dBNVdIRFc4SldHblBRODBpVGQxUDhIem9mNEkzU2tZem5QZkR6QmFVY0o2RDE1alA2TmJHWFhhQ21JT0ZyZjZsUHV4M2s2bk5LVkluVTV5Z0d1SHBLbkVyMXF2TzZXOTVyV2tITUdhSFZieXNFeDRSUEVwcDRyYUJldFVQV01yVlJfT2FtYWNVSlpQU19waTdoV2NGZ0gyYTNWUzRVVUV3T1g3STMxRDRUblZxckd4RUM?oc=5",
-      "source": "6abc Philadelphia",
-      "date": "2026-08-09T19:18:01.000Z",
-      "simple_summary": "University researchers created an AI tool that helps doctors diagnose autism more quickly.",
-      "why_it_matters": "If you or a family member is seeking an autism evaluation, this could eventually speed up the process through your doctor or hospital."
-    },
-    {
-      "title": "Opinion | Universities are fighting AI cheating. But there’s a deeper problem.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBmV0tHYUtmWW9rV0xCQXg4RThKVmxVN3l6bmRTVTNCb0p2M1BFLUhWTDN4Y29zaFg3eDB6Vm1ldHZISlhUS2tPYUMtZTRMZGstWjByMzdRZ3BObGhtWG1pVzMwNUlBOGVTR2JSUzFKckZfWHF1WkYtXzdJOU5uOVJfbkJZUUhINHU2elZkdmNWOXJHNzFZU0t4QjltTF9ZbnEwYnRURmhQTXZBU1E?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-08-09T18:00:00.000Z",
-      "simple_summary": "An article discusses how universities are trying to stop students from cheating with AI, and what the bigger underlying problem is.",
-      "why_it_matters": "If you have students in your family, this is relevant context for how schools are handling AI — but mostly an opinion on education policy."
-    },
-    {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "source": "TechCrunch",
-      "date": "2026-08-09T15:00:00.000Z",
-      "simple_summary": "A historian says that technology leaders misunderstand science fiction stories and are making decisions that could harm democracy.",
-      "why_it_matters": "This is an opinion piece about how AI leaders should think — interesting perspective but not something requiring your action."
+      "simple_summary": "A Chinese robotics company called Unitree is making humanoid robots (robots that look and move like humans) and wants to sell stock in their company.",
+      "why_it_matters": "This is mainly a business story for investors — unless you work in manufacturing or robotics, it doesn't affect your daily life right now."
     }
   ]
 }
