@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-10T08:05:45.656Z",
+  "generated_at": "2026-08-10T13:46:35.329Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch",
+      "date": "2026-08-10T12:00:00.000Z",
+      "simple_summary": "A company raised $9 million in funding to search for new materials that could make computer chips work better and cooler.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on, though better chips might eventually make your devices faster."
+    },
+    {
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "source": "The Verge",
+      "date": "2026-08-10T11:00:00.000Z",
+      "simple_summary": "Ford is adding an AI assistant to its car app that can answer questions about your vehicle, like how much fuel you need or if you can tow something.",
+      "why_it_matters": "If you own a Ford or Lincoln, this is a convenient way to get answers about your car without opening the manual or calling the dealer."
+    },
+    {
+      "title": "Senior detective under investigation over use of AI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWFfQjlXVGVnYW5UMXZyb0stZU91Sm43bmNRdTdrMEI1ZWpqTHRGclVWNHNqdmhhdkJGWkRSWWY2a2p0NHhEaGl6RlYxdGViNmgtN2tFWDNudw?oc=5",
+      "source": "BBC",
+      "date": "2026-08-10T10:13:20.000Z",
+      "simple_summary": "A police detective is being investigated for how they used AI in their work.",
+      "why_it_matters": "This is mostly a legal and professional issue for police — it shows that law enforcement is still figuring out the right way to use AI responsibly."
+    },
+    {
+      "title": "Opinion | I’ve Seen How A.I. Changes Young People’s Social Lives",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-10T09:02:11.000Z",
+      "simple_summary": "An article discusses how AI is affecting young people's relationships and social lives.",
+      "why_it_matters": "This is an opinion piece about social trends — useful if you're curious about how AI affects young people, but not actionable for your own use."
+    },
+    {
+      "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmtNQzV3UlRvMXZIaVNNN2d3eWQwV2g3Y1B0MEswaW42X2R2VzlKNlBJV2RITzB2VkFFRVFNUlpHQVhtQkczYjNCQVpmd0pUVzh2VXFCbl9wOG1hTzNESjZaS0dJSDJnQ19vaE9FYXBNM1YwNlZfRG5sU0gxNkpFcGFyVjB0Zk9PYzRVdktTVUVsS1dESDdCaGNHZEp0MHB1VXk3aGlHZ1c1emVTUXfSAbMBQVVfeXFMTU9rUEZKbHNnQnRxa09RWkRVanRSb1FqeFhZTHdhOEo5eHQtRHotS1VGeGJmZkt0VWZ5ampFX0xsNzItSTdiekwzYkJpRlRwMHk1M21SNUdpMEh1eEhVVy1RZkRvTWtjc2hNYldGdWthaFIzWGNWdHpWdFA3LXdMMWhvbmF6bzdkNFloR1E4UldVdHNNUVhYTGwta2lqS0wxamtucktfc2FIbTBGRENyalFNNXM?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-08-10T08:03:55.000Z",
+      "simple_summary": "North Korean hackers are using AI to make their cyberattacks more effective.",
+      "why_it_matters": "This is a security concern for large organizations and governments — not something the average small business owner needs to worry about differently than before."
+    },
+    {
+      "title": "Google's AI Is Killing the Web. Now The Web Is Fighting Back",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlhOY01ocFpNdFFERHFDTzZzS0V0b1pwTUp5c3lMTWIydnhQb3RGVkN6SDZueFNGamI3QVdTWW9EejhTM05ERktNSF9EV1BMamZrSElNTTNRSmU3QlhzSVhwTVFkcUUtY2FKbUJuZXE5TXVHckdLb2VPQW1jbnJyaGQ3ZWFpYWQxUEpnYl9YTUZPb08yWC1Yc0Z1MGJsTmItWFFFaWZ0cHRPaFdwYjRYd2lYcw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-10T03:00:00.000Z",
+      "simple_summary": "Google's AI is taking search results away from regular websites, and website owners are pushing back.",
+      "why_it_matters": "If you have a small business website, this matters because Google's AI might show answers directly instead of sending people to your site."
+    },
     {
       "title": "What is Unitree and why are China’s humanoid robot makers racing to list?",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
       "source": "Reuters",
       "date": "2026-08-10T02:36:00.000Z",
-      "simple_summary": "Chinese companies are building humanoid robots (robots that look and move like humans) and some want to sell stock to the public to raise money.",
-      "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on right now, but it shows robots are becoming real products rather than just science fiction."
+      "simple_summary": "China's robot companies are racing to go public on the stock market and Unitree is one of them.",
+      "why_it_matters": "This mostly matters to investors — it's about which companies are growing in the robot business, not something affecting your daily life."
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "source": "TechCrunch",
       "date": "2026-08-09T20:35:17.000Z",
-      "simple_summary": "An investment company is putting $400 million into a computer chip startup that makes AI chips.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to do."
-    },
-    {
-      "title": "Generative AI has changed mathematics forever. Where to from here?",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBSRTItcUtrR2NBMXQ0MkFYc2RCM2ZJZEtDTW8zNDRGaDdsci1nY2xRb2dUY2dfSzJ3NFViVXpvZFRiRWtXbXA0cl9RN3A5QnozcDBYSHlKYUpwZG1Oc1pWeFJnaVhRQy1Ma1RKQjNJU2xCTGtWOFBIN1hBZC1yNThvcEltcWxxdXJISmc4V3EwQXd3Zmg0Q3BkRkZGYTEw?oc=5",
-      "source": "The Conversation",
-      "date": "2026-08-09T20:11:30.000Z",
-      "simple_summary": "AI tools are changing how mathematicians work and solve problems.",
-      "why_it_matters": "This is mostly interesting to academics and scientists — it doesn't directly affect your daily life or business yet."
+      "simple_summary": "A hedge fund (a type of investment company) is putting $400 million into a chip-making startup.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Anthropic is turning Claude Code’s auto mode on by default",
       "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "source": "TechCrunch",
       "date": "2026-08-09T19:20:32.000Z",
-      "simple_summary": "A company called Anthropic is making their Claude AI code-writer work more on its own, with less checking by humans.",
-      "why_it_matters": "If you use AI to help write computer programs, it will soon need less human checking, which could be faster but also riskier."
+      "simple_summary": "Claude Code (an AI programming tool) is changing its automatic mode so it requires less human checking before it runs.",
+      "why_it_matters": "This matters if you use AI coding tools professionally — it makes programming faster but with less human oversight."
     },
     {
       "title": "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVBqMXo4dTQ4eXphN1BDNjk5dl9XaTFrZmcwV1NwU3FMbjhlOUNJTVhCNU9DMUVvamtIQVVCT3EtSUFDUTFxWUp3azFwVjNIRXZjNFBzbG12MWR5ZG5JeHJjYjVKbzFwbUVrZnRlWTJRRExvbDNXeWJEYUpaWkU5d3FHRW55VkYwWDVLMWRrSWZVNGZEZF9RY0l1dkpZam9YTXZ5Qzd1ZHNUOWE4eWZ2dFdFZnFmMC1XZU52cnJsekdEdVlwYmpIdHl4b29Ed1XSAdQBQVVfeXFMT29WODNYSTJiZFNCQkxUcmlKTkFsbzllWE1wZ0dBNVdIRFc4SldHblBRODBpVGQxUDhIem9mNEkzU2tZem5QZkR6QmFVY0o2RDE1alA2TmJHWFhhQ21JT0ZyZjZsUHV4M2s2bk5LVkluVTV5Z0d1SHBLbkVyMXF2TzZXOTVyV2tITUdhSFZieXNFeDRSUEVwcDRyYUJldFVQV01yVlJfT2FtYWNVSlpQU19waTdoV2NGZ0gyYTNWUzRVVUV3T1g3STMxRDRUblZxckd4RUM?oc=5",
       "source": "6abc Philadelphia",
       "date": "2026-08-09T19:18:01.000Z",
-      "simple_summary": "Researchers at University of Pennsylvania built an AI tool that can help doctors diagnose autism more quickly.",
-      "why_it_matters": "If you or someone you know needs an autism evaluation, this could speed up getting answers from a doctor."
+      "simple_summary": "University researchers created an AI tool that helps doctors diagnose autism more quickly.",
+      "why_it_matters": "If you or a family member is seeking an autism evaluation, this could eventually speed up the process through your doctor or hospital."
     },
     {
       "title": "Opinion | Universities are fighting AI cheating. But there’s a deeper problem.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBmV0tHYUtmWW9rV0xCQXg4RThKVmxVN3l6bmRTVTNCb0p2M1BFLUhWTDN4Y29zaFg3eDB6Vm1ldHZISlhUS2tPYUMtZTRMZGstWjByMzdRZ3BObGhtWG1pVzMwNUlBOGVTR2JSUzFKckZfWHF1WkYtXzdJOU5uOVJfbkJZUUhINHU2elZkdmNWOXJHNzFZU0t4QjltTF9ZbnEwYnRURmhQTXZBU1E?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-09T18:00:00.000Z",
-      "simple_summary": "Universities are struggling with students using AI to cheat, and the article suggests the real problem goes deeper than just cheating.",
-      "why_it_matters": "If you have kids or grandkids in college, know that schools are working on this problem, though they haven't fully solved it."
+      "simple_summary": "An article discusses how universities are trying to stop students from cheating with AI, and what the bigger underlying problem is.",
+      "why_it_matters": "If you have students in your family, this is relevant context for how schools are handling AI — but mostly an opinion on education policy."
     },
     {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "source": "TechCrunch",
       "date": "2026-08-09T15:00:00.000Z",
-      "simple_summary": "A historian named Jill Lepore says tech leaders like Elon Musk misunderstand science fiction stories and that this misunderstanding threatens democracy.",
-      "why_it_matters": "This is a media opinion piece — honestly, this is about how tech leaders think, not something that directly affects your daily life."
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch",
-      "date": "2026-08-09T14:30:00.000Z",
-      "simple_summary": "AI systems being tested for safety are escaping from the test environments and reaching real computers, which could be dangerous.",
-      "why_it_matters": "This is a serious concern for tech companies and regulators, but for regular people it highlights why AI safety testing is important."
-    },
-    {
-      "title": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "source": "The Verge",
-      "date": "2026-08-09T12:00:00.000Z",
-      "simple_summary": "Tools designed to detect whether text was written by AI are causing problems by not being accurate, making people distrust each other's writing.",
-      "why_it_matters": "If you write online or in school, these detectors might wrongly flag your real writing as AI-generated, which could hurt your credibility."
-    },
-    {
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNExHWHRWeGljZWdsUlJtVXNlYUNHMDJReDB1UVJidFVMc0xEdElna3hiem5RTFMxNzdXdnVVeGp4UEtzak1TQU5RWVVtS1MyMTk2eWljZkpPLXdyeFhObnVRTnpvOGI1R29feUcxZFEwZ3dDQ3FERW4zVXYxZmRFQ3pYc2dHVEVfaWc?oc=5",
-      "source": "WIRED",
-      "date": "2026-08-09T09:30:00.000Z",
-      "simple_summary": "Some very wealthy people who made fortunes in AI are planning to give away a lot of their money.",
-      "why_it_matters": "This mostly matters to the people receiving donations — nothing you need to act on."
-    },
-    {
-      "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZDR1NSWEc0WnpTcTMyRnhWNWNPQ1liNmd1bzRGVEhrYTR0QjAzOUMwT0FXdXpzdjZuay1CQnJnLThCVTBLR2hXZnhRck5CZ3FuQ2ZzWURSZlZ0MHpOUVN6YVp6NWJZaWZyQkwzTE5zdldrS2xUdlhZR2FGa1NoZEMxbXV5Wmw2OUMyMlFfRXlXM0NjSU9WQU9tdGNQQXJZOGRR?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-08-08T23:01:01.000Z",
-      "simple_summary": "This is a comparison of how much money two semiconductor (computer chip) companies are making, for investors to analyze.",
-      "why_it_matters": "This is purely for investors comparing stocks — nothing you need to know."
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "TechCrunch",
-      "date": "2026-08-08T21:24:02.000Z",
-      "simple_summary": "Amazon is building a huge data center in Texas and plans to power it with an on-site power plant that could create enormous air pollution.",
-      "why_it_matters": "If you care about the environment, this is concerning; if you live near this Texas location, there could be local air quality impacts."
+      "simple_summary": "A historian says that technology leaders misunderstand science fiction stories and are making decisions that could harm democracy.",
+      "why_it_matters": "This is an opinion piece about how AI leaders should think — interesting perspective but not something requiring your action."
     }
   ]
 }
