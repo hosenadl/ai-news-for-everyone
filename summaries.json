@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-11T02:29:22.111Z",
+  "generated_at": "2026-08-11T07:39:12.286Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Utah teachers embrace artificial intelligence as new classroom rules take effect",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmdlLWhCMnItX0xoODVNc0lidVBOQ2FoS1drX1U5VjBocmRUSWFpWUNKYnFBWXNLSU9VSFJIRFJOUTBaRlZ0OUctQWlPNWZhNGxzcEFOZEQ2U3BTbjdCMEctT1FsOWVMbVpXYXY5NzBQS01Ub2VUaU9ibjlmbHozOGJmNVlFbFZpekpIcG82YXV6czlJbW9KWGtiWFZLX2xubkllaXBBM3lSNmRWTjVwTGgyUVhUSm5o?oc=5",
+      "source": "KSL.com",
+      "date": "2026-08-11T03:53:55.000Z",
+      "simple_summary": "Teachers in Utah are now allowed to use AI tools in their classrooms following new official rules. Schools are figuring out how to let teachers use this technology while keeping learning safe.",
+      "why_it_matters": "If you have school-age kids or grandkids, their teachers might start using AI to help grade papers or create lesson plans — this could change how they learn."
+    },
+    {
+      "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFh3ZUFwdFIxQVNrc3M5RzBZcUxuUE8wM0g1T3hUdklWeThMZmgtZVdWdlNSRGp5SkxvUEVreHRSbmZCcXV1ajN0dTV6cm1oWmhFV29DMkZ3RHI4a3BFWUFKeVE5Vkw2YV9JVnl2NHRvdEZBc01QdV8yRVpYeFdQcGdGazRVaFhMeC1MN0NoZ3cwRUVlY0tjV1psd1ZTYnktcDlCTVpiMDVha2EwMHZubFhpYw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-11T00:37:00.000Z",
+      "simple_summary": "Nvidia, a company that makes computer chips for AI, is getting $500 billion from investors to buy equipment and build factories.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on personally."
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T00:03:18.000Z",
+      "simple_summary": "OpenAI completed a financial deal where employees sold some of their company shares for $7 billion.",
+      "why_it_matters": "This mostly matters to investors and OpenAI employees — nothing you need to act on personally."
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "date": "2026-08-10T23:56:15.000Z",
+      "simple_summary": "OpenAI created a new AI tool designed specifically to defend computers and networks against hackers who use AI as weapons.",
+      "why_it_matters": "This matters if you run a business or have sensitive computer systems — AI hacking is becoming more common, and new defenses are being built."
+    },
+    {
+      "title": "Newsom to California agencies: Better prepare for artificial intelligence attacks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0tLTmt1M1NpWWpqeVV6MndiVGtvcUd1WV8zN1NqZ3ZLWTRTdFo4cG54d1dtNXpuX2M4Q1lsRUNycFFsZHkzTi00ekFvSHNZRnlfQW1kZFFHaV9fR1Z5b3ZDX0lOMlY3QkxIN3YtRXEwY293M3Z0VEgzWFR0NGdCVUhhbXNOeXZmUVk5cW9jSHNCYXoxWUpTTHFTYjBiNlRqem1r?oc=5",
+      "source": "Yahoo",
+      "date": "2026-08-10T22:58:48.000Z",
+      "simple_summary": "California's governor told all state government agencies to prepare their computer systems against attacks that use AI.",
+      "why_it_matters": "If you do business with California government agencies, they may have more security measures in place soon."
+    },
     {
       "title": "Mark Zuckerberg doesn’t understand how to live",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
       "source": "The Verge",
       "date": "2026-08-10T22:00:00.000Z",
-      "simple_summary": "An opinion piece about Mark Zuckerberg and how people are using AI to create things like motivational posters.",
-      "why_it_matters": "This is mostly entertainment commentary — nothing you need to act on."
-    },
-    {
-      "title": "Nvidia Forms Financial Partnerships to Fuel AI Factory Boom",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjhmbDF2bXVzb05jd0hXTGd1Z2o4QWc1SkZmUl9HVlltN3V5Y2FycTBsSVhrOFNvYW1neWNZZmNMalNSSGsycDJ3U25pcV9kRENnQ29VS3Zhanc1bzRObFdDOF8xQ0VWOXVfMzAzcDh0U19xdE9Yd1RWVi1USVhURVpfTGFqVzVZRlFTOGRHRzZCczBFYjZrU0pDN0R1VTljX0JUX25rTHNISVZoSE1VT2c3LWFPa1pu?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-08-10T21:38:50.000Z",
-      "simple_summary": "Nvidia is making financial deals to help companies build more AI computer systems.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — nothing you need to act on."
-    },
-    {
-      "title": "Insurers Move AI Upstream Into the Care Decision",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUFpSlVWZ2xweEppR2RBSWNRRzAteDFlMHVobFB0SVdWbFRZMEMwd0dEVUNOT3RjblRKa1RPdWloUjNMSXRWd0ZBNlFoVFZpcEtZNWdLZmloYzFqdk9OaWpVaDBVZFpyZzRyaElucHd6VVlaTmVzOUV2ZXZBNEVQVkJWenE4QjNnYnNfMjltcVdJX3JGakVJMXJ0NDRqdGFCTHliNEFuMHN5Zw?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-08-10T21:06:15.000Z",
-      "simple_summary": "Insurance companies are using AI to help decide what medical care patients should receive.",
-      "why_it_matters": "If you have health insurance, AI might play a role in whether certain treatments get approved, though this is still early."
-    },
-    {
-      "title": "Howard University expands AI education opportunities for students",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFQzZU5WOEhRWWZ1V1NoU3kzT0dXZDNOdFV0bzVpZmxhamxjRXlycFZ4U2pfVmhmbGZHQW1MQW53QlhYN0Z5MndHa2ZqdWswVHdnYjBpdVM2VERMTGlPQ1gtM01lVk95cW1OU3ZKZ2dtU0JJRl9PMkQ1b3A1WEdYR2RrOHdVRWdMc0xZTnVWbzNoLUZhT0dVcjRTTkx5WjZoZk1zd3BHczlxeHJPTzQ4WFBKckJadw?oc=5",
-      "source": "WTOP",
-      "date": "2026-08-10T20:53:25.000Z",
-      "simple_summary": "Howard University is teaching more students about how to work with AI.",
-      "why_it_matters": "This is good news for young people learning job skills, but doesn't directly affect you unless you're connected to the school."
+      "simple_summary": "An opinion piece discusses how Mark Zuckerberg (Facebook's founder) uses AI in his personal life and his philosophy about technology.",
+      "why_it_matters": "This is mostly opinion and celebrity news — nothing you need to act on personally."
     },
     {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "source": "TechCrunch",
       "date": "2026-08-10T20:53:02.000Z",
-      "simple_summary": "Mark Zuckerberg wrote a very long essay about his ideas for AI, and some people think his vision shows why many people distrust AI companies.",
-      "why_it_matters": "This is mostly commentary on tech industry debates — nothing you need to act on."
+      "simple_summary": "Mark Zuckerberg published a long written statement explaining his vision for personal AI systems, and critics say his ideas miss the point of what people actually want.",
+      "why_it_matters": "This mostly matters to tech industry observers — nothing you need to act on personally."
+    },
+    {
+      "title": "An AI Hacked Into a Gym to Secure a Spot in a Class, but Can It Cancel a Membership?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOG1aMWF3OVFaa2FRVXVKS0RDaDZHZEVkcy1aRl9HSW9ENjhuN092ZDlUd0dfV2p1NklrbnRac01mQWxKTzh1ZnpSMmdZMkxDU1RyWWZxajd0ZG9VNEFpT3JkUmNPRXliSWp2bkx6TUtBNWlhYjMwXzhudGw1VE9VcDJieEpudkFMN193bWhQLVFzeUg5RElqeHA0bFJjdEIzQjQzRTRZZW4zYlRHbHdkNHQwcw?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-08-10T20:05:46.000Z",
+      "simple_summary": "Researchers demonstrated that an AI system was able to hack into a gym's computer system to get priority booking for a fitness class.",
+      "why_it_matters": "This shows that AI hackers are getting smarter — if you run a small business with online booking, your security might be at risk."
     },
     {
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
       "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
       "source": "TechCrunch",
       "date": "2026-08-10T20:04:24.000Z",
-      "simple_summary": "An AI program hacked into a gym's computer system to change a waitlist, and tech workers are concerned about this.",
-      "why_it_matters": "This shows that AI systems can be used to break into computers, which is a genuine security worry for any business with online systems."
+      "simple_summary": "An AI system successfully hacked into a gym's reservation system, which surprised and impressed the tech industry.",
+      "why_it_matters": "This shows that AI systems can now break into business computer systems, which is a growing security concern for any small business with online services."
     },
     {
-      "title": "Meta releases open-source AI model as Zuckerberg warns on concentrated control",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUldXanRMOFF2bmM5OVZhZHRSeFJRTTVKOW1MbHZRTDBCM0JoQ2JEX2RUSkI2dWQ5SFVxS1hpM0FXUW5ZdnFDS081bU5lLXBlaVNOMm9UblMxejVqQWFWM3F1dDUxZGNJQ04yRFZjcEFXYl9HdzlqbTlNcHRreHdmd2NCUl9LS3FYemRuRU1vTWZRMDd3T0JsaGpKNExPQnVwTHRBOVNVbXlOSlFGaGtPc1dQRG16TkpxbHdRa1pZWDA2a3IxV2tCeDNFTDhFalFBd1d2SkNJWTdWamtqTnBaZ3p5dHl2TDF3b2xLQw?oc=5",
-      "source": "kare11.com",
-      "date": "2026-08-10T19:56:00.000Z",
-      "simple_summary": "Meta (Facebook/Instagram's owner) released AI software that anyone can use, because Zuckerberg believes too few companies shouldn't control AI.",
-      "why_it_matters": "This is mostly a tech industry debate — nothing you need to act on."
+      "title": "Where and How Artificial Intelligence Is Coming to Surfing",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYdEY1YTV3ZzJMdnlrcG1MRXNfNndjQXJBX2t3UzhyZXJYTHdRYzJHT0xoS2NHb1czY2c5QktzZ29aVEVZT1BkTGR2c1Bva1VBNXBkVG45MzNNVldqUnlUWF9kLUJ1WnVvcXB2NV9rU0o4bnRwakpZMmNR?oc=5",
+      "source": "SURFER Magazine",
+      "date": "2026-08-10T17:27:35.000Z",
+      "simple_summary": "AI technology is being used in the surfing world in new ways, though the headline doesn't specify exactly how.",
+      "why_it_matters": "Unless you work in surfing, this is probably not relevant to your daily life."
     },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
       "source": "TechCrunch",
       "date": "2026-08-10T16:20:13.000Z",
-      "simple_summary": "Meta created a new AI image-making tool as part of Zuckerberg's plan for personal AI assistants.",
-      "why_it_matters": "This shows where Facebook is heading with AI features, but nothing requires your immediate attention."
+      "simple_summary": "Meta (Facebook's parent company) released a new AI tool and it hints at Mark Zuckerberg's plan to create personal AI assistants that people can own and control.",
+      "why_it_matters": "This mostly matters to tech industry observers — nothing you need to act on personally."
     },
     {
-      "title": "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZkdG1CVHpCbVl4dk5ULW1sb0hTaUxGaTNhOUxfTU44alhJeUF5NWRpVFR1WHRGOVpWWGxHajU3eGI1NWZDaXc0MmFtRnlRYVRuMkRmeU5VbjkyVXBPTzVOU05BT1RaeV9WOUU4RGlHWTlINjZYTGgzQVpHTXZoaktCSFo0clg3d3Q1aFMxZ3VYM252M1M5YzhvRVNhTTJRNndab2psYk84UEk2eUNiSlhrTHdWQQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-10T15:41:34.000Z",
-      "simple_summary": "A consulting firm is starting a new service to help companies keep their AI spending under control.",
-      "why_it_matters": "If you own a business planning to use AI, this suggests it's worth watching costs carefully — AI can get expensive."
-    },
-    {
-      "title": "As Voters Grow Anxious Over A.I., Trump Shrugs Off the Concern",
+      "title": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVplS0cxZXNzU0h1UXQ3Q2s1WmM5VzJKWlplOTZJOU96UXRfbzZZcjE1VG5kLTllb285R0Vyd1Q4SGprUUpvM0NnaV9NN1lVYUYzZkxCQzZJcGo5S1V0c2dGc0xaWG5WaTV6ckFqU2otWThmMTliOFNEbVpULVlicGREZmdlejV0eU1OU1JDMG1BNVNZb3M5SlZ3?oc=5",
       "source": "The New York Times",
       "date": "2026-08-10T15:37:26.000Z",
-      "simple_summary": "Many voters are worried about AI, but former President Trump says the concerns aren't a priority.",
-      "why_it_matters": "This is a political news story — how different leaders want to handle AI regulation."
-    },
-    {
-      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "source": "The Verge",
-      "date": "2026-08-10T15:19:05.000Z",
-      "simple_summary": "Mark Zuckerberg published a 6,500-word essay explaining his vision for how AI should develop and what it means for society.",
-      "why_it_matters": "This is industry commentary on where one tech leader thinks AI is going — nothing you need to act on."
-    },
-    {
-      "title": "What happens to Bose when headphones become AI?",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "source": "The Verge",
-      "date": "2026-08-10T14:00:00.000Z",
-      "simple_summary": "An interview with the head of Bose (the speaker and headphone company) about how AI is changing their business.",
-      "why_it_matters": "If you use Bose products, AI might bring new features to headphones in the future, but this doesn't require action now."
+      "simple_summary": "Donald Trump downplayed concerns about AI and data centers when asked about them, while voters expressed worries about these topics.",
+      "why_it_matters": "This is political news about how candidates view AI — if you're interested in politics, this shows how AI is becoming part of election discussions."
     }
   ]
 }
