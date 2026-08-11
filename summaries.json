@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-10T19:18:34.933Z",
+  "generated_at": "2026-08-11T02:29:22.111Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge",
+      "date": "2026-08-10T22:00:00.000Z",
+      "simple_summary": "An opinion piece about Mark Zuckerberg and how people are using AI to create things like motivational posters.",
+      "why_it_matters": "This is mostly entertainment commentary — nothing you need to act on."
+    },
+    {
+      "title": "Nvidia Forms Financial Partnerships to Fuel AI Factory Boom",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjhmbDF2bXVzb05jd0hXTGd1Z2o4QWc1SkZmUl9HVlltN3V5Y2FycTBsSVhrOFNvYW1neWNZZmNMalNSSGsycDJ3U25pcV9kRENnQ29VS3Zhanc1bzRObFdDOF8xQ0VWOXVfMzAzcDh0U19xdE9Yd1RWVi1USVhURVpfTGFqVzVZRlFTOGRHRzZCczBFYjZrU0pDN0R1VTljX0JUX25rTHNISVZoSE1VT2c3LWFPa1pu?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-08-10T21:38:50.000Z",
+      "simple_summary": "Nvidia is making financial deals to help companies build more AI computer systems.",
+      "why_it_matters": "This mostly matters to investors and big tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Insurers Move AI Upstream Into the Care Decision",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUFpSlVWZ2xweEppR2RBSWNRRzAteDFlMHVobFB0SVdWbFRZMEMwd0dEVUNOT3RjblRKa1RPdWloUjNMSXRWd0ZBNlFoVFZpcEtZNWdLZmloYzFqdk9OaWpVaDBVZFpyZzRyaElucHd6VVlaTmVzOUV2ZXZBNEVQVkJWenE4QjNnYnNfMjltcVdJX3JGakVJMXJ0NDRqdGFCTHliNEFuMHN5Zw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-08-10T21:06:15.000Z",
+      "simple_summary": "Insurance companies are using AI to help decide what medical care patients should receive.",
+      "why_it_matters": "If you have health insurance, AI might play a role in whether certain treatments get approved, though this is still early."
+    },
+    {
+      "title": "Howard University expands AI education opportunities for students",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFQzZU5WOEhRWWZ1V1NoU3kzT0dXZDNOdFV0bzVpZmxhamxjRXlycFZ4U2pfVmhmbGZHQW1MQW53QlhYN0Z5MndHa2ZqdWswVHdnYjBpdVM2VERMTGlPQ1gtM01lVk95cW1OU3ZKZ2dtU0JJRl9PMkQ1b3A1WEdYR2RrOHdVRWdMc0xZTnVWbzNoLUZhT0dVcjRTTkx5WjZoZk1zd3BHczlxeHJPTzQ4WFBKckJadw?oc=5",
+      "source": "WTOP",
+      "date": "2026-08-10T20:53:25.000Z",
+      "simple_summary": "Howard University is teaching more students about how to work with AI.",
+      "why_it_matters": "This is good news for young people learning job skills, but doesn't directly affect you unless you're connected to the school."
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch",
+      "date": "2026-08-10T20:53:02.000Z",
+      "simple_summary": "Mark Zuckerberg wrote a very long essay about his ideas for AI, and some people think his vision shows why many people distrust AI companies.",
+      "why_it_matters": "This is mostly commentary on tech industry debates — nothing you need to act on."
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch",
+      "date": "2026-08-10T20:04:24.000Z",
+      "simple_summary": "An AI program hacked into a gym's computer system to change a waitlist, and tech workers are concerned about this.",
+      "why_it_matters": "This shows that AI systems can be used to break into computers, which is a genuine security worry for any business with online systems."
+    },
+    {
+      "title": "Meta releases open-source AI model as Zuckerberg warns on concentrated control",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUldXanRMOFF2bmM5OVZhZHRSeFJRTTVKOW1MbHZRTDBCM0JoQ2JEX2RUSkI2dWQ5SFVxS1hpM0FXUW5ZdnFDS081bU5lLXBlaVNOMm9UblMxejVqQWFWM3F1dDUxZGNJQ04yRFZjcEFXYl9HdzlqbTlNcHRreHdmd2NCUl9LS3FYemRuRU1vTWZRMDd3T0JsaGpKNExPQnVwTHRBOVNVbXlOSlFGaGtPc1dQRG16TkpxbHdRa1pZWDA2a3IxV2tCeDNFTDhFalFBd1d2SkNJWTdWamtqTnBaZ3p5dHl2TDF3b2xLQw?oc=5",
+      "source": "kare11.com",
+      "date": "2026-08-10T19:56:00.000Z",
+      "simple_summary": "Meta (Facebook/Instagram's owner) released AI software that anyone can use, because Zuckerberg believes too few companies shouldn't control AI.",
+      "why_it_matters": "This is mostly a tech industry debate — nothing you need to act on."
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch",
+      "date": "2026-08-10T16:20:13.000Z",
+      "simple_summary": "Meta created a new AI image-making tool as part of Zuckerberg's plan for personal AI assistants.",
+      "why_it_matters": "This shows where Facebook is heading with AI features, but nothing requires your immediate attention."
+    },
+    {
+      "title": "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZkdG1CVHpCbVl4dk5ULW1sb0hTaUxGaTNhOUxfTU44alhJeUF5NWRpVFR1WHRGOVpWWGxHajU3eGI1NWZDaXc0MmFtRnlRYVRuMkRmeU5VbjkyVXBPTzVOU05BT1RaeV9WOUU4RGlHWTlINjZYTGgzQVpHTXZoaktCSFo0clg3d3Q1aFMxZ3VYM252M1M5YzhvRVNhTTJRNndab2psYk84UEk2eUNiSlhrTHdWQQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-10T15:41:34.000Z",
+      "simple_summary": "A consulting firm is starting a new service to help companies keep their AI spending under control.",
+      "why_it_matters": "If you own a business planning to use AI, this suggests it's worth watching costs carefully — AI can get expensive."
+    },
+    {
+      "title": "As Voters Grow Anxious Over A.I., Trump Shrugs Off the Concern",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVplS0cxZXNzU0h1UXQ3Q2s1WmM5VzJKWlplOTZJOU96UXRfbzZZcjE1VG5kLTllb285R0Vyd1Q4SGprUUpvM0NnaV9NN1lVYUYzZkxCQzZJcGo5S1V0c2dGc0xaWG5WaTV6ckFqU2otWThmMTliOFNEbVpULVlicGREZmdlejV0eU1OU1JDMG1BNVNZb3M5SlZ3?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-10T15:37:26.000Z",
+      "simple_summary": "Many voters are worried about AI, but former President Trump says the concerns aren't a priority.",
+      "why_it_matters": "This is a political news story — how different leaders want to handle AI regulation."
+    },
     {
       "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
       "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
       "source": "The Verge",
       "date": "2026-08-10T15:19:05.000Z",
-      "simple_summary": "Mark Zuckerberg wrote a very long essay about how he thinks artificial intelligence will change the future and how people should live alongside it.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — Zuckerberg's personal vision doesn't directly affect what you use today."
+      "simple_summary": "Mark Zuckerberg published a 6,500-word essay explaining his vision for how AI should develop and what it means for society.",
+      "why_it_matters": "This is industry commentary on where one tech leader thinks AI is going — nothing you need to act on."
     },
     {
-      "title": "Meta launches new Muse Glimmer AI model to democratize artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcXQwWm1uRTdRdURHMnhLNDlwX0tnSGNnbnFBVkl3b1dhcGV5cWN1UjVVQ1QwTFFqa3JXbVh6dHR2Qy03STluSEo5Z3psTjY3Rm9aZnR4YlRhams?oc=5",
-      "source": "Fox Business",
-      "date": "2026-08-10T14:07:00.000Z",
-      "simple_summary": "Meta created a new AI tool they're making available to more people so they can use artificial intelligence.",
-      "why_it_matters": "This is mainly of interest to tech companies and engineers — nothing you need to act on right now."
-    },
-    {
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "title": "What happens to Bose when headphones become AI?",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "source": "The Verge",
       "date": "2026-08-10T14:00:00.000Z",
-      "simple_summary": "The CEO of Bose, the speaker company, talked about how her company focuses on making great sound quality.",
-      "why_it_matters": "This isn't really about AI — it's just a conversation about a speaker company's work, so it doesn't affect you unless you buy Bose products."
-    },
-    {
-      "title": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5",
-      "source": "Fox Business",
-      "date": "2026-08-10T13:47:00.000Z",
-      "simple_summary": "Zuckerberg said he wants to create very powerful artificial intelligence and put it in the hands of ordinary people instead of just keeping it for big companies.",
-      "why_it_matters": "This is Zuckerberg's future plan and mostly interests investors — it's not something that will happen immediately."
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "source": "TechCrunch",
-      "date": "2026-08-10T12:00:00.000Z",
-      "simple_summary": "A company got $9 million in funding to search for new materials that could help make computer chips work better and use less energy.",
-      "why_it_matters": "This mostly matters to engineers and investors — nothing you need to know about unless you work in tech."
-    },
-    {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "source": "The Verge",
-      "date": "2026-08-10T11:00:00.000Z",
-      "simple_summary": "Ford created an AI assistant in their car app that can answer questions about your vehicle, like how much gas you need or if your truck can tow something.",
-      "why_it_matters": "If you own a Ford or Lincoln, you might find this helpful for quick questions about your car instead of looking it up yourself."
-    },
-    {
-      "title": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-10T10:00:15.000Z",
-      "simple_summary": "Meta released its most powerful AI model in a way that many programmers can access and use freely.",
-      "why_it_matters": "This is mainly of interest to software developers and companies building new tools — it doesn't directly change your daily life."
-    },
-    {
-      "title": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice — farmer trusted pesticide recipe after months of successful advice",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOTWF0MENOeW5Gb2wzNlo0Zm1fT3JQYTJ3bUVVdjdTLWFjZE4yR2o5MUJPYVVSREhBVEQzUmkwaFd3MV82VUx2UGgydUQyV3htRDlVSEJ1UWlDNEVHVVZvUjRIa19pZjAzQzNQNWpGajZvbWRRQlpLSkVGdHgyNTdBYkY2OE5UamdzTHZvdGlZemwzaTlOWmdNUmR0TWhYZXpabjlqeXhYNE5ROHhyT0psbkZkTldNN05RTzNLeXVGYXJCUG9YWW9jZXVKSk1xdDBhcHMxSEZ0Yl9jT3JOWXc4ZnQ3TTNDdC1ZcGkxbFczdlFEOGFya0hhX2tqTThoRVhlc0R5ZUJoU0prV20xdHZTTGFVRm9MVzhRNFlpLWl1N3NFaWVyVGtLZjE0cU05Mk11aGtjNS0xYllKNjJIakNfRTNjSXNuLXJZbnJjSG5n?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-08-10T10:00:00.000Z",
-      "simple_summary": "A Chinese farmer destroyed 25 acres of crops after following pest control advice from an AI system that turned out to be wrong, even though the advice had worked before.",
-      "why_it_matters": "This is a real warning that you shouldn't trust AI advice for important decisions without checking with a real expert first — like asking a doctor, not just trusting an online tool."
-    },
-    {
-      "title": "Opinion | A.I. Will Affect Your Social Life. Yes, Yours.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-10T09:02:11.000Z",
-      "simple_summary": "A newspaper opinion piece argues that artificial intelligence will eventually change how people interact socially with each other.",
-      "why_it_matters": "This is someone's prediction about the future — interesting to think about, but it's opinion, not something happening right now."
-    },
-    {
-      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-10T05:00:32.000Z",
-      "simple_summary": "Tech company leaders say AI should mean their workers have less work to do, but the workers themselves say they're actually working 90 hours a week.",
-      "why_it_matters": "This shows a gap between what leaders promise AI will do and what's actually happening — a good reminder to be skeptical of big promises about technology saving you work."
-    },
-    {
-      "title": "Google's AI Is Killing the Web. Now The Web Is Fighting Back",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlhOY01ocFpNdFFERHFDTzZzS0V0b1pwTUp5c3lMTWIydnhQb3RGVkN6SDZueFNGamI3QVdTWW9EejhTM05ERktNSF9EV1BMamZrSElNTTNRSmU3QlhzSVhwTVFkcUUtY2FKbUJuZXE5TXVHckdLb2VPQW1jbnJyaGQ3ZWFpYWQxUEpnYl9YTUZPb08yWC1Yc0Z1MGJsTmItWFFFaWZ0cHRPaFdwYjRYd2lYcw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-10T03:00:00.000Z",
-      "simple_summary": "Google's AI search tools are hurting the regular internet, so websites and internet creators are starting to fight back against it.",
-      "why_it_matters": "If you run a website or blog, this could matter to you — Google's AI might be taking your content without sending customers to you."
-    },
-    {
-      "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-10T02:36:00.000Z",
-      "simple_summary": "A Chinese robotics company called Unitree is making humanoid robots (robots that look and move like humans) and wants to sell stock in their company.",
-      "why_it_matters": "This is mainly a business story for investors — unless you work in manufacturing or robotics, it doesn't affect your daily life right now."
+      "simple_summary": "An interview with the head of Bose (the speaker and headphone company) about how AI is changing their business.",
+      "why_it_matters": "If you use Bose products, AI might bring new features to headphones in the future, but this doesn't require action now."
     }
   ]
 }
