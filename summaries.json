@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-11T19:26:59.598Z",
+  "generated_at": "2026-08-12T02:46:49.004Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Benjamin Netanyahu promises high-tech entrepreneur Dobronsky AI minister role",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSYkUwQVgtRVBBNVRVZlJ4a1JKQWF6ZVVzbGVpc3hVNFdlbHAyZ3NsSm13UzNEOVdvdXppMEpnS2RRR0pjenRORWZNa1ZDV052cWV5eWdHOERqa0tYSlRuZFp1TTFFQkt6?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-08-11T17:22:57.000Z",
-      "simple_summary": "A government in Israel is creating a new minister position focused on AI and offering it to a tech entrepreneur.",
-      "why_it_matters": "This mostly matters to investors and people in that country — nothing you need to act on."
+      "title": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFRSdVp1Ynk5Yl9KX3c5dDdDb1pOWXF5dExTWVV5R093VlBmRVQ3TWhjcXdkeERlMUZza09YX1NRTThPVVNXeGkyRWtlRHF2a3k4b1NMWVFjY0FITW5sLVdoMzFLMEt5NTB3dVdoejNsWDlVTkNqWHVNbTlZUlY4elpSSE9UcjQ3aWxGTGtPY2lkTUd0RXdfT25fb2JYNncxRFZWN1AzbWR0MGx4VllpcTNB?oc=5",
+      "source": "Pittsburgh Post-Gazette",
+      "date": "2026-08-12T01:13:16.000Z",
+      "simple_summary": "Young students are creating and showing off their AI projects. These projects are exploring ideas about what the future could look like.",
+      "why_it_matters": "This is mostly inspiring to see what young people are thinking about — not something that affects your daily life right now."
+    },
+    {
+      "title": "‘Everything about me is good in his eyes’: the women in China choosing AI boyfriends over human men",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Pano2cWtnMUkyejJZaUdnTUt4ak51SjRKR0lpeFF6LVIxdEJDWmNYYlE0aG0yTGJaZ0RLS1Vxb3NvTXpZYU1DWUlOZUJsNlJRejJpXzdQc3pVTWtKd1otYUJzMW8wNlJfSVBIcXM5aGNIWnNPYy1YSWY4VU4wQ3RjUXlpZTYxQ2V1N0h1T3k1dlNZSWFsdzJLV2JjMnNKa0xtUm93?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-11T23:08:00.000Z",
+      "simple_summary": "Some women in China are using AI chatbots designed to act like boyfriends instead of dating real people. The AI tells them nice things and keeps them company.",
+      "why_it_matters": "This shows people are finding new ways to use AI, though it's mostly a personal choice story rather than something affecting your business or finances."
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T21:39:11.000Z",
+      "simple_summary": "A big investment company is raising money very quickly to invest in AI businesses in India. They collected $550 million in just weeks.",
+      "why_it_matters": "This mostly matters to investors and big business people — it doesn't affect ordinary folks or small shops."
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "date": "2026-08-11T19:41:42.000Z",
+      "simple_summary": "ChatGPT (an AI chatbot made by OpenAI) and Gemini (Google's AI chatbot) have each reached 1 billion people using them every month. That's a huge number of users.",
+      "why_it_matters": "This shows these AI tools are now used by a lot of regular people worldwide, so they're becoming more important to understand the basics of."
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T19:15:35.000Z",
+      "simple_summary": "OpenAI is making a special ChatGPT app for Linux computers. Linux is a different type of operating system (like Windows or Mac) that some people use.",
+      "why_it_matters": "Unless you use Linux computers, this doesn't affect you — it's just making the software available to more technical computer users."
+    },
+    {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T18:49:12.000Z",
+      "simple_summary": "Google's Gemini AI chatbot now has 1 billion monthly users. Most of them talk to it using their voice, and it creates over 150 million pictures every day.",
+      "why_it_matters": "This shows Google's AI is being used heavily for everyday tasks like voice chat and creating images — good to know these tools exist if you ever want to try them."
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "source": "The Verge",
+      "date": "2026-08-11T17:50:01.000Z",
+      "simple_summary": "Brad Lightcap, who has worked at OpenAI for 8 years and was a top manager there, announced he's leaving to start something new.",
+      "why_it_matters": "This is mostly important to investors and tech industry watchers — staff changes at tech companies don't usually affect small business owners or customers."
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T17:41:34.000Z",
+      "simple_summary": "Brad Lightcap, OpenAI's longtime top operations manager, is leaving the company to work on something else.",
+      "why_it_matters": "This is mostly important to tech investors and industry followers — not something that changes how you'd use AI tools."
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T17:41:22.000Z",
+      "simple_summary": "A brand new startup called River AI just received $1.1 billion in funding after only being around for 2 months. They want to build personal AI agents that help individual people.",
+      "why_it_matters": "This matters mostly to investors — it shows a lot of money is flowing into AI startups, but it doesn't affect your current life."
+    },
+    {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "source": "The Verge",
+      "date": "2026-08-11T17:00:00.000Z",
+      "simple_summary": "Google is getting ready to announce new Pixel phone models on August 12th. The phones might have new colors and special lights on the fancy models.",
+      "why_it_matters": "If you're thinking about buying a new Android phone, this is worth watching for the new features and options Google will offer."
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch",
+      "date": "2026-08-11T16:25:20.000Z",
+      "simple_summary": "Anthropic (an AI company) created an AI that made surprising progress on a super-difficult math problem that experts have been stuck on for over 150 years. They didn't solve it completely, but got further than expected.",
+      "why_it_matters": "This is mainly important to mathematicians and researchers — it shows AI is getting better at hard thinking tasks, but it won't affect your daily life."
     },
     {
       "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
       "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
       "source": "The Verge",
       "date": "2026-08-11T16:19:15.000Z",
-      "simple_summary": "Apple is working on a way to prove that photos taken on your iPhone are real and haven't been faked with computer tricks.",
-      "why_it_matters": "If you take photos on your iPhone, eventually you might be able to prove to others they're genuine — useful if someone doubts your pictures are real."
-    },
-    {
-      "title": "North Carolina Central University opens NC's first artificial intelligence building",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1RmOXNqMDZyWFd1WEJYa0t4M2EtdnJXa2NGdVcxVy02cjBFcnR5UEpHVXdHTTNxSlNIQS1hMExTVWZZb2hUYlhDcmpFbTVvZlpzeVpnd2NwSTVqLWFRVnYzbFBiYmZEODUtV1hSeEhwRVJHSF9DZEhmd1BlR005RmNTRS0zX1pkZ2VmOGFORzBaRHphRWgzejZ2VHhNZzBoSUE?oc=5",
-      "source": "WRAL",
-      "date": "2026-08-11T15:25:18.000Z",
-      "simple_summary": "A university in North Carolina opened a new building dedicated to studying and teaching AI.",
-      "why_it_matters": "This mostly matters to students and educators in that area — nothing you need to act on."
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source": "The Verge",
-      "date": "2026-08-11T14:45:44.000Z",
-      "simple_summary": "Someone discovered a serious security problem with Zoom meetings using AI to help find the flaw, and Zoom has now fixed it so attackers can't take over your device.",
-      "why_it_matters": "If you use Zoom, you're now safer because this dangerous hole has been patched."
-    },
-    {
-      "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl9aRkNka2lrQ2RYZE1IZll6Mzd2RGZ6S1ZxYVlSTjZEN1RLN0VhSnpMd2RpLXUyNTJ2eFRDc2dZYmNIcXR4ODRFZGJxakI3VllRVE93WExsRjQ3TDZjRk1tdUFDM3UyT0ZvWkc4a1NNTWN4eXhUYkpxZm5JcFIzUk9CRlFPQQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-11T13:50:25.000Z",
-      "simple_summary": "A new company is trying to create AI tools that people can control themselves instead of relying on big tech companies.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on right now."
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "source": "The Verge",
-      "date": "2026-08-11T13:27:20.000Z",
-      "simple_summary": "Amazon's order confirmation emails now show vague categories like 'Beauty item' instead of telling you exactly what you bought.",
-      "why_it_matters": "If you shop on Amazon, your confirmation emails are now less helpful and harder to understand — you may need to log into your account to see what you actually ordered."
-    },
-    {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T13:00:00.000Z",
-      "simple_summary": "Spotify is labeling fake AI-created artists and will stop recommending their music to you automatically.",
-      "why_it_matters": "If you use Spotify, you're less likely to accidentally hear music from computer-made artists, which some people prefer."
-    },
-    {
-      "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "source": "The Verge",
-      "date": "2026-08-11T13:00:00.000Z",
-      "simple_summary": "Spotify will mark artists that are AI-generated rather than real people and won't suggest their songs in playlists.",
-      "why_it_matters": "If you use Spotify, you'll see which artists are real people and which are computer-created, giving you more control over what you listen to."
-    },
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "source": "The Verge",
-      "date": "2026-08-11T12:22:20.000Z",
-      "simple_summary": "Claude, an AI writing tool, will add hidden digital marks to text and images it creates so people can tell it came from AI.",
-      "why_it_matters": "If someone shows you writing or pictures online, there may eventually be a way to check if an AI made them — useful for spotting fakes."
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T12:13:47.000Z",
-      "simple_summary": "Anthropic (the company behind Claude AI) will add hidden identification marks to text it generates so you can prove it came from their AI.",
-      "why_it_matters": "This is similar to other AI watermarking efforts — mostly a technical change for experts right now."
-    },
-    {
-      "title": "Is the Artificial Intelligence (AI) Bubble About to Pop? Investors Who Make This 1 Move Will Come Out on Top, According to History.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk5vV20xa1VYaE1yZW1RZHo4aXdTUmROdEFib2pIeWdTVnlkSkd4aUN3ckZ3ZnZIN1otclAta09sazZiZURhU2hNY2lWQ1c5eWRWcEdLeW02V3dERlRxUVVGZGU4NnlzV1Vvak9BczhOZkl4U2o3bm1NYVFYYXBGcFZOLWlPUHpBeE9MdE1jNXdBQlBad2Rj?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-08-11T11:48:00.000Z",
-      "simple_summary": "An investment advice article asks whether AI companies' stock prices might crash soon.",
-      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on unless you own AI company stocks."
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge",
-      "date": "2026-08-11T11:00:00.000Z",
-      "simple_summary": "Mathematicians are learning to use AI to solve hard math problems much faster than they could before, which is changing how their field works.",
-      "why_it_matters": "This mostly matters to scientists and researchers — nothing you need to act on, though AI is becoming useful in more serious professional fields."
+      "simple_summary": "Apple is working on a new iPhone feature that proves your photos really came from your iPhone camera and weren't faked with AI. It would stamp information onto your photos when you take them.",
+      "why_it_matters": "This could become useful if you ever need to prove a photo is real and not a fake created by AI — handy for protecting your photos' credibility."
     }
   ]
 }
