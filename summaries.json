@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:46:49.004Z",
+  "generated_at": "2026-08-12T07:54:08.623Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFRSdVp1Ynk5Yl9KX3c5dDdDb1pOWXF5dExTWVV5R093VlBmRVQ3TWhjcXdkeERlMUZza09YX1NRTThPVVNXeGkyRWtlRHF2a3k4b1NMWVFjY0FITW5sLVdoMzFLMEt5NTB3dVdoejNsWDlVTkNqWHVNbTlZUlY4elpSSE9UcjQ3aWxGTGtPY2lkTUd0RXdfT25fb2JYNncxRFZWN1AzbWR0MGx4VllpcTNB?oc=5",
       "source": "Pittsburgh Post-Gazette",
       "date": "2026-08-12T01:13:16.000Z",
-      "simple_summary": "Young students are creating and showing off their AI projects. These projects are exploring ideas about what the future could look like.",
-      "why_it_matters": "This is mostly inspiring to see what young people are thinking about — not something that affects your daily life right now."
+      "simple_summary": "Young students are building and showing off their own AI projects. This is helping them imagine what AI could do in the future.",
+      "why_it_matters": "This is mostly news about education — it doesn't directly affect your daily life or business right now, but it shows younger generations are learning these tools."
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge",
+      "date": "2026-08-12T00:39:26.000Z",
+      "simple_summary": "A game company is denying they fired a writer and replaced her with ChatGPT (an AI that writes text). The writer says this actually happened to her.",
+      "why_it_matters": "This matters if you hire people — it's a warning that some companies are using AI to cut jobs instead of using AI to help their workers do better work."
     },
     {
       "title": "‘Everything about me is good in his eyes’: the women in China choosing AI boyfriends over human men",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Pano2cWtnMUkyejJZaUdnTUt4ak51SjRKR0lpeFF6LVIxdEJDWmNYYlE0aG0yTGJaZ0RLS1Vxb3NvTXpZYU1DWUlOZUJsNlJRejJpXzdQc3pVTWtKd1otYUJzMW8wNlJfSVBIcXM5aGNIWnNPYy1YSWY4VU4wQ3RjUXlpZTYxQ2V1N0h1T3k1dlNZSWFsdzJLV2JjMnNKa0xtUm93?oc=5",
       "source": "The Guardian",
       "date": "2026-08-11T23:08:00.000Z",
-      "simple_summary": "Some women in China are using AI chatbots designed to act like boyfriends instead of dating real people. The AI tells them nice things and keeps them company.",
-      "why_it_matters": "This shows people are finding new ways to use AI, though it's mostly a personal choice story rather than something affecting your business or finances."
+      "simple_summary": "Some women in China are using AI chatbots that act like boyfriends instead of dating real people.",
+      "why_it_matters": "This is an interesting social trend but doesn't affect most small-business owners or your daily life."
     },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
       "source": "TechCrunch",
       "date": "2026-08-11T21:39:11.000Z",
-      "simple_summary": "A big investment company is raising money very quickly to invest in AI businesses in India. They collected $550 million in just weeks.",
-      "why_it_matters": "This mostly matters to investors and big business people — it doesn't affect ordinary folks or small shops."
+      "simple_summary": "A big investment company just raised $550 million to invest in Indian tech companies. This is mostly important to wealthy investors.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "source": "The Verge",
       "date": "2026-08-11T19:41:42.000Z",
-      "simple_summary": "ChatGPT (an AI chatbot made by OpenAI) and Gemini (Google's AI chatbot) have each reached 1 billion people using them every month. That's a huge number of users.",
-      "why_it_matters": "This shows these AI tools are now used by a lot of regular people worldwide, so they're becoming more important to understand the basics of."
+      "simple_summary": "Two popular AI chatbots — ChatGPT and Google's Gemini — have each reached 1 billion people using them monthly. That's as many people as are on Facebook.",
+      "why_it_matters": "This shows AI chatbots are becoming as common as email or Google — worth trying one out to see if it could help your business with writing, answering questions, or brainstorming."
     },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "source": "TechCrunch",
       "date": "2026-08-11T19:15:35.000Z",
-      "simple_summary": "OpenAI is making a special ChatGPT app for Linux computers. Linux is a different type of operating system (like Windows or Mac) that some people use.",
-      "why_it_matters": "Unless you use Linux computers, this doesn't affect you — it's just making the software available to more technical computer users."
+      "simple_summary": "OpenAI made ChatGPT available as a standalone app for Linux computers (a type of operating system, like Windows or Mac).",
+      "why_it_matters": "Only relevant if you use Linux computers — most small-business owners use Windows or Mac."
     },
     {
       "title": "Google’s Gemini app surges to 1 billion users",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "source": "TechCrunch",
       "date": "2026-08-11T18:49:12.000Z",
-      "simple_summary": "Google's Gemini AI chatbot now has 1 billion monthly users. Most of them talk to it using their voice, and it creates over 150 million pictures every day.",
-      "why_it_matters": "This shows Google's AI is being used heavily for everyday tasks like voice chat and creating images — good to know these tools exist if you ever want to try them."
+      "simple_summary": "Google's Gemini AI is making over 150 million pictures every day and most users are talking to it by voice instead of typing.",
+      "why_it_matters": "This shows AI image and voice tools are becoming easier and more popular — worth knowing about if you do any design, photography, or customer service work."
     },
     {
       "title": "Another OpenAI executive takes off",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "source": "The Verge",
       "date": "2026-08-11T17:50:01.000Z",
-      "simple_summary": "Brad Lightcap, who has worked at OpenAI for 8 years and was a top manager there, announced he's leaving to start something new.",
-      "why_it_matters": "This is mostly important to investors and tech industry watchers — staff changes at tech companies don't usually affect small business owners or customers."
+      "simple_summary": "A top manager at OpenAI (the company that makes ChatGPT) quit after working there for eight years to do something new.",
+      "why_it_matters": "This mostly matters to investors tracking OpenAI — nothing you need to act on."
     },
     {
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "source": "TechCrunch",
       "date": "2026-08-11T17:41:34.000Z",
-      "simple_summary": "Brad Lightcap, OpenAI's longtime top operations manager, is leaving the company to work on something else.",
-      "why_it_matters": "This is mostly important to tech investors and industry followers — not something that changes how you'd use AI tools."
+      "simple_summary": "Brad Lightcap, a longtime executive at OpenAI, is leaving the company.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
     },
     {
       "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
       "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
       "source": "TechCrunch",
       "date": "2026-08-11T17:41:22.000Z",
-      "simple_summary": "A brand new startup called River AI just received $1.1 billion in funding after only being around for 2 months. They want to build personal AI agents that help individual people.",
-      "why_it_matters": "This matters mostly to investors — it shows a lot of money is flowing into AI startups, but it doesn't affect your current life."
+      "simple_summary": "A brand-new startup called River AI just raised $1.1 billion to build AI assistants that help individuals with tasks. This is mostly investor news.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "source": "The Verge",
       "date": "2026-08-11T17:00:00.000Z",
-      "simple_summary": "Google is getting ready to announce new Pixel phone models on August 12th. The phones might have new colors and special lights on the fancy models.",
-      "why_it_matters": "If you're thinking about buying a new Android phone, this is worth watching for the new features and options Google will offer."
+      "simple_summary": "Google is announcing new Pixel phones on August 12th with new colors and features, including a built-in light on some models.",
+      "why_it_matters": "If you're thinking about a new phone, wait until August 12th to see what Google offers — you might find something useful."
     },
     {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "source": "TechCrunch",
       "date": "2026-08-11T16:25:20.000Z",
-      "simple_summary": "Anthropic (an AI company) created an AI that made surprising progress on a super-difficult math problem that experts have been stuck on for over 150 years. They didn't solve it completely, but got further than expected.",
-      "why_it_matters": "This is mainly important to mathematicians and researchers — it shows AI is getting better at hard thinking tasks, but it won't affect your daily life."
-    },
-    {
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "source": "The Verge",
-      "date": "2026-08-11T16:19:15.000Z",
-      "simple_summary": "Apple is working on a new iPhone feature that proves your photos really came from your iPhone camera and weren't faked with AI. It would stamp information onto your photos when you take them.",
-      "why_it_matters": "This could become useful if you ever need to prove a photo is real and not a fake created by AI — handy for protecting your photos' credibility."
+      "simple_summary": "A company called Anthropic tested their AI on a very hard math puzzle that hasn't been solved in 150 years. The AI made some progress but didn't solve it.",
+      "why_it_matters": "This is mostly interesting to scientists and engineers — it doesn't affect your business or daily life."
     }
   ]
 }
