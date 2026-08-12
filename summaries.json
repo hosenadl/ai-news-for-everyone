@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-12T13:50:18.623Z",
+  "generated_at": "2026-08-12T19:28:22.023Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFRSdVp1Ynk5Yl9KX3c5dDdDb1pOWXF5dExTWVV5R093VlBmRVQ3TWhjcXdkeERlMUZza09YX1NRTThPVVNXeGkyRWtlRHF2a3k4b1NMWVFjY0FITW5sLVdoMzFLMEt5NTB3dVdoejNsWDlVTkNqWHVNbTlZUlY4elpSSE9UcjQ3aWxGTGtPY2lkTUd0RXdfT25fb2JYNncxRFZWN1AzbWR0MGx4VllpcTNB?oc=5",
-      "source": "Pittsburgh Post-Gazette",
-      "date": "2026-08-12T02:43:00.000Z",
-      "simple_summary": "Young students are creating AI projects and sharing their ideas about what AI could do in the future. They're helping shape how AI gets used in the world.",
-      "why_it_matters": "This shows the next generation is learning about AI early, which will affect what kind of AI tools get built in the coming years."
+      "title": "Security issues show AI needs greater human oversight, say Catholic experts",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3FlU01lalgyTW1FWG01YnJld0N3cURGWDI5TkpWUFNTREpUMWlqdnlDZTluTzRMVTFBOUZ0RUZZRFoxZEFya0dlZHByX05lWm9VVjlaRlYwWW1sREcwLWw0TVlVVmZ2S0QwSE5NeGd4TmU0WkNEcE1ZajREVXlXMmpIeGdETEpPSGJkZUp3YXFfOGplZzg1R2dqTU1HcDlncnhlTDVja3I?oc=5",
+      "source": "National Catholic Reporter",
+      "date": "2026-08-12T17:42:49.000Z",
+      "simple_summary": "Catholic experts say AI systems need more people checking on them to make sure they work safely and fairly.",
+      "why_it_matters": "This is mostly a discussion among experts — nothing you need to act on right now, but it's good that people are thinking about keeping AI trustworthy."
     },
     {
-      "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJkSllRazZwMW40WDRwUFVWbDg2NWNGbG9WYkVEVzJNSWpKS1lVNFhxcUlwYjRMYmxxQTFRbVYzQmdWR3MyTmpRekZXS0JDeldPOUpGNHl3N2NBRnlRM0REVGNGS2VjR0xJWlg4cDJlaXR6R292OU5QSzhYWjBzdEJ4OTZZb3NSMHFaNTZYcVVfNTY5S0J0YmpWWGdtYWpKcmtMbVNRd3lBVi1Gcy1CdjlDRHg?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-12T01:32:00.000Z",
-      "simple_summary": "Nvidia, a major computer chip company, released good financial results, which made investors feel more confident about the AI industry. This is mostly investor news — nothing directly affecting you.",
-      "why_it_matters": "This matters mainly to people who invest in tech stocks. If you don't own Nvidia stock, you can skip this one."
+      "title": "AI was supposed to destroy jobs. Where’s the carnage?",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-12T17:16:00.000Z",
+      "simple_summary": "Experts are noticing that AI hasn't eliminated as many jobs as people feared it would.",
+      "why_it_matters": "This suggests AI is changing jobs rather than destroying them completely, though some jobs may still shift in what they involve."
     },
     {
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "title": "How much time does AI save at work? New Census Bureau data breaks it down.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cjIwa1otWDd5RERISFRpcm9kcUU4TTYwcld1S1U2eW1sT2RsTHN2WUhzV2xBeXR2eGpJTTNRcFlZUzZpY09jS19DTTNNYUhVcl9pWnRnQ3l4cjRIUUpVNXNkV0V6dWZpWXM1c0ViVWQ?oc=5",
+      "source": "CBS News",
+      "date": "2026-08-12T16:27:54.000Z",
+      "simple_summary": "Government data shows how much time AI actually saves workers when they use it in their jobs.",
+      "why_it_matters": "If you or your employees use AI tools, this data might help you understand whether they're worth the investment."
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch",
+      "date": "2026-08-12T16:04:27.000Z",
+      "simple_summary": "An AI software company called Lovable raised a lot of money from investors because it's making good revenue.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on, but it shows AI businesses are growing."
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "source": "The Verge",
-      "date": "2026-08-12T00:39:26.000Z",
-      "simple_summary": "A video game company says it did not fire its writers and replace them with ChatGPT, but a former writer claims the opposite happened. There's a disagreement about whether AI took someone's job.",
-      "why_it_matters": "This shows a real concern: companies might use AI to replace workers. If you run a business, it's a reminder to think carefully about how you use AI tools."
+      "date": "2026-08-12T15:52:07.000Z",
+      "simple_summary": "A guitar supply company used AI to create music for an ad but denied it for weeks before admitting the truth.",
+      "why_it_matters": "If you advertise, be honest about using AI — people notice and care about transparency."
     },
     {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
       "source": "TechCrunch",
-      "date": "2026-08-11T21:39:11.000Z",
-      "simple_summary": "A big investment company is putting $550 million into businesses in India. This is purely investor news.",
-      "why_it_matters": "This doesn't affect ordinary people or small-business owners — it's only relevant to other investors."
+      "date": "2026-08-12T15:44:56.000Z",
+      "simple_summary": "A major AI deal involving $250 million fell apart because of fraud and forged documents.",
+      "why_it_matters": "This mostly matters to investors — it shows why you should be careful about the companies you do business with and verify things yourself."
     },
     {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "title": "Spotify to introduce AI badge after fans make feelings 'clear'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMHUwUDkwd284a0ZJNENieExLRzJVOTV5OFpzSDcyVHlEdUsta25mSTJqRVhIR09vcEtWTG1HM2pSZkU0SGQ5QkNKUFpLd0FRNC14SWFNNmhIUQ?oc=5",
+      "source": "BBC",
+      "date": "2026-08-12T15:07:21.000Z",
+      "simple_summary": "Spotify will add a badge to show which songs were created using AI, after listeners complained about not knowing.",
+      "why_it_matters": "If you listen to music or create it, you'll soon be able to see which songs used AI instead of real musicians."
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch",
+      "date": "2026-08-12T14:20:33.000Z",
+      "simple_summary": "Google announced new phones, a smart watch, a tracking device, and new AI features.",
+      "why_it_matters": "If you use Google phones or watches, there will be new models with improved AI capabilities available soon."
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
       "source": "The Verge",
-      "date": "2026-08-11T19:41:42.000Z",
-      "simple_summary": "ChatGPT (made by OpenAI) and Gemini (made by Google) have both reached one billion monthly users. That's like saying one out of every eight people on Earth is using these chatbots.",
-      "why_it_matters": "This shows AI chatbots have become mainstream tools that many people use regularly for help with questions and writing."
+      "date": "2026-08-12T14:00:00.000Z",
+      "simple_summary": "Google's latest watch costs $50 more than last year and focuses on using AI to help track your health.",
+      "why_it_matters": "If you wear a smartwatch, future versions will offer better health tracking through AI, though you'll pay more for it."
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T19:15:35.000Z",
-      "simple_summary": "OpenAI released a ChatGPT app for Linux computers (a free operating system some people use instead of Windows). Before this, the app only worked on Windows and Mac.",
-      "why_it_matters": "If you use a Linux computer, you can now run ChatGPT as a standalone app. Otherwise, this doesn't change anything for you."
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T18:49:12.000Z",
-      "simple_summary": "Google's Gemini AI tool is being used by over one billion people monthly. Most users are talking to it by voice (like talking to Siri), and it's creating over 150 million pictures every day.",
-      "why_it_matters": "This shows voice AI and AI picture generation are becoming everyday tools that regular people use and trust."
-    },
-    {
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
       "source": "The Verge",
-      "date": "2026-08-11T17:50:01.000Z",
-      "simple_summary": "Brad Lightcap, a high-ranking executive at OpenAI who has worked there for eight years, is leaving the company to start something new. The company hasn't said what comes next for him.",
-      "why_it_matters": "This is mostly investor news. When senior leaders leave companies, it can signal changes ahead, but it won't directly affect you as a customer."
+      "date": "2026-08-12T12:09:34.000Z",
+      "simple_summary": "Someone used AI tools to help design a cancer vaccine for their dog, and now they've started a company to make personalized vaccines for pets.",
+      "why_it_matters": "If you have a dog with cancer, this might eventually become a new treatment option, though it's still very new."
     },
     {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T17:41:34.000Z",
-      "simple_summary": "Brad Lightcap, one of OpenAI's longest-serving leaders (formerly the Chief Operating Officer), announced he is leaving the company.",
-      "why_it_matters": "This is the same news as item 7 — mostly interesting to investors. It doesn't affect regular users of ChatGPT."
+      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-12T12:00:01.000Z",
+      "simple_summary": "Meta and Nvidia are competing in the open-weight AI race, a competition mostly led by Chinese companies so far.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T17:41:22.000Z",
-      "simple_summary": "A brand-new AI startup called River AI just raised $1.1 billion in investment money, even though it's only two months old. The startup is building personal AI assistants.",
-      "why_it_matters": "This mostly matters to investors. It shows money is flowing to AI startups, but this particular company is too new to affect you yet."
-    },
-    {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
       "source": "The Verge",
-      "date": "2026-08-11T17:00:00.000Z",
-      "simple_summary": "Google is announcing new Pixel phones and devices on August 12th with new colors and features, including possibly a built-in light on the fancy models.",
-      "why_it_matters": "If you're thinking about buying a new Google phone, it might be worth waiting until August 12th to see what's new before you buy."
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch",
-      "date": "2026-08-11T16:25:20.000Z",
-      "simple_summary": "An AI model made by Anthropic (a company that creates AI) made progress on a very difficult unsolved math problem called the Riemann hypothesis, though it didn't completely solve it.",
-      "why_it_matters": "This is mostly for engineers and mathematicians — it shows AI can help with complex math, but it doesn't affect your daily life right now."
+      "date": "2026-08-12T11:58:54.000Z",
+      "simple_summary": "A company called Grok created an AI 'teammate' that can log into your apps and websites to do work tasks automatically.",
+      "why_it_matters": "If you have repetitive computer tasks, this kind of AI could eventually save you time by handling them without your help."
     }
   ]
 }
