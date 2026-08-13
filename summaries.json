@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-13T13:50:00.409Z",
+  "generated_at": "2026-08-13T19:27:36.094Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Courts shield AI prompts and outputs from discovery",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpwOUNMeDFxUXJEcWlSVTcyLVNRLWU5WVNyNF9CWDJwTDh2d2lPeUMwbGhibElfUndxS2tDRWhkNkNWWTM0c0pGMXFjdjV6T1pGMGFKRXQ3XzY3N09jeUZlbVNvWV9ucEJHbzZOc3dSaU12OTBQVGZFMWdNYkwyMXp4QThsc2FtTFoycHBfOXFaaElGQjdpLUVGcHUzaDRDd3hxS2ozaWVKUQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-13T12:13:31.000Z",
-      "simple_summary": "Courts are deciding that when people use AI systems in legal cases, the things they type into AI (called prompts) and the answers AI gives back don't have to be shared as evidence.",
-      "why_it_matters": "If you ever get involved in a lawsuit, this might protect some of your private conversations with AI tools — but this is mainly a legal issue that doesn't affect daily life."
+      "title": "Suno is trying to look more like a real music production tool",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "source": "The Verge",
+      "date": "2026-08-13T16:00:00.000Z",
+      "simple_summary": "Suno, which is an AI tool that creates music, is adding professional features like MIDI support so it works more like real music production software that musicians use.",
+      "why_it_matters": "If you're a musician or small music business, this could eventually make AI music tools more useful for your actual work — but it's still mainly for people who work with music regularly."
     },
     {
-      "title": "DeepSeek raises API pricing for its V4 models",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-13T11:57:43.000Z",
-      "simple_summary": "DeepSeek, a company that makes AI tools, is charging more money for people who use their newest AI models.",
-      "why_it_matters": "If you use DeepSeek's AI tools for your business, your costs will go up — but most small businesses use other AI tools like ChatGPT, so this might not affect you."
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TechCrunch",
+      "date": "2026-08-13T15:30:52.000Z",
+      "simple_summary": "Microsoft is combining its different AI assistant apps into one and shutting down some features that didn't work well, like AI-generated podcasts.",
+      "why_it_matters": "If you use Microsoft's Copilot (their AI helper), you'll have one app instead of several — simpler for you, but nothing urgent to worry about."
     },
     {
-      "title": "How Artificial Intelligence Disrupts Engineering Progression",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iajZ3Q1d4QnBvT0prWHVoSjU1cHl4ODRHa1RzSzJXcUpBZmowQVQtVmppMkdReVN3MVRLSi1pRkVUVVZYcnB3SDVWdk1MR2VLTVBUM3ZoMXdYWDdhZVp1RVZRQTRQeVIzVlBrNGFLX1B6UjZETWxF?oc=5",
-      "source": "infoq.com",
-      "date": "2026-08-13T11:28:33.000Z",
-      "simple_summary": "An article discusses how AI is changing the way engineers do their work and plan their careers.",
-      "why_it_matters": "This is mainly relevant to engineers and people hiring them — not something most small-business owners need to worry about right now."
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "source": "The Verge",
+      "date": "2026-08-13T15:30:00.000Z",
+      "simple_summary": "A movie was made partly with AI, and the review found that the human-made parts were noticeably better than the AI-generated parts.",
+      "why_it_matters": "This honestly doesn't affect you — it's mostly interesting to people in the movie business."
     },
     {
-      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-13T04:58:00.000Z",
-      "simple_summary": "Anthropic, a big AI company, is thinking about buying a smaller company called Decart for $6 billion.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "source": "TechCrunch",
+      "date": "2026-08-13T15:08:00.000Z",
+      "simple_summary": "Nvidia, the company that makes computer chips for AI, has a plan to keep its old chips valuable by getting companies to keep buying and using them.",
+      "why_it_matters": "This mostly matters to investors and big companies — nothing you need to think about for your business."
     },
     {
-      "title": "Why Japanese firms are being so slow to use AI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uX242OGh2amdJQ0Y3THpURy0wZTV6N0RCc1hkV1VVNzMwVVh2eTRsLWdzY2FZY21yUjd4LU9CV2NQUWpFdjVRZm8tUU84czQyQkxOTi1xcVd6UQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-12T23:00:47.000Z",
-      "simple_summary": "Japanese companies are slower than Western companies to start using AI in their businesses.",
-      "why_it_matters": "This is interesting news about business trends, but doesn't change anything about how or whether you should use AI."
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "source": "TechCrunch",
+      "date": "2026-08-13T14:34:43.000Z",
+      "simple_summary": "Apple is talking to news publishers about paying them money so that Siri (Apple's voice helper) can give you current news.",
+      "why_it_matters": "If you use Siri on an Apple phone, you might eventually get better, up-to-date news answers — but this is still in early talks."
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "source": "The Verge",
+      "date": "2026-08-13T14:10:31.000Z",
+      "simple_summary": "Google announced changes to how it's organizing its AI division, and people are wondering if Google is keeping up with the competition.",
+      "why_it_matters": "This is mainly about how a giant tech company is organized — it doesn't change anything for your daily life."
+    },
+    {
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "source": "The Verge",
+      "date": "2026-08-13T13:30:00.000Z",
+      "simple_summary": "Microsoft is combining its personal Copilot app with its work-focused Copilot app into one single app that works for both home and business.",
+      "why_it_matters": "If you use Microsoft Copilot at work and home, you'll have one app instead of two — convenient if you use it, but most small-business owners won't be affected."
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "TechCrunch",
       "date": "2026-08-12T22:26:37.000Z",
-      "simple_summary": "Anthropic (maker of Claude AI) is adding hidden marks to text that Claude creates, so people can tell if something was written by the AI — and some people are upset because their bosses or teachers might catch them using AI when they shouldn't.",
-      "why_it_matters": "If you use Claude at work or school and try to hide it, this makes that riskier — but if you're using AI honestly and telling people about it, this doesn't affect you."
+      "simple_summary": "Anthropic (a company that makes Claude, an AI assistant) is adding watermarks to show when something was made by their AI, and some people are upset because this might reveal they're using it at work or school.",
+      "why_it_matters": "If you use Claude and want to keep that private at work or school, this could be a concern — but most small-business owners won't be affected."
     },
     {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "source": "TechCrunch",
       "date": "2026-08-12T20:10:40.000Z",
-      "simple_summary": "Amazon has decided it will automatically use videos from Twitch streamers to teach its AI, unless streamers say no first.",
-      "why_it_matters": "If you stream on Twitch, your videos will be used to train Amazon's AI unless you specifically go into settings and turn it off."
-    },
-    {
-      "title": "AI was supposed to destroy jobs. Where’s the carnage?",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-12T18:57:00.000Z",
-      "simple_summary": "An article questions whether AI has really destroyed jobs the way many people predicted it would.",
-      "why_it_matters": "This is interesting to think about, but it's mainly analyzing trends — it doesn't tell you what will happen to your job or business."
+      "simple_summary": "Amazon says it will use videos from Twitch streamers (a streaming video platform) to train its AI, unless streamers specifically say no.",
+      "why_it_matters": "If you're a Twitch streamer, check your settings — your videos might be used for AI training unless you opt out."
     },
     {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "source": "TechCrunch",
       "date": "2026-08-12T18:19:12.000Z",
-      "simple_summary": "Cognition, a startup that uses AI to help write computer code, is trying to raise more money at a very high value ($40 billion).",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A startup called Cognition that makes AI coding tools is trying to raise more money at a very high value.",
+      "why_it_matters": "This is purely about investor deals — nothing you need to worry about."
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "source": "TechCrunch",
       "date": "2026-08-12T17:51:00.000Z",
-      "simple_summary": "Three famous AI experts are discussing whether AI should be kept open for everyone to use, or controlled more carefully, and how America can stay competitive with China.",
-      "why_it_matters": "This is about big policy and business strategy — not something that affects what you do with AI today."
+      "simple_summary": "Three famous AI scientists discussed whether AI tools should be freely available to everyone or more restricted, and whether the U.S. should regulate AI.",
+      "why_it_matters": "This is experts discussing big policy questions — nothing that affects you today, though these decisions could matter later."
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "source": "TechCrunch",
       "date": "2026-08-12T17:41:29.000Z",
-      "simple_summary": "A company called Thrive Holdings just raised $2 billion to build AI tools for businesses to use.",
-      "why_it_matters": "This mostly matters to investors — it doesn't change anything about AI tools available to you."
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge",
-      "date": "2026-08-12T17:29:10.000Z",
-      "simple_summary": "Twitch is now letting streamers choose NOT to have their videos used by Amazon to train AI.",
-      "why_it_matters": "If you stream on Twitch, you now have the option to protect your content from being used by Amazon's AI — and you should check your settings to do this if you want to."
+      "simple_summary": "A company called Thrive Holdings raised $2 billion in funding to build AI tools for businesses.",
+      "why_it_matters": "This is an investment story — nothing you need to act on right now."
     }
   ]
 }
