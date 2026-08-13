@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-13T07:55:22.186Z",
+  "generated_at": "2026-08-13T13:50:00.409Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI: The potential winners and loser in Northern Ireland",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZdW9PMDk0djVOVndHNG5wNEpkUTk5c2lObGVZVFplRUJjWXU4cDRyZXlfWDJ3Vmx3cWJ6dERwcl82VEh6TmtVZ1NqLU0wRVhUNGUzbUJSbWxEQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-13T05:17:09.000Z",
-      "simple_summary": "A story looking at which people and businesses in Northern Ireland might benefit from AI and which might struggle with it.",
-      "why_it_matters": "This mostly matters if you live or do business in Northern Ireland—others should look for similar local analyses for their own region."
+      "title": "Courts shield AI prompts and outputs from discovery",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpwOUNMeDFxUXJEcWlSVTcyLVNRLWU5WVNyNF9CWDJwTDh2d2lPeUMwbGhibElfUndxS2tDRWhkNkNWWTM0c0pGMXFjdjV6T1pGMGFKRXQ3XzY3N09jeUZlbVNvWV9ucEJHbzZOc3dSaU12OTBQVGZFMWdNYkwyMXp4QThsc2FtTFoycHBfOXFaaElGQjdpLUVGcHUzaDRDd3hxS2ozaWVKUQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-13T12:13:31.000Z",
+      "simple_summary": "Courts are deciding that when people use AI systems in legal cases, the things they type into AI (called prompts) and the answers AI gives back don't have to be shared as evidence.",
+      "why_it_matters": "If you ever get involved in a lawsuit, this might protect some of your private conversations with AI tools — but this is mainly a legal issue that doesn't affect daily life."
     },
     {
-      "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
+      "title": "DeepSeek raises API pricing for its V4 models",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
       "source": "Reuters",
-      "date": "2026-08-12T23:10:57.000Z",
-      "simple_summary": "Most Japanese companies haven't really started using AI yet, according to a recent survey.",
-      "why_it_matters": "This is mostly news for investors and tech experts—nothing you need to act on immediately."
+      "date": "2026-08-13T11:57:43.000Z",
+      "simple_summary": "DeepSeek, a company that makes AI tools, is charging more money for people who use their newest AI models.",
+      "why_it_matters": "If you use DeepSeek's AI tools for your business, your costs will go up — but most small businesses use other AI tools like ChatGPT, so this might not affect you."
+    },
+    {
+      "title": "How Artificial Intelligence Disrupts Engineering Progression",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iajZ3Q1d4QnBvT0prWHVoSjU1cHl4ODRHa1RzSzJXcUpBZmowQVQtVmppMkdReVN3MVRLSi1pRkVUVVZYcnB3SDVWdk1MR2VLTVBUM3ZoMXdYWDdhZVp1RVZRQTRQeVIzVlBrNGFLX1B6UjZETWxF?oc=5",
+      "source": "infoq.com",
+      "date": "2026-08-13T11:28:33.000Z",
+      "simple_summary": "An article discusses how AI is changing the way engineers do their work and plan their careers.",
+      "why_it_matters": "This is mainly relevant to engineers and people hiring them — not something most small-business owners need to worry about right now."
+    },
+    {
+      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-13T04:58:00.000Z",
+      "simple_summary": "Anthropic, a big AI company, is thinking about buying a smaller company called Decart for $6 billion.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uX242OGh2amdJQ0Y3THpURy0wZTV6N0RCc1hkV1VVNzMwVVh2eTRsLWdzY2FZY21yUjd4LU9CV2NQUWpFdjVRZm8tUU84czQyQkxOTi1xcVd6UQ?oc=5",
+      "source": "BBC",
+      "date": "2026-08-12T23:00:47.000Z",
+      "simple_summary": "Japanese companies are slower than Western companies to start using AI in their businesses.",
+      "why_it_matters": "This is interesting news about business trends, but doesn't change anything about how or whether you should use AI."
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "TechCrunch",
       "date": "2026-08-12T22:26:37.000Z",
-      "simple_summary": "Anthropic (a company making an AI called Claude) is adding digital watermarks to show when someone used their AI tool, and some people are upset because it might reveal they used AI at work or in class when they weren't supposed to.",
-      "why_it_matters": "If you use Claude, just know it will leave a mark showing you used it—so don't use it to hide things you should be doing yourself."
+      "simple_summary": "Anthropic (maker of Claude AI) is adding hidden marks to text that Claude creates, so people can tell if something was written by the AI — and some people are upset because their bosses or teachers might catch them using AI when they shouldn't.",
+      "why_it_matters": "If you use Claude at work or school and try to hide it, this makes that riskier — but if you're using AI honestly and telling people about it, this doesn't affect you."
     },
     {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "source": "TechCrunch",
       "date": "2026-08-12T20:10:40.000Z",
-      "simple_summary": "Amazon plans to use videos from Twitch streamers (the platform where people broadcast themselves playing games or doing other things) to teach an AI, unless streamers say no to it.",
-      "why_it_matters": "If you stream on Twitch, you should check your settings and opt out if you don't want Amazon using your videos to train their AI."
-    },
-    {
-      "title": "OpenAI’s “Head of Ethics” Suddenly Leaves Company Under Mysterious Circumstances",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGR2ZVhoc2dEN3hsQ2U1SDJrbXVSazVKQ0RZUmNadjRST1RnYU1tOEN6SlZZdk1tVlQ3YUR2VV9Vc21ZdHJyazBDbFhtVldmVUtmd01WTEMzNlRadDk2S190TWdHajFIRVBRTVlOUzJhYXBPZ0pHNDdxbFczQWdKanNIZ3dDbHg5U1E?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-12T20:08:28.000Z",
-      "simple_summary": "The person leading ethics work at OpenAI (a major AI company) left their job suddenly, and the reasons aren't clear.",
-      "why_it_matters": "This is mostly relevant to people working in AI companies—nothing an ordinary person needs to worry about."
+      "simple_summary": "Amazon has decided it will automatically use videos from Twitch streamers to teach its AI, unless streamers say no first.",
+      "why_it_matters": "If you stream on Twitch, your videos will be used to train Amazon's AI unless you specifically go into settings and turn it off."
     },
     {
       "title": "AI was supposed to destroy jobs. Where’s the carnage?",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
       "source": "The Guardian",
       "date": "2026-08-12T18:57:00.000Z",
-      "simple_summary": "A news story asking why AI hasn't eliminated lots of jobs yet, when people expected it would by now.",
-      "why_it_matters": "This is worth reading if you worry about AI taking jobs, but honestly, jobs are changing slower than the panic suggested."
+      "simple_summary": "An article questions whether AI has really destroyed jobs the way many people predicted it would.",
+      "why_it_matters": "This is interesting to think about, but it's mainly analyzing trends — it doesn't tell you what will happen to your job or business."
     },
     {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "source": "TechCrunch",
       "date": "2026-08-12T18:19:12.000Z",
-      "simple_summary": "A startup company that makes AI to help write computer code is trying to raise more money at a very high estimated value.",
-      "why_it_matters": "This mostly matters to investors—nothing you need to do."
+      "simple_summary": "Cognition, a startup that uses AI to help write computer code, is trying to raise more money at a very high value ($40 billion).",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "source": "TechCrunch",
       "date": "2026-08-12T17:51:00.000Z",
-      "simple_summary": "Three famous AI experts had a discussion about whether AI tools should be kept secret or shared openly, and how America can compete with China in AI.",
-      "why_it_matters": "This is mostly for policy makers and tech leaders—not something ordinary people need to act on."
+      "simple_summary": "Three famous AI experts are discussing whether AI should be kept open for everyone to use, or controlled more carefully, and how America can stay competitive with China.",
+      "why_it_matters": "This is about big policy and business strategy — not something that affects what you do with AI today."
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "source": "TechCrunch",
       "date": "2026-08-12T17:41:29.000Z",
-      "simple_summary": "A company called Thrive Holdings that helps businesses use AI just raised billions of dollars in new funding.",
-      "why_it_matters": "This is mostly relevant to investors and large companies—nothing an ordinary person needs to know."
+      "simple_summary": "A company called Thrive Holdings just raised $2 billion to build AI tools for businesses to use.",
+      "why_it_matters": "This mostly matters to investors — it doesn't change anything about AI tools available to you."
     },
     {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "source": "The Verge",
       "date": "2026-08-12T17:29:10.000Z",
-      "simple_summary": "Twitch streamers now have the option to prevent Amazon from using their videos and chat messages to train AI.",
-      "why_it_matters": "If you stream on Twitch and don't want Amazon using your content, you can now turn this off in your settings."
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch",
-      "date": "2026-08-12T16:57:58.000Z",
-      "simple_summary": "A company made an AI-powered app that helps you keep track of your contacts and relationships, and it now works on Android phones (like Samsung).",
-      "why_it_matters": "If you want an app to help organize your contacts and remember details about people you know, this is a new option to try."
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch",
-      "date": "2026-08-12T16:46:02.000Z",
-      "simple_summary": "Companies are making small wearable devices like rings and earbuds that use AI to record your thoughts and meetings throughout the day and turn them into notes.",
-      "why_it_matters": "If you attend lots of meetings or have many ideas to capture, these devices might save you time writing notes—but they're still new and you should check privacy settings."
+      "simple_summary": "Twitch is now letting streamers choose NOT to have their videos used by Amazon to train AI.",
+      "why_it_matters": "If you stream on Twitch, you now have the option to protect your content from being used by Amazon's AI — and you should check your settings to do this if you want to."
     }
   ]
 }
