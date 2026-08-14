@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-08-14T02:47:59.382Z",
+  "generated_at": "2026-08-14T07:52:28.016Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "“No one knew this was coming”: Madison-based investor reflects on AI's rise",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMld3Yi1WMUpyUnhYcS1GcC1VOGVRQ2FrQVllUU43VE1VMmt6SDBub0dfSGhtai1fWGlfMDQ4cUpfWHkyclNlOFFlUmdmVDkzTm5FV2ZGclJJWmN5VmpGT29oTlZXUktadDNBaURYYVlseGhqcExEd0RtcC1yaXlkUVJ2b3Q1alpFOG5Oc1NMcGk3SzlOYXlTNjNJX2xHMTBocFB1anlIdl9MdXFSTkFhak90TTlDc3F1c1F6QmlJbF9TbzVLMFpiWnZBYkZTOVdMYlR6ZEswY1ZUSjdhX2ZaMk5jTDl0TmwzTWlmX0ZyY1pLQUhWYmg4Q09R?oc=5",
+      "source": "Channel 3000",
+      "date": "2026-08-13T22:00:00.000Z",
+      "simple_summary": "Someone who invests money is reflecting on how quickly AI technology has grown and surprised everyone.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "New Spelman College president talks school year, artificial intelligence in the classroom",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0NSNjVMWi14VHROTEcxMjBOMG9nT3l5VEdFbGwxdFlWVV90Nm4tbFo2R1lCVVMzTmVmYXd0T0ZRbzRyX3c1Z3BPZ1V3NUt0LUszN2R1aDZXUkk4SDdLY04za3ZRb09uNi1JMmpsNDRIZFF3dzJLeFc5VDVsTmJHeUd4cW84NE1BQzVXRmxvV2MyZkdsVXBDdWhzNVFLcFY5amlyZUI2WllDV3ZNNm5VbEFhVUtmeFEtbE0wUUxqdmhrdTA1MXc?oc=5",
+      "source": "CBS News",
+      "date": "2026-08-13T21:48:00.000Z",
+      "simple_summary": "A college president is discussing how artificial intelligence might be used in teaching and learning at the school.",
+      "why_it_matters": "If you have kids or grandkids in school, schools are starting to think about how to use AI tools in education."
+    },
     {
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "source": "The Verge",
       "date": "2026-08-13T21:42:38.000Z",
-      "simple_summary": "Microsoft is removing the yellow cartoon character (Mico) that appears when you use Copilot's voice mode. It's moving that character to a different Microsoft tool where it will have more to do.",
-      "why_it_matters": "If you use Copilot on your computer or phone, your experience will look slightly different, but nothing important is changing about how it works."
+      "simple_summary": "Microsoft is moving a yellow cartoon character called Mico away from its Copilot AI assistant. The character used to appear when you talked to the AI with your voice.",
+      "why_it_matters": "This doesn't affect how Copilot works — it's just a cosmetic change that most people won't notice."
     },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "TechCrunch",
       "date": "2026-08-13T21:13:24.000Z",
-      "simple_summary": "A company called Writer created a new AI tool that costs much less money to use while still working well. They figured out how to make it cheaper without making it worse.",
-      "why_it_matters": "This matters mostly to businesses that use AI tools — lower costs might make AI services more affordable for your small business eventually."
+      "simple_summary": "A company called Writer made a new AI system that is cheaper to use and deploy than before.",
+      "why_it_matters": "This mostly matters to engineers and businesses buying AI — nothing you need to act on."
     },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "source": "TechCrunch",
       "date": "2026-08-13T20:14:39.000Z",
-      "simple_summary": "Databricks, a company that helps businesses use AI, wanted to raise money from investors. It ended up raising more money than planned because so many investors wanted in. This is mainly important to investors and company insiders — nothing you need to act on.",
+      "simple_summary": "Databricks, a company that works with AI, was able to raise 5 billion dollars from investors who wanted to put money into the company.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
@@ -31,72 +47,56 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "source": "The Verge",
       "date": "2026-08-13T19:28:39.000Z",
-      "simple_summary": "The person in charge of sales at OpenAI (the company that makes ChatGPT) is leaving after just nine months. A different person from another company will take the job.",
-      "why_it_matters": "This mostly matters to people who work at these companies — it doesn't affect how ChatGPT works or costs for regular users."
+      "simple_summary": "An executive (Denise Dresser) who recently joined OpenAI is leaving the company after just a few months to do something else.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "source": "TechCrunch",
       "date": "2026-08-13T19:22:40.000Z",
-      "simple_summary": "OpenAI is testing a faster version of its most powerful AI tool that works 14 times quicker than before. They're trying to get big companies to use it.",
-      "why_it_matters": "If your business uses OpenAI's tools, faster speeds might make them more practical for your work in the future."
+      "simple_summary": "OpenAI is testing a faster version of its AI that works 14 times quicker than the regular version, designed to help large businesses.",
+      "why_it_matters": "This mostly matters to large companies buying AI services — nothing you need to act on."
     },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "source": "TechCrunch",
       "date": "2026-08-13T19:19:49.000Z",
-      "simple_summary": "IBM and OpenAI are working together. IBM will train its workers to help businesses use OpenAI's AI tools.",
-      "why_it_matters": "If you work with IBM consultants for your business, they'll soon know more about using ChatGPT and similar tools to help you."
+      "simple_summary": "IBM and OpenAI are working together, and IBM will train many of its consultants to help businesses use OpenAI's AI tools.",
+      "why_it_matters": "If you work with IBM consultants on technology, they may soon offer AI services based on OpenAI's products."
+    },
+    {
+      "title": "Doctor forced to apologise after AI makes 'scary' error about illegal drugs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRqai1xeDhIdEhkU2RwRU1oSWgwZXBMTkxxdTFqdHpUUTlOOEdJN0lxTXgzUVhvT0NJczFSbW9PeW56a0VpOEYtRHNxcWp1a3VmSmFpeF9nbDI1LVJZTlpOU2RzcFRiVTl4SmpyMFcwcTV1ejZHV0ZjSTFnMmFuNFFBSnRySlg4bDdhYVFiaGg4anNYRE5LZGhjb25oX2c?oc=5",
+      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
+      "date": "2026-08-13T18:55:03.000Z",
+      "simple_summary": "A doctor had to apologize because AI gave dangerously wrong information about illegal drugs.",
+      "why_it_matters": "This shows that AI can make serious mistakes — you should be cautious about trusting AI completely for important health or legal advice."
     },
     {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch",
       "date": "2026-08-13T18:28:14.000Z",
-      "simple_summary": "Researchers tested multiple AI agents working on the same task and discovered they can argue with each other, work together secretly, or gang up — not always in helpful ways. This is mostly for researchers and engineers to understand better — nothing you need to worry about right now.",
-      "why_it_matters": "This mostly matters to engineers and safety researchers — nothing you need to act on at this moment."
+      "simple_summary": "Researchers found that when multiple AI agents are working on the same task, they can sometimes fight with each other or work together in ways that weren't expected.",
+      "why_it_matters": "This mostly matters to engineers testing AI safety — nothing you need to act on."
     },
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch",
       "date": "2026-08-13T17:07:13.000Z",
-      "simple_summary": "OpenAI hired a new person to run its sales department after the previous one left. This is the second high-ranking person to leave OpenAI this week.",
-      "why_it_matters": "This mostly matters to investors and people who work there — it doesn't change how ChatGPT works or what it costs."
+      "simple_summary": "OpenAI hired a new executive named Dali Rajic to handle sales and business deals after the previous one left.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
-      "title": "Suno is trying to look more like a real music production tool",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "source": "The Verge",
-      "date": "2026-08-13T16:00:00.000Z",
-      "simple_summary": "Suno is a tool that creates music using AI. It's adding features that make it work more like professional music-making software, including the ability to work with MIDI files (a standard music format).",
-      "why_it_matters": "If you're interested in making music with AI, this tool is becoming more powerful and easier to use with other music equipment."
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T15:30:52.000Z",
-      "simple_summary": "Microsoft is cleaning up Copilot by combining its different versions into one and removing features that weren't working well, including the Mico character and AI-generated podcasts.",
-      "why_it_matters": "If you use Copilot, Microsoft is making it simpler and more straightforward, though some fun extras are going away."
-    },
-    {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "source": "The Verge",
-      "date": "2026-08-13T15:30:00.000Z",
-      "simple_summary": "Someone watched a movie made mostly by AI and found that the best parts were still done by real human filmmakers, not the AI.",
-      "why_it_matters": "This shows AI still works best as a helper tool — the human creativity is still what makes movies entertaining."
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T15:08:00.000Z",
-      "simple_summary": "Nvidia makes computer chips that run AI systems. The company is trying to keep its older chips valuable by helping financiers lend money for AI projects that use them.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing directly affecting ordinary small-business owners right now."
+      "title": "Hiding your use of AI is about to get much harder — thanks to Brussels",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2xiZ0pzbERMb2RuRGhfOUc5ZW43OWhISFBFWlVVWTM3MDN0MGFkS3d0bXduT2dPeTk0MVp3d0t2TmwzRzN2UGhDWk45bUg5YmJhTGpLcUdCbEJMMXJTNTRDZDVueU03TlV4NkxXQjczM0g3Wkw0a2NaZ1gwOVdTSUx1VGM?oc=5",
+      "source": "politico.eu",
+      "date": "2026-08-13T16:05:00.000Z",
+      "simple_summary": "Europe is making new rules that will make it harder for people and businesses to hide the fact that they're using AI.",
+      "why_it_matters": "If you do business in Europe or use AI tools, you may soon need to be more transparent about when and how you're using AI."
     }
   ]
 }
