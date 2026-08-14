@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-14T07:52:28.016Z",
+  "generated_at": "2026-08-14T13:45:48.693Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "“No one knew this was coming”: Madison-based investor reflects on AI's rise",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMld3Yi1WMUpyUnhYcS1GcC1VOGVRQ2FrQVllUU43VE1VMmt6SDBub0dfSGhtai1fWGlfMDQ4cUpfWHkyclNlOFFlUmdmVDkzTm5FV2ZGclJJWmN5VmpGT29oTlZXUktadDNBaURYYVlseGhqcExEd0RtcC1yaXlkUVJ2b3Q1alpFOG5Oc1NMcGk3SzlOYXlTNjNJX2xHMTBocFB1anlIdl9MdXFSTkFhak90TTlDc3F1c1F6QmlJbF9TbzVLMFpiWnZBYkZTOVdMYlR6ZEswY1ZUSjdhX2ZaMk5jTDl0TmwzTWlmX0ZyY1pLQUhWYmg4Q09R?oc=5",
-      "source": "Channel 3000",
-      "date": "2026-08-13T22:00:00.000Z",
-      "simple_summary": "Someone who invests money is reflecting on how quickly AI technology has grown and surprised everyone.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "date": "2026-08-14T09:21:17.000Z",
+      "simple_summary": "Apple created its own AI assistant specifically for China by working with a Chinese company called Alibaba. This is unusual because the US and China usually don't work together on technology.",
+      "why_it_matters": "This doesn't affect you directly unless you use Apple products in China. It shows Apple is trying to follow local rules in different countries."
     },
     {
-      "title": "New Spelman College president talks school year, artificial intelligence in the classroom",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0NSNjVMWi14VHROTEcxMjBOMG9nT3l5VEdFbGwxdFlWVV90Nm4tbFo2R1lCVVMzTmVmYXd0T0ZRbzRyX3c1Z3BPZ1V3NUt0LUszN2R1aDZXUkk4SDdLY04za3ZRb09uNi1JMmpsNDRIZFF3dzJLeFc5VDVsTmJHeUd4cW84NE1BQzVXRmxvV2MyZkdsVXBDdWhzNVFLcFY5amlyZUI2WllDV3ZNNm5VbEFhVUtmeFEtbE0wUUxqdmhrdTA1MXc?oc=5",
-      "source": "CBS News",
-      "date": "2026-08-13T21:48:00.000Z",
-      "simple_summary": "A college president is discussing how artificial intelligence might be used in teaching and learning at the school.",
-      "why_it_matters": "If you have kids or grandkids in school, schools are starting to think about how to use AI tools in education."
+      "title": "Educators at an 'inflection point' as AI prompts changes to instruction, lesson planning",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRDlCS2lpcGtpS1hFcVZST1M4TWM5VHRHbHQ3aVVMM3dsUEJaa3ZxWElkeTZIdXh5WjU4ZEJfU1NSYkRER2RYTE9uNDlkeXNtM0dad2NGS0xKLXNuWHlIVGZsQnRxV0k2WEljWldqeGlHMVN0Mi1fMGxrSmxmN1ZrYy1Rd09ha19DWXRpTl95bE1hLTJ4TE1sS3hpQVotVm5qXzdVdmltSkhiTHZvQy1jRUZSNGtJbUlyZ2tvV29JUTI4NXBDa2RlczgtWG1BS3dJUzZJYUZRR0F0SmNYUnZnUk9ISFo2c09WRFl1NjNUS1B2QVNGUkZCTUhMUlpFTlA2WlBkSA?oc=5",
+      "source": "LancasterOnline",
+      "date": "2026-08-14T09:00:00.000Z",
+      "simple_summary": "Teachers are having to change how they teach because of AI tools becoming available to students.",
+      "why_it_matters": "If you have school-age children or grandchildren, their learning experience may be changing — teachers are figuring out new ways to use AI rather than just stopping students from using it."
+    },
+    {
+      "title": "We asked Google Geminin AI about incorporating AI in classrooms: here's its response",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX1ZQUFB6T2FkQTUyajdpUFNMd2xKeXdvV3gyR1lSdzFqTVFDWUhrbzRJbWxTOGJneWNCeVFiLVZ5ZFBodm1KdG9RdU5rMDVOdHg1SUh5S280MmdMR2xfMWFlTTlBX2JtUU9PX1h2UnNlZ18wS3ZDa1NQWFZNRDBpZkFDdGhad1JLYjVNOTkwNThhZ2w4U2Q0MHpMMzRGYTEtMDJfRl9vUFc5SVZPR2FjTVhjVDdaOTg1RXBpbTdsWjdmdUFGWnR3WFlKMk1SMXFPdGI2SktMcC02ZlhVZS1kZzY5aXNMdG40LUVlQnZzMTFEWmUtTS1FYUZyeGg0Snpz?oc=5",
+      "source": "LancasterOnline",
+      "date": "2026-08-14T09:00:00.000Z",
+      "simple_summary": "Google's AI system was asked what it thinks about using AI in classrooms, and it gave an answer.",
+      "why_it_matters": "This is mostly a news story about what the AI said — nothing you need to do about it."
+    },
+    {
+      "title": "China urged to avoid ‘us or them’ split with US over AI governance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEJDRTJYaTRPZ3FMUkRkZnA0aV8zcGI5dHRZQXU4SWcxUlA1eVFNWGQzY0VEbDFIVUhaNUVoNDRUWF9wN3YteEh6MWVkZUFqYmFNdDVuVnJuOHI5ek15aHRuVnFJdjI2RzJxY1NGbHhRY3VZRjBBMWhVVHcxVG5oRnZfcm1DZlUwUzlVdm1oMUZZbzdUZENRSWxFWGRSemwyNmdUblhYOEtyUlFidlZXQU1JUlnSAbQBQVVfeXFMT3hTRGdqUGo2X3duRVpYMDZMUWFiVWc5dmxlRDlsRGpEdWlZZ1JnVmZ3S2hVdVRrWWR2cTU0djgzbjdITWlfc2o3T3BFTzdyVWoza2lkYUZfYVVLQVNIVDNVMnZ0a0FONmppcU9lVVJ2MTU5QVlRMHpQSnQwWGlWZVJTQVdsdUs0MU9LM3V3Qk5vRldQellubHBsZzBxMkxURU1NU3ZNa0NvTWVFUDhDeEFBLXE3?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-08-14T08:28:53.000Z",
+      "simple_summary": "China and the US are discussing how to handle AI rules and whether they should work together or separately.",
+      "why_it_matters": "This mostly matters to governments and large companies — nothing you need to act on in your daily life."
+    },
+    {
+      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-14T04:21:00.000Z",
+      "simple_summary": "Apple is training its own AI system for China with help from Alibaba, a major Chinese tech company.",
+      "why_it_matters": "This is the same story as headline 0 — if you use Apple products in China, the company is making sure its AI follows Chinese rules."
     },
     {
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "source": "The Verge",
       "date": "2026-08-13T21:42:38.000Z",
-      "simple_summary": "Microsoft is moving a yellow cartoon character called Mico away from its Copilot AI assistant. The character used to appear when you talked to the AI with your voice.",
-      "why_it_matters": "This doesn't affect how Copilot works — it's just a cosmetic change that most people won't notice."
+      "simple_summary": "Microsoft is removing a cute yellow character called Mico from its Copilot chatbot because it wasn't working well in voice mode.",
+      "why_it_matters": "If you use Microsoft Copilot, you might notice the character looks different or disappears — this is just a cosmetic change and won't affect how well it works."
     },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "TechCrunch",
       "date": "2026-08-13T21:13:24.000Z",
-      "simple_summary": "A company called Writer made a new AI system that is cheaper to use and deploy than before.",
-      "why_it_matters": "This mostly matters to engineers and businesses buying AI — nothing you need to act on."
+      "simple_summary": "A company called Writer created a cheaper version of AI software that costs less to use.",
+      "why_it_matters": "This mostly matters to businesses that use AI services — lower costs could eventually mean cheaper AI tools for small business owners, but this is early news."
+    },
+    {
+      "title": "Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmEzZExWQmxsZmtBNUxvM2V4RVN1aWgxZzdTanpiN3ZDV2ZmWjZjLTgtU1NhNnJBTFp0empSaFZnc0kwMnlqNU8xcnUzSkFEN25WTzlkbE9zM25vYW5XY0diQ20tWkNHelZYUnR2UllwSTI0X0lJZVJNcE9JU293bi1ZWEdSOHZlSEZERkd4aXM5dDdFUjE0YjFBeXA0TVY4LTVmdy1jajVmbmJ5TExEbUFUdTRTb2wtQWc?oc=5",
+      "source": "Simons Foundation",
+      "date": "2026-08-13T20:54:15.000Z",
+      "simple_summary": "A famous mathematician gave a talk about AI and why mathematics is important.",
+      "why_it_matters": "This is mostly of interest to people in math and science — nothing you need to act on."
     },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "source": "TechCrunch",
       "date": "2026-08-13T20:14:39.000Z",
-      "simple_summary": "Databricks, a company that works with AI, was able to raise 5 billion dollars from investors who wanted to put money into the company.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A company called Databricks was trying to raise money for AI investments and ended up getting more money than planned, at a very high company value.",
+      "why_it_matters": "This mostly matters to investors — it shows people think AI companies are worth a lot of money, but it doesn't change anything for your business unless you invest in tech stocks."
     },
     {
       "title": "OpenAI is losing its second executive this week",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "source": "The Verge",
       "date": "2026-08-13T19:28:39.000Z",
-      "simple_summary": "An executive (Denise Dresser) who recently joined OpenAI is leaving the company after just a few months to do something else.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Two important leaders are leaving OpenAI (the company that makes ChatGPT) to take other jobs.",
+      "why_it_matters": "This mostly matters to investors and people working at OpenAI — staff changes at big tech companies don't usually affect regular users."
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "source": "TechCrunch",
       "date": "2026-08-13T19:22:40.000Z",
-      "simple_summary": "OpenAI is testing a faster version of its AI that works 14 times quicker than the regular version, designed to help large businesses.",
-      "why_it_matters": "This mostly matters to large companies buying AI services — nothing you need to act on."
+      "simple_summary": "OpenAI released a faster version of its most powerful AI that works 14 times quicker than before.",
+      "why_it_matters": "If you use OpenAI's ChatGPT for business or work, you might get faster answers soon, but this is mainly aimed at large companies right now."
     },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "source": "TechCrunch",
       "date": "2026-08-13T19:19:49.000Z",
-      "simple_summary": "IBM and OpenAI are working together, and IBM will train many of its consultants to help businesses use OpenAI's AI tools.",
-      "why_it_matters": "If you work with IBM consultants on technology, they may soon offer AI services based on OpenAI's products."
-    },
-    {
-      "title": "Doctor forced to apologise after AI makes 'scary' error about illegal drugs",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRqai1xeDhIdEhkU2RwRU1oSWgwZXBMTkxxdTFqdHpUUTlOOEdJN0lxTXgzUVhvT0NJczFSbW9PeW56a0VpOEYtRHNxcWp1a3VmSmFpeF9nbDI1LVJZTlpOU2RzcFRiVTl4SmpyMFcwcTV1ejZHV0ZjSTFnMmFuNFFBSnRySlg4bDdhYVFiaGg4anNYRE5LZGhjb25oX2c?oc=5",
-      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
-      "date": "2026-08-13T18:55:03.000Z",
-      "simple_summary": "A doctor had to apologize because AI gave dangerously wrong information about illegal drugs.",
-      "why_it_matters": "This shows that AI can make serious mistakes — you should be cautious about trusting AI completely for important health or legal advice."
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T18:28:14.000Z",
-      "simple_summary": "Researchers found that when multiple AI agents are working on the same task, they can sometimes fight with each other or work together in ways that weren't expected.",
-      "why_it_matters": "This mostly matters to engineers testing AI safety — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T17:07:13.000Z",
-      "simple_summary": "OpenAI hired a new executive named Dali Rajic to handle sales and business deals after the previous one left.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Hiding your use of AI is about to get much harder — thanks to Brussels",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2xiZ0pzbERMb2RuRGhfOUc5ZW43OWhISFBFWlVVWTM3MDN0MGFkS3d0bXduT2dPeTk0MVp3d0t2TmwzRzN2UGhDWk45bUg5YmJhTGpLcUdCbEJMMXJTNTRDZDVueU03TlV4NkxXQjczM0g3Wkw0a2NaZ1gwOVdTSUx1VGM?oc=5",
-      "source": "politico.eu",
-      "date": "2026-08-13T16:05:00.000Z",
-      "simple_summary": "Europe is making new rules that will make it harder for people and businesses to hide the fact that they're using AI.",
-      "why_it_matters": "If you do business in Europe or use AI tools, you may soon need to be more transparent about when and how you're using AI."
+      "simple_summary": "IBM and OpenAI are partnering to train thousands of IBM's consultants (people who give advice to businesses) on how to use OpenAI's AI tools.",
+      "why_it_matters": "If your small business hires a consultant, they may soon have training on AI tools — this could help them suggest good AI solutions for your company."
     }
   ]
 }
