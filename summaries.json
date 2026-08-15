@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-14T19:15:58.228Z",
+  "generated_at": "2026-08-15T01:51:07.208Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Sacramento-area school district promotes AI literacy in the classroom",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnJrS2E3WHlnOV9STVhfZlJqbVVVRmZyRlc4S0JDeWdPVU0tRHMyejBXWEdaLU1zVmdZcmU4NFlFSWo3eG9yZlJTUHdTTmJMVEU3Q3JJODY2STl3YllVektXRzFQX0xTc3QwR3NSd2MzaDU1a3lETHRkNWVsR2xiWGxNenFoTE9fZlAycTE4NFFfUW9iYUtLYXctYUZMRWJPSDFN?oc=5",
+      "source": "CBS News",
+      "date": "2026-08-15T00:15:55.000Z",
+      "simple_summary": "A school district in Sacramento is teaching students about AI and how it works. They want young people to understand this technology that's becoming part of everyday life.",
+      "why_it_matters": "If you have grandchildren in school, they're learning about AI earlier than previous generations did, which prepares them for jobs in the future."
+    },
+    {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge",
+      "date": "2026-08-14T16:54:16.000Z",
+      "simple_summary": "Instagram changed its logo and the way its name looks. The new design looks quite different from what people are used to seeing.",
+      "why_it_matters": "This is mostly a visual change that doesn't affect how the app works — just a new look for the brand."
+    },
     {
       "title": "You can now turn off Google Gemini’s visible watermarks",
       "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
       "source": "The Verge",
       "date": "2026-08-14T16:39:32.000Z",
-      "simple_summary": "Google is letting people remove the visible sparkly watermark that appears on images and videos created by its AI tools. The watermark will still exist invisibly in the background to track that it's AI-made.",
-      "why_it_matters": "If you use Google's AI tools to create images or videos, you now have the choice to hide the watermark — but honestly, this mostly affects people making content for social media or business use."
+      "simple_summary": "Google is letting people remove the little sparkly watermark that appears on images, videos, and music created by its AI tools. A watermark is a tiny mark (like a signature on a painting) that shows something was made by AI.",
+      "why_it_matters": "If you use Google's AI to create images for your small business, you can now remove that AI watermark, though Google will still track it invisibly behind the scenes."
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "source": "TechCrunch",
       "date": "2026-08-14T16:13:40.000Z",
-      "simple_summary": "Google's AI image and video tools will let users hide the visible watermark while keeping a hidden watermark that only Google's systems can detect.",
-      "why_it_matters": "Same as above — this is mainly for people actively creating content with Google's AI, not something most small business owners need to think about."
+      "simple_summary": "Google will keep an invisible watermark on AI-created files even when you turn off the visible sparkly watermark. This invisible mark helps identify that something was made by AI.",
+      "why_it_matters": "This is a technical clarification — it means Google can still prove a file came from their AI even when you remove the visible watermark."
+    },
+    {
+      "title": "The unexpected issue dividing parties and midterms candidates",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkpMdUdUMnZwTTBfUGJSNGZSRmFIWmJ2WGJaV09RRHVCVkZXWVpaUFRKbWo4MEhpWTE3ZUI5eEZmVFF6a3J6TDVnZ0F3UEoxZ2o3VGhnMmJYb19hXzBKelR6a2RqejhNLWlpS3IyczQ4U2dPNzAxZWVGdXdJc0p5cGRNNi0yR2s2OVVlU1lMaFZJY1d2Z1haMzlHZk5JTUdjeVlwaFlUTzFtMjQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-14T16:00:00.000Z",
+      "simple_summary": "The headline doesn't explain what the issue is, so we can't tell you what's really happening here.",
+      "why_it_matters": "Without more details, we can't say whether this affects you."
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "source": "TechCrunch",
       "date": "2026-08-14T15:43:28.000Z",
-      "simple_summary": "Meta released an AI tool called Glimmer that anyone can download and use on their own computer, and Mark Zuckerberg said AI should be available to everyone rather than locked away by big companies.",
-      "why_it_matters": "If you want to experiment with AI tools, Meta is making one easier to access than before — but this is mostly important for tech enthusiasts and doesn't change much for everyday use."
+      "simple_summary": "Mark Zuckerberg released a new AI tool that anyone can download and use on their own computer. He says AI should be available to everyone, not just locked up by big companies.",
+      "why_it_matters": "This mostly matters to people interested in AI development — most small business owners won't download and run AI software on their own computers."
     },
     {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:50:11.000Z",
-      "simple_summary": "A company called Kog thinks there's a better way to run AI on the special computer chips that power AI systems, and that those chips aren't as bad at certain jobs as people thought.",
-      "why_it_matters": "This is purely a technical matter for engineers and data centers — nothing relevant to your business or daily life."
+      "simple_summary": "A company called Kog is working on making AI run faster on certain computer hardware that some people thought wasn't suitable for this job. This is mostly about technical computer improvements.",
+      "why_it_matters": "This matters to engineers and data center companies — nothing you need to worry about in your daily life or business."
+    },
+    {
+      "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-14T14:44:23.000Z",
+      "simple_summary": "Amazon and Alphabet (Google's parent company) are making large profits from selling AI services and technology. The article looks at why the AI boom is profitable for these companies.",
+      "why_it_matters": "This mostly matters to investors — it shows these big companies are making money from AI, but doesn't change how you'd use AI in your business."
     },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:05:00.000Z",
-      "simple_summary": "If natural gas prices jump sharply in the coming years, the huge computer warehouses that power AI services could face very expensive electricity bills.",
-      "why_it_matters": "This could eventually make AI services more expensive for companies that use them, but that's still uncertain and not something to worry about right now."
+      "simple_summary": "Natural gas prices might triple in some parts of the country. Big tech companies that run AI data centers (huge computer facilities) use a lot of natural gas for electricity, so their bills could become very expensive.",
+      "why_it_matters": "If natural gas prices rise, it could make AI services more expensive for everyone, which might raise prices for small businesses that use AI tools."
     },
     {
       "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
       "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:00:00.000Z",
-      "simple_summary": "Meta released a free AI tool people can use themselves while keeping a more powerful AI tool locked to its own service, alongside Mark Zuckerberg's statement that AI should belong to everyone.",
-      "why_it_matters": "This is mostly a philosophical and business question for tech investors — the practical impact on ordinary people is very limited."
+      "simple_summary": "Meta released a free AI model people can download and use. The company also made a deal (mentioned as \"gone wrong\") but the details aren't explained in the headline.",
+      "why_it_matters": "The free AI tool part doesn't affect most small business owners, and without knowing what deal went wrong, we can't say if it matters to you."
+    },
+    {
+      "title": "Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stock Could Be the Next Nvidia.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1lqZTE3dmJEaW1sd0hsdGs2NWMzR2tycU1JLTlYVW9XUk1SM2ZoY0lGendPdmVTanNvNWpvRnIwTkxIdTVNRzg5TzZtMzA5ZUw0a25jZ1RYY1N6MFcxMUZ0UXVvYmM5M3ZZejNaYXJ0MVFuNDNib05FQVRXTkdpR3RjdVlWeWVTdjhUTURfdTFseXNLZTBTYg?oc=5",
+      "source": "fool.com",
+      "date": "2026-08-14T12:00:00.000Z",
+      "simple_summary": "This is an advertisement suggesting you invest in a particular memory chip company, comparing it to Nvidia (a hugely profitable AI chip maker). Without seeing the full article, we can't evaluate if this is real advice or hype.",
+      "why_it_matters": "This is an investment tip for people with money in the stock market — nothing relevant to running a small business or everyday life."
     },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "source": "The Verge",
       "date": "2026-08-14T09:21:17.000Z",
-      "simple_summary": "Apple created a custom AI system specifically for the Chinese market by working with a Chinese company called Alibaba.",
-      "why_it_matters": "This is mainly news about big companies' international business deals — it doesn't affect you unless you're very invested in Apple's operations in China."
-    },
-    {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "source": "The Verge",
-      "date": "2026-08-13T21:42:38.000Z",
-      "simple_summary": "Microsoft is moving away from showing a friendly yellow cartoon character when you talk to its Copilot AI assistant.",
-      "why_it_matters": "This is just a small change to how the tool looks — nothing that changes how it actually works or affects whether you use it."
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T21:13:24.000Z",
-      "simple_summary": "A company called Writer released a new AI model designed to be cheaper and faster to run than previous versions.",
-      "why_it_matters": "This mostly matters to companies that pay for AI services — it could eventually lead to cheaper AI tools, but nothing immediate for most people."
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T20:14:39.000Z",
-      "simple_summary": "A company called Databricks that builds AI tools wanted to raise a certain amount of money from investors but ended up getting more offers than expected, so it raised even more at a higher value.",
-      "why_it_matters": "This is investor news showing that AI companies are attracting lots of money — nothing that directly affects you."
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge",
-      "date": "2026-08-13T19:28:39.000Z",
-      "simple_summary": "Two important executives are leaving OpenAI to take other jobs, and new people are replacing them.",
-      "why_it_matters": "Personnel changes at big tech companies don't usually affect how their products work or your ability to use them."
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch",
-      "date": "2026-08-13T19:22:40.000Z",
-      "simple_summary": "OpenAI is offering a faster version of its most powerful AI model that works 14 times quicker than the regular version.",
-      "why_it_matters": "If you pay to use OpenAI's AI, a faster version could be helpful — but this is mainly targeting large businesses, not individual small business owners yet."
+      "simple_summary": "Apple created a custom AI system designed specifically for the Chinese market. It worked with a Chinese company called Alibaba to build and train this AI.",
+      "why_it_matters": "This is mainly important for people doing business in China or interested in international tech partnerships — it doesn't change how AI works for regular users or most small business owners."
     }
   ]
 }
