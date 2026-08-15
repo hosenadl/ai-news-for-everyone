@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:51:07.208Z",
+  "generated_at": "2026-08-15T06:59:18.986Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnJrS2E3WHlnOV9STVhfZlJqbVVVRmZyRlc4S0JDeWdPVU0tRHMyejBXWEdaLU1zVmdZcmU4NFlFSWo3eG9yZlJTUHdTTmJMVEU3Q3JJODY2STl3YllVektXRzFQX0xTc3QwR3NSd2MzaDU1a3lETHRkNWVsR2xiWGxNenFoTE9fZlAycTE4NFFfUW9iYUtLYXctYUZMRWJPSDFN?oc=5",
       "source": "CBS News",
       "date": "2026-08-15T00:15:55.000Z",
-      "simple_summary": "A school district in Sacramento is teaching students about AI and how it works. They want young people to understand this technology that's becoming part of everyday life.",
-      "why_it_matters": "If you have grandchildren in school, they're learning about AI earlier than previous generations did, which prepares them for jobs in the future."
+      "simple_summary": "A school district in Sacramento is teaching students about AI and how it works. This helps young people understand a technology that's becoming more common in everyday life.",
+      "why_it_matters": "If you have grandchildren in school, they're learning skills they'll need for jobs in the future. It's good that schools are teaching this early."
     },
     {
       "title": "Mark Zuckerberg has an Instagzam",
       "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
       "source": "The Verge",
       "date": "2026-08-14T16:54:16.000Z",
-      "simple_summary": "Instagram changed its logo and the way its name looks. The new design looks quite different from what people are used to seeing.",
-      "why_it_matters": "This is mostly a visual change that doesn't affect how the app works — just a new look for the brand."
+      "simple_summary": "Instagram changed the look of its logo and brand name design. The new version looks quite different from what people are used to.",
+      "why_it_matters": "This doesn't affect how Instagram works or costs for users — it's just a visual change that Instagram decided to make."
     },
     {
       "title": "You can now turn off Google Gemini’s visible watermarks",
       "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
       "source": "The Verge",
       "date": "2026-08-14T16:39:32.000Z",
-      "simple_summary": "Google is letting people remove the little sparkly watermark that appears on images, videos, and music created by its AI tools. A watermark is a tiny mark (like a signature on a painting) that shows something was made by AI.",
-      "why_it_matters": "If you use Google's AI to create images for your small business, you can now remove that AI watermark, though Google will still track it invisibly behind the scenes."
+      "simple_summary": "Google is letting people remove the watermark (a small sparkly mark) that appears on images and videos made by its AI tools. Think of it like removing a company stamp from a document.",
+      "why_it_matters": "If you use Google's AI to create images, you now have the choice to hide that watermark — though Google keeps an invisible marker to track where the image came from."
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "source": "TechCrunch",
       "date": "2026-08-14T16:13:40.000Z",
-      "simple_summary": "Google will keep an invisible watermark on AI-created files even when you turn off the visible sparkly watermark. This invisible mark helps identify that something was made by AI.",
-      "why_it_matters": "This is a technical clarification — it means Google can still prove a file came from their AI even when you remove the visible watermark."
+      "simple_summary": "Google will keep an invisible watermark on AI-made files even if you hide the visible one. This invisible mark helps identify that the file was made by AI.",
+      "why_it_matters": "This mostly matters to tech professionals and people worried about AI-made content fraud — nothing most small business owners need to act on."
     },
     {
       "title": "The unexpected issue dividing parties and midterms candidates",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkpMdUdUMnZwTTBfUGJSNGZSRmFIWmJ2WGJaV09RRHVCVkZXWVpaUFRKbWo4MEhpWTE3ZUI5eEZmVFF6a3J6TDVnZ0F3UEoxZ2o3VGhnMmJYb19hXzBKelR6a2RqejhNLWlpS3IyczQ4U2dPNzAxZWVGdXdJc0p5cGRNNi0yR2s2OVVlU1lMaFZJY1d2Z1haMzlHZk5JTUdjeVlwaFlUTzFtMjQ?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-14T16:00:00.000Z",
-      "simple_summary": "The headline doesn't explain what the issue is, so we can't tell you what's really happening here.",
-      "why_it_matters": "Without more details, we can't say whether this affects you."
+      "simple_summary": "This headline is too vague to explain without more details about what the issue actually is.",
+      "why_it_matters": "Without knowing what the issue is, I can't tell you if it matters."
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "source": "TechCrunch",
       "date": "2026-08-14T15:43:28.000Z",
-      "simple_summary": "Mark Zuckerberg released a new AI tool that anyone can download and use on their own computer. He says AI should be available to everyone, not just locked up by big companies.",
-      "why_it_matters": "This mostly matters to people interested in AI development — most small business owners won't download and run AI software on their own computers."
+      "simple_summary": "Mark Zuckerberg released a simple AI tool that anyone can download and use on their own computer, saying AI should be available to everyone instead of locked up by big companies.",
+      "why_it_matters": "This could eventually mean more small businesses can use AI tools without paying big companies, but right now it's more of a technical announcement for people comfortable installing software."
     },
     {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:50:11.000Z",
-      "simple_summary": "A company called Kog is working on making AI run faster on certain computer hardware that some people thought wasn't suitable for this job. This is mostly about technical computer improvements.",
-      "why_it_matters": "This matters to engineers and data center companies — nothing you need to worry about in your daily life or business."
+      "simple_summary": "A startup says that special computer chips (GPUs) might actually be better suited for certain AI tasks than people thought.",
+      "why_it_matters": "This is a technical story for investors and engineers — nothing that affects your daily life or small business."
     },
     {
       "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
       "source": "The New York Times",
       "date": "2026-08-14T14:44:23.000Z",
-      "simple_summary": "Amazon and Alphabet (Google's parent company) are making large profits from selling AI services and technology. The article looks at why the AI boom is profitable for these companies.",
-      "why_it_matters": "This mostly matters to investors — it shows these big companies are making money from AI, but doesn't change how you'd use AI in your business."
+      "simple_summary": "Amazon and Google are making big profits from AI, which shows that AI technology is making money for large companies.",
+      "why_it_matters": "This mostly matters to stock investors — it doesn't directly affect customers or small business owners."
     },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:05:00.000Z",
-      "simple_summary": "Natural gas prices might triple in some parts of the country. Big tech companies that run AI data centers (huge computer facilities) use a lot of natural gas for electricity, so their bills could become very expensive.",
-      "why_it_matters": "If natural gas prices rise, it could make AI services more expensive for everyone, which might raise prices for small businesses that use AI tools."
+      "simple_summary": "Natural gas prices could get much more expensive in some areas, and that would make it very costly for big tech companies to run their AI data centers (the huge computer warehouses that power AI).",
+      "why_it_matters": "If you run a small business, this probably won't affect you directly — it's mainly a problem for massive tech companies."
     },
     {
       "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
       "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:00:00.000Z",
-      "simple_summary": "Meta released a free AI model people can download and use. The company also made a deal (mentioned as \"gone wrong\") but the details aren't explained in the headline.",
-      "why_it_matters": "The free AI tool part doesn't affect most small business owners, and without knowing what deal went wrong, we can't say if it matters to you."
+      "simple_summary": "Mark Zuckerberg released a basic AI tool anyone can use, saying AI should be open to everyone. There's also mention of a $250 million deal that went wrong, but details aren't given.",
+      "why_it_matters": "In the future, this could make AI tools more affordable and available for small business owners, but it's too early to know if it will actually happen that way."
     },
     {
       "title": "Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stock Could Be the Next Nvidia.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1lqZTE3dmJEaW1sd0hsdGs2NWMzR2tycU1JLTlYVW9XUk1SM2ZoY0lGendPdmVTanNvNWpvRnIwTkxIdTVNRzg5TzZtMzA5ZUw0a25jZ1RYY1N6MFcxMUZ0UXVvYmM5M3ZZejNaYXJ0MVFuNDNib05FQVRXTkdpR3RjdVlWeWVTdjhUTURfdTFseXNLZTBTYg?oc=5",
       "source": "fool.com",
       "date": "2026-08-14T12:00:00.000Z",
-      "simple_summary": "This is an advertisement suggesting you invest in a particular memory chip company, comparing it to Nvidia (a hugely profitable AI chip maker). Without seeing the full article, we can't evaluate if this is real advice or hype.",
-      "why_it_matters": "This is an investment tip for people with money in the stock market — nothing relevant to running a small business or everyday life."
+      "simple_summary": "Someone is predicting that a certain company's AI memory chip stock could become very valuable, like Nvidia stock did.",
+      "why_it_matters": "This is investment advice and speculation — it has nothing to do with running a small business or everyday life."
     },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "source": "The Verge",
       "date": "2026-08-14T09:21:17.000Z",
-      "simple_summary": "Apple created a custom AI system designed specifically for the Chinese market. It worked with a Chinese company called Alibaba to build and train this AI.",
-      "why_it_matters": "This is mainly important for people doing business in China or interested in international tech partnerships — it doesn't change how AI works for regular users or most small business owners."
+      "simple_summary": "Apple created a special AI system for use in China by working together with a Chinese company called Alibaba. This is unusual because of tensions between the U.S. and China.",
+      "why_it_matters": "If you sell products or services in China, this might mean Apple will have better AI tools there — but for most small business owners, this is just news about big companies."
     }
   ]
 }
