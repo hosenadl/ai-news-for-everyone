@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-15T18:49:02.506Z",
+  "generated_at": "2026-08-16T01:58:39.072Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "MangoLiving Announces Dallas Launch of AI Powered Home Search and Agent Insights Platform",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcEJkWVFBMXNQNUs5RnhPb2x1NTlQdDBEMk1IaHFEM2hiTzJ2ejlPYlIzaHhIMzdSVW5vMVF4VHFVR1BPNGlJb0V4TDVieFktdmh1ZGhIaVprWW51anloWUUzWFRvT3JxdUJQTTBQRHkxaXdwQ01IbDMwdldlTkxsZEJMcW5BUHhTODcwRWV1YkZJMTR4anpjcUM3V3NzeUVJUnlSWmk1dXA5OC0tUk1MUko5Zjg4QUUwTUhaODdsZE9wbjdFT08xR0JZRTV5MVk0emstZ2ZzMGFsR1hXcU5ESzl3?oc=5",
-      "source": "markets.businessinsider.com",
-      "date": "2026-08-15T17:35:27.000Z",
-      "simple_summary": "A real estate company called MangoLiving is launching a service in Dallas that uses AI to help people search for homes and get advice from agents.",
-      "why_it_matters": "If you're buying or selling a home in Dallas, this might give you another tool to find properties, but it doesn't change how homes are bought and sold."
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "date": "2026-08-15T21:29:19.000Z",
+      "simple_summary": "Someone used an AI tool called Grok to turn an old childhood photo into explicit harmful images. This is a serious crime that harms children.",
+      "why_it_matters": "If you share family photos online, be aware that AI tools can misuse them in illegal ways. Be careful about what photos you post where."
+    },
+    {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "date": "2026-08-15T20:45:00.000Z",
+      "simple_summary": "A website lets people play a game where they pretend to be an AI chatbot and answer questions, while comparing their answers to what a real AI would say.",
+      "why_it_matters": "This doesn't affect you — it's just a fun game people play on the internet."
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "date": "2026-08-15T18:58:39.000Z",
+      "simple_summary": "Anthropic (a company that makes AI) is explaining how they'll add invisible identification marks to content made by their AI, like a stamp that proves it's AI-made.",
+      "why_it_matters": "This might help people tell real photos and writing from AI-made ones, which could protect you from being fooled."
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "source": "TechCrunch",
       "date": "2026-08-15T16:30:00.000Z",
-      "simple_summary": "SpaceX (the rocket company) bought Cursor, a company that makes AI tools to help programmers write code.",
-      "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on."
-    },
-    {
-      "title": "How artificial Intelligence is changing college admissions",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0lsWC1FWElRRDF2dERDM0ZndWVGSl9IV0tHV3lwdUtpMzFOMmJDYzg0aEVOZTVJRjZNbmNvY002SDNNbzNvXzBGRlJ3cXdjY0hhX216clY4NXPSAWBBVV95cUxNT3lENjRFU29HN2JrdWxRUVVTQVdmTXNLMjloSlNYV1lCQVY3NUoxX0s4c2tSNFRPeEgwclZPMGduM0NiZXM4S29ucW51U00tQkFBM2FoSFB6V1JiSFNGSFg?oc=5",
-      "source": "KTVU",
-      "date": "2026-08-15T15:28:35.000Z",
-      "simple_summary": "Colleges are starting to use AI in some way when deciding which students to admit, but the headline doesn't give details about how.",
-      "why_it_matters": "If you have grandkids applying to college, this might affect their application process, though we'd need more information to say exactly how."
+      "simple_summary": "SpaceX, the rocket company, bought a smaller company called Cursor that helps programmers write code with AI assistance.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on."
     },
     {
       "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkdRV3dybUx3R2x1NWZ2SUc4aE54bWs1d0dLRTEzdjh2QzY0cFlTYlc5ZDNneDhkVE9XZGk1QTRhTHZycmpEbTlOVlhZeDNFXzVxTXpIMGsyNVE1bDdsUEdSX3pPLW9uRm9NdkJCMUtvSTR5SXlXQ1pKQlh6aElGcEZpTUpFbmp4bElvQm9ab1l5WDd5TVZqekMzdGVNNlFZWXBoU0wxTQ?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-15T12:05:00.000Z",
-      "simple_summary": "A financial writer is predicting that three AI company stocks will go up a lot by the end of 2025.",
-      "why_it_matters": "This is just one person's guess about stock prices — not information you should make investment decisions on."
+      "simple_summary": "Someone is predicting that certain AI company stocks will go up in value by more than 30% by the end of 2025.",
+      "why_it_matters": "This is investment advice — mostly relevant only if you buy stock. There's no guarantee these predictions will happen."
     },
     {
-      "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-14T21:53:39.000Z",
-      "simple_summary": "The US government is telling its allies they need to choose whether to use AI technology from America or China, rather than both.",
-      "why_it_matters": "This mostly matters to large companies and governments — it doesn't directly affect ordinary people or small businesses right now."
+      "title": "Google Opens the Gates of AI Slop Hell",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lU3NKVXFKZGNka0NFYXhSMUFjQWV0S3pEcEtCUU9idzc2alNydFVZajNsLUdjci1TVFVRMTN3V3RnY1FaNzdEMTBRSHhYaFlYRHNVTU9KV3JJRUdjOU9PbWVUMXF0VzNKX2RmQ1JPNXhCLTlMU3NLMQ?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-08-14T20:51:44.000Z",
+      "simple_summary": "Google is releasing AI tools that generate text and images, and there's criticism about the quality or nature of what they produce.",
+      "why_it_matters": "Google is making more AI tools available, but the headline doesn't explain the actual issue clearly enough to know what it means."
     },
     {
       "title": "Mark Zuckerberg has an Instagzam",
       "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
       "source": "The Verge",
       "date": "2026-08-14T16:54:16.000Z",
-      "simple_summary": "Instagram changed its logo design, and people think the new one looks confusing or odd.",
-      "why_it_matters": "If you use Instagram, you'll see a different look, but it works the same way — this is just a cosmetic change."
-    },
-    {
-      "title": "AI’s Impact on the Environment Is Absolutely Horrifying, New Paper Finds",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSU1TZTFSZ3VQNHVqQzFnc3M4Z0ROY1NybXN1N2stcUd1YndobzV0SEpJNFczNzdwbjE1OUNRRmFtd2w0QVoyRU52VzlxdzRhOGkzZkdNdWE1XzdvWnkyV1U5aE52MnFTeGVsMjRVN1pUUWh5d3hxb29SSjI4N1VaMXpFTkZ3SnFfclpxU0RJZHE?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-14T16:47:18.000Z",
-      "simple_summary": "A research paper found that AI uses a lot of electricity and has bad environmental effects.",
-      "why_it_matters": "This shows that AI technology has real costs to the planet, which is worth knowing about when companies make decisions using AI."
+      "simple_summary": "Instagram changed its logo design this week — the way the word \"Instagram\" looks and appears has been redesigned.",
+      "why_it_matters": "This doesn't affect you at all — it's just a cosmetic change to how the Instagram app looks."
     },
     {
       "title": "You can now turn off Google Gemini’s visible watermarks",
       "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
       "source": "The Verge",
       "date": "2026-08-14T16:39:32.000Z",
-      "simple_summary": "Google is letting people hide the watermark (a small mark that shows something was made by AI) on images, videos, and music created with its AI tools.",
-      "why_it_matters": "If you use Google's AI to create images or videos, you can now remove the visible mark, though Google will still track it invisibly."
+      "simple_summary": "Google is now letting you remove the visible sparkle watermark from images and videos your AI tools create.",
+      "why_it_matters": "If you use Google's AI tools to make images, you can now hide the mark that shows it's AI-made, though Google keeps invisible tracking marks for identification."
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "source": "TechCrunch",
       "date": "2026-08-14T16:13:40.000Z",
-      "simple_summary": "Google is allowing users to turn off the visible watermark on AI-generated content, but hidden tracking remains.",
-      "why_it_matters": "Similar to headline 7 — if you create with Google's AI, you can hide the obvious mark, but Google still knows what was AI-made."
+      "simple_summary": "Google will let people turn off the visible watermark on AI-generated files, though invisible identification marks will still be there.",
+      "why_it_matters": "Similar to the previous story — if you make images with Google's AI, you can now remove the visible watermark."
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "source": "TechCrunch",
       "date": "2026-08-14T15:43:28.000Z",
-      "simple_summary": "Meta released an AI tool that anyone can download and use on their own computer, and Mark Zuckerberg says AI should be available to everyone, not just big companies.",
-      "why_it_matters": "This could mean AI tools become easier for small businesses to use, though most people won't have the computer power to run these tools themselves."
+      "simple_summary": "Mark Zuckerberg (who runs Meta/Facebook) released an AI tool that anyone can download and use themselves, saying AI should be available to everyone instead of just big companies.",
+      "why_it_matters": "If you're interested in AI tools, this means more options will become available to regular people instead of only big tech companies controlling them."
     },
     {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "TechCrunch",
       "date": "2026-08-14T14:50:11.000Z",
-      "simple_summary": "A startup called Kog says they found a way to make GPUs (computer chips designed for AI) work better for certain types of AI tasks.",
-      "why_it_matters": "This is technical news for engineers and companies building AI systems — nothing you need to act on."
+      "simple_summary": "A company called Kog says that computers designed for AI (GPUs) can handle a certain type of AI task better than people thought.",
+      "why_it_matters": "This is technical engineering news — mostly relevant to companies building AI systems, not to everyday users."
     },
     {
       "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
       "source": "The New York Times",
       "date": "2026-08-14T14:44:23.000Z",
-      "simple_summary": "Amazon and Google are making bigger profits partly because of the AI boom, showing how AI is helping tech companies make more money.",
-      "why_it_matters": "This shows that AI is becoming a real business that makes money for big companies, though it doesn't directly affect you unless you own stock or use these services."
+      "simple_summary": "Amazon and Google are making huge profits from their AI services, creating a pattern where they profit from selling AI tools and also profit from the demand those tools create.",
+      "why_it_matters": "This mostly matters to investors watching these companies — the news is about how profitable AI is for big tech giants."
     }
   ]
 }
