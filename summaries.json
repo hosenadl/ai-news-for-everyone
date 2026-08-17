@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-17T13:07:37.351Z",
+  "generated_at": "2026-08-17T18:59:23.903Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch",
+      "date": "2026-08-17T16:38:44.000Z",
+      "simple_summary": "Amazon is destroying valuable rare books to use them for training AI systems. These old books help AI learn because most common books are already used up.",
+      "why_it_matters": "If you own rare or old books, be aware that companies may want to use them for AI training — something to consider if you're thinking about donating or selling your collection."
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "date": "2026-08-17T16:15:12.000Z",
+      "simple_summary": "A company called Groq raised a large amount of money and is changing its business from making AI computer chips to running data centers (big rooms full of computers).",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "date": "2026-08-17T15:16:24.000Z",
+      "simple_summary": "Nvidia, a large computer chip company, is investing $1.5 billion in another company's data center to make sure their chips are used in OpenAI's computers.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch",
+      "date": "2026-08-17T13:10:05.000Z",
+      "simple_summary": "A company called Wispr raised $280 million for its business, which appears to involve speech recognition and voice technology.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
     {
       "title": "Anthropic explains how Claude’s invisible text watermarks will work",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
       "source": "The Verge",
       "date": "2026-08-17T10:57:13.000Z",
-      "simple_summary": "Anthropic is adding invisible markers to text written by its Claude AI, like a watermark on paper, so people can tell if something was written by AI. This follows new European rules requiring AI companies to be transparent about what their tools produce.",
-      "why_it_matters": "If you use Claude or similar AI tools, your documents will be marked as AI-generated, which is helpful for honesty but not something you need to change what you do."
+      "simple_summary": "Claude (an AI chatbot) is getting an invisible marking system added to text it writes, like a hidden fingerprint that proves a computer wrote it instead of a person.",
+      "why_it_matters": "This could help you spot when something was written by AI rather than a human, which matters if you're reading articles or messages and want to know who or what created them."
     },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
       "source": "The Verge",
       "date": "2026-08-16T21:32:56.000Z",
-      "simple_summary": "OpenAI shut down a team that was supposed to watch for dangerous behavior in its AI systems and figure out how to stop problems before they happen.",
-      "why_it_matters": "This mostly matters to people worried about AI safety and investors — it doesn't directly affect your use of ChatGPT."
+      "simple_summary": "OpenAI shut down its team that was responsible for checking if AI could cause serious problems or be dangerous.",
+      "why_it_matters": "This is concerning because companies should be checking their AI for safety issues — like having someone inspect a building before people move in."
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "TechCrunch",
       "date": "2026-08-16T20:57:04.000Z",
-      "simple_summary": "Stripe, a company that helps businesses process payments online, is buying a smaller AI company called OpenRouter for over $7 billion.",
-      "why_it_matters": "This is mostly important to investors and technology investors — nothing you need to do as a business owner."
+      "simple_summary": "Stripe, a payment company, is reportedly buying OpenRouter, a company that helps people use different AI systems, for over $7 billion.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "source": "TechCrunch",
       "date": "2026-08-16T20:32:01.000Z",
-      "simple_summary": "Some people don't believe Mark Zuckerberg's vision of what AI will be like in the future.",
-      "why_it_matters": "This is just discussion among tech experts — nothing actionable for you."
+      "simple_summary": "Some people don't believe in or aren't interested in Mark Zuckerberg's plan for the future of AI.",
+      "why_it_matters": "This is just commentary on public opinion — nothing you need to act on."
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "source": "TechCrunch",
       "date": "2026-08-16T16:53:51.000Z",
-      "simple_summary": "The head of Anthropic says the main problem isn't with AI itself, but that people don't trust what AI companies are telling them about their products.",
-      "why_it_matters": "This is mostly industry talk among experts and investors — nothing you need to act on."
+      "simple_summary": "The head of Anthropic says that people's concerns about AI aren't really about being too worried — they're about not trusting AI companies.",
+      "why_it_matters": "This shows that companies know many people are skeptical about AI, which is a fair concern to have."
     },
     {
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "source": "The Verge",
       "date": "2026-08-16T14:56:40.000Z",
-      "simple_summary": "ChatGPT's new Computer History feature tracks everything you click and type on your computer so the AI can learn your work habits and help you with tasks.",
-      "why_it_matters": "If you use ChatGPT on Mac, be aware this feature watches what you do — you can choose whether to turn it on or off."
+      "simple_summary": "ChatGPT's desktop app now has a feature that watches everything you click and type on your computer, so it can learn your habits and suggest things to automate.",
+      "why_it_matters": "If you use ChatGPT on your computer, know that this feature tracks everything you do — turn it off if you don't want OpenAI recording your activity."
     },
     {
       "title": "Rogue AI aren’t science fiction anymore",
       "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
       "source": "The Verge",
       "date": "2026-08-16T12:00:00.000Z",
-      "simple_summary": "The headline warns that AI systems can now act on their own without direct human instruction, which used to only be something in science fiction movies.",
-      "why_it_matters": "This is mostly relevant to engineers and AI safety experts — it doesn't change how you should use AI tools today."
+      "simple_summary": "The headline warns that AI systems acting on their own without human control are becoming real, not just science fiction.",
+      "why_it_matters": "This is a warning that AI safety is a real concern worth paying attention to, though it's still a developing issue."
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TechCrunch",
       "date": "2026-08-15T21:29:19.000Z",
-      "simple_summary": "Someone claims that an AI tool called Grok was misused to turn a childhood photo into inappropriate images.",
-      "why_it_matters": "This highlights a real danger with AI image tools — be careful about what photos you share online, and know that some AI tools can be misused harmfully."
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge",
-      "date": "2026-08-15T20:45:00.000Z",
-      "simple_summary": "A new website lets you play a game where you and someone else pretend one of you is an AI, and you try to figure out which is which.",
-      "why_it_matters": "This is just entertainment — nothing important for your business or daily life."
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "date": "2026-08-15T18:58:39.000Z",
-      "simple_summary": "Anthropic is explaining details about how it will add invisible watermarks to Claude's work, including computer code.",
-      "why_it_matters": "If you use Claude for coding or writing, your output will be marked as AI-made — useful for transparency."
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch",
-      "date": "2026-08-15T16:30:00.000Z",
-      "simple_summary": "SpaceX, Elon Musk's rocket company, has officially purchased Cursor, an AI tool that helps programmers write code.",
-      "why_it_matters": "This is mostly relevant to investors and tech industry watchers — nothing you need to worry about unless you're a software developer."
-    },
-    {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge",
-      "date": "2026-08-14T16:54:16.000Z",
-      "simple_summary": "Instagram changed its logo and made it harder to read.",
-      "why_it_matters": "This has nothing to do with AI — it's just Instagram redesigning its appearance, which has nothing to do with artificial intelligence."
+      "simple_summary": "A woman says someone used an AI tool called Grok to turn an innocent childhood photo of her into explicit material without permission.",
+      "why_it_matters": "This is a serious problem affecting ordinary people — be cautious about sharing photos online and know that AI tools can be misused to create harmful images."
     }
   ]
 }
