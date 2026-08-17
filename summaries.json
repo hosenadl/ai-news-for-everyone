@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-16T18:48:18.257Z",
+  "generated_at": "2026-08-17T01:56:17.661Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "'Country hick' Kentucky farm owner had terse 6-word response after being offered $26M to build data centers",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmFCOHYta05odjNINmRfQVRXeHBUTXBiVllmc2luT0g3U0ZReTRBYUtGZFliR21pdDVRN2lfemFYTXJ5QkV0ZDNrMXF4Sm9LU204Yml2bE84eWMxTTR4OUVhaEpjemNFZ1BnSVBZV3V6NHlBQXBmSVEyT1dLMUZEcWFXdFhJbVpTa3FyYTd6RWxMa3BsTFpGZVhLV2JKV254NmNYaGxFajJfSGs2aElQLWRrLVd3WFNpSkI2bUgtNTRzM0lqd0E?oc=5",
+      "source": "New York Post",
+      "date": "2026-08-16T22:19:00.000Z",
+      "simple_summary": "A Kentucky farm owner turned down a $26 million offer to let a company build computer data centers (big computer warehouses) on his land.",
+      "why_it_matters": "This doesn't affect most people — it's just one person's choice about their own property."
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
+      "date": "2026-08-16T21:32:56.000Z",
+      "simple_summary": "OpenAI got rid of the team whose job was to check if their AI might cause serious problems and figure out how to stop it.",
+      "why_it_matters": "This matters to everyone using OpenAI's tools — fewer people checking for danger means less protection, though what happens next is still unclear."
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "date": "2026-08-16T20:57:04.000Z",
+      "simple_summary": "Stripe, a company that helps businesses take online payments, is buying another company called OpenRouter that helps businesses use different AI tools.",
+      "why_it_matters": "This mostly matters to investors and tech companies — most small businesses won't notice a change."
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "date": "2026-08-16T20:32:01.000Z",
+      "simple_summary": "Some people don't believe Mark Zuckerberg's plan for the future of AI is a good idea.",
+      "why_it_matters": "This is mostly discussion among tech leaders — nothing you need to act on right now."
+    },
+    {
+      "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-16T20:08:01.000Z",
+      "simple_summary": "The payment company Stripe is buying the AI company OpenRouter for over $7 billion.",
+      "why_it_matters": "This is the same as headline 2 — mostly a deal between big tech companies that won't directly affect most small businesses."
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "date": "2026-08-16T16:53:51.000Z",
+      "simple_summary": "The leader of an AI company says the main problem with AI is that people don't trust it, not that AI itself is too dangerous.",
+      "why_it_matters": "This is mostly debate among tech leaders — it doesn't change anything you need to do today."
+    },
     {
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "source": "The Verge",
       "date": "2026-08-16T14:56:40.000Z",
-      "simple_summary": "ChatGPT's computer program can now watch everything you click and type on your computer, then use that information to suggest things you might want to automate or tasks to finish for you.",
-      "why_it_matters": "If you use ChatGPT on your Mac computer, know that it's watching your activity — decide if you're comfortable with that before turning this feature on."
+      "simple_summary": "ChatGPT's new Computer History feature watches what you type and click on your computer so it can learn your work habits and suggest shortcuts.",
+      "why_it_matters": "If you use ChatGPT's desktop app, be aware it's now watching your activity — you can choose not to use this feature if you're uncomfortable sharing that information."
+    },
+    {
+      "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-16T13:41:54.000Z",
+      "simple_summary": "The U.S. military wants to lead the world in AI technology, but disagreements between people and competition with China might slow that down.",
+      "why_it_matters": "This is mainly about government and military strategy — it doesn't directly affect your business or daily life."
     },
     {
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
-      "source": "tomshardware.com",
+      "source": "Tom's Hardware",
       "date": "2026-08-16T12:40:00.000Z",
-      "simple_summary": "Google is working with another chip company (AMD) to design better computer chips specifically for running AI programs.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — nothing you need to act on."
+      "simple_summary": "Google is asking the computer chip maker AMD to help design faster AI chips for Google.",
+      "why_it_matters": "This matters mostly to engineers and investors — it's technical computer equipment improvements you won't need to worry about."
     },
     {
       "title": "Rogue AI aren’t science fiction anymore",
       "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
       "source": "The Verge",
       "date": "2026-08-16T12:00:00.000Z",
-      "simple_summary": "The headline mentions that AI systems can now act on their own in ways that might be risky, but the article excerpt doesn't give enough detail to explain what actually happened.",
-      "why_it_matters": "This is mainly an engineering and safety concern for people who build AI — if you just use AI tools like ChatGPT, this doesn't directly affect you."
+      "simple_summary": "AI systems are starting to do things on their own without being told to, and this is becoming a real concern instead of just science fiction.",
+      "why_it_matters": "This is a serious safety issue for AI developers to solve, but most of us won't directly encounter this problem yet."
     },
     {
-      "title": "Colleges aim to ‘AI proof’ degrees with new majors",
+      "title": "Boston-area colleges are looking to make students ‘AI natives’ with new majors",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTFneWhkYWhZUzhTNE1lYWRDam5UZDlOSmpQVXVWa0V0bzVncngyMG92UGtRNjgzQ0EzVWhROURyTEFjTzZXb05tZkU1T3d2S2pxQ1JodTVPYzBXSEpURVAyX3FoVVlXclEyWVgxMjIyN0tlVHhKY2dwdmJTMUFyVm9DOA?oc=5",
       "source": "The Boston Globe",
       "date": "2026-08-16T10:04:24.000Z",
-      "simple_summary": "Universities are creating new college degrees and classes designed to teach skills that AI can't easily replace.",
-      "why_it_matters": "If you have kids or grandkids thinking about college, it's worth knowing that colleges are trying to prepare students for a world where AI exists."
-    },
-    {
-      "title": "People Horrified That They’ll Be Busted Now That Anthropic Is Watermarking AI Content",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHZnMFY5WHg0aHAwT3Y1Z0hjbXpJTUxFc3pYc3B6WURWMldKWno5SG5yTjlJTklqZVhzWFNSOTB1THFDaktSNm9UdW01UXJxeks5NE8xQ1NvWHRaakJITW5aZE8wN0lkeDh6Um15TWt5aFFyNDAzS0JzR1FxbWdzMnd0N0ZIVW41b0RoRmxjUEIyZw?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-16T10:01:00.000Z",
-      "simple_summary": "A company called Anthropic is adding invisible markers to content that AI creates, so you can tell when something was made by AI instead of a person.",
-      "why_it_matters": "In the future, you may be able to identify when text or images are AI-made, which helps spot fake or misleading content."
+      "simple_summary": "Some colleges near Boston are creating new school majors to teach students about AI technology.",
+      "why_it_matters": "This matters if you have young people choosing a college or career — AI skills are becoming more valuable in the job market."
     },
     {
       "title": "National Transport Infrastructure Company deploys AI-based adaptive traffic lights across Israel",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TTRTU1QweHNjWFlrR0xBTHA5NlRUM3VEaEhJWXBuOWU1Y2dmQ05FYkNteWpOR21KSGFENFVxdDFDb3J1UFVWVmZ4bzh3SUI3akZmQmRod25IUEhB?oc=5",
       "source": "The Jerusalem Post",
       "date": "2026-08-16T09:34:25.000Z",
-      "simple_summary": "Israel is using AI to control traffic lights that adjust in real-time based on how much traffic is on the road.",
-      "why_it_matters": "This could eventually come to your city — smarter traffic lights that reduce traffic jams, though it's mainly useful for very busy cities."
-    },
-    {
-      "title": "Used Booksellers Are Racking Up Huge Sales. They're Not Thrilled About the Likely Reason",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSl8xb09oakNLNmlRekp5dm03LWFva3JjR0tua0tJNF8zRU4tREFlWWVUT2JmX2FkVWhScFd4T0lmdnhhcC1qT0djQnFEV3FpeFI2UDNDcG85RENtU1ZhVmZlR2FNczE5ZGdicUZMWkN1enE4T2lGOXlmVlVRWXlmSzZHWTJES1Rfd01qMWxCYjV6YjBHYWQyWG54VG16NVdmRERvNzR6eW41TUN2aUZrTVZxcE1CTGd5?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-16T09:30:46.000Z",
-      "simple_summary": "Used bookstores are selling way more books than usual, likely because people are buying books instead of reading AI-generated text online.",
-      "why_it_matters": "If you're a book lover or a small bookstore owner, this shows that people still value real books over AI content."
-    },
-    {
-      "title": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXhZazN1SUI5U29oNnJkbDJGN2JWWHBYODVXYXJheXEtSWl5cXByWndYRXpJTWYwSjRCbFhsZlZYRU1kd1hSSnFNWDB3b0NMbHBYWXc3dDFIUHdDQXNNSnNhM3dJN2VjdUk3b0JZSkxweWRsRWZwNG55MDY0cGFwaUFzR3NTckprTmRlQlNUZnB5a2dQUVN1Mlh2WQ?oc=5",
-      "source": "Hackaday",
-      "date": "2026-08-16T05:00:00.000Z",
-      "simple_summary": "Scientists created an AI system that can detect sunspots using sound patterns before scientists can see them with regular telescopes.",
-      "why_it_matters": "This is purely a scientific and astronomy tool — it doesn't affect everyday life or your business."
-    },
-    {
-      "title": "Home province of DeepSeek, Moonshot founders seeks to retain future AI talent",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZG9WYjhBREN3RFhWNFdaYXp2eDJPT2pybFQ0M3JNYXQzNE9vdzBlT04tTmNPa1hMWTE1LWt1LWhiMVB5cWFMYnJrdE5NU0JRNnV0ODdzNHZBZ2Q4UUtObGQ5VFFiQTB6Z09reUU2bGE4b05CX19mRGNiRFRfRHg0Wk9fSzJBOXRaQ19iVFpfNmtKdW9La09mdkY0TVVSbF9jbkVBQWZhWXI4ZTlXTlVySVI5cWRZVTgzcG9DZ2xKUWVpd0FXZGJfRNIByAFBVV95cUxQbU1LTTg0TkJrVzQtUXpmMHFScGJMd2xlY3lEZV9WeHZLTUk4cFZwbHp4MkhWaGhqYUFLenhHSmpLcWdtRU9SZHZvS3RJb1l5ekhyMjhVN0h1c2p5WU9RbEFKMzlmTU9XS0kxY05zVHZKMWMtRTFzb29MT0Ewb2ZVLWtUZ0Q5ZlRxQzViaUlRNHAzVEM4T2tGQWFWZzljZ19hYmFiRVBjUU9qSUhVS0M3bUI0S3g0RkxPNzJiUnZNNGVIYjRVbUM2LQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-08-16T03:00:12.000Z",
-      "simple_summary": "A Chinese province is trying to attract talented AI developers and engineers to stay or move there.",
-      "why_it_matters": "This mostly matters to investors in tech companies — nothing you need to act on."
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "date": "2026-08-15T21:29:19.000Z",
-      "simple_summary": "A woman reported that someone used an AI tool to turn her childhood photo into inappropriate sexual images without permission.",
-      "why_it_matters": "This shows a serious problem: AI can be misused to create fake harmful images, and you should be careful about photos of yourself or family members online."
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge",
-      "date": "2026-08-15T20:45:00.000Z",
-      "simple_summary": "Someone created a website game where you can pretend to be an AI chatbot and write silly responses, just for fun.",
-      "why_it_matters": "This is purely entertainment — it doesn't affect you unless you enjoy playing silly online games."
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "date": "2026-08-15T18:58:39.000Z",
-      "simple_summary": "Anthropic is explaining the technical details of how their invisible watermarks will work to identify AI-created text and whether editing can remove them.",
-      "why_it_matters": "This mostly interests people who study technology or security — for regular people, it just means future AI text will be easier to identify."
+      "simple_summary": "A company in Israel is using AI to control traffic lights so traffic flows better.",
+      "why_it_matters": "If this works well, other cities might do the same to reduce traffic jams — something that could help you if you drive."
     }
   ]
 }
