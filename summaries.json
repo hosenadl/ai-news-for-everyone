@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-18T07:05:51.417Z",
+  "generated_at": "2026-08-18T13:09:56.538Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Baidu’s Profit, Revenue Continue to Fall as It Pivots to AI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1RKTnRCSi1QY1V3ZFlsdWpCYWV1WF96UENDZkY0NXdCcDctOFVxemI3VHpUc3VOa01JSzZpNXhham9WV0NWMV9MWGs4YnBrWTJVNEJkN0FhSFFuMXlRb1o5T29hNEViZm9Ob0JvTEREQXJ1TmliVHdHbFNqdFpxZ09fekRkbUFGQmlKbUd5c2gwVTdGS2NkbjF5dWUzQklqNkdkWl9uTQ?oc=5",
+      "source": "WSJ",
+      "date": "2026-08-18T09:50:00.000Z",
+      "simple_summary": "Baidu, a Chinese search company, is making less profit and less money overall. They're trying to shift their business toward AI to fix this.",
+      "why_it_matters": "This mostly matters to investors and people doing business with Baidu — nothing you need to act on."
+    },
+    {
+      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-18T09:00:07.000Z",
+      "simple_summary": "Texas Tech University is using AI to identify and remove content that leans left-wing from their system.",
+      "why_it_matters": "If you send materials to Texas Tech, be aware they're filtering content this way, though this is mainly a college policy question rather than something affecting everyday people."
+    },
+    {
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren’t so sure",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaE4wcEhKRkJ6bm0wTTlvMlZ5WWpyeHVlVGhseEhocmJvSm1wU1lLMDZ6Uk5MTGhhQVAxRkZCc0luT0VaN09jTjRfZ2NBSXN5MTZ2NjE4YnpVU0tQam1SeTgxQi10aVdhNkQ5eWJQU2ljZDFRQ09LMjQ5TElEUlR3NXFjQnV0RG1oVWtSRWE3NldudTJlbjdZVVB6YWozeTl2amwxei01Y2ladzFsZ1lsdWF6SWJicmh0b2Zaem1jZ0hhQnVhYWc?oc=5",
+      "source": "NPR",
+      "date": "2026-08-18T08:41:05.000Z",
+      "simple_summary": "Some recent college graduates think AI is making it harder for them to find jobs. But economists studying the data aren't sure if that's actually true yet.",
+      "why_it_matters": "If you have young people looking for work, it's worth watching, but the experts aren't convinced AI is the main job problem — yet."
+    },
+    {
+      "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmx3Zm5SMng3bm00SmRWcGpyUXo0MmRZYldsRFk0T0lfQlZpUHlGdVp1cjdaM3Z0VDNkSHd2Ni11M3YxS2FYU3ZoWWpnbFdnalNnMkxwWk9FcWVpRjJodGVoRTFJcWdGZlVYRDY1TnVpZGZiUUZXN3J0Z2o5LTZOdjBZREt6OFQ3OG9jeGlfb2lCQlVNSU43Yy13ZUNLTG0xZlhYUUk1Y1YzRWoyR0kwU3Q4dmg?oc=5",
+      "source": "KSAT",
+      "date": "2026-08-18T00:52:09.000Z",
+      "simple_summary": "A court found that fake legal cases created by AI were used in a real lawsuit in Texas. The judge caught them because they didn't make sense.",
+      "why_it_matters": "This shows AI makes mistakes that can cause real legal problems — don't trust AI to create official documents without a human checking them carefully."
+    },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "source": "TechCrunch",
       "date": "2026-08-17T23:56:26.000Z",
-      "simple_summary": "Anthropic, a company that makes AI systems, is making money much faster than before — they're now earning $65 billion per year. They added $18 billion in earnings in just two months.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on right now."
-    },
-    {
-      "title": "AI at work puts new pressure on managers",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOelBoX21vTDdsQWJGcWxCcU9rMW9xekEzUG52ZUxoR0djbXMwT2QxTUt5T3ZKLVNiQ0liY0J2LUZOWkN3eWxUTzU4bVFOc1pyRmNyM0dBczVHSm8xcDZKcVNJSXZTSXRRR1hfLWxmZjZZOWM4UXZHdnhFTVBEWGxnV1dYWWZpWExnVUd5cDNKZVlYV3E1NVh4QXptWWZ4dVJHWUhid3hLTW9xREctTGhoTDZCQjNPQ2prTWQ2WHQxTmgwZE1EUjJKTEZOTXZtOWhkOW5EVHoyQ2tqeklEV2dJbnZwNVRFUE01dGhtZA?oc=5",
-      "source": "WBFF",
-      "date": "2026-08-17T22:19:26.000Z",
-      "simple_summary": "AI tools at work are changing what managers have to do. They need to figure out how to use AI and what rules to follow.",
-      "why_it_matters": "If you manage employees, you may need to think about how AI could help or change the work your team does."
+      "simple_summary": "Anthropic, a company that makes AI, says their yearly earnings jumped to $65 billion (though this projection is based on recent growth, not confirmed sales).",
+      "why_it_matters": "This mostly matters to investors — it shows the AI business is very hot right now, but nothing you need to act on."
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TechCrunch",
       "date": "2026-08-17T21:27:05.000Z",
-      "simple_summary": "A startup called Relay that helped automate tasks is shutting down. Its staff is joining Google to build AI features into the Chrome web browser.",
-      "why_it_matters": "Google is working on making AI tools easier to use in Chrome, which may bring AI features to everyday web browsing."
+      "simple_summary": "A small AI startup called Relay is closing down, and its team members are moving to Google to work on AI features in the Chrome web browser.",
+      "why_it_matters": "Google is adding more AI features to Chrome, so you may see AI tools appear in your web browser soon."
     },
     {
-      "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-17T19:51:10.000Z",
-      "simple_summary": "Companies like Spotify and LinkedIn are getting tired of low-quality AI-generated content (called 'AI slop') cluttering their platforms.",
-      "why_it_matters": "If you use these apps or advertise on them, there may be less spam and junk content soon."
+      "title": "Campton Township man Jeremy Batterman accused of using AI to create child porn: Kane County officials",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa05qamxzT3NxWFpZeGFxeXJIV2hJVHlrZ3hJbDJDM0ZBZm01OEtvV1NQdC1QQmRaOU5STFVDaXBLeTZOSUJUOTZFV2RzZ1h0TEg4eW9hc3JiSmRmTnFKY2FDYlg3SU5ISmtMZHZTNXJ6dHU2Z2puREpZcU1rdkVZNVFNRGwycEFYOVN1TllwZWI5OGc5Zzk5aTZLYnF3eW9mNkRfSjI5bXRFa1dtUFk2MHhwWURsSG44MEJfV21kWC1sNFpJOU9XVE9MNS1xZ9IB0wFBVV95cUxPWHNkRHFRLU5ZWXVRZHptRjhUOExOb2p4N3NKZmFEd2FIMWVHSUJ2bWRtR09DTEYyaG1JdUVxTmE2Mm9YZHV4UUNTdWE3cjctbjI5dWpQSHpxOGp6QWNKQmt2WXVuMjFRRTFDU3ZubGsxdU5XVjVPUFJuSTZqR3RwdHE3MmNMNnloSExZVnZJNG1GTGRPY05wVnhSNUdMRFJlY09XR2JoWmN6ZkN3WmtQMF83aVFRUkZONjdFdm1uQTE4SlRXaDVFNkFHRmFhN2ZfSlhr?oc=5",
+      "source": "ABC7 Chicago",
+      "date": "2026-08-17T20:46:21.000Z",
+      "simple_summary": "Police in Illinois say a man used AI to create illegal fake images of children.",
+      "why_it_matters": "This shows AI is being misused for serious crimes — it's a reminder of the real harms AI can cause."
     },
     {
       "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3p1S3pIUDJ5S0h5QVY5TllsNXo2WlFmdDExNk1oOUtyM0dMcFRQUXEtOEpUaVJVcDdvdU1EVEZZdlJ1TzloeWVvMmo4RFg2cUpteTE3X1VnQktpQlZKZ01oMmlpWkFqMXg1SFoxbVRNM0xSQXRtMzBncU9RZ1FHYjNhQnFqUGdoUm4wS2R5N1FNaUtlb1M0aUs1LVlGeDA?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-17T19:20:00.000Z",
-      "simple_summary": "A billionaire investor is warning that AI company valuations look dangerously expensive, similar to bubble periods before big market crashes in 1929 and 2000.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-17T18:55:43.000Z",
-      "simple_summary": "A company called Wispr Flow, which turns voice into written text, was just valued at $2 billion because many investors want to fund this type of AI.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A very wealthy investor says the current AI boom feels like the stock market crashes of 1929 and 2000 — too much money chasing risky bets.",
+      "why_it_matters": "This mostly matters to investors — he's warning that AI company stock prices might be too high, but nothing you need to act on personally."
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TechCrunch",
       "date": "2026-08-17T16:38:44.000Z",
-      "simple_summary": "Amazon is destroying old, rare books to use them for training AI — because rare books have information that regular online sources don't have.",
-      "why_it_matters": "This is worth knowing if you care about preserving old books, but it doesn't directly affect your daily life."
+      "simple_summary": "Amazon is buying and destroying rare old books so AI companies can use them to train their AI systems (called LLMs, which learn from written text).",
+      "why_it_matters": "Rare books and knowledge are being lost permanently to train AI — this is a real loss to history and culture."
     },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "source": "TechCrunch",
       "date": "2026-08-17T16:15:12.000Z",
-      "simple_summary": "A company called Groq raised $350 million. It used to make AI computer chips but is now shifting to running cloud computing services (computers available over the internet).",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A company called Groq raised a large sum of money and is switching from making AI computer chips to running data centers (huge computer warehouses).",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "source": "TechCrunch",
       "date": "2026-08-17T15:16:24.000Z",
-      "simple_summary": "Nvidia (a big computer chip company) is investing $1.5 billion to make sure their chips are used in a data center built by SoftBank for OpenAI.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "Nvidia, a big computer chip company, is investing $1.5 billion to make sure their chips power a data center for OpenAI.",
+      "why_it_matters": "This mostly matters to investors — it shows Nvidia is betting heavily on being the main supplier for AI companies, but nothing you need to act on."
     },
     {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-17T14:10:16.000Z",
-      "simple_summary": "Nvidia is helping secure $105 billion in financing for a massive new data center that OpenAI is building in Ohio.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T13:10:05.000Z",
-      "simple_summary": "Wispr, a company that transcribes speech to text, raised $280 million and is expanding into new areas like recording and organizing meeting notes.",
-      "why_it_matters": "If you take a lot of meeting notes or record conversations for work, better voice-to-text tools may become available."
-    },
-    {
-      "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQampJalR4UGNlRjVoZnJvNkhVeHEwRExGVU5pb2g4cjZYLU1GNnVRQ3YyMURBclctb1VUbGdsbFZ1ZUpwbEVaOUpFN2dXNlJWdExvSjExX0xYTTl6SzE3d3dtNDdJOEo3a2l2d0FuV0xLcWpUTmFrU09zNHpRckdqcVg5eXB4dms?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-17T12:00:00.000Z",
-      "simple_summary": "New satellites and AI are being used together to spot wildfires earlier and faster than before.",
-      "why_it_matters": "If you live in an area with wildfire risk, this could mean faster warnings and better protection."
+      "title": "The Economy Has Spoken: Stuff That’s AI-Generated Has Almost Zero Value",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWbjdPTVFjOUtxUkpfZUZicnREWFc3empnaXBzQlF3Y211MUZGa1hINXBhQ2EwdUxYSkRzWGNTd3hVTHRERmgtMnJ5bnEtbERXSUVoWHV5ZURUdlNpRTF4WnNTd3g4ZGJES2tXQXJUQVJQYkk0OU9ZN0Jvaw?oc=5",
+      "source": "Futurism",
+      "date": "2026-08-17T14:27:32.000Z",
+      "simple_summary": "Markets are showing that AI-created content (like art or writing made entirely by AI with no human) is worth almost nothing to buyers.",
+      "why_it_matters": "If you're selling products or services, pure AI-generated content won't impress customers — people want human skill and judgment."
     }
   ]
 }
