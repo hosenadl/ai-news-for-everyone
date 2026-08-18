@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-18T13:09:56.538Z",
+  "generated_at": "2026-08-18T18:58:01.953Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Baidu’s Profit, Revenue Continue to Fall as It Pivots to AI",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1RKTnRCSi1QY1V3ZFlsdWpCYWV1WF96UENDZkY0NXdCcDctOFVxemI3VHpUc3VOa01JSzZpNXhham9WV0NWMV9MWGs4YnBrWTJVNEJkN0FhSFFuMXlRb1o5T29hNEViZm9Ob0JvTEREQXJ1TmliVHdHbFNqdFpxZ09fekRkbUFGQmlKbUd5c2gwVTdGS2NkbjF5dWUzQklqNkdkWl9uTQ?oc=5",
-      "source": "WSJ",
-      "date": "2026-08-18T09:50:00.000Z",
-      "simple_summary": "Baidu, a Chinese search company, is making less profit and less money overall. They're trying to shift their business toward AI to fix this.",
-      "why_it_matters": "This mostly matters to investors and people doing business with Baidu — nothing you need to act on."
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T16:19:10.000Z",
+      "simple_summary": "Apple is designing camera earbuds that won't let people secretly record photos or videos. This design choice is meant to protect people's privacy.",
+      "why_it_matters": "If you're worried about people secretly recording you in public or at your business, this shows Apple is trying to build safety into the product from the start — though these earbuds haven't been released yet."
     },
     {
-      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-18T09:00:07.000Z",
-      "simple_summary": "Texas Tech University is using AI to identify and remove content that leans left-wing from their system.",
-      "why_it_matters": "If you send materials to Texas Tech, be aware they're filtering content this way, though this is mainly a college policy question rather than something affecting everyday people."
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T14:00:00.000Z",
+      "simple_summary": "A company called Warp made a new tool to help programmers build AI software more easily. It's designed to speed up the process of creating AI applications.",
+      "why_it_matters": "This mostly matters to software engineers and tech companies — nothing you need to act on as a small business owner."
     },
     {
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren’t so sure",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaE4wcEhKRkJ6bm0wTTlvMlZ5WWpyeHVlVGhseEhocmJvSm1wU1lLMDZ6Uk5MTGhhQVAxRkZCc0luT0VaN09jTjRfZ2NBSXN5MTZ2NjE4YnpVU0tQam1SeTgxQi10aVdhNkQ5eWJQU2ljZDFRQ09LMjQ5TElEUlR3NXFjQnV0RG1oVWtSRWE3NldudTJlbjdZVVB6YWozeTl2amwxei01Y2ladzFsZ1lsdWF6SWJicmh0b2Zaem1jZ0hhQnVhYWc?oc=5",
-      "source": "NPR",
-      "date": "2026-08-18T08:41:05.000Z",
-      "simple_summary": "Some recent college graduates think AI is making it harder for them to find jobs. But economists studying the data aren't sure if that's actually true yet.",
-      "why_it_matters": "If you have young people looking for work, it's worth watching, but the experts aren't convinced AI is the main job problem — yet."
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T13:50:30.000Z",
+      "simple_summary": "OpenAI created a special version of ChatGPT designed for teenagers with extra safety features and parental controls to prevent misuse and harmful content.",
+      "why_it_matters": "If you have teenagers or young employees, this gives you a safer AI tool to let them use for learning."
     },
     {
-      "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmx3Zm5SMng3bm00SmRWcGpyUXo0MmRZYldsRFk0T0lfQlZpUHlGdVp1cjdaM3Z0VDNkSHd2Ni11M3YxS2FYU3ZoWWpnbFdnalNnMkxwWk9FcWVpRjJodGVoRTFJcWdGZlVYRDY1TnVpZGZiUUZXN3J0Z2o5LTZOdjBZREt6OFQ3OG9jeGlfb2lCQlVNSU43Yy13ZUNLTG0xZlhYUUk1Y1YzRWoyR0kwU3Q4dmg?oc=5",
-      "source": "KSAT",
-      "date": "2026-08-18T00:52:09.000Z",
-      "simple_summary": "A court found that fake legal cases created by AI were used in a real lawsuit in Texas. The judge caught them because they didn't make sense.",
-      "why_it_matters": "This shows AI makes mistakes that can cause real legal problems — don't trust AI to create official documents without a human checking them carefully."
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T13:45:40.000Z",
+      "simple_summary": "An AI search tool called Perplexity offered free access in India for a limited time, and even after that ended, the company kept millions of new users and their revenue grew.",
+      "why_it_matters": "This mostly matters to investors watching Perplexity's business growth — nothing you need to act on."
+    },
+    {
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source": "The Verge",
+      "date": "2026-08-18T13:00:00.000Z",
+      "simple_summary": "Mozilla's Firefox web browser added AI chat that can look up current information on the internet and show you where it found the information.",
+      "why_it_matters": "If you use Firefox, you now have access to AI help that's connected to the live web, which is more useful than AI that only knows old information."
+    },
+    {
+      "title": "Google’s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "source": "The Verge",
+      "date": "2026-08-18T12:01:29.000Z",
+      "simple_summary": "Google's new Pet Memory feature for smart homes is supposed to help you track your pets through cameras, but it sometimes forgets or misidentifies your animals.",
+      "why_it_matters": "If you were considering using this feature to monitor pets at home or at a business, know that it's still making mistakes with recognizing individual animals."
+    },
+    {
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "source": "The Verge",
+      "date": "2026-08-18T11:00:00.000Z",
+      "simple_summary": "An air traffic control center in Minneapolis lost radar and communications for two hours, disrupting over 1,100 flights. A data company called Palantir is now helping fix these kinds of problems.",
+      "why_it_matters": "This shows that critical systems like air traffic control have serious problems — unless you work in aviation, this mostly affects your travel plans if outages happen."
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source": "The Verge",
+      "date": "2026-08-18T11:00:00.000Z",
+      "simple_summary": "OpenAI is launching a special ChatGPT mode for teenagers that combines safety features and protections to keep them from harmful content and cheating.",
+      "why_it_matters": "If you have teenagers or manage young employees, this gives you a safer way to let them use AI for learning and work."
+    },
+    {
+      "title": "Apple’s camera-equipped AirPods appear in leaked video",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "The Verge",
+      "date": "2026-08-18T09:00:01.000Z",
+      "simple_summary": "Apple is working on camera-equipped AirPods earbuds that can identify things like book covers using AI called Visual Intelligence.",
+      "why_it_matters": "These earbuds haven't been released yet and they're still in development — wait to see what they actually do before deciding if they matter to you."
     },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "source": "TechCrunch",
       "date": "2026-08-17T23:56:26.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, says their yearly earnings jumped to $65 billion (though this projection is based on recent growth, not confirmed sales).",
-      "why_it_matters": "This mostly matters to investors — it shows the AI business is very hot right now, but nothing you need to act on."
+      "simple_summary": "Anthropic, a company that makes AI software, is making a lot of money very quickly — their yearly earnings jumped by $18 billion in just two months.",
+      "why_it_matters": "This mostly matters to investors — it shows the AI business is growing fast, but it doesn't directly affect how you use AI."
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TechCrunch",
       "date": "2026-08-17T21:27:05.000Z",
-      "simple_summary": "A small AI startup called Relay is closing down, and its team members are moving to Google to work on AI features in the Chrome web browser.",
-      "why_it_matters": "Google is adding more AI features to Chrome, so you may see AI tools appear in your web browser soon."
-    },
-    {
-      "title": "Campton Township man Jeremy Batterman accused of using AI to create child porn: Kane County officials",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa05qamxzT3NxWFpZeGFxeXJIV2hJVHlrZ3hJbDJDM0ZBZm01OEtvV1NQdC1QQmRaOU5STFVDaXBLeTZOSUJUOTZFV2RzZ1h0TEg4eW9hc3JiSmRmTnFKY2FDYlg3SU5ISmtMZHZTNXJ6dHU2Z2puREpZcU1rdkVZNVFNRGwycEFYOVN1TllwZWI5OGc5Zzk5aTZLYnF3eW9mNkRfSjI5bXRFa1dtUFk2MHhwWURsSG44MEJfV21kWC1sNFpJOU9XVE9MNS1xZ9IB0wFBVV95cUxPWHNkRHFRLU5ZWXVRZHptRjhUOExOb2p4N3NKZmFEd2FIMWVHSUJ2bWRtR09DTEYyaG1JdUVxTmE2Mm9YZHV4UUNTdWE3cjctbjI5dWpQSHpxOGp6QWNKQmt2WXVuMjFRRTFDU3ZubGsxdU5XVjVPUFJuSTZqR3RwdHE3MmNMNnloSExZVnZJNG1GTGRPY05wVnhSNUdMRFJlY09XR2JoWmN6ZkN3WmtQMF83aVFRUkZONjdFdm1uQTE4SlRXaDVFNkFHRmFhN2ZfSlhr?oc=5",
-      "source": "ABC7 Chicago",
-      "date": "2026-08-17T20:46:21.000Z",
-      "simple_summary": "Police in Illinois say a man used AI to create illegal fake images of children.",
-      "why_it_matters": "This shows AI is being misused for serious crimes — it's a reminder of the real harms AI can cause."
-    },
-    {
-      "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3p1S3pIUDJ5S0h5QVY5TllsNXo2WlFmdDExNk1oOUtyM0dMcFRQUXEtOEpUaVJVcDdvdU1EVEZZdlJ1TzloeWVvMmo4RFg2cUpteTE3X1VnQktpQlZKZ01oMmlpWkFqMXg1SFoxbVRNM0xSQXRtMzBncU9RZ1FHYjNhQnFqUGdoUm4wS2R5N1FNaUtlb1M0aUs1LVlGeDA?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-08-17T19:20:00.000Z",
-      "simple_summary": "A very wealthy investor says the current AI boom feels like the stock market crashes of 1929 and 2000 — too much money chasing risky bets.",
-      "why_it_matters": "This mostly matters to investors — he's warning that AI company stock prices might be too high, but nothing you need to act on personally."
+      "simple_summary": "A startup called Relay that automated tasks with AI is closing down, and its team is moving to work on AI tools inside Google's Chrome browser.",
+      "why_it_matters": "If you were using Relay for your business, you'll need to find a different tool, but the team's work will continue at Google."
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TechCrunch",
       "date": "2026-08-17T16:38:44.000Z",
-      "simple_summary": "Amazon is buying and destroying rare old books so AI companies can use them to train their AI systems (called LLMs, which learn from written text).",
-      "why_it_matters": "Rare books and knowledge are being lost permanently to train AI — this is a real loss to history and culture."
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T16:15:12.000Z",
-      "simple_summary": "A company called Groq raised a large sum of money and is switching from making AI computer chips to running data centers (huge computer warehouses).",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T15:16:24.000Z",
-      "simple_summary": "Nvidia, a big computer chip company, is investing $1.5 billion to make sure their chips power a data center for OpenAI.",
-      "why_it_matters": "This mostly matters to investors — it shows Nvidia is betting heavily on being the main supplier for AI companies, but nothing you need to act on."
-    },
-    {
-      "title": "The Economy Has Spoken: Stuff That’s AI-Generated Has Almost Zero Value",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWbjdPTVFjOUtxUkpfZUZicnREWFc3empnaXBzQlF3Y211MUZGa1hINXBhQ2EwdUxYSkRzWGNTd3hVTHRERmgtMnJ5bnEtbERXSUVoWHV5ZURUdlNpRTF4WnNTd3g4ZGJES2tXQXJUQVJQYkk0OU9ZN0Jvaw?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-17T14:27:32.000Z",
-      "simple_summary": "Markets are showing that AI-created content (like art or writing made entirely by AI with no human) is worth almost nothing to buyers.",
-      "why_it_matters": "If you're selling products or services, pure AI-generated content won't impress customers — people want human skill and judgment."
+      "simple_summary": "Amazon is destroying rare and valuable old books to use them for training AI systems, because these books contain unique information not found online.",
+      "why_it_matters": "This is concerning because irreplaceable books are being destroyed — if you care about preserving rare texts, this shows AI training can come at a cost to history and culture."
     }
   ]
 }
