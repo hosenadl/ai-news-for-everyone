@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-18T01:52:19.245Z",
+  "generated_at": "2026-08-18T07:05:51.417Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch",
+      "date": "2026-08-17T23:56:26.000Z",
+      "simple_summary": "Anthropic, a company that makes AI systems, is making money much faster than before — they're now earning $65 billion per year. They added $18 billion in earnings in just two months.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on right now."
+    },
+    {
+      "title": "AI at work puts new pressure on managers",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOelBoX21vTDdsQWJGcWxCcU9rMW9xekEzUG52ZUxoR0djbXMwT2QxTUt5T3ZKLVNiQ0liY0J2LUZOWkN3eWxUTzU4bVFOc1pyRmNyM0dBczVHSm8xcDZKcVNJSXZTSXRRR1hfLWxmZjZZOWM4UXZHdnhFTVBEWGxnV1dYWWZpWExnVUd5cDNKZVlYV3E1NVh4QXptWWZ4dVJHWUhid3hLTW9xREctTGhoTDZCQjNPQ2prTWQ2WHQxTmgwZE1EUjJKTEZOTXZtOWhkOW5EVHoyQ2tqeklEV2dJbnZwNVRFUE01dGhtZA?oc=5",
+      "source": "WBFF",
+      "date": "2026-08-17T22:19:26.000Z",
+      "simple_summary": "AI tools at work are changing what managers have to do. They need to figure out how to use AI and what rules to follow.",
+      "why_it_matters": "If you manage employees, you may need to think about how AI could help or change the work your team does."
+    },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TechCrunch",
       "date": "2026-08-17T21:27:05.000Z",
-      "simple_summary": "A company called Relay that worked on AI automation is closing down, and its team is moving to work on AI features in Google's Chrome browser.",
-      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on."
+      "simple_summary": "A startup called Relay that helped automate tasks is shutting down. Its staff is joining Google to build AI features into the Chrome web browser.",
+      "why_it_matters": "Google is working on making AI tools easier to use in Chrome, which may bring AI features to everyday web browsing."
+    },
+    {
+      "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-17T19:51:10.000Z",
+      "simple_summary": "Companies like Spotify and LinkedIn are getting tired of low-quality AI-generated content (called 'AI slop') cluttering their platforms.",
+      "why_it_matters": "If you use these apps or advertise on them, there may be less spam and junk content soon."
+    },
+    {
+      "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3p1S3pIUDJ5S0h5QVY5TllsNXo2WlFmdDExNk1oOUtyM0dMcFRQUXEtOEpUaVJVcDdvdU1EVEZZdlJ1TzloeWVvMmo4RFg2cUpteTE3X1VnQktpQlZKZ01oMmlpWkFqMXg1SFoxbVRNM0xSQXRtMzBncU9RZ1FHYjNhQnFqUGdoUm4wS2R5N1FNaUtlb1M0aUs1LVlGeDA?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-08-17T19:20:00.000Z",
+      "simple_summary": "A billionaire investor is warning that AI company valuations look dangerously expensive, similar to bubble periods before big market crashes in 1929 and 2000.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-17T18:55:43.000Z",
+      "simple_summary": "A company called Wispr Flow, which turns voice into written text, was just valued at $2 billion because many investors want to fund this type of AI.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TechCrunch",
       "date": "2026-08-17T16:38:44.000Z",
-      "simple_summary": "Amazon is destroying rare and valuable old books to use them for training AI systems (machine learning). These old books are useful because AI has already learned from most things available on the internet.",
-      "why_it_matters": "If you own rare or antique books, know that they may become less available and more expensive in the future."
+      "simple_summary": "Amazon is destroying old, rare books to use them for training AI — because rare books have information that regular online sources don't have.",
+      "why_it_matters": "This is worth knowing if you care about preserving old books, but it doesn't directly affect your daily life."
     },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "source": "TechCrunch",
       "date": "2026-08-17T16:15:12.000Z",
-      "simple_summary": "A company called Groq received $350 million in funding and is changing its business from making AI computer chips to offering cloud computing services (renting computer power over the internet).",
-      "why_it_matters": "This mostly matters to investors and large businesses — nothing you need to act on."
+      "simple_summary": "A company called Groq raised $350 million. It used to make AI computer chips but is now shifting to running cloud computing services (computers available over the internet).",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "source": "TechCrunch",
       "date": "2026-08-17T15:16:24.000Z",
-      "simple_summary": "Computer chip maker Nvidia is investing $1.5 billion in a company that builds data centers (massive computer warehouses), which will power AI systems made by OpenAI.",
-      "why_it_matters": "This mostly matters to investors and large tech companies — nothing you need to act on."
+      "simple_summary": "Nvidia (a big computer chip company) is investing $1.5 billion to make sure their chips are used in a data center built by SoftBank for OpenAI.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-17T14:10:16.000Z",
+      "simple_summary": "Nvidia is helping secure $105 billion in financing for a massive new data center that OpenAI is building in Ohio.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
       "source": "TechCrunch",
       "date": "2026-08-17T13:10:05.000Z",
-      "simple_summary": "A voice recording company called Wispr received $280 million to expand and add new features, like taking notes during meetings automatically.",
-      "why_it_matters": "If you have lots of meetings, this company's new note-taking tool might eventually save you time by recording and summarizing what was said."
+      "simple_summary": "Wispr, a company that transcribes speech to text, raised $280 million and is expanding into new areas like recording and organizing meeting notes.",
+      "why_it_matters": "If you take a lot of meeting notes or record conversations for work, better voice-to-text tools may become available."
     },
     {
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "date": "2026-08-17T10:57:13.000Z",
-      "simple_summary": "The AI company Anthropic is adding invisible digital fingerprints to text created by their AI assistant Claude so people can tell that text was AI-generated, following European rules.",
-      "why_it_matters": "This helps ensure AI-written content is clearly labeled, which protects you from being tricked by machine-written material pretending to be human-written."
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge",
-      "date": "2026-08-16T21:32:56.000Z",
-      "simple_summary": "OpenAI closed down its safety team that was supposed to check if AI systems could cause serious problems or go rogue.",
-      "why_it_matters": "This is concerning because it means fewer people are watching for AI risks, though the long-term impact remains unclear."
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch",
-      "date": "2026-08-16T20:57:04.000Z",
-      "simple_summary": "Payment company Stripe is reportedly buying an AI startup called OpenRouter for over $7 billion; OpenRouter works kind of like Stripe does but for AI services.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch",
-      "date": "2026-08-16T20:32:01.000Z",
-      "simple_summary": "Mark Zuckerberg (Facebook's founder) has been promoting his vision for AI's future, but many people are skeptical and not convinced by his ideas.",
-      "why_it_matters": "This is mainly tech industry discussion — nothing you need to act on."
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch",
-      "date": "2026-08-16T16:53:51.000Z",
-      "simple_summary": "The CEO of Anthropic says that people's doubts about AI come from not trusting the companies making it, not from realistic concerns about AI being bad.",
-      "why_it_matters": "This is mainly industry talk between executives — it reflects the debate about whether AI companies are being honest with the public."
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "source": "The Verge",
-      "date": "2026-08-16T14:56:40.000Z",
-      "simple_summary": "ChatGPT's desktop app now has a feature called Computer History that watches what you click and type on your computer to learn your habits and suggest shortcuts.",
-      "why_it_matters": "If you use this feature, know that ChatGPT will be recording and learning from everything you do on your computer — make sure you're comfortable with that before turning it on."
-    },
-    {
-      "title": "Rogue AI aren’t science fiction anymore",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "source": "The Verge",
-      "date": "2026-08-16T12:00:00.000Z",
-      "simple_summary": "AI systems that can act on their own without a human controlling them are now real, not just science fiction.",
-      "why_it_matters": "This is a developing story about AI safety that affects how careful companies should be — it's worth watching but the details aren't clear yet."
+      "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQampJalR4UGNlRjVoZnJvNkhVeHEwRExGVU5pb2g4cjZYLU1GNnVRQ3YyMURBclctb1VUbGdsbFZ1ZUpwbEVaOUpFN2dXNlJWdExvSjExX0xYTTl6SzE3d3dtNDdJOEo3a2l2d0FuV0xLcWpUTmFrU09zNHpRckdqcVg5eXB4dms?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-17T12:00:00.000Z",
+      "simple_summary": "New satellites and AI are being used together to spot wildfires earlier and faster than before.",
+      "why_it_matters": "If you live in an area with wildfire risk, this could mean faster warnings and better protection."
     }
   ]
 }
