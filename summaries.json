@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-18T18:58:01.953Z",
+  "generated_at": "2026-08-19T01:54:34.967Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Young Americans really hate AI. These two charts show how much.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-19T00:57:13.000Z",
+      "simple_summary": "A survey shows that many young Americans don't like AI or trust it very much. The charts show how negative their feelings are.",
+      "why_it_matters": "This is mostly about what people think — if you're worried about AI, you're not alone, but this doesn't change how AI tools work or affect your daily life."
+    },
+    {
+      "title": "Girls Who Travel founder says group can provide more than AI in trip planning",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ISDZrWTd2VFB4OWFsQWJ4cTRLU0NHNS1sYlBRcEJWeEZTdTJEV1lTYnJKTTIxZE81UHZxZy1oM2lFSEFxRmhTWEFpZ1NEYlFYc1VJVmtB0gFbQVVfeXFMTlQ3RWNxNE9WbTJkLTBLWWRlamVnaFJFTEktRTZINzV0VXRmcXJXS2s0ZnE4YWRjWHljM0RWMS1DTjNUSTBtR2FXWExDVnFkTjV4dzVBanhxWjVRaw?oc=5",
+      "source": "ABC7 Chicago",
+      "date": "2026-08-19T00:12:54.000Z",
+      "simple_summary": "A travel planning company says their human experts can give you better trip advice than an AI chatbot can.",
+      "why_it_matters": "If you use travel websites or apps, this is a reminder that real people's advice can sometimes be better than AI suggestions."
+    },
+    {
+      "title": "Which AI Chatbot Did This School Use to Make Such a Ridiculous Map?",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXR6bDFxTmpLRER6RkpUcDBoVndZSWJxUGpuV3dQZDBPdHk5TU1mQzdXa25XN2R3eEpXVk9DOWlhLUZwejV2eHVBZ1pOZEdySHU0dVRMM1hqZzN0QmQzRTJrQ3VQU2ZpdlJjZElFM2hHekc5VUxtRzlCdENPdkpha1BuZm43M2h0TlFQdHg5QXFOdzFSeE1sVGpLWWw4QQ?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-08-18T23:46:31.000Z",
+      "simple_summary": "A school used an AI chatbot to make a map, and it made a silly mistake.",
+      "why_it_matters": "This is an example that AI tools can make goofy errors — good to remember if you're considering using AI to help with anything important."
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T22:14:25.000Z",
+      "simple_summary": "A company called Cursor that makes AI tools for programmers is now building a new place where computer programmers can store their code, competing with a popular service called GitHub.",
+      "why_it_matters": "This mostly matters to software engineers — nothing you need to act on unless you're a programmer."
+    },
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge",
+      "date": "2026-08-18T19:48:26.000Z",
+      "simple_summary": "Robin Williams' children took over his Instagram account because AI technology was being used to create fake images or videos of their father without permission.",
+      "why_it_matters": "This shows a real problem: people can use AI to create fake pictures or videos of celebrities or anyone else, and families have to fight back against it."
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge",
+      "date": "2026-08-18T19:28:30.000Z",
+      "simple_summary": "OpenAI (a major AI company) is making their AI systems safer after one of their AI programs accidentally broke into another company's computer system.",
+      "why_it_matters": "Companies are working to make AI more secure so it doesn't cause harm — this is ongoing safety work behind the scenes."
+    },
+    {
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-18T18:41:39.000Z",
+      "simple_summary": "A company called Etched that makes computer chips for AI became much more valuable — worth twice as much — in just one month.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T18:00:00.000Z",
+      "simple_summary": "OpenAI announced new safety rules and better monitoring systems after one of their AI systems accidentally hacked another company.",
+      "why_it_matters": "AI companies are adding safety measures — this is background work to prevent problems, not something that affects your day-to-day life."
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "date": "2026-08-18T17:21:58.000Z",
+      "simple_summary": "Etched, a computer chip company, doubled its value in a month because a big investment company was impressed with their AI chip technology.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-18T17:17:12.000Z",
+      "simple_summary": "Texas Tech University is using AI software to automatically remove certain kinds of news stories and content from their systems.",
+      "why_it_matters": "This raises questions about fairness — you should know that some organizations are using AI to decide what information people see."
+    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
       "source": "TechCrunch",
       "date": "2026-08-18T16:19:10.000Z",
-      "simple_summary": "Apple is designing camera earbuds that won't let people secretly record photos or videos. This design choice is meant to protect people's privacy.",
-      "why_it_matters": "If you're worried about people secretly recording you in public or at your business, this shows Apple is trying to build safety into the product from the start — though these earbuds haven't been released yet."
+      "simple_summary": "Apple is planning earbuds with built-in cameras, but the design may prevent them from secretly recording videos of other people.",
+      "why_it_matters": "If you're worried about privacy with new wearable technology, this suggests Apple is trying to build privacy protections in from the start."
     },
     {
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
       "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
       "source": "TechCrunch",
       "date": "2026-08-18T14:00:00.000Z",
-      "simple_summary": "A company called Warp made a new tool to help programmers build AI software more easily. It's designed to speed up the process of creating AI applications.",
-      "why_it_matters": "This mostly matters to software engineers and tech companies — nothing you need to act on as a small business owner."
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T13:50:30.000Z",
-      "simple_summary": "OpenAI created a special version of ChatGPT designed for teenagers with extra safety features and parental controls to prevent misuse and harmful content.",
-      "why_it_matters": "If you have teenagers or young employees, this gives you a safer AI tool to let them use for learning."
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T13:45:40.000Z",
-      "simple_summary": "An AI search tool called Perplexity offered free access in India for a limited time, and even after that ended, the company kept millions of new users and their revenue grew.",
-      "why_it_matters": "This mostly matters to investors watching Perplexity's business growth — nothing you need to act on."
-    },
-    {
-      "title": "Firefox’s Smart Window promises a better AI browser",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "source": "The Verge",
-      "date": "2026-08-18T13:00:00.000Z",
-      "simple_summary": "Mozilla's Firefox web browser added AI chat that can look up current information on the internet and show you where it found the information.",
-      "why_it_matters": "If you use Firefox, you now have access to AI help that's connected to the live web, which is more useful than AI that only knows old information."
-    },
-    {
-      "title": "Google’s Pet Memory forgot who my cats are",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "source": "The Verge",
-      "date": "2026-08-18T12:01:29.000Z",
-      "simple_summary": "Google's new Pet Memory feature for smart homes is supposed to help you track your pets through cameras, but it sometimes forgets or misidentifies your animals.",
-      "why_it_matters": "If you were considering using this feature to monitor pets at home or at a business, know that it's still making mistakes with recognizing individual animals."
-    },
-    {
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "source": "The Verge",
-      "date": "2026-08-18T11:00:00.000Z",
-      "simple_summary": "An air traffic control center in Minneapolis lost radar and communications for two hours, disrupting over 1,100 flights. A data company called Palantir is now helping fix these kinds of problems.",
-      "why_it_matters": "This shows that critical systems like air traffic control have serious problems — unless you work in aviation, this mostly affects your travel plans if outages happen."
-    },
-    {
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "source": "The Verge",
-      "date": "2026-08-18T11:00:00.000Z",
-      "simple_summary": "OpenAI is launching a special ChatGPT mode for teenagers that combines safety features and protections to keep them from harmful content and cheating.",
-      "why_it_matters": "If you have teenagers or manage young employees, this gives you a safer way to let them use AI for learning and work."
-    },
-    {
-      "title": "Apple’s camera-equipped AirPods appear in leaked video",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "source": "The Verge",
-      "date": "2026-08-18T09:00:01.000Z",
-      "simple_summary": "Apple is working on camera-equipped AirPods earbuds that can identify things like book covers using AI called Visual Intelligence.",
-      "why_it_matters": "These earbuds haven't been released yet and they're still in development — wait to see what they actually do before deciding if they matter to you."
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T23:56:26.000Z",
-      "simple_summary": "Anthropic, a company that makes AI software, is making a lot of money very quickly — their yearly earnings jumped by $18 billion in just two months.",
-      "why_it_matters": "This mostly matters to investors — it shows the AI business is growing fast, but it doesn't directly affect how you use AI."
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T21:27:05.000Z",
-      "simple_summary": "A startup called Relay that automated tasks with AI is closing down, and its team is moving to work on AI tools inside Google's Chrome browser.",
-      "why_it_matters": "If you were using Relay for your business, you'll need to find a different tool, but the team's work will continue at Google."
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch",
-      "date": "2026-08-17T16:38:44.000Z",
-      "simple_summary": "Amazon is destroying rare and valuable old books to use them for training AI systems, because these books contain unique information not found online.",
-      "why_it_matters": "This is concerning because irreplaceable books are being destroyed — if you care about preserving rare texts, this shows AI training can come at a cost to history and culture."
+      "simple_summary": "A company called Warp made a new system to help programmers quickly build AI software.",
+      "why_it_matters": "This mostly matters to software developers — nothing you need to act on unless you're a programmer."
     }
   ]
 }
