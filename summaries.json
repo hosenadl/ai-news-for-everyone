@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T13:10:54.388Z",
+  "generated_at": "2026-08-19T18:54:54.099Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Exclusive | As Xi’s US visit approaches, basic details of planned AI talks remain uncertain",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGROb0Y5SjB3eDR0TUFqTG5LSUpKQ1VJejRPTnkyTjlIdVQxaTB6N0JPQ1d4SnNJa0F1Tm92cTR3R0FXdlNWOVJqUHJDeVdoVDZlVmF6NXNUZ3hycmIyUDBlcWxmNE5uMHp1aGRldzR5RHZLeHRja0JzeUR4MlpmcDk5Y3RsYjhEWGEzckptTXNoejVsbXV5VmVSalYyOUwwUkg4d3IzeFlxaEhlVldSbkJFSWJiMUw0RzBINXJXdC1Cbk9IODlQStIByAFBVV95cUxQd2RtNGJ4V2xQeWpsek1WVUVEMTBrQWNGdUE0Q0MxU3lmN0tzRktGRThERjNzejNPT0ZYVEh5N3dGNXNxWE9tdTBDbzZWOGZBcXZEbDRyVDc1SXN4cjhzcGJpZmpYTF9CdVpzdlRPSzhFZXFpekZDbG1HTDB6Wm9RSExXOHh4TFZFZ3JBU19obzE0ZTROelR6alFoUTlHMVVuQkxkcHJqSDZwel8wTzFpUTRINUJWM2hHelM5T0R1ZlBBV2xWQm1tdQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-08-19T10:00:15.000Z",
-      "simple_summary": "US and Chinese leaders are planning to discuss AI, but the details of what they'll talk about aren't clear yet.",
-      "why_it_matters": "This mostly matters to investors and policy watchers — nothing you need to act on right now."
+      "title": "AI jobs boom is leaving women behind in top-paying roles",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDZKOHdCMm1qcHJ1ZlpjbVB0ejVhVHowZjdHSHRIeWNJQnI4QXU3MUhrUTlPaHJ3azd3amtxWkdLSDNTZE1FLVg0ZG9ENHMwZTliLVhwVFpZOFdpY2o2NHFpd3FaOGJiVUhCRFlmcW15WkhkYjgxdGs5S0FLVEhSa1ZzTld4MlY5dGVGcGxzQ2RrbUd4S1dyZVFCUktOb2FXQ0tPSWsxNUdiUQ?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-08-19T17:20:00.000Z",
+      "simple_summary": "New AI jobs are being created, but women are not getting many of the highest-paying positions in this field.",
+      "why_it_matters": "If you're hiring for tech roles or planning your career, you should know that AI job opportunities are growing but may not be equally available to everyone."
     },
     {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T10:00:00.000Z",
-      "simple_summary": "A company developed a new type of internet cable that moves data 30% faster than regular cables and raised money to use it in data centers (the buildings that store and process information for companies).",
-      "why_it_matters": "This might make internet services slightly faster someday, but it's mainly interesting to tech companies and investors, not small business owners."
-    },
-    {
-      "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
-      "source": "NBC News",
-      "date": "2026-08-19T09:54:09.000Z",
-      "simple_summary": "A Chinese company that makes robots just had a very successful first day of selling stock on the stock market, partly because AI is getting a lot of attention right now.",
-      "why_it_matters": "This mostly matters to investors — it shows people are excited about AI businesses, but it won't directly affect your daily life."
-    },
-    {
-      "title": "Bridgewater’s top investors are backing an AI startup to give smaller hedge funds more firepower",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFNFOGU1RWk3TmxOOXU0a0kydWU3b3Q5OXJsVEtueVFVSE9OM1U2ZHAzQWVCWTRMYl9RUzdwQk5RQndXUUZGbUIzYmQ1NFVRQlFmNGFKZmEyeERCaGxDbm1iQlpjMmZ3S2NPRkJLQnlYaUZkcnYxS3JISmhVdXVBQW1uV2tIX0JVYWt5U3VVRURlRm1EMk1WbHkxaWFRNFdZZE0w?oc=5",
-      "source": "Business Insider",
-      "date": "2026-08-19T09:50:03.000Z",
-      "simple_summary": "Big investment managers are funding a new AI company to help smaller hedge funds (investment groups) compete better.",
-      "why_it_matters": "This is for wealthy investors only — nothing relevant to ordinary small business owners."
-    },
-    {
-      "title": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFVsb1pEZUMtNVV0aVJGMEpVN0QxRlpORVItaXFIVzVzSDVTZ0tpSEpLZ3M4Wml4MU9CNzNpWi0tNXh3TDNZajdsV3djMXBZT2VCajQ0NHNNSkk4U0Z6UndvdV9DcFNtQjhwcXUybTZkaTZfR0txcHUwUG9HX1lzMmd5OTBpTkJuZEF5YmMtOU51X09PeXB3b3NaUUtnVUtzS3prUWEtdUltbS1kZzlLZFdXWmNuZFp2MGc3MUtzbUlOWGJOMnBTSnVQNFMzamZ2NHN1bjRUMDRzSlpTYXc?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-19T08:00:00.000Z",
-      "simple_summary": "A book review warns that technology companies are getting too much power over our society.",
-      "why_it_matters": "This is someone's opinion about big tech trends — worth thinking about, but no immediate action needed."
-    },
-    {
-      "title": "China urges respect for digital sovereignty in AI race",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-19T07:50:15.000Z",
-      "simple_summary": "China is saying that countries should have the right to control their own digital technology and AI systems.",
-      "why_it_matters": "This is government-level politics — nothing you need to act on as a small business owner."
-    },
-    {
-      "title": "Young Americans really hate AI. These two charts show how much.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-08-19T03:25:34.000Z",
-      "simple_summary": "Young Americans say they don't like or trust AI, according to recent surveys.",
-      "why_it_matters": "This tells us what people think, but doesn't change anything concrete — it's mostly interesting to researchers and marketers."
-    },
-    {
-      "title": "Artificial intelligence acts as an 'ideological chameleon' and may deepen political polarization",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHNGcVp3YmcwSC1SUGdWYlR6ZnAtRWtqeUtaYVc2VWhLMldyYWxxb0xSZy1uOWtnWlNiWG9leVExTVBHMjE1SjBYRWFENW05ZmpDWHVLWUprQWFUbWZ5SkFFenJ0Wkk2ZnNHdDlDZ0FxcEpvOU1xM0ZrbzhNN1hzbEZwRWdfdkFobXN2aTJWdzQ?oc=5",
-      "source": "Phys.org",
-      "date": "2026-08-18T23:30:01.000Z",
-      "simple_summary": "AI can pretend to be any political side and might make people's disagreements worse because it tells each group what they want to hear.",
-      "why_it_matters": "This is a real concern worth knowing about — be cautious when AI or social media shows you only one viewpoint."
-    },
-    {
-      "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjNYNW4wVVVyRUU4MjlWMjBOSXBZaVBUOGVmWGlnVk9nQVl3Y0R0RWc1Q01PTXZNV1I5TEM2MnUyelMyLWtxbjNEaHlQWlBmbE1GZ2tFX0I0VGRIejd3Wk1RbjlCa3hRYkhiX01yLVdiVnZjandHdU9VMU9oYjg4eXktN2F4djJwNHFLdGJVaUV1N3FEdGc?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-08-18T23:15:00.000Z",
-      "simple_summary": "An article compares the stock prices of two companies that make computer chips for AI, trying to figure out which is a better investment.",
-      "why_it_matters": "This is for stock investors only — nothing you need to know."
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T22:14:25.000Z",
-      "simple_summary": "A company that makes AI writing tools is starting a new service to host computer code, competing with a popular website called GitHub.",
-      "why_it_matters": "This is mostly interesting to software developers — it won't affect most small business owners."
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
-      "date": "2026-08-18T19:48:26.000Z",
-      "simple_summary": "Robin Williams' children took over his Instagram account because AI was being used to create fake videos of him, and they want to prevent that abuse.",
-      "why_it_matters": "This shows a real problem: AI can copy someone's face or voice without permission, which is why you should be careful about who you give your photos and videos to."
+      "date": "2026-08-19T17:10:09.000Z",
+      "simple_summary": "OpenAI, a major AI company, decided to slow down and take a two-week pause on some of its AI work to focus on making things safer and more secure instead of rushing ahead.",
+      "why_it_matters": "This mostly matters to investors and tech industry people — nothing you need to act on right now."
     },
     {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "title": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-08-19T17:09:26.000Z",
+      "simple_summary": "Stripe, a payment company, bought an AI company called OpenRouter. The price wasn't announced.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "source": "The Verge",
-      "date": "2026-08-18T19:28:30.000Z",
-      "simple_summary": "OpenAI (a major AI company) is adding better security protections after one of their AI systems accidentally broke into another company's computer system.",
-      "why_it_matters": "This shows AI is powerful enough to be risky, so companies need to be careful — good to know that they're taking security seriously."
+      "date": "2026-08-19T17:00:00.000Z",
+      "simple_summary": "Meta made a new app for Apple computers that lets you share what's on your screen with their AI assistant, which can answer questions and help create things.",
+      "why_it_matters": "If you use a Mac and already use Meta's AI, you now have easier access to it on your computer."
+    },
+    {
+      "title": "The A.I. in Google’s New Pixel 11 Is Not Very Helpful",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFBhbk11Q0ctTXc4b3ZUYUV5OHRQUHJzNW1ZU0NFYVJ1b3lyRElrVFpGODJQdWtlRkxZa1o3SVAwbW5CN3N6X0NSYXlnWXBKbEIwMmxGc0kwNmFYb25kWjRtMU84Zy1IdUVCUDNibkc5LVdPNjhheWlsS0ZFN3FXWXQtNjlwSENHWVY3RFMwcw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-19T16:00:11.000Z",
+      "simple_summary": "Google's new Pixel 11 phone has AI features built in, but they don't seem to be very useful yet.",
+      "why_it_matters": "If you're thinking about buying a new Android phone, the AI features may not yet be worth paying extra for."
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T15:44:53.000Z",
+      "simple_summary": "A company called TerraPower is building a nuclear power plant that could be a good fit for powering the huge computers that AI companies need.",
+      "why_it_matters": "This mostly matters to investors and data center companies — nothing you need to act on."
+    },
+    {
+      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-19T15:08:05.000Z",
+      "simple_summary": "Google agreed to buy computer chips from Marvell, a chip maker, and the deal could be worth up to $12.2 billion, which made Marvell's stock price jump.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T15:00:00.000Z",
+      "simple_summary": "Amazon is making its upgraded Alexa AI assistant free on Fire TV devices for everyone, even people who don't pay for Prime membership.",
+      "why_it_matters": "If you own a Fire TV device, you may get access to a better AI assistant at no extra cost."
+    },
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T14:09:39.000Z",
+      "simple_summary": "Calendly, the meeting scheduling website, is adding an AI assistant called Callie that helps take notes during meetings.",
+      "why_it_matters": "If your small business uses Calendly to schedule meetings, you may soon have an AI tool to help keep track of what was discussed."
+    },
+    {
+      "title": "How the use of artificial intelligence harms college students’ ability to learn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEVCRlQtNDg4WFNkVW9ES2FNZnRxU29JRWxUTHpqNWx5b2FidVBLVDJKdUZtbW15c29PYlNqVV9HdU80SVZtWWxXOEFvV3B1WW9FekxVWmlNejc5bGEyaGJUWDZ5UVR3bXNfTm1hLU5pNW9Rb1N6TklUcU5SMXNvZTRja2hkX01xTEh3QldwcXdNZlc0cnZpUjdZOFF0Zk9NdThKQVVxaTE?oc=5",
+      "source": "PsyPost",
+      "date": "2026-08-19T12:34:33.000Z",
+      "simple_summary": "Research shows that when students use AI to do their work, it can hurt their ability to actually learn the material.",
+      "why_it_matters": "If you have kids or grandkids in school, this is worth knowing — relying on AI instead of doing the work yourself makes learning harder."
+    },
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T12:00:00.000Z",
+      "simple_summary": "A startup says that using AI to help cure cancer is hard because the real problem is having enough good data to work with.",
+      "why_it_matters": "This mostly matters to medical researchers and investors — nothing you need to act on."
+    },
+    {
+      "title": "Nvidia’s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "source": "The Verge",
+      "date": "2026-08-19T12:00:00.000Z",
+      "simple_summary": "Major finance companies are working with Nvidia (a chip maker) to create a $500 billion funding plan that treats computer power as a tradeable product, similar to how stocks or bonds work.",
+      "why_it_matters": "This mostly matters to investors and financial professionals — nothing you need to act on."
     }
   ]
 }
