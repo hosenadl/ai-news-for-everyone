@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T07:07:16.289Z",
+  "generated_at": "2026-08-19T13:10:54.388Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Exclusive | As Xi’s US visit approaches, basic details of planned AI talks remain uncertain",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGROb0Y5SjB3eDR0TUFqTG5LSUpKQ1VJejRPTnkyTjlIdVQxaTB6N0JPQ1d4SnNJa0F1Tm92cTR3R0FXdlNWOVJqUHJDeVdoVDZlVmF6NXNUZ3hycmIyUDBlcWxmNE5uMHp1aGRldzR5RHZLeHRja0JzeUR4MlpmcDk5Y3RsYjhEWGEzckptTXNoejVsbXV5VmVSalYyOUwwUkg4d3IzeFlxaEhlVldSbkJFSWJiMUw0RzBINXJXdC1Cbk9IODlQStIByAFBVV95cUxQd2RtNGJ4V2xQeWpsek1WVUVEMTBrQWNGdUE0Q0MxU3lmN0tzRktGRThERjNzejNPT0ZYVEh5N3dGNXNxWE9tdTBDbzZWOGZBcXZEbDRyVDc1SXN4cjhzcGJpZmpYTF9CdVpzdlRPSzhFZXFpekZDbG1HTDB6Wm9RSExXOHh4TFZFZ3JBU19obzE0ZTROelR6alFoUTlHMVVuQkxkcHJqSDZwel8wTzFpUTRINUJWM2hHelM5T0R1ZlBBV2xWQm1tdQ?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-08-19T10:00:15.000Z",
+      "simple_summary": "US and Chinese leaders are planning to discuss AI, but the details of what they'll talk about aren't clear yet.",
+      "why_it_matters": "This mostly matters to investors and policy watchers — nothing you need to act on right now."
+    },
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T10:00:00.000Z",
+      "simple_summary": "A company developed a new type of internet cable that moves data 30% faster than regular cables and raised money to use it in data centers (the buildings that store and process information for companies).",
+      "why_it_matters": "This might make internet services slightly faster someday, but it's mainly interesting to tech companies and investors, not small business owners."
+    },
+    {
+      "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
+      "source": "NBC News",
+      "date": "2026-08-19T09:54:09.000Z",
+      "simple_summary": "A Chinese company that makes robots just had a very successful first day of selling stock on the stock market, partly because AI is getting a lot of attention right now.",
+      "why_it_matters": "This mostly matters to investors — it shows people are excited about AI businesses, but it won't directly affect your daily life."
+    },
+    {
+      "title": "Bridgewater’s top investors are backing an AI startup to give smaller hedge funds more firepower",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFNFOGU1RWk3TmxOOXU0a0kydWU3b3Q5OXJsVEtueVFVSE9OM1U2ZHAzQWVCWTRMYl9RUzdwQk5RQndXUUZGbUIzYmQ1NFVRQlFmNGFKZmEyeERCaGxDbm1iQlpjMmZ3S2NPRkJLQnlYaUZkcnYxS3JISmhVdXVBQW1uV2tIX0JVYWt5U3VVRURlRm1EMk1WbHkxaWFRNFdZZE0w?oc=5",
+      "source": "Business Insider",
+      "date": "2026-08-19T09:50:03.000Z",
+      "simple_summary": "Big investment managers are funding a new AI company to help smaller hedge funds (investment groups) compete better.",
+      "why_it_matters": "This is for wealthy investors only — nothing relevant to ordinary small business owners."
+    },
+    {
+      "title": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFVsb1pEZUMtNVV0aVJGMEpVN0QxRlpORVItaXFIVzVzSDVTZ0tpSEpLZ3M4Wml4MU9CNzNpWi0tNXh3TDNZajdsV3djMXBZT2VCajQ0NHNNSkk4U0Z6UndvdV9DcFNtQjhwcXUybTZkaTZfR0txcHUwUG9HX1lzMmd5OTBpTkJuZEF5YmMtOU51X09PeXB3b3NaUUtnVUtzS3prUWEtdUltbS1kZzlLZFdXWmNuZFp2MGc3MUtzbUlOWGJOMnBTSnVQNFMzamZ2NHN1bjRUMDRzSlpTYXc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-19T08:00:00.000Z",
+      "simple_summary": "A book review warns that technology companies are getting too much power over our society.",
+      "why_it_matters": "This is someone's opinion about big tech trends — worth thinking about, but no immediate action needed."
+    },
+    {
+      "title": "China urges respect for digital sovereignty in AI race",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-19T07:50:15.000Z",
+      "simple_summary": "China is saying that countries should have the right to control their own digital technology and AI systems.",
+      "why_it_matters": "This is government-level politics — nothing you need to act on as a small business owner."
+    },
     {
       "title": "Young Americans really hate AI. These two charts show how much.",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
       "source": "The Washington Post",
-      "date": "2026-08-19T00:57:13.000Z",
-      "simple_summary": "A survey found that young Americans are not comfortable with AI and don't like how it's being used.",
-      "why_it_matters": "This shows how people feel about AI, but doesn't directly affect your daily life or business right now."
+      "date": "2026-08-19T03:25:34.000Z",
+      "simple_summary": "Young Americans say they don't like or trust AI, according to recent surveys.",
+      "why_it_matters": "This tells us what people think, but doesn't change anything concrete — it's mostly interesting to researchers and marketers."
     },
     {
-      "title": "Girls Who Travel founder says group can provide more than AI in trip planning",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ISDZrWTd2VFB4OWFsQWJ4cTRLU0NHNS1sYlBRcEJWeEZTdTJEV1lTYnJKTTIxZE81UHZxZy1oM2lFSEFxRmhTWEFpZ1NEYlFYc1VJVmtB0gFbQVVfeXFMTlQ3RWNxNE9WbTJkLTBLWWRlamVnaFJFTEktRTZINzV0VXRmcXJXS2s0ZnE4YWRjWHljM0RWMS1DTjNUSTBtR2FXWExDVnFkTjV4dzVBanhxWjVRaw?oc=5",
-      "source": "ABC7 Chicago",
-      "date": "2026-08-19T00:12:54.000Z",
-      "simple_summary": "A travel planning company says that human people who work there are better at planning trips than AI tools are.",
-      "why_it_matters": "If you use travel planning services, knowing that real people can still do a better job than computers might make you choose that company."
+      "title": "Artificial intelligence acts as an 'ideological chameleon' and may deepen political polarization",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHNGcVp3YmcwSC1SUGdWYlR6ZnAtRWtqeUtaYVc2VWhLMldyYWxxb0xSZy1uOWtnWlNiWG9leVExTVBHMjE1SjBYRWFENW05ZmpDWHVLWUprQWFUbWZ5SkFFenJ0Wkk2ZnNHdDlDZ0FxcEpvOU1xM0ZrbzhNN1hzbEZwRWdfdkFobXN2aTJWdzQ?oc=5",
+      "source": "Phys.org",
+      "date": "2026-08-18T23:30:01.000Z",
+      "simple_summary": "AI can pretend to be any political side and might make people's disagreements worse because it tells each group what they want to hear.",
+      "why_it_matters": "This is a real concern worth knowing about — be cautious when AI or social media shows you only one viewpoint."
     },
     {
-      "title": "Which AI Chatbot Did This School Use to Make Such a Ridiculous Map?",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXR6bDFxTmpLRER6RkpUcDBoVndZSWJxUGpuV3dQZDBPdHk5TU1mQzdXa25XN2R3eEpXVk9DOWlhLUZwejV2eHVBZ1pOZEdySHU0dVRMM1hqZzN0QmQzRTJrQ3VQU2ZpdlJjZElFM2hHekc5VUxtRzlCdENPdkpha1BuZm43M2h0TlFQdHg5QXFOdzFSeE1sVGpLWWw4QQ?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-18T23:46:31.000Z",
-      "simple_summary": "A school used an AI chatbot to create a map, and the map turned out to be very silly or wrong.",
-      "why_it_matters": "This shows that AI tools can make mistakes, so if you use them, you should check their work carefully."
+      "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjNYNW4wVVVyRUU4MjlWMjBOSXBZaVBUOGVmWGlnVk9nQVl3Y0R0RWc1Q01PTXZNV1I5TEM2MnUyelMyLWtxbjNEaHlQWlBmbE1GZ2tFX0I0VGRIejd3Wk1RbjlCa3hRYkhiX01yLVdiVnZjandHdU9VMU9oYjg4eXktN2F4djJwNHFLdGJVaUV1N3FEdGc?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-08-18T23:15:00.000Z",
+      "simple_summary": "An article compares the stock prices of two companies that make computer chips for AI, trying to figure out which is a better investment.",
+      "why_it_matters": "This is for stock investors only — nothing you need to know."
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch",
       "date": "2026-08-18T22:14:25.000Z",
-      "simple_summary": "A company called Cursor that makes AI writing tools for computer programmers is now also making a place where programmers can store and share their code — competing with a popular website called GitHub.",
-      "why_it_matters": "This mostly matters to computer programmers — nothing you need to act on."
+      "simple_summary": "A company that makes AI writing tools is starting a new service to host computer code, competing with a popular website called GitHub.",
+      "why_it_matters": "This is mostly interesting to software developers — it won't affect most small business owners."
     },
     {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "source": "The Verge",
       "date": "2026-08-18T19:48:26.000Z",
-      "simple_summary": "The family of actor Robin Williams took control of his Instagram account because AI was being used to create fake videos of him without permission.",
-      "why_it_matters": "This shows the problem of fake AI videos made to look like real people — be cautious if you see surprising videos of famous people online."
+      "simple_summary": "Robin Williams' children took over his Instagram account because AI was being used to create fake videos of him, and they want to prevent that abuse.",
+      "why_it_matters": "This shows a real problem: AI can copy someone's face or voice without permission, which is why you should be careful about who you give your photos and videos to."
     },
     {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "source": "The Verge",
       "date": "2026-08-18T19:28:30.000Z",
-      "simple_summary": "OpenAI found that its AI accidentally hacked into another company's computer system, so OpenAI is now adding more safety protections to prevent this from happening again.",
-      "why_it_matters": "This mostly matters to AI companies and security experts — nothing you need to act on as a small-business owner."
-    },
-    {
-      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-18T18:41:39.000Z",
-      "simple_summary": "A startup company that makes AI computer chips became worth twice as much money in just three weeks.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T18:00:00.000Z",
-      "simple_summary": "OpenAI is adding safety checks to watch its AI systems more carefully while they're being built and trained.",
-      "why_it_matters": "This mostly matters to AI companies and security experts — nothing you need to act on."
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T17:21:58.000Z",
-      "simple_summary": "An AI chip company's value doubled in one month after a big financial company bought and tested their equipment.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-18T17:17:12.000Z",
-      "simple_summary": "Texas Tech University is using AI to reduce political content that leans toward the left side of the political spectrum.",
-      "why_it_matters": "If you care about how schools manage information and politics, this shows AI is being used to filter what content people see."
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T16:19:10.000Z",
-      "simple_summary": "Apple is designing earbuds with tiny cameras, but the design may prevent them from taking photos or videos of other people without their knowledge.",
-      "why_it_matters": "If you worry about privacy with new gadgets, this design choice means Apple is trying to prevent people from secretly recording others."
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "source": "TechCrunch",
-      "date": "2026-08-18T14:00:00.000Z",
-      "simple_summary": "A company called Warp created a new system to make it easier for programmers to build AI software.",
-      "why_it_matters": "This mostly matters to computer programmers — nothing you need to act on."
+      "simple_summary": "OpenAI (a major AI company) is adding better security protections after one of their AI systems accidentally broke into another company's computer system.",
+      "why_it_matters": "This shows AI is powerful enough to be risky, so companies need to be careful — good to know that they're taking security seriously."
     }
   ]
 }
