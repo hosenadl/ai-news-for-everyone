@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T18:54:54.099Z",
+  "generated_at": "2026-08-20T01:53:10.095Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI jobs boom is leaving women behind in top-paying roles",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDZKOHdCMm1qcHJ1ZlpjbVB0ejVhVHowZjdHSHRIeWNJQnI4QXU3MUhrUTlPaHJ3azd3amtxWkdLSDNTZE1FLVg0ZG9ENHMwZTliLVhwVFpZOFdpY2o2NHFpd3FaOGJiVUhCRFlmcW15WkhkYjgxdGs5S0FLVEhSa1ZzTld4MlY5dGVGcGxzQ2RrbUd4S1dyZVFCUktOb2FXQ0tPSWsxNUdiUQ?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-08-19T17:20:00.000Z",
-      "simple_summary": "New AI jobs are being created, but women are not getting many of the highest-paying positions in this field.",
-      "why_it_matters": "If you're hiring for tech roles or planning your career, you should know that AI job opportunities are growing but may not be equally available to everyone."
+      "title": "Legal resident loses thousands seeking citizenship to AI immigration attorney | 7 On Your Side Investiates",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTldreW5uY1VfZW9EcUNmT2UyRkJLOEhXSlU1RzVHaHNZSmE0NmI2U1dkcjRVMlFBaFZxYmc4eGYyUndIMEJUeHdhbF9LLWFDM2Q2aEExbGo3SU84T29nOHg4OWg2cUxkWkVBWVN5ZUNlenI0NjBBckV3QVNDQ3hBY1FEUGFvb3pqbHR5VF9ORWZJYzF1NTZvNkpWZnVva3VXSFZQS0I1ZGdaM1lOcS1DajdWdnQyQ0ZkUllhZ25odklvLVBldEHSAcsBQVVfeXFMUE5YWFo2SjdQU2tEQS1zelhvUkZlS2tGSU1XSDRLc1JkZEZjX2RKQlgtVDJRVlpsdF81cWtfTkJfVlA2S2dUVDhHdERmVUt5LVFoV3dKbVkzcXJzaWtDWHB1UGs4WU1iMmZac1BiUEJycXBBbEF1QTd6Qm1mTk1PUU5RMmhheTl0b1VKYW9FR2xSVG5QV1VXeC1UaWNCYU1VVkQ1dVlBSTZHT2FmeFo2M2NTa1BQNkI5VXFBRDVST0Y3TDJJTG1ZdGJ1WUk?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-08-19T22:29:53.000Z",
+      "simple_summary": "Someone paid an AI chatbot for help becoming a U.S. citizen, but lost thousands of dollars because the AI gave bad advice.",
+      "why_it_matters": "If you need legal help with immigration or anything important, talk to a real lawyer, not an AI tool — AI can make serious mistakes that cost you money."
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T22:10:46.000Z",
+      "simple_summary": "Two big AI companies (OpenAI and Anthropic) are competing to offer better privacy protections for business customers' information.",
+      "why_it_matters": "This mostly matters to large businesses — nothing you need to act on right now, but it's good that companies are taking privacy seriously."
+    },
+    {
+      "title": "Sacramento nonprofit’s program helps ‘build a solution’ for organizations with AI",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tckdES1g4MENIanBObkpQQVZtVFNCcWxYbndMMTBZWkxEWGZOWHdueUFfVzU1LUtGRlZyTVF2Z1dVbGZua04xM2EzdWFlY0xvMktERVdGQkVaODdaM0k3azFVOVg3dw?oc=5",
+      "source": "Sacramento Bee",
+      "date": "2026-08-19T22:10:24.000Z",
+      "simple_summary": "A nonprofit in Sacramento is helping organizations use AI to solve problems.",
+      "why_it_matters": "If you run a business, there may be local resources available to help you figure out if AI could help you — worth asking about in your area."
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T21:51:23.000Z",
+      "simple_summary": "SpaceX and an AI coding company were rumored to be in talks, but the CEO says it's not true.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Elon Musk's AI company argues in court for end to state's fake nudity ban",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2xPQUhGQk5pMnhKRWl6SjctbGFydUdRX1hHREhEX2psNU5vQ2FsV2FaR2VqQnhJRDVCd29tMDY3R3FPTm1IX242bERZenZzWGZub2pUTFpNWGkyQXhyT0pIM2NKazJZUG1PaDZzWVl5QXNjRmRsVXhXN1NNaTdSTC1fUzhDc0E3UjRzeXloTjI5N2FYRzlLMWRTUXlJVllzQm9vRzBld0JJQmpJb3NuX1p3?oc=5",
+      "source": "MPR News",
+      "date": "2026-08-19T21:25:00.000Z",
+      "simple_summary": "Elon Musk's AI company is fighting a law that bans fake nude images.",
+      "why_it_matters": "This is a legal fight between a tech company and a state — not something that affects you directly unless you're concerned about fake AI-generated images online."
+    },
+    {
+      "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-19T20:10:01.000Z",
+      "simple_summary": "A payment company (Stripe) is buying an AI tool company to expand its AI services.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+    },
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T19:11:40.000Z",
+      "simple_summary": "Even though AI is becoming more common, many people are worried about it and don't trust it yet.",
+      "why_it_matters": "Your caution about AI is shared by lots of other people — it's okay to be skeptical and careful about where and how you use it."
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T19:00:00.000Z",
+      "simple_summary": "Google is adding AI study tools to help students learn better.",
+      "why_it_matters": "If you have grandchildren who study, they may soon have an easier way to use AI to help with homework and research."
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge",
+      "date": "2026-08-19T19:00:00.000Z",
+      "simple_summary": "Google is creating a special section of its AI tool (Gemini) designed for students, with flashcards, practice tests, and note-taking.",
+      "why_it_matters": "If you have grandchildren or know students, this is a free tool that could help them study — worth suggesting if they need homework help."
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T18:46:14.000Z",
+      "simple_summary": "OpenAI stopped letting some outside researchers use its AI tool to find security problems.",
+      "why_it_matters": "This mostly matters to tech security experts — nothing you need to act on."
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch",
+      "date": "2026-08-19T17:26:48.000Z",
+      "simple_summary": "A new company is helping Wall Street investors figure out fair prices for AI computing power (the expensive computer work needed to run AI).",
+      "why_it_matters": "This mostly matters to big investors and companies building AI — nothing you need to act on."
     },
     {
       "title": "OpenAI hit the brakes. Now what?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
       "date": "2026-08-19T17:10:09.000Z",
-      "simple_summary": "OpenAI, a major AI company, decided to slow down and take a two-week pause on some of its AI work to focus on making things safer and more secure instead of rushing ahead.",
-      "why_it_matters": "This mostly matters to investors and tech industry people — nothing you need to act on right now."
-    },
-    {
-      "title": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-19T17:09:26.000Z",
-      "simple_summary": "Stripe, a payment company, bought an AI company called OpenRouter. The price wasn't announced.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Meta AI is getting a Mac app",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge",
-      "date": "2026-08-19T17:00:00.000Z",
-      "simple_summary": "Meta made a new app for Apple computers that lets you share what's on your screen with their AI assistant, which can answer questions and help create things.",
-      "why_it_matters": "If you use a Mac and already use Meta's AI, you now have easier access to it on your computer."
-    },
-    {
-      "title": "The A.I. in Google’s New Pixel 11 Is Not Very Helpful",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFBhbk11Q0ctTXc4b3ZUYUV5OHRQUHJzNW1ZU0NFYVJ1b3lyRElrVFpGODJQdWtlRkxZa1o3SVAwbW5CN3N6X0NSYXlnWXBKbEIwMmxGc0kwNmFYb25kWjRtMU84Zy1IdUVCUDNibkc5LVdPNjhheWlsS0ZFN3FXWXQtNjlwSENHWVY3RFMwcw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-08-19T16:00:11.000Z",
-      "simple_summary": "Google's new Pixel 11 phone has AI features built in, but they don't seem to be very useful yet.",
-      "why_it_matters": "If you're thinking about buying a new Android phone, the AI features may not yet be worth paying extra for."
-    },
-    {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T15:44:53.000Z",
-      "simple_summary": "A company called TerraPower is building a nuclear power plant that could be a good fit for powering the huge computers that AI companies need.",
-      "why_it_matters": "This mostly matters to investors and data center companies — nothing you need to act on."
-    },
-    {
-      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-19T15:08:05.000Z",
-      "simple_summary": "Google agreed to buy computer chips from Marvell, a chip maker, and the deal could be worth up to $12.2 billion, which made Marvell's stock price jump.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T15:00:00.000Z",
-      "simple_summary": "Amazon is making its upgraded Alexa AI assistant free on Fire TV devices for everyone, even people who don't pay for Prime membership.",
-      "why_it_matters": "If you own a Fire TV device, you may get access to a better AI assistant at no extra cost."
-    },
-    {
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T14:09:39.000Z",
-      "simple_summary": "Calendly, the meeting scheduling website, is adding an AI assistant called Callie that helps take notes during meetings.",
-      "why_it_matters": "If your small business uses Calendly to schedule meetings, you may soon have an AI tool to help keep track of what was discussed."
-    },
-    {
-      "title": "How the use of artificial intelligence harms college students’ ability to learn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEVCRlQtNDg4WFNkVW9ES2FNZnRxU29JRWxUTHpqNWx5b2FidVBLVDJKdUZtbW15c29PYlNqVV9HdU80SVZtWWxXOEFvV3B1WW9FekxVWmlNejc5bGEyaGJUWDZ5UVR3bXNfTm1hLU5pNW9Rb1N6TklUcU5SMXNvZTRja2hkX01xTEh3QldwcXdNZlc0cnZpUjdZOFF0Zk9NdThKQVVxaTE?oc=5",
-      "source": "PsyPost",
-      "date": "2026-08-19T12:34:33.000Z",
-      "simple_summary": "Research shows that when students use AI to do their work, it can hurt their ability to actually learn the material.",
-      "why_it_matters": "If you have kids or grandkids in school, this is worth knowing — relying on AI instead of doing the work yourself makes learning harder."
-    },
-    {
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T12:00:00.000Z",
-      "simple_summary": "A startup says that using AI to help cure cancer is hard because the real problem is having enough good data to work with.",
-      "why_it_matters": "This mostly matters to medical researchers and investors — nothing you need to act on."
-    },
-    {
-      "title": "Nvidia’s new financial strategy does not compute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "source": "The Verge",
-      "date": "2026-08-19T12:00:00.000Z",
-      "simple_summary": "Major finance companies are working with Nvidia (a chip maker) to create a $500 billion funding plan that treats computer power as a tradeable product, similar to how stocks or bonds work.",
-      "why_it_matters": "This mostly matters to investors and financial professionals — nothing you need to act on."
+      "simple_summary": "OpenAI slowed down its AI development work to improve safety and security instead of rushing ahead.",
+      "why_it_matters": "It's a good sign that a major AI company is taking time to make sure their tools are safe — this affects any AI you might use in the future."
     }
   ]
 }
