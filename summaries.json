@@ -1,21 +1,77 @@
 {
-  "generated_at": "2026-08-20T13:12:41.063Z",
+  "generated_at": "2026-08-20T19:01:37.582Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T16:46:00.000Z",
+      "simple_summary": "Ramp built a new tool that acts like a switchboard for different AI assistants — it lets you pick which AI you want to use instead of being locked into one.",
+      "why_it_matters": "This mostly matters to tech companies and developers — nothing you need to act on."
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T16:07:26.000Z",
+      "simple_summary": "Meta is letting regular U.S. users make simple video games using AI, without needing to know how to code.",
+      "why_it_matters": "If you're curious about AI or want to tinker with game creation, this gives you a free way to try it."
+    },
+    {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T16:00:00.000Z",
+      "simple_summary": "A company working on nuclear fusion power figured out how to fill their fuel tanks much faster — cutting the time from a week down to a few hours.",
+      "why_it_matters": "This is early-stage power research — nothing that affects your electricity bill or business yet."
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge",
+      "date": "2026-08-20T15:45:55.000Z",
+      "simple_summary": "OpenAI, the company behind ChatGPT, has had a tough year with lawsuits and drama as it prepares to go public.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge",
+      "date": "2026-08-20T14:00:00.000Z",
+      "simple_summary": "AI has become so good at solving math problems that it's created a crisis in the mathematics field, with mathematicians worried about what their work means now.",
+      "why_it_matters": "This matters to mathematicians and academics — nothing that affects everyday life or small business."
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T12:11:57.000Z",
+      "simple_summary": "Meta is making an app for Mac computers that lets you talk out loud to control your programs, instead of typing.",
+      "why_it_matters": "If you use a Mac and prefer speaking, this could save you time — similar to voice-to-text features you might already know."
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge",
+      "date": "2026-08-20T12:00:00.000Z",
+      "simple_summary": "Slack is adding a feature where your whole team can work on code together with AI help all in one place, instead of switching between different tools.",
+      "why_it_matters": "If your small business has programmers or developers, this could make their work faster and less messy."
+    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "source": "TechCrunch",
       "date": "2026-08-20T09:30:00.000Z",
-      "simple_summary": "Binance (a cryptocurrency exchange) now allows AI robots to trade money automatically using AI tools like ChatGPT. But the company says users have to be responsible for keeping these robots under control.",
-      "why_it_matters": "This mostly matters to investors and cryptocurrency traders — nothing you need to act on unless you're already involved in crypto trading."
+      "simple_summary": "Binance, a cryptocurrency exchange, now lets AI robots buy and sell coins automatically, but it's your responsibility to set them up safely.",
+      "why_it_matters": "Unless you trade cryptocurrency, this doesn't affect you — and it's risky even if you do."
     },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "source": "TechCrunch",
       "date": "2026-08-19T23:32:00.000Z",
-      "simple_summary": "Stripe (a payment company) bought OpenRouter (a startup that helps different AI programs work together). Stripe says the reason is about the future, but they're really buying it to improve their own services.",
+      "simple_summary": "Stripe, a company that handles online payments, bought a small company that helps route questions to different AI assistants.",
       "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
     },
     {
@@ -23,15 +79,15 @@
       "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "source": "TechCrunch",
       "date": "2026-08-19T22:10:46.000Z",
-      "simple_summary": "OpenAI and a rival company called Anthropic are competing to offer the best privacy protections to big business customers — meaning your company's information stays private when you use their AI.",
-      "why_it_matters": "If you use AI services for your business, this is good news because companies are fighting to protect your data better."
+      "simple_summary": "OpenAI and another AI company called Anthropic are competing to offer better privacy protection for businesses that use their AI tools.",
+      "why_it_matters": "If your business uses AI and is concerned about data privacy, this competition means better protections for your information."
     },
     {
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
       "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "source": "TechCrunch",
       "date": "2026-08-19T21:51:23.000Z",
-      "simple_summary": "SpaceX apparently tried to buy Cognition, an AI company that writes computer code, but Cognition's leader says this didn't happen. SpaceX has already bought another coding AI company called Cursor.",
+      "simple_summary": "SpaceX did not buy Cognition, an AI company, despite rumors that they were trying to.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
@@ -39,64 +95,8 @@
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "source": "TechCrunch",
       "date": "2026-08-19T19:11:40.000Z",
-      "simple_summary": "Even though AI is everywhere now, many regular people are becoming more suspicious and worried about it instead of excited. Tech companies thought everyone would love AI by now, but they were wrong.",
-      "why_it_matters": "This shows people are right to be cautious and ask questions about AI — you don't need to blindly adopt it just because companies push it."
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T19:00:00.000Z",
-      "simple_summary": "Google is adding new AI tools to its search engine and Gemini chatbot to help students study better. These tools help with learning and competing with OpenAI's services.",
-      "why_it_matters": "If you have a student in your family, this gives them free AI tools to help with homework and studying."
-    },
-    {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "The Verge",
-      "date": "2026-08-19T19:00:00.000Z",
-      "simple_summary": "Google Gemini now has a special section just for students that helps them organize research, make study cards, take practice tests, and track exam dates.",
-      "why_it_matters": "If you have a student in your family or run an education business, this is a free study tool worth knowing about."
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T18:46:14.000Z",
-      "simple_summary": "OpenAI stopped letting security researchers use a special version of its AI to find and report bugs. These researchers were supposed to help find problems so companies could fix them.",
-      "why_it_matters": "This might slow down finding security problems in AI, which affects anyone using AI tools online — though the impact is mostly on tech companies."
-    },
-    {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T17:26:48.000Z",
-      "simple_summary": "A startup is helping Wall Street figure out fair prices for AI computing power (think of it like pricing electricity for AI servers). Right now there's no standard way to price it.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI hit the brakes. Now what?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge",
-      "date": "2026-08-19T17:10:09.000Z",
-      "simple_summary": "OpenAI announced it's slowing down some of its AI development to focus on making the systems safer and more secure. This is surprising because the company usually moves very fast.",
-      "why_it_matters": "This is actually good news — it means OpenAI is taking safety seriously instead of rushing products to market too quickly."
-    },
-    {
-      "title": "Meta AI is getting a Mac app",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge",
-      "date": "2026-08-19T17:00:00.000Z",
-      "simple_summary": "Meta (Facebook's parent company) made a new app for Mac computers that lets their AI chatbot see what's on your screen and help you with it. You can also talk to it using voice.",
-      "why_it_matters": "If you use a Mac, you now have a free AI assistant available — useful if you want help answering questions or creating content."
-    },
-    {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T15:44:53.000Z",
-      "simple_summary": "TerraPower (a nuclear power company) is building nuclear reactors that are designed to power the huge data centers that run AI systems. Their technology has special advantages over competitors.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "Even though AI is everywhere now, a lot of people are still skeptical and don't trust it yet.",
+      "why_it_matters": "You're not alone if you're hesitant about AI — many people share these concerns."
     }
   ]
 }
