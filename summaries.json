@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-20T19:01:37.582Z",
+  "generated_at": "2026-08-21T01:59:06.418Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-20T22:51:36.000Z",
+      "simple_summary": "The company that makes computer memory chips says AI has changed how their business works, making it less predictable.",
+      "why_it_matters": "This mostly matters to investors and people in the tech industry — nothing you need to do about it."
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T22:36:37.000Z",
+      "simple_summary": "Businesses keep switching between different AI tools depending on which one is better right now, making it hard to predict which company will win.",
+      "why_it_matters": "This mostly matters to investors — it shows AI tool loyalty isn't guaranteed, but doesn't change how you'd use these tools."
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T22:09:51.000Z",
+      "simple_summary": "ChatGPT can now write text messages for you through Apple Messages, so you can have it compose texts instead of typing them yourself.",
+      "why_it_matters": "If you use an iPhone and find texting tedious, this could save you time, though you'd still need to check that it says what you want."
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge",
+      "date": "2026-08-20T21:50:22.000Z",
+      "simple_summary": "Google will let you tell it what kinds of news and information you want to see, and it will use AI to automatically show you more of that in the future.",
+      "why_it_matters": "This could make Google's news feed more useful to you by learning your interests, similar to how a good shopkeeper learns what you like to buy."
+    },
+    {
+      "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWnI5Y0VrWDl0cjYtTlRNYWlMLXpTOFN0enl2TldXSW15bjB2bng4N2tTb0hpVjFvTmMwbXpyZVcxTHdveWVCd2VPNnRBOVRORXdPY2N1NERrM2s2SmxnY1RkRXJyX0dzd09CS3VyQmh3b2ZEaFpxZmNQWGUtanQ4R19JY3pXS2tsdjR5aUMzMEF3d3NLUG1BdC0zZWduMVRZQ0ZhS0h1LXpLM0hvV19MYWY3X3J4VTR5Y25SRUllOGNrSEFrSEtUaQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-20T21:17:57.000Z",
+      "simple_summary": "Brazil is building a very powerful computer system for AI work and splitting the projects between companies from China and the United States.",
+      "why_it_matters": "This mostly matters to people in Brazil's tech industry and investors — it doesn't affect your daily life."
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T20:53:13.000Z",
+      "simple_summary": "Someone joked about using human urine to cool the computers that run AI systems, and it turns out this is actually not a completely ridiculous idea.",
+      "why_it_matters": "This is research into solving a real problem (data centers use a lot of water for cooling), but it's very early and doesn't affect you yet."
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T19:18:21.000Z",
+      "simple_summary": "Google is giving newspaper and website owners a button they can offer readers to say 'use me as your main source,' so they get more traffic.",
+      "why_it_matters": "If you run a small website or newsletter, this could help you keep readers, since AI search is sending fewer people to individual websites."
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T19:15:05.000Z",
+      "simple_summary": "Two tech companies, Runlayer and Rippling, dropped their lawsuits against each other with no money changing hands, but one launched a competing product anyway.",
+      "why_it_matters": "This mostly matters to investors and business lawyers — it's a cautionary tale about disagreements between companies, not something you need to act on."
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T18:20:35.000Z",
+      "simple_summary": "A new digital calendar app called Linkdaze helps you manage household tasks and meal planning with AI help, and doesn't charge extra for the main features.",
+      "why_it_matters": "If you're looking for an organized way to plan meals and household tasks, this could be worth trying, especially since the good features don't cost extra."
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T17:32:16.000Z",
+      "simple_summary": "Grok, an AI chatbot, has been giving users nonsensical answers and weird responses.",
+      "why_it_matters": "This only matters if you use Grok — if you do, it might be best to wait until they fix the problem."
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch",
+      "date": "2026-08-20T17:18:58.000Z",
+      "simple_summary": "A study found that about one-third of new web pages created since ChatGPT launched appear to have been written or edited by AI.",
+      "why_it_matters": "This means a lot of what you read online is now written by AI, so be a little more careful about trusting everything you see without checking sources."
+    },
     {
       "title": "Ramp launches its own AI model router, called Router",
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "source": "TechCrunch",
       "date": "2026-08-20T16:46:00.000Z",
-      "simple_summary": "Ramp built a new tool that acts like a switchboard for different AI assistants — it lets you pick which AI you want to use instead of being locked into one.",
-      "why_it_matters": "This mostly matters to tech companies and developers — nothing you need to act on."
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T16:07:26.000Z",
-      "simple_summary": "Meta is letting regular U.S. users make simple video games using AI, without needing to know how to code.",
-      "why_it_matters": "If you're curious about AI or want to tinker with game creation, this gives you a free way to try it."
-    },
-    {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T16:00:00.000Z",
-      "simple_summary": "A company working on nuclear fusion power figured out how to fill their fuel tanks much faster — cutting the time from a week down to a few hours.",
-      "why_it_matters": "This is early-stage power research — nothing that affects your electricity bill or business yet."
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "source": "The Verge",
-      "date": "2026-08-20T15:45:55.000Z",
-      "simple_summary": "OpenAI, the company behind ChatGPT, has had a tough year with lawsuits and drama as it prepares to go public.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge",
-      "date": "2026-08-20T14:00:00.000Z",
-      "simple_summary": "AI has become so good at solving math problems that it's created a crisis in the mathematics field, with mathematicians worried about what their work means now.",
-      "why_it_matters": "This matters to mathematicians and academics — nothing that affects everyday life or small business."
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T12:11:57.000Z",
-      "simple_summary": "Meta is making an app for Mac computers that lets you talk out loud to control your programs, instead of typing.",
-      "why_it_matters": "If you use a Mac and prefer speaking, this could save you time — similar to voice-to-text features you might already know."
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge",
-      "date": "2026-08-20T12:00:00.000Z",
-      "simple_summary": "Slack is adding a feature where your whole team can work on code together with AI help all in one place, instead of switching between different tools.",
-      "why_it_matters": "If your small business has programmers or developers, this could make their work faster and less messy."
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T09:30:00.000Z",
-      "simple_summary": "Binance, a cryptocurrency exchange, now lets AI robots buy and sell coins automatically, but it's your responsibility to set them up safely.",
-      "why_it_matters": "Unless you trade cryptocurrency, this doesn't affect you — and it's risky even if you do."
-    },
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T23:32:00.000Z",
-      "simple_summary": "Stripe, a company that handles online payments, bought a small company that helps route questions to different AI assistants.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T22:10:46.000Z",
-      "simple_summary": "OpenAI and another AI company called Anthropic are competing to offer better privacy protection for businesses that use their AI tools.",
-      "why_it_matters": "If your business uses AI and is concerned about data privacy, this competition means better protections for your information."
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T21:51:23.000Z",
-      "simple_summary": "SpaceX did not buy Cognition, an AI company, despite rumors that they were trying to.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "source": "TechCrunch",
-      "date": "2026-08-19T19:11:40.000Z",
-      "simple_summary": "Even though AI is everywhere now, a lot of people are still skeptical and don't trust it yet.",
-      "why_it_matters": "You're not alone if you're hesitant about AI — many people share these concerns."
+      "simple_summary": "A company called Ramp built a tool that lets you pick and switch between different AI models easily through a technical connection.",
+      "why_it_matters": "This mostly matters to software engineers and companies building AI tools — average users don't need to know about this."
     }
   ]
 }
