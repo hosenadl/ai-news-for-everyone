@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-21T13:12:54.118Z",
+  "generated_at": "2026-08-21T18:58:29.574Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch",
+      "date": "2026-08-21T14:00:00.000Z",
+      "simple_summary": "The U.S. Department of Justice is investigating a major investment company (Andreessen Horowitz) because two of its leaders sit on the boards of companies that compete with each other, which could be unfair.",
+      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on, though it could affect how investment firms operate in the future."
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch",
+      "date": "2026-08-21T14:00:00.000Z",
+      "simple_summary": "A company called Starcloud raised $250 million to build computer data centers in space to store and process information.",
+      "why_it_matters": "This mostly matters to investors and large tech companies — it has no impact on ordinary people or small businesses right now."
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge",
+      "date": "2026-08-21T13:37:52.000Z",
+      "simple_summary": "Popular video creators on YouTube were paid by an AI video-making company to promote their software, and some people are criticizing them for taking the money.",
+      "why_it_matters": "It's a reminder to be skeptical when creators promote products, especially AI tools — they may have been paid to do so."
+    },
     {
       "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
       "source": "Reuters",
       "date": "2026-08-21T10:25:37.000Z",
-      "simple_summary": "Big companies are spending huge amounts of money on AI and investors are starting to worry that they're spending too much without making the money back.",
-      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on right now."
+      "simple_summary": "Large companies are spending heavily on AI projects, and some investors are becoming concerned about whether this spending will actually pay off.",
+      "why_it_matters": "This is mainly a story about stock market investors — nothing directly affecting small business owners right now."
     },
     {
       "title": "Pope Leo XIV: In age of AI, the family is the first school of humanity",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5",
       "source": "Vatican News",
       "date": "2026-08-21T09:49:09.000Z",
-      "simple_summary": "The Pope spoke about how AI is becoming important in the world, and said families should focus on being places where people learn human values.",
-      "why_it_matters": "This is mostly a religious or philosophical statement — it doesn't directly affect how you use technology in your daily life."
+      "simple_summary": "The Pope commented that families remain important for teaching values even in an age of artificial intelligence.",
+      "why_it_matters": "This is a religious and cultural statement, not an AI news story that affects how you use technology."
     },
     {
       "title": "Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlpmZXNmQXdKaDJfR1R0VnlJMnh1MnlvbllVRnE4NTI5T2VxbnVvbmlTQkRUblhDYWtGQW0yYi1PMEI0ZnNFMEQ3N2ZtSUpsY2RwRGFYd0JaQVZ1TG5WZ2RaMjA4cWotZzVOTkdMUE92X05nZ2tiNWVEeXU2OUNQSDk0SkZmTjgyZmMwNWs3aFlNREt1eHJZWlFFM29SSkx3QUpQZ3pfS09QNm9haTFQag?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-21T07:25:00.000Z",
-      "simple_summary": "A very wealthy investor sold his shares in two computer chip companies and instead bought shares in two AI companies focused on robots.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A wealthy investor sold shares in computer memory companies and bought shares in AI companies instead, betting AI will grow more than memory chips.",
+      "why_it_matters": "This mostly matters to stock investors — it doesn't affect your day-to-day life or small business."
     },
     {
       "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0lBTVBaTzhZZW1TMFJGMXh6NGVCNEloS0RPZlU2U0NqUHZQeDgyTW93eklwUHlRSjMybDlhTThVUjN2ZGIxMG52VEx2NmJ0d0xwWnBySXYtSnZzTXBMQ1VGVm1OcU5DUTAzbjN6UUE4Yzg0bkdxSkZzTDFpOF84SWFEbVFMejV0SmhXVVlKeU14WGd1dER2VDl1aXpDQUxNUy04SDlIWXlmNzBOeWtWLVdmS2Y1ZHBB0gG-AUFVX3lxTE56NFYzZ245MURqQUNGUDFXVm54alMteWFxMVhsVzdFaWYtNk1xYXRfRkxwUHQxQWpKNjFxdjNQUkdubHY1NVhIY0JQUzN6RGFTTVF5VEZiTXNEdDczU1A1amdMWmhYWWxhdEtTOEJTX1FOai1WUlktWDlEZzJLSjM0d1hSNjFsZzB0UnJzS1JabWdnTk9CNjlRRlZMdDN6VnpNOHJLM2JWY3RUR2psUkFkZnlxVWc5d3NQazJ2TFE?oc=5",
       "source": "Al Jazeera",
       "date": "2026-08-21T01:50:26.000Z",
-      "simple_summary": "Brazil is building a very powerful computer to work with AI, while trying to stay balanced between technology from the United States and China.",
-      "why_it_matters": "This is a government-level decision that mostly matters to investors and tech workers — nothing you need to act on."
+      "simple_summary": "Brazil is building a very powerful AI computer system while trying to stay balanced between technology from the United States and China.",
+      "why_it_matters": "This is a story about government and international relations — it has no direct impact on you unless you do business in Brazil."
     },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch",
       "date": "2026-08-21T00:13:44.000Z",
-      "simple_summary": "A startup company that collects information for training AI systems is growing very quickly because so many AI companies need that data.",
-      "why_it_matters": "This mostly matters to investors and tech industry workers — nothing you need to act on."
+      "simple_summary": "A company that provides data for training AI systems is growing very quickly because so many AI projects need massive amounts of information to learn from.",
+      "why_it_matters": "This matters to investors in AI companies, but doesn't directly affect small business owners or ordinary people."
     },
     {
       "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5",
       "source": "CNBC",
       "date": "2026-08-20T22:51:36.000Z",
-      "simple_summary": "The leader of a computer chip company says AI has changed how their business works because the demand is so different and unpredictable now.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "The leader of Micron (a computer chip company) says AI demand has changed how their business works, making it grow in ways that weren't possible before.",
+      "why_it_matters": "This is good news for the company's investors, but ordinary people don't need to do anything about it."
     },
     {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "source": "TechCrunch",
       "date": "2026-08-20T22:36:37.000Z",
-      "simple_summary": "Businesses are switching between different AI tools (like trying different stores) depending on which one has the best new features, which makes investors unsure if customers will stick with them long-term.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "OpenAI and Anthropic are two AI companies competing for business customers, and the customers keep switching between them as each releases new versions.",
+      "why_it_matters": "This matters to investors worried about whether companies will stick with one AI service — it doesn't affect most small businesses yet."
     },
     {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch",
       "date": "2026-08-20T22:09:51.000Z",
-      "simple_summary": "ChatGPT (an AI that talks like a person) can now help you write text messages on iPhones by writing them for you.",
-      "why_it_matters": "If you have an iPhone and struggle with typing text messages, this could be a handy helper — but you don't have to use it."
+      "simple_summary": "ChatGPT can now write text messages for you through Apple's Messages app, so the AI writes what you tell it to say.",
+      "why_it_matters": "If you use an iPhone and Messages, you can now let AI draft texts for you — it's a convenience feature, but you still need to check and approve what it writes."
     },
     {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "source": "The Verge",
       "date": "2026-08-20T21:50:22.000Z",
-      "simple_summary": "Google is adding AI to its Discover feed (the suggestions Google shows you) so you can describe what you want to see and it will remember your preferences next time.",
-      "why_it_matters": "This could make Google's suggestions match what you want better — but the changes are happening automatically if you use Google on your phone."
-    },
-    {
-      "title": "TVA proposes new data center power rate starting in October, with 10% average increase",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXI5Z05NaFBHbzhkSV9xQUpBdnN4cW96alFXdDhPS3BWTG8xVUhNS0kyNHVQZUZzRUpWb2l1OEVzT0FyTWtMU1VreUxNbXo2Y0MzZlFyRnRBUzZ2WUxIMVZfNVhoMXZiOUpKbzM0b3BUeVN1aC1zZEFIUllOaU1zc1ZDaU41azJoT25MLU1wV3ZjbW9DUHRaYVFWT1JYMzJhQWR5aFBTNjJPOUJTa1hzaUpheV9neFBRbXJhbDJwR1JGc3Nrb3h3ZTRTM29ZcXJwVXRjTGI4V05tYmtxUVNvWg?oc=5",
-      "source": "WTVC",
-      "date": "2026-08-20T21:39:39.000Z",
-      "simple_summary": "The local power company is raising the price of electricity by about 10% for data centers (huge buildings full of computers) starting in October.",
-      "why_it_matters": "This could lead to slightly higher internet costs eventually — it mostly affects large tech companies, not your bill directly."
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T20:53:13.000Z",
-      "simple_summary": "A tech website is joking about (but also half-seriously exploring) whether human urine could be used to cool the big computers that run AI systems.",
-      "why_it_matters": "This is mostly a fun, silly story — it's not a real solution being considered for your everyday life."
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T19:18:21.000Z",
-      "simple_summary": "Google is giving news publishers a new button they can add so that readers can tell Google to recommend their articles more often, helping them fight against traffic losses from AI search tools.",
-      "why_it_matters": "If you publish news or content online, this gives you a new tool to fight back against AI — otherwise, nothing you need to act on."
+      "simple_summary": "Google is adding AI to its Discover feed (the personalized news and articles it shows you) so you can describe what topics you want to see, and it learns your preferences.",
+      "why_it_matters": "If you use Google's app, you may see better personalized content — it's a small convenience improvement with no cost to you."
     }
   ]
 }
