@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-22T01:51:59.487Z",
+  "generated_at": "2026-08-22T07:01:00.092Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch",
+      "date": "2026-08-21T23:07:25.000Z",
+      "simple_summary": "Researchers found ways to make Anthropic's Claude AI ignore its safety rules against creating inappropriate sexual content. The company designed these rules but they're not as strong as intended.",
+      "why_it_matters": "If you use Claude for work or rely on it being trustworthy, this is a reminder that no AI system is perfect yet — you should still check important outputs yourself."
+    },
     {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch",
       "date": "2026-08-21T22:37:38.000Z",
-      "simple_summary": "Nvidia, a computer chip company that makes equipment for AI, is investing money in building data centers (large buildings full of computers). This is good for Nvidia because these same data centers are buying Nvidia's products.",
-      "why_it_matters": "This mostly matters to investors and people who own Nvidia stock — nothing you need to act on."
+      "simple_summary": "Nvidia is investing in building large data centers (warehouses of computer servers) with a company called Cloverleaf. This is good business for Nvidia because AI companies rent these data centers.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "AI scammers may use vacation photos to determine travelers' locations, experts at McAfee warn",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3dvQXFUNFhfWGFCR2RUcENReUlSMmJITWRnNUJkS3l2RDdSb2E0NFg2TVh2Y0J6Vlo4V2lRZ251OElsTzVCUnY0V3dOcnNtS3UyX3dmVUNtZ3RlbTFzSTR5azJxRTlvVVdHdjhYZEFCNHRnSnVaT0wwUW95a3JQMS1MN1owVnZXclZYRGo0RnFIbWllcXBCaGM5MkgycEZfMEJrdjQxRmZHNzVEazdxR3MySE01UWxvSDZrck9qcDFHQdIBxwFBVV95cUxNWEEtb0RGWC1PRHRfbWx4TG1HME51N093cmNiUDFINVFZdDlHekVKR0ZNdmc1LXZuWGdSRXZ3dGxFaEh0dHpicjFNbmRzclVzZ3ZnR0NmbURZOGUyY2lpc25PbDNERWNBZXNfY0EwTGo2UEFzU0JlZTdnbUY5LWgwZXFPTFBjdDRRZnVZaXBPdUtDVElYYkFyNm9qUHR4b0U0QkZTdEhDdjdzdEx3STNITWdnRUJuY2RuTGQ1dS1WemRrUGd3UVlJ?oc=5",
       "source": "ABC7 Chicago",
       "date": "2026-08-21T22:14:12.000Z",
-      "simple_summary": "Security experts are warning that scammers could use your vacation photos from social media to figure out where you are or where you live.",
-      "why_it_matters": "Be careful about what vacation photos you post online — scammers could use them to target you."
+      "simple_summary": "Security experts warn that scammers can use your vacation photos posted online to figure out where you travel. They can then target you with scams aimed at travelers.",
+      "why_it_matters": "Be careful what vacation photos you share publicly online, and be extra cautious about messages claiming to help you while you're traveling."
     },
     {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
       "date": "2026-08-21T21:25:50.000Z",
-      "simple_summary": "LinkedIn added a button that lets people mark posts they think are written by AI instead of a real person. Over a million people have already used it.",
-      "why_it_matters": "If you use LinkedIn for business, you now have a tool to report low-quality AI-written posts you see — but most people won't need to use this."
+      "simple_summary": "LinkedIn added a button (like a complaint button) that lets users mark posts they think are AI-generated spam (or 'AI slop'). Over a million people have already clicked it.",
+      "why_it_matters": "LinkedIn is listening to complaints about too much AI content and trying to clean it up — this won't directly affect you unless you use LinkedIn for business."
     },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "source": "TechCrunch",
       "date": "2026-08-21T19:43:39.000Z",
-      "simple_summary": "Nvidia's research shows that AI systems work better when you give them clear instructions and guidelines (called a \"harness\"), even if the AI itself isn't very smart at the job.",
-      "why_it_matters": "This mostly matters to engineers and companies building AI systems — nothing you need to act on."
+      "simple_summary": "Nvidia's research shows that how you train and control an AI (the 'harness') matters more than having a super-powerful AI model. Even a weaker AI can work well if controlled properly.",
+      "why_it_matters": "This mostly matters to engineers and researchers — nothing you need to act on."
     },
     {
       "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
       "source": "Reuters",
       "date": "2026-08-21T15:07:42.000Z",
-      "simple_summary": "Companies are spending huge amounts of money on AI projects, and investors are starting to worry they won't get their money back.",
-      "why_it_matters": "This mostly matters to investors — it signals that some AI spending might be wasteful, but doesn't directly affect your business."
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "date": "2026-08-21T14:00:00.000Z",
-      "simple_summary": "A company called Starcloud is raising a huge amount of money to build data centers in space. They say there aren't enough rockets available to launch them.",
-      "why_it_matters": "This mostly matters to investors in space companies — nothing you need to act on."
+      "simple_summary": "Big companies are spending lots of borrowed money on AI projects, and investors are getting worried these companies may not be able to pay it back.",
+      "why_it_matters": "This mostly matters to investors and business analysts — nothing you need to act on."
     },
     {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "source": "TechCrunch",
       "date": "2026-08-21T14:00:00.000Z",
-      "simple_summary": "The government is investigating a major investment company (Andreessen Horowitz) because some of its leaders sit on boards of companies that compete with each other, which could be unfair to smaller competitors.",
-      "why_it_matters": "This mostly matters to investors — it could lead to new rules about how investment companies operate, but doesn't affect your daily life now."
+      "simple_summary": "The federal government is investigating a big venture capital firm (a16z) because two of its leaders sit on the boards of competing companies. The government is using an old law to look into possible conflicts of interest.",
+      "why_it_matters": "This mostly matters to investors and large tech companies — nothing you need to act on."
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch",
+      "date": "2026-08-21T14:00:00.000Z",
+      "simple_summary": "A company called Starcloud raised $250 million to build data centers in space. There's increasing competition for launching things into space.",
+      "why_it_matters": "This mostly matters to large tech companies and investors — nothing you need to act on."
     },
     {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "source": "The Verge",
       "date": "2026-08-21T13:37:52.000Z",
-      "simple_summary": "Popular video creators on YouTube posted videos showing off AI video-making tools after receiving money or deals from the AI company. People complained that the creators didn't tell their audience about these deals.",
-      "why_it_matters": "If you watch online creators, watch out for hidden sponsorships — always ask if they're being paid to promote something."
+      "simple_summary": "Popular video creators on YouTube made promotional videos showing off AI video-making tools, but people criticized them for promoting AI without being honest about it.",
+      "why_it_matters": "If you watch YouTube, be aware that some creators are paid to promote AI tools — be skeptical of what they show you."
     },
     {
       "title": "Artificial Intelligence: Rogue AI Is a Scary But Fixable Problem",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXQ1ekh1LXpvYzdWdHJ6RzVJMHhZRmVTSFEtaWg3b3BRNmFaS294QVdsVEpQVE9DUUQyY1dNaDJZUEhvWWdNTmN6Wm9MRDA2WlJJaFJ4cHdfRHFLX0M4LVZXZXotLTB0MVRyRnBNbE1NU01DQkktQWp1RDQ1TkFQZ1p1SHUwQjROQmxqSk4xd2k4WTBXUE0zTENzYWJTdUtoVWtNdlV4TWxJR1lhYUsycnJMNVpKV2th?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-08-21T10:00:00.000Z",
-      "simple_summary": "An article discusses concerns about AI systems going wrong, but says the problems can be fixed.",
-      "why_it_matters": "The headline is too vague to know what specific concern they're addressing — nothing to act on without more details."
+      "simple_summary": "An article discusses concerns about AI systems going wrong and argues that these problems are fixable.",
+      "why_it_matters": "The headline is too vague to explain what this means for you — it's a general opinion piece."
     },
     {
       "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0lBTVBaTzhZZW1TMFJGMXh6NGVCNEloS0RPZlU2U0NqUHZQeDgyTW93eklwUHlRSjMybDlhTThVUjN2ZGIxMG52VEx2NmJ0d0xwWnBySXYtSnZzTXBMQ1VGVm1OcU5DUTAzbjN6UUE4Yzg0bkdxSkZzTDFpOF84SWFEbVFMejV0SmhXVVlKeU14WGd1dER2VDl1aXpDQUxNUy04SDlIWXlmNzBOeWtWLVdmS2Y1ZHBB0gG-AUFVX3lxTE56NFYzZ245MURqQUNGUDFXVm54alMteWFxMVhsVzdFaWYtNk1xYXRfRkxwUHQxQWpKNjFxdjNQUkdubHY1NVhIY0JQUzN6RGFTTVF5VEZiTXNEdDczU1A1amdMWmhYWWxhdEtTOEJTX1FOai1WUlktWDlEZzJLSjM0d1hSNjFsZzB0UnJzS1JabWdnTk9CNjlRRlZMdDN6VnpNOHJLM2JWY3RUR2psUkFkZnlxVWc5d3NQazJ2TFE?oc=5",
       "source": "Al Jazeera",
       "date": "2026-08-21T01:50:26.000Z",
-      "simple_summary": "Brazil is building powerful AI computers while trying to stay friendly with both the United States and China.",
-      "why_it_matters": "This mostly matters to government officials and tech industry watchers — nothing you need to act on."
+      "simple_summary": "Brazil is building a supercomputer (an extremely powerful computer) for artificial intelligence while trying to stay neutral between American and Chinese technology.",
+      "why_it_matters": "This mostly matters to government policymakers and tech companies — nothing you need to act on."
     },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch",
       "date": "2026-08-21T00:13:44.000Z",
-      "simple_summary": "A startup company that collects information to train AI systems is growing very quickly because so many companies want AI and need lots of data.",
+      "simple_summary": "A startup called Micro1 that sells AI training data is growing very fast because so many companies need data to train their AI systems.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "LSU expanded resources to keep up with AI cheating cases, provost says",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYURqRExCS3RNdWMyV1ZLR0VSblZySVNYd0xCSlhoVnNodEwyVFVVdEUxYXVrQUsyWDJaTE9IT2NkdENFUWk5b0JwNlZyZGxUaTlidVlrcHRtcVVaN2w3ZS16U1NOU0t4ajdlbEJMYmR3Y1ZNMTllb0hoZ3ZmQkdNX1pzZFVPeDk2WXctZnloczJVMTBEenBqLXZuRGJhMl9s0gG0AUFVX3lxTE8xZzJJYldtcnhxRDEzWHdNVUVRYUdoUWZhckJSam9QM0FZWjA4WVdWbWYyNzI0YXJaQl9pdURrUDJkbktXRDVwZWlGSV9FbHNzUW5oSFZFMXE1UXZ2ZEVCV09peVE1REdKUFVXODcxaGxCdTVjQTNvM0lNX3dSUHFLdktJSXdlb3lrS1FwQy12dHNQQ1NySDVQdmFpNGtHY09jZktKTVRyUjBnVWczcmdTMFZqXw?oc=5",
-      "source": "WAFB",
-      "date": "2026-08-20T23:05:00.000Z",
-      "simple_summary": "Louisiana State University had to hire more staff to handle cases of students using AI to cheat on their work.",
-      "why_it_matters": "If you have students in your family, know that schools are cracking down on AI cheating — using AI to do your schoolwork can get you in trouble."
     }
   ]
 }
