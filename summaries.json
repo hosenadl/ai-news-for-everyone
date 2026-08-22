@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-22T13:02:34.683Z",
+  "generated_at": "2026-08-22T18:50:19.237Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "date": "2026-08-22T16:30:34.000Z",
+      "simple_summary": "OpenAI used to argue against a California law about AI safety rules, but now the company says California should make that law stronger.",
+      "why_it_matters": "This is mostly about government politics and what big tech companies want — it doesn't affect your business or daily life right now."
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch",
+      "date": "2026-08-22T16:00:00.000Z",
+      "simple_summary": "AI companies don't have clear public plans for what to do if one of their AI systems starts behaving dangerously or goes wrong.",
+      "why_it_matters": "This matters for AI safety, but it's mainly a concern for engineers and regulators — most small businesses won't feel the impact yet."
+    },
+    {
+      "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HdGxTRU41YThTUFJUT2xSYTBMdS1UdDNJMHNEbnFUUk1IaWZiZll6S2RPQktsM2cwVUd2cjJQQURZY1VrOVd6QjNVZlBUeTdDdmRaYTkzQzlQem56NDEzQmpCR1dsdkRuNnlIQTBIWTNKZw?oc=5",
+      "source": "Phys.org",
+      "date": "2026-08-22T15:40:01.000Z",
+      "simple_summary": "AI computers figured out how to read a pattern in human DNA that appears in about 60% of our genes.",
+      "why_it_matters": "This is important for doctors and scientists studying diseases, but it won't directly change how you run your business today."
+    },
+    {
+      "title": "Trump and White House aide Natalie Harp get the LEGO treatment in ‘incredible’ AI video from parody account",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjE1SDd2TTNPU2xfdnRNckNjeDc3NlFCcWdrTzlTb0dUdjZUWXk4NWJNRmZ5MUFrdHZ6U2E5a0RSdGY3MkgtTzN2WGsyOHI5ZF9kTkhoOWxLdDVYQmV4QjhhTy1ObTdQclBDS2JZejU0azdjemtuRWN1LXpUOHF5NUhWU2tkSEo3NzBWNlU1SEtwbFhiejhoVVNMOUFPd2Q2SldJU3k1SEZ0VmNJ?oc=5",
+      "source": "The Independent",
+      "date": "2026-08-22T15:29:00.000Z",
+      "simple_summary": "Someone used AI to make a funny fake video of Trump and a White House aide as LEGO characters.",
+      "why_it_matters": "This doesn't matter to you — it's just entertainment and parody."
+    },
+    {
+      "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTktrb2J6bVdqbkVmeGVmekZ3YVktRE52WWpQWnF4ZG14akx5VWtXbm42d0JBb1FnWnE3V2I5Wkc4RXcxRnExVlZmZlM0X2Z6NTZCMUVHSG9DQUFkOEZWV1p4dy05OW9sX2VkWXQ5Vm1JVHY1VXBLYlhPY09hd2g2U0hmWXM0ME5CLTY1aHF5VHRFanUwQUpLUkdMV19hUDgzcXdidDRkd2R5a3NlOWpSRQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-22T13:20:00.000Z",
+      "simple_summary": "A writer is worried that even if AI causes huge damage like an atomic bomb, people still might not do enough to protect themselves from it.",
+      "why_it_matters": "This is opinion writing about future AI risks — not something that affects your daily life right now."
+    },
+    {
+      "title": "Your AI Notetaker Would Like a Word",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTZyc0F0ZnBzXzB5WUNIdWRiWkwtMm5tWDZzZkVkekh0ZVJkUjY5ckRtMkstcFZyS2FrXzRDQkYzT2xMUXlDdzJzd0FaelhHYXpUQUplNlpfMlJjSjF5bTVITml1dzZJeHVVU09aVkhzVzlZT1R4UU1zWWtJUVpzY1VidEN5LUJLM2ZSVVYyb2c5UHZNWmlNUQ?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-08-22T08:02:38.000Z",
+      "simple_summary": "The headline doesn't explain enough details to know what this is about.",
+      "why_it_matters": "Can't tell if this matters without more information."
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch",
       "date": "2026-08-21T23:07:25.000Z",
-      "simple_summary": "Anthropic built Claude to refuse making sexually explicit content, but researchers found it's not very hard to trick it into doing so anyway.",
-      "why_it_matters": "If you use Claude for work, be aware it has safety guardrails, but they're not perfect — this mostly matters to Anthropic's engineers to fix, not to you."
+      "simple_summary": "Anthropic makes an AI called Claude and tries to stop it from writing sexual content, but researchers found it's not that hard to get it to do so anyway.",
+      "why_it_matters": "This matters to the company fixing the problem, but if you're using Claude for normal business tasks, it won't affect you."
     },
     {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch",
       "date": "2026-08-21T22:37:38.000Z",
-      "simple_summary": "Nvidia (a computer chip company) is investing money in companies that build data centers for AI.",
-      "why_it_matters": "This matters to investors in Nvidia stock — not something an ordinary person or small-business owner needs to know about."
+      "simple_summary": "Nvidia, a computer chip company, is investing money in building bigger data centers (buildings full of powerful computers) for AI.",
+      "why_it_matters": "This mostly matters to investors — Nvidia makes money when AI companies need lots of computers, so Nvidia keeps building more places for them."
+    },
+    {
+      "title": "A battle over ‘Italian brainrot’ could shape who owns AI art",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzh1Mko3T1FvaWRhSi16X2NYTm5URmdpaXY2YjJGQXV2SFlmYkh4Y0ZGazBDOEhLck1RV2xfVVlRZVBSLWphc2dlTlFvZW5rd2Zwd2t2b1hNT19tWHVtYTZyUFBPVmtLN0FoR2dWeXRJNk5tMWRkWmQ3TENGSkxUdFFHMVExTEhucGJmUUZsbnRvMS1ZUzVYWGhJOVpKWHRvYVdqSDZKR00xaWJseEdSTUVfX0FQNFU?oc=5",
+      "source": "NPR",
+      "date": "2026-08-21T22:16:46.000Z",
+      "simple_summary": "There's a legal fight happening over who owns AI-made artwork and what counts as original art.",
+      "why_it_matters": "This matters if you're an artist or think about copyright law — most small business owners won't feel this impact yet."
     },
     {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
       "date": "2026-08-21T21:25:50.000Z",
-      "simple_summary": "LinkedIn added a button where people can mark posts that look like they were written by AI instead of a real person, and over a million people have used it so far.",
-      "why_it_matters": "If you use LinkedIn and see boring, fake-looking AI-written posts, you can now flag them to help clean up the platform."
+      "simple_summary": "LinkedIn added a button so people can mark posts that look like they were written by AI instead of by a real person, and over a million people have used it.",
+      "why_it_matters": "If you use LinkedIn, you can now flag boring AI-generated content, which might make the site feel less cluttered."
     },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "source": "TechCrunch",
       "date": "2026-08-21T19:43:39.000Z",
-      "simple_summary": "Nvidia research shows that the way you set up and control an AI tool matters just as much as how smart the AI itself is.",
-      "why_it_matters": "This is mostly technical information for engineers and AI developers — nothing you need to act on."
+      "simple_summary": "Nvidia showed that AI works better when you give it good instructions and guardrails, even if the AI itself isn't perfect at its job.",
+      "why_it_matters": "This is mostly important for companies building AI systems — it doesn't change anything for everyday business owners."
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch",
-      "date": "2026-08-21T14:00:00.000Z",
-      "simple_summary": "The Department of Justice is investigating a big venture capital company called Andreessen Horowitz because some of its leaders sit on the boards of competing companies at the same time.",
-      "why_it_matters": "This is a legal investigation about conflicts of interest in the investing world — it doesn't directly affect small-business owners or everyday people."
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "date": "2026-08-21T14:00:00.000Z",
-      "simple_summary": "A company called Starcloud raised a huge amount of money to build data centers in space for AI companies.",
-      "why_it_matters": "This is a very experimental, futuristic idea — not something relevant to ordinary people or small-business owners right now."
-    },
-    {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source": "The Verge",
-      "date": "2026-08-21T13:37:52.000Z",
-      "simple_summary": "Some popular video creators on YouTube posted videos showing AI video-making tools, and people criticized them for promoting AI without being honest about it.",
-      "why_it_matters": "Be cautious when watching online content creators — if they're showing off a new tool, check whether they were paid to promote it."
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch",
-      "date": "2026-08-21T00:13:44.000Z",
-      "simple_summary": "A startup company that sells training data for AI is growing very fast because AI companies need lots and lots of data.",
-      "why_it_matters": "This mostly matters to investors — the underlying point is that AI companies have huge appetite for data, which could affect what gets collected about you."
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T22:36:37.000Z",
-      "simple_summary": "Businesses keep switching between using ChatGPT and Claude (made by Anthropic) depending on which one seems better at the moment.",
-      "why_it_matters": "This matters to investors wondering if companies will stick with one AI tool long-term — not something you need to worry about."
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T22:09:51.000Z",
-      "simple_summary": "ChatGPT can now write text messages for you if you use an iPhone and want it to.",
-      "why_it_matters": "If you have an iPhone and find texting tedious, you could try this feature to have AI draft your messages for you before you send them."
-    },
-    {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge",
-      "date": "2026-08-20T21:50:22.000Z",
-      "simple_summary": "Google is adding an AI feature that learns what kinds of news and information you like to see, and automatically adjusts your feed based on what you ask for.",
-      "why_it_matters": "If you use Google's Discover feed, you'll get a new way to control what shows up — but Google will still be tracking your preferences to do this."
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch",
-      "date": "2026-08-20T20:53:13.000Z",
-      "simple_summary": "Someone joked about using wastewater to cool AI data centers instead of clean drinking water, and it turns out the idea isn't completely crazy.",
-      "why_it_matters": "This is an interesting environmental idea researchers are exploring, but it's early-stage and doesn't affect you yet."
+      "title": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5KM3VkQ2tDNjBDQnFFdmp6N3dGWjRoZFBkZzRidVFLRTJzSG0yOFlsRWY2aXdzdmRsblFFZkVpWWJkVW5zRHZBVVJjdVZObmNuTmdvcHhTNnlteVZ4cGxaVGRnWnpabnloSUJUbnJNdENKelpmMm5QX3VJT3Rua1UzZ016eU50WlhIQkx4R012OEdpaUdQSnR1ZmVSMTVvWHg0?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-08-21T18:29:00.000Z",
+      "simple_summary": "An article compares two technology stock investments to see which might make investors more money.",
+      "why_it_matters": "This is only for people thinking about buying stock — you don't need to do anything about this."
     }
   ]
 }
