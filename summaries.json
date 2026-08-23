@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-23T13:03:39.070Z",
+  "generated_at": "2026-08-23T18:49:53.760Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+      "title": "This AI actually learns how your eyes read—what happens next is stunning",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVFfMjR3eV8zUXl6SWF3MDNoVmJSMlVmRGQydlFnYUdsMUdMMDhjcVBOZjk0NVNnMnUwTWUyZ0JNaEVLcERseE5qUjhjZ0FNQi1jM2lpUlB5ekFxSFRDd3NDYURhNlpaT2ZJMHA3dE1OM3l2Z1BIR2hXdHJFNTVmVF9SZzAteUhlWHRYa200ek96a1o2b0Y0WFpFSWFmWEdjc082M3ZIS2pqTllBUzltM0JfZVQ?oc=5",
+      "source": "Futura, le média qui explore le monde",
+      "date": "2026-08-23T17:08:56.000Z",
+      "simple_summary": "Someone created an AI system that can understand how your eyes move while you read. The headline suggests something surprising will happen next, but the details aren't clear from this title alone.",
+      "why_it_matters": "This mostly matters to engineers and researchers right now — nothing you need to act on."
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch",
+      "date": "2026-08-23T15:30:00.000Z",
+      "simple_summary": "Flock Safety is a company that sells camera systems to track vehicles. Many people are worried these cameras could be misused to spy on them, and the company is facing complaints.",
+      "why_it_matters": "If you live in an area with Flock cameras, know that privacy concerns exist, but this is mainly a debate for communities and lawmakers to settle."
+    },
+    {
+      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-23T15:29:00.000Z",
+      "simple_summary": "OpenAI's leader is warning that AI systems are becoming targets for hackers who launch repeated attacks to break into them.",
+      "why_it_matters": "This mostly matters to tech companies and investors — it's not an immediate concern for your daily life."
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch",
+      "date": "2026-08-23T15:00:00.000Z",
+      "simple_summary": "AI companies have used millions of copyrighted books to train their systems without asking authors for permission. Authors are now questioning whether this is legal.",
+      "why_it_matters": "If you write, create content, or care about supporting artists, this matters — it's a real legal and fairness question being worked out in courts."
+    },
+    {
+      "title": "How Big Tech Captured American Schools",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-23T11:13:40.000Z",
+      "simple_summary": "Large tech companies have heavily influenced what gets taught in American schools and how schools operate.",
+      "why_it_matters": "If you have grandchildren in school or care about education, it's worth paying attention to what technology companies are promoting to students."
+    },
+    {
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
       "source": "Reuters",
       "date": "2026-08-23T04:47:00.000Z",
-      "simple_summary": "Alibaba, a large Chinese company, is raising $10 billion to spend on developing AI systems.",
-      "why_it_matters": "This mostly matters to investors and people who own Alibaba stock — it doesn't directly change anything for your daily life or small business."
+      "simple_summary": "Alibaba, a huge Chinese company, is raising $10 billion to spend on AI technology.",
+      "why_it_matters": "This mostly matters to investors and big business — it's a corporate finance move, not something affecting everyday people."
     },
     {
       "title": "A free AI model is winning over developers. And nobody knows whose servers it runs on",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFNFNjZCZ2d4eVY0aDFlbEpXSS1BS1dKaDdTalhmRTdPUnljWDBiVWhRRDJ6Qm10ekNpWC02N3hobm5ydlBlX2d3QzhMaDByeVRfa053bTRwVU10QTJ6QnVhaXN5RFBzbFVXclhVM1plczE0V2lzRWd3eHZYV2ZNQWdSTWVaOGc?oc=5",
       "source": "The Next Web",
       "date": "2026-08-22T21:53:48.000Z",
-      "simple_summary": "A free AI tool that many computer programmers like is becoming very popular, but nobody is certain who is paying to run it or where the computers are located.",
-      "why_it_matters": "If you use free AI tools, this is a reminder to be cautious about where your information goes — but this story is mainly for tech professionals."
+      "simple_summary": "A free AI tool that programmers love to use is popular, but nobody can figure out whose computers actually run it in the background.",
+      "why_it_matters": "This is mostly interesting to tech workers — it highlights that sometimes people use tools without fully understanding who's behind them."
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch",
       "date": "2026-08-22T21:46:56.000Z",
-      "simple_summary": "Harvard Business School created AI versions of its teachers that give feedback to students practicing their business pitches, like having a coach available 24/7.",
-      "why_it_matters": "This mostly matters to people taking Harvard's expensive bootcamp — it doesn't affect most small business owners unless you're interested in using AI coaching tools yourself."
+      "simple_summary": "Harvard's business school created an AI teacher — a digital avatar that looks like a real instructor and gives feedback to students practicing their business pitches.",
+      "why_it_matters": "If you're considering expensive business education, know that some programs now use AI instructors, which might change what you're paying for."
     },
     {
-      "title": "Anthropic Is Reportedly Being Upfront With Would-Be Investors About AI Backlash",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0YwUS1QTkdsS0pNUldCU1QwSVJwYW1mekkxMzdzbHhibEZWQ2hjNkdqby1tbzNzSC0tZkVEbGh5OVo5UXJ0bXByaU5kcXdwWUxsYzRvZXV5STZwUHVxSFQ3RVpNa3k5OVUwd2hNZ0tUeW41SmNGOTJoSDNZWEkzRWZVcHhMeG1McnJZV0ZuMmczdk1YajJOZkZLSnVxZm5RQWw3aHN5NDdtRjRURDlJ?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-22T20:49:06.000Z",
-      "simple_summary": "A company called Anthropic that makes AI is being honest with people who might invest money in them about concerns people have regarding AI safety.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUtZNE1zWVpsM25BUHhSTEdiQmFObkJSNWxpd0d3andIWVlZNG9kNTBwenpsUlZoenJKNGM1M1U2OGswU25JVlJCbVFkd0JiVnBaMzlOZUVGSWNzbi04YVhzX1BybjVLdkRmb0hiWGhWc29JNFhvUHpGNHh2Uy1iamtKcGF5TlZqWnlfQlNUMWN6aXZzTzNpaw?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-08-22T20:44:00.000Z",
+      "simple_summary": "A wealthy investor moved money from one tech stock to buy shares in three different AI-related companies.",
+      "why_it_matters": "This is purely about investment choices — nothing for a regular person or small business owner to act on."
+    },
+    {
+      "title": "Nvidia customers reportedly warned about AI-related price hikes",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-22T20:26:44.000Z",
+      "simple_summary": "Nvidia is a company that makes computer chips for AI. Customers are being told that prices for these chips will go up.",
+      "why_it_matters": "If your small business uses AI tools, prices might slowly increase over time, but this is mainly a concern for tech companies buying expensive equipment."
     },
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "source": "TechCrunch",
       "date": "2026-08-22T19:00:00.000Z",
-      "simple_summary": "A new AI company created by former Google researchers claims their AI can read and replicate scientific research papers better than systems made by OpenAI and Anthropic.",
-      "why_it_matters": "This matters mainly to researchers and investors — for small business owners, just know that different AI tools are competing to be better at different tasks."
+      "simple_summary": "A new AI lab created an AI system that can read and recreate scientific research papers as well as or better than similar tools from bigger companies.",
+      "why_it_matters": "This mostly matters to researchers and scientists — it shows competition in the AI industry, but doesn't affect your daily life."
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch",
       "date": "2026-08-22T16:30:34.000Z",
-      "simple_summary": "OpenAI, the company behind ChatGPT, now wants California to make its new AI safety rules stricter than currently planned, even though they opposed similar rules before.",
-      "why_it_matters": "This is about government regulation and doesn't directly affect you right now, though it could shape how AI tools work in the future."
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch",
-      "date": "2026-08-22T16:00:00.000Z",
-      "simple_summary": "A study found that major AI companies don't have clear public plans for what to do if their AI systems go wrong or act dangerously.",
-      "why_it_matters": "This raises legitimate safety concerns — it suggests AI companies should have better safeguards, though for ordinary people this is still a future worry rather than an immediate problem."
-    },
-    {
-      "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HdGxTRU41YThTUFJUT2xSYTBMdS1UdDNJMHNEbnFUUk1IaWZiZll6S2RPQktsM2cwVUd2cjJQQURZY1VrOVd6QjNVZlBUeTdDdmRaYTkzQzlQem56NDEzQmpCR1dsdkRuNnlIQTBIWTNKZw?oc=5",
-      "source": "Phys.org",
-      "date": "2026-08-22T15:40:01.000Z",
-      "simple_summary": "AI has helped scientists understand a pattern in human DNA that appears in about 60% of our genes.",
-      "why_it_matters": "This could help medical researchers develop better treatments in the future, but this is a long-term scientific advance, not something affecting you today."
-    },
-    {
-      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2FBbHMwY25jcHduZGRGd0IyUWE0T2QyVUZZSzF1U1U2aFlsTUV5S1FqdWVsc0IyZW1RTmJPOG0tZVdNRDNxdk1KUTFPN1oxa1lOa3VYd1VBNlJZQkM4bmpQN1JMUHR1RzdNQlFMbWJ4ZHlEbWZSdVdfZDhIMnF0eDdQMWw2NGdXSHZFVTBvdlZJem55?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-08-22T15:00:00.000Z",
-      "simple_summary": "A wealthy investor sold his company's SanDisk computer chip stock to invest in AI-related companies instead, betting that AI is a better opportunity.",
-      "why_it_matters": "This mostly matters to investors and people who own those stocks — nothing you need to act on."
-    },
-    {
-      "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTktrb2J6bVdqbkVmeGVmekZ3YVktRE52WWpQWnF4ZG14akx5VWtXbm42d0JBb1FnWnE3V2I5Wkc4RXcxRnExVlZmZlM0X2Z6NTZCMUVHSG9DQUFkOEZWV1p4dy05OW9sX2VkWXQ5Vm1JVHY1VXBLYlhPY09hd2g2U0hmWXM0ME5CLTY1aHF5VHRFanUwQUpLUkdMV19hUDgzcXdidDRkd2R5a3NlOWpSRQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-22T13:20:00.000Z",
-      "simple_summary": "An opinion piece argues that even if AI caused a disaster as big as Hiroshima, people might still not do enough to protect themselves from future AI risks.",
-      "why_it_matters": "This is a scary opinion piece about the distant future — it doesn't require action from you today."
-    },
-    {
-      "title": "The Results of Middle and High School Students Using AI Are Extremely Ominous",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk8yem05OFUwbkR3TnM3S2Vyc3lXdzJLOFViYUhzdGt4NklqdkJwXzZia21ZaFRHVkhwYUhWYU5iVkswUDRxWG8tUmpibW5EREVWdGU4SDJ4cnI5ajlOTGl3dnBLV2xTNVEwdXR5Nm9idzRGTVVuUkpDMGtlUnl6NjJn?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-22T12:03:00.000Z",
-      "simple_summary": "Research suggests that middle and high school students using AI tools are showing concerning results, though the article doesn't explain specifically what those concerns are.",
-      "why_it_matters": "If you have school-age children or grandchildren, this suggests it's worth thinking about how they use AI — but you'd need more information to know what specific problems to watch for."
-    },
-    {
-      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUFyOE9ZS0F6VUJIWF9yRnZQck41WXdlRmM3bUw2Y1h4QjJYai16WVVOQ0NYaXhSS3BKSkFQeElzWjdRRXYyTFZiLVp6UzA4UnBBS1owTzJqelhQbEk2SGY3MU5IVVkxM2lXbVJpOEZLaS1BM1U2Vzc0RWJRMkdhMmYzR0VrWHpCd3J0NTRNdGVkSk9Oang3M2FkbUE1MUU2cUZF?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-08-22T10:35:00.000Z",
-      "simple_summary": "Google and Amazon are planning to spend a combined $420 billion building computer servers and equipment for AI systems.",
-      "why_it_matters": "This mostly matters to investors in computer hardware companies — it shows AI is becoming a huge priority for big companies, but doesn't directly change your daily life."
+      "simple_summary": "OpenAI (the ChatGPT company) is now asking California to make its AI safety rules stronger, even though they opposed similar rules before.",
+      "why_it_matters": "This is interesting as a sign that even AI companies want government rules — it suggests big tech agrees rules are needed, though what those rules should be is still being decided."
     }
   ]
 }
