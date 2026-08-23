@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:00:53.823Z",
+  "generated_at": "2026-08-23T07:02:53.476Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,23 +7,23 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2hVS3doNVlVVGdCeEQ0UnM1R0dhTGdXX2hxZ2xodVdONkk1TXZCNXVUUF9TRER1MFQ5RERTd0JNbHc5cnVXZ0tOUWx2Nlo2Y0duOVJQRVQ3WkQzWHRLUFdBMDFMNm5zTkJWVGRsQjh6NlQwbXlTTkFvUU9ZcW5kOGRudDZRU3luUUdPR3BaREpaQ3oxZzFrZ3dJWF81NVRRWjNLekhoS2s0TmI5VWFMcnpCemJwRUdSSkozeVNpcF8xcmhsbXZvM2tlTQ?oc=5",
       "source": "inc.com",
       "date": "2026-08-23T01:28:29.000Z",
-      "simple_summary": "OpenAI is gaining business customers faster than Anthropic, another AI company. This growth in paying customers may be more important than how much money these companies are worth.",
-      "why_it_matters": "This mostly matters to investors and people who own AI companies — nothing you need to act on."
+      "simple_summary": "OpenAI is gaining more business customers than Anthropic (another AI company). The article says this might be more important than what investors think these companies are worth.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch",
       "date": "2026-08-22T21:46:56.000Z",
-      "simple_summary": "Harvard's business school created AI versions of its teachers that give practice feedback to students during mock business meetings. Students can practice their pitches and get responses from these AI avatars.",
-      "why_it_matters": "This doesn't directly affect your business or daily life right now, though it shows how AI is entering education."
+      "simple_summary": "Harvard Business School created AI teachers (computer-generated versions of real instructors) that give students feedback on practice business pitches. It costs $699 for the program.",
+      "why_it_matters": "This is mainly interesting for educators and students — most small-business owners don't need this."
     },
     {
       "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm9EakQyamxjSHUxNFBKWE5GNmd5M00yUkg4MmxQNFpzVDFhc1JXX3ZZVzE3RmstY2pNTldYRk4xV3BNcXg4UHZ0SmgyanZkdlZPN09aQ1pjcW9kQlFrSm5kUVV5UnoycnRWdzdKQkp3VVpLdHc3TWsxOVU3Z0tsN2FjMWViWkowVVNmZ1VqR1pmd2dDSXJjNEo2OHlabDdDWnh3TlBBc3VIa3Fx?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-22T20:04:00.000Z",
-      "simple_summary": "A rich investor (Stanley Druckenmiller) sold some of his stock in one computer company and bought stock in three AI companies instead.",
+      "simple_summary": "A very wealthy investor bought shares in three AI companies that he thinks will do well.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
@@ -31,72 +31,72 @@
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "source": "TechCrunch",
       "date": "2026-08-22T19:00:00.000Z",
-      "simple_summary": "A new AI system called Faraday can read and copy scientific research papers better than the AI systems made by Anthropic and OpenAI. It was built by people who used to work at a famous AI lab called DeepMind.",
-      "why_it_matters": "This mostly matters to scientists and AI researchers — nothing you need to act on."
+      "simple_summary": "A new AI company called Inherent says their AI system is better than OpenAI's and Anthropic's at reading and copying scientific research papers.",
+      "why_it_matters": "This mostly matters to investors and scientists — nothing you need to act on yet."
     },
     {
       "title": "Israeli scientists: AI can make personality tests, predict responses",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsc3U3ZHNHRE1Wa0JrbkQ2Wjc2U2tkRDNSdHNuNlNHSnd0dk9JbU14OEVrUC1WOTZITWlZLW42ZnI3VFpiMDBMeUZJNDFtR2ZTMzcySkdlOA?oc=5",
       "source": "The Jerusalem Post",
       "date": "2026-08-22T18:10:03.000Z",
-      "simple_summary": "Scientists in Israel discovered that AI can analyze personality tests and predict how people will respond to certain questions.",
-      "why_it_matters": "This doesn't directly affect you yet, though it could eventually matter for hiring or customer research."
+      "simple_summary": "Scientists in Israel say AI can analyze personality tests and predict how people might respond to situations.",
+      "why_it_matters": "This is mostly research — nothing urgent for ordinary people or small-business owners yet."
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch",
       "date": "2026-08-22T16:30:34.000Z",
-      "simple_summary": "OpenAI now supports a California law meant to make AI safer and more controlled. The company opposed this same law before, but changed its position.",
-      "why_it_matters": "This mostly matters to people who care about AI regulation — nothing you need to act on."
+      "simple_summary": "OpenAI is now asking California to make its AI safety laws stronger. Previously, OpenAI had opposed this same law.",
+      "why_it_matters": "This is a political matter mainly affecting policy makers — nothing you need to act on."
     },
     {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TechCrunch",
       "date": "2026-08-22T16:00:00.000Z",
-      "simple_summary": "Major AI companies haven't publicly explained how they would stop or control an AI system that goes wrong or behaves dangerously. This worries safety experts.",
-      "why_it_matters": "This is a concern for experts and lawmakers rather than something affecting your daily life right now."
+      "simple_summary": "A study found that major AI companies don't have clear public plans for what to do if an AI system goes wrong or misbehaves in dangerous ways.",
+      "why_it_matters": "This is an important concern for the future, but there's nothing specific you can do about it now."
     },
     {
       "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HdGxTRU41YThTUFJUT2xSYTBMdS1UdDNJMHNEbnFUUk1IaWZiZll6S2RPQktsM2cwVUd2cjJQQURZY1VrOVd6QjNVZlBUeTdDdmRaYTkzQzlQem56NDEzQmpCR1dsdkRuNnlIQTBIWTNKZw?oc=5",
       "source": "Phys.org",
       "date": "2026-08-22T15:40:01.000Z",
-      "simple_summary": "AI technology helped scientists understand an important instruction sequence in human DNA that appears in about 60% of human genes.",
-      "why_it_matters": "This mostly matters to medical researchers — nothing you need to act on immediately."
+      "simple_summary": "AI has helped scientists understand how DNA works by identifying an important pattern that appears in about 60% of human genes.",
+      "why_it_matters": "This is research progress in medicine and science — interesting but nothing you need to act on."
     },
     {
       "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTktrb2J6bVdqbkVmeGVmekZ3YVktRE52WWpQWnF4ZG14akx5VWtXbm42d0JBb1FnWnE3V2I5Wkc4RXcxRnExVlZmZlM0X2Z6NTZCMUVHSG9DQUFkOEZWV1p4dy05OW9sX2VkWXQ5Vm1JVHY1VXBLYlhPY09hd2g2U0hmWXM0ME5CLTY1aHF5VHRFanUwQUpLUkdMV19hUDgzcXdidDRkd2R5a3NlOWpSRQ?oc=5",
       "source": "The Guardian",
       "date": "2026-08-22T13:20:00.000Z",
-      "simple_summary": "A writer suggests that even a catastrophic disaster caused by AI might not make society take AI risks seriously enough.",
-      "why_it_matters": "This is opinion writing about possible future dangers — nothing you need to act on."
+      "simple_summary": "A newspaper opinion piece asks whether people would take AI safety seriously enough even if an AI disaster happened as terrible as Hiroshima.",
+      "why_it_matters": "This is opinion and philosophy — nothing specific you need to do."
     },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch",
       "date": "2026-08-21T23:07:25.000Z",
-      "simple_summary": "Anthropic's AI tool Claude is supposed to refuse to write sexual content, but researchers found it's fairly easy to trick it into doing so anyway.",
-      "why_it_matters": "This is mostly of interest to people testing AI safety — nothing you need to act on."
+      "simple_summary": "Anthropic tries to prevent its Claude AI from making sexual content, but a test found it wasn't very hard to get it to do so anyway.",
+      "why_it_matters": "This matters mainly to Anthropic's reputation and engineers fixing the problem — not something a small-business owner needs to worry about."
     },
     {
       "title": "Protesters bring petition to Trahan’s office to oppose Frontier Act section",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGYtQ1FUWGhhMDUzTGg4ZWUwTXBzMXBiLVNQdjQ0VzIzZGc3d1BFWjA5N2xQaUxVMHpvcnY5Q1NYWGp3eGc2UU81bTdlZVhLb2ZobVlSdy1FSTNVVEtjazJ0X2kzTWdJTEQ3OGt1RHRGd3pCamhxZW1KYVM4Vm9hTi1Dd0dEenR5bG5FUkg1cnQ5U2NZOTMzM1R5QVFvcEpmeHpZSzlieWxWdk9mbjl6R0J3?oc=5",
       "source": "Lowell Sun",
       "date": "2026-08-21T22:52:06.000Z",
-      "simple_summary": "Protesters delivered a petition against part of a proposed law about advanced AI regulation to a politician's office.",
-      "why_it_matters": "This mostly matters to people involved in AI policy discussions — nothing you need to act on."
+      "simple_summary": "Protesters brought a petition to a politician's office against part of a proposed law called the Frontier Act about AI.",
+      "why_it_matters": "This is local political news — only relevant if you live in that area."
     },
     {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch",
       "date": "2026-08-21T22:37:38.000Z",
-      "simple_summary": "Nvidia (a computer chip company) is investing in companies that build data centers for AI. Nvidia also sells the expensive chips that power those data centers, so the company benefits both ways.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Nvidia (a major computer chip company) is investing money in building data centers, which are huge buildings full of computers used for AI.",
+      "why_it_matters": "This mostly matters to investors — Nvidia makes chips that AI companies need, so this helps Nvidia's business grow."
     }
   ]
 }
