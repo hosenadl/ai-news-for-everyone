@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:59:10.270Z",
+  "generated_at": "2026-08-24T07:30:04.652Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yV19aNkczZmtDUWtqaUljMnhsMGtVZXAxNGc3VHZfNnNqZmRvX01RTUd6UUYwWW5yV1k2VTN1TGVNVE1fZGtmb3hES05xcU16WER6OWw5TVg1Wm9oMGdKWm1KSExrdWtXR0JaeFFmUQ?oc=5",
       "source": "Science Daily",
       "date": "2026-08-23T23:13:54.000Z",
-      "simple_summary": "Scientists figured out how a specific part of our DNA acts like an on/off switch that controls whether certain genes work. This is basic science research about how our bodies work.",
-      "why_it_matters": "This is important for doctors understanding diseases, but it doesn't affect your daily life or small business right now."
+      "simple_summary": "Scientists have figured out how to read an important switch in your DNA that turns genes on and off. This is a basic science discovery about how our bodies work.",
+      "why_it_matters": "This is mainly for medical researchers right now — it may help treat diseases someday, but there's nothing you need to do about it today."
     },
     {
       "title": "Does this image show creepy 'spider' on Mars?",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qRHAtUHBvVGZ5NnUwRHpqd2lUNU90Z1Z1eE9FOXlwQko3RHFxMW1hb3JKQjcyWGpWSFI3WDFqTy1zUHNxcGthUUJjRjZpc0NrZ1VMVmVEaUFOT05DaVN1NGlB?oc=5",
       "source": "Snopes",
       "date": "2026-08-23T23:02:12.000Z",
-      "simple_summary": "A news story is checking whether a weird-looking object photographed on Mars actually looks like a spider. This is about space exploration and fact-checking.",
-      "why_it_matters": "This doesn't matter for your life or business — it's just an interesting space curiosity."
+      "simple_summary": "Someone shared a strange-looking image that looked like a spider on Mars, and Snopes (a fact-checking website) looked into whether it's real. It's probably just a rock formation that looks spider-like.",
+      "why_it_matters": "This doesn't affect you — it's just a fun internet mystery."
     },
     {
       "title": "Dr. Dre Says He Uses AI to Produce Songs",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQlVDVXkxV2ctMEU2WEl0U2V2czRFYk5PcTFaYmp4ak0wSDBBb0xmTTFaOEk5alhJN1oxRDZxQjhKSjItMTVQNjdsZ2RLMy1IN1lQcnFQYUZhOFhsbnAzYlNtUlRuQWdBZ3RMaGsyX2FPTF9NSkdTaGdB?oc=5",
       "source": "Gizmodo",
       "date": "2026-08-23T21:16:44.000Z",
-      "simple_summary": "The musician Dr. Dre said he uses artificial intelligence (AI — computer software that can create music) to help him produce songs faster. He's using it as a tool, like a modern instrument.",
-      "why_it_matters": "If you work in music or creative fields, AI tools are becoming normal in the industry now."
+      "simple_summary": "Music producer Dr. Dre says he uses AI computer tools to help make songs. AI can now create music sounds and help with production.",
+      "why_it_matters": "If you enjoy music, AI is changing how some songs get made — but most music still comes from human artists and producers."
     },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "source": "TechCrunch",
       "date": "2026-08-23T20:01:36.000Z",
-      "simple_summary": "Someone released a new AI tool called Ox Alpha that nobody knows who made, and people online are excited and confused about it. This is mostly tech industry gossip.",
-      "why_it_matters": "This matters to investors and tech enthusiasts — nothing you need to know or act on."
+      "simple_summary": "A new AI system called Ox Alpha has appeared online and nobody publicly knows who created it, which has made some people curious and excited about it.",
+      "why_it_matters": "This is mostly interesting to AI fans and investors — nothing that affects your daily life."
     },
     {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "TechCrunch",
       "date": "2026-08-23T19:14:08.000Z",
-      "simple_summary": "A company called Linkdaze made a smart calendar that uses AI to help plan meals and run your household. You can use the main features for free without paying extra money.",
-      "why_it_matters": "If you want help organizing your meals and schedule digitally, this is a free tool to try."
+      "simple_summary": "A company called Linkdaze made a smart calendar that uses AI to help you plan meals and organize your household without charging extra money for those features.",
+      "why_it_matters": "If you struggle with meal planning or keeping track of family schedules, this is a free tool worth trying."
     },
     {
       "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
       "source": "The Guardian",
       "date": "2026-08-23T19:00:00.000Z",
-      "simple_summary": "The leader of OpenAI (a big AI company) warned that criminals are starting to use AI to hack into computers and steal information. It's becoming a serious problem.",
-      "why_it_matters": "You should be extra careful about protecting your passwords and business information, since hackers are getting smarter tools."
+      "simple_summary": "The leader of OpenAI (a big AI company) warned that hackers are using AI to attack computers and networks in new ways that are harder to stop.",
+      "why_it_matters": "Computer security is getting trickier — make sure your passwords are strong and be extra careful about emails asking for personal information."
     },
     {
       "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2xNbFNFWjljTHcwM1hzVFdwVV80MTVaNDZ3Q3VYdndCNUlUSFFFd0gxaXBqNUEyRlRKZTExY3BZZ2s2bjNsM29LTVRFQnpOellheTg4TkxjMXVLYzNlNGdQVFpmM0VUZFN2VFlLbDR5LTVJT1pHVERmc0xCN1ZUa0dkLXpkcEswWVRRek5CZkZPYTc5RFM3WlREd1dPSWtMS255UmFpbGRYWHc?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-23T18:35:00.000Z",
-      "simple_summary": "Two rich investors sold shares of one computer company and bought shares of another company that makes AI chips instead. This is about where rich people are putting their money.",
-      "why_it_matters": "This mostly matters to investors — it shows where wealthy people think money will be made, but it doesn't affect your day-to-day business."
+      "simple_summary": "Some very rich investors sold their shares in one computer company and bought shares in AI companies instead, betting that AI stocks will do well.",
+      "why_it_matters": "This mostly matters to investors with stock portfolios — nothing you need to act on unless you're managing investment money."
     },
     {
       "title": "Wyoming Police Departments Testing AI To Generate Reports, Look At Evidence",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ21vdUhVVm45UjlJYkJNN2dnamgtcUdHakpBWDFiQ0VBWVV0bjNhZllWRFMwQ3Nnd015dnpQZDdySDBQMk9yOEo0el9xdDNVazdqM3dpTEtVUTRDU01BR1BkT3cxdnBONE15SGt5Skd4NXA4U3MzYkJRMF9Lck5EZTdaV2JrcVZ5MFRNTkNvckZzbE9oV1FOdnRqLTJFcUsxakVURmpXVWdKdVJERWc5RHFISGYxcmFQQXc?oc=5",
       "source": "Cowboy State Daily",
       "date": "2026-08-23T18:32:00.000Z",
-      "simple_summary": "Police departments in Wyoming are testing AI software to help write police reports and look at evidence faster. It's like having a helper who organizes paperwork.",
-      "why_it_matters": "If you have any interaction with police, reports may be handled slightly differently and possibly faster."
+      "simple_summary": "Police departments in Wyoming are testing AI tools to write up police reports and analyze evidence from crime scenes automatically.",
+      "why_it_matters": "This could make police reports faster and more consistent, but it's still being tested and may not reach most departments soon."
     },
     {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "source": "TechCrunch",
       "date": "2026-08-23T15:30:00.000Z",
-      "simple_summary": "A company called Flock Safety makes cameras that watch streets and parking lots, and people are complaining that this technology could be misused to spy on citizens. The company is trying to calm people's concerns.",
-      "why_it_matters": "This is about privacy — if you're in an area with these cameras, understand that parking lot and street activity may be recorded and stored."
+      "simple_summary": "Flock Safety is a company that makes cameras for tracking cars and solving crimes, but many people are worried these cameras could be misused to watch innocent people without permission.",
+      "why_it_matters": "If you care about privacy, this is worth knowing about — these cameras are being used in some neighborhoods, so ask your local police if they use this system."
     },
     {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "source": "TechCrunch",
       "date": "2026-08-23T15:00:00.000Z",
-      "simple_summary": "Authors are discovering that AI companies used their published books to train AI without asking permission or paying them. Legal experts aren't sure yet if this is allowed by copyright laws.",
-      "why_it_matters": "If you create written content or own a publishing business, you should know that AI companies may be using your work without permission — this may change with future laws."
+      "simple_summary": "AI systems were trained by using millions of copyrighted books without asking authors first, and now authors are questioning whether that's legal. The answer is complicated and still being debated in court.",
+      "why_it_matters": "If you're a writer or artist, this matters because AI is using your work without paying you — if you're not, it mostly affects what content creators earn."
     },
     {
       "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlgtS3ZfV2VIX2ttYzd3YmEtUFlHYU1UdUxsV3hSaG4zWlJvd3FHcm9COTNDNmI3Y2U3YnF4YWpjdUl0VVJxN1BOYkFDVkJvOEs2Wk9TQmFxVzdlbWlSYW44LUpiRTRMSEZ2b3N6ekpIcHpYbTJteEJVcUZyRUtOYV9acjdlZmsxMHBtNno0MWY1bEhyWTBJV0ZwVElkNXhWaHlRQlNrQQ?oc=5",
       "source": "24/7 Wall St.",
       "date": "2026-08-23T14:43:54.000Z",
-      "simple_summary": "Nvidia, the company that makes the computer chips used to power AI, is raising its prices by 15 percent. This higher cost gets passed to companies building AI systems.",
-      "why_it_matters": "This mostly matters to big tech companies and investors — you may eventually pay slightly more for AI tools, but not yet."
+      "simple_summary": "Nvidia, a company that makes computer chips for AI, raised its prices by 15%, which means AI products will get more expensive for everyone who buys them.",
+      "why_it_matters": "This is mostly important to investors and tech companies building AI — it may slowly increase prices of AI services, but probably not immediately."
     },
     {
       "title": "Why is AI going on a hacking spree?",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjd5ZmJEeWgxMDVvTTRzbWpGUEhsZ0lyRzdEQ3ZBcmowdjMxRURNN3dmaTdaTFpYNWwxTnVTX29BZGVab09LSlNiSElGNGZReVczZ3d5eE1rTXpwajFpM2RkSm85M01mYTdqQkU0X3YxVV9IWUU1cFVHZWlxYlpIcGozN2Mxd0RpR3d5ZUdPQ2UxazNRTWpSOGMtdnJoUQ?oc=5",
       "source": "Live Science",
       "date": "2026-08-23T11:00:00.000Z",
-      "simple_summary": "AI systems are being used more and more by hackers to break into computers and steal information. AI makes hacking attacks faster and more automated.",
-      "why_it_matters": "Protect your passwords, enable two-factor authentication (a second security check), and be suspicious of unexpected emails — hackers with AI tools are getting better at their attacks."
+      "simple_summary": "AI systems are being used by hackers to attack computers and break into networks more effectively than before.",
+      "why_it_matters": "Use strong passwords and watch for suspicious emails — hackers' tools are improving, so your caution needs to stay sharp."
     }
   ]
 }
