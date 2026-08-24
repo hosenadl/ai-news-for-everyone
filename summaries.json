@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-24T13:15:06.758Z",
+  "generated_at": "2026-08-24T19:00:59.915Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Workers are rewriting their LinkedIn histories to add AI skills. Here's what they're dropping.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2xyUThaM2RPOUdqVm52SVp2WE1CTURDWHJaNFN6YTJGSUNNcGtSM3RrQTFPZEZkUmZlM2J0YWU4QmQtY285X1V0S2dIT3pfZzA0cHZTTGl6d0Q1T1B4ZVJsU2U0RWlnRHZXUjIwSVc0SDkxcWtTNGtGdXRwZDNrUllQTlRPMjY5VEdCd1FnTzc1N093OTVBWGZvWQ?oc=5",
-      "source": "Business Insider",
-      "date": "2026-08-24T13:02:11.000Z",
-      "simple_summary": "People are updating their job profiles on LinkedIn to highlight AI skills they've learned, while removing or downplaying other abilities from their resumes.",
-      "why_it_matters": "If you're job hunting or managing staff, knowing that AI skills are becoming more valued on resumes tells you what employers are looking for right now."
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "date": "2026-08-24T15:24:18.000Z",
+      "simple_summary": "A startup called General Intuition is trying to raise billions of dollars to build AI that controls robots. Big investors are interested in giving them the money.",
+      "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on right now."
     },
     {
-      "title": "AI bubble or babble? How to understand — and make money — on the latest tech revolution",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEFkY1ktdzBkZ2Rka1c5OVp6SmwwNzVva0MtallKdm1HemtSNF9HbXVGMWRTeGIyRlpCWXVqdWIwQmt1SF85T2Q5Y0xPUE5MaGVRVnZVbzNsNDZTUlVQVFFxQlJzbHBPek9XQzVXaXVKbG5jLVdnUXdLaDBQZktndkVTa2ZNTUVLcjRHa0xaSExqNzNrcy1qdTNUYklnWDJPc0Q5Y3Q3TGNoNWdVNno0NWl6NkV5elV3cHZWLXdCMA?oc=5",
-      "source": "New York Post",
-      "date": "2026-08-24T10:00:00.000Z",
-      "simple_summary": "A news article discusses whether AI is a genuine opportunity or overhyped excitement, and suggests ways to potentially profit from it.",
-      "why_it_matters": "This mostly matters to investors looking to make money on AI trends — nothing you need to act on unless you're considering investing."
+      "title": "Japan to tap AI to speed up materials development 10-fold",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUNOVnpheHZPWmZ3VkxSdnJsclRXOW83ajJkZFU4ck1uMGVXcEcxZlZmVHpCelNWZHFERmJnaFM0NUhfQzQ4THBCMU1EeGdGQWRHZTQ3MW45YmVhVDZOYnhYQ1NfRGR4alF0QS1zT1BFcVRlR3dQNk90YVI0SHVQR3R5VTkzVXRQTkMtTEJRcVZiMnZ6SGtFMGl5YW9NR0JRRnlwNjhsZnRfcTRDY2xpX2Vuek9TQ3hfWThrTDlTNW11V2M?oc=5",
+      "source": "Nikkei Asia",
+      "date": "2026-08-24T15:22:00.000Z",
+      "simple_summary": "Japan's government plans to use AI to help scientists discover new materials and chemicals much faster than they can today.",
+      "why_it_matters": "This could eventually lead to better products (like stronger phone screens or lighter cars), but it's still very early."
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "date": "2026-08-24T15:00:00.000Z",
+      "simple_summary": "OpenAI (the company behind ChatGPT) is working on AI agents — computer helpers that can do tasks for you automatically — and wants regular people to use them, not just software engineers.",
+      "why_it_matters": "You may soon be able to use AI to do everyday tasks on your computer or phone, like scheduling appointments or organizing files, without needing to be tech-savvy."
+    },
+    {
+      "title": "Laid off for a bot, China’s workers face an AI jobs squeeze",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWJud3lwaXJLdUs1a2V6QW1nTkROVERXeWU2Ti1pTjd3cXR0VU5JLUVfY1FPcTNlRTR5M2tHM21SNlZtRlo2cXNxLTZKeDZjbkRqSV9jbG94aGt1bTZKcUFNUHZkSGxEX1FwZk9NcXM3LWZmNFR6QlUwOFJTMnVLaUpjRkYyYjJQTlJPcFNTaVBHMl9YNHV0OURXa2dQNEdLTmlQaA?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-08-24T14:26:28.000Z",
+      "simple_summary": "In China, workers are losing their jobs to AI and automation, similar to factory workers being replaced by machines decades ago.",
+      "why_it_matters": "This shows that AI automation is real and spreading — something to be aware of if you have employees or workers depending on certain jobs."
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch",
+      "date": "2026-08-24T13:47:26.000Z",
+      "simple_summary": "A popular AI tools company called Hugging Face is getting offers to be bought for $13 billion, but the founders might not want to sell.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Google brings Antigravity under Gemini Enterprise to provide granular spend controls",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUkhWZC00Q3N2bXZ0b0w0YzhnRXdROHZrSHA2RTRCNEdSby1HY3oyNUVzdGFmbDhZYUpMMTRaWlZ2dUFxaDFiZURjcXRkYWlaVTc3Z1JYNVVqRVJORERCZTB6N24xTERRWlV1b0VDcy1Kb0daY3BjLVZvcGdpNlJHUDVoNkU5bTBscUp0REU5LVppM3RiUEw2MFR6Uzh3ek9RWVA5LXJZZms2Q0t5WDZHTHhJbzFvbTcwMk9SNzRuMXNOdEdlS1M0QWktTQ?oc=5",
+      "source": "InfoWorld",
+      "date": "2026-08-24T12:31:52.000Z",
+      "simple_summary": "Google added a control tool to its Gemini business AI product so companies can track and limit how much they're spending on it.",
+      "why_it_matters": "If your business uses Google's AI services, you may have better tools to manage your costs."
+    },
+    {
+      "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-24T11:19:29.000Z",
+      "simple_summary": "Russian military drones are using Nvidia computer chips (made in the U.S.) to power their AI, according to Ukrainian officials.",
+      "why_it_matters": "This mostly matters to government and defense officials — nothing you need to act on."
     },
     {
       "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
       "source": "Reuters",
       "date": "2026-08-24T06:25:00.000Z",
-      "simple_summary": "Taiwan's government has charged some people with illegally selling AI computer servers (very powerful machines) to China, which the government wanted to prevent.",
-      "why_it_matters": "This is mainly a government and international trade issue — it doesn't affect your daily life or business."
+      "simple_summary": "Taiwan's government is charging people with illegally selling advanced AI computer servers to China, breaking export rules.",
+      "why_it_matters": "This mostly matters to geopolitics and large tech companies — nothing you need to act on."
     },
     {
       "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VVVXb0l1NUxsWW94cUVoZ1kzbHJZMGJVTS1pRGRxbXd5OG9pYW9KUGpyVUJnUFdBeDZzS3VaeTY2by16RkFVRVAyaTZrOFVYdDZhSzVzTWFGQQ?oc=5",
       "source": "BBC",
       "date": "2026-08-24T05:20:47.000Z",
-      "simple_summary": "Some people are annoyed that AI-generated content (called 'slop') is low-quality, and one person is refusing to use AI to create things like birthday cards because they want real, thoughtful work instead.",
-      "why_it_matters": "This is a sign that people want genuine, human-made things for personal moments — so handmade or personally written items may feel more valued."
+      "simple_summary": "People are getting tired of poorly-made, lazy AI-generated content (like greeting cards written by ChatGPT) and pushing back against it.",
+      "why_it_matters": "If you own a business, customers increasingly value genuine, human-made work — don't rely too heavily on AI for things that need a personal touch."
     },
     {
       "title": "AI is coming for your glasses",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5",
       "source": "Financial Times",
       "date": "2026-08-24T04:00:14.000Z",
-      "simple_summary": "AI technology is being added to eyeglasses, though the article doesn't specify exactly what features these smart glasses will have.",
-      "why_it_matters": "This is mostly about technology companies developing new products — nothing you need to worry about or act on right now."
-    },
-    {
-      "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnNpNUZvYXMzVjQ4OVlodlFGZ3AwZWxYUUZFNWFMRFlvUXZTNlJmYXRDMTd6eWFCSjU3dW1RYlprZ1h6bW5aSFNNQnRJRHNpREVyMEVDaXY4R01DcTNFaVpVU3lGT3dfRGtiekl0V0JURW1VMFh6V0ZsOGVvbXJXUXFfbnREdld6M0l3MWtzaFI?oc=5",
-      "source": "Yahoo",
-      "date": "2026-08-24T03:42:00.000Z",
-      "simple_summary": "Workers in China are worried that AI might take over their jobs as companies increasingly use these tools to do work that people used to do.",
-      "why_it_matters": "This reflects a real concern that exists worldwide — if you own a business, it's worth thinking about how AI tools might change your work, both as threats and opportunities."
-    },
-    {
-      "title": "Dr. Dre Says He Uses AI to Produce Songs",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQlVDVXkxV2ctMEU2WEl0U2V2czRFYk5PcTFaYmp4ak0wSDBBb0xmTTFaOEk5alhJN1oxRDZxQjhKSjItMTVQNjdsZ2RLMy1IN1lQcnFQYUZhOFhsbnAzYlNtUlRuQWdBZ3RMaGsyX2FPTF9NSkdTaGdB?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-23T21:17:23.000Z",
-      "simple_summary": "The musician Dr. Dre says he uses AI as a tool to help him produce songs.",
-      "why_it_matters": "This shows that professionals in creative fields are using AI as a helper tool rather than seeing it as only a threat to their work."
+      "simple_summary": "Companies are working on putting AI features into glasses or eyewear devices you wear.",
+      "why_it_matters": "You may eventually see AI-powered glasses that can recognize things you're looking at or answer questions, but these products are still being developed."
     },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "source": "TechCrunch",
       "date": "2026-08-23T20:01:36.000Z",
-      "simple_summary": "A new AI tool called Ox Alpha has appeared mysteriously online, and people are guessing who created it and what it does.",
-      "why_it_matters": "This is mostly internet speculation and gossip — nothing practical for you to know about or use."
+      "simple_summary": "A mysterious new AI model called Ox Alpha has appeared, and people on the internet are guessing who created it and what it can do.",
+      "why_it_matters": "This mostly matters to AI enthusiasts and tech investors — nothing you need to act on."
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch",
-      "date": "2026-08-23T19:14:08.000Z",
-      "simple_summary": "A company called Linkdaze made a free digital calendar that can help manage your household tasks and even plan meals using AI.",
-      "why_it_matters": "If you're interested in digital tools to organize your home or family schedule, this is one free option to explore."
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch",
-      "date": "2026-08-23T15:30:00.000Z",
-      "simple_summary": "Flock Safety is a company that sells surveillance technology to track people, and it's facing criticism from the public who worry it could be misused.",
-      "why_it_matters": "If you're concerned about privacy or surveillance in your town, this is a company whose practices are being questioned."
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch",
-      "date": "2026-08-23T15:00:00.000Z",
-      "simple_summary": "Publishers and authors are unhappy because AI systems were trained using their copyrighted books without permission, and they're questioning whether this is legal.",
-      "why_it_matters": "If you write or create things, this shows the ongoing struggle between AI companies wanting to use existing work and creators wanting to protect their rights."
-    },
-    {
-      "title": "Alibaba shares plunge after $10bn new share placement to fund AI spending",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2pFWXRSanItd0tSNlhFelZMY3NwTTlwNEtfQXRsU2RYck0xaGFxRVhfN250eTVzd05hQnM1aHJWWGpEdUpwazFsRWZzdi1xSEpFN0x6dGlaNl91T0xmaUNlVDJkRmxnZ05sNXotQWpQWkR5b2dTTWRkcEp4TjU3NkFkWE5BS3VOckZnT29iX3FOWUEzdHFZNnA3N2VhYm5qeGVOR1E4aXNvOWhtSjl4QTI4dUlpQWc?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2026-08-23T08:38:00.000Z",
-      "simple_summary": "The large company Alibaba announced it's spending $10 billion more on AI development, and this news caused its stock price to drop.",
-      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on unless you own Alibaba shares."
+      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDVRZnZPLXZQb0RlREJ0MFJ2VFRSRVpxY0pYZTVBM3ZQeTgwS3FHZFhUaDU1Y1g3QnFobHNYbEpnZFJZU3FMbjRXYUFlZjJZYllTOWEwVnQ0dTg2amZaZ0liMTMyOFkxZkpuNTlaOTZsT2RrNEZKRFdUemNxSnNsWHhKYWFRNUpDRWpHUFBrbmFHUQ?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-08-23T19:15:00.000Z",
+      "simple_summary": "Two billionaire investors recently sold their shares in computer chip company Broadcom and bought shares in another AI-related company instead.",
+      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on."
     }
   ]
 }
