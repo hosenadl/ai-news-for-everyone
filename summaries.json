@@ -1,29 +1,69 @@
 {
-  "generated_at": "2026-08-26T01:59:48.829Z",
+  "generated_at": "2026-08-26T07:10:23.562Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Tech trailblazer helps small business tackle tasks with artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBYYnE1VEY0SHQwTDM0OEJ0eGFnRGJJUE5tdW9XV0JWWVhVZXBmNmVpZ0dxNFU0YUFLV2FIM1laTjZaZVRjMW8tRmJ4SWh1VXJHVGdFaVFQeXpSRDN4VW1HVGNhTDNLYkV5ZUtMcGpOU1lPWmdUa3VBeEYtNkh4RXp6c1BtRWhZaHBZRmphcXJ3aWV1MkhCZVJnaUxOakZFWnRLcEFOdzlGOWFnZDRqV1NfZnFBdDVfRkE?oc=5",
-      "source": "CBS News",
-      "date": "2026-08-25T21:32:00.000Z",
-      "simple_summary": "A tech company is helping small business owners use artificial intelligence to handle repetitive tasks and get work done faster.",
-      "why_it_matters": "If you run a small business, this might help you save time on paperwork or customer emails without hiring more staff."
+      "title": "In a divided America, the left and right unite to oppose artificial intelligence data centers",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHBuY0Z0QTc5VjltOHJscDd4UEV6LVh0U0lGSE4tbEZMbVpGQWxRSHo3UVFUai1Qa09vT1h6WTRWWG1hbDAxNzVQOVlYSldySkFZa0h1NEpMdlEyQVBtZzJpV2ppWi15ZWp3Y3lqamN2VVRWdFU1dzZObDFFOGpyTmZ1ZWhXMnBVQlRSSE9XZDNVYl9xWTJyY0l1N0IyanVUNmp0VnBuRVR1ZXBlRFliUTkxRkE1Nm1VYVdwS21Zd1RWQWYxVzhLYW5GTjZWSnBtU2owQnhjQ1ZUUdIB3wFBVV95cUxOOFJqcG9jX3lSdk4wTkFSa01HYjJUdlpYVXR6NEhhSGlsWGlqSVBMMi05bFcyTlhTeUlKNUI1V19LaW5ZVFVSTVpNZG1lNXFPVXhFSUV3ZE1fR29UaFFSczRTQTA1dG1wbFFRNVhUSEZIQTRjdDlGak44NE9XOXlReTh0V1o0bVpfMUhvRnE4TF9tdWV4dEFnSjhBaFNqODUwdFFlZkhtZkRhWlpnakJfVVRfNzN5X1FBNEc4OVU3QkJOS19VSWRtNEpzXzk5OVVJQVkteS1OY0Y4UTFJSC04?oc=5",
+      "source": "WAVY.com",
+      "date": "2026-08-26T04:01:58.000Z",
+      "simple_summary": "Both Democratic and Republican politicians are working together to oppose the building of huge data centers that use lots of electricity to power AI systems.",
+      "why_it_matters": "If these centers don't get built, AI development might slow down, which could affect new AI tools you might use — but this is mainly a political story right now."
     },
     {
-      "title": "Perplexity’s on-device AI offering promises data control and lower token costs",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUFWSDJGLWpnWVE5cEJNY1BSNnRjVXVodkgwZmxlb3RqNkliVl81S0ZRcGhfaGhSelBySzd1dnBKVzdCa0pGUGhXa0o4b0VfbWxZQlFhRkJoZlN2UnR3VkdEOFlwQVoxVUc1b1lTZUFPOGhobzNmRVM5SzZHRmdZQk4yUGRJYnEtVzdwaXpIeVcwbVk5Mi1KdWtta1ZsUW1tSDNpdTdaVnFXMlNnckU4YmtNejhYNlJpejE4STRXUERBNTFYU0lr?oc=5",
-      "source": "Computerworld",
-      "date": "2026-08-25T20:44:14.000Z",
-      "simple_summary": "A company called Perplexity is offering AI software that runs on your own device instead of sending your information to their servers, and it costs less to use.",
-      "why_it_matters": "If you care about keeping your business information private, this option gives you that choice."
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch",
+      "date": "2026-08-26T03:30:00.000Z",
+      "simple_summary": "An Indian company called Ringg that makes AI voice technology received $10 million in funding to help it grow.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on right now."
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "date": "2026-08-26T00:40:59.000Z",
+      "simple_summary": "A robotics company became worth $3 billion — that means investors think it will be very successful at building physical robots controlled by AI.",
+      "why_it_matters": "This mostly matters to investors and robotics engineers — nothing you need to act on."
+    },
+    {
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-26T00:34:00.000Z",
+      "simple_summary": "Amazon is shutting down a service that Jeff Bezos once described as using humans to fake artificial intelligence.",
+      "why_it_matters": "This is mainly a news story about Amazon's business decisions — nothing relevant to you."
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "date": "2026-08-26T00:06:20.000Z",
+      "simple_summary": "A top executive who ran the data centers at OpenAI (the company behind ChatGPT) has left the company, and there have been several other important people leaving too.",
+      "why_it_matters": "This mostly matters to investors and tech professionals — nothing you need to act on."
+    },
+    {
+      "title": "Billionaire Stanley Druckenmiller’s WSJ Op-Ed Criticizing Bessent Was Written With AI - News of the United States",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RZC1sMHJmcjIyd2M0REdoQWdGT2NMNGMwc1RnTzE5Sm40MW8taHJjbUZFTG9id19BOEhCSzNIOGZmcE82dXR3c2RHcGU0d3dkOWc3T21PTkdjSFFfY3B0YWNhdTlmWTd5MzdZZm9ySjZwSkdaUTB2cWZXaw?oc=5",
+      "source": "NOTUS",
+      "date": "2026-08-25T22:06:10.000Z",
+      "simple_summary": "Billionaire Stanley Druckenmiller admitted that AI wrote an opinion piece he published in the Wall Street Journal.",
+      "why_it_matters": "This shows that important people are using AI to write — good to be aware of when reading opinions online."
+    },
+    {
+      "title": "With limited AI policies, teachers take different approaches in the classroom",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzViYzBJX0dkNzAtckFKRUpOV0RzZEpoTjNnRzA1OHRxeDRWcF9Zc2VuRVpmNnVwX0sycV9jRGQ0NWVpSklDckpxc2luenY2SzEzWG5pdlhNOTZLbklibnJlZGNQaXpobGhQVDByLTctc2RsZHpIN1g4ejR1TmVrdy1yeFdlX21jX19iRWNaV2xRdTVvTVpPc2lsb0VQRlJHQ1p1WTVKbllxTDR3RE94MUx3UUhxN3dTTzFKakNYVkxxdEJk?oc=5",
+      "source": "WRAL",
+      "date": "2026-08-25T20:37:03.000Z",
+      "simple_summary": "Schools don't have clear rules about AI yet, so different teachers are handling it in different ways in their classrooms.",
+      "why_it_matters": "If you have grandchildren in school, they might be learning with different AI policies depending on their teacher."
     },
     {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
       "source": "TechCrunch",
       "date": "2026-08-25T19:03:47.000Z",
-      "simple_summary": "Stability AI, a company that makes software to create pictures from text descriptions, got $76 million in investment money.",
+      "simple_summary": "A company called Stability AI that makes software to create pictures from words just raised $76 million from investors.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
@@ -31,72 +71,32 @@
       "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "source": "TechCrunch",
       "date": "2026-08-25T17:50:33.000Z",
-      "simple_summary": "Claude, an AI assistant, can now remember things you tell it across different conversations, so you don't have to explain your project over and over again.",
-      "why_it_matters": "If you use Claude to help with your business, it will work faster because you won't waste time re-explaining yourself."
+      "simple_summary": "Claude, an AI assistant, can now remember things you've told it across different conversations — like how a good assistant keeps notes about your preferences.",
+      "why_it_matters": "If you use Claude, you won't have to re-explain things each time you chat with it."
     },
     {
       "title": "Why the threat from the rampaging AI machine went ignored | Letters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3gydlVRbUt4UjhSX3JKc25hSzdBY3JSd0pTeGdxak81cjZGci1lMk5uekNGLVJNZmNyMURWMEt4S20wMWhlQ00yQ2JBSlZDOUNqQ2RDaE9JTFdHQVdUWWdMVko5SDJLRXN5amFTYkRvYUlUSEJnRlpVYXJYQ3dJZ3dHc2MtYk9mbnlBX1FFSXN5cVNRaExYQzBVeW1kakNJeFFod3FYbWVTQWU2?oc=5",
       "source": "The Guardian",
       "date": "2026-08-25T16:55:00.000Z",
-      "simple_summary": "An opinion piece discusses concerns that AI risks were not taken seriously enough.",
-      "why_it_matters": "This is a general discussion about AI safety — nothing specific for you to act on."
+      "simple_summary": "This is a letters section article — the headline alone doesn't give enough information to explain what was ignored.",
+      "why_it_matters": "Without seeing the actual letter, we can't say what this means."
+    },
+    {
+      "title": "90 Percent of Execs Say Oops, AI Didn’t Help Productivity, So Layoffs Will Continue",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFiV2U3cXZkVS0zbmgzWDNUX0hXclBjZUprQXhNclNpblpTeGlDV3NEVHNvRlRKSlVnYUdtMHZTSEo3S2ZOSURGREhBeFFLTzNPRWhUS2ZENlptd1k5dFMzT09KbzFfamRHVjBHWTN5YlJJZUlSRjlsZWVqMDFBRFNESW4zb2hwZlVtSTkxNE5tNWpSdEdua1FIZlo?oc=5",
+      "source": "Futurism",
+      "date": "2026-08-25T16:54:10.000Z",
+      "simple_summary": "A survey found that 9 out of 10 business leaders say AI didn't actually make their workers more productive, and companies are now laying off employees anyway.",
+      "why_it_matters": "If you own a business, this is a reminder that AI doesn't automatically help — you need to think carefully about whether it actually solves your problems."
     },
     {
       "title": "Try to beat this AI writing detector",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-25T16:00:00.000Z",
-      "simple_summary": "The Washington Post created a test to see if you can tell the difference between writing made by AI and writing made by humans.",
-      "why_it_matters": "This is mostly for fun or curiosity — it doesn't affect your daily life."
-    },
-    {
-      "title": "Artificial Intelligence As It Once Was",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcjlRSlNFTlp6VURwWnZ1UzZCd09Mam9PUkdHVjhUUGhyNF9JenI3MzVRaEpyNDVxcnZPV1UzZ0tYSlQ0Y0MzSVBzLWsybXBpOXVtbVJlQ1NHTjR1cldvb3BzU2xVT0pqdWVrUl9wX25qR3BuTGFmS0lNdw?oc=5",
-      "source": "Hackaday",
-      "date": "2026-08-25T15:30:00.000Z",
-      "simple_summary": "A story about how AI worked in earlier decades, before modern computers.",
-      "why_it_matters": "This is a historical look at old technology — nothing you need to know about."
-    },
-    {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "source": "TechCrunch",
-      "date": "2026-08-25T15:00:00.000Z",
-      "simple_summary": "A company called Gamma bought another company called Lica, and the founders will work on new research for Gamma.",
-      "why_it_matters": "This mostly matters to investors and the tech industry — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch",
-      "date": "2026-08-25T14:22:04.000Z",
-      "simple_summary": "OpenAI made a new computer chip called Jalapeño that can answer AI questions faster and use less electricity than other chips.",
-      "why_it_matters": "This mostly matters to tech companies that build AI systems — nothing you need to act on."
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "source": "The Verge",
-      "date": "2026-08-25T14:00:00.000Z",
-      "simple_summary": "OpenAI says its new Jalapeño chip makes AI answer questions faster and more efficiently than competitor chips.",
-      "why_it_matters": "This mostly matters to investors and companies buying AI equipment — nothing you need to act on."
-    },
-    {
-      "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG9hU01WSFg5ajRrWGFnNnJsODNjV0JFdElYMzVXczZYbzVkOWNsUk12ek4yMkRLeVlrOVVNRUxpUW1OdXdia2RQb3BQbTNzRnc5MDNmQlpmbDF2a050bXVHZlRFOEU5bkw4aG1tWDRWc19MX3FJZEdua2wtbGNUSnZpYWViVjZNUlJGZGwyWEk4X21IWUpabHJDMVJYVThFVjBZVWdjUdIBrAFBVV95cUxNQzN6R3J5dWQwRWVnWnhMSUx4QU5CY2QxSy1ncjlyTW5lUk1sVkZWcUZrMjlJUENpQ1JVSUs1UHVXaWxiTEM1cE0tX0lYcDBHYUlEekVFLWhtNGVKS2dlX1MyeUNVcTNMaW84VlBFblVRSGlnVjFleFJjRFZDQkgwYzBERmd1OHZLTllxR2x2QnJhdnB0UzZob3hLQ1k3T2FUbDNoR1RwNV95SWZw?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-25T13:00:01.000Z",
-      "simple_summary": "Apple released updated versions of its Mac Mini and Mac Studio computers with new features to help them work better with artificial intelligence.",
-      "why_it_matters": "If you use a Mac computer and want the latest technology, these newer models have better AI features built in."
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch",
-      "date": "2026-08-25T13:00:00.000Z",
-      "simple_summary": "A startup called Keenable raised $26 million to build a tool that helps AI systems search and understand the entire internet.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "simple_summary": "The Washington Post created a game where you try to guess whether a piece of writing was done by AI or by a human.",
+      "why_it_matters": "This is mainly entertainment — but it shows that AI writing is getting good enough that it's becoming hard to tell the difference."
     }
   ]
 }
