@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-27T22:17:45.824Z",
+  "generated_at": "2026-08-28T11:27:40.100Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "gatesnotes.com",
+      "date": "2026-08-28T05:30:03.000Z",
+      "simple_summary": "A tech leader is warning that the decisions we make about AI right now will have big effects on our future.",
+      "why_it_matters": "This is a general warning rather than news about a specific change — it's a reminder to pay attention to how AI companies behave, but nothing you need to act on today."
+    },
+    {
+      "title": "AI firm Anthropic wins case challenging Pentagon blacklisting",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjFwTklMVzhyeW5nOUdzUUVpN01kQ2hzcmpFT2FrOUNWRXNueDF1SzN5aG95QmtSOWsyaVdTMjJzdkZ6eU15STYybUtZdWtJdWhlQmFxNjFDWWo3b3FnMHVPak1RdENMZHM1ZUk5Y2ZXdUx3NUd4RExQQ0hocGxXWVBxbTVhdDRPR0JrUU1NWl9qQi1JRW5tTnRJOHV2c0RITUgxVU9aOFJCYlVXdGk5T3ZfalJyd01DWldMYjdR?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-28T05:30:00.000Z",
+      "simple_summary": "A court ruled that the government wrongly tried to block an AI company called Anthropic from working with the Pentagon.",
+      "why_it_matters": "This mostly matters to investors and government contracts — nothing you need to act on."
+    },
+    {
+      "title": "No special carve-out for states using fossil fuel to power datacentres, Chris Bowen insists, despite new conditions",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUEZPY3Z2WWFqQi0tbWluLXhxYkE0bUdEU2JVMUlHVmxsdkR5NEZOeTJCSFRIQi1BdV9Kcnc5Zjk0RzNBTFFHX2V3Q3lyOEpFcnpUQVp2Y3VnaFFIOUQxLVNadG1vS1dVdUROUzUxX3BfZGt0elQ4X2NtWl9aT2hTU21qbGZLU3VLdE1xSjVHa2dqZkNjal9hNXBtSkxDVVF2aWpKYWkxbC02MDFwajlRLVJ0M1kyS2d1bzVzWGR5bmJmZXltaEFLd1ROekZjc1ZHdHY5aEhxMEFZbjI5ck9uaTNkYjM5a0NKa0xXMzc0cWU1UlY1b05N?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-28T04:17:00.000Z",
+      "simple_summary": "Australia is requiring that AI companies can't get special permission to use coal or fossil fuels just to power their computer systems.",
+      "why_it_matters": "This mostly affects big tech companies and energy policy — nothing you need to act on."
+    },
+    {
+      "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTc4ZllBd3lIX2pNeDV1eXNUa0pxbVZUektmdmhtVTVhdjQ3NHBQMi1FZ0p1UnVxOTBxdzV5WEYya2ZtNFc2TUpYMTRyWURXS2NMbVA3eV9oM1dINWx6dkEwbFFlWFNTOXdhV3VNaUlqYXpranNDcHZJdUlfR1FpSlFMS0ZDZUVVLWFRR2poQUluUnM3enQtNUFIanpDd1hUdUdCYVB4XzRHMjdvbEhaRDVxeE44RTMzM3FkQ0UwNkRuOFJVUzF4cExrNE9rUQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-28T03:52:00.000Z",
+      "simple_summary": "Vietnam is asking computer chip makers to invest more money and build more factories there.",
+      "why_it_matters": "This is about government and business deals overseas — nothing you need to act on."
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge",
+      "date": "2026-08-28T03:14:06.000Z",
+      "simple_summary": "A court said the Trump administration illegally tried to ban the AI company Anthropic from government work.",
+      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on."
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-08-27T23:16:45.000Z",
+      "simple_summary": "Two major AI companies will speak at a tech conference in 2026.",
+      "why_it_matters": "This is industry news for people who follow tech conferences — nothing you need to act on."
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch",
+      "date": "2026-08-27T19:52:52.000Z",
+      "simple_summary": "A person who worked at multiple AI companies is now working at Google.",
+      "why_it_matters": "This is mostly relevant to people tracking AI industry jobs — nothing you need to act on."
+    },
+    {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "source": "The Verge",
+      "date": "2026-08-27T19:30:00.000Z",
+      "simple_summary": "Google's note-taking AI can now read books you own and answer questions about them, make plans, and create infographics based on what you ask.",
+      "why_it_matters": "If you use Google's note-taking app and own digital books, this could save you time researching or organizing information."
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch",
+      "date": "2026-08-27T17:43:24.000Z",
+      "simple_summary": "Over 100 big tech companies are working together on ways to protect against hackers using AI to attack computer systems.",
+      "why_it_matters": "This is companies trying to solve a problem behind the scenes — you don't need to do anything, but it's good they're working on security."
+    },
     {
       "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
       "source": "The Verge",
       "date": "2026-08-27T16:15:52.000Z",
-      "simple_summary": "Nvidia's CEO said his company achieved AGI (Artificial General Intelligence, which means AI that can think like humans at everything), but then said it doesn't really matter because nobody agrees what AGI actually means.",
-      "why_it_matters": "This mostly matters to investors and tech companies tracking each other — nothing you need to do or worry about."
+      "simple_summary": "Nvidia's CEO announced they achieved a milestone called AGI but then said it doesn't really mean anything.",
+      "why_it_matters": "This mostly matters to investors and tech watchers — it's mostly hype that even the CEO admits isn't important."
     },
     {
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
       "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
       "source": "TechCrunch",
       "date": "2026-08-27T16:00:00.000Z",
-      "simple_summary": "Google's AI assistant can now look up flight prices and help book hotels instead of just showing you information.",
-      "why_it_matters": "If you use Google's AI tool to plan trips, it might save you a few steps by booking things for you directly."
+      "simple_summary": "Google's AI tool can now track airplane ticket prices, help you book hotels, and handle other travel planning tasks for you.",
+      "why_it_matters": "If you use Google, this could save you time planning trips by doing some of the work automatically."
     },
     {
       "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
       "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
       "source": "TechCrunch",
       "date": "2026-08-27T14:56:52.000Z",
-      "simple_summary": "A company called Hugging Face is selling a small $399 toy robot shaped like a duck that you can program and teach tricks to.",
-      "why_it_matters": "This is a toy for hobbyists and tech enthusiasts — not something a typical small-business owner needs."
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T14:27:04.000Z",
-      "simple_summary": "Because AI is using up computer memory worldwide, cheaper phones won't have as much space for apps to use.",
-      "why_it_matters": "If you own an older or budget phone, apps might run slower or use more of your phone's storage in the future."
-    },
-    {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T14:01:42.000Z",
-      "simple_summary": "The headline says AI programs from a few companies escaped their controls and attacked other companies, but this appears to be describing controlled research tests, not real harmful incidents.",
-      "why_it_matters": "This mostly matters to the tech companies themselves as they work to make AI safer — not something affecting your daily life."
-    },
-    {
-      "title": "OpenAI’s executive exodus has one big winner",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "source": "The Verge",
-      "date": "2026-08-27T14:00:00.000Z",
-      "simple_summary": "OpenAI, the company behind ChatGPT, has had several leaders leave, and power is shifting to one executive called Greg Brockman.",
-      "why_it_matters": "This is internal company news about who's in charge — it doesn't change how ChatGPT works for you."
-    },
-    {
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "source": "The Verge",
-      "date": "2026-08-27T13:44:00.000Z",
-      "simple_summary": "A company is selling a small robot duck the size of your hand that can do tricks, priced at $399 and shipping in late 2026.",
-      "why_it_matters": "This is a novelty toy for people who love robotics as a hobby — nothing a small-business owner needs to invest in."
-    },
-    {
-      "title": "Plaud is launching AI earbuds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "source": "The Verge",
-      "date": "2026-08-27T13:11:23.000Z",
-      "simple_summary": "A company called Plaud is selling earbuds for $249 that can record conversations, turn speech into written words, and summarize what was said.",
-      "why_it_matters": "If you do a lot of meetings or interviews, this could be handy to have a record, but it's an extra gadget you'd have to buy and learn."
-    },
-    {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T13:00:00.000Z",
-      "simple_summary": "Plaud is making earbuds that connect to AI assistants to have conversations, priced at $249.",
-      "why_it_matters": "This is a specialty gadget for people who want to talk to AI on the go — most people use their phone for this already."
-    },
-    {
-      "title": "Adobe is adding more AI to Photoshop",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "source": "The Verge",
-      "date": "2026-08-27T13:00:00.000Z",
-      "simple_summary": "Adobe is adding more AI features to Photoshop and making them easier to find in a new design.",
-      "why_it_matters": "If you use Photoshop to edit photos, you'll have more AI tools available, but it will also be more complex to learn."
-    },
-    {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T11:35:59.000Z",
-      "simple_summary": "OpenAI will start showing advertisements in the free version of ChatGPT for users in India.",
-      "why_it_matters": "If you use free ChatGPT in India, you'll see ads; if you pay for a subscription or live elsewhere, this doesn't affect you yet."
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T06:32:51.000Z",
-      "simple_summary": "Nvidia (a big computer chip company) is buying Hugging Face (a popular AI software hub) for about $13 billion.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on, though it means Nvidia is betting big on AI."
+      "simple_summary": "A software company is selling a small robot duck that you can teach to do new things using AI.",
+      "why_it_matters": "This is a novelty product mainly for hobbyists and tech enthusiasts — nothing you need for your business or life."
     }
   ]
 }
