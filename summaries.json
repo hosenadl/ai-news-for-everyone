@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-28T11:27:40.100Z",
+  "generated_at": "2026-08-28T22:23:40.732Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "gatesnotes.com",
-      "date": "2026-08-28T05:30:03.000Z",
-      "simple_summary": "A tech leader is warning that the decisions we make about AI right now will have big effects on our future.",
-      "why_it_matters": "This is a general warning rather than news about a specific change — it's a reminder to pay attention to how AI companies behave, but nothing you need to act on today."
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "source": "The Verge",
+      "date": "2026-08-28T16:28:40.000Z",
+      "simple_summary": "The EPA is planning to make it easier for companies to build large data centers without having to publicly announce the pollution they'll create. This removes a rule that used to let neighbors find out about and comment on the pollution.",
+      "why_it_matters": "If a data center gets built near your home or business, you might not find out about the air pollution it causes until it's too late to have a say in whether it happens."
     },
     {
-      "title": "AI firm Anthropic wins case challenging Pentagon blacklisting",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjFwTklMVzhyeW5nOUdzUUVpN01kQ2hzcmpFT2FrOUNWRXNueDF1SzN5aG95QmtSOWsyaVdTMjJzdkZ6eU15STYybUtZdWtJdWhlQmFxNjFDWWo3b3FnMHVPak1RdENMZHM1ZUk5Y2ZXdUx3NUd4RExQQ0hocGxXWVBxbTVhdDRPR0JrUU1NWl9qQi1JRW5tTnRJOHV2c0RITUgxVU9aOFJCYlVXdGk5T3ZfalJyd01DWldMYjdR?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-08-28T05:30:00.000Z",
-      "simple_summary": "A court ruled that the government wrongly tried to block an AI company called Anthropic from working with the Pentagon.",
-      "why_it_matters": "This mostly matters to investors and government contracts — nothing you need to act on."
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "source": "TechCrunch",
+      "date": "2026-08-28T12:46:12.000Z",
+      "simple_summary": "A judge ruled that the Trump administration was wrong to label Anthropic (an AI company) as a supply-chain risk. Anthropic won this court case.",
+      "why_it_matters": "This mostly matters to investors and Anthropic employees — nothing you need to act on, though it shows AI companies are fighting government restrictions."
     },
     {
-      "title": "No special carve-out for states using fossil fuel to power datacentres, Chris Bowen insists, despite new conditions",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUEZPY3Z2WWFqQi0tbWluLXhxYkE0bUdEU2JVMUlHVmxsdkR5NEZOeTJCSFRIQi1BdV9Kcnc5Zjk0RzNBTFFHX2V3Q3lyOEpFcnpUQVp2Y3VnaFFIOUQxLVNadG1vS1dVdUROUzUxX3BfZGt0elQ4X2NtWl9aT2hTU21qbGZLU3VLdE1xSjVHa2dqZkNjal9hNXBtSkxDVVF2aWpKYWkxbC02MDFwajlRLVJ0M1kyS2d1bzVzWGR5bmJmZXltaEFLd1ROekZjc1ZHdHY5aEhxMEFZbjI5ck9uaTNkYjM5a0NKa0xXMzc0cWU1UlY1b05N?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-28T04:17:00.000Z",
-      "simple_summary": "Australia is requiring that AI companies can't get special permission to use coal or fossil fuels just to power their computer systems.",
-      "why_it_matters": "This mostly affects big tech companies and energy policy — nothing you need to act on."
-    },
-    {
-      "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTc4ZllBd3lIX2pNeDV1eXNUa0pxbVZUektmdmhtVTVhdjQ3NHBQMi1FZ0p1UnVxOTBxdzV5WEYya2ZtNFc2TUpYMTRyWURXS2NMbVA3eV9oM1dINWx6dkEwbFFlWFNTOXdhV3VNaUlqYXpranNDcHZJdUlfR1FpSlFMS0ZDZUVVLWFRR2poQUluUnM3enQtNUFIanpDd1hUdUdCYVB4XzRHMjdvbEhaRDVxeE44RTMzM3FkQ0UwNkRuOFJVUzF4cExrNE9rUQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-28T03:52:00.000Z",
-      "simple_summary": "Vietnam is asking computer chip makers to invest more money and build more factories there.",
-      "why_it_matters": "This is about government and business deals overseas — nothing you need to act on."
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "source": "TechCrunch",
+      "date": "2026-08-28T12:21:06.000Z",
+      "simple_summary": "A high-ranking worker at Meta (which owns Facebook) is leaving to work at OpenAI, another AI company. She will manage OpenAI's work in Southeast Asia and Australia.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
     },
     {
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
       "source": "The Verge",
       "date": "2026-08-28T03:14:06.000Z",
-      "simple_summary": "A court said the Trump administration illegally tried to ban the AI company Anthropic from government work.",
-      "why_it_matters": "This mostly matters to investors and large companies — nothing you need to act on."
+      "simple_summary": "A judge ruled the Pentagon's decision to blacklist Anthropic was unconstitutional and unfair. This is a legal victory for the AI company against the Trump administration.",
+      "why_it_matters": "This mostly matters to investors and AI companies — nothing you need to act on."
     },
     {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-08-27T23:16:45.000Z",
-      "simple_summary": "Two major AI companies will speak at a tech conference in 2026.",
-      "why_it_matters": "This is industry news for people who follow tech conferences — nothing you need to act on."
+      "simple_summary": "AI companies Anthropic and OpenAI will speak at a tech conference called TechCrunch Disrupt in 2026.",
+      "why_it_matters": "This is just news about a conference — nothing you need to act on."
     },
     {
       "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
       "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "source": "TechCrunch",
       "date": "2026-08-27T19:52:52.000Z",
-      "simple_summary": "A person who worked at multiple AI companies is now working at Google.",
-      "why_it_matters": "This is mostly relevant to people tracking AI industry jobs — nothing you need to act on."
+      "simple_summary": "A person who started a small AI company and worked at OpenAI is now working at Google.",
+      "why_it_matters": "This is mostly about job movement in the tech industry — nothing you need to act on."
     },
     {
       "title": "Google’s AI note-taking app now allows you to interact with books",
       "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
       "source": "The Verge",
       "date": "2026-08-27T19:30:00.000Z",
-      "simple_summary": "Google's note-taking AI can now read books you own and answer questions about them, make plans, and create infographics based on what you ask.",
-      "why_it_matters": "If you use Google's note-taking app and own digital books, this could save you time researching or organizing information."
+      "simple_summary": "Google's note-taking app called Gemini Notebook can now read books you own and answer questions about them. You can ask it to make summaries, charts, or even podcasts from the books.",
+      "why_it_matters": "If you use Google's note-taking app and buy digital books, this could be helpful for learning or studying — though it's a new feature you'd have to try to see if it works well for you."
     },
     {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "source": "TechCrunch",
       "date": "2026-08-27T17:43:24.000Z",
-      "simple_summary": "Over 100 big tech companies are working together on ways to protect against hackers using AI to attack computer systems.",
-      "why_it_matters": "This is companies trying to solve a problem behind the scenes — you don't need to do anything, but it's good they're working on security."
+      "simple_summary": "Over 100 big tech companies and AI startups signed a statement saying we need to protect against future cyber attacks from AI systems. They also announced a new security solution.",
+      "why_it_matters": "The security concerns are real, but for most small-business owners, this is early talk — wait to see if this solution actually becomes something practical and affordable you need to use."
     },
     {
       "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
       "source": "The Verge",
       "date": "2026-08-27T16:15:52.000Z",
-      "simple_summary": "Nvidia's CEO announced they achieved a milestone called AGI but then said it doesn't really mean anything.",
-      "why_it_matters": "This mostly matters to investors and tech watchers — it's mostly hype that even the CEO admits isn't important."
+      "simple_summary": "Nvidia's CEO said his company achieved AGI (which stands for artificial general intelligence — the idea of making an AI as smart as a human at anything). Then he immediately said that goal is pointless and doesn't really mean anything.",
+      "why_it_matters": "This is mostly hype and corporate bragging that doesn't mean much — nothing you need to worry about."
     },
     {
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
       "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
       "source": "TechCrunch",
       "date": "2026-08-27T16:00:00.000Z",
-      "simple_summary": "Google's AI tool can now track airplane ticket prices, help you book hotels, and handle other travel planning tasks for you.",
-      "why_it_matters": "If you use Google, this could save you time planning trips by doing some of the work automatically."
+      "simple_summary": "Google's AI Mode (a tool for searching and getting information) can now check flight prices and help you book hotels. It's becoming like having an AI travel agent.",
+      "why_it_matters": "If you plan trips online, this could save you time — you could ask AI to find and book travel for you instead of doing it yourself."
     },
     {
       "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
       "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
       "source": "TechCrunch",
       "date": "2026-08-27T14:56:52.000Z",
-      "simple_summary": "A software company is selling a small robot duck that you can teach to do new things using AI.",
-      "why_it_matters": "This is a novelty product mainly for hobbyists and tech enthusiasts — nothing you need for your business or life."
+      "simple_summary": "A company called Hugging Face is selling a small robot duck for $399 that you can teach to do tricks by showing it examples.",
+      "why_it_matters": "This is a novelty toy and hobby item — not something a business owner or older person needs."
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch",
+      "date": "2026-08-27T14:27:04.000Z",
+      "simple_summary": "As AI companies use more computer memory for their data centers, there's a shortage of memory chips. Google is now limiting how much memory Android apps can use so cheaper phones don't run out.",
+      "why_it_matters": "If you own a budget-friendly Android phone, this means apps might run a bit slower or have fewer features to preserve the phone's memory."
     }
   ]
 }
