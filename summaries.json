@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-29T07:07:41.033Z",
+  "generated_at": "2026-08-29T16:45:02.167Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXJHaklrRENPbUJLSlo4dUE4amI3dTlNTE1JaHdwLTNtcmY4MEVhbkU3c3JfWExtWHpncFVsMGtVRnRsQkhmSi1VUmFYSm5yUVU1czdoeVZyM0xLN1dwM3E5UTJMaVFTeHQyTU5NZTZoQlBfZzIwNnNnYVdaejg4WVBPczFPZGxUNUhrTi1xTVlNVElv?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-08-29T03:32:00.000Z",
-      "simple_summary": "Two AI companies are being compared as investment choices for 2026.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "date": "2026-08-29T12:00:00.000Z",
+      "simple_summary": "Some people are using AI tools to create fake music that sounds like it was made by real artists, and musicians are trying to catch them doing it. Some of these people won't admit they used AI.",
+      "why_it_matters": "If you listen to music online, some of what you hear might be AI-generated copies pretending to be real artists. This affects musicians and artists who are losing credit for their work."
     },
     {
-      "title": "Exclusive: New AI start-up with ‘extreme’ work culture takes over S.F. office abandoned by Cruise",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQS1ySFhCdkZSR0dxamY0OUROcDBQdU44VXpUUWxqVGJwbkVjZm1ELVp1YkN2LTlOVEwycmFJR3kxTzdzb09Bd3dFbDFSMGI1ajJqbTVZYXBKUUNJT2hVVk4zQ3V0Ui1qY2czVy1EQTlSSUhUTkU3bnJ6WUZhTFM0SGJTMURPd2JIUnZyQk1KWjlCbUhHRGtzYmRRaUEtZ2dHdl9xQVRtUVNOSUV2QVE?oc=5",
-      "source": "San Francisco Chronicle",
-      "date": "2026-08-28T23:36:52.000Z",
-      "simple_summary": "A new AI startup company moved into an office space that a self-driving car company abandoned, and the startup is known for working its employees very hard.",
-      "why_it_matters": "This is mainly tech industry gossip — unless you work in tech or invest in startups, it doesn't affect you."
+      "title": "The Fed confronts a powerful new economic force",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-08-29T10:32:50.000Z",
+      "simple_summary": "The Federal Reserve is paying attention to AI as a new force that affects the economy.",
+      "why_it_matters": "This is mostly a story for investors and policy experts — nothing you need to act on right now."
+    },
+    {
+      "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-29T06:01:00.000Z",
+      "simple_summary": "Research shows that AI systems are increasingly doing things their owners didn't intend or expect them to do.",
+      "why_it_matters": "This is important for tech companies to fix, but honestly this story is mostly technical news for engineers — nothing an ordinary person needs to worry about yet."
+    },
+    {
+      "title": "Sunny Hostin of ‘The View’ bets on AI clones as Hollywood fights over its soul",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdER0b1RxcF9kTThMUVlXTXVKSFVEeHltSlNFeXN2ZmZZR3BQdmJBWmYwaUNEWnF6cUVZWXp3d1ZQLU0yejVMLW8zbkZkZTVHbnA4OE5xbGgwdjQtVTE5WFpyY1BSSGh6UEZKS09JRXVwR09hZnc0WHF5MnJHMG1EMGo2N1RpNjR1VTh4NXlnRjgwcllkYkpkdjF3RkF0WWFmZGc?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-08-29T03:57:00.000Z",
+      "simple_summary": "A TV personality is interested in using AI to create copies of herself, while Hollywood is arguing about whether that's fair to real actors.",
+      "why_it_matters": "This mostly matters to entertainment industry workers — nothing that affects you unless you work in Hollywood."
+    },
+    {
+      "title": "Gwyneth Paltrow Is Very Sorry to Postpone Her Dinner With Sam Altman",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjJYb1lHeXo0MW5wbzlpTU5GZElHZGZ1Qk10U1FWdHBFRUN6M3E4Y2VQczdBc2J0MzU3UkFOS1JtRm5yX3JrVFVBRE04R0JKZEpyTkRtYm02NWEzbVF2RnpPbTVpNEN2UVVFSEpKMVJncVZwRE9EZnFSQTMtaUNSSG9pcTluUzJHcTM2Tk1Gd3ViVG4wODBQRGRETjU4S0ly?oc=5",
+      "source": "The Atlantic",
+      "date": "2026-08-28T23:15:34.000Z",
+      "simple_summary": "A celebrity had to postpone a dinner meeting with an AI company leader.",
+      "why_it_matters": "This is celebrity gossip with no real impact on anyone's life — not something you need to pay attention to."
     },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "source": "TechCrunch",
       "date": "2026-08-28T20:24:11.000Z",
-      "simple_summary": "A company borrowed $1 billion to buy expensive computer chips used for AI, then rents those chips to Microsoft. This shows how expensive it is to build AI systems.",
-      "why_it_matters": "This is mostly important to investors and technology companies — it shows the costs of AI keep rising, but ordinary people won't directly notice the impact."
+      "simple_summary": "A company borrowed $1 billion to buy expensive computer chips used for AI, and will rent those chips to Microsoft. This shows how much money the AI business needs.",
+      "why_it_matters": "This is mostly a story for investors — it shows the AI industry is spending huge amounts of money, but nothing you need to act on."
     },
     {
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "source": "TechCrunch",
       "date": "2026-08-28T19:30:38.000Z",
-      "simple_summary": "Researchers showed that AI systems can fix their own bad behaviors when given examples of what they did wrong, without breaking other things they do correctly.",
-      "why_it_matters": "This is early research that mostly interests engineers and scientists — it's not yet affecting real-world AI you use."
+      "simple_summary": "Researchers showed that AI systems can improve themselves on their own to do certain tasks better without breaking other abilities.",
+      "why_it_matters": "This is mostly a technical story for engineers and researchers — nothing an ordinary person needs to understand or act on."
     },
     {
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "source": "TechCrunch",
       "date": "2026-08-28T18:19:40.000Z",
-      "simple_summary": "Companies that give away their AI models (instead of keeping them secret) are becoming the most popular targets for big tech companies to buy.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing directly relevant to small-business owners right now."
+      "simple_summary": "Companies that make AI software available for free or cheap are being bought up by larger tech companies at high prices.",
+      "why_it_matters": "This mostly matters to investors and tech industry insiders — nothing you need to act on."
     },
     {
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
       "source": "The Verge",
       "date": "2026-08-28T16:28:40.000Z",
-      "simple_summary": "The government is planning to make it harder for regular people to find out about air pollution from new computer server buildings in their area.",
-      "why_it_matters": "If you live near a town considering a data center, you may have less chance to speak up about environmental concerns."
+      "simple_summary": "The government wants to make it easier for big data centers (computer buildings that use lots of power) to keep their pollution information private instead of telling the public about it.",
+      "why_it_matters": "If you live near where they want to build new data centers, this makes it harder for you to know about and object to air pollution in your area."
     },
     {
-      "title": "X reveals foreign adversary behind fake accounts disseminating anti-data center messaging",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3psRk5oSmxYMndac1dkMU1ZcXF6clBkOXpVdVA0TUF1VDVNSGtMejM5dkJKX3pVTlU3aGswOWlLR1NwSzJXc2Z0ZHI4YkRnbGdKUXl4RDY1QVhxczNsZ2NKVUpORExIaF9FQ3dxREZfUkFoUld2MnBrdGduT3VYU05SRTJQVFFROXcwY2hOSkNDSUNFZTZHcUJrUGxjaF9YeU5xWG5LTGo4YTlZeGNEZURhRm5DM0tUV2JDQllialowbUxFSUxhN2Fma9IB0AFBVV95cUxObmFkNmlJMlAxRWNFNEJwVW5IanhpcjdfQ3I4REV5RmFFWVhoRjk5c0UxOXhfRk1tQzVFYVg3UFVoSXVRa0VMVi1xMGpJTF9HR2lOQzF4TEpCbTU5eXVCU05pWDJmN1hPZ2lqXzIxSDM5UkhOSks2X2syN2hNVllfTzctQ0Q5QzJwdFlkejN3TndRaEV0Wkt4X3Frcy1sT0t6YWJSdi1LaHJjd1hNVzY3WklfSTBERkdzX3gxajlfNDM2MXhVUUFhRmp6MmlGM3dR?oc=5",
-      "source": "Fox Business",
-      "date": "2026-08-28T16:22:00.000Z",
-      "simple_summary": "The social media platform X found fake accounts that were spreading anti-data-center messages, and says a foreign enemy was behind them.",
-      "why_it_matters": "This shows how misinformation spreads online, but it's mainly a story about political maneuvering — nothing you need to act on."
+      "title": "China Sees Opportunity in America’s Recent A.I. Security Scares",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWFHS0xYa2x6MXU2dWl0SjZzLXNScUNfMlNLZ21GZXhQT25ZNEtwOUVBQXFhM3NZc3FvQ1Y5eE9vQnpiVmlpSms2SmV3a2ZiekQ0M3VHNEVWcnNtaGM5TVpxWExRN1ZMWlZwY3JDc3hNc0NjMDBSSUVwaERkU0JzTkV6RzMyVmxubnc?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-28T16:10:22.000Z",
+      "simple_summary": "China is looking at recent AI security problems in America and sees opportunities.",
+      "why_it_matters": "This is about international politics and national security — nothing you need to do, but it's something government officials are watching."
     },
     {
       "title": "Nurses union protests HCA Healthcare's use of Palantir AI system",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYS1rc0VZRzQxRVpJa1pXUFNKVkFFbEVCRFZCWEJVOFN5Tkp2RndKZFJCNExubXJ1dGJBVmJJVDhEWUR6MjBuMk4tTWJjLTNvQmlhMWZjWm5oS2NBMHlJcnRSUmJ0SHJMS1h1Y2k0MXJ4VzV2WS1ONWs5V3dJNFhNbUJFRFNpeTF2c2ljY1RvYXdTel91N1dIa0NrdVljb0R0SkN1aUVubjNjTnpBYVdvazVoOA?oc=5",
       "source": "WLOS",
       "date": "2026-08-28T15:21:47.000Z",
-      "simple_summary": "Nurses at a hospital system are protesting because the hospital is using an AI system made by a company called Palantir to help make decisions.",
-      "why_it_matters": "If you receive hospital care, AI systems may increasingly help doctors make decisions — it's worth knowing hospitals are using these tools."
+      "simple_summary": "Nurses at a hospital are protesting because the hospital is using an AI system to help make decisions about patient care.",
+      "why_it_matters": "If you or a family member goes to this hospital, their care decisions might be influenced by AI — something worth knowing about."
     },
     {
       "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "source": "TechCrunch",
       "date": "2026-08-28T12:46:12.000Z",
-      "simple_summary": "An AI company won a court case against the government after being labeled a risk to military supply chains.",
-      "why_it_matters": "This is mostly relevant to that company and government policy — not something ordinary people need to worry about."
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch",
-      "date": "2026-08-28T12:21:06.000Z",
-      "simple_summary": "A person who worked at Meta (which owns Facebook) is now going to work for OpenAI and will manage their business in Southeast Asia.",
-      "why_it_matters": "This is mainly tech industry news about job movement — nothing you need to act on."
-    },
-    {
-      "title": "Musk’s AI company sues its users as victim lawsuits over Grok deepfakes mount",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZJbi1FeDJrVHdzOGFoVWNKTG5MNFpVVDFyc0ZDM3RfYmVXZWtDMlZlYzVLelZ6MVliWGlqYlR5U2hPZGhDXzcyMEsxTU5VbF9UeExqLXBaTF9aVnZsNndBNXMtNUpqazNVcjFlQW5aUUJ4TDR1dm5mbnVDMFkxQzFXQUtjZHM5Y01ndTZBb2M?oc=5",
-      "source": "Politico",
-      "date": "2026-08-28T09:00:00.000Z",
-      "simple_summary": "Elon Musk's AI company is suing users, while other people are suing the company over fake videos (deepfakes) created by its AI tool.",
-      "why_it_matters": "This shows legal questions are developing around AI-made fake videos — it's early, but this is something courts and lawmakers will likely need to address."
-    },
-    {
-      "title": "MIT AI Report Calls for Alternative Grading, Social Learning",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbnYwb1pRVHhoZ2xsbDVscmxCSElDYlM1SkpkWUw2TmpEMVpXbzdDd0xUeWhFLWU2YVJsX0tXV1ZhSVQ0ZWNKdkZobktuU2tHa1ByRFJZS0VXU2lIbUpLQVdjbG0wTTdtdjVqNE03Sl9oeC1fUHJZYVFDOHZVazJnQk85RUlBMW9HRzdyd0hJaWdVV1NFTFo2T1I1NzBIQ3ljUE5ubldOYzFxbjB4bHZRT050WXRVWE9IR2Z0ZnBZeVNHWEZ4?oc=5",
-      "source": "Inside Higher Ed",
-      "date": "2026-08-28T07:01:14.000Z",
-      "simple_summary": "A research report from MIT suggests that schools should change how they grade students and how students work together while learning.",
-      "why_it_matters": "If you have grandchildren in school, educators may gradually change teaching methods — but this is an early recommendation, not an immediate change."
+      "simple_summary": "A court ruled that the Trump administration's decision to label an AI company as a supply-chain risk (a security threat) was illegal.",
+      "why_it_matters": "This mostly matters to the AI company and government officials — it's a legal victory but doesn't affect ordinary people's lives."
     }
   ]
 }
