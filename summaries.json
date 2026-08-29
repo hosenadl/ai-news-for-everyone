@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-28T22:23:40.732Z",
+  "generated_at": "2026-08-29T07:07:41.033Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXJHaklrRENPbUJLSlo4dUE4amI3dTlNTE1JaHdwLTNtcmY4MEVhbkU3c3JfWExtWHpncFVsMGtVRnRsQkhmSi1VUmFYSm5yUVU1czdoeVZyM0xLN1dwM3E5UTJMaVFTeHQyTU5NZTZoQlBfZzIwNnNnYVdaejg4WVBPczFPZGxUNUhrTi1xTVlNVElv?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-08-29T03:32:00.000Z",
+      "simple_summary": "Two AI companies are being compared as investment choices for 2026.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Exclusive: New AI start-up with ‘extreme’ work culture takes over S.F. office abandoned by Cruise",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQS1ySFhCdkZSR0dxamY0OUROcDBQdU44VXpUUWxqVGJwbkVjZm1ELVp1YkN2LTlOVEwycmFJR3kxTzdzb09Bd3dFbDFSMGI1ajJqbTVZYXBKUUNJT2hVVk4zQ3V0Ui1qY2czVy1EQTlSSUhUTkU3bnJ6WUZhTFM0SGJTMURPd2JIUnZyQk1KWjlCbUhHRGtzYmRRaUEtZ2dHdl9xQVRtUVNOSUV2QVE?oc=5",
+      "source": "San Francisco Chronicle",
+      "date": "2026-08-28T23:36:52.000Z",
+      "simple_summary": "A new AI startup company moved into an office space that a self-driving car company abandoned, and the startup is known for working its employees very hard.",
+      "why_it_matters": "This is mainly tech industry gossip — unless you work in tech or invest in startups, it doesn't affect you."
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch",
+      "date": "2026-08-28T20:24:11.000Z",
+      "simple_summary": "A company borrowed $1 billion to buy expensive computer chips used for AI, then rents those chips to Microsoft. This shows how expensive it is to build AI systems.",
+      "why_it_matters": "This is mostly important to investors and technology companies — it shows the costs of AI keep rising, but ordinary people won't directly notice the impact."
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch",
+      "date": "2026-08-28T19:30:38.000Z",
+      "simple_summary": "Researchers showed that AI systems can fix their own bad behaviors when given examples of what they did wrong, without breaking other things they do correctly.",
+      "why_it_matters": "This is early research that mostly interests engineers and scientists — it's not yet affecting real-world AI you use."
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source": "TechCrunch",
+      "date": "2026-08-28T18:19:40.000Z",
+      "simple_summary": "Companies that give away their AI models (instead of keeping them secret) are becoming the most popular targets for big tech companies to buy.",
+      "why_it_matters": "This mostly matters to investors and tech companies — nothing directly relevant to small-business owners right now."
+    },
     {
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
       "source": "The Verge",
       "date": "2026-08-28T16:28:40.000Z",
-      "simple_summary": "The EPA is planning to make it easier for companies to build large data centers without having to publicly announce the pollution they'll create. This removes a rule that used to let neighbors find out about and comment on the pollution.",
-      "why_it_matters": "If a data center gets built near your home or business, you might not find out about the air pollution it causes until it's too late to have a say in whether it happens."
+      "simple_summary": "The government is planning to make it harder for regular people to find out about air pollution from new computer server buildings in their area.",
+      "why_it_matters": "If you live near a town considering a data center, you may have less chance to speak up about environmental concerns."
+    },
+    {
+      "title": "X reveals foreign adversary behind fake accounts disseminating anti-data center messaging",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3psRk5oSmxYMndac1dkMU1ZcXF6clBkOXpVdVA0TUF1VDVNSGtMejM5dkJKX3pVTlU3aGswOWlLR1NwSzJXc2Z0ZHI4YkRnbGdKUXl4RDY1QVhxczNsZ2NKVUpORExIaF9FQ3dxREZfUkFoUld2MnBrdGduT3VYU05SRTJQVFFROXcwY2hOSkNDSUNFZTZHcUJrUGxjaF9YeU5xWG5LTGo4YTlZeGNEZURhRm5DM0tUV2JDQllialowbUxFSUxhN2Fma9IB0AFBVV95cUxObmFkNmlJMlAxRWNFNEJwVW5IanhpcjdfQ3I4REV5RmFFWVhoRjk5c0UxOXhfRk1tQzVFYVg3UFVoSXVRa0VMVi1xMGpJTF9HR2lOQzF4TEpCbTU5eXVCU05pWDJmN1hPZ2lqXzIxSDM5UkhOSks2X2syN2hNVllfTzctQ0Q5QzJwdFlkejN3TndRaEV0Wkt4X3Frcy1sT0t6YWJSdi1LaHJjd1hNVzY3WklfSTBERkdzX3gxajlfNDM2MXhVUUFhRmp6MmlGM3dR?oc=5",
+      "source": "Fox Business",
+      "date": "2026-08-28T16:22:00.000Z",
+      "simple_summary": "The social media platform X found fake accounts that were spreading anti-data-center messages, and says a foreign enemy was behind them.",
+      "why_it_matters": "This shows how misinformation spreads online, but it's mainly a story about political maneuvering — nothing you need to act on."
+    },
+    {
+      "title": "Nurses union protests HCA Healthcare's use of Palantir AI system",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYS1rc0VZRzQxRVpJa1pXUFNKVkFFbEVCRFZCWEJVOFN5Tkp2RndKZFJCNExubXJ1dGJBVmJJVDhEWUR6MjBuMk4tTWJjLTNvQmlhMWZjWm5oS2NBMHlJcnRSUmJ0SHJMS1h1Y2k0MXJ4VzV2WS1ONWs5V3dJNFhNbUJFRFNpeTF2c2ljY1RvYXdTel91N1dIa0NrdVljb0R0SkN1aUVubjNjTnpBYVdvazVoOA?oc=5",
+      "source": "WLOS",
+      "date": "2026-08-28T15:21:47.000Z",
+      "simple_summary": "Nurses at a hospital system are protesting because the hospital is using an AI system made by a company called Palantir to help make decisions.",
+      "why_it_matters": "If you receive hospital care, AI systems may increasingly help doctors make decisions — it's worth knowing hospitals are using these tools."
     },
     {
       "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "source": "TechCrunch",
       "date": "2026-08-28T12:46:12.000Z",
-      "simple_summary": "A judge ruled that the Trump administration was wrong to label Anthropic (an AI company) as a supply-chain risk. Anthropic won this court case.",
-      "why_it_matters": "This mostly matters to investors and Anthropic employees — nothing you need to act on, though it shows AI companies are fighting government restrictions."
+      "simple_summary": "An AI company won a court case against the government after being labeled a risk to military supply chains.",
+      "why_it_matters": "This is mostly relevant to that company and government policy — not something ordinary people need to worry about."
     },
     {
       "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "source": "TechCrunch",
       "date": "2026-08-28T12:21:06.000Z",
-      "simple_summary": "A high-ranking worker at Meta (which owns Facebook) is leaving to work at OpenAI, another AI company. She will manage OpenAI's work in Southeast Asia and Australia.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
+      "simple_summary": "A person who worked at Meta (which owns Facebook) is now going to work for OpenAI and will manage their business in Southeast Asia.",
+      "why_it_matters": "This is mainly tech industry news about job movement — nothing you need to act on."
     },
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "date": "2026-08-28T03:14:06.000Z",
-      "simple_summary": "A judge ruled the Pentagon's decision to blacklist Anthropic was unconstitutional and unfair. This is a legal victory for the AI company against the Trump administration.",
-      "why_it_matters": "This mostly matters to investors and AI companies — nothing you need to act on."
+      "title": "Musk’s AI company sues its users as victim lawsuits over Grok deepfakes mount",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZJbi1FeDJrVHdzOGFoVWNKTG5MNFpVVDFyc0ZDM3RfYmVXZWtDMlZlYzVLelZ6MVliWGlqYlR5U2hPZGhDXzcyMEsxTU5VbF9UeExqLXBaTF9aVnZsNndBNXMtNUpqazNVcjFlQW5aUUJ4TDR1dm5mbnVDMFkxQzFXQUtjZHM5Y01ndTZBb2M?oc=5",
+      "source": "Politico",
+      "date": "2026-08-28T09:00:00.000Z",
+      "simple_summary": "Elon Musk's AI company is suing users, while other people are suing the company over fake videos (deepfakes) created by its AI tool.",
+      "why_it_matters": "This shows legal questions are developing around AI-made fake videos — it's early, but this is something courts and lawmakers will likely need to address."
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T23:16:45.000Z",
-      "simple_summary": "AI companies Anthropic and OpenAI will speak at a tech conference called TechCrunch Disrupt in 2026.",
-      "why_it_matters": "This is just news about a conference — nothing you need to act on."
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T19:52:52.000Z",
-      "simple_summary": "A person who started a small AI company and worked at OpenAI is now working at Google.",
-      "why_it_matters": "This is mostly about job movement in the tech industry — nothing you need to act on."
-    },
-    {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge",
-      "date": "2026-08-27T19:30:00.000Z",
-      "simple_summary": "Google's note-taking app called Gemini Notebook can now read books you own and answer questions about them. You can ask it to make summaries, charts, or even podcasts from the books.",
-      "why_it_matters": "If you use Google's note-taking app and buy digital books, this could be helpful for learning or studying — though it's a new feature you'd have to try to see if it works well for you."
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T17:43:24.000Z",
-      "simple_summary": "Over 100 big tech companies and AI startups signed a statement saying we need to protect against future cyber attacks from AI systems. They also announced a new security solution.",
-      "why_it_matters": "The security concerns are real, but for most small-business owners, this is early talk — wait to see if this solution actually becomes something practical and affordable you need to use."
-    },
-    {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "source": "The Verge",
-      "date": "2026-08-27T16:15:52.000Z",
-      "simple_summary": "Nvidia's CEO said his company achieved AGI (which stands for artificial general intelligence — the idea of making an AI as smart as a human at anything). Then he immediately said that goal is pointless and doesn't really mean anything.",
-      "why_it_matters": "This is mostly hype and corporate bragging that doesn't mean much — nothing you need to worry about."
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T16:00:00.000Z",
-      "simple_summary": "Google's AI Mode (a tool for searching and getting information) can now check flight prices and help you book hotels. It's becoming like having an AI travel agent.",
-      "why_it_matters": "If you plan trips online, this could save you time — you could ask AI to find and book travel for you instead of doing it yourself."
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T14:56:52.000Z",
-      "simple_summary": "A company called Hugging Face is selling a small robot duck for $399 that you can teach to do tricks by showing it examples.",
-      "why_it_matters": "This is a novelty toy and hobby item — not something a business owner or older person needs."
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch",
-      "date": "2026-08-27T14:27:04.000Z",
-      "simple_summary": "As AI companies use more computer memory for their data centers, there's a shortage of memory chips. Google is now limiting how much memory Android apps can use so cheaper phones don't run out.",
-      "why_it_matters": "If you own a budget-friendly Android phone, this means apps might run a bit slower or have fewer features to preserve the phone's memory."
+      "title": "MIT AI Report Calls for Alternative Grading, Social Learning",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbnYwb1pRVHhoZ2xsbDVscmxCSElDYlM1SkpkWUw2TmpEMVpXbzdDd0xUeWhFLWU2YVJsX0tXV1ZhSVQ0ZWNKdkZobktuU2tHa1ByRFJZS0VXU2lIbUpLQVdjbG0wTTdtdjVqNE03Sl9oeC1fUHJZYVFDOHZVazJnQk85RUlBMW9HRzdyd0hJaWdVV1NFTFo2T1I1NzBIQ3ljUE5ubldOYzFxbjB4bHZRT050WXRVWE9IR2Z0ZnBZeVNHWEZ4?oc=5",
+      "source": "Inside Higher Ed",
+      "date": "2026-08-28T07:01:14.000Z",
+      "simple_summary": "A research report from MIT suggests that schools should change how they grade students and how students work together while learning.",
+      "why_it_matters": "If you have grandchildren in school, educators may gradually change teaching methods — but this is an early recommendation, not an immediate change."
     }
   ]
 }
