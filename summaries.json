@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-29T20:57:22.851Z",
+  "generated_at": "2026-08-30T05:27:57.833Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
+      "title": "The Intricacies Of Artificial General Intelligence And Curing Disease",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPel9nM1ZrTGhmbjZ6RFFTUG5jd3ZfZEdRVEZ3RDBOYUphLTU0bThMb2Y3YUg4WmQ2M3N0Y1JzSWpUazJETlZEZlhTTzRwVmNEbTZyWWdPbEdURTljSnZZV1lJakRlOE9tNDQzMmpnR2R0cHB5NFB4emh5cVBmd191QW5KRlp4RDk1dWttV21RdzUzTUViOUktR29xOV95azF2c0JuV2VoVms4X0RGN2U1U1hjMklnSkVLQ0E?oc=5",
+      "source": "Forbes",
+      "date": "2026-08-29T21:47:19.000Z",
+      "simple_summary": "A discussion about artificial intelligence becoming general-purpose (able to do many different tasks) and using it to help cure diseases.",
+      "why_it_matters": "This is mainly a theory discussion — nothing you need to do right now."
+    },
+    {
+      "title": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd0ItTmV5ZmMzXzctQ3Uxd25rR0g3empBU3pqaVdpWkVRdEd5VjZWczgzNXA4endFQk5QcHNUMS1hTnZXVGQ3RTA5cHVtWEViYTFYM2laMmNQdkdvaExqUk40em1ZSDNtRW9VMWN5OC01TnZPakFXb2l2d3pnMTZxeVQ5c19vSzFwcHJkOEQ4X2oxNFFPSmQ0M25UWElzY3RVamlHcUxrcDJYZHlnM3JOVVpObGdWdzlmeWc2V2VZMGFKaWhDRmtWNXVyQXBqMk1sOW9MdWdfZ9IB3AFBVV95cUxNZUltYTZtbnI5S2EyUE1Xdm43UjY4MllsNlFxVGluYVVycEs1R05ObEI4R243SWZRdUZKSVpfTVNWQmNrOXhnTk90NjVLZ3NFd21CaEN1a3I1RTdfeWs1T1NpZmNqdC0tX3JfeEhBX0xYSGhpb3pNR2pjd09rVmVidERpZmlBbTYtQmdZTXR4cHNsRkFVWVJyTXVSanpoRE5XMTNQMm5URUQ5UGM5d3J6SkdTLXNtaThVcThqVmI1bHRMOWhFblk5NW1XUGVhTXA3cnc0S1JUUDB3bFQy?oc=5",
+      "source": "ABC7 Bay Area",
+      "date": "2026-08-29T21:06:23.000Z",
+      "simple_summary": "A barber in San Jose is now teaching robots how to cut hair using artificial intelligence. The company Instawork Robotics is working on this.",
+      "why_it_matters": "This is interesting as a sign that robots might help with some services, but this technology is still very early and not ready for regular use yet."
+    },
+    {
       "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-08-29T20:38:18.000Z",
-      "simple_summary": "A very wealthy investor sold his shares in one computer chip company and bought shares in other companies that make artificial intelligence products instead.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on. Rich people's stock trades don't directly affect your business or daily life."
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjQ2bXVrWXVoaDFsNFdhYkZUcVN5TjFnb2FzZ0VoR0d1U0pUSXZRaUtfNDJJcjdkUmdUbWszRXdidnp1UHBWMnQxQkFTNUxIdlZvNWR2d2FSRWlfaURScXkzRTRSWVI1Z0J3eS12NHBCeXhpSXJqRW0xYVVXZjFJY05yR3RUSkVzbzBZQnZfNGxSLURkVGhITC1Pcmp4ZUE?oc=5",
+      "source": "Currently.com",
+      "date": "2026-08-29T20:20:00.000Z",
+      "simple_summary": "A rich investor sold his shares in one company and bought shares in other companies that work with artificial intelligence instead.",
+      "why_it_matters": "This mostly matters to investors watching stock prices — it doesn't affect your daily life or business."
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch",
+      "date": "2026-08-29T18:41:59.000Z",
+      "simple_summary": "Two big music companies (Sony Music and Warner) are suing a company called Anthropic, saying Anthropic used their music without permission to train artificial intelligence.",
+      "why_it_matters": "This is a legal battle about whether AI companies have the right to use creative work like songs — it could matter if you create music or art, but the case is still in court."
     },
     {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge",
       "date": "2026-08-29T18:19:53.000Z",
-      "simple_summary": "Music companies are suing an AI company because that AI was trained on thousands of their songs without permission, and they want money as punishment.",
-      "why_it_matters": "If you're a musician or creator, this matters because it shows companies are fighting back against AI companies using their work without asking. If you own other types of businesses, this doesn't directly affect you yet."
+      "simple_summary": "Sony Music and Warner Chappell are suing Anthropic for using tens of thousands of copyrighted songs without permission, and asking for huge payments as punishment.",
+      "why_it_matters": "If the music companies win, it could mean AI companies have to pay for the creative work they use — but this is still being decided in court."
     },
     {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch",
       "date": "2026-08-29T17:36:47.000Z",
-      "simple_summary": "A venture capitalist (someone who funds new companies) left a big firm to start his own smaller fund that focuses on using AI to help medicine and biology work more like engineering instead of just discovery.",
-      "why_it_matters": "This mostly matters to investors and biotech companies — nothing you need to do right now, though it suggests AI might eventually help develop better medicines."
-    },
-    {
-      "title": "AI and the Brand You Didn't Build",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWM3aWJ0cEItV1hCYWlOaWYyZDZrelR4WXFYaGNMNk5fS1JGcmFFU2xjQ0tZcEtCNDg0NzZ6RGhFN2RfQ3ZPR1l4bU9zQTRvWllFMjY4SzJENndGVmF0NGgxWmE2R2ljbTBsaERfSHhQYTd4SXlJaW1lNUcwNnI4VF9JMV9GeDdaRDdiRjZNdW1na2N4ZG4wanp5TE0?oc=5",
-      "source": "Psychology Today",
-      "date": "2026-08-29T17:11:21.000Z",
-      "simple_summary": "The headline alone doesn't explain what this article is about — it's too vague to summarize confidently.",
-      "why_it_matters": "Without reading the full article, it's hard to say if this affects you."
-    },
-    {
-      "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVlFVXJ5NnhHbU14WEFTeFBhY0hYUmNQTkp6bmtReDdnLWxWV3NjVGhBeVp3RS05TXRqZ1JPNGlKY1VzMHI3MFdueTl4TEtNbWliT1pfM2ZLRFBMX2t4VGUxTnRrbkg0WjlPRFZRYUlUUnc0U3hGVjc2ZXpISlNWY3BXdFNMVHg5WmtR?oc=5",
-      "source": "CBC",
-      "date": "2026-08-29T16:30:53.000Z",
-      "simple_summary": "An old soup factory building is being turned into a place where a quantum computing company (a very advanced type of computer company) works, and the government gave them $195 million in funding.",
-      "why_it_matters": "This mostly matters to investors and people in that region looking for jobs — it's about government funding for cutting-edge research, not something you need to act on."
+      "simple_summary": "A venture capitalist (someone who invests in new companies) left a big investment firm to start a smaller one focused on using AI to solve biology and medicine problems.",
+      "why_it_matters": "This mostly matters to investors and scientists — it shows AI is being used more for medicine, which could eventually help patients, but there's no immediate impact on your business."
     },
     {
       "title": "The Fed confronts a powerful new economic force",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-29T16:00:00.000Z",
-      "simple_summary": "The Federal Reserve (the government organization that controls money and interest rates) is studying how AI might change the economy in important ways.",
-      "why_it_matters": "This might eventually affect interest rates or the economy, but right now it's just the government paying attention to AI — nothing immediate for your business."
+      "simple_summary": "The Federal Reserve (which controls US banking and interest rates) is studying how artificial intelligence affects the economy.",
+      "why_it_matters": "This could eventually affect interest rates and the economy, but it's too early to know what will happen."
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch",
       "date": "2026-08-29T13:00:00.000Z",
-      "simple_summary": "Nvidia, a big chip company, is finding ways to make their data center equipment work better by using smarter traffic control instead of just adding more processing power.",
-      "why_it_matters": "This mostly matters to tech companies and investors — nothing you need to worry about in your business."
+      "simple_summary": "Nvidia, a big computer chip company, is improving its data center systems with smarter traffic control instead of just making faster chips.",
+      "why_it_matters": "This mostly matters to tech companies and investors — it's about efficiency behind the scenes, not something you'll notice."
     },
     {
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
       "source": "The Verge",
       "date": "2026-08-29T12:00:00.000Z",
-      "simple_summary": "Some people are making fake AI-generated music that copies real artists' styles and posting it online, and some musicians are trying to catch them by listening for clues that it's not real.",
-      "why_it_matters": "If you listen to music online or are an artist, you should know that fake AI-generated music is becoming harder to spot, so be careful about what you assume is real."
+      "simple_summary": "Some musicians are investigating fake AI-generated music that appears to be created by real artists, trying to catch people who are pretending AI music is human-made.",
+      "why_it_matters": "If you create or sell music, you may need to be aware of AI copies — but for most people, this is a problem that industries are starting to address."
     },
     {
       "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
       "source": "The Guardian",
       "date": "2026-08-29T06:01:00.000Z",
-      "simple_summary": "Research shows that AI systems are increasingly doing things their users didn't intend or can't control more often than before.",
-      "why_it_matters": "This is a warning that AI tools can sometimes behave unpredictably — so be careful if you use AI tools in your business and don't rely on them for critical tasks without checking their work."
+      "simple_summary": "Research shows that AI systems are increasingly doing things their creators didn't intend or expect.",
+      "why_it_matters": "This shows a real challenge with AI safety that engineers need to solve, but it doesn't change how you should use AI tools today."
     },
     {
       "title": "Exclusive: New AI start-up with ‘extreme’ work culture takes over S.F. office abandoned by Cruise",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQS1ySFhCdkZSR0dxamY0OUROcDBQdU44VXpUUWxqVGJwbkVjZm1ELVp1YkN2LTlOVEwycmFJR3kxTzdzb09Bd3dFbDFSMGI1ajJqbTVZYXBKUUNJT2hVVk4zQ3V0Ui1qY2czVy1EQTlSSUhUTkU3bnJ6WUZhTFM0SGJTMURPd2JIUnZyQk1KWjlCbUhHRGtzYmRRaUEtZ2dHdl9xQVRtUVNOSUV2QVE?oc=5",
       "source": "San Francisco Chronicle",
       "date": "2026-08-28T23:36:52.000Z",
-      "simple_summary": "A new AI start-up company moved into an office space in San Francisco that was left empty by another company, and the article suggests this new company has a very demanding workplace culture.",
-      "why_it_matters": "This mostly matters to tech industry workers and investors — nothing you need to know about unless you live in San Francisco or work in tech."
+      "simple_summary": "A new AI startup with a demanding work culture has moved into an office space in San Francisco that another company abandoned.",
+      "why_it_matters": "This is company news about the tech industry in San Francisco — it doesn't affect your business."
     },
     {
       "title": "Gwyneth Paltrow Is Very Sorry to Postpone Her Dinner With Sam Altman",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjJYb1lHeXo0MW5wbzlpTU5GZElHZGZ1Qk10U1FWdHBFRUN6M3E4Y2VQczdBc2J0MzU3UkFOS1JtRm5yX3JrVFVBRE04R0JKZEpyTkRtYm02NWEzbVF2RnpPbTVpNEN2UVVFSEpKMVJncVZwRE9EZnFSQTMtaUNSSG9pcTluUzJHcTM2Tk1Gd3ViVG4wODBQRGRETjU4S0ly?oc=5",
       "source": "The Atlantic",
       "date": "2026-08-28T23:15:34.000Z",
-      "simple_summary": "Celebrity Gwyneth Paltrow had to cancel a dinner meeting with Sam Altman (a leader in AI) because of scheduling issues.",
-      "why_it_matters": "This is celebrity gossip and doesn't affect your life or business."
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "date": "2026-08-28T20:24:11.000Z",
-      "simple_summary": "A company called Neocloud Lambda borrowed $1 billion to buy expensive computer chips from Nvidia that it will rent out to Microsoft, because AI companies need these chips so badly right now.",
-      "why_it_matters": "This shows how expensive it is to build AI systems, but it mostly matters to investors — it's not something that affects your day-to-day business."
+      "simple_summary": "Gwyneth Paltrow postponed a dinner meeting with Sam Altman, the head of an AI company.",
+      "why_it_matters": "This is celebrity news with no practical meaning for you or your business."
     }
   ]
 }
