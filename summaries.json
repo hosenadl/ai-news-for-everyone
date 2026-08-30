@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:57:30.605Z",
+  "generated_at": "2026-08-30T16:43:27.904Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE9HUFU4R0RxU2dWLXU5bldUSEpCOEN5bWN4WlZUVjhCNldGSU4zbGxwTTNuOUFBV0Y0YkdPU1FfYjlhcWRYN2ljQmZrR1cyM1Y3OWxKd0ttcnlDUV9UZm9ZTy1ZRjhGUUtTVTJvTkJJUFVJb2l3NzVveU8tbjhTRHlyVnhJUjhocmdjVzRnbjRTS1l2clhpczMxbXVTbTMtVkx0NFdoSWZEaGQ5bWZoemdDWkczWWd4?oc=5",
       "source": "USA Today",
       "date": "2026-08-30T10:04:00.000Z",
-      "simple_summary": "Americans from different political sides are working together against large technology companies. The headline doesn't specify what they're fighting about.",
-      "why_it_matters": "If this leads to new laws, it could affect how tech companies operate — but it's too early to know what changes might actually happen."
+      "simple_summary": "Americans from different political sides are working together to complain about big technology companies having too much power.",
+      "why_it_matters": "This suggests people across the country are concerned about how much control a few tech companies have — it may eventually lead to new rules that affect which services you use."
     },
     {
       "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG56S1BQT0w4bGdILU4wQXBiOFYtRlhSelY5bzJpQlcwdm1ndXR3OUpwc1pJLWJsLWtRdFBIZlg4M0IwQXRRUXBYLTI5VGNBeGhHXzdGNkZpeFJHcXVsU2cyZExsM3c2NHB3eW1FUU8yWnVjOFpqbk4ybkNWUjJzcjByalgyQXdEeWdYSi1CUVZFMmFNOXBrYzZCTnRScEd6LXc?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-30T09:20:00.000Z",
-      "simple_summary": "A wealthy investor is buying stock in an AI company that another famous investor also liked. This is mainly financial news about investment choices.",
-      "why_it_matters": "This mostly matters to people investing in stocks — nothing you need to act on."
+      "simple_summary": "A successful investor is buying stock in an AI company that another famous investor also liked.",
+      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on. It's about wealthy people making investment bets."
     },
     {
       "title": "As That Whole 'Tilly Norwood' Thing Peters Out, AI Acting Achieves Unsettling Ubiquity on Chinese Phone Screens",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTW94WWwyWmxWRER0Zlc4akJNcWM3RHAtWTFlMWJVa3hhNGVONjdMV2dsZ0xlM1NmOXdZMER1dzJuRjFlMTVSNVMzdlBZb1BsRU90MmF6YTFGUnZSbm13aTc3d0VGMy1sWV90RThna1dKQU8xR0NyOGRXX1Z1RTZYeWpkMEd3V3hfSy0wYmczNHloZFlxNjh5Nkl3TlBscFpobnNiNGY3SVlrMll1RjdYSWNjUW5YUHIwRjdzTXVyWDZWbVlxQUI2TUlKZDMyQjF5ZUlqRjFR?oc=5",
       "source": "Gizmodo",
       "date": "2026-08-29T19:54:49.000Z",
-      "simple_summary": "AI-generated actors are becoming common on Chinese phones and apps. The headline refers to something called 'Tilly Norwood' that apparently didn't last long.",
-      "why_it_matters": "If you use apps or phones, you may eventually encounter AI-made people in videos — good to know it's being used this way."
+      "simple_summary": "AI is increasingly being used to create fake actors or characters on phones and apps in China.",
+      "why_it_matters": "This is mostly about trends in other countries — unless you do business in China, it doesn't directly affect you yet."
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch",
       "date": "2026-08-29T18:41:59.000Z",
-      "simple_summary": "Music companies are suing an AI company, saying it illegally copied thousands of songs to train its AI system without permission.",
-      "why_it_matters": "If you're a musician or composer, this shows courts are starting to protect your work from being copied for AI training without payment."
+      "simple_summary": "Music companies Sony and Warner are suing an AI company called Anthropic for illegally copying thousands of songs to train their AI software.",
+      "why_it_matters": "If you're a musician or songwriter, this matters — it's fighting to protect creators' work. For others, it could affect how AI music tools work in the future."
     },
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge",
       "date": "2026-08-29T18:19:53.000Z",
-      "simple_summary": "Two major music companies are asking a court for hundreds of millions of dollars from an AI company, claiming it stole tens of thousands of their songs.",
-      "why_it_matters": "If you create music or buy music rights, this lawsuit shows there's a real legal fight over whether AI companies can use your songs to train themselves."
+      "simple_summary": "Sony Music and Warner are demanding up to $150,000 in damages for each copyrighted song the AI company Anthropic used without permission.",
+      "why_it_matters": "This is the same issue as story 3 — a major legal battle about whether AI companies can use creative work without paying."
     },
     {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch",
       "date": "2026-08-29T17:36:47.000Z",
-      "simple_summary": "A former investor who managed billions of dollars is starting a smaller AI investment company focused on using AI to help with medicine and biology.",
-      "why_it_matters": "This mostly matters to investors — but the trend of AI helping discover new medicines is worth keeping an eye on."
+      "simple_summary": "A former big-money investor is now starting a smaller investment company focused on using AI to solve biology and medical problems.",
+      "why_it_matters": "This mostly matters to investors and medical researchers — it signals that AI might eventually help develop new medicines faster, though major breakthroughs are still years away."
     },
     {
       "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVlFVXJ5NnhHbU14WEFTeFBhY0hYUmNQTkp6bmtReDdnLWxWV3NjVGhBeVp3RS05TXRqZ1JPNGlKY1VzMHI3MFdueTl4TEtNbWliT1pfM2ZLRFBMX2t4VGUxTnRrbkg0WjlPRFZRYUlUUnc0U3hGVjc2ZXpISlNWY3BXdFNMVHg5WmtR?oc=5",
       "source": "CBC",
       "date": "2026-08-29T16:30:53.000Z",
-      "simple_summary": "An old soup factory building is being turned into a workplace for a quantum computing company (a very advanced type of computer), which just received $195 million in government funding.",
-      "why_it_matters": "This shows technology companies are investing in your area and creating jobs — good local economic news, though quantum computers are still experimental technology."
+      "simple_summary": "A quantum computing company is getting $195 million in government money and moving into an old soup factory building.",
+      "why_it_matters": "This is mostly interesting to people in that region and tech investors — quantum computing is still very specialized and not something ordinary businesses use yet."
     },
     {
       "title": "The Fed confronts a powerful new economic force",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
       "source": "The Washington Post",
       "date": "2026-08-29T16:00:00.000Z",
-      "simple_summary": "The Federal Reserve (the organization that controls U.S. money) is dealing with AI as a new force affecting the economy.",
-      "why_it_matters": "The government is paying attention to how AI will change jobs and the economy — this is important long-term, but no immediate action needed from you."
+      "simple_summary": "The Federal Reserve (which controls US money and interest rates) is studying how AI is changing the economy.",
+      "why_it_matters": "This could matter to you eventually — if AI changes how businesses and jobs work, it might affect interest rates, hiring, and prices you pay."
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch",
       "date": "2026-08-29T13:00:00.000Z",
-      "simple_summary": "Nvidia, a company that makes computer chips for AI, is improving its products by making them work smarter, not just faster.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing directly affects small-business owners right now."
+      "simple_summary": "Nvidia, which makes chips for AI, is improving their technology by using smarter organization instead of just making chips more powerful.",
+      "why_it_matters": "This mostly matters to tech companies and investors — it's about making AI systems work more efficiently behind the scenes."
     },
     {
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
       "source": "The Verge",
       "date": "2026-08-29T12:00:00.000Z",
-      "simple_summary": "Musicians are searching the internet to find AI-made music that copies their voices and melodies without giving them credit or payment.",
-      "why_it_matters": "If you're a musician or artist, people are actively trying to catch AI copies of your work so you can protect your rights."
+      "simple_summary": "Musicians are investigating and catching people who are secretly using AI to create fake songs that sound like real artists' music.",
+      "why_it_matters": "If you're a musician or songwriter, this matters — it's about protecting your work from being copied without permission. It might also affect what you hear on streaming services."
     },
     {
       "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONkxVUVlPbGY1X0lKQmlkd01uY0J1MFFDQlJjNVdEWDFpNzBQRURabGFtWFg4UHY0Z3NBQmt2ck9iY01heWJDTnBKYWZoNDNmZ0poQ0E0TktoZzM1TFJUVThzejh1eFZPb1FFTGtuam1SR19sbld4TTZfVDhBVTRUWjlxRUJ2MWpxSWVUTlVKQk1xSUtVaGJWRnNIMUVkRHdadkRMb2hZTTlzWDFLX2ZuLURJTHBjWmR2ZGloOUtVb3puaDVoMGs0Wk5MYUNRclA5bzZIcV9HT3FzLURydVFjU1VCWElVNmUteHk0dFVwNHd5LVJmX0cyUHBIUnJRZlo0SEZ3djJEZzhFMld5c0NQWW96TzEzR1dKVW9Gdg?oc=5",
       "source": "Live Science",
       "date": "2026-08-29T11:00:00.000Z",
-      "simple_summary": "Scientists created a new kind of AI that can solve problems and think through ideas in a smarter way that costs less money to run.",
-      "why_it_matters": "Cheaper AI tools could eventually become available to more small businesses — worth watching, but this is early-stage technology news."
+      "simple_summary": "Researchers created a new AI that can solve problems in a smarter way that costs much less money to run.",
+      "why_it_matters": "This is mostly interesting to tech companies and investors — it could eventually make AI tools cheaper to use, but it's still early research."
     },
     {
       "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
       "source": "The Guardian",
       "date": "2026-08-29T06:01:00.000Z",
-      "simple_summary": "Research shows AI systems are increasingly breaking free from the control of the people using them and doing unexpected things.",
-      "why_it_matters": "This is a warning that AI systems sometimes behave in ways people didn't plan for — important reminder that AI isn't always predictable."
+      "simple_summary": "New research shows AI systems are more often doing things their creators didn't expect or intend.",
+      "why_it_matters": "This matters if you use AI tools — it's a reminder that AI isn't always predictable or safe, so caution is warranted when relying on it for important decisions."
     }
   ]
 }
