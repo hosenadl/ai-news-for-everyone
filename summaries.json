@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-30T21:09:41.436Z",
+  "generated_at": "2026-08-31T05:40:31.974Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWJnYkl4UE1jZl9zSWNwMm1BNXBfNWNUYjdrUDFpb3cweVlIRlFGOUo1UmNEcTNlYlJNc1R3b3ktckk1Tmx4Y3hmR2NDRUlxUHlvbXg1bjVQRmFnVzVjSjhkMG5NR3BhNzBIT2kzVjZKV2htSmNGbjk3anlNTkdjUmYyblFIMXkzaXVlV0xYM0xmOC1TbHR5N3g1LWNKV2dsaVhZUjdUT1JyWVFmQ2NtUkc4VDdIOHgybzJQaGtWU1MtYU1y?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-08-30T21:46:42.000Z",
+      "simple_summary": "A music label is suing Anthropic, an AI company, claiming it used thousands of songs without permission to train its AI system.",
+      "why_it_matters": "This could affect how AI companies operate, but it's mainly a legal battle between big companies right now — nothing you need to worry about immediately."
+    },
+    {
+      "title": "Will anybody use AI as much as coders?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUdCc0ZudnpKQzdJY0h6M1lma1RicVJWOTYyaGdtb1JmTjJGZ0lsVEJSbXN6MVM0WV9aMldSY1JYU09GZkl1dzJFQWthd2dhZW9KZmVtUlpvYWhJQkxWWnYwZkV4Qk9pUnlhdXpsMUxYUFZ0MUIzeHBOWjBRQ25mNEdNcWRUdnkweGtJ?oc=5",
+      "source": "The Economist",
+      "date": "2026-08-30T19:51:28.000Z",
+      "simple_summary": "The Economist is asking whether regular people will use AI tools as much as computer programmers do.",
+      "why_it_matters": "This is mostly about the future of technology — honestly, the headline alone doesn't tell us enough to explain why this matters to you specifically."
+    },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "source": "TechCrunch",
       "date": "2026-08-30T16:54:25.000Z",
-      "simple_summary": "Elon Musk is building a factory to make turbine blades faster so he can use gas power sooner, but gas turbines create pollution and have caused legal problems in other places.",
-      "why_it_matters": "This doesn't directly affect you unless you live near where these turbines are built — it's mainly a business and environmental policy issue for governments to decide."
+      "simple_summary": "Elon Musk is building a new factory to make turbine blades faster for gas-powered electricity, but faster methods may cause more pollution.",
+      "why_it_matters": "This is mainly about energy industry and environmental issues — probably doesn't affect your daily life unless you live near where these turbines operate."
+    },
+    {
+      "title": "Top US data companies supplying data to Chinese AI — while also working for Pentagon, GOP rep warns",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZU5NYjdjcHRKS1gwUjRnT2lDR3Q1VjJnSlJBWTRSMzNnamF6WGRIazVKZ1l2RGlRdUhiSi1kTFpBSWVPYlBFMGM0RWZMT0ZteEY0ZE52SFI2VGFiRzJldUp0cXRoZlJ1V0ZsbUc5d0VnUjctZTFhdy1KcG5naFFLSFRENno2TjVzQmJxeTRXQXB4UW5FaHNDUFUxM3ZhSzZ0bmJaQmNncW9Qa21LMms1Mm1fYUhKOWpzc0doY1M3ck4?oc=5",
+      "source": "New York Post",
+      "date": "2026-08-30T16:35:00.000Z",
+      "simple_summary": "A congressman warned that some major U.S. data companies are selling information to Chinese AI companies while also working with the U.S. military.",
+      "why_it_matters": "This is a national security concern that politicians are debating — it doesn't require action from you, but it's worth knowing about."
     },
     {
       "title": "AI’s worst disasters will arrive unannounced | Letters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
       "source": "The Guardian",
       "date": "2026-08-30T16:22:00.000Z",
-      "simple_summary": "The headline suggests AI could cause serious problems that people won't see coming, but there's not enough detail to explain what specific problems the writer means.",
-      "why_it_matters": "Hard to say without more details, but the general idea is to stay alert about how AI changes things around you."
+      "simple_summary": "The Guardian published letters discussing how AI's biggest problems might happen suddenly without warning.",
+      "why_it_matters": "This is expert opinion about future risks — interesting to think about, but not actionable for a small-business owner right now."
     },
     {
       "title": "In a rare moment of unity, Americans are fighting Big Tech together",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE9HUFU4R0RxU2dWLXU5bldUSEpCOEN5bWN4WlZUVjhCNldGSU4zbGxwTTNuOUFBV0Y0YkdPU1FfYjlhcWRYN2ljQmZrR1cyM1Y3OWxKd0ttcnlDUV9UZm9ZTy1ZRjhGUUtTVTJvTkJJUFVJb2l3NzVveU8tbjhTRHlyVnhJUjhocmdjVzRnbjRTS1l2clhpczMxbXVTbTMtVkx0NFdoSWZEaGQ5bWZoemdDWkczWWd4?oc=5",
       "source": "USA Today",
       "date": "2026-08-30T16:07:00.000Z",
-      "simple_summary": "Americans from different political groups are working together against large technology companies, which is unusual.",
-      "why_it_matters": "This mostly matters to investors and policy makers — average people should just know that concern about Big Tech is growing."
+      "simple_summary": "Americans from different political sides are unusually united in concerns about tech companies becoming too powerful.",
+      "why_it_matters": "This shows growing public concern about Big Tech, which might eventually lead to new rules that could affect how you use online services."
+    },
+    {
+      "title": "Microsoft Tokenmaxxing King Spent $28,000 on AI in a Single Month as Company Begs Employees to Tone Down the Ludicrous Costs",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0dOdTJTVVhzSEFFZ0s3N3QxRmJ0RU5ITXBVNjhFNHJSR2ZNRjVpWDBEN3dhakhjZW1KVmo2OWRlS1ExaTdzNkFRYVdkSlVZTVdjVVVidndOb0RWcHV0TmNIenVabE0zYmFGMzZ6a25lRHJCY2YwNkIzUlhOSk1Ebw?oc=5",
+      "source": "Futurism",
+      "date": "2026-08-30T16:02:00.000Z",
+      "simple_summary": "One Microsoft employee spent $28,000 on AI tools in a month, and Microsoft is now asking workers to cut back on expensive AI costs.",
+      "why_it_matters": "This mostly matters to investors and Microsoft employees — it shows AI tools are getting expensive, but doesn't change anything for you right now."
     },
     {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "source": "The Verge",
       "date": "2026-08-30T15:35:10.000Z",
-      "simple_summary": "Texas stopped spending money on Flock's AI cameras that track and identify vehicles, after the state spent over $30 million on them and people complained about privacy concerns.",
-      "why_it_matters": "If you live in Texas, this means fewer cameras watching your car movements — the state decided privacy concerns were too important."
+      "simple_summary": "Texas Governor Greg Abbott stopped buying AI surveillance cameras made by Flock after the state spent $30 million on them and public concern grew.",
+      "why_it_matters": "If you live in Texas, this affects what surveillance systems your community uses; otherwise, it shows how public worry about AI cameras is influencing government spending."
     },
     {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "source": "TechCrunch",
       "date": "2026-08-30T15:00:00.000Z",
-      "simple_summary": "Caterpillar, the heavy equipment company, is using what it learned from running self-driving machines in mines to help it set up AI systems in other ways.",
-      "why_it_matters": "This mostly matters to investors — nothing changes for ordinary people or small businesses."
+      "simple_summary": "Caterpillar, the construction equipment company, is using its decades of experience with self-driving mining machines to help deploy AI systems.",
+      "why_it_matters": "This mostly matters to investors and large industries — Caterpillar is bringing proven expertise to AI, but it doesn't affect small businesses directly."
     },
     {
-      "title": "America mobilises 3 powerful tech giants to Africa’s second-richest economy to counter China’s Huawei bid to build 2,008-chip AI data centre",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOFpBaUhWbGJoRnpmWi16cFZvby1XUUhleUtEUDNQdlNRZnlRS2tMTjRfQWRXNy1JS1RnbS1Yek9wV3lHbnNvNlhYNmx2M19rbVZfZVBXQ2RhVW0tdVJpeWM0NDJFNUhoSURXRzVwQkljajZPSjR6WlhweTFvUHhxS1dUd3BxV0l0amlMeVM1MjZGNDZpNkpuUW1LRVZuWGtGcy15OG12MXl5V2IwWkpRZ3laVGxsVzNVUUlMeXVZZGV5OHhEb2loRkF4dWIzWUUyLW5hUHYwdzZrUQ?oc=5",
-      "source": "Business Insider Africa",
-      "date": "2026-08-30T11:41:39.000Z",
-      "simple_summary": "The U.S. is sending three major tech companies to Africa to compete against a Chinese company trying to build a giant AI computer center there.",
-      "why_it_matters": "This is geopolitical business — it doesn't affect you unless you work in tech or Africa."
+      "title": "Why investors should be concerned about the growing backlash to AI data centers",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0tsZ2kwZUFNYVNsVUVEQ0p2VDRRTFZhQzBLTTBOanRIR0tGY1pKVE9QbXdFYVNDWjR5djlIS05CNXpEMjJWUG5kUkw0RXFPNERwVEVLalBGWUdXMXZYQzl4dDVGbmlGLXFuM2xnRDRpeEZscjViNHNqYWdRdmdOU3NOelN4Qm50ajVOekFtTzA5UXFxbHZISEVHZVc4UnVoTXNlOXM5MWc?oc=5",
+      "source": "Business Insider",
+      "date": "2026-08-30T09:30:47.000Z",
+      "simple_summary": "Investors are becoming worried because more people are pushing back against large AI data centers being built.",
+      "why_it_matters": "This is mainly an investor concern — nothing you need to act on."
     },
     {
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2RsektkSlVHblBubmN2ckNseldWXzREYVNVcmRocFo3bFVEQlRObWcwbGk4V1Z4aks2Mmh6UFVWV0pfRkdiUk5mdHN3SVN2M2FZOHAwZUwzZ1M1NVJnZkJqRm1KczM5MFNGNVZpYmxNNm9PVno2U2hqejFaMHN2WGRkV2IzSnZ6bFp0X1VOYjFDVkNRRlQ1TUR6VQ?oc=5",
+      "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG56S1BQT0w4bGdILU4wQXBiOFYtRlhSelY5bzJpQlcwdm1ndXR3OUpwc1pJLWJsLWtRdFBIZlg4M0IwQXRRUXBYLTI5VGNBeGhHXzdGNkZpeFJHcXVsU2cyZExsM3c2NHB3eW1FUU8yWnVjOFpqbk4ybkNWUjJzcjByalgyQXdEeWdYSi1CUVZFMmFNOXBrYzZCTnRScEd6LXc?oc=5",
       "source": "Yahoo Finance",
-      "date": "2026-08-30T10:50:00.000Z",
-      "simple_summary": "An investment writer is saying one computer memory company is a better buy than another for investors who want AI stocks.",
-      "why_it_matters": "This only matters if you're investing in the stock market — nothing to do with your daily life."
+      "date": "2026-08-30T09:20:00.000Z",
+      "simple_summary": "Warren Buffett's successor is buying shares in AI companies that Buffett also invested in.",
+      "why_it_matters": "This is only relevant if you own Berkshire Hathaway stock or invest in the same AI companies — otherwise it's investor news, not for everyday people."
     },
     {
       "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5",
       "source": "The Motley Fool",
       "date": "2026-08-29T21:00:00.000Z",
-      "simple_summary": "A wealthy investor sold shares in one tech company and bought shares in different AI companies instead.",
-      "why_it_matters": "This is investment news that only matters if you own stocks in those companies."
-    },
-    {
-      "title": "As That Whole 'Tilly Norwood' Thing Peters Out, AI Acting Achieves Unsettling Ubiquity on Chinese Phone Screens",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTW94WWwyWmxWRER0Zlc4akJNcWM3RHAtWTFlMWJVa3hhNGVONjdMV2dsZ0xlM1NmOXdZMER1dzJuRjFlMTVSNVMzdlBZb1BsRU90MmF6YTFGUnZSbm13aTc3d0VGMy1sWV90RThna1dKQU8xR0NyOGRXX1Z1RTZYeWpkMEd3V3hfSy0wYmczNHloZFlxNjh5Nkl3TlBscFpobnNiNGY3SVlrMll1RjdYSWNjUW5YUHIwRjdzTXVyWDZWbVlxQUI2TUlKZDMyQjF5ZUlqRjFR?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-08-29T19:54:49.000Z",
-      "simple_summary": "AI is becoming common in China for creating fake actors and performances on phones, and people are getting used to seeing it.",
-      "why_it_matters": "If you use Chinese apps or services, you might start seeing AI-created people more often — but this is mostly happening in China."
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch",
-      "date": "2026-08-29T18:41:59.000Z",
-      "simple_summary": "Sony Music and Warner are suing Anthropic (an AI company) for using copyrighted songs and music without permission to train their AI.",
-      "why_it_matters": "If you're a musician or songwriter, this matters — the court will decide if AI companies have to pay for the music they use to train their systems."
-    },
-    {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge",
-      "date": "2026-08-29T18:19:53.000Z",
-      "simple_summary": "Two major music publishing companies are suing Anthropic because the AI company used tens of thousands of copyrighted songs to train its systems without paying for them.",
-      "why_it_matters": "If you write or publish music, this lawsuit could affect whether you get paid when AI companies use your work."
-    },
-    {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "source": "TechCrunch",
-      "date": "2026-08-29T17:36:47.000Z",
-      "simple_summary": "A scientist who used to manage a large investment fund for biology research started a smaller AI-focused fund, and believes AI will help medicine become more like engineering (with predictable rules) instead of pure discovery.",
-      "why_it_matters": "This matters mostly to investors and future medical researchers — eventually AI might help doctors treat diseases more reliably, but that's years away."
+      "simple_summary": "A wealthy investor sold his shares in one tech company and bought shares in major AI companies instead.",
+      "why_it_matters": "This is purely about what billionaire investors are doing with their money — unless you own these same stocks, this doesn't affect you."
     }
   ]
 }
