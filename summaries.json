@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-31T05:40:31.974Z",
+  "generated_at": "2026-08-31T13:56:41.250Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWJnYkl4UE1jZl9zSWNwMm1BNXBfNWNUYjdrUDFpb3cweVlIRlFGOUo1UmNEcTNlYlJNc1R3b3ktckk1Tmx4Y3hmR2NDRUlxUHlvbXg1bjVQRmFnVzVjSjhkMG5NR3BhNzBIT2kzVjZKV2htSmNGbjk3anlNTkdjUmYyblFIMXkzaXVlV0xYM0xmOC1TbHR5N3g1LWNKV2dsaVhZUjdUT1JyWVFmQ2NtUkc4VDdIOHgybzJQaGtWU1MtYU1y?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-08-30T21:46:42.000Z",
-      "simple_summary": "A music label is suing Anthropic, an AI company, claiming it used thousands of songs without permission to train its AI system.",
-      "why_it_matters": "This could affect how AI companies operate, but it's mainly a legal battle between big companies right now — nothing you need to worry about immediately."
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "source": "The Verge",
+      "date": "2026-08-31T13:00:00.000Z",
+      "simple_summary": "Instagram is cracking down on fake accounts run by AI that pretend to be real people. They're also adding clearer labels so you can tell when a profile is an AI character, not a human.",
+      "why_it_matters": "If you use Instagram or sell things there, you'll have an easier time spotting which accounts are real people and which are computers pretending to be people."
+    },
+    {
+      "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JqSFg4eDZVZkJmMFBBd1BoeDRrMlBQNkY3cFNWckJlVEVWQUFocjM4QkktNkFSdTFVMWFfbzJhbU13LXBQMlZWTnVFQm5mNFNlX2ptTVZqTUg5UktpcndDdVM3Q0p2RzIwckRUajRWRzZ0ZTUxQXExdnJzZkRldDJiUnQ3ZXcxcHppRTVGZjhZYjRnbzFIbFdIQ0dWczhoaDdtbWdWazlTSllkbDZuaWJQMW9LLXNabXNhVzB2Y2Q4MnFXeUxqOQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-31T06:01:00.000Z",
+      "simple_summary": "Financial regulators are worried that AI could create new problems for banks and the economy if something goes wrong.",
+      "why_it_matters": "This is mostly about banks and government officials thinking ahead — nothing you need to do right now, but it means regulators are taking AI risks seriously."
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch",
+      "date": "2026-08-31T02:34:00.000Z",
+      "simple_summary": "The U.S. government is trying to block drones and robots made in China from being used here, but China makes so many that competition will just happen in other countries instead.",
+      "why_it_matters": "This mostly matters to investors and government policy — it doesn't directly change what you can buy or use."
+    },
+    {
+      "title": "AI’s worst disasters will arrive unannounced | Letters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-31T01:30:00.000Z",
+      "simple_summary": "A letter warns that AI could cause serious unexpected problems that nobody sees coming until it's too late.",
+      "why_it_matters": "This is an opinion piece about future risks — too vague to know what it means for you without reading the full letter."
     },
     {
       "title": "Will anybody use AI as much as coders?",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUdCc0ZudnpKQzdJY0h6M1lma1RicVJWOTYyaGdtb1JmTjJGZ0lsVEJSbXN6MVM0WV9aMldSY1JYU09GZkl1dzJFQWthd2dhZW9KZmVtUlpvYWhJQkxWWnYwZkV4Qk9pUnlhdXpsMUxYUFZ0MUIzeHBOWjBRQ25mNEdNcWRUdnkweGtJ?oc=5",
       "source": "The Economist",
       "date": "2026-08-30T19:51:28.000Z",
-      "simple_summary": "The Economist is asking whether regular people will use AI tools as much as computer programmers do.",
-      "why_it_matters": "This is mostly about the future of technology — honestly, the headline alone doesn't tell us enough to explain why this matters to you specifically."
+      "simple_summary": "A question about whether regular people will use AI as much as computer programmers do.",
+      "why_it_matters": "This is too vague to explain without reading the article — the headline alone doesn't tell us enough."
+    },
+    {
+      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFN0RTZoMXNQZ0JUS2dHcWtFeGdKVGZtQjl2M1I4N1BYZWNkNVo5SkxPcWdQNmxIcnRkbnhRVUl1X3ZhbktwN2FKZWlmaEJXNm1DdXZLVkctLTE5T2hVS0JaUUlQVGtWTFAyaXoxbGp3NUNaRlYwRVBqQi1rLTVZbXF3VF9Ka2MyTWJacTNiandvN21CZ1E?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-08-30T18:15:00.000Z",
+      "simple_summary": "An investor article predicting which computer chip company will make the most money from AI.",
+      "why_it_matters": "This mostly matters to people who own stocks — nothing you need to act on."
     },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "source": "TechCrunch",
       "date": "2026-08-30T16:54:25.000Z",
-      "simple_summary": "Elon Musk is building a new factory to make turbine blades faster for gas-powered electricity, but faster methods may cause more pollution.",
-      "why_it_matters": "This is mainly about energy industry and environmental issues — probably doesn't affect your daily life unless you live near where these turbines operate."
-    },
-    {
-      "title": "Top US data companies supplying data to Chinese AI — while also working for Pentagon, GOP rep warns",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZU5NYjdjcHRKS1gwUjRnT2lDR3Q1VjJnSlJBWTRSMzNnamF6WGRIazVKZ1l2RGlRdUhiSi1kTFpBSWVPYlBFMGM0RWZMT0ZteEY0ZE52SFI2VGFiRzJldUp0cXRoZlJ1V0ZsbUc5d0VnUjctZTFhdy1KcG5naFFLSFRENno2TjVzQmJxeTRXQXB4UW5FaHNDUFUxM3ZhSzZ0bmJaQmNncW9Qa21LMms1Mm1fYUhKOWpzc0doY1M3ck4?oc=5",
-      "source": "New York Post",
-      "date": "2026-08-30T16:35:00.000Z",
-      "simple_summary": "A congressman warned that some major U.S. data companies are selling information to Chinese AI companies while also working with the U.S. military.",
-      "why_it_matters": "This is a national security concern that politicians are debating — it doesn't require action from you, but it's worth knowing about."
-    },
-    {
-      "title": "AI’s worst disasters will arrive unannounced | Letters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
-      "source": "The Guardian",
-      "date": "2026-08-30T16:22:00.000Z",
-      "simple_summary": "The Guardian published letters discussing how AI's biggest problems might happen suddenly without warning.",
-      "why_it_matters": "This is expert opinion about future risks — interesting to think about, but not actionable for a small-business owner right now."
-    },
-    {
-      "title": "In a rare moment of unity, Americans are fighting Big Tech together",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE9HUFU4R0RxU2dWLXU5bldUSEpCOEN5bWN4WlZUVjhCNldGSU4zbGxwTTNuOUFBV0Y0YkdPU1FfYjlhcWRYN2ljQmZrR1cyM1Y3OWxKd0ttcnlDUV9UZm9ZTy1ZRjhGUUtTVTJvTkJJUFVJb2l3NzVveU8tbjhTRHlyVnhJUjhocmdjVzRnbjRTS1l2clhpczMxbXVTbTMtVkx0NFdoSWZEaGQ5bWZoemdDWkczWWd4?oc=5",
-      "source": "USA Today",
-      "date": "2026-08-30T16:07:00.000Z",
-      "simple_summary": "Americans from different political sides are unusually united in concerns about tech companies becoming too powerful.",
-      "why_it_matters": "This shows growing public concern about Big Tech, which might eventually lead to new rules that could affect how you use online services."
-    },
-    {
-      "title": "Microsoft Tokenmaxxing King Spent $28,000 on AI in a Single Month as Company Begs Employees to Tone Down the Ludicrous Costs",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0dOdTJTVVhzSEFFZ0s3N3QxRmJ0RU5ITXBVNjhFNHJSR2ZNRjVpWDBEN3dhakhjZW1KVmo2OWRlS1ExaTdzNkFRYVdkSlVZTVdjVVVidndOb0RWcHV0TmNIenVabE0zYmFGMzZ6a25lRHJCY2YwNkIzUlhOSk1Ebw?oc=5",
-      "source": "Futurism",
-      "date": "2026-08-30T16:02:00.000Z",
-      "simple_summary": "One Microsoft employee spent $28,000 on AI tools in a month, and Microsoft is now asking workers to cut back on expensive AI costs.",
-      "why_it_matters": "This mostly matters to investors and Microsoft employees — it shows AI tools are getting expensive, but doesn't change anything for you right now."
+      "simple_summary": "Elon Musk wants to make power-generation turbines faster using a new factory, but using gas turbines creates pollution and is causing legal problems.",
+      "why_it_matters": "This is mainly about company decisions and energy policy — not something that directly affects your daily life or small business."
     },
     {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "source": "The Verge",
       "date": "2026-08-30T15:35:10.000Z",
-      "simple_summary": "Texas Governor Greg Abbott stopped buying AI surveillance cameras made by Flock after the state spent $30 million on them and public concern grew.",
-      "why_it_matters": "If you live in Texas, this affects what surveillance systems your community uses; otherwise, it shows how public worry about AI cameras is influencing government spending."
+      "simple_summary": "Texas Governor Abbott stopped spending taxpayer money on AI security cameras made by a company called Flock after people complained about too much surveillance. The state had already spent $30 million on them.",
+      "why_it_matters": "If you live in Texas, your tax money won't keep going toward these cameras — but this is mainly a local government decision about surveillance concerns."
     },
     {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5",
       "source": "TechCrunch",
       "date": "2026-08-30T15:00:00.000Z",
-      "simple_summary": "Caterpillar, the construction equipment company, is using its decades of experience with self-driving mining machines to help deploy AI systems.",
-      "why_it_matters": "This mostly matters to investors and large industries — Caterpillar is bringing proven expertise to AI, but it doesn't affect small businesses directly."
+      "simple_summary": "Caterpillar (the heavy equipment company) is using what it learned from automating mines to help deploy AI in other places.",
+      "why_it_matters": "This mostly matters to large businesses and investors — nothing you need to know unless you work in heavy equipment or mining."
     },
     {
       "title": "Why investors should be concerned about the growing backlash to AI data centers",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0tsZ2kwZUFNYVNsVUVEQ0p2VDRRTFZhQzBLTTBOanRIR0tGY1pKVE9QbXdFYVNDWjR5djlIS05CNXpEMjJWUG5kUkw0RXFPNERwVEVLalBGWUdXMXZYQzl4dDVGbmlGLXFuM2xnRDRpeEZscjViNHNqYWdRdmdOU3NOelN4Qm50ajVOekFtTzA5UXFxbHZISEVHZVc4UnVoTXNlOXM5MWc?oc=5",
       "source": "Business Insider",
-      "date": "2026-08-30T09:30:47.000Z",
-      "simple_summary": "Investors are becoming worried because more people are pushing back against large AI data centers being built.",
-      "why_it_matters": "This is mainly an investor concern — nothing you need to act on."
+      "date": "2026-08-30T09:30:00.000Z",
+      "simple_summary": "Investors are getting nervous because more people are pushing back against huge AI data centers being built in their communities.",
+      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on right now."
     },
     {
       "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG56S1BQT0w4bGdILU4wQXBiOFYtRlhSelY5bzJpQlcwdm1ndXR3OUpwc1pJLWJsLWtRdFBIZlg4M0IwQXRRUXBYLTI5VGNBeGhHXzdGNkZpeFJHcXVsU2cyZExsM3c2NHB3eW1FUU8yWnVjOFpqbk4ybkNWUjJzcjByalgyQXdEeWdYSi1CUVZFMmFNOXBrYzZCTnRScEd6LXc?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-08-30T09:20:00.000Z",
-      "simple_summary": "Warren Buffett's successor is buying shares in AI companies that Buffett also invested in.",
-      "why_it_matters": "This is only relevant if you own Berkshire Hathaway stock or invest in the same AI companies — otherwise it's investor news, not for everyday people."
+      "simple_summary": "An investor article about Warren Buffett's successor buying stock in an AI company that Buffett also liked.",
+      "why_it_matters": "This is about stock picking — only relevant if you invest in the stock market."
     },
     {
-      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-08-29T21:00:00.000Z",
-      "simple_summary": "A wealthy investor sold his shares in one tech company and bought shares in major AI companies instead.",
-      "why_it_matters": "This is purely about what billionaire investors are doing with their money — unless you own these same stocks, this doesn't affect you."
+      "title": "Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-08-30T09:00:55.000Z",
+      "simple_summary": "Companies are hiring people to work alongside AI systems and help guide how AI is used on real projects.",
+      "why_it_matters": "If you're looking for work, there are new job opportunities helping companies use AI properly — but it's a new field so the jobs may require learning new skills."
     }
   ]
 }
