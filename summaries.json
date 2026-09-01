@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-01T11:42:11.384Z",
+  "generated_at": "2026-09-01T16:42:08.892Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iYVVrQVJERlpLS3dwTlFPNm9WMHJ2dkdaTUdmWV9FY3piSTlUd0FXQk9YbjBVUlp3dkRlTjMzSXVzbUtSam1hZlhIVGpHSXZFa3ZERUJOY0h3cjZFTkhIRlN3MGptLW9xY0VZZ3p0eHNyNjk1ME8yelZibzfSAYIBQVVfeXFMUFV0TlV5RGgwcmI5QUtlNGlxNE9VZkphSXRIdllpdHdDMTRQQXVxZXhRaVUyX0VOMmZfVjJ6TzdqbENTUm50ODY0QnIxVlFvdlQyXzZFNzlrRExPU1hWZERBYjVNS3F6eUFoWnp6VGttSG1YVVJya01aR0F4X2ltd2ZqUQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-09-01T11:00:01.000Z",
-      "simple_summary": "A company called OneRail is using AI (with help from a tech company called Nvidia) to help stores figure out the fastest way to deliver products to customers.",
-      "why_it_matters": "If you run a small shop that delivers items, better delivery planning tools might help you save time and money — but this is mainly aimed at large retailers for now."
+      "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVotdHY2bDRyQUctc2lXdjRjOTZuRzhOVDZrSGNiU3FPbWVEc190aHhzaVRFU1lObkwtb1NLenk1YW9fMXlmeXN4SlMtSHFQT003QXdmVUg0OFhmdTM0UWhQZnVlVVBpNHgxTlVKTnVMclRsc25PZHRGMUg2dDVjTjFLSm01OWdaM2p0aC1KR1piQldZMWJ0NlFNbUgtU1pMekRj?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-09-01T14:35:01.000Z",
+      "simple_summary": "Two companies that build the computer equipment needed for AI are being compared as investment options.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
-      "title": "US to urge hands-off AI regulation at G-20, official says",
+      "title": "US to urge hands-off AI regulation at G20 tech meeting, official says",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5",
       "source": "Reuters",
-      "date": "2026-09-01T10:39:43.000Z",
-      "simple_summary": "The US government is telling other countries it wants AI companies to police themselves instead of having strict new laws.",
-      "why_it_matters": "This mostly affects big tech companies and politicians — it won't directly change how you use AI today."
+      "date": "2026-09-01T13:34:56.000Z",
+      "simple_summary": "The US government is telling other countries it wants light-touch rules for AI instead of heavy regulations.",
+      "why_it_matters": "This could affect how much AI companies have to follow rules in the future, but the impact won't be clear for a while."
     },
     {
-      "title": "BLS Expands List of Jobs Threatened by AI to 45 Roles",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEljREh4RFRLVk1OcGs4LWh4NTZkSzJ3eElNb1BiXzJFQUZYS056YmdBTHJGV2pEeVdQTnVTTHQ3c3ZSeW5Ga0taU0tjYWRNOXdaN2dnbnhxZzN0bTRUWkpyWEE0OTI3a1JlbFFfY05KT3JOZlEtT3pSWHJ3cnlXcS0xWXJNRU9vMmZ0VkdTZHFpdDdWUzZqREpEOGtkMUZBdk1EUjV2aUpfclFuRXhhMkx0bw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-09-01T10:29:01.000Z",
-      "simple_summary": "The government counted 45 different types of jobs that could be affected by AI in the coming years.",
-      "why_it_matters": "If your job is on that list, it might be worth learning new skills, but many of these changes happen slowly over time."
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge",
+      "date": "2026-09-01T13:00:00.000Z",
+      "simple_summary": "Nvidia released a new technology called DLSS 5 that uses AI to make video games look smoother and faster, but it only works with their newest expensive graphics cards.",
+      "why_it_matters": "If you play games, you might eventually see better graphics, but you'd need to buy expensive new hardware — nothing urgent for you."
     },
     {
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
       "source": "BBC",
       "date": "2026-09-01T10:18:47.000Z",
-      "simple_summary": "A top financial official warned that AI could cause problems for the economy, like a recession where businesses struggle and jobs are lost.",
-      "why_it_matters": "This is a warning to watch out for, similar to how economists warn about other economic dangers — stay aware but don't panic."
+      "simple_summary": "A banking leader warned other countries that AI could cause economic problems and recessions.",
+      "why_it_matters": "This is a caution flag from someone important about AI's long-term economic impact, but it's a future concern, not something happening now."
     },
     {
-      "title": "Made in America: How AI is keeping this U.S. factory competitive",
+      "title": "'It can outthink me': How a major manufacturer came to embrace AI",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5",
       "source": "NPR",
       "date": "2026-09-01T09:00:00.000Z",
-      "simple_summary": "A factory in America is using AI to stay competitive and keep its jobs, rather than losing work to cheaper places.",
-      "why_it_matters": "This shows AI can help small manufacturers work smarter and keep their business alive — a positive example if you run a factory or workshop."
+      "simple_summary": "A manufacturing company decided to use AI to help with its work and found it actually made their operations better.",
+      "why_it_matters": "This shows AI can be practical and helpful in real businesses, not just in tech companies."
     },
     {
-      "title": "‘Wake-up call for Congress’: Lawmakers get a Big Brother warning on AI",
+      "title": "Own a gun? Go to church? Do yoga? AI can find out in seconds.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmpjTlEzcUlCYkh1SFJldjFmNV9xa2dnTGJ5MHlBdjlkVm1FX1BJNXRBUG1fZkF5bVRxQ1FzOG5VWU9NcDkwMklocFVvZE9lLWQ4aXF1Z29qdHBfUjNXUTJKcEM5dkg1X0ROYktKX3lCek1BTTI2cXBGRnhKV3kwZHlJUmtKVmZwYk5tenBIWXFocEpzRUlia09SdDVCTVpGMWh1OXBxSlpfUUFjdHpJM0NDSHYtcjhW?oc=5",
       "source": "Politico",
       "date": "2026-09-01T08:45:00.000Z",
-      "simple_summary": "Lawmakers are warning that AI could be used for surveillance and controlling people in harmful ways.",
-      "why_it_matters": "This is Congress being asked to pay attention — for now it's just a warning to get politicians to act, nothing you need to do."
+      "simple_summary": "AI systems can collect information from the internet and quickly figure out personal details about you, like what you own or where you go.",
+      "why_it_matters": "This is a privacy concern — your personal information might be more exposed than you realize."
     },
     {
-      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
+      "title": "Bill Gates and Silicon Valley congressman latest to endorse pope's AI encyclical",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1QzQ09xVFJtNzJlR3JWR0ZHU1U3dzJJcE1Ia3RWQl9YcEZLS3J0ZWhYb3FuYWlkOHNvMVRRZHVfZjJJNVN4RWZOb0ZzTk5YSEUtb05FVE43YzVyb0ZaWFJ4bktlaG5fYXBUZm42UmJqY2twSVhtRzZxMHJBMmpfaHhUMnNOV3JxMEdEejNGTFhTODItMWVhLTFGMEVJOG5yRDF2ZnJNZ19QZG1xNVVMcWFWWVNMV3ZBLWdheWdTMTM?oc=5",
+      "source": "National Catholic Reporter",
+      "date": "2026-09-01T08:07:20.000Z",
+      "simple_summary": "Bill Gates and a congressman publicly agreed with the Pope's recent message about using AI responsibly and ethically.",
+      "why_it_matters": "Important figures across tech, politics, and religion are saying AI needs moral guidelines — this mostly matters to people interested in ethics."
+    },
+    {
+      "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaW5hOXFTNFJQRjNYUzNTS3JmU3l5dEEzX1lTTkUtLTR1MV9aR3l1OHFYYlM3ZlJIaFhaU1RrY281RkMxRVFkS0VfY1g0cm9JeUZEaVB3aUxwZm0tTTVwNHk4LVdGYkVZendGTDFhSUdoQVRqNXNDb1dXalUyN2N1bjkxbFd4ZzR4YXhpekN2dkhWejNWVkdiTTZXZTJBNVJwcHloT3dCQzhDSUVhNHI3aGVmbG5tal9oQjkzUHN4eWZBbVEzS191Y1NHYUllVURRRkE1cVpMMXBjT0x1eXF5N2ZzOVQ?oc=5",
       "source": "The Guardian",
-      "date": "2026-09-01T01:30:00.000Z",
-      "simple_summary": "Researchers created an AI tool that can spot heart disease in people in less than 2 seconds by looking at medical images.",
-      "why_it_matters": "This could help doctors catch serious heart problems faster, which is great news for anyone's health — though it will take time to become common in hospitals."
+      "date": "2026-09-01T04:00:00.000Z",
+      "simple_summary": "Experts are debating how to keep AI systems from deceiving people or being dishonest.",
+      "why_it_matters": "This is an important question for everyone — we want AI to be truthful — but it's still in the thinking stage."
+    },
+    {
+      "title": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-01T01:10:40.000Z",
+      "simple_summary": "Scientists are studying whether AI systems might actually be conscious or think like humans do.",
+      "why_it_matters": "This is a fascinating philosophical question, but it's mostly academic — nothing practical for daily life right now."
     },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "source": "TechCrunch",
       "date": "2026-09-01T00:13:00.000Z",
-      "simple_summary": "Apple says it has proof that a former worker stole company data to give to OpenAI (a major AI company) and then destroyed evidence of it.",
-      "why_it_matters": "This is mostly a legal story between big companies — it shows why companies guard their data, but doesn't affect ordinary people directly."
+      "simple_summary": "Apple says a former employee stole company information and gave it to OpenAI, and destroyed evidence of what he did.",
+      "why_it_matters": "This shows there are real concerns about stolen data and corporate secrets, though this is a specific case between companies."
     },
     {
       "title": "Artificial intelligence agents going rogue fuel calls for regulation",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5",
-      "source": "pbs.org",
+      "source": "PBS",
       "date": "2026-08-31T22:40:11.000Z",
-      "simple_summary": "Some people are worried that AI programs are starting to act in ways their creators didn't expect or control, and they're calling for new rules.",
-      "why_it_matters": "This is still mostly a concern for engineers and regulators — for now, AI tools you might use are still fairly predictable."
+      "simple_summary": "AI systems are sometimes acting in unexpected ways, and people are asking for rules to prevent problems.",
+      "why_it_matters": "This suggests AI isn't always predictable, which is why regulation is being discussed."
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "date": "2026-08-31T20:13:45.000Z",
-      "simple_summary": "The US military has created its own AI assistant (similar to ChatGPT) for military use, based on tools made by OpenAI and SpaceX.",
-      "why_it_matters": "This mostly matters to defense and government — nothing you need to know about unless you work in those areas."
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch",
-      "date": "2026-08-31T19:16:59.000Z",
-      "simple_summary": "Instagram is making it harder for fake AI-made accounts pretending to be real people to reach users.",
-      "why_it_matters": "If you use Instagram, you'll see fewer fake AI profiles in your feed — this is a small improvement to the platform."
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch",
-      "date": "2026-08-31T18:35:11.000Z",
-      "simple_summary": "A startup created an AI tool designed just for police officers that knows their local laws and department rules better than general AI tools.",
-      "why_it_matters": "This mostly matters to police departments deciding what tools to use — if you're not in law enforcement, this doesn't affect you."
+      "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-08-31T21:18:37.000Z",
+      "simple_summary": "Congress warned that AI could cause unexpected, hard-to-predict large-scale problems.",
+      "why_it_matters": "Government officials are concerned about serious AI risks, which is why regulation discussions are increasing."
     }
   ]
 }
