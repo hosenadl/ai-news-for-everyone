@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-01T05:14:13.404Z",
+  "generated_at": "2026-09-01T11:42:11.384Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Building an AI-ready workforce: How San Jac is helping Houston businesses upskill employees",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaS1rYjlDeUlaQ19weURsV2U1YWtpWUZGMndrbUZ4UlZMczlEOGQxWnd5M1Z2V3dVaUdyNU0tSlJuWjJRbFFDR1pHdkI5X3ZHU2RURHB3cXpFem00NV9ZZVVOUjZJWDVUSWM3QVRHUUZrdDA4emxUbHJ6ejJBMUNNamtscXpQNU9tV1JHYWkzSjA0eS1CVzJOQ3dPamtwSUwzY0dHUA?oc=5",
-      "source": "The Business Journals",
-      "date": "2026-09-01T05:00:00.000Z",
-      "simple_summary": "A school in Houston is teaching business employees how to use AI tools in their jobs. It's like a training class to help workers get comfortable with new technology.",
-      "why_it_matters": "If you own a small business, this shows that training programs exist to help your employees learn AI — which could make them more productive."
+      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iYVVrQVJERlpLS3dwTlFPNm9WMHJ2dkdaTUdmWV9FY3piSTlUd0FXQk9YbjBVUlp3dkRlTjMzSXVzbUtSam1hZlhIVGpHSXZFa3ZERUJOY0h3cjZFTkhIRlN3MGptLW9xY0VZZ3p0eHNyNjk1ME8yelZibzfSAYIBQVVfeXFMUFV0TlV5RGgwcmI5QUtlNGlxNE9VZkphSXRIdllpdHdDMTRQQXVxZXhRaVUyX0VOMmZfVjJ6TzdqbENTUm50ODY0QnIxVlFvdlQyXzZFNzlrRExPU1hWZERBYjVNS3F6eUFoWnp6VGttSG1YVVJya01aR0F4X2ltd2ZqUQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-09-01T11:00:01.000Z",
+      "simple_summary": "A company called OneRail is using AI (with help from a tech company called Nvidia) to help stores figure out the fastest way to deliver products to customers.",
+      "why_it_matters": "If you run a small shop that delivers items, better delivery planning tools might help you save time and money — but this is mainly aimed at large retailers for now."
     },
     {
-      "title": "US to press G20 on light-touch AI regulation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXRxV0lxdDBuSkVsZFJjckRuX1pxMHZHVDh2TWVoTXJTX09qblpjY01GS2JSdDhQWlhHU3hBNGxZUHh0ZnNXRTFaTUxwTjFmNTF1a1liTUlwa05IcmNBYnFKRll5ejgyMVJVZ2VQNi1qTE94anpJd2R4SmZYNnVMVzN4NHZMTTkzUVlCaA?oc=5",
-      "source": "Yahoo",
-      "date": "2026-09-01T04:17:00.000Z",
-      "simple_summary": "The US government is asking other major countries to not create too many strict rules for AI. They want countries to regulate AI lightly rather than heavily.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — it won't directly affect how you use AI in your business right now."
+      "title": "US to urge hands-off AI regulation at G-20, official says",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-01T10:39:43.000Z",
+      "simple_summary": "The US government is telling other countries it wants AI companies to police themselves instead of having strict new laws.",
+      "why_it_matters": "This mostly affects big tech companies and politicians — it won't directly change how you use AI today."
     },
     {
-      "title": "Fresno County school districts weigh benefits and risks of AI in classrooms",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhwclN4VHhnX1B1RTVGMjUyWlpTR3MxdG5lNzNtaFE0Q3prVVR4Y0NpNzN6NE0yYmR0Mlp3WlpWcGNqd0hxb3JHYlYwZUFRbDhGM1BIdkhMRXhTblVndll6dUdyOHFIakRDVnVra1NmTDBaTHN6TGlEWUt6UTN3cEVZRi1DOW91ZlhyRjlGWDUzdjRTbW1udW1YbUxDSk1URGhtSEln?oc=5",
-      "source": "kmph.com",
-      "date": "2026-09-01T03:59:15.000Z",
-      "simple_summary": "Schools in Fresno County are thinking about whether to use AI in classrooms. They're trying to figure out what the benefits and problems might be.",
-      "why_it_matters": "If you have school-age grandchildren or run an education business, this shows schools are still deciding how to use AI safely with students."
+      "title": "BLS Expands List of Jobs Threatened by AI to 45 Roles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEljREh4RFRLVk1OcGs4LWh4NTZkSzJ3eElNb1BiXzJFQUZYS056YmdBTHJGV2pEeVdQTnVTTHQ3c3ZSeW5Ga0taU0tjYWRNOXdaN2dnbnhxZzN0bTRUWkpyWEE0OTI3a1JlbFFfY05KT3JOZlEtT3pSWHJ3cnlXcS0xWXJNRU9vMmZ0VkdTZHFpdDdWUzZqREpEOGtkMUZBdk1EUjV2aUpfclFuRXhhMkx0bw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-09-01T10:29:01.000Z",
+      "simple_summary": "The government counted 45 different types of jobs that could be affected by AI in the coming years.",
+      "why_it_matters": "If your job is on that list, it might be worth learning new skills, but many of these changes happen slowly over time."
+    },
+    {
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-01T10:18:47.000Z",
+      "simple_summary": "A top financial official warned that AI could cause problems for the economy, like a recession where businesses struggle and jobs are lost.",
+      "why_it_matters": "This is a warning to watch out for, similar to how economists warn about other economic dangers — stay aware but don't panic."
+    },
+    {
+      "title": "Made in America: How AI is keeping this U.S. factory competitive",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5",
+      "source": "NPR",
+      "date": "2026-09-01T09:00:00.000Z",
+      "simple_summary": "A factory in America is using AI to stay competitive and keep its jobs, rather than losing work to cheaper places.",
+      "why_it_matters": "This shows AI can help small manufacturers work smarter and keep their business alive — a positive example if you run a factory or workshop."
+    },
+    {
+      "title": "‘Wake-up call for Congress’: Lawmakers get a Big Brother warning on AI",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmpjTlEzcUlCYkh1SFJldjFmNV9xa2dnTGJ5MHlBdjlkVm1FX1BJNXRBUG1fZkF5bVRxQ1FzOG5VWU9NcDkwMklocFVvZE9lLWQ4aXF1Z29qdHBfUjNXUTJKcEM5dkg1X0ROYktKX3lCek1BTTI2cXBGRnhKV3kwZHlJUmtKVmZwYk5tenBIWXFocEpzRUlia09SdDVCTVpGMWh1OXBxSlpfUUFjdHpJM0NDSHYtcjhW?oc=5",
+      "source": "Politico",
+      "date": "2026-09-01T08:45:00.000Z",
+      "simple_summary": "Lawmakers are warning that AI could be used for surveillance and controlling people in harmful ways.",
+      "why_it_matters": "This is Congress being asked to pay attention — for now it's just a warning to get politicians to act, nothing you need to do."
+    },
+    {
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-01T01:30:00.000Z",
+      "simple_summary": "Researchers created an AI tool that can spot heart disease in people in less than 2 seconds by looking at medical images.",
+      "why_it_matters": "This could help doctors catch serious heart problems faster, which is great news for anyone's health — though it will take time to become common in hospitals."
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch",
+      "date": "2026-09-01T00:13:00.000Z",
+      "simple_summary": "Apple says it has proof that a former worker stole company data to give to OpenAI (a major AI company) and then destroyed evidence of it.",
+      "why_it_matters": "This is mostly a legal story between big companies — it shows why companies guard their data, but doesn't affect ordinary people directly."
     },
     {
       "title": "Artificial intelligence agents going rogue fuel calls for regulation",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5",
-      "source": "PBS",
+      "source": "pbs.org",
       "date": "2026-08-31T22:40:11.000Z",
-      "simple_summary": "Some AI programs are behaving in unexpected or unwanted ways, and people are calling for new rules to control them. It's like a tool that's doing things the owner didn't intend.",
-      "why_it_matters": "This mostly affects tech companies and engineers right now — there's no immediate action needed for ordinary people."
-    },
-    {
-      "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-08-31T21:18:37.000Z",
-      "simple_summary": "A congressional committee is warning that AI could cause a major, unexpected problem for society. Think of it like a car with brakes that might fail suddenly.",
-      "why_it_matters": "This is mainly a warning for lawmakers and investors — it doesn't mean AI is dangerous for you to use in your daily business today."
+      "simple_summary": "Some people are worried that AI programs are starting to act in ways their creators didn't expect or control, and they're calling for new rules.",
+      "why_it_matters": "This is still mostly a concern for engineers and regulators — for now, AI tools you might use are still fairly predictable."
     },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "source": "TechCrunch",
       "date": "2026-08-31T20:13:45.000Z",
-      "simple_summary": "The Pentagon (the US military) now has its own AI chat tools like ChatGPT, including ones made by military contractors. It's similar to how a large company builds custom software for its needs.",
-      "why_it_matters": "This mostly matters to government and defense industry workers — it's not relevant to ordinary small business owners."
+      "simple_summary": "The US military has created its own AI assistant (similar to ChatGPT) for military use, based on tools made by OpenAI and SpaceX.",
+      "why_it_matters": "This mostly matters to defense and government — nothing you need to know about unless you work in those areas."
     },
     {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "source": "TechCrunch",
       "date": "2026-08-31T19:16:59.000Z",
-      "simple_summary": "Instagram is making AI profiles that aren't clearly labeled as AI have less visibility to users. The app wants people to know when they're talking to a computer, not a real person.",
-      "why_it_matters": "If you use Instagram for business or personal reasons, this is good news — you'll see fewer fake AI accounts pretending to be real people."
+      "simple_summary": "Instagram is making it harder for fake AI-made accounts pretending to be real people to reach users.",
+      "why_it_matters": "If you use Instagram, you'll see fewer fake AI profiles in your feed — this is a small improvement to the platform."
     },
     {
       "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
       "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
       "source": "TechCrunch",
       "date": "2026-08-31T18:35:11.000Z",
-      "simple_summary": "A new company called Blue Voice is building AI software designed specifically for police officers, trained on local laws and department rules. It's like a very specialized AI assistant instead of a general one.",
-      "why_it_matters": "Unless you work in law enforcement, this doesn't affect you — it's a specialized tool for police use only."
-    },
-    {
-      "title": "Your boss, tech companies and police can read your chatbot conversations",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS0wSEdXV0hPWWNNMC1WbUxMNlM3aGFRc1NYNGRHZFpGdTFxaTVXVXdXMFhBQUNWTXJLMUtKb0huNlJQMHRMMWpITWxqNDlZYm9manVCV0l0ZUZ4aVdhYUZJUEJSREZsZ29GdGE5NnNxZnZWN0tZckpyNGZGWU5NQkl4bzY2TTZySDJfR3FvNnZ1NVI3QzJDaEc1Ri1LSDlVdllhOHIzYkJRUjlB?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-08-31T17:00:00.000Z",
-      "simple_summary": "When you type into a chatbot, your boss, tech companies, and sometimes police can read what you wrote. Your conversations aren't as private as you might think.",
-      "why_it_matters": "Be careful about what personal or sensitive business information you share in free chatbot tools — treat them like they're being read by others."
-    },
-    {
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
-      "source": "bbc.com",
-      "date": "2026-08-31T16:49:11.000Z",
-      "simple_summary": "A top official from the Bank of England warned other countries that AI could hurt the world's economy and cause a downturn. It's a warning that AI could cause serious economic problems.",
-      "why_it_matters": "This is mainly economic analysis for policymakers — it doesn't mean you should stop using AI tools in your business right now."
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch",
-      "date": "2026-08-31T16:00:00.000Z",
-      "simple_summary": "A company that uses AI to search through huge amounts of video files very quickly is now worth $250 million. It's become a valuable business because it solves a real problem.",
-      "why_it_matters": "This mostly matters to investors — it shows that specialized AI tools can become profitable, but it won't change how you work today."
-    },
-    {
-      "title": "Debian won’t ban AI code from its Linux distribution",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "date": "2026-08-31T15:34:58.000Z",
-      "simple_summary": "The Debian project (a type of free computer software) decided to allow programmers to use AI tools to help them write code and documentation. They say responsible AI use can help developers work better.",
-      "why_it_matters": "This mostly matters to software engineers — it won't affect you unless you work in computer programming."
+      "simple_summary": "A startup created an AI tool designed just for police officers that knows their local laws and department rules better than general AI tools.",
+      "why_it_matters": "This mostly matters to police departments deciding what tools to use — if you're not in law enforcement, this doesn't affect you."
     }
   ]
 }
