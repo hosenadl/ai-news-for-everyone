@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-01T21:04:13.640Z",
+  "generated_at": "2026-09-02T04:39:08.632Z",
   "model": "claude-haiku-4-5",
   "stories": [
-    {
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge",
-      "date": "2026-09-01T19:02:54.000Z",
-      "simple_summary": "There's a disagreement about who caused a major security break-in at a company called Hugging Face. Some people blame OpenAI, while others blame AI systems that went out of control, which changes who gets blamed for the problem.",
-      "why_it_matters": "This mostly matters to tech companies and investors — nothing you need to act on. It shows experts are still figuring out how to handle AI security safely."
-    },
     {
       "title": "Who is John Ternus, Apple’s new CEO?",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU?oc=5",
       "source": "The Washington Post",
-      "date": "2026-09-01T18:21:27.000Z",
-      "simple_summary": "Apple has a new CEO named John Ternus.",
-      "why_it_matters": "This is mostly news for Apple watchers and investors — it doesn't affect how you use or pay for Apple products."
+      "date": "2026-09-02T01:08:26.000Z",
+      "simple_summary": "Apple announced a new leader named John Ternus to run the company. The article tells you who this person is and what he's done before.",
+      "why_it_matters": "This mostly matters to Apple investors and employees — ordinary customers won't notice a big change right away."
     },
     {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "title": "Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-02T00:39:09.000Z",
+      "simple_summary": "Bill Simmons, a podcast host, keeps trying to use AI tools on his show, and his co-hosts are frustrated about it.",
+      "why_it_matters": "This doesn't really affect you unless you listen to his podcast — it's about one person's work habits."
+    },
+    {
+      "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkFYeU9ubkdsOXJsR0hDVU1laF9yTDEyOVVkOTlFajdJeDNRZGl4VjBZUHNtczZzSTh5cF9HdFhCb09kUW1FYllRTE5odnMwWEZmNU1zRTFBeU1qNmF3cXZDXzV2aGZoRVdOOFlLX1NkQUtYMDJCeklOUGRTZFdKTnN1ZWN3ZGYtdkVIcS1SX294Yi12Qml5ck9XOGotQ01vcm9YdlQ3VHl5RENzVURCQUN5cjRsV1pURDRFc9IBvAFBVV95cUxQUGlmcHZCcnRnRXZjdzlkTnVnX202RV9FckgzN3BvR1ZyeEoxM1Q1OFBzMVUxcXljNV9PTmRSUllfNTBPVGxucEZjaldrZEhVWmNQX3ZKTFpabl9YMXRkWG5wMVBYa3J6RmZQVU4wVEx0YnBDVWd3bWV5eGlnbXp3THBhdDExTGdXd3ZuUXJuZEk0bHhuLS1mNzAzQmRxYzNGcDd6UWhuNE5IcjBHNm9mb1drUFZjTjZmQjU3Sg?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-09-02T00:30:05.000Z",
+      "simple_summary": "A Chinese company that makes AI computer chips is trying to go public and raise $900 million in money from investors.",
+      "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on."
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "source": "The Verge",
-      "date": "2026-09-01T18:19:26.000Z",
-      "simple_summary": "Apple says OpenAI is deleting important evidence in a lawsuit between them. Apple is asking a court to hurry up and get access to the information before it disappears.",
-      "why_it_matters": "This is a legal battle between two big companies — nothing that affects you directly right now."
+      "date": "2026-09-01T22:50:29.000Z",
+      "simple_summary": "Google is trying to pay Hollywood studios big money so it can teach its AI by studying their movies and TV shows.",
+      "why_it_matters": "This could affect how movies and TV shows are made in the future, but the deal hasn't happened yet."
     },
     {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-01T22:50:00.000Z",
+      "simple_summary": "A university in Australia replaced some in-person psychology classes with an AI chatbot — a computer program that answers questions like a tutor.",
+      "why_it_matters": "If you have kids in college, this shows that some schools are experimenting with AI to teach subjects, which could change what education looks like."
+    },
+    {
+      "title": "G20 Innovation Ministerial talks spotlight AI, data centers",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXROWXA4NkpoTTVKSUEwLTF2YVdudUFSNml6UHF6QThGWHRVSFY4WDlaNi1KdEVYOEhZc0c2N3k0am9INjNyTU52NGhrSVRjM3JNSHM4NE43OFA0NzQ1QjRVWHdmNU5jZ1psYWNOLU51cXZTREJjbFhJcWFyN1RSeFp3eTIxOWstbC1RcjdBSW05dHFEVmfSAZsBQVVfeXFMT2x5QUxCMG5EeVlKOHlnSm9PSlNXblI4RHJPcGhSX1dkVGY1YWlXbGNJYUhJRU9LdXVVcDdSZzJpdGsxWDJPNmdiUEJETGg3dHR4T1hOVktfX1lvWnMybDVfNXFaSDZ6bE9nVl9xQWtLbTRtUWoxNWJxRHpLUjczQWNZTkR3UkU0TGtEUkRCUzluX0RoZEVtTFJLRGc?oc=5",
+      "source": "ABC11 News",
+      "date": "2026-09-01T22:35:13.000Z",
+      "simple_summary": "Government leaders from the G20 countries met and talked about AI and the power plants needed to run it.",
+      "why_it_matters": "This shows governments are starting to pay attention to AI, but no specific decisions were announced yet."
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "source": "TechCrunch",
-      "date": "2026-09-01T17:35:37.000Z",
-      "simple_summary": "Google made a new tool called Google Pics that creates and edits pictures using AI instead of making you do all the design work manually.",
-      "why_it_matters": "If your small business uses Google's tools and makes posters or graphics, this could save you time — but it's mostly useful for people who already use Google Workspace (their business software package)."
+      "date": "2026-09-01T22:08:24.000Z",
+      "simple_summary": "A startup company that helps train AI became very valuable very quickly — investors think it's worth $3.2 billion after only five months.",
+      "why_it_matters": "This mostly matters to investors — it shows people are betting a lot of money on AI businesses right now."
     },
     {
-      "title": "St. Cloud schools to employ new artificial intelligence tool for teachers",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZSUnU0OE8wWXlKOVgzdW1sSkNid3VGYTZHWS1VMGZUZFl0a25kQkZEbl91NGJUY2ZYUC0zcGtrLW5tSHg3ajhzX1BicklaWjZTOFhuTGw2WWlCWTNNajMxRE8yZ0wxRl9lRzdaQnp1TEw5cW9uYUd1ODFmSGdCd08zWGVfQWZvVnVBdFd3NVFRQzB4VXl0dU82NjdxUG92S1Nnb2dtQVNmMG5nWncxRmg5OA?oc=5",
-      "source": "MPR News",
-      "date": "2026-09-01T17:21:09.000Z",
-      "simple_summary": "A school district is trying out an AI tool to help teachers.",
-      "why_it_matters": "This could eventually help teachers work faster and focus more on kids, but it's too early to know if it actually works well."
-    },
-    {
-      "title": "If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1ZNNDl3M0pkZWk1RWVWdzlGakVoeEI1UGlFWnZLRUVHNjJua193Uk9NTlpINGNmVExUZ3ZvTUJDcWJvbk41OE5SZzRnN00xRi0wSUw5TXNaODJoT0JyU3V4TFE0MUoxYzZTbmt3NXlLWTZVTGVVNm43MmtiQUExTEEwa3BERFI3QUw3bWlPSkdQNlIzenpWSEJiYkU?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-09-01T17:20:01.000Z",
-      "simple_summary": "An investor is recommending two AI company stocks they want to buy if the stock market crashes.",
-      "why_it_matters": "This is investment advice for stock traders — nothing you need to act on."
-    },
-    {
-      "title": "‘It’s all about the tension’: Upcoming artificial intelligence summit to explore uncomfortable issues",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
-      "source": "Pittsburgh Post-Gazette",
-      "date": "2026-09-01T17:00:30.000Z",
-      "simple_summary": "People are planning a meeting to discuss difficult questions about AI and how it affects society.",
-      "why_it_matters": "This is mostly about experts and researchers talking to each other — nothing you need to act on right now."
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch",
-      "date": "2026-09-01T17:00:00.000Z",
-      "simple_summary": "OpenAI's ChatGPT Health tool can now read patient medical records directly from hospital systems, which makes it easier for doctors to use.",
-      "why_it_matters": "If you see a doctor at a hospital using this tool, it could speed up how they access your information — though hospitals are moving carefully with this because medical data is private and important."
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "source": "TechCrunch",
-      "date": "2026-09-01T16:31:04.000Z",
-      "simple_summary": "A new startup is using AI to warn computer systems before they break or stop working, so problems can be fixed before they happen.",
-      "why_it_matters": "This mostly matters to big companies with lots of computers — if your small business uses basic computers, this doesn't affect you."
-    },
-    {
-      "title": "AI token prices are hitting new record lows",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQWFjYmw4NHEyTFlGWjE4UTBmdFhISmIwMlk5N0d3bGNzRmdnUUFRQzFpQ2hScWdPbUljZDZPV2xrdWhBRTRxU0JxU09qRFJSZVZtNG14OG5qZVA1X2FwWUZiUTdQa19W0gFuQVVfeXFMUEpuTzRMcmZkYXhWTVp0X1V1ZUQ5RWN2UXZjVVdqaWxDZFVLMndNRXUyUWpCNFVtQWhZYXU4ZEJMRjRpS1JCTjVHQ3hqOUpCMm1kUjFYN2RTTVo4NkJHQlMtaHREdkNTU0JweFJHNEE?oc=5",
-      "source": "cnbc.com",
-      "date": "2026-09-01T16:08:31.000Z",
-      "simple_summary": "The price of AI-related cryptocurrencies or digital tokens has fallen to new low prices.",
-      "why_it_matters": "This matters only to people who bought these digital currencies as an investment — nothing you need to act on."
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
       "source": "The Verge",
-      "date": "2026-09-01T16:00:52.000Z",
-      "simple_summary": "John Deere (the farm equipment company) made an AI assistant called 'JD' that helps farmers by answering questions about when to plant, how to use their machines, and how to save money on fuel.",
-      "why_it_matters": "If you're a farmer, this tool could help you make smarter decisions about your equipment and crops — it learns from your own farm's information."
+      "date": "2026-09-01T22:01:36.000Z",
+      "simple_summary": "A company called Anthropic made its AI cheaper to use, especially for complex tasks, and says the new version works better too.",
+      "why_it_matters": "If your small business uses AI tools, cheaper pricing means it costs less to get help from these programs."
     },
     {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "title": "Federal judge rules that AI-generated child sex abuse material is protected under the First Amendment",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdEVFMzFwbjliVkFDQTJIcV84eXV3WW9mSTgtU3RSUkc3amtjd25Nam9lU3EtWWRPLUdjTFNmVDFLbkJOcEE5dWJLVWVZelVrT2lEOWM4Y3hDRW1ZYnV6LUVXQm5PbUNMVHVzb1BYaWt4ejI2S3l3YlJHT0lpY3ZpZ2pZZjluQ3ExSTlSLVRERnYzdVptTDJZZTRBajVOWTRXSjJJM2dIV3VsR0dxUC1fVzRZOXpoUEN5TmdzbHIwZ2UyWk1LbHphMzVfS2VLWU5T?oc=5",
+      "source": "Live 5 News",
+      "date": "2026-09-01T21:07:00.000Z",
+      "simple_summary": "A federal judge ruled that AI-created illegal content is protected as free speech under the First Amendment.",
+      "why_it_matters": "This is a serious legal issue about what rules should apply to AI — it will likely be debated and may change."
+    },
+    {
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch",
+      "date": "2026-09-01T21:06:24.000Z",
+      "simple_summary": "OpenAI is about to release a new AI model called Astra that is very good at finding security problems in computer systems.",
+      "why_it_matters": "This could help businesses find and fix their computer security weak spots, but it could also be misused by hackers."
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch",
+      "date": "2026-09-01T20:53:05.000Z",
+      "simple_summary": "Google updated its Android phone software to reduce motion sickness, help people with disabilities, and add some features using its AI.",
+      "why_it_matters": "If you use an Android phone, you might get features that work better for your needs, especially if you get motion sickness easily."
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "source": "The Verge",
-      "date": "2026-09-01T16:00:00.000Z",
-      "simple_summary": "Google made a tool called Google Pics that lets you create professional-looking pictures and designs by describing what you want instead of manually building them.",
-      "why_it_matters": "If you run a small business and use Google's workplace software, this could save you time making flyers or social media graphics without hiring a designer."
+      "date": "2026-09-01T20:45:49.000Z",
+      "simple_summary": "OpenAI slowed down its work on a new AI model called Astra because it was worried about safety after another unreleased AI model caused problems.",
+      "why_it_matters": "This shows that AI companies are thinking more carefully about safety risks before they release new tools — a good sign for everyone."
     }
   ]
 }
