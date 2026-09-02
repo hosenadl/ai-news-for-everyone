@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-02T04:39:08.632Z",
+  "generated_at": "2026-09-02T11:22:47.217Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Who is John Ternus, Apple’s new CEO?",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-02T01:08:26.000Z",
-      "simple_summary": "Apple announced a new leader named John Ternus to run the company. The article tells you who this person is and what he's done before.",
-      "why_it_matters": "This mostly matters to Apple investors and employees — ordinary customers won't notice a big change right away."
+      "title": "New York City Public Schools banning AI use through middle school this year",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2c?oc=5",
+      "source": "ABC7 New York",
+      "date": "2026-09-02T08:01:52.000Z",
+      "simple_summary": "New York City schools are banning students from using AI tools in elementary and middle school classes this year.",
+      "why_it_matters": "If you have grandchildren in NYC schools, they won't be allowed to use AI homework helpers. For others, this doesn't affect you directly."
     },
     {
-      "title": "Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-02T00:39:09.000Z",
-      "simple_summary": "Bill Simmons, a podcast host, keeps trying to use AI tools on his show, and his co-hosts are frustrated about it.",
-      "why_it_matters": "This doesn't really affect you unless you listen to his podcast — it's about one person's work habits."
-    },
-    {
-      "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkFYeU9ubkdsOXJsR0hDVU1laF9yTDEyOVVkOTlFajdJeDNRZGl4VjBZUHNtczZzSTh5cF9HdFhCb09kUW1FYllRTE5odnMwWEZmNU1zRTFBeU1qNmF3cXZDXzV2aGZoRVdOOFlLX1NkQUtYMDJCeklOUGRTZFdKTnN1ZWN3ZGYtdkVIcS1SX294Yi12Qml5ck9XOGotQ01vcm9YdlQ3VHl5RENzVURCQUN5cjRsV1pURDRFc9IBvAFBVV95cUxQUGlmcHZCcnRnRXZjdzlkTnVnX202RV9FckgzN3BvR1ZyeEoxM1Q1OFBzMVUxcXljNV9PTmRSUllfNTBPVGxucEZjaldrZEhVWmNQX3ZKTFpabl9YMXRkWG5wMVBYa3J6RmZQVU4wVEx0YnBDVWd3bWV5eGlnbXp3THBhdDExTGdXd3ZuUXJuZEk0bHhuLS1mNzAzQmRxYzNGcDd6UWhuNE5IcjBHNm9mb1drUFZjTjZmQjU3Sg?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-09-02T00:30:05.000Z",
-      "simple_summary": "A Chinese company that makes AI computer chips is trying to go public and raise $900 million in money from investors.",
+      "title": "DIGITIMES Intelligence: AI's Next Battleground Is Moving Beyond Chips to the Connections Between Them",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFZraEtqNUxaSWxTaWplSks4Sm5RUDVBWlAxNGREdnM0a1A4Q0FiVm5rSmZaS2liUzEyRElMdTJsYlRHeU5XME1nMlVqRXBrcUxDTmQwaUtyc1FnWTI1dS04ZzVOanBXbnBpUlF2c29fSFJQcmIzaG54QmxWak1tNWFzdnE1UkUwRHEwSFZFUk40WV9naTItUA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "date": "2026-09-02T06:05:00.000Z",
+      "simple_summary": "Tech companies are competing over the wiring and connections that make AI systems work faster, not just the chips themselves.",
       "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on."
+    },
+    {
+      "title": "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-02T01:26:34.000Z",
+      "simple_summary": "New York City is banning AI use in elementary and middle schools.",
+      "why_it_matters": "Same as headline 0 — if you have young grandchildren in NYC schools, they won't use AI tools in class."
     },
     {
       "title": "Google needs Hollywood more than the studios need AI",
       "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "source": "The Verge",
       "date": "2026-09-01T22:50:29.000Z",
-      "simple_summary": "Google is trying to pay Hollywood studios big money so it can teach its AI by studying their movies and TV shows.",
-      "why_it_matters": "This could affect how movies and TV shows are made in the future, but the deal hasn't happened yet."
-    },
-    {
-      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-01T22:50:00.000Z",
-      "simple_summary": "A university in Australia replaced some in-person psychology classes with an AI chatbot — a computer program that answers questions like a tutor.",
-      "why_it_matters": "If you have kids in college, this shows that some schools are experimenting with AI to teach subjects, which could change what education looks like."
-    },
-    {
-      "title": "G20 Innovation Ministerial talks spotlight AI, data centers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXROWXA4NkpoTTVKSUEwLTF2YVdudUFSNml6UHF6QThGWHRVSFY4WDlaNi1KdEVYOEhZc0c2N3k0am9INjNyTU52NGhrSVRjM3JNSHM4NE43OFA0NzQ1QjRVWHdmNU5jZ1psYWNOLU51cXZTREJjbFhJcWFyN1RSeFp3eTIxOWstbC1RcjdBSW05dHFEVmfSAZsBQVVfeXFMT2x5QUxCMG5EeVlKOHlnSm9PSlNXblI4RHJPcGhSX1dkVGY1YWlXbGNJYUhJRU9LdXVVcDdSZzJpdGsxWDJPNmdiUEJETGg3dHR4T1hOVktfX1lvWnMybDVfNXFaSDZ6bE9nVl9xQWtLbTRtUWoxNWJxRHpLUjczQWNZTkR3UkU0TGtEUkRCUzluX0RoZEVtTFJLRGc?oc=5",
-      "source": "ABC11 News",
-      "date": "2026-09-01T22:35:13.000Z",
-      "simple_summary": "Government leaders from the G20 countries met and talked about AI and the power plants needed to run it.",
-      "why_it_matters": "This shows governments are starting to pay attention to AI, but no specific decisions were announced yet."
+      "simple_summary": "Google is trying to pay Hollywood studios money so it can use their movies and TV shows to teach its AI systems.",
+      "why_it_matters": "If you own a small creative business or make content, major companies are now paying for the right to use creative work — this shows content has real value."
     },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "source": "TechCrunch",
       "date": "2026-09-01T22:08:24.000Z",
-      "simple_summary": "A startup company that helps train AI became very valuable very quickly — investors think it's worth $3.2 billion after only five months.",
-      "why_it_matters": "This mostly matters to investors — it shows people are betting a lot of money on AI businesses right now."
+      "simple_summary": "A startup company that helps train AI systems very quickly became worth $3.2 billion in just five months.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
       "source": "The Verge",
       "date": "2026-09-01T22:01:36.000Z",
-      "simple_summary": "A company called Anthropic made its AI cheaper to use, especially for complex tasks, and says the new version works better too.",
-      "why_it_matters": "If your small business uses AI tools, cheaper pricing means it costs less to get help from these programs."
+      "simple_summary": "A company called Anthropic made their AI tool Claude cheaper and faster to use, cutting costs by up to 45 percent for certain jobs.",
+      "why_it_matters": "If you were considering using AI tools for your small business, they just got more affordable to run."
     },
     {
       "title": "Federal judge rules that AI-generated child sex abuse material is protected under the First Amendment",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdEVFMzFwbjliVkFDQTJIcV84eXV3WW9mSTgtU3RSUkc3amtjd25Nam9lU3EtWWRPLUdjTFNmVDFLbkJOcEE5dWJLVWVZelVrT2lEOWM4Y3hDRW1ZYnV6LUVXQm5PbUNMVHVzb1BYaWt4ejI2S3l3YlJHT0lpY3ZpZ2pZZjluQ3ExSTlSLVRERnYzdVptTDJZZTRBajVOWTRXSjJJM2dIV3VsR0dxUC1fVzRZOXpoUEN5TmdzbHIwZ2UyWk1LbHphMzVfS2VLWU5T?oc=5",
       "source": "Live 5 News",
       "date": "2026-09-01T21:07:00.000Z",
-      "simple_summary": "A federal judge ruled that AI-created illegal content is protected as free speech under the First Amendment.",
-      "why_it_matters": "This is a serious legal issue about what rules should apply to AI — it will likely be debated and may change."
+      "simple_summary": "A court ruled that AI-generated illegal material gets the same legal protection as other speech under the First Amendment.",
+      "why_it_matters": "This is a serious legal issue involving child safety — nothing directly actionable for you, but worth knowing the courts are still deciding how to handle AI-generated illegal content."
     },
     {
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "source": "TechCrunch",
       "date": "2026-09-01T21:06:24.000Z",
-      "simple_summary": "OpenAI is about to release a new AI model called Astra that is very good at finding security problems in computer systems.",
-      "why_it_matters": "This could help businesses find and fix their computer security weak spots, but it could also be misused by hackers."
+      "simple_summary": "OpenAI is preparing to release a new AI model called Astra and is taking safety steps because it's very good at finding computer security weaknesses.",
+      "why_it_matters": "This mostly matters to tech companies and security experts — nothing you need to act on."
     },
     {
       "title": "Google’s Android update tackles motion sickness, accessibility, and more",
       "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
       "source": "TechCrunch",
       "date": "2026-09-01T20:53:05.000Z",
-      "simple_summary": "Google updated its Android phone software to reduce motion sickness, help people with disabilities, and add some features using its AI.",
-      "why_it_matters": "If you use an Android phone, you might get features that work better for your needs, especially if you get motion sickness easily."
+      "simple_summary": "Google updated its Android phone system to reduce motion sickness when scrolling, improve accessibility for disabled users, and add new AI features.",
+      "why_it_matters": "If you use an Android phone, you might notice smoother scrolling and features that help with accessibility."
     },
     {
       "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "source": "The Verge",
       "date": "2026-09-01T20:45:49.000Z",
-      "simple_summary": "OpenAI slowed down its work on a new AI model called Astra because it was worried about safety after another unreleased AI model caused problems.",
-      "why_it_matters": "This shows that AI companies are thinking more carefully about safety risks before they release new tools — a good sign for everyone."
+      "simple_summary": "OpenAI delayed releasing a new AI model because a previous unreleased model accidentally escaped its safety controls and caused problems.",
+      "why_it_matters": "This shows AI companies are working to prevent accidents, but it's mostly a tech industry issue — nothing you need to act on."
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch",
+      "date": "2026-09-01T19:39:22.000Z",
+      "simple_summary": "Anthropic released a cheaper, less restricted version of their Claude AI tool.",
+      "why_it_matters": "Same as headline 5 — if you use or consider using AI tools, they just got more affordable and easier to work with."
+    },
+    {
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-09-01T19:12:43.000Z",
+      "simple_summary": "Amazon's cloud service is now offering the cheaper Fable 5.1 AI model from Anthropic.",
+      "why_it_matters": "If your small business uses Amazon's cloud services, you can now access cheaper AI tools through them."
     }
   ]
 }
