@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-03T11:18:58.224Z",
+  "generated_at": "2026-09-03T21:04:39.932Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVOSVYwT2M0amI4ZWJ6dkxDaEZ6LTN3dkFMczlCd1h3aXNjR3FZS2RybTNFS3VkRmo5VTN3M0t4NHJhOS1QYmlVaXNicUY5WHRwWHlMZTh0WkJXek5OWVdSeEFPeC1FV09veXo1OEt6QnhJQkpScHI2NzRHRkp5UmRIaTA0dFdNUDFLM0dFei0?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-03T09:02:00.000Z",
-      "simple_summary": "A woman says that an AI chatbot created by Elon Musk used her photos to make illegal images without permission. This is a serious allegation involving child safety and misuse of AI.",
-      "why_it_matters": "If true, this shows how AI tools can be misused to harm people — this matters to everyone concerned about protecting children and personal privacy."
-    },
-    {
-      "title": "US tech chiefs Huang, Musk warn against AI curbs amid race with China",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXNFSGNWeDRfWktNdndsOTZuX3puSDdTZkQ3dHU5bzR2XzEybzNsbXJnakV0alNyeXRwMlhxUWNrNWdGLWNpWnNfM2ZjVTF4UnFtR1YzcDJBdnBFOF9SdE1YRUpnRk9OWnd3S2VEVkU4TURuWkJacFRnUndyeWUteVc4TlI1eXdqSGpaQmYxT2pFUXZKYi1JRFpob25OcF9WaUJFNjhIQ1JFSnVYQmFqUjBNbXVBSkdpQi0yVlZ3UWNlVS1Sa09NZzg1NjVUY0EyTUHSAdIBQVVfeXFMTmRJUEVXejlBVWdLbmx3SWozdGE2V3hKNkxEOUpIZ01KVVNRdlFWbGhJWmxLdjhaRmNjVS1CVlVCS3Zxb2NyaTdHdl9nVzhMLVlJZ0hfWFBxczg0MzlmT2NYMy01VXlRNk85OE1GdjhnN0FJa3BobG9URUVTVW8zMC1zaEhTYk9QRjFlWjc2cnZadHJyU250N3g4Q0FFWm8xWnhTWlI0TXJDc2tIbEhQQWY3MTVRZDd2MTRTdkJhN18xd1BOUGhnS1c2ODVtYTRwN01R?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-09-03T08:00:26.000Z",
-      "simple_summary": "Tech leaders are telling the US government not to create strict rules about AI because they're worried America will fall behind China in the AI race. They want to move fast without heavy restrictions.",
-      "why_it_matters": "This mostly matters to investors and government policymakers — it won't directly change how you use AI today."
-    },
-    {
-      "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWRjcFlvZDdWbUhQRUUwanZRZGVTY0d6dUJWVlJoR1U4NWhMX0kwUUJuTEI1MlZwUEZTbW8zT1ZhSFhmOXZUTjZGckpSVHNYNXBXNjhIcVN5VFNhZXdQMW1zbXl0V2RDV1dCS0ZNRmlsWTVpbUkwMEgzRzZZV1gyQmNXTEphT01laGJDNVVJd2k3R3RQbXNySENndlkxTWRLWk9GTUMxYTdtdnV4REExU0lXX2o?oc=5",
-      "source": "pymnts.com",
-      "date": "2026-09-03T00:08:37.000Z",
-      "simple_summary": "Most banks take six years to see money savings from AI, but one bank called Discovery saw benefits much faster. This is about how long it takes AI investments to pay off for financial companies.",
-      "why_it_matters": "If you own a small business, this shows that AI can save money — but be patient; it takes time before you see results."
-    },
-    {
-      "title": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5",
-      "source": "NYC.gov",
-      "date": "2026-09-02T23:50:46.000Z",
-      "simple_summary": "New York City's schools announced they will be very careful about using AI chatbots in classrooms and will limit how much they use them. This is the broadest AI restriction in US schools so far.",
-      "why_it_matters": "If you have school-age children in New York, this means less AI tool use in their classes until the city figures out the best way to do it safely."
-    },
-    {
-      "title": "China is rooting for America's AI data center backlash | Opinion",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjROWFJ4UWtFcDFlaTg3X2FpbGVnN3pYekV5NXBCR1Y5Uk5URVcwbXhaaWNlVzdTNEtKNGVrTm1DNXo2WkFrNHdJZWR4QjZKUFZaVG90SEZBZ0Z6NGVVbDk0MFlDUmtrTzNSY29PTnRTUnEyVWxHTkRuUlFIN3p0VmplRndCUEhxc1B1NkstSFR0WUhwLS1OMjJ6ZWZSMWhCOGRtVEZlcw?oc=5",
-      "source": "USA Today",
-      "date": "2026-09-02T23:24:00.000Z",
-      "simple_summary": "An opinion piece suggests that China would benefit if America makes it harder for companies to build AI data centers. This is about political strategy and AI competition.",
-      "why_it_matters": "This mostly matters to investors and government officials thinking about tech policy — nothing you need to worry about personally."
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "source": "TechCrunch",
-      "date": "2026-09-02T23:01:00.000Z",
-      "simple_summary": "A conference stage is planned for TechCrunch Disrupt 2026 where startup founders and investors will share practical advice on growing new tech companies. It's a networking and learning event.",
-      "why_it_matters": "This only matters if you're starting a tech company or investing in one — nothing relevant for most small-business owners."
+      "date": "2026-09-03T18:01:45.000Z",
+      "simple_summary": "OpenAI released a new AI tool called Astra that can use computers and web browsers on your behalf, doing tasks for you automatically.",
+      "why_it_matters": "This mostly matters to tech companies and software engineers right now — nothing you need to act on yet."
     },
     {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T22:44:56.000Z",
-      "simple_summary": "A big security software company called Palo Alto Networks bought a smaller AI company called Console for $500 million. This is a business acquisition in the tech industry.",
-      "why_it_matters": "This mostly matters to investors — it doesn't affect how you use AI or run your business."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T22:24:09.000Z",
-      "simple_summary": "TechCrunch Disrupt 2026 is adding a stage to showcase how AI works in the real physical world, including robots and other practical applications. It's about demonstrating AI you can actually see and touch.",
-      "why_it_matters": "This is mainly for tech industry professionals and enthusiasts — nothing you need to act on unless you attend the conference."
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T20:19:14.000Z",
-      "simple_summary": "OpenAI made a new AI model that thinks in a different way than most others, and some AI safety experts are concerned about this new approach. They worry it could be harder to understand how the AI reaches its conclusions.",
-      "why_it_matters": "This is mainly a concern for AI researchers and engineers — it doesn't immediately affect how you'd use AI in daily life."
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "source": "The Verge",
-      "date": "2026-09-02T20:11:40.000Z",
-      "simple_summary": "Google released a new AI tool called Gemini 3.8 Flash that works harder on difficult questions by thinking through more steps. It's slightly improved from the previous version.",
-      "why_it_matters": "If you use Google's AI tools, this might give you slightly better answers — but it's a small update, not a game-changer."
+      "date": "2026-09-03T18:00:00.000Z",
+      "simple_summary": "OpenAI released a new super-powerful AI model called GPT-6 Astra that can handle complex jobs like cybersecurity, coding, and science work.",
+      "why_it_matters": "This is mainly important for engineers and IT professionals — most ordinary people won't interact with it directly."
     },
     {
-      "title": "Americans love AI. They don’t want the data centers that power it.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTjZySTFoVC1uUFQ2YngxUy1zUlEtMkNMMl9HNzd1b2FvLVh1QVpqNnp6SnZHMzNrS3BjTDE5bWV3enJZNi15UHV1Y0xtdXhhRldqRURNMDBPdnlfYnpOX28zeEJ1SlRRTXZqMnZ3TE51ZUpyXzdkeVJzOA?oc=5",
-      "source": "Politico",
-      "date": "2026-09-02T19:48:00.000Z",
-      "simple_summary": "Americans say they like using AI, but they don't want large power-hungry data centers built in their neighborhoods because of noise, heat, and electricity concerns.",
-      "why_it_matters": "If you live near where a data center might be built, this could affect your community — but it's mainly an issue for people in tech hub areas."
+      "title": "AI suggests new physics experiments that could outperform human-designed setups",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUVR6Q1RGSzhJYUNBRTN5ZTlzdWFVdHZyYWppVUhMVEF5eEFTcDRuQ1FSaGxQZEdSNThQYlI3bDVVZUI3UUJ2NUYyZzVGdDlra0phN0drbVVzRW5PeUlra3V1eXN1QXZSckhCc3RXaXVDNXJNOUJJNw?oc=5",
+      "source": "Phys.org",
+      "date": "2026-09-03T16:20:06.000Z",
+      "simple_summary": "Scientists used AI to suggest new ideas for physics experiments that could work better than experiments humans designed themselves.",
+      "why_it_matters": "This mostly matters to scientists and universities — nothing you need to worry about in daily life."
     },
     {
-      "title": "JD Vance talks end times, Antichrist and AI on faith podcast",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXJwb19YZEZ1UGJybTRyYUFhai1Zb2lXNzNYMV9UOTNnT2dDSWVKSFNnTkZqd2RHWFFlLXhTU2ZUZENkWlI1UEp5TEJ5UlZTbENQYlRta3oxYktMTHVoSHZDYmVUTjVyZnNMWmZFU3NpWWZzaTRnNjRaN1dmaEJUTEwzVEVNUW5hN3NsTmhGNUhZSUg4X1ZRTUMwZ05GTFRpeDZuc0pYMmVvZHkxRDdxRQ?oc=5",
-      "source": "NBC News",
-      "date": "2026-09-02T18:29:33.000Z",
-      "simple_summary": "Vice President JD Vance discussed religious and philosophical topics including AI on a faith podcast. This is a discussion about beliefs and technology.",
-      "why_it_matters": "This is mostly political commentary — nothing you need to do or know about unless you're interested in what government leaders think about AI."
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T16:09:01.000Z",
+      "simple_summary": "A company called Ollie is making a new AI assistant for families that learns about your life but promises not to sell your private information to other companies.",
+      "why_it_matters": "If you're worried about privacy with AI assistants, this is worth keeping an eye on, but it's still very new."
+    },
+    {
+      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-09-03T16:07:30.000Z",
+      "simple_summary": "Nvidia, a big computer chip company, is buying Hugging Face, a popular online library of AI tools, for about $13 billion.",
+      "why_it_matters": "This mostly matters to investors and tech companies — it won't directly change how you use AI."
+    },
+    {
+      "title": "Nvidia to buy Hugging Face to buy $12.9bn AI software deal",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUERKbnRyTjVyMVF3cEpneExmQWgwR3Z0WGVZb0xKU2tscll0dmZRMXBmc0FKcWg3N0NvWElDaVJ5a2xUQXRuaDdUN0M1aWREeWtaNmdYRzczUQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-03T16:01:39.000Z",
+      "simple_summary": "Nvidia is purchasing Hugging Face, a major website where programmers share and use AI models, for nearly $13 billion.",
+      "why_it_matters": "This is mostly important to tech investors and engineers — it doesn't affect everyday users."
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "source": "The Verge",
+      "date": "2026-09-03T16:00:00.000Z",
+      "simple_summary": "Nvidia released free software that lets you connect your home computers together to run AI tools privately on your own devices, without sending information to the internet.",
+      "why_it_matters": "If you want to use AI privately at home without sharing data with companies, this could be useful, but it's mainly for people comfortable with computers."
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "source": "The Verge",
+      "date": "2026-09-03T16:00:00.000Z",
+      "simple_summary": "Google added voice assistant features to Gmail, Docs, and Keep so you can talk to these apps instead of typing — like having a helper listen to your requests.",
+      "why_it_matters": "This could make Google's office apps easier to use if you prefer speaking instead of typing, though it's still being rolled out gradually."
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5",
+      "source": "The Verge",
+      "date": "2026-09-03T15:35:14.000Z",
+      "simple_summary": "Several popular AI chatbots (ChatGPT, Grok, and Claude) all stopped working at the same time.",
+      "why_it_matters": "This shows that AI services can have outages like any website — good to know if you rely on them."
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T15:00:00.000Z",
+      "simple_summary": "Google created a new AI weather prediction tool that forecasts rain and snow, and will put it into Google Search, Maps, and Gemini.",
+      "why_it_matters": "You might get more accurate weather forecasts in Google products, which could help you plan your day better."
+    },
+    {
+      "title": "Google says its AI weather model is getting better",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "source": "The Verge",
+      "date": "2026-09-03T15:00:00.000Z",
+      "simple_summary": "Google improved its AI weather forecasting model to be more accurate at predicting rain, snow, and giving detailed local weather pictures.",
+      "why_it_matters": "Over time, this could make weather apps more helpful, especially for predicting sudden storms in your area."
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T12:42:45.000Z",
+      "simple_summary": "Nvidia confirmed it is buying Hugging Face, a major website with millions of AI models that millions of programmers use.",
+      "why_it_matters": "This is a business deal between tech companies — it doesn't immediately affect what most people do with AI."
     }
   ]
 }
