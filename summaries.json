@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-03T04:41:50.527Z",
+  "generated_at": "2026-09-03T11:18:58.224Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5",
-      "source": "nyc.gov",
-      "date": "2026-09-02T23:50:46.000Z",
-      "simple_summary": "New York City's leaders have stopped schools from using AI tools in a big way. This is one of the broadest restrictions on AI in schools anywhere in the country.",
-      "why_it_matters": "If you have children or grandchildren in NYC schools, their teachers won't be using AI to help grade papers or teach lessons for now."
+      "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVOSVYwT2M0amI4ZWJ6dkxDaEZ6LTN3dkFMczlCd1h3aXNjR3FZS2RybTNFS3VkRmo5VTN3M0t4NHJhOS1QYmlVaXNicUY5WHRwWHlMZTh0WkJXek5OWVdSeEFPeC1FV09veXo1OEt6QnhJQkpScHI2NzRHRkp5UmRIaTA0dFdNUDFLM0dFei0?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-03T09:02:00.000Z",
+      "simple_summary": "A woman says that an AI chatbot created by Elon Musk used her photos to make illegal images without permission. This is a serious allegation involving child safety and misuse of AI.",
+      "why_it_matters": "If true, this shows how AI tools can be misused to harm people — this matters to everyone concerned about protecting children and personal privacy."
     },
     {
-      "title": "Schools respond to disturbing ‘Cat in the Hat’ trend from A.I.-generated photos",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDZsMU4zWWUycTRqVzNjMmFpaXlpNUN5NEpoSXdZYUdCUTRHQWdZZlB6U3J4UDNjWVRiNklERGNWNWlyeEVJOThUcTkwSU83dUR0QVdzUUNCOENXVm9TY0JuS1B5RS16b3kwSThJM1NHU2RiZTJGVXBtZUZiZE5jRk1BUm9zcXVXRHBZSW9sTmg?oc=5",
-      "source": "WLWT",
-      "date": "2026-09-02T23:13:22.000Z",
-      "simple_summary": "Schools are dealing with a problem where AI is creating fake, disturbing photos of characters like the Cat in the Hat. Students are sharing these online.",
-      "why_it_matters": "School leaders need to know what images their students are exposed to and creating — this is a safety issue similar to other concerning content kids encounter online."
+      "title": "US tech chiefs Huang, Musk warn against AI curbs amid race with China",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXNFSGNWeDRfWktNdndsOTZuX3puSDdTZkQ3dHU5bzR2XzEybzNsbXJnakV0alNyeXRwMlhxUWNrNWdGLWNpWnNfM2ZjVTF4UnFtR1YzcDJBdnBFOF9SdE1YRUpnRk9OWnd3S2VEVkU4TURuWkJacFRnUndyeWUteVc4TlI1eXdqSGpaQmYxT2pFUXZKYi1JRFpob25OcF9WaUJFNjhIQ1JFSnVYQmFqUjBNbXVBSkdpQi0yVlZ3UWNlVS1Sa09NZzg1NjVUY0EyTUHSAdIBQVVfeXFMTmRJUEVXejlBVWdLbmx3SWozdGE2V3hKNkxEOUpIZ01KVVNRdlFWbGhJWmxLdjhaRmNjVS1CVlVCS3Zxb2NyaTdHdl9nVzhMLVlJZ0hfWFBxczg0MzlmT2NYMy01VXlRNk85OE1GdjhnN0FJa3BobG9URUVTVW8zMC1zaEhTYk9QRjFlWjc2cnZadHJyU250N3g4Q0FFWm8xWnhTWlI0TXJDc2tIbEhQQWY3MTVRZDd2MTRTdkJhN18xd1BOUGhnS1c2ODVtYTRwN01R?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-09-03T08:00:26.000Z",
+      "simple_summary": "Tech leaders are telling the US government not to create strict rules about AI because they're worried America will fall behind China in the AI race. They want to move fast without heavy restrictions.",
+      "why_it_matters": "This mostly matters to investors and government policymakers — it won't directly change how you use AI today."
+    },
+    {
+      "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWRjcFlvZDdWbUhQRUUwanZRZGVTY0d6dUJWVlJoR1U4NWhMX0kwUUJuTEI1MlZwUEZTbW8zT1ZhSFhmOXZUTjZGckpSVHNYNXBXNjhIcVN5VFNhZXdQMW1zbXl0V2RDV1dCS0ZNRmlsWTVpbUkwMEgzRzZZV1gyQmNXTEphT01laGJDNVVJd2k3R3RQbXNySENndlkxTWRLWk9GTUMxYTdtdnV4REExU0lXX2o?oc=5",
+      "source": "pymnts.com",
+      "date": "2026-09-03T00:08:37.000Z",
+      "simple_summary": "Most banks take six years to see money savings from AI, but one bank called Discovery saw benefits much faster. This is about how long it takes AI investments to pay off for financial companies.",
+      "why_it_matters": "If you own a small business, this shows that AI can save money — but be patient; it takes time before you see results."
+    },
+    {
+      "title": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5",
+      "source": "NYC.gov",
+      "date": "2026-09-02T23:50:46.000Z",
+      "simple_summary": "New York City's schools announced they will be very careful about using AI chatbots in classrooms and will limit how much they use them. This is the broadest AI restriction in US schools so far.",
+      "why_it_matters": "If you have school-age children in New York, this means less AI tool use in their classes until the city figures out the best way to do it safely."
+    },
+    {
+      "title": "China is rooting for America's AI data center backlash | Opinion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjROWFJ4UWtFcDFlaTg3X2FpbGVnN3pYekV5NXBCR1Y5Uk5URVcwbXhaaWNlVzdTNEtKNGVrTm1DNXo2WkFrNHdJZWR4QjZKUFZaVG90SEZBZ0Z6NGVVbDk0MFlDUmtrTzNSY29PTnRTUnEyVWxHTkRuUlFIN3p0VmplRndCUEhxc1B1NkstSFR0WUhwLS1OMjJ6ZWZSMWhCOGRtVEZlcw?oc=5",
+      "source": "USA Today",
+      "date": "2026-09-02T23:24:00.000Z",
+      "simple_summary": "An opinion piece suggests that China would benefit if America makes it harder for companies to build AI data centers. This is about political strategy and AI competition.",
+      "why_it_matters": "This mostly matters to investors and government officials thinking about tech policy — nothing you need to worry about personally."
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-09-02T23:01:00.000Z",
-      "simple_summary": "A technology conference is hosting a stage where startup founders and business leaders talk about how to grow their companies. This is mostly relevant to investors and people in the tech industry.",
-      "why_it_matters": "This mostly matters to investors and tech entrepreneurs — nothing you need to act on unless you're starting a high-tech company."
+      "simple_summary": "A conference stage is planned for TechCrunch Disrupt 2026 where startup founders and investors will share practical advice on growing new tech companies. It's a networking and learning event.",
+      "why_it_matters": "This only matters if you're starting a tech company or investing in one — nothing relevant for most small-business owners."
     },
     {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "source": "TechCrunch",
       "date": "2026-09-02T22:44:56.000Z",
-      "simple_summary": "A big computer security company bought another AI company for $500 million. This is a business deal between large technology companies.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
+      "simple_summary": "A big security software company called Palo Alto Networks bought a smaller AI company called Console for $500 million. This is a business acquisition in the tech industry.",
+      "why_it_matters": "This mostly matters to investors — it doesn't affect how you use AI or run your business."
     },
     {
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "source": "TechCrunch",
       "date": "2026-09-02T22:24:09.000Z",
-      "simple_summary": "A tech conference will have a stage showing how AI works in the real world, with demonstrations involving robots and other physical examples. This is mainly industry-focused.",
-      "why_it_matters": "This mostly matters to tech professionals and investors interested in where AI is heading — nothing you need to act on."
+      "simple_summary": "TechCrunch Disrupt 2026 is adding a stage to showcase how AI works in the real physical world, including robots and other practical applications. It's about demonstrating AI you can actually see and touch.",
+      "why_it_matters": "This is mainly for tech industry professionals and enthusiasts — nothing you need to act on unless you attend the conference."
     },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "source": "TechCrunch",
       "date": "2026-09-02T20:19:14.000Z",
-      "simple_summary": "OpenAI made a new AI model that thinks in a different way than before. Some safety experts worry this new approach might be harder to control.",
-      "why_it_matters": "This mostly matters to AI researchers and safety experts — nothing you need to act on right now, but it's worth knowing that experts have concerns about new AI methods."
+      "simple_summary": "OpenAI made a new AI model that thinks in a different way than most others, and some AI safety experts are concerned about this new approach. They worry it could be harder to understand how the AI reaches its conclusions.",
+      "why_it_matters": "This is mainly a concern for AI researchers and engineers — it doesn't immediately affect how you'd use AI in daily life."
     },
     {
       "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "source": "The Verge",
       "date": "2026-09-02T20:11:40.000Z",
-      "simple_summary": "Google released a new, faster version of its Gemini AI tool. It can think through harder problems by taking more steps, similar to how you'd solve a complex math problem slowly instead of guessing.",
-      "why_it_matters": "If you use Google's AI tools for business, the new version works better at complex tasks but may cost slightly more over time — though the starting price is the same."
+      "simple_summary": "Google released a new AI tool called Gemini 3.8 Flash that works harder on difficult questions by thinking through more steps. It's slightly improved from the previous version.",
+      "why_it_matters": "If you use Google's AI tools, this might give you slightly better answers — but it's a small update, not a game-changer."
     },
     {
-      "title": "New York City Bans A.I. in Elementary and Middle Schools",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
-      "source": "nytimes.com",
-      "date": "2026-09-02T18:56:00.000Z",
-      "simple_summary": "New York City is banning AI tools from elementary and middle schools. Teachers won't be allowed to use AI to help with instruction or grading in younger grades.",
-      "why_it_matters": "If you have young children in NYC schools, their education won't include AI tools the schools control — this is a safety decision about young students."
+      "title": "Americans love AI. They don’t want the data centers that power it.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTjZySTFoVC1uUFQ2YngxUy1zUlEtMkNMMl9HNzd1b2FvLVh1QVpqNnp6SnZHMzNrS3BjTDE5bWV3enJZNi15UHV1Y0xtdXhhRldqRURNMDBPdnlfYnpOX28zeEJ1SlRRTXZqMnZ3TE51ZUpyXzdkeVJzOA?oc=5",
+      "source": "Politico",
+      "date": "2026-09-02T19:48:00.000Z",
+      "simple_summary": "Americans say they like using AI, but they don't want large power-hungry data centers built in their neighborhoods because of noise, heat, and electricity concerns.",
+      "why_it_matters": "If you live near where a data center might be built, this could affect your community — but it's mainly an issue for people in tech hub areas."
     },
     {
       "title": "JD Vance talks end times, Antichrist and AI on faith podcast",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXJwb19YZEZ1UGJybTRyYUFhai1Zb2lXNzNYMV9UOTNnT2dDSWVKSFNnTkZqd2RHWFFlLXhTU2ZUZENkWlI1UEp5TEJ5UlZTbENQYlRta3oxYktMTHVoSHZDYmVUTjVyZnNMWmZFU3NpWWZzaTRnNjRaN1dmaEJUTEwzVEVNUW5hN3NsTmhGNUhZSUg4X1ZRTUMwZ05GTFRpeDZuc0pYMmVvZHkxRDdxRQ?oc=5",
       "source": "NBC News",
       "date": "2026-09-02T18:29:33.000Z",
-      "simple_summary": "A political figure discussed AI along with religious topics on a podcast. This is mainly about personal opinions rather than news about AI itself.",
-      "why_it_matters": "This mostly matters if you're interested in political figures' views — nothing specific about AI you need to act on."
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "source": "The Verge",
-      "date": "2026-09-02T17:52:56.000Z",
-      "simple_summary": "Amazon's Alexa AI helper can now tell you if an email supposedly from Amazon is actually real or a fake scam. You can ask it to check messages for you.",
-      "why_it_matters": "If you use Amazon and get emails or texts claiming to be from the company, you can now ask Alexa to verify if they're real — this helps protect you from scams."
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T17:18:13.000Z",
-      "simple_summary": "A company called Pangram is trying to build tools that can tell if text and images were made by AI or are real. They say this is harder than it seems because AI is getting very good at faking things.",
-      "why_it_matters": "If you run a business that relies on reviews or applications from customers, you should know that fake AI-created content is sneaking into these — it's becoming harder to spot what's genuine."
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T17:09:57.000Z",
-      "simple_summary": "A CEO warns that the internet is filling up with so much fake AI content that it's becoming hard to know what's real. He calls this close to the \"dead internet theory\" — the idea that the internet will become mostly fake.",
-      "why_it_matters": "As you read things online — reviews, news, photos — be more careful about what's real, because AI-made fakes are spreading and getting harder to spot. Trust your gut and check sources you know are reliable."
+      "simple_summary": "Vice President JD Vance discussed religious and philosophical topics including AI on a faith podcast. This is a discussion about beliefs and technology.",
+      "why_it_matters": "This is mostly political commentary — nothing you need to do or know about unless you're interested in what government leaders think about AI."
     }
   ]
 }
