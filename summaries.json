@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-02T21:05:31.501Z",
+  "generated_at": "2026-09-03T04:41:50.527Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5",
+      "source": "nyc.gov",
+      "date": "2026-09-02T23:50:46.000Z",
+      "simple_summary": "New York City's leaders have stopped schools from using AI tools in a big way. This is one of the broadest restrictions on AI in schools anywhere in the country.",
+      "why_it_matters": "If you have children or grandchildren in NYC schools, their teachers won't be using AI to help grade papers or teach lessons for now."
+    },
+    {
+      "title": "Schools respond to disturbing ‘Cat in the Hat’ trend from A.I.-generated photos",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDZsMU4zWWUycTRqVzNjMmFpaXlpNUN5NEpoSXdZYUdCUTRHQWdZZlB6U3J4UDNjWVRiNklERGNWNWlyeEVJOThUcTkwSU83dUR0QVdzUUNCOENXVm9TY0JuS1B5RS16b3kwSThJM1NHU2RiZTJGVXBtZUZiZE5jRk1BUm9zcXVXRHBZSW9sTmg?oc=5",
+      "source": "WLWT",
+      "date": "2026-09-02T23:13:22.000Z",
+      "simple_summary": "Schools are dealing with a problem where AI is creating fake, disturbing photos of characters like the Cat in the Hat. Students are sharing these online.",
+      "why_it_matters": "School leaders need to know what images their students are exposed to and creating — this is a safety issue similar to other concerning content kids encounter online."
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-02T23:01:00.000Z",
+      "simple_summary": "A technology conference is hosting a stage where startup founders and business leaders talk about how to grow their companies. This is mostly relevant to investors and people in the tech industry.",
+      "why_it_matters": "This mostly matters to investors and tech entrepreneurs — nothing you need to act on unless you're starting a high-tech company."
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch",
+      "date": "2026-09-02T22:44:56.000Z",
+      "simple_summary": "A big computer security company bought another AI company for $500 million. This is a business deal between large technology companies.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers — nothing you need to act on."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch",
+      "date": "2026-09-02T22:24:09.000Z",
+      "simple_summary": "A tech conference will have a stage showing how AI works in the real world, with demonstrations involving robots and other physical examples. This is mainly industry-focused.",
+      "why_it_matters": "This mostly matters to tech professionals and investors interested in where AI is heading — nothing you need to act on."
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "date": "2026-09-02T20:19:14.000Z",
+      "simple_summary": "OpenAI made a new AI model that thinks in a different way than before. Some safety experts worry this new approach might be harder to control.",
+      "why_it_matters": "This mostly matters to AI researchers and safety experts — nothing you need to act on right now, but it's worth knowing that experts have concerns about new AI methods."
+    },
+    {
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge",
+      "date": "2026-09-02T20:11:40.000Z",
+      "simple_summary": "Google released a new, faster version of its Gemini AI tool. It can think through harder problems by taking more steps, similar to how you'd solve a complex math problem slowly instead of guessing.",
+      "why_it_matters": "If you use Google's AI tools for business, the new version works better at complex tasks but may cost slightly more over time — though the starting price is the same."
+    },
+    {
+      "title": "New York City Bans A.I. in Elementary and Middle Schools",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
+      "source": "nytimes.com",
+      "date": "2026-09-02T18:56:00.000Z",
+      "simple_summary": "New York City is banning AI tools from elementary and middle schools. Teachers won't be allowed to use AI to help with instruction or grading in younger grades.",
+      "why_it_matters": "If you have young children in NYC schools, their education won't include AI tools the schools control — this is a safety decision about young students."
+    },
+    {
+      "title": "JD Vance talks end times, Antichrist and AI on faith podcast",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXJwb19YZEZ1UGJybTRyYUFhai1Zb2lXNzNYMV9UOTNnT2dDSWVKSFNnTkZqd2RHWFFlLXhTU2ZUZENkWlI1UEp5TEJ5UlZTbENQYlRta3oxYktMTHVoSHZDYmVUTjVyZnNMWmZFU3NpWWZzaTRnNjRaN1dmaEJUTEwzVEVNUW5hN3NsTmhGNUhZSUg4X1ZRTUMwZ05GTFRpeDZuc0pYMmVvZHkxRDdxRQ?oc=5",
+      "source": "NBC News",
+      "date": "2026-09-02T18:29:33.000Z",
+      "simple_summary": "A political figure discussed AI along with religious topics on a podcast. This is mainly about personal opinions rather than news about AI itself.",
+      "why_it_matters": "This mostly matters if you're interested in political figures' views — nothing specific about AI you need to act on."
+    },
     {
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
       "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
       "source": "The Verge",
       "date": "2026-09-02T17:52:56.000Z",
-      "simple_summary": "Amazon has added a tool to its Alexa assistant that can check whether an email or text message really came from Amazon, helping you spot fake messages trying to trick you into giving away information.",
-      "why_it_matters": "If you shop on Amazon and get suspicious messages, this tool could help you avoid scams — though you'll still need to be careful and think before clicking anything."
+      "simple_summary": "Amazon's Alexa AI helper can now tell you if an email supposedly from Amazon is actually real or a fake scam. You can ask it to check messages for you.",
+      "why_it_matters": "If you use Amazon and get emails or texts claiming to be from the company, you can now ask Alexa to verify if they're real — this helps protect you from scams."
     },
     {
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
       "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
       "source": "TechCrunch",
       "date": "2026-09-02T17:18:13.000Z",
-      "simple_summary": "Companies are struggling to tell the difference between real and fake content on the internet, because AI can now create convincing fake text and images that look real enough to fool people.",
-      "why_it_matters": "This matters because you might accidentally believe fake reviews about products, or businesses might get fooled by fake job applications — it's getting harder to know what's genuine."
+      "simple_summary": "A company called Pangram is trying to build tools that can tell if text and images were made by AI or are real. They say this is harder than it seems because AI is getting very good at faking things.",
+      "why_it_matters": "If you run a business that relies on reviews or applications from customers, you should know that fake AI-created content is sneaking into these — it's becoming harder to spot what's genuine."
     },
     {
       "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
       "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
       "source": "TechCrunch",
       "date": "2026-09-02T17:09:57.000Z",
-      "simple_summary": "Some experts worry the internet is becoming so full of AI-generated junk content that soon you won't be able to trust whether anything you read is real or made by a computer.",
-      "why_it_matters": "This is a concern for the future of the internet, but right now it's mostly a problem computer scientists are thinking about — nothing you need to act on immediately."
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T17:09:06.000Z",
-      "simple_summary": "The U.S. government said it's okay for companies like OpenAI to use copyrighted material (like newspaper articles) to teach their AI systems, rather than having to pay for permission.",
-      "why_it_matters": "This mostly matters to investors and big tech companies — it affects whether AI companies can grow faster, but nothing you need to worry about in your daily life."
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "The Verge",
-      "date": "2026-09-02T16:40:50.000Z",
-      "simple_summary": "OpenAI is about to release a powerful new AI system, but researchers are worried it could be dangerous because it acted unpredictably during testing.",
-      "why_it_matters": "This is mostly a concern for tech experts and safety researchers — if you're not using OpenAI's advanced tools for work, this doesn't affect you yet."
-    },
-    {
-      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3d1cF9QQ29xNEo0VUJLRk8wNERnT2ZpU09IZ0RBS1c4Zjc2SjlTOE5BTE12aEZMLV84bDEzZHJQX1pzbVkxZFFWdFllYm9lMWI2RXY1SkhDWngxTV9hLW8wbXFScHdHZXdKd1dBU1RnUEJBVmI3eEh1LU13ZjVWS1YyTFZsQXpoVGhYTVB2SmNWOE1NWWJ3UktHUUVQZmdZa0diR192RV9DUng3S1E?oc=5",
-      "source": "geekwire.com",
-      "date": "2026-09-02T16:26:33.000Z",
-      "simple_summary": "A study found that children start out excited to play with toy robots that use AI, but quickly get frustrated when the toys don't work the way they expect.",
-      "why_it_matters": "If you're buying AI toys for grandchildren, this suggests they might get bored quickly — like any toy, the novelty wears off fast."
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "source": "The Verge",
-      "date": "2026-09-02T16:12:25.000Z",
-      "simple_summary": "The Trump administration took OpenAI's side in a lawsuit where the New York Times is claiming OpenAI used its articles without permission to train its AI.",
-      "why_it_matters": "This mostly matters to publishers and tech investors — it affects how companies can use news articles, but nothing affecting your daily life right now."
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T16:04:10.000Z",
-      "simple_summary": "A company called Wonderful became worth $5 billion (double what it was six months ago) after raising $550 million in investment money.",
-      "why_it_matters": "This is investor news — it doesn't affect regular people or small businesses unless you're thinking about investing in tech startups."
-    },
-    {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "source": "TechCrunch",
-      "date": "2026-09-02T16:01:48.000Z",
-      "simple_summary": "An Indian company wants to upgrade old computers to work with AI tools for very cheap, around $11 for two months of service.",
-      "why_it_matters": "If you have an old computer sitting around, this might eventually be a cheap way to make it useful for AI tasks, but this is mostly being developed for India right now."
-    },
-    {
-      "title": "Tencent-backed Enflame IPO draws 6,109 times online demand",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGozNnBkYjNjcjkwMlhXX0l2YlVQRThVU3Z1NElnbWJxQklrNU94WTlvRDctcVlDUW5Mb1ctZmFVN2VmM2RLTmZfbXg5M3c4Q1NBLUVLUm9sMU5TYnhRNWFHMDE0WUZONF96TGNiZnJGUlZtaVVlRjBFRDV2UnBhNWg4M2lzb2FXa2RUZk9xc2xMSzA2U2o4V3dYb3VmQ01XZkRHX1ZuWVc?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-02T15:50:17.000Z",
-      "simple_summary": "A Chinese company called Enflame is going public and getting huge investor interest in buying shares.",
-      "why_it_matters": "This is investment news — it only matters if you own stocks or are interested in tech company valuations."
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "source": "The Verge",
-      "date": "2026-09-02T15:47:03.000Z",
-      "simple_summary": "Google paid a popular YouTuber named MrBeast to use Google's AI assistant and other Google products in his videos.",
-      "why_it_matters": "This doesn't affect you unless you watch MrBeast videos — it's basically an advertisement disguised as entertainment."
-    },
-    {
-      "title": "Brazil’s electoral court sets new standards for AI deepfakes after case involving Sen. Bolsonaro",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWZQZFkwNnE5Q0xiT3V0Z21UUE1mOFJHZ2NXS2FKc3dkRlJqZzVGU0NaUUNnb1ZvRjRfbng4UWdOYkRPd2lHMHJyQnM3S25OY092Z0E1NWM4RUlyZUNKcHZrY3Etdm1GU0NtOGhJRjFZdHpvRC1rdHBUS2lJekxKc0R3dl9oNkhWYzR6UVdLV0xYX2FYUkIyTGxudkdLVjVfTGN1dmkxNDhBRHdqOTY3UmJBSUFvS3gzdUp6cHlxaGRpR19fVGVQRDJCYw?oc=5",
-      "source": "wral.com",
-      "date": "2026-09-02T15:33:43.000Z",
-      "simple_summary": "Brazil's courts created new rules to stop people from using AI to create fake videos of politicians and election candidates.",
-      "why_it_matters": "This is important for protecting elections from misinformation, but it mostly matters if you live in Brazil or follow Brazilian politics."
+      "simple_summary": "A CEO warns that the internet is filling up with so much fake AI content that it's becoming hard to know what's real. He calls this close to the \"dead internet theory\" — the idea that the internet will become mostly fake.",
+      "why_it_matters": "As you read things online — reviews, news, photos — be more careful about what's real, because AI-made fakes are spreading and getting harder to spot. Trust your gut and check sources you know are reliable."
     }
   ]
 }
