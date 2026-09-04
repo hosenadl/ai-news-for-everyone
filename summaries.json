@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-04T04:38:03.530Z",
+  "generated_at": "2026-09-04T11:22:13.164Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "‘Someone has to go out on a limb’: What to know about Bernie Sanders’ newest AI pitch",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEZKOGRjMkRCbjYyeGMwUmRCRXJLYmtscElQMUxlYkRHVWxnclFibXc0aEdWOUxhaUo3azMwbWZmUlFscmd2SlFqOU1CY0FZOFNNbVhEQndsVEI4SzEwRDc0X3lkSEdRczFhOXAxUkZ1WVY1em4zNnlvb2d4dGN3OFNiUm9Xc1JmUEM2S2U5NS1Wa043OTBDTDZodkd4OFIyb3lBMTBQajJxZkxHSjZfb0dfQ1Nycy05ODRpRkV5aDFLM1I1blZISjd4cw?oc=5",
-      "source": "politico.com",
-      "date": "2026-09-03T23:16:00.000Z",
-      "simple_summary": "Bernie Sanders has made a new proposal related to AI policy. The details of his specific plan aren't clear from the headline alone.",
-      "why_it_matters": "This is about politics and policy — it may or may not affect you depending on what rules get made, but there's nothing you need to do right now."
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnlnMTBva2YwLXYzM3RzdFdHY0szU3ByaDRHbGdpeWRGVmhCM1B5bmxwUU5RYVRJTXRSUllPMHpGSnd2VVBmZElzU0FPdzRZSEVNODhXZlBJYjRldXRyRHBzWjB6eGx5MEo3TVlDVWFYVDlzdkxoSEtJOHAzczRnZ2d1VQ?oc=5",
+      "source": "The Hacker News",
+      "date": "2026-09-04T06:47:00.000Z",
+      "simple_summary": "OpenAI tested a new AI model called GPT-6 Astra and found it performed perfectly on a security test. The company is being careful about how people can try to break it.",
+      "why_it_matters": "This mostly matters to tech companies and security experts — nothing you need to act on."
+    },
+    {
+      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZzdDTWVneUtQZEZnTmNoZlJDdUdaUEtjemtWSnZUcURWZG1jQVBYNlc1UXBKNXlqektETFdSaTFUUkVnWW1IUGxVVVFkY3Q2V3RIR2lFT0NqcDlrY29kaE1nUV9lcTlFcklsNlRQMFlWaG5WZ2RUMXU0QXdRZ18zcTU3MWgyRkJKdm1VRXprZm1KOG9CQ0tNLUNocW5Jc3JJQV9MQW5sWGxRSlpCdjJHNEowWUlTR25SUk54VVBSVUU2eWhabXJQQ0tzQUdNOVl6c0VwQ0d3MzBtQTd4a1ZtcHM0Q3hQTVNJUWpVS2NIOXdubHk1d01MeU80eG5ZZG4xRHNIeGVZNkFUM1RtbFVVN05aMXkzUjNFVjVLZ3VSNW5OOVpDUnNYNnFjck1vdWVrM2FoTkZBc25vam16Z0JIQk1NdUZmUdIBgwJBVV95cUxQa1FpNjFHUnY0bEdDZk9PU1hNQ0JCdVJwejNHYWxyclU1d0VnSmVPa1hWWXRQOGc0M0pGbE04RmlQWU5JTVFYdTRlZy1FUERuSkF6ZW0ySEx2ODVLR0JOYjNLYWJ4QTR3b0ZBZmtfYlJqZGdZbGVVRUppXzFqel83YWE2VlNzdTdULVhmZGNYb2xXQVRHdkFNcm11MkhnNVd5dVJGOFZRVHRMNjJUNklwSUdjWHFWZGhGb05hdXFxYWwzZDExUnVjQlRRODRrTTBHY3BaWE5rZV9VWG1xQnk2M09BOXdTcF9MYnhMRFRPa0xyRU8wVzJQUlRRTlZyaEhtdFVR?oc=5",
+      "source": "ET CIO",
+      "date": "2026-09-04T06:30:00.000Z",
+      "simple_summary": "AI software could handle most routine money-management tasks at banks and large companies, freeing up people to focus on bigger decisions.",
+      "why_it_matters": "If you use a financial advisor or bank, AI might eventually help them work more efficiently, but humans will still make important choices."
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "date": "2026-09-04T04:21:03.000Z",
+      "simple_summary": "When restaurants use AI to write their menus, the descriptions all sound similar and boring, and customers can tell something feels off about the food.",
+      "why_it_matters": "If you own a restaurant or small business, don't rely on AI to write your marketing — customers prefer genuine, original descriptions."
     },
     {
       "title": "OpenAI’s president claims AI is as capable as humans now",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-03T22:47:55.000Z",
-      "simple_summary": "An OpenAI leader says their AI tool can now do things just as well as a human can. This is a big claim they're making about their technology.",
-      "why_it_matters": "This mostly matters to investors and tech companies thinking about what AI can do — for your daily life, AI tools still work better for some tasks than others, just like before."
+      "source": "washingtonpost.com",
+      "date": "2026-09-04T04:15:00.000Z",
+      "simple_summary": "A leader at OpenAI says their latest AI is now just as capable as human workers at many tasks.",
+      "why_it_matters": "This is promotional talk from a company trying to build excitement — it's not a proven fact that AI can really do everything humans do."
     },
     {
-      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-03T20:05:00.000Z",
-      "simple_summary": "OpenAI released a new AI model called Astra and says it marks the beginning of a new level of artificial intelligence capability.",
-      "why_it_matters": "OpenAI is excited about their new tool, but whether it actually changes anything for regular people depends on how it gets used — we'll see over time."
+      "title": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "source": "BBC",
+      "date": "2026-09-04T02:02:02.000Z",
+      "simple_summary": "A theme park in South Korea is using robots for entertainment, like having robots perform shows or interact with guests.",
+      "why_it_matters": "This is interesting news about entertainment, but it doesn't affect most people's daily lives right now."
     },
     {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90VUZhWlJWX1Bfb25GeFEwR0UxaTh1REVQME5VOXdEYWFhU3I5Mm9NaXZfbVhUTmZkRGNmN3ZkWjVxVDdvYkE?oc=5",
-      "source": "ARC Prize",
-      "date": "2026-09-03T20:04:04.000Z",
-      "simple_summary": "This is a technical announcement about OpenAI's GPT-6 Astra model being tested on a benchmark called ARC-AGI-3.",
-      "why_it_matters": "This is technical information for engineers and investors — nothing you need to know about right now."
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-09-04T00:48:42.000Z",
+      "simple_summary": "A company that builds data centers (computer facilities that power AI) raised a huge amount of money from investors at a very high valuation.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
-      "title": "LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFKaVptZ3ZTXzZXT1hoV3BTTE5wZi1iWU8tTnlWZGdmS2d3Z0FBWU00ZU5fNVNHTjlJdlMtTWhySi1KVkJQNUJrV3FyYzF2T3hOSWlqR0lEckRjWi1ncTREdFF6bzhBRWpkVFpNNExtWEdGRWMtQUxWVGp6UGpVdHZidGhQZw?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-09-03T19:59:00.000Z",
-      "simple_summary": "Los Angeles schools have decided to stop letting students use AI tools in the classroom for now. They're hitting pause to think more carefully about it.",
-      "why_it_matters": "If you have kids or grandkids in LA schools, they won't be using AI helpers for their schoolwork — the school wants them to learn without that assistance for now."
+      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-04T00:06:04.000Z",
+      "simple_summary": "Hugging Face, a popular AI company, was hacked, which exposed some security problems that apply to many AI systems.",
+      "why_it_matters": "This is a reminder to be cautious about your data online, especially with new AI services — use strong passwords and be thoughtful about what information you share."
+    },
+    {
+      "title": "US urged to consider military strikes to stop China achieving AGI first",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjJHZUFIUWRwN2JDTUxTZkNETk9FTWk4ZTRNNEpPd1l6SWxLZW5GT3UwVVpJcFNGaXNlVURJeGxpZWVjVFp0dFhHSXlNbXhiQWd5WlM4MV9Sc3M2OTZXX3VvOXNhUVJiNmpmZTZiVTFfa3hZT1JEYnNYM0UzVGllaXAyTUJIcDRHQk9JQVN1N1hiZmIyWC00dnlseW0yQmlxYVlkTlFVVWtPZG5WejVF0gGvAUFVX3lxTE5xSmw3anRkQnlvOGZ6eEJtaTlxUnhqRmg2YVE3clFsaWVBQUJqMXk1MlE3OEVvZGpOektYTUlsakhtT3lhNHg3dThzVkNVam9qR0RRbS1WVXN4Z1gxSDdfcU1tR0FCaVlWUXJodUFZREprOFhTbGVYVjFRUUhYZmQ3U3Y2dXFhY01JWUxiTElTbE1ZNzZ3LXNYX1ZPSFp5X19JMWhBRmFNVUhzS25CTnc?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-09-03T22:13:33.000Z",
+      "simple_summary": "Someone suggested that the US military might need to take extreme action to prevent China from developing the most advanced AI first.",
+      "why_it_matters": "This is political debate between experts and governments — it doesn't affect your daily life."
     },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
       "source": "TechCrunch",
       "date": "2026-09-03T19:36:29.000Z",
-      "simple_summary": "Investors are considering giving a company called Thinking Machines a very large amount of money. This is mainly a story about investment deals.",
-      "why_it_matters": "This mostly matters to investors and people with money in tech funds — nothing you need to act on."
+      "simple_summary": "Investors are putting $1 billion into a startup called Thinking Machines, believing it's worth $40 billion.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
       "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
       "source": "TechCrunch",
       "date": "2026-09-03T18:37:57.000Z",
-      "simple_summary": "A company called Abliteration.ai is making it easier for people to use AI tools that don't have safety limits. They say this could help with cybersecurity.",
-      "why_it_matters": "This is a risky area — removing safety guards from AI could make it easier for bad actors to misuse AI, even if some argue it has defensive benefits."
+      "simple_summary": "A new company called Abliteration.ai is selling access to AI models with their safety protections removed, claiming this could help catch security problems.",
+      "why_it_matters": "This raises concerns about safety — it's like selling a car with the brakes removed. It's worth staying aware that some companies are making unrestricted AI more available."
+    },
+    {
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-03T18:24:00.000Z",
+      "simple_summary": "OpenAI announced their new Astra model as a milestone toward 'artificial general intelligence' — a term meaning AI that can do almost anything a person can do.",
+      "why_it_matters": "This is OpenAI promoting their product. We're not actually at that level yet, and it's not clear when or if we will be."
     },
     {
       "title": "Meta is paying to peek at how you use their latest AI model",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "source": "TechCrunch",
       "date": "2026-09-03T18:19:56.000Z",
-      "simple_summary": "Meta is offering a big discount on their new AI model if you let them watch how you use it and keep a copy of what you type and the results.",
-      "why_it_matters": "If you use Meta's AI tools, be aware they may want to study your usage in exchange for lower prices — read the terms if you're interested."
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch",
-      "date": "2026-09-03T18:01:45.000Z",
-      "simple_summary": "OpenAI has released a new AI model called Astra that they say can do computer tasks very quickly and accurately.",
-      "why_it_matters": "This is a new powerful tool from OpenAI, similar to their other AI releases — whether it matters to you depends on what you'd use it for."
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge",
-      "date": "2026-09-03T18:00:00.000Z",
-      "simple_summary": "OpenAI released GPT-6 Astra, which they say is a major jump forward in AI ability, especially for jobs like cybersecurity and computer programming.",
-      "why_it_matters": "This is another announcement about OpenAI's new AI — it's getting more powerful, but it mostly affects software developers and tech professionals right now."
-    },
-    {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUERKbnRyTjVyMVF3cEpneExmQWgwR3Z0WGVZb0xKU2tscll0dmZRMXBmc0FKcWg3N0NvWElDaVJ5a2xUQXRuaDdUN0M1aWREeWtaNmdYRzczUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-09-03T16:32:05.000Z",
-      "simple_summary": "Nvidia, a big computer chip company, is buying Hugging Face, which is a company that hosts AI tools and code, for about $13 billion.",
-      "why_it_matters": "This mostly matters to investors — Nvidia is betting big on AI by buying a major hub for AI development, but this doesn't directly change what you can do with AI."
-    },
-    {
-      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-09-03T16:11:09.000Z",
-      "simple_summary": "Nvidia is spending $13 billion to buy Hugging Face, and the company will stay as an open platform (meaning people can still use and share tools freely on it).",
-      "why_it_matters": "This is a large business deal — Nvidia is investing heavily in AI, but this doesn't change what tools are available or how you'd use them."
+      "simple_summary": "Meta is offering users a huge discount (95% off) to use new AI software if they let Meta see and learn from how they use it.",
+      "why_it_matters": "If you use Meta's AI tools, know that they're tracking your usage to improve their systems — read the fine print before accepting that deal."
     }
   ]
 }
