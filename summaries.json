@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-03T21:04:39.932Z",
+  "generated_at": "2026-09-04T04:38:03.530Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "‘Someone has to go out on a limb’: What to know about Bernie Sanders’ newest AI pitch",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEZKOGRjMkRCbjYyeGMwUmRCRXJLYmtscElQMUxlYkRHVWxnclFibXc0aEdWOUxhaUo3azMwbWZmUlFscmd2SlFqOU1CY0FZOFNNbVhEQndsVEI4SzEwRDc0X3lkSEdRczFhOXAxUkZ1WVY1em4zNnlvb2d4dGN3OFNiUm9Xc1JmUEM2S2U5NS1Wa043OTBDTDZodkd4OFIyb3lBMTBQajJxZkxHSjZfb0dfQ1Nycy05ODRpRkV5aDFLM1I1blZISjd4cw?oc=5",
+      "source": "politico.com",
+      "date": "2026-09-03T23:16:00.000Z",
+      "simple_summary": "Bernie Sanders has made a new proposal related to AI policy. The details of his specific plan aren't clear from the headline alone.",
+      "why_it_matters": "This is about politics and policy — it may or may not affect you depending on what rules get made, but there's nothing you need to do right now."
+    },
+    {
+      "title": "OpenAI’s president claims AI is as capable as humans now",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-03T22:47:55.000Z",
+      "simple_summary": "An OpenAI leader says their AI tool can now do things just as well as a human can. This is a big claim they're making about their technology.",
+      "why_it_matters": "This mostly matters to investors and tech companies thinking about what AI can do — for your daily life, AI tools still work better for some tasks than others, just like before."
+    },
+    {
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-03T20:05:00.000Z",
+      "simple_summary": "OpenAI released a new AI model called Astra and says it marks the beginning of a new level of artificial intelligence capability.",
+      "why_it_matters": "OpenAI is excited about their new tool, but whether it actually changes anything for regular people depends on how it gets used — we'll see over time."
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90VUZhWlJWX1Bfb25GeFEwR0UxaTh1REVQME5VOXdEYWFhU3I5Mm9NaXZfbVhUTmZkRGNmN3ZkWjVxVDdvYkE?oc=5",
+      "source": "ARC Prize",
+      "date": "2026-09-03T20:04:04.000Z",
+      "simple_summary": "This is a technical announcement about OpenAI's GPT-6 Astra model being tested on a benchmark called ARC-AGI-3.",
+      "why_it_matters": "This is technical information for engineers and investors — nothing you need to know about right now."
+    },
+    {
+      "title": "LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFKaVptZ3ZTXzZXT1hoV3BTTE5wZi1iWU8tTnlWZGdmS2d3Z0FBWU00ZU5fNVNHTjlJdlMtTWhySi1KVkJQNUJrV3FyYzF2T3hOSWlqR0lEckRjWi1ncTREdFF6bzhBRWpkVFpNNExtWEdGRWMtQUxWVGp6UGpVdHZidGhQZw?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-09-03T19:59:00.000Z",
+      "simple_summary": "Los Angeles schools have decided to stop letting students use AI tools in the classroom for now. They're hitting pause to think more carefully about it.",
+      "why_it_matters": "If you have kids or grandkids in LA schools, they won't be using AI helpers for their schoolwork — the school wants them to learn without that assistance for now."
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T19:36:29.000Z",
+      "simple_summary": "Investors are considering giving a company called Thinking Machines a very large amount of money. This is mainly a story about investment deals.",
+      "why_it_matters": "This mostly matters to investors and people with money in tech funds — nothing you need to act on."
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T18:37:57.000Z",
+      "simple_summary": "A company called Abliteration.ai is making it easier for people to use AI tools that don't have safety limits. They say this could help with cybersecurity.",
+      "why_it_matters": "This is a risky area — removing safety guards from AI could make it easier for bad actors to misuse AI, even if some argue it has defensive benefits."
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "date": "2026-09-03T18:19:56.000Z",
+      "simple_summary": "Meta is offering a big discount on their new AI model if you let them watch how you use it and keep a copy of what you type and the results.",
+      "why_it_matters": "If you use Meta's AI tools, be aware they may want to study your usage in exchange for lower prices — read the terms if you're interested."
+    },
     {
       "title": "OpenAI launches Astra, its powerful (and controversial) new model",
       "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "source": "TechCrunch",
       "date": "2026-09-03T18:01:45.000Z",
-      "simple_summary": "OpenAI released a new AI tool called Astra that can use computers and web browsers on your behalf, doing tasks for you automatically.",
-      "why_it_matters": "This mostly matters to tech companies and software engineers right now — nothing you need to act on yet."
+      "simple_summary": "OpenAI has released a new AI model called Astra that they say can do computer tasks very quickly and accurately.",
+      "why_it_matters": "This is a new powerful tool from OpenAI, similar to their other AI releases — whether it matters to you depends on what you'd use it for."
     },
     {
       "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "source": "The Verge",
       "date": "2026-09-03T18:00:00.000Z",
-      "simple_summary": "OpenAI released a new super-powerful AI model called GPT-6 Astra that can handle complex jobs like cybersecurity, coding, and science work.",
-      "why_it_matters": "This is mainly important for engineers and IT professionals — most ordinary people won't interact with it directly."
+      "simple_summary": "OpenAI released GPT-6 Astra, which they say is a major jump forward in AI ability, especially for jobs like cybersecurity and computer programming.",
+      "why_it_matters": "This is another announcement about OpenAI's new AI — it's getting more powerful, but it mostly affects software developers and tech professionals right now."
     },
     {
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUVR6Q1RGSzhJYUNBRTN5ZTlzdWFVdHZyYWppVUhMVEF5eEFTcDRuQ1FSaGxQZEdSNThQYlI3bDVVZUI3UUJ2NUYyZzVGdDlra0phN0drbVVzRW5PeUlra3V1eXN1QXZSckhCc3RXaXVDNXJNOUJJNw?oc=5",
-      "source": "Phys.org",
-      "date": "2026-09-03T16:20:06.000Z",
-      "simple_summary": "Scientists used AI to suggest new ideas for physics experiments that could work better than experiments humans designed themselves.",
-      "why_it_matters": "This mostly matters to scientists and universities — nothing you need to worry about in daily life."
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch",
-      "date": "2026-09-03T16:09:01.000Z",
-      "simple_summary": "A company called Ollie is making a new AI assistant for families that learns about your life but promises not to sell your private information to other companies.",
-      "why_it_matters": "If you're worried about privacy with AI assistants, this is worth keeping an eye on, but it's still very new."
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUERKbnRyTjVyMVF3cEpneExmQWgwR3Z0WGVZb0xKU2tscll0dmZRMXBmc0FKcWg3N0NvWElDaVJ5a2xUQXRuaDdUN0M1aWREeWtaNmdYRzczUQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-03T16:32:05.000Z",
+      "simple_summary": "Nvidia, a big computer chip company, is buying Hugging Face, which is a company that hosts AI tools and code, for about $13 billion.",
+      "why_it_matters": "This mostly matters to investors — Nvidia is betting big on AI by buying a major hub for AI development, but this doesn't directly change what you can do with AI."
     },
     {
       "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5",
       "source": "Breaking News, Latest News and Videos",
-      "date": "2026-09-03T16:07:30.000Z",
-      "simple_summary": "Nvidia, a big computer chip company, is buying Hugging Face, a popular online library of AI tools, for about $13 billion.",
-      "why_it_matters": "This mostly matters to investors and tech companies — it won't directly change how you use AI."
-    },
-    {
-      "title": "Nvidia to buy Hugging Face to buy $12.9bn AI software deal",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUERKbnRyTjVyMVF3cEpneExmQWgwR3Z0WGVZb0xKU2tscll0dmZRMXBmc0FKcWg3N0NvWElDaVJ5a2xUQXRuaDdUN0M1aWREeWtaNmdYRzczUQ?oc=5",
-      "source": "BBC",
-      "date": "2026-09-03T16:01:39.000Z",
-      "simple_summary": "Nvidia is purchasing Hugging Face, a major website where programmers share and use AI models, for nearly $13 billion.",
-      "why_it_matters": "This is mostly important to tech investors and engineers — it doesn't affect everyday users."
-    },
-    {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "source": "The Verge",
-      "date": "2026-09-03T16:00:00.000Z",
-      "simple_summary": "Nvidia released free software that lets you connect your home computers together to run AI tools privately on your own devices, without sending information to the internet.",
-      "why_it_matters": "If you want to use AI privately at home without sharing data with companies, this could be useful, but it's mainly for people comfortable with computers."
-    },
-    {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "source": "The Verge",
-      "date": "2026-09-03T16:00:00.000Z",
-      "simple_summary": "Google added voice assistant features to Gmail, Docs, and Keep so you can talk to these apps instead of typing — like having a helper listen to your requests.",
-      "why_it_matters": "This could make Google's office apps easier to use if you prefer speaking instead of typing, though it's still being rolled out gradually."
-    },
-    {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5",
-      "source": "The Verge",
-      "date": "2026-09-03T15:35:14.000Z",
-      "simple_summary": "Several popular AI chatbots (ChatGPT, Grok, and Claude) all stopped working at the same time.",
-      "why_it_matters": "This shows that AI services can have outages like any website — good to know if you rely on them."
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch",
-      "date": "2026-09-03T15:00:00.000Z",
-      "simple_summary": "Google created a new AI weather prediction tool that forecasts rain and snow, and will put it into Google Search, Maps, and Gemini.",
-      "why_it_matters": "You might get more accurate weather forecasts in Google products, which could help you plan your day better."
-    },
-    {
-      "title": "Google says its AI weather model is getting better",
-      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "source": "The Verge",
-      "date": "2026-09-03T15:00:00.000Z",
-      "simple_summary": "Google improved its AI weather forecasting model to be more accurate at predicting rain, snow, and giving detailed local weather pictures.",
-      "why_it_matters": "Over time, this could make weather apps more helpful, especially for predicting sudden storms in your area."
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch",
-      "date": "2026-09-03T12:42:45.000Z",
-      "simple_summary": "Nvidia confirmed it is buying Hugging Face, a major website with millions of AI models that millions of programmers use.",
-      "why_it_matters": "This is a business deal between tech companies — it doesn't immediately affect what most people do with AI."
+      "date": "2026-09-03T16:11:09.000Z",
+      "simple_summary": "Nvidia is spending $13 billion to buy Hugging Face, and the company will stay as an open platform (meaning people can still use and share tools freely on it).",
+      "why_it_matters": "This is a large business deal — Nvidia is investing heavily in AI, but this doesn't change what tools are available or how you'd use them."
     }
   ]
 }
