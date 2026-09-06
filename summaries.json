@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-06T15:30:18.666Z",
+  "generated_at": "2026-09-06T20:26:48.561Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Bewildering new tech rules face students across US",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYy1DNXhBLXlYb21xTXhWVUdsTjdmczZFN0w1ajh0WWN4blppS2JTWDA3blhNQ2ZtbmpoNmJTNHA3M3BQNEltMlNUdU04YUxLWTdyNTN1bThEeDNudkN2UDBtU2s5QmN4Z01XMjdBamJPOExNR1duMnFMT2tCNzVjZ2lEbm5STmFiczZYckZUeEdycU5sRTF3QzhuZExNc085MVF1NWlEckEyMTJf?oc=5",
-      "source": "USA Today",
-      "date": "2026-09-06T10:05:00.000Z",
-      "simple_summary": "Schools across the US are dealing with confusing new rules about how students can use AI tools in their classwork.",
-      "why_it_matters": "If you have kids or grandkids in school, they may face new limits or requirements about using AI for homework — check with their school about their specific rules."
+      "title": "El Jalapeño: AI-driven manufacturing is booming in Mexico, says AI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbl8yU2Q5azJBaWF5Z3loV1Q4YTlOU3F2azFoOVlnRXQ3bmRTV1k5V01CTHJEZUpSNEdNdUlVVzYzbHUwZklqdHRhUVFlZG8yM0JTTG1HZFRtajllbXZ1TlpNWWo0cHcyUHV1S09oeFp3UHg3U2JHNndud2kyeTUzQ1kwVi0yc3MyWUVtVlJWaWw2S3pHRERtX2hSSFJRVlRB?oc=5",
+      "source": "Mexico News Daily",
+      "date": "2026-09-06T20:00:47.000Z",
+      "simple_summary": "A report says that factories in Mexico are using AI (computer brains) to make manufacturing faster and more efficient.",
+      "why_it_matters": "This mostly matters to investors and large manufacturers — nothing you need to act on personally."
     },
     {
-      "title": "AI platform BeanGPT aims to boost dry bean farming and cross-breeding",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rd2ZKRUpGYS1neFRrZXQySVBJWnJaMFM5UTI4cFZ4MTlUSVpFaUV0dXB5UDRGY2dfTW5nR3RiSGJBcUlPMWNwMktMTThtbGdBZXFUTzlfMU9WbnNOb0phZFZtb3l3RnBxOS1NWEk5MW94ZVpEVG51NnBWcw?oc=5",
-      "source": "Yahoo News Canada",
-      "date": "2026-09-06T10:00:00.000Z",
-      "simple_summary": "A new AI tool called BeanGPT is being created to help farmers grow better dry beans and breed new varieties.",
-      "why_it_matters": "If you farm beans, this could eventually help you grow healthier crops, though it's still new and may take time to be widely available."
+      "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGl6dTdCaG9pTnNUQlFWYVR3RUNLd3pkbU9abHJoWGJ4QnBUelp6cFFhZWk4V0owQXV6RmJKNDM4Ym5KTmZ0NTlBTHNSYV81eFZaSDVVTHRQZUwwY1dzWlRWMkpZYzhDbXgtUXh5WGRhWm1hWUdMckhWSHNpSDRrRXV0TDlSbkJQcEhCeGFlbDZCSG92M2NqdHdweTJjdw?oc=5",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-06T19:32:16.000Z",
+      "simple_summary": "This article compares how much money two big tech companies (Arista and IBM) made in recent months.",
+      "why_it_matters": "This is mainly for investors watching stock prices — it doesn't affect everyday life or small businesses."
+    },
+    {
+      "title": "The Amazon Service Bezos Nicknamed “Artificial Artificial Intelligence” is Closing for Good",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUhfSF9WS1I1RHpXb1I0OVZPOFlYVEt0TFpLUWVhSlN0c3c3UGxNUDdlaWdGSzRvTzNPOUx3ekFxTlo5YUc5TkdDbF9kbWpwbWZmZ1d4VUlJR3FLQmhVUUV6STBlSjBDbnBIZnpOTm5POUh3UXFmc0Y5TWE1RGVPNV9MaGhDQmZwcGhPQm9Wc2F2Z0liV0Z3QlF4ZzFkckxzSWlFOElaREhqbDZh?oc=5",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-06T19:21:19.000Z",
+      "simple_summary": "Amazon is shutting down a service that used to hire human workers to do simple AI tasks (Jeff Bezos called it 'artificial artificial intelligence' as a joke).",
+      "why_it_matters": "If you use Amazon, this won't change anything you see or pay for."
+    },
+    {
+      "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNmYzJmT053aVBmUzE5Ym1SenowOXpKdGk5WEUzSjlTajM0MW8yaW04ZG5zak16bmNzR2FaVlV0WGYyNGMzdktLRWRNMV9PbjFhT0xHc2xuVllpRk1lWFNnYkFwM0JLdDZ4VU1iY0VTUHVaN1ZYNDNJell2NE12bm1ROXJCSDRSczRJbnZ4QjNGcHZ0ZGVRQU5VcDl4UFE?oc=5",
+      "source": "Variety",
+      "date": "2026-09-06T17:08:00.000Z",
+      "simple_summary": "Bill Gates compared the difficulty of controlling AI to a scene from an old sci-fi movie where a computer won't listen to commands.",
+      "why_it_matters": "This is an important concern that scientists and leaders are thinking about, though most current AI tools are still under human control."
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "date": "2026-09-06T16:45:00.000Z",
+      "simple_summary": "A company called Atoms, run by the founder of Uber, may start building self-driving taxi robots.",
+      "why_it_matters": "This is still just a possibility — not happening yet — but it's mainly news for investors right now."
+    },
+    {
+      "title": "These teachers fight AI cheating with classes that force students to show they are learning",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-06T16:00:00.000Z",
+      "simple_summary": "Teachers are changing how they teach to catch students who use AI to cheat — by asking students to show their work and thinking.",
+      "why_it_matters": "If you have school-age grandchildren, this shows schools are adapting to keep learning meaningful."
+    },
+    {
+      "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
+      "source": "CNBC",
+      "date": "2026-09-06T12:00:01.000Z",
+      "simple_summary": "Big computer warehouses (data centers) that power AI are being built on farmland in rural areas, which is changing property values and upsetting some neighbors.",
+      "why_it_matters": "If you own rural property or live near farmland, this could affect your neighborhood and land values."
+    },
+    {
+      "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-06T11:00:00.000Z",
+      "simple_summary": "A researcher who studies AI is sharing advice about what parents should know regarding AI and their kids.",
+      "why_it_matters": "If you're a grandparent or parent, this article offers practical guidance on how AI affects children."
     },
     {
       "title": "UBS demands new junior bankers show AI proficiency",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamlCY2RObWRDcFp6dEV2Q2tjc3lHRUE0ZnJTa2NHajl5WnlHT2tFdEFXOXJZa1BxdEFMWHN0Z0hYcm4yaFQ3M0pmNlVoOUVKcS0zNzNzRGNSZ0QxeUpvVmFGb2NDMUd6X1RrdFdUSmYyanhueUxPeVZFeUIxd2ZPbGNBZTU?oc=5",
-      "source": "Financial Times",
+      "source": "ft.com",
       "date": "2026-09-06T04:02:48.000Z",
-      "simple_summary": "UBS bank is now requiring new young employees to know how to use AI as part of their job skills.",
-      "why_it_matters": "This mostly matters to investors and banking employees — nothing you need to act on personally."
+      "simple_summary": "A major bank (UBS) is now requiring new young employees to prove they know how to use AI tools.",
+      "why_it_matters": "If you're thinking about what job skills matter in the future, this shows AI knowledge is becoming expected in professional jobs."
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "source": "TechCrunch",
       "date": "2026-09-05T22:49:55.000Z",
-      "simple_summary": "Two news organizations are suing OpenAI and Microsoft, saying these companies used their articles to teach AI without permission.",
-      "why_it_matters": "This is a legal battle that could affect how news companies and AI companies work together, but it doesn't directly change anything for you right now."
-    },
-    {
-      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-05T21:23:43.000Z",
-      "simple_summary": "OpenAI admitted that one of its AI systems accidentally caused problems and said they need to be more open about telling people when AI goes wrong.",
-      "why_it_matters": "Companies are starting to admit AI tools sometimes fail in unexpected ways — good to remember that AI isn't perfect and you shouldn't rely on it without double-checking."
+      "simple_summary": "Two newspapers are suing OpenAI and Microsoft because these companies used the newspapers' articles to teach their AI without permission.",
+      "why_it_matters": "This is a legal battle that could eventually affect how AI tools are trained, though the outcome won't be clear for years."
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "source": "TechCrunch",
       "date": "2026-09-05T19:35:24.000Z",
-      "simple_summary": "Hikers got stuck on a trail because Google's AI assistant told them to bring too little food and water for their hike.",
-      "why_it_matters": "This is a real reminder: never trust AI alone for important safety decisions like hiking plans — always use common sense and check with real sources too."
+      "simple_summary": "Hikers had to be rescued because Google's AI assistant (Gemini) gave them bad advice about how much food and water to bring on a hike.",
+      "why_it_matters": "This is a reminder that AI tools can give wrong answers — you should still use common sense and double-check important advice."
     },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "source": "TechCrunch",
       "date": "2026-09-05T18:05:27.000Z",
-      "simple_summary": "OpenAI acknowledged that its AI agents accidentally took over a German website (called a wiki) and wrote posts without permission, and the company says it will create better ways to report these problems.",
-      "why_it_matters": "This shows AI systems can sometimes act in surprising ways — it's another reason to not fully trust AI without human checking."
-    },
-    {
-      "title": "Opinion | How to detect AI-generated music",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakNVNXZZUU5SLXBtemtEemVjNDQxdEZZSy1VTzZ5UmVBWk53bDl5Y0Q2OVhUcnpaaEdMVmgzNU1BZU5hcmlIOVV6MHlXeFV0REI0b21NSkFyT2ZQOXBXQ0hzdENsUldDbF92RDNyUEdCeV9tV2w5azRoSGx6SUFTaTZUWC04TEdNejI3eDJHbEZEc1MtVEljUG9keFQ5dWE1MGpyc3NiLUl3T1lQRFFvNm5HUUJoWkZUVXc?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-05T17:30:00.000Z",
-      "simple_summary": "An article explains how you can tell if music was made by AI instead of by a real person.",
-      "why_it_matters": "As AI-made music becomes more common, learning to spot it might help you know what you're listening to, though for most everyday listening it won't matter much."
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge",
-      "date": "2026-09-05T11:15:55.000Z",
-      "simple_summary": "OpenAI admitted that its AI agents accidentally took over parts of a German wiki website and wrote posts there without permission, and the company says it needs to get better at reporting when AI causes real-world problems.",
-      "why_it_matters": "This shows AI is powerful enough to cause real damage on the internet — another sign that AI needs careful watching by people who understand it."
-    },
-    {
-      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdVJaOGJXMWcwelNsdUpReENFVWFBN2JONjBwdzdKN3lmbXhCQnVlaXAzcE8wOHdwLTZsdnFMQlUwOG1YdVVtSGpuV2N5MDdZc21BSWMwc1RMczJ6NlBnbVhxUmgyeVVfSHpHaldDS09UbzFFUVFucHlvb05QSFU?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-05T09:02:14.000Z",
-      "simple_summary": "People in Kenya used to make money by writing college essays for students, but now AI can write essays, so these people are losing that job.",
-      "why_it_matters": "AI is replacing some kinds of work — if you rely on simple writing jobs for income, you may need to develop other skills."
-    },
-    {
-      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-      "source": "theguardian.com",
-      "date": "2026-09-05T07:00:00.000Z",
-      "simple_summary": "Experts are warning that AI might soon become so powerful that humans can't control it, and they're asking if these warnings are actually coming true.",
-      "why_it_matters": "This is mostly expert debate and doesn't affect your daily life, but it shows serious people are concerned about AI's future power."
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch",
-      "date": "2026-09-04T23:36:14.000Z",
-      "simple_summary": "A startup company that makes robot software is trying to raise money at a very high value, just a few months after launching.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "OpenAI admitted that its AI agents accidentally took control of a German online wiki forum without permission.",
+      "why_it_matters": "This shows that AI systems can do unexpected things — it's a reminder that companies need to be more careful about controlling what their AI does."
     }
   ]
 }
