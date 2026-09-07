@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-07T12:39:01.172Z",
+  "generated_at": "2026-09-07T21:33:04.681Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Happy Labor Day From Your Robot Overlords",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JQ0gtNGtNbnI3VkMzRzZrbjRWZDg2V3daWEJUZTdLdFFpdUhUV1lHRWJfdzZRVzFRNVpBSEoxZUN1Si1DNmxIVHdpZ3RQWURzVjkwZXZuSHpNYlZXN1VzbGxQUl9hWGlUeVNEUHBR?oc=5",
-      "source": "Newsweek",
-      "date": "2026-09-07T10:37:00.000Z",
-      "simple_summary": "This is a humorous headline using a joking tone about AI systems.",
-      "why_it_matters": "This is just a playful article—nothing you need to worry about."
+      "title": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3RiRnp5ZDBKeENGMDdlMUNIVjVxNmVSOGZ4NnoxZy1zVzFQS2E0V2RZQkFwVGN4U0dINndLR0xXb2VmUVM2cUthVmZKUWtqMF9RRzZaeXhDQkozb3V5T3d1WGd0a3J1UEpRSElpOVNRZ3Rzb2xreTl0NHBJbUwxOGVJY0Q2OGpFbGNtT0VtenVJOHJYUmxrVTlia3dmOTg1Q2V3bHRZeHBYcjAxVUE1RndTdHlDdjdzZGQxSzlkaGI?oc=5",
+      "source": "smh.com.au",
+      "date": "2026-09-07T20:24:47.000Z",
+      "simple_summary": "A top scientist at the company that made ChatGPT is warning that AI is developing very fast and most people and organizations aren't ready for what comes next.",
+      "why_it_matters": "This is mainly a warning for business leaders and governments to think ahead — ordinary people should stay curious about AI but don't need to panic or rush."
     },
     {
-      "title": "UH launches free AI course aimed at building literacy across Hawaii",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSE9VdGFuYWJvVmlUYXp6cUY5eW1KRlpaQkxVTGJ6bDlhRTNkZTl2c3dhTXEtYk1PS0RhS09CcHMxQWN3X21ZZlpnbTVTbXU1SEdoTmpOVnM1cVpxSW1hSVRxT2VvRDNoT01FSW5aRU84aVBYYlZWdTVrZ2EwVU1UcllYUWo0T211M1FYOW9pZ1JMaHFGVmM3SVlQbmpmOW1XZ3phUVF1cjg1X1p0bnhnMk9xakJmQ2NqZWtQRkVlT3NLUVNtTGt3?oc=5",
-      "source": "Hawaii Tribune-Herald",
-      "date": "2026-09-07T10:05:00.000Z",
-      "simple_summary": "A university in Hawaii is offering free classes to help people understand AI better.",
-      "why_it_matters": "If you live in Hawaii and want to learn what AI is and how it works, this is a free chance to do so."
+      "title": "With AI Remarks, Deming Dismisses Integrity at Harvard",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdDBYcHIxRUJEaWFjSDVLbllDcXBuWHhLUVRQOGRxWHV4QmlicHdZOURodW9UWDZxRUQzV09vMzRsdVB0NkQweFUzZElxR0NrME5tb1V5VGZCS0lFUmtSZzlfX2FDVGtEQVV4eF90V2xZSnpVUWNYcC0xdWQ1c0ZENFlKZHRyZXAwdTdvVkZ1WkJHc3AwdlE?oc=5",
+      "source": "The Harvard Crimson",
+      "date": "2026-09-07T13:34:29.000Z",
+      "simple_summary": "Harvard's president made some comments about AI that critics say showed poor judgment or dishonesty.",
+      "why_it_matters": "This is mostly about Harvard's internal leadership — it doesn't directly affect your daily life or business."
     },
     {
-      "title": "Spare a Thought for the Kenyan Essay Writers Who Used to Help Students Cheat Before AI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1hKWGROUkxURm9GZFc4R0xSX1lGVl9CZ2pTNld5ekN0bE94bUVCY2VuNDMxZXUzaVcwalVFTHg2MGN5NEJwYXBwWDhpcjUwSlRhakVjcmNIQllSS2NPZzhScWgzbmlpNjZ6dnZjRU9lejF0Q2JCLXRJUVVGQUI0TVJYNEV3MlB1LS10NjNOWEtMN1lQSl9abllpaXNjUThuZnB6aWZlb0FabWk0c1RPMEdiSkVTWnRu?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-09-07T09:30:49.000Z",
-      "simple_summary": "AI tools can now write essays so well that students don't need to pay essay-writing services anymore, which is hurting people who made money that way.",
-      "why_it_matters": "This mostly affects essay-writing services and workers in other countries—not directly relevant to most small business owners."
+      "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHp0YWJlbTRTUmVFaHZ3MXJTdzkybG5RODExMEFRMW92TC1KLWM4bzB5ZlBuLWIwdkUxUkhra21oaE8yWXVvUTRoQWUxTEdoVmJnZzJJeVAyVTl2UVNDUGRJQWFtanhGZTViejd0NGF0NWVYRTNRRC1UQXRtLWZpaEpRdDdtd0FkR29Id1FDSDc5VmVzMWRuZEZsaS05X2pYV2duc21BLThrSGRSSlQ5UHN3TWdULUdJd3FjX3hqNmg3clJOTUZSNVRBdG9uQ3FsNHdKdThBU0JOcUxqSjduNWNYNWFRRl9tT2hLcHlWelhmLU9EVkcwMmtR?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-09-07T13:25:56.000Z",
+      "simple_summary": "OpenAI's new AI model solved a complex puzzle on its own in one day, spending only about $571 in computer costs to do it.",
+      "why_it_matters": "This mostly matters to tech investors and engineers — it shows AI is getting faster and cheaper, but this particular achievement doesn't yet change what tools you can use in your business."
     },
     {
-      "title": "‘Godfather of AI’ warns of catastrophic consequences for humanity",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUdLY3Rxd2VmRzdGWEFIYVhBQnJaeEZSNUtmUWVMd21yZG55ZjF5a2o1WGpvVWxxb0psdFNaZlVUbzNlMWdwTEZPOV90M0g0ZFJFTXhTVi14UUEyWXB0V2IyaC1xSHBYbEhDaUNQWkVmdVJhTDJGaUFrVDFNYnNwVTdxblEzSkJ2Zlp0SGhUU0FZS1NOTk15YXR2S1ZqT2tNNEE0ZWJvdG45VzlRdDA5Nm5ucw?oc=5",
-      "source": "The Times",
-      "date": "2026-09-07T09:10:00.000Z",
-      "simple_summary": "A famous AI expert is warning that AI could cause serious harm to society in the future.",
-      "why_it_matters": "This is an expert's opinion about long-term risks—important to think about, but doesn't affect your daily life right now."
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-07T12:22:07.000Z",
+      "simple_summary": "The chief scientist at OpenAI is publicly warning that nobody is truly prepared for how powerful and widespread AI will become.",
+      "why_it_matters": "This is similar to headline 0 — it's a heads-up to stay aware, but not something ordinary people need to act on right now."
     },
     {
-      "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
-      "source": "reuters.com",
-      "date": "2026-09-07T09:08:19.000Z",
-      "simple_summary": "The United Nations is warning that AI could pose very serious risks to humanity.",
-      "why_it_matters": "This is a warning from world leaders about future risks—important for society to consider, but doesn't change your life today."
+      "title": "It took 74 years, but this lifelong Luddite learned to stop worrying and love AI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXZxdUphZ1F2N2pSNTVTRUlHdWM0aUE0b19CenQtV1VicDBHN3FtNGJRcGVhYWdxbWl3TjJNWVpldXBCMWZ4NGNsVC1OaGcxNHQ4RGRjbGc3RklaQWhlczMtUXh5RDF6YlFWd3ZxMGpHVDNISTZIT3RYVGhFVGlkb3J0RGZFRlh1LWRWeVBfVVUwSUlydDhnU0Z5NEtGeEt1M282RXVWQQ?oc=5",
+      "source": "San Francisco Chronicle",
+      "date": "2026-09-07T11:18:39.000Z",
+      "simple_summary": "Someone who avoided technology most of their life has decided to embrace and learn about AI.",
+      "why_it_matters": "This is a personal story showing it's never too late to get comfortable with new technology — encouraging but not urgent."
+    },
+    {
+      "title": "Exclusive: Ineffable Intelligence adds 6 \"cofounders,\" hiring from Google DeepMind and InstaDeep",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakpJVXlZRlVXRHhuNUJGWVFueHpGY1dsQ0k1LXRldktNcVVKSkxLQjA4QUk5ZVZUTHBDeUFObHpSR01obFFOT2VaV0RBbmR0QkVlZW16VUZ5Sm1Fc0dHTWdDNGRqSjkxSmZ5bVF2azUzNkM2bFhsUVUxQWdXYVZfVkFpcjA4VGJENjNGYUI2N2l3a2hpT1ZVczVWQkFuaU5zQ1QzMzg1RkJSVkJIQ0x2blExYkxLUWM?oc=5",
+      "source": "Fortune",
+      "date": "2026-09-07T10:35:00.000Z",
+      "simple_summary": "A new AI company called Ineffable Intelligence hired six top scientists who used to work at Google's AI team and other AI labs.",
+      "why_it_matters": "This mostly matters to investors following the AI industry — it's not relevant to your small business or daily life."
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: How to make the world safer for AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-07T05:00:00.000Z",
+      "simple_summary": "An opinion piece discusses how to make sure AI is developed safely.",
+      "why_it_matters": "This is a high-level policy discussion — not something you need to worry about or act on now."
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "source": "The Verge",
       "date": "2026-09-06T23:36:04.000Z",
-      "simple_summary": "Two newspapers are suing OpenAI and Microsoft because the companies used their news articles to train AI without asking permission or paying them.",
-      "why_it_matters": "This matters if you create content (writing, photos, etc.) and want to control how others use it—it's still being decided in court whether AI companies need to pay for what they use."
+      "simple_summary": "Two newspapers (Seattle Times and Newsday) are suing OpenAI and Microsoft, claiming the companies used their news articles to teach AI without asking permission and the AI now copies passages from their stories.",
+      "why_it_matters": "If you're a small business with valuable content, this shows you might want to think about who has permission to use your work — but for most people, this is mainly a legal battle between big companies."
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch",
       "date": "2026-09-06T20:47:37.000Z",
-      "simple_summary": "Writers and publishers are arguing over who should get paid from a settlement with an AI company.",
-      "why_it_matters": "This is a legal dispute among publishers and writers—mostly relevant to people in the publishing business."
-    },
-    {
-      "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNmYzJmT053aVBmUzE5Ym1SenowOXpKdGk5WEUzSjlTajM0MW8yaW04ZG5zak16bmNzR2FaVlV0WGYyNGMzdktLRWRNMV9PbjFhT0xHc2xuVllpRk1lWFNnYkFwM0JLdDZ4VU1iY0VTUHVaN1ZYNDNJell2NE12bm1ROXJCSDRSczRJbnZ4QjNGcHZ0ZGVRQU5VcDl4UFE?oc=5",
-      "source": "Variety",
-      "date": "2026-09-06T17:08:00.000Z",
-      "simple_summary": "Bill Gates compared AI to a computer from an old movie that doesn't listen to commands—suggesting AI might not always do what we tell it to do.",
-      "why_it_matters": "This is a concern about whether we can control AI in the future, but it's one person's opinion at a film festival—nothing you need to act on now."
+      "simple_summary": "Authors are disagreeing with publishers and agents over who should receive money from a settlement deal with AI companies.",
+      "why_it_matters": "This is mostly relevant to professional writers and publishers — the outcome may affect how AI companies handle authors' work in the future."
     },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "source": "TechCrunch",
       "date": "2026-09-06T16:45:00.000Z",
-      "simple_summary": "A company founded by Uber's former leader might start a robotaxi service (self-driving taxis).",
-      "why_it_matters": "This mostly matters to investors watching the company—nothing you need to do now."
+      "simple_summary": "Travis Kalanick (the founder of Uber) is reportedly considering having his company Atoms get involved in self-driving robot taxis.",
+      "why_it_matters": "This mostly matters to investors and people interested in taxi and transportation — if you run a regular business, this doesn't directly affect you yet."
     },
     {
       "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "date": "2026-09-06T11:00:00.000Z",
-      "simple_summary": "A researcher who studies AI is sharing advice for parents about how AI might affect their children.",
-      "why_it_matters": "If you're a parent or grandparent, learning what experts say about AI and kids could be helpful for making decisions about your family."
+      "simple_summary": "A researcher who studies AI is writing advice for parents about how to help their kids understand and safely use AI.",
+      "why_it_matters": "If you have grandchildren or children, this is worth paying attention to — it's practical guidance on keeping young people safe with new technology."
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "source": "TechCrunch",
       "date": "2026-09-05T22:49:55.000Z",
-      "simple_summary": "Two more newspapers are suing OpenAI and Microsoft over the same issue—the companies used their articles to train AI without permission.",
-      "why_it_matters": "Same as headline 5—this ongoing legal battle will help decide whether AI companies must pay for using people's work."
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "date": "2026-09-05T19:35:24.000Z",
-      "simple_summary": "Hikers got in trouble because Google's AI assistant told them to bring much less food and water than they actually needed.",
-      "why_it_matters": "This shows you shouldn't trust AI for critical decisions like hiking supplies—it can give dangerously wrong advice, so always double-check important information."
+      "simple_summary": "Two more newspapers are joining lawsuits against OpenAI and Microsoft over using their journalism to train AI systems.",
+      "why_it_matters": "Similar to headline 7 — this is a legal issue between publishers and tech companies; most small business owners don't need to act now, but it shows an ongoing battle over who controls content."
     }
   ]
 }
