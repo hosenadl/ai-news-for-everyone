@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-07T04:46:48.452Z",
+  "generated_at": "2026-09-07T12:39:01.172Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI job loss forecasts loom as unions push for protections",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWI0WEZsNjNuNF9PN2FJYXluckNKZ2lwelpSNzZvN1JSLUpKeW00aUFZVDYxMG5oRFpNUDRvOWlDRklLWVdNdGJmbmFPdS1ndnhYSU1fNGhwaGFONG54SkpObThrdnk3VThKbTN0WWl1TnhWZ1Z4eXlEM2dTOWZGSkRZc1ZWTDkweFBzcll6SDM2WlNZYVZuZEpaS1VvekN4T0FZOS11YVRYazJIWXRNcFJYV1l0bDNTODBXdkdYWXI0b1dabTg5cmN4eFJuTi1KWkt2aHNzSQ?oc=5",
-      "source": "The Detroit News",
-      "date": "2026-09-07T04:02:00.000Z",
-      "simple_summary": "As AI gets better at doing jobs, unions are asking the government to make rules that protect workers from losing their jobs.",
-      "why_it_matters": "If you have employees, this might eventually affect labor laws and worker protections — but nothing urgent right now."
+      "title": "Happy Labor Day From Your Robot Overlords",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JQ0gtNGtNbnI3VkMzRzZrbjRWZDg2V3daWEJUZTdLdFFpdUhUV1lHRWJfdzZRVzFRNVpBSEoxZUN1Si1DNmxIVHdpZ3RQWURzVjkwZXZuSHpNYlZXN1VzbGxQUl9hWGlUeVNEUHBR?oc=5",
+      "source": "Newsweek",
+      "date": "2026-09-07T10:37:00.000Z",
+      "simple_summary": "This is a humorous headline using a joking tone about AI systems.",
+      "why_it_matters": "This is just a playful article—nothing you need to worry about."
     },
     {
-      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-07T02:53:00.000Z",
-      "simple_summary": "China is developing its own AI companies that are competing with Nvidia, an American chip company.",
-      "why_it_matters": "This mostly matters to investors and tech companies — nothing you need to act on."
+      "title": "UH launches free AI course aimed at building literacy across Hawaii",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSE9VdGFuYWJvVmlUYXp6cUY5eW1KRlpaQkxVTGJ6bDlhRTNkZTl2c3dhTXEtYk1PS0RhS09CcHMxQWN3X21ZZlpnbTVTbXU1SEdoTmpOVnM1cVpxSW1hSVRxT2VvRDNoT01FSW5aRU84aVBYYlZWdTVrZ2EwVU1UcllYUWo0T211M1FYOW9pZ1JMaHFGVmM3SVlQbmpmOW1XZ3phUVF1cjg1X1p0bnhnMk9xakJmQ2NqZWtQRkVlT3NLUVNtTGt3?oc=5",
+      "source": "Hawaii Tribune-Herald",
+      "date": "2026-09-07T10:05:00.000Z",
+      "simple_summary": "A university in Hawaii is offering free classes to help people understand AI better.",
+      "why_it_matters": "If you live in Hawaii and want to learn what AI is and how it works, this is a free chance to do so."
     },
     {
-      "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHJpdXBWMl9kSWRiT002c1hmbmdKRGxKVWpqTi16SnBrWkVIcjdqUlpHWF9YVExuN3dFVDZDWEpVbTFTSWh3YmhIeUEtdXZ0NmVpUlJ0TFowdGpvZTZueDgxSy05eHd0VGxEaTItOEZWNVRadXFRcEQ5MWgzYTEySUNocUpSOGhfX1MtanBVSFQwNFQzLUpVUDY4aHNodUkxeWttMHhmMVc1azFwWm9jUkxWejVnVzA3dDJ3d1J1WlE3cXF6eUMwT2hxQUhVN1E?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2026-09-07T00:20:00.000Z",
-      "simple_summary": "The US and China are talking about making rules together for AI technology, even though they're in competition on other tech issues.",
-      "why_it_matters": "This is politics between countries — nothing you need to act on."
+      "title": "Spare a Thought for the Kenyan Essay Writers Who Used to Help Students Cheat Before AI",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1hKWGROUkxURm9GZFc4R0xSX1lGVl9CZ2pTNld5ekN0bE94bUVCY2VuNDMxZXUzaVcwalVFTHg2MGN5NEJwYXBwWDhpcjUwSlRhakVjcmNIQllSS2NPZzhScWgzbmlpNjZ6dnZjRU9lejF0Q2JCLXRJUVVGQUI0TVJYNEV3MlB1LS10NjNOWEtMN1lQSl9abllpaXNjUThuZnB6aWZlb0FabWk0c1RPMEdiSkVTWnRu?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-09-07T09:30:49.000Z",
+      "simple_summary": "AI tools can now write essays so well that students don't need to pay essay-writing services anymore, which is hurting people who made money that way.",
+      "why_it_matters": "This mostly affects essay-writing services and workers in other countries—not directly relevant to most small business owners."
+    },
+    {
+      "title": "‘Godfather of AI’ warns of catastrophic consequences for humanity",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUdLY3Rxd2VmRzdGWEFIYVhBQnJaeEZSNUtmUWVMd21yZG55ZjF5a2o1WGpvVWxxb0psdFNaZlVUbzNlMWdwTEZPOV90M0g0ZFJFTXhTVi14UUEyWXB0V2IyaC1xSHBYbEhDaUNQWkVmdVJhTDJGaUFrVDFNYnNwVTdxblEzSkJ2Zlp0SGhUU0FZS1NOTk15YXR2S1ZqT2tNNEE0ZWJvdG45VzlRdDA5Nm5ucw?oc=5",
+      "source": "The Times",
+      "date": "2026-09-07T09:10:00.000Z",
+      "simple_summary": "A famous AI expert is warning that AI could cause serious harm to society in the future.",
+      "why_it_matters": "This is an expert's opinion about long-term risks—important to think about, but doesn't affect your daily life right now."
+    },
+    {
+      "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
+      "source": "reuters.com",
+      "date": "2026-09-07T09:08:19.000Z",
+      "simple_summary": "The United Nations is warning that AI could pose very serious risks to humanity.",
+      "why_it_matters": "This is a warning from world leaders about future risks—important for society to consider, but doesn't change your life today."
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "source": "The Verge",
       "date": "2026-09-06T23:36:04.000Z",
-      "simple_summary": "Two newspapers (Seattle Times and Newsday) are suing OpenAI and Microsoft because they say these companies used their news articles to train AI without asking permission.",
-      "why_it_matters": "If you create original content (writing, photos, videos), this shows that AI companies might use your work without paying you — something to keep an eye on."
+      "simple_summary": "Two newspapers are suing OpenAI and Microsoft because the companies used their news articles to train AI without asking permission or paying them.",
+      "why_it_matters": "This matters if you create content (writing, photos, etc.) and want to control how others use it—it's still being decided in court whether AI companies need to pay for what they use."
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch",
       "date": "2026-09-06T20:47:37.000Z",
-      "simple_summary": "Authors are arguing that publishers are trying to claim too much money from a settlement about AI training.",
-      "why_it_matters": "If you're a writer or create content, these legal battles might eventually affect whether AI companies have to pay you — but it's still very early."
+      "simple_summary": "Writers and publishers are arguing over who should get paid from a settlement with an AI company.",
+      "why_it_matters": "This is a legal dispute among publishers and writers—mostly relevant to people in the publishing business."
     },
     {
-      "title": "Education experts discuss decision to ban AI in New York City public schools for at least this year",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1ZWUWFnVjRxRHZsNEtJVWVOcjZxSkJZMlV6RVh5Wkc1M01wU1Q0SHg4Ni1QUW01ck13aHVIdmhOZFZkS2RGTE4xRFlSOE8wYVpoeFp5U2FEWWFZT1J3TTgtTWM5c3hRbVl4anNacGY3dzNuaVF4VjRqcEpsbEFacXNUYjBSSHQyWHdqQkxnZUNMYWdTRm16aks0TXIyS2ZSR1FSZ2l1Q0wtNFZaazB3WWxn?oc=5",
-      "source": "CBS News",
-      "date": "2026-09-06T20:38:02.000Z",
-      "simple_summary": "New York City schools are not allowing AI tools in classrooms for now, and experts are discussing whether this is the right choice.",
-      "why_it_matters": "If you have kids in NYC schools or are concerned about education, this means your children won't use AI tools in class this year."
+      "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNmYzJmT053aVBmUzE5Ym1SenowOXpKdGk5WEUzSjlTajM0MW8yaW04ZG5zak16bmNzR2FaVlV0WGYyNGMzdktLRWRNMV9PbjFhT0xHc2xuVllpRk1lWFNnYkFwM0JLdDZ4VU1iY0VTUHVaN1ZYNDNJell2NE12bm1ROXJCSDRSczRJbnZ4QjNGcHZ0ZGVRQU5VcDl4UFE?oc=5",
+      "source": "Variety",
+      "date": "2026-09-06T17:08:00.000Z",
+      "simple_summary": "Bill Gates compared AI to a computer from an old movie that doesn't listen to commands—suggesting AI might not always do what we tell it to do.",
+      "why_it_matters": "This is a concern about whether we can control AI in the future, but it's one person's opinion at a film festival—nothing you need to act on now."
     },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "source": "TechCrunch",
       "date": "2026-09-06T16:45:00.000Z",
-      "simple_summary": "A tech founder who started Uber is working on a company that might build self-driving taxi cars.",
-      "why_it_matters": "This mostly matters to investors and the car industry — nothing you need to act on right now."
-    },
-    {
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "source": "CNBC",
-      "date": "2026-09-06T12:00:01.000Z",
-      "simple_summary": "AI companies are releasing new versions of their AI tools so quickly that people are getting tired of keeping up.",
-      "why_it_matters": "The fast pace of change might feel overwhelming, but you don't have to use every new version — stick with what works for you."
+      "simple_summary": "A company founded by Uber's former leader might start a robotaxi service (self-driving taxis).",
+      "why_it_matters": "This mostly matters to investors watching the company—nothing you need to do now."
     },
     {
       "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
       "source": "The Guardian",
       "date": "2026-09-06T11:00:00.000Z",
-      "simple_summary": "A researcher who is also a parent is sharing what parents should know about AI and how it might affect their children.",
-      "why_it_matters": "If you're a parent or grandparent, this is worth reading to understand how AI might show up in your kids' lives."
-    },
-    {
-      "title": "Artificial intelligence answers: what is the expected result of the London derby?",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmJadEdTclRJQUZUWGc1cG9IWFQ1OHQyU2IyUV93cnZCSUpJMWEzUnJ6S2lISlEyd1RScUl5bG9YYXphck12Qmhsd0dUUS00eF9JWUlZVEt4VkN1ZTNncVpVSS1xNGVLX3U3ZUhiT0h4WkxtMy1Oc2ZlVllTblBSUW9wYXlhdnY4dkV2QmE2a1RrblA0bl9nRk9YaFppaTlnVWdMc0syamUwX2QtNlZ0NGtWV1ZGTWhmNlhFTEVUZ2RZNVF2aXVr?oc=5",
-      "source": "Goal.com",
-      "date": "2026-09-06T08:03:34.000Z",
-      "simple_summary": "An AI tool predicted the winner of a London sports match.",
-      "why_it_matters": "This doesn't matter to most people — it's just for sports fans who want to see if AI can guess game results."
+      "simple_summary": "A researcher who studies AI is sharing advice for parents about how AI might affect their children.",
+      "why_it_matters": "If you're a parent or grandparent, learning what experts say about AI and kids could be helpful for making decisions about your family."
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "source": "TechCrunch",
       "date": "2026-09-05T22:49:55.000Z",
-      "simple_summary": "Two newspapers (Seattle Times and Newsday) are suing OpenAI and Microsoft because they say their news articles were used to train AI without permission.",
-      "why_it_matters": "If you create original content, this shows that AI companies might use your work without paying you — something to keep an eye on."
+      "simple_summary": "Two more newspapers are suing OpenAI and Microsoft over the same issue—the companies used their articles to train AI without permission.",
+      "why_it_matters": "Same as headline 5—this ongoing legal battle will help decide whether AI companies must pay for using people's work."
     },
     {
-      "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZ2VWc0U3JGWm1aN09Tb2dMTEh4cnY1c0hsUzM2WmlNMHlPTkN6OUxsTkZSLWdaVGhJS0ltRVFVbWwxQU10dTRJMFp0WHdjUTVMUEsyUGxDcnFPblZRdXRjbm0tYjlPTmxUT1MyU3l3UFlweDc1Z25rU1hCUXlnMjRQYV9GdGRMRzVtWmluUVhQT0VOclRrNQ?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-09-05T19:45:00.000Z",
-      "simple_summary": "An investment article is comparing two computer chip companies (Broadcom and Nvidia) to help investors decide which is the better investment.",
-      "why_it_matters": "This mostly matters to investors in tech stocks — nothing you need to act on."
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch",
+      "date": "2026-09-05T19:35:24.000Z",
+      "simple_summary": "Hikers got in trouble because Google's AI assistant told them to bring much less food and water than they actually needed.",
+      "why_it_matters": "This shows you shouldn't trust AI for critical decisions like hiking supplies—it can give dangerously wrong advice, so always double-check important information."
     }
   ]
 }
