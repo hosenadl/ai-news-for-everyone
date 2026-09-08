@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-08T11:23:16.241Z",
+  "generated_at": "2026-09-08T16:40:56.107Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "source": "The Verge",
+      "date": "2026-09-08T14:00:00.000Z",
+      "simple_summary": "Google created an AI tool that maps human DNA to help scientists understand diseases better and develop new treatments.",
+      "why_it_matters": "This is very early-stage research; it won't affect you immediately, but it could lead to better medicines and treatments for diseases in the future."
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "date": "2026-09-08T13:00:00.000Z",
+      "simple_summary": "Adobe made it easier to use AI in their Premiere video editing software so video editors can generate videos, sound effects, and music without having to switch between tools.",
+      "why_it_matters": "If you edit videos professionally or run a video business, this could save you time — but it's only useful if you already use Adobe Premiere."
+    },
     {
       "title": "China’s top court sets out new AI red lines with rules on deepfakes and privacy",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTdMQWx6TTEtMG5pbHZfQmF0aDJGcTRSd0Jienkyd0h0WkVhS0drU3JGeGZKWVRJeWdiVzFrWDYzcjZEX2J5d1hXQWw1aXpTZWkydTN4S2FWbG81MFNPV1hzZ003OS0yODhBN08yR1g5T2hUVmk5ZEJQTUdPUFZTcmRId3hfMC1wVzJBMndBcldHQVlkMXNvX19BNHpOQWRONlNmT0JIX3gxTUlqbmJhbzNqSVBocEJ2bkxmRUNSQjJ0NUlsa0FaSlZqONIBywFBVV95cUxQMTNFX3hGUm5hUmpFa050NGctVl9BOUZCV243ODNiZFpzS3k3LVZmdWRVZ3B4Ymw5RVRUenpkMGRCdzBuenNfenZFcVNjcjI5dWM2WmloOTgwZW1KeFRZTU9IOXlKUXJTUTYxNldJaFBkQ29ETTlGdlYtVTYyQWFFOHRYeW9vRUNIczRBeWZWa0c2b0d0bzFnS3oyZlk5UU1zdjE2RHBralREZUsxVm1kTUZ3MGxrdVpQRGtta3Jmc2F0UEp3Y3BNelVIVQ?oc=5",
       "source": "South China Morning Post",
       "date": "2026-09-08T11:12:50.000Z",
-      "simple_summary": "China's government created new rules saying companies can't use AI to make fake videos of people's faces or steal their personal information.",
-      "why_it_matters": "If you do business with Chinese companies or have concerns about deepfakes (fake videos that look real), this sets clearer boundaries on what's allowed."
+      "simple_summary": "China's top court created new rules about AI that limit deepfakes (fake videos of people) and protect people's privacy.",
+      "why_it_matters": "Unless you do business in China, this is mostly relevant to government and large tech companies — nothing you need to act on."
     },
     {
       "title": "Opinion | Nowhere to hide: AI blurs the rules of anonymity",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUtFaC1odERLWlh3MDFPdl85OVcyeHh6MVh6VFJXdDl6RWtmVVBPbUVmVkN5YUFSdDRlaGFxelVoMTh2d0ZCRlVaV2hncXpJNkJTdDdhbTRzTFRBOXk0QU9DT0wxb2o2UklzRVR2eFNJZ2RuazZIQzUyRW16SjYwczRzZzNMSmhDbXp0ZGVlaTA1UldTV3YxQUJza19zaVVqX3d5V3hTNjZ1TmJPM2RXbVF3aw?oc=5",
       "source": "The Washington Post",
       "date": "2026-09-08T11:04:25.000Z",
-      "simple_summary": "AI is becoming so good at analyzing information that it's getting harder for people to stay anonymous online.",
-      "why_it_matters": "Your personal information may be easier to identify and connect to you, even if someone tried to hide who it came from."
+      "simple_summary": "An opinion piece warns that AI is making it harder for people to stay anonymous online because AI can identify who you are from small clues.",
+      "why_it_matters": "This matters if you care about privacy online — it's a reminder that AI can recognize people even when you try to hide your identity."
     },
     {
       "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUW43RU1iMjhJdURoS1JpcV9tZW5vSUkxc2FkZzlvVUh3M1hxWGNWcXNOS19RVmYtd0I1VXVyWk5DTEx0LWpFVE15bFg4a0syUUFEVl9mYmxDQ2c1QVlyR3hXOTZmQVR5dS1FRU5XMjZmT3NHNXRUVlF3?oc=5",
       "source": "The Intercept",
       "date": "2026-09-08T10:00:00.000Z",
-      "simple_summary": "The U.S. military asked OpenAI (a major AI company) to build AI that says yes to requests most of the time instead of refusing.",
-      "why_it_matters": "This mostly matters to government and military discussions — it doesn't directly affect your business or daily life."
+      "simple_summary": "The Pentagon (U.S. military) asked OpenAI to create AI that would agree with requests instead of refusing them.",
+      "why_it_matters": "This is mostly relevant to government policy discussions — nothing that affects your daily life or business."
     },
     {
       "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5",
       "source": "BBC",
       "date": "2026-09-08T09:17:48.000Z",
-      "simple_summary": "A leader of a major computer company said AI will find a cure for cancer during our lifetimes.",
-      "why_it_matters": "This is hopeful news about medicine, though promises like this are often optimistic — it's not something to plan your health decisions around yet."
+      "simple_summary": "The boss of a British chip company claimed that AI will cure cancer in our lifetimes.",
+      "why_it_matters": "This is an optimistic prediction from someone trying to promote his company — take it with a grain of salt, and don't count on it happening soon."
     },
     {
       "title": "The House Democrat who's making AI regulation her No. 1 priority",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWHNGVC00NFBFSFNvVDN3cnJfU0ZkUDJBV01WX003akNlZmF5U1NwVUw3OUc3a2lqT3ZFMkZTTzk5Qm51YjFUTzlqa3BSMzFaamtXaE8yZ29GODR6Q0xSdVFrTzJQS1k1Vk1LLU56UGROWG53NkE3UHMxRkFTaXdzMg?oc=5",
       "source": "Politico",
       "date": "2026-09-08T08:45:00.000Z",
-      "simple_summary": "A U.S. politician is making it her top goal to create rules and laws about how AI companies should operate.",
-      "why_it_matters": "New regulations could eventually change how AI tools work or what data companies can use, but this is still in the early stages."
+      "simple_summary": "A U.S. House Democrat is making AI rules and regulation her top priority in government.",
+      "why_it_matters": "This matters if you care about how AI gets regulated in the U.S., but it's mostly about politics right now — no immediate changes for your business."
     },
     {
       "title": "French AI company Mistral hits $24 billion valuation in funding round",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
       "source": "Reuters",
       "date": "2026-09-08T05:02:00.000Z",
-      "simple_summary": "A French AI company was valued at $24 billion in a recent funding deal.",
-      "why_it_matters": "This mostly matters to investors — it shows money is flowing into AI companies, but it doesn't affect your daily business."
+      "simple_summary": "A French AI company called Mistral raised money and is now valued at $24 billion (this is an investor valuation, not money they actually have).",
+      "why_it_matters": "This matters to investors — nothing you need to act on."
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUhpbHllUzltRkhXTWF5dmFqdXUyaDVQUUtIY21OZTBrbEhfcWFYWVlCMUhIZmxBVEVHRXg2MDFMd21UNDFEWEFxSGh3NHhDU3A5OVcyRm1PY01FbktKaDZiZG1jblRzVEhmTlc1eHJ1VW5VaC1KVlpKalFZRm5JczlSQnljV09YUVhlUEZWOGZhRUpJZFlZVWFFSnV4MTlTMzhrbXFDWGh1MVhHYmRsZGtCTl9UOVVxeHc?oc=5",
       "source": "TechCrunch",
       "date": "2026-09-07T19:24:00.000Z",
-      "simple_summary": "An article explains confusing AI words that people should understand.",
-      "why_it_matters": "This is educational content for people trying to learn about AI — helpful if you want to understand news stories better."
+      "simple_summary": "A tech news site is explaining AI jargon and terms people should know.",
+      "why_it_matters": "If you want to understand AI terms better, this could be a helpful reference article."
     },
     {
       "title": "Nvidia CEO Says GPT-6 Astra Brings AGI Closer",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR196Z0xOS3ZTQUVRNm5KMHpMZHJMNEppb3Q2MjhuSjJsdWRPWkhFaFhwUm5HdDFxWmFXSk85MlBnSFkyYXdDUExHWG1MQ3ZPS0dDS0lFQ2hFSTQzNVUtb2dtcjhpZXlhdzNWU1Zkdm1fU2tmSV9pa1FmMFFXZWRtV1JDN3JpRmtWMlc4MURTS2YwMWFwSXhUWTRHdFl0N3FOdGNweEZqU1pYUGpiVV85cHc1YkpoUENSVlEtaVVKRFkzc0ZxeXhZT2NxdGJXM1k?oc=5",
       "source": "PYMNTS.com",
       "date": "2026-09-07T18:25:25.000Z",
-      "simple_summary": "An Nvidia company leader said recent AI progress is getting closer to creating artificial general intelligence (AI that can do almost anything a human can do).",
-      "why_it_matters": "This mostly matters to investors and tech enthusiasts — it's industry speculation rather than something affecting your business today."
+      "simple_summary": "Nvidia's CEO said that a new AI model called GPT-6 Astra is bringing us closer to AGI (Artificial General Intelligence — AI that can do almost anything humans can do).",
+      "why_it_matters": "This is mostly hype and relevant to tech investors — not something that affects your life today."
     },
     {
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "source": "The New York Times",
       "date": "2026-09-07T09:04:03.000Z",
-      "simple_summary": "Early tests show an AI-designed drug might be able to slow down aging in the human body.",
-      "why_it_matters": "This is promising medical research, but it's still in very early testing — don't expect it available anytime soon."
+      "simple_summary": "Early tests show that a drug created by AI might slow down aging in people.",
+      "why_it_matters": "This is very early research and not proven yet — but it's promising and could lead to new anti-aging treatments down the road."
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "source": "The Verge",
       "date": "2026-09-06T23:36:04.000Z",
-      "simple_summary": "Two newspaper companies are suing OpenAI for using their articles to train AI without paying or asking permission.",
-      "why_it_matters": "If you own a business with original content (like a blog or newsletter), this matters — it's a fight over whether AI companies can freely copy your work."
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "date": "2026-09-06T20:47:37.000Z",
-      "simple_summary": "Authors are arguing that publishers are trying to claim more money than they deserve from an AI company settlement.",
-      "why_it_matters": "If you're a writer or creator, this shows the messy legal battles over who gets paid when AI uses their work."
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch",
-      "date": "2026-09-06T16:45:00.000Z",
-      "simple_summary": "A former Uber founder's company might start using self-driving robot taxis.",
-      "why_it_matters": "If self-driving taxis become common, it could eventually change how people get around town — but this is still in early stages."
+      "simple_summary": "Two newspapers (Seattle Times and Newsday) are suing OpenAI and Microsoft for using their news articles to train AI without permission.",
+      "why_it_matters": "If you're a journalist or media company, this matters because it could affect whether AI companies can use your work — for others, it's a legal case between big companies."
     }
   ]
 }
