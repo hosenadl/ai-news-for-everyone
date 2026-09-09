@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-08T21:12:24.396Z",
+  "generated_at": "2026-09-09T04:46:56.581Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Meta Targets Mass Market Automation With New Muse AI Agent",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ19HdjZPbW5hTTlTdzU3NGdiNU5vNUpHWGt6WE1wUzh1RWhrOWZvN3FXM2djZVdfanlsTHZoR1NMRnFIOVJ6VDZmTm5nNUdMMW12dWl4bzljTTVCcDJSYjJ3d2dUZ3VGVC1HeU5yRnhvTlJfYXpTZUo0bHAtTnVLQ1pfRkZraHFHRTlXTVZYRHRxcVA5N3ZqNjVFdE81NV9yNGdR?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-09-08T20:58:53.000Z",
-      "simple_summary": "Meta (Facebook's parent company) is making a new AI assistant called Muse to help regular people with everyday tasks like a helpful assistant.",
-      "why_it_matters": "If you use Meta's services, you might soon have an AI helper available, similar to having a personal secretary — but this is still early, so nothing to act on yet."
+      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "source": "WSJ",
+      "date": "2026-09-08T23:46:00.000Z",
+      "simple_summary": "A researcher at Anthropic, a company that makes AI, quit their job because they're worried that AI is becoming too powerful and not controlled properly.",
+      "why_it_matters": "This mostly matters to investors and people working in AI companies — it signals concerns about AI safety, but doesn't directly affect your daily life or small business right now."
+    },
+    {
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzA3WENHU0hFdjhvUjlBMEEtdThIS254bFprZ2hvUU81MWlURjJqLUQ2SXR4aHFnTjhtN3R3U21ZbzV5Ry1oUmU1SUoyRGc5WV9mRlo5bER2SEk5SjRKdXdpR2pkMzBSN3N4a1NwZE9GR3V6TGFHTlMzQmdjY2taSHMtS2NhRnZ3cm1wTHNOZUNwYUNOTXVzUmd2X1lnWXZJS3VQOHVSLXhxeWw4WTFCb0NyVEg?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-09-08T22:06:58.000Z",
+      "simple_summary": "Amazon is offering a new AI tool called GPT-6 Astra through its cloud services, saying it can help people do more ambitious work.",
+      "why_it_matters": "If you use Amazon's cloud services for your business, this gives you a new option, but most small businesses don't use these services yet."
+    },
+    {
+      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "source": "reuters.com",
+      "date": "2026-09-08T21:31:44.000Z",
+      "simple_summary": "The US government says Chinese AI companies are copying AI technology from American companies without permission.",
+      "why_it_matters": "This is mostly a political and business story between governments and large companies — it doesn't directly affect small business owners."
+    },
+    {
+      "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-08T21:29:00.000Z",
+      "simple_summary": "OpenAI says their AI solved a very difficult math problem that humans haven't been able to solve for decades.",
+      "why_it_matters": "This is mostly important to mathematicians and academics — it doesn't change anything for ordinary people or small businesses."
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch",
+      "date": "2026-09-08T21:10:27.000Z",
+      "simple_summary": "Hackers have found a way to steal login tokens (like stolen keys) from Claude AI users, letting them use someone else's account without permission.",
+      "why_it_matters": "If you use Claude AI, you should check your account for unusual activity and consider changing your password, just like you would with any online account."
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "date": "2026-09-08T21:04:06.000Z",
+      "simple_summary": "A company called Cognition that makes AI coding tools is now valued at $48 billion by investors, showing that investors think there will be multiple successful AI coding companies instead of just one winner.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to do, though it shows AI coding tools will likely keep improving and competing for your attention."
+    },
+    {
+      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-08T21:02:03.000Z",
+      "simple_summary": "OpenAI's AI solved one of mathematics' hardest unsolved problems, called a 'Millennium Problem'.",
+      "why_it_matters": "This is important for mathematicians and researchers — it doesn't affect daily life or small business operations."
     },
     {
       "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
       "source": "BBC",
       "date": "2026-09-08T20:57:09.000Z",
-      "simple_summary": "OpenAI's AI solved a very difficult math problem that mathematicians have been trying to crack for 90 years, doing it in just 88 hours.",
-      "why_it_matters": "This mostly matters to mathematicians and AI researchers — it doesn't directly affect your daily life or business."
+      "simple_summary": "OpenAI says it used AI to solve a difficult math problem that stumped humans for 90 years, doing it in just 88 hours.",
+      "why_it_matters": "This is exciting for mathematicians and researchers, but doesn't change anything for regular people or small business owners yet."
     },
     {
-      "title": "US accuses Chinese AI firms of ‘malicious’ copying of AI technology",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE1feG9lVlVhR0dHbldVRmk0TkRWQXB1b055aDR2dllFamtpRjZPa1dKWGI3RHNRcXdHdTd1M0UzVUk5UlpLbkVfT2NYZ1paTV91RzdiNTMwQjdZZDVtWTJFNDVrSHNPWUFiMU52dVIxdzJtd1p4V1hIME90NFBiaVJ0OFpGWGtJRFVpMHZ1QS1mR0JWUEpEaHZkMDBzYUt2cWY2QlI1SURWUXJ4UnhqQXpubWxCOTcw0gG4AUFVX3lxTE9VeFVkQy1nSVlQTVFDdkJSRXB4MHVvT1RxcXpnOEg3ZXlKbFBHZURrN2JDMnZfSGg3RlZ5UDZOYjVranp6XzUwaGVKdkw4Qnd6T0lJSmpBSk8tbENHLW5hS3lrd0dHSFNXZ1VsTWUtVFpVMmVyVjYtVW00YldIZnNGSFZJdFJoNWNpODNMSmVHVFNQQUJkUlo4eG9YMnlEdUhTYWxuTzk4NnJEWi1Edk9uaUV3Zm51Q2s?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-09-08T20:50:57.000Z",
-      "simple_summary": "The US government says Chinese AI companies copied AI technology unfairly instead of building their own.",
-      "why_it_matters": "This is a government trade dispute — it doesn't affect ordinary people or small business owners right now."
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge",
+      "date": "2026-09-08T20:53:52.000Z",
+      "simple_summary": "OpenAI announced that its AI solved the Navier-Stokes problem, a 90-year-old math puzzle about how liquids flow, though some people are questioning the details of this claim.",
+      "why_it_matters": "This matters to scientists and mathematicians — it doesn't affect small businesses or daily life."
     },
     {
-      "title": "Meta launches personal AI agent, Muse, to help with everyday tasks",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1pwekpmb2dVRnBVWWZvbzZ6dHNISEhWQ2R6SFRfQU14dEd5TXVPUWV1V3hDX3lOZ1VZQUhKZDlyUzFybTJ1Ymh3YUNoR1h3UVZKc2FRRG14QTFOSmd2V2QyWXdTVEpMZzM2aGdSbVlrb3F4U25JaWRoZ01zQnNSSjV3SnRnR2RHTnNqTW9Bc3JrM3JidG5lMUVRcWh3ZXY0Rmc?oc=5",
-      "source": "PBS",
-      "date": "2026-09-08T20:50:24.000Z",
-      "simple_summary": "Meta is creating a personal AI agent called Muse to help you with everyday tasks, like scheduling or finding information.",
-      "why_it_matters": "In the future you might use this as a helpful digital assistant, but it's not available to most people yet."
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge",
+      "date": "2026-09-08T20:16:09.000Z",
+      "simple_summary": "ChatGPT added a new feature called Sketch that lets you draw a quick doodle inside ChatGPT and have the AI turn it into a detailed picture based on your description.",
+      "why_it_matters": "If you use ChatGPT and like creating images, this gives you a simpler way to describe what you want without typing as much."
     },
     {
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-08T19:08:06.000Z",
-      "simple_summary": "OpenAI's artificial intelligence solved one of the world's hardest unsolved math problems that had a $1 million bounty on it.",
-      "why_it_matters": "This is mostly impressive for mathematicians and AI research — it doesn't change things for everyday people or small businesses."
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "date": "2026-09-08T19:00:00.000Z",
+      "simple_summary": "Meta (Facebook's parent company) created a new personal AI assistant called Muse that wants access to your email, calendar, payments, and health information to help you with tasks.",
+      "why_it_matters": "Before using Muse, think carefully about whether you trust Meta with this personal information — it's a choice you'd make yourself, not something required."
     },
     {
       "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0RtbWlkWWU2NWs0TWhieEFJdmlzVVUyQTlfNy1hR1U0TTladUJLdFZpakNrUUNJaHYzRlFHd0ZZMjdRV0t2bGpFbmZIaGU0TFNVNnJUTWZCYlprTF9YLWk2UlZtZ2RhQjBhOFhEZ2ZtTmFsb1NDd0RfOVAtX0ZxQ2twN3JWdTZxZnhTX2t4SDQ2TjBTWUx6S0hMR25JT09FMXZ2XzRwTW9vaVU5?oc=5",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
       "source": "The Verge",
       "date": "2026-09-08T19:00:00.000Z",
-      "simple_summary": "Meta is focusing on a new AI called Muse to try to keep up with rivals like OpenAI in the race to build better AI.",
-      "why_it_matters": "This shows competition is pushing AI companies to improve, which could mean better tools for you eventually — but nothing immediate to do."
-    },
-    {
-      "title": "Opinion | Why hiding is getting harder — even for the most vulnerable",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUtFaC1odERLWlh3MDFPdl85OVcyeHh6MVh6VFJXdDl6RWtmVVBPbUVmVkN5YUFSdDRlaGFxelVoMTh2d0ZCRlVaV2hncXpJNkJTdDdhbTRzTFRBOXk0QU9DT0wxb2o2UklzRVR2eFNJZ2RuazZIQzUyRW16SjYwczRzZzNMSmhDbXp0ZGVlaTA1UldTV3YxQUJza19zaVVqX3d5V3hTNjZ1TmJPM2RXbVF3aw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-08T18:00:00.000Z",
-      "simple_summary": "Unable to confidently explain this story based on the headline alone.",
-      "why_it_matters": "Cannot determine relevance without more information."
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T17:32:15.000Z",
-      "simple_summary": "A mathematician at NYU says OpenAI may have played rough or unfairly in solving that hard math problem worth $1 million.",
-      "why_it_matters": "This is a dispute between AI companies and academics — it doesn't affect you unless you work in mathematics or AI research."
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "source": "The Verge",
-      "date": "2026-09-08T17:27:31.000Z",
-      "simple_summary": "Some paying customers are suing a company called Anthropic, saying they were misled about what they'd get from an expensive subscription plan.",
-      "why_it_matters": "This is a customer dispute over subscription value — as a business owner, remember to be clear about what customers actually get for their money."
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T16:20:31.000Z",
-      "simple_summary": "Google Cloud is partnering with a large business company called Accenture to help sell and use AI tools for big businesses.",
-      "why_it_matters": "This mostly matters to large companies — small business owners may see AI tools eventually, but this deal is aimed at enterprise customers."
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T15:04:09.000Z",
-      "simple_summary": "Google is releasing updates to its Chrome web browser every 2 weeks instead of less frequently, to fix security problems faster because AI is changing how threats work.",
-      "why_it_matters": "Your Chrome browser will update more often — you don't need to do anything; it happens automatically and keeps you safer from hackers."
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T14:17:48.000Z",
-      "simple_summary": "A French AI company called Mistral raised $3 billion in funding to build AI that European countries can control themselves.",
-      "why_it_matters": "This mostly matters to investors and large tech companies — for ordinary people and small businesses, it's just a sign that AI companies keep growing."
+      "simple_summary": "Meta is launching Muse, a personal AI assistant, as part of a big effort to catch up with other companies in the AI race.",
+      "why_it_matters": "This shows Meta is investing heavily in AI to stay competitive, but whether you'd actually use it depends on whether you trust the company and find it useful."
     }
   ]
 }
