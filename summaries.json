@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-09T11:27:43.905Z",
+  "generated_at": "2026-09-09T16:41:27.660Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "source": "The Verge",
+      "date": "2026-09-09T13:00:00.000Z",
+      "simple_summary": "Amazon is using AI to make dubbed videos look more realistic by automatically matching actors' lip movements to the new audio. Right now it only works on one German show's English version, but they plan to use it on more shows.",
+      "why_it_matters": "If you watch foreign movies or shows on Prime Video, they may start looking less awkward when they're dubbed into English — the mouths will move with the words instead of looking out of sync."
+    },
+    {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch",
+      "date": "2026-09-09T12:05:34.000Z",
+      "simple_summary": "A company called Suno that makes AI music is switching to new training data because of lawsuits. Instead of using existing songs to teach their AI, they're now using music that artists gave them permission to use.",
+      "why_it_matters": "This mostly matters to investors and the music industry — nothing you need to act on, though it shows companies are trying to address concerns about using others' work without permission."
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "source": "The Verge",
+      "date": "2026-09-09T12:05:01.000Z",
+      "simple_summary": "A study found that students who use AI to help them study tend to get worse grades than students who don't use it. But the story is more complicated — some types of AI use can actually help a little, especially for students taught how to check if the AI's answers are correct.",
+      "why_it_matters": "If you have grandchildren in school, know that AI homework help might hurt their learning more than help it — they learn better by struggling through problems themselves."
+    },
     {
       "title": "Google to Invest $15 Billion on AI Infrastructure in Finland",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5",
       "source": "WSJ",
       "date": "2026-09-09T10:06:00.000Z",
-      "simple_summary": "Google is spending 15 billion dollars to build powerful computer equipment in Finland to run AI systems.",
-      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on right now."
+      "simple_summary": "Google is spending $15 billion to build computer centers and data infrastructure in Finland.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it's about Google's business expansion, not something affecting everyday people."
     },
     {
       "title": "UNT to open new college of artificial intelligence with $20 million gift",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJSRjhUd09SUFBSU280bXhPZnkzU1ozSDhEWGRsYWR6clNicXdwd2xoQ2Ffc1RwRXl6MkVfTXpZcWtwVlNpektWSUliT2Mxd3dZTlp0WGhtRFp5Q0xjQVMwc0hRcVdnZHdkWl85UjhUMkgwN01DTm1hcjdqaE0tSXREN2l6UDB0cm9ZRVB3VlZPN28?oc=5",
       "source": "Yahoo",
       "date": "2026-09-09T10:01:27.000Z",
-      "simple_summary": "A university is creating a new school focused on artificial intelligence, funded by a 20 million dollar donation.",
-      "why_it_matters": "This is mainly news for students interested in AI education — it doesn't affect your daily life or business."
+      "simple_summary": "A university called UNT is opening a new college focused on artificial intelligence, thanks to a $20 million donation.",
+      "why_it_matters": "This mostly matters to students interested in AI careers — it's about educational expansion, not something affecting your daily life or business."
     },
     {
       "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWtHaVFQLVBuTVM0dmhiQ3pMS0V3OGNJWUdQaG9qMXRla2lvM0RVeUdBcEdwOTM0S2VuX2d3QjFWY3FyVXZQbGlXS2kydXVpaVJlUFlNZzdRdUdpTVhrQ3diTmozdVl0bUtsN0o2NHVDSURsNEpIVzNwYVF0ZEMzWTRPTUo?oc=5",
       "source": "The Guardian",
       "date": "2026-09-09T10:01:00.000Z",
-      "simple_summary": "A top military official says the United States' partner countries don't have enough money and resources to keep up with America's AI development.",
-      "why_it_matters": "This mostly matters to government and military planners — nothing you need to worry about as a business owner."
+      "simple_summary": "A high-ranking Pentagon official says that America's allies don't have enough money and resources to keep up with other countries in AI development.",
+      "why_it_matters": "This mostly matters to government officials and policy makers — it's about international competition, not something affecting your daily life."
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge",
+      "date": "2026-09-09T09:56:28.000Z",
+      "simple_summary": "A researcher at a company called Anthropic (which makes AI called Claude) warned that there's a small but real chance — over 10 percent — that AI could become dangerous enough to harm all humans by 2030. Another senior researcher at the same company just quit because he's worried companies are building powerful AI systems too fast without proper safety checks.",
+      "why_it_matters": "This is worth knowing about because it shows serious experts worry about AI safety — though most experts think the risk is much lower than 10 percent, and this is mostly important for tech companies and government regulators to think about."
     },
     {
       "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5",
       "source": "BBC",
       "date": "2026-09-09T08:59:52.000Z",
-      "simple_summary": "A researcher at an AI company says there's a small but real chance (more than 10%) that advanced AI could become very dangerous to humanity in the future.",
-      "why_it_matters": "This is an honest worry from experts, but it's about distant future risks — for now, focus on current AI tools that can help your business."
+      "simple_summary": "A researcher at an AI company warns there's more than a 10 percent chance that AI could kill all humans by the end of the decade.",
+      "why_it_matters": "This is worth knowing about because some serious experts do worry about AI risks, though expert opinions vary widely on how likely this is."
     },
     {
       "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "source": "reuters.com",
       "date": "2026-09-09T08:48:41.000Z",
-      "simple_summary": "Google is spending 15 billion dollars on computer equipment in Finland and also buying nuclear power plants to run it all.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "Google is spending $15 billion in Finland on computer data centers and also planning to buy nuclear power plants to power them.",
+      "why_it_matters": "This mostly matters to investors — it shows Google is betting big on AI, but it doesn't affect your daily life directly."
     },
     {
       "title": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejhvOEd3al93UzVIYmt2VFRlWUdKZU1WaTlwV2ktMnZMeGt6VV9wMTRVR09qU2MtZnBoeU92Ymh2d0NQU29WaUU3VEtmYjE3MGRiOVZTSnYxNXo2RWtSbU00allwa2RtdTc4VlJWZXZRMmNyWXh1OTZJdE9QQnVhM0toOGw0MTBfSUFvRWVvZW5OeDR2Z2lCNUY4S0ZzbEJ1eGI2blphVF9LMWc?oc=5",
       "source": "WSJ",
       "date": "2026-09-09T07:14:00.000Z",
-      "simple_summary": "Google is spending 15 billion dollars to build large computer centers in Finland that will power AI systems.",
-      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on."
+      "simple_summary": "Google is investing $15 billion in computer buildings and equipment in Finland for their AI and data operations.",
+      "why_it_matters": "This mostly matters to investors — it's about Google's business plans, not something affecting everyday people."
     },
     {
       "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
       "source": "The Guardian",
       "date": "2026-09-08T21:39:00.000Z",
-      "simple_summary": "OpenAI's AI solved a math problem that has stumped mathematicians for about 90 years.",
-      "why_it_matters": "This shows AI is getting better at hard thinking tasks, but it's mainly impressive to mathematicians and engineers — you don't need to act on this."
+      "simple_summary": "OpenAI says their AI has solved a difficult math problem that human mathematicians couldn't solve for many years.",
+      "why_it_matters": "This shows AI is getting better at hard thinking tasks — useful for scientists and engineers, but nothing you need to do anything about right now."
     },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch",
       "date": "2026-09-08T21:10:27.000Z",
-      "simple_summary": "Hackers have figured out how to steal AI credits from people's Claude accounts without permission, like thieves stealing from a wallet.",
-      "why_it_matters": "If you use Claude AI, you should check your account activity regularly and consider protecting your login information, just like you would with email or banking."
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T21:04:06.000Z",
-      "simple_summary": "An AI company called Cognition is now valued at 48 billion dollars, showing investors think AI coding tools are valuable.",
-      "why_it_matters": "This mostly matters to investors — it doesn't directly affect your business unless you use AI coding tools."
-    },
-    {
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
-      "source": "BBC",
-      "date": "2026-09-08T20:57:09.000Z",
-      "simple_summary": "OpenAI's AI solved a 90-year-old math problem in just 88 hours.",
-      "why_it_matters": "This mainly impresses mathematicians and engineers — nothing you need to act on."
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "source": "The Verge",
-      "date": "2026-09-08T20:53:52.000Z",
-      "simple_summary": "OpenAI announced that its AI found an answer to a famous math problem called the Navier-Stokes problem that scientists have been stuck on for roughly 90 years.",
-      "why_it_matters": "This is impressive but mostly matters to mathematicians and scientists — it doesn't affect your daily life or business."
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "source": "The Verge",
-      "date": "2026-09-08T20:16:09.000Z",
-      "simple_summary": "OpenAI added a new drawing tool to ChatGPT where you can sketch something rough and the AI will turn it into a detailed picture.",
-      "why_it_matters": "If you use ChatGPT, you can now create images by drawing simple doodles instead of typing descriptions — useful if you're making marketing materials or designs."
+      "simple_summary": "Hackers have figured out how to steal access tokens (like passwords) from people who use Claude, an AI tool. Anthropic warned users about this problem.",
+      "why_it_matters": "If you or your business uses Claude, change your password now and enable any extra security options Anthropic offers — hackers were getting into accounts without permission."
     }
   ]
 }
