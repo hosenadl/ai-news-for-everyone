@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-09T04:46:56.581Z",
+  "generated_at": "2026-09-09T11:27:43.905Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "title": "Google to Invest $15 Billion on AI Infrastructure in Finland",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5",
       "source": "WSJ",
-      "date": "2026-09-08T23:46:00.000Z",
-      "simple_summary": "A researcher at Anthropic, a company that makes AI, quit their job because they're worried that AI is becoming too powerful and not controlled properly.",
-      "why_it_matters": "This mostly matters to investors and people working in AI companies — it signals concerns about AI safety, but doesn't directly affect your daily life or small business right now."
+      "date": "2026-09-09T10:06:00.000Z",
+      "simple_summary": "Google is spending 15 billion dollars to build powerful computer equipment in Finland to run AI systems.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on right now."
     },
     {
-      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzA3WENHU0hFdjhvUjlBMEEtdThIS254bFprZ2hvUU81MWlURjJqLUQ2SXR4aHFnTjhtN3R3U21ZbzV5Ry1oUmU1SUoyRGc5WV9mRlo5bER2SEk5SjRKdXdpR2pkMzBSN3N4a1NwZE9GR3V6TGFHTlMzQmdjY2taSHMtS2NhRnZ3cm1wTHNOZUNwYUNOTXVzUmd2X1lnWXZJS3VQOHVSLXhxeWw4WTFCb0NyVEg?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "date": "2026-09-08T22:06:58.000Z",
-      "simple_summary": "Amazon is offering a new AI tool called GPT-6 Astra through its cloud services, saying it can help people do more ambitious work.",
-      "why_it_matters": "If you use Amazon's cloud services for your business, this gives you a new option, but most small businesses don't use these services yet."
+      "title": "UNT to open new college of artificial intelligence with $20 million gift",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJSRjhUd09SUFBSU280bXhPZnkzU1ozSDhEWGRsYWR6clNicXdwd2xoQ2Ffc1RwRXl6MkVfTXpZcWtwVlNpektWSUliT2Mxd3dZTlp0WGhtRFp5Q0xjQVMwc0hRcVdnZHdkWl85UjhUMkgwN01DTm1hcjdqaE0tSXREN2l6UDB0cm9ZRVB3VlZPN28?oc=5",
+      "source": "Yahoo",
+      "date": "2026-09-09T10:01:27.000Z",
+      "simple_summary": "A university is creating a new school focused on artificial intelligence, funded by a 20 million dollar donation.",
+      "why_it_matters": "This is mainly news for students interested in AI education — it doesn't affect your daily life or business."
     },
     {
-      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWtHaVFQLVBuTVM0dmhiQ3pMS0V3OGNJWUdQaG9qMXRla2lvM0RVeUdBcEdwOTM0S2VuX2d3QjFWY3FyVXZQbGlXS2kydXVpaVJlUFlNZzdRdUdpTVhrQ3diTmozdVl0bUtsN0o2NHVDSURsNEpIVzNwYVF0ZEMzWTRPTUo?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-09T10:01:00.000Z",
+      "simple_summary": "A top military official says the United States' partner countries don't have enough money and resources to keep up with America's AI development.",
+      "why_it_matters": "This mostly matters to government and military planners — nothing you need to worry about as a business owner."
+    },
+    {
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5",
+      "source": "BBC",
+      "date": "2026-09-09T08:59:52.000Z",
+      "simple_summary": "A researcher at an AI company says there's a small but real chance (more than 10%) that advanced AI could become very dangerous to humanity in the future.",
+      "why_it_matters": "This is an honest worry from experts, but it's about distant future risks — for now, focus on current AI tools that can help your business."
+    },
+    {
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "source": "reuters.com",
-      "date": "2026-09-08T21:31:44.000Z",
-      "simple_summary": "The US government says Chinese AI companies are copying AI technology from American companies without permission.",
-      "why_it_matters": "This is mostly a political and business story between governments and large companies — it doesn't directly affect small business owners."
+      "date": "2026-09-09T08:48:41.000Z",
+      "simple_summary": "Google is spending 15 billion dollars on computer equipment in Finland and also buying nuclear power plants to run it all.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejhvOEd3al93UzVIYmt2VFRlWUdKZU1WaTlwV2ktMnZMeGt6VV9wMTRVR09qU2MtZnBoeU92Ymh2d0NQU29WaUU3VEtmYjE3MGRiOVZTSnYxNXo2RWtSbU00allwa2RtdTc4VlJWZXZRMmNyWXh1OTZJdE9QQnVhM0toOGw0MTBfSUFvRWVvZW5OeDR2Z2lCNUY4S0ZzbEJ1eGI2blphVF9LMWc?oc=5",
+      "source": "WSJ",
+      "date": "2026-09-09T07:14:00.000Z",
+      "simple_summary": "Google is spending 15 billion dollars to build large computer centers in Finland that will power AI systems.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on."
     },
     {
       "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
       "source": "The Guardian",
-      "date": "2026-09-08T21:29:00.000Z",
-      "simple_summary": "OpenAI says their AI solved a very difficult math problem that humans haven't been able to solve for decades.",
-      "why_it_matters": "This is mostly important to mathematicians and academics — it doesn't change anything for ordinary people or small businesses."
+      "date": "2026-09-08T21:39:00.000Z",
+      "simple_summary": "OpenAI's AI solved a math problem that has stumped mathematicians for about 90 years.",
+      "why_it_matters": "This shows AI is getting better at hard thinking tasks, but it's mainly impressive to mathematicians and engineers — you don't need to act on this."
     },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch",
       "date": "2026-09-08T21:10:27.000Z",
-      "simple_summary": "Hackers have found a way to steal login tokens (like stolen keys) from Claude AI users, letting them use someone else's account without permission.",
-      "why_it_matters": "If you use Claude AI, you should check your account for unusual activity and consider changing your password, just like you would with any online account."
+      "simple_summary": "Hackers have figured out how to steal AI credits from people's Claude accounts without permission, like thieves stealing from a wallet.",
+      "why_it_matters": "If you use Claude AI, you should check your account activity regularly and consider protecting your login information, just like you would with email or banking."
     },
     {
       "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
       "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
       "source": "TechCrunch",
       "date": "2026-09-08T21:04:06.000Z",
-      "simple_summary": "A company called Cognition that makes AI coding tools is now valued at $48 billion by investors, showing that investors think there will be multiple successful AI coding companies instead of just one winner.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to do, though it shows AI coding tools will likely keep improving and competing for your attention."
-    },
-    {
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-08T21:02:03.000Z",
-      "simple_summary": "OpenAI's AI solved one of mathematics' hardest unsolved problems, called a 'Millennium Problem'.",
-      "why_it_matters": "This is important for mathematicians and researchers — it doesn't affect daily life or small business operations."
+      "simple_summary": "An AI company called Cognition is now valued at 48 billion dollars, showing investors think AI coding tools are valuable.",
+      "why_it_matters": "This mostly matters to investors — it doesn't directly affect your business unless you use AI coding tools."
     },
     {
       "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
       "source": "BBC",
       "date": "2026-09-08T20:57:09.000Z",
-      "simple_summary": "OpenAI says it used AI to solve a difficult math problem that stumped humans for 90 years, doing it in just 88 hours.",
-      "why_it_matters": "This is exciting for mathematicians and researchers, but doesn't change anything for regular people or small business owners yet."
+      "simple_summary": "OpenAI's AI solved a 90-year-old math problem in just 88 hours.",
+      "why_it_matters": "This mainly impresses mathematicians and engineers — nothing you need to act on."
     },
     {
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "source": "The Verge",
       "date": "2026-09-08T20:53:52.000Z",
-      "simple_summary": "OpenAI announced that its AI solved the Navier-Stokes problem, a 90-year-old math puzzle about how liquids flow, though some people are questioning the details of this claim.",
-      "why_it_matters": "This matters to scientists and mathematicians — it doesn't affect small businesses or daily life."
+      "simple_summary": "OpenAI announced that its AI found an answer to a famous math problem called the Navier-Stokes problem that scientists have been stuck on for roughly 90 years.",
+      "why_it_matters": "This is impressive but mostly matters to mathematicians and scientists — it doesn't affect your daily life or business."
     },
     {
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "source": "The Verge",
       "date": "2026-09-08T20:16:09.000Z",
-      "simple_summary": "ChatGPT added a new feature called Sketch that lets you draw a quick doodle inside ChatGPT and have the AI turn it into a detailed picture based on your description.",
-      "why_it_matters": "If you use ChatGPT and like creating images, this gives you a simpler way to describe what you want without typing as much."
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch",
-      "date": "2026-09-08T19:00:00.000Z",
-      "simple_summary": "Meta (Facebook's parent company) created a new personal AI assistant called Muse that wants access to your email, calendar, payments, and health information to help you with tasks.",
-      "why_it_matters": "Before using Muse, think carefully about whether you trust Meta with this personal information — it's a choice you'd make yourself, not something required."
-    },
-    {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "source": "The Verge",
-      "date": "2026-09-08T19:00:00.000Z",
-      "simple_summary": "Meta is launching Muse, a personal AI assistant, as part of a big effort to catch up with other companies in the AI race.",
-      "why_it_matters": "This shows Meta is investing heavily in AI to stay competitive, but whether you'd actually use it depends on whether you trust the company and find it useful."
+      "simple_summary": "OpenAI added a new drawing tool to ChatGPT where you can sketch something rough and the AI will turn it into a detailed picture.",
+      "why_it_matters": "If you use ChatGPT, you can now create images by drawing simple doodles instead of typing descriptions — useful if you're making marketing materials or designs."
     }
   ]
 }
