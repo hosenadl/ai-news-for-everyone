@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-10T04:47:24.380Z",
+  "generated_at": "2026-09-10T11:24:13.910Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Digital minister says Malaysia’s draft AI Governance Bill complete, hopes to table it by Q1 2027",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGprTmVfUzZmQW5aXzVaQTNTekVrVkFpRnJ5dUN4UU10ZGlvYk0zX0VXWmt0blBoVk5telVhZUZnUXNaZUpwazZtVUJyZ1M5aGcyWDR5ZGhYVzVPM0E4cDFFS0hvVWctb1ZuQ19tdEFBYWFGLUgyeDF1VS1QalRFaGVZc2pMNE43TkU4?oc=5",
-      "source": "malaysia.news.yahoo.com",
-      "date": "2026-09-10T03:49:00.000Z",
-      "simple_summary": "Malaysia's government has finished writing rules for how AI should be used and wants to present them to lawmakers in early 2027.",
-      "why_it_matters": "This mostly matters to Malaysian businesses and government officials — nothing you need to act on unless you're in Malaysia."
+      "title": "Seattle officials question FD over ambulance contractor, AI-assisted 911 triage",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXF5S2FvVVotUDBocm8xbUtBYXBXMjRNSmFISGpHUVpYRmhFODJvaDF4X2RmajluQnFGQzlNUWRnaUpNZU9xV2ZuU0dyM2wzOFhPcnFRYlZQTm43RTFlSEVsSzRHV2JCbkY4b2Etb0FkSVFPVUlCelhqSWpNN2FCaTY5eUplWG13R3IzNXQ1TVRIb3lpVklwT2N1eGFTQTVVTHRENHZEWi1QTWQ3MW1NYWJwa2JBTVRtcXZfS2NuWTQ?oc=5",
+      "source": "EMS1",
+      "date": "2026-09-10T11:18:05.000Z",
+      "simple_summary": "Seattle officials are questioning whether the fire department's use of AI to help answer 911 calls is working well for the ambulance service that responds to emergencies.",
+      "why_it_matters": "If you call 911, this affects how quickly help reaches you — it's worth paying attention to whether your city's system works properly."
     },
     {
-      "title": "FBI now publicly identifies, tracks AI used in crimes. North Carolinians have lost millions",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3A2MHBqUm9MdnBCLTE3VWxGWFBUalJtc0lUempaZV9MMnRLRHVjTGtkUy05aWtZa2h4ZDZFNkhpUXVXWnZwcGFOUHMzY0NEVEhKRGI4OUN2MGE4N1JzWldaMlN6ODVIandkRUN5SFNEMy1kNkgwRG5vOHZVT0RhVk1kSEJaMzJMSWFkMTRfel9COVFoYXE2ei1nY0w4dTQ3eElXQm85ZnNqVjlTZmRQQUlMU3k?oc=5",
-      "source": "WRAL",
-      "date": "2026-09-10T02:52:08.000Z",
-      "simple_summary": "The FBI is now publicly showing which AI tools are being used in crimes, and many people in North Carolina have lost money because of AI scams.",
-      "why_it_matters": "You should be more cautious about AI-related offers or messages that seem suspicious, especially if someone is pressuring you for money."
+      "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-09-10T11:00:08.000Z",
+      "simple_summary": "China says Japan is developing AI satellites for space and views this as a threat to China.",
+      "why_it_matters": "This mostly matters to governments and international relations — it doesn't affect your daily life or business."
     },
     {
-      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
+      "title": "For years they warned AI could kill all humans. Now people are listening.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
       "source": "The Washington Post",
-      "date": "2026-09-10T02:42:29.000Z",
-      "simple_summary": "Some scientists are warning that very powerful AI could be dangerous to humanity, and this has caused big debate among politicians and researchers.",
-      "why_it_matters": "This is mostly important to researchers and government planners — not something that affects your daily life right now."
+      "date": "2026-09-10T10:32:15.000Z",
+      "simple_summary": "Researchers who have been warning for years that AI could become dangerous are now getting more attention from the public and decision-makers.",
+      "why_it_matters": "This doesn't change anything immediately, but it means AI safety is becoming a bigger conversation in society."
+    },
+    {
+      "title": "Commission Urges UK to Overhaul Regulation of AI Medicine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmV6R3RUNFF0dlhVa2NFclZiWE00YnFDTTJIN2w0ODRWZGtUc2diY1VnbXNvVF9ORXlKbFp0YXNkWnppUTh5bXpaY2RzendXaVdXVlAxRnRfbTZrRHFfMEFKcXBIdE9DNGdkVTJXa29ib3NfSmE2MEx2cUVjWm1Ud25SenFVbHA4WDFKaHdaejQtMVRmV3VnU0hBQzJQbVhOVUg3bDlNUEV4cU9IM0Flay0yMy1rWEIxMnVrRlR3?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-09-10T10:29:00.000Z",
+      "simple_summary": "A UK commission is telling the government it needs to create better rules for AI systems used in medicine and healthcare.",
+      "why_it_matters": "If you use healthcare in the UK, this could eventually mean AI medical tools are safer and better checked before doctors use them."
+    },
+    {
+      "title": "‘For 2 years, we’ve held our tongues’: Democrats clap back at 1 of Silicon Valley’s biggest donors",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdVNZcFdBRzg3TDRUNjk2cllHbkQtRGFkcEVkU0pPYzlZclpoLTZyRDd1VjU0aWV5WVdSVjBLOWh2S09VOGctSjdmbm41bUZ2bFQ2cmJUZjJiZzI1dU5mNjZzWmI5WUg2MHJsaVBZc3cySmhNblRkS3hGcjBGR29wZEczbjM4aWd4anpKMXRzSGtGSjJoS1VQS2c2TVhhdEE5bU8zQk1WRlpxWkx0Zi1Pcy1sNHZDMHlnODg1LTY3bFZ4SGF3?oc=5",
+      "source": "Politico",
+      "date": "2026-09-10T09:01:00.000Z",
+      "simple_summary": "Democratic politicians are publicly disagreeing with one of Silicon Valley's biggest business leaders and donors.",
+      "why_it_matters": "This is a political story — nothing that directly affects you unless you follow political news closely."
     },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "source": "TechCrunch",
       "date": "2026-09-10T00:00:37.000Z",
-      "simple_summary": "A startup called Listen Labs turned down a big investment offer because it's in talks with Salesforce, a large business software company, instead.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "A startup called Listen Labs turned down a $1.5 billion investment offer because it wants to talk to Salesforce (a big software company) instead.",
+      "why_it_matters": "This mostly matters to investors and tech companies — it's not relevant to ordinary people or small-business owners."
     },
     {
-      "title": "Governor Newsom signs first-in-the-nation AI safeguards to protect Californians, calls on the federal government to do its part",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUZRVHhudU1zcDhNQmhkRHpFNk9SOUJlN2EzZHlwZEZPdVFIcVJpU0pieUhsVGFNRUFNTWxidHRFeEJhR3ViMThRNWRHeFZncmp0dTZTazBYcXJLaXJTY0k4VmFCRW5KU0loMlJuWWhSdnhSdzFyTVNndlk2NFNRam9Pdk40U19KUnZaamZzcHYwamFLb2JkQ1hTNHJOc0Uxb1ZMbzJ1Xy1yM0p3NER2bFJuVlZESXZMNVBDRzhzVkRpREtfX1JzWGFMRkVIY2doVDY0dG50WERMdWZmcmtNbWFSYXE5ZmdZbU1sQ2RkWWNQSGc?oc=5",
-      "source": "California State Portal | CA.gov",
-      "date": "2026-09-09T23:20:57.000Z",
-      "simple_summary": "California's governor has signed new laws to protect people from AI risks, and is asking the federal government to make similar rules.",
-      "why_it_matters": "If you live in California, companies will need to be more careful about how they use AI with your information."
-    },
-    {
-      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "title": "Can humans stay in control of AI?",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bXZDUTFvcUJCZmlmeVFhaU1lcVhmV0h6OVBmTnhlYTlKWGh4TlNKbkFyc3kxRGM0ekctR3FPMURnMTJuOWdYTUttcUNfTElFWWxqNXBnc2hEdw?oc=5",
       "source": "BBC",
       "date": "2026-09-09T23:17:33.000Z",
-      "simple_summary": "AI systems are becoming harder for people to understand and control, and there are questions about whether humans can stay in charge.",
-      "why_it_matters": "This is a general concern that experts are discussing — it's more about the future direction of AI rather than something affecting you today."
+      "simple_summary": "The BBC is asking the question: can people stay in charge of AI systems, or will AI systems make their own decisions?",
+      "why_it_matters": "This is a general question being debated — it doesn't announce any specific change, just that people are thinking about control and safety."
     },
     {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "source": "TechCrunch",
       "date": "2026-09-09T22:25:22.000Z",
-      "simple_summary": "OpenAI hired a researcher named Paul Christiano who worries about AI safety risks to join its board of advisors.",
-      "why_it_matters": "This mostly matters to investors and AI experts — it signals that OpenAI is taking safety concerns seriously."
+      "simple_summary": "OpenAI has hired a researcher named Paul Christiano who is known for worrying that AI could become dangerous and hard to control.",
+      "why_it_matters": "This shows OpenAI is bringing in experts to think about safety — it's a sign they take risks seriously, but mostly relevant to people following AI industry news."
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
       "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
       "source": "TechCrunch",
       "date": "2026-09-09T21:43:34.000Z",
-      "simple_summary": "Massachusetts has created new rules requiring data centers (large computer facilities that run AI and websites) to use clean energy instead of fossil fuels.",
-      "why_it_matters": "If you're in Massachusetts and considering a data center business, you'll need to use renewable energy — otherwise this is mainly important for environmental concerns."
+      "simple_summary": "Massachusetts has passed new rules that make it harder and more expensive to build data centers (huge computer buildings that power AI and internet services).",
+      "why_it_matters": "This could eventually mean AI services and cloud computing cost more in Massachusetts, which might affect small businesses that use those services."
     },
     {
       "title": "Suno releases its first AI music model made with record industry help",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
       "source": "The Verge",
       "date": "2026-09-09T21:42:19.000Z",
-      "simple_summary": "Suno, a company that creates music with AI, has released a new version that was trained using music licensed from the record industry with their permission.",
-      "why_it_matters": "Musicians and record companies should feel more comfortable that AI music tools are now working legally with the music industry instead of without permission."
+      "simple_summary": "Suno, a company that makes AI music, released a new version trained using data that record companies agreed to share with them legally.",
+      "why_it_matters": "This shows AI music tools are now working with the music industry instead of against it — if you use AI music tools, this means fewer legal worries."
     },
     {
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
       "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
       "source": "The Verge",
       "date": "2026-09-09T21:16:34.000Z",
-      "simple_summary": "OpenAI's AI solved a very difficult math problem that mathematicians have struggled with for decades.",
-      "why_it_matters": "This mostly matters to mathematicians and researchers — most small-business owners won't use this directly."
+      "simple_summary": "OpenAI announced that AI has solved a very difficult math problem that mathematicians have been trying to crack for decades.",
+      "why_it_matters": "This is impressive for math and science, but it mostly matters to researchers and mathematicians — it won't change your daily life soon."
     },
     {
       "title": "Read the Apple document explaining how new listening features still protect your privacy",
       "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
       "source": "The Verge",
       "date": "2026-09-09T20:44:43.000Z",
-      "simple_summary": "Apple explained how its new Siri features can listen to sounds around you without actually saving the raw recordings to protect your privacy.",
-      "why_it_matters": "If you use an iPhone, you should read Apple's explanation to understand how much listening is happening and whether you're comfortable with it."
-    },
-    {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "source": "TechCrunch",
-      "date": "2026-09-09T20:24:48.000Z",
-      "simple_summary": "Apple's new smartwatches have AI features that can hear and understand what people are saying nearby, which raises concerns about privacy and whether people know they're being recorded.",
-      "why_it_matters": "If you wear an Apple Watch, you should know it can now listen to and summarize conversations around you — decide if that's something you're comfortable with."
+      "simple_summary": "Apple explained how its new iPhone features can listen to sounds around you (like sirens or babies crying) while still keeping your private conversations private.",
+      "why_it_matters": "If you buy a new iPhone, you should read Apple's explanation to understand what data stays on your phone versus what gets sent elsewhere."
     }
   ]
 }
