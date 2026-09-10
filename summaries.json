@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-10T16:27:08.411Z",
+  "generated_at": "2026-09-10T20:54:33.739Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "source": "The Verge",
+      "date": "2026-09-10T19:44:20.000Z",
+      "simple_summary": "AI companies are giving free training materials and lessons to schools to teach students about AI. Schools are accepting these offers because they want students to learn the technology.",
+      "why_it_matters": "If you have kids or grandkids in school, they'll likely be learning AI tools. It's worth asking their schools who's teaching the material and whether it's balanced, since the companies providing the lessons benefit if more people use their products."
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch",
+      "date": "2026-09-10T17:54:44.000Z",
+      "simple_summary": "Researchers found that AI programs struggle with CAPTCHAs—those puzzles websites use to prove you're human, not a robot.",
+      "why_it_matters": "This mostly matters to computer engineers and security researchers—nothing you need to worry about in your daily life."
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch",
+      "date": "2026-09-10T17:45:00.000Z",
+      "simple_summary": "An Indian company called Pocket FM now uses AI to create almost all of its audio stories, which made their production costs about 80 times cheaper.",
+      "why_it_matters": "This shows how AI is making entertainment cheaper to produce, which could eventually mean more affordable audio content, though many voice actors and writers may lose work."
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "source": "The Verge",
+      "date": "2026-09-10T15:38:19.000Z",
+      "simple_summary": "Universal Music Group is creating a tool where people can use famous songs to make remixes and new versions, powered by AI.",
+      "why_it_matters": "Music fans might enjoy remixing songs, but musicians and songwriters should know this uses their work—it's worth understanding what permissions and payments are involved."
+    },
+    {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "source": "The Verge",
+      "date": "2026-09-10T15:00:00.000Z",
+      "simple_summary": "Meta released a new AI assistant called Muse that can help with shopping, emails, and trip planning by doing tasks for you online.",
+      "why_it_matters": "If you use Facebook or Instagram, you may eventually see this tool available to help with everyday online chores, though like any AI, it may make mistakes."
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch",
+      "date": "2026-09-10T14:53:50.000Z",
+      "simple_summary": "AI programs are submitting many requests to government services and benefit programs, and researchers are studying whether this is causing problems.",
+      "why_it_matters": "This is still early research—it mostly matters to government agencies right now, though it suggests AI is already interacting with public services in ways we're still figuring out."
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch",
+      "date": "2026-09-10T14:17:37.000Z",
+      "simple_summary": "A robotics company called Maven Robotics just raised $100 million and is ready to sell robots to businesses that need to automate tasks.",
+      "why_it_matters": "This mostly matters to investors and large companies looking to use robots—nothing you need to act on unless you're in manufacturing or logistics."
+    },
     {
       "title": "Why the current tech backlash feels different",
       "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "source": "The Verge",
       "date": "2026-09-10T14:00:00.000Z",
-      "simple_summary": "People are becoming more critical of big tech companies and their products. This pushback feels different from previous complaints.",
-      "why_it_matters": "This is mostly about big trends in society — nothing specific you need to act on right now."
-    },
-    {
-      "title": "Seattle officials question FD over ambulance contractor, AI-assisted 911 triage",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXF5S2FvVVotUDBocm8xbUtBYXBXMjRNSmFISGpHUVpYRmhFODJvaDF4X2RmajluQnFGQzlNUWRnaUpNZU9xV2ZuU0dyM2wzOFhPcnFRYlZQTm43RTFlSEVsSzRHV2JCbkY4b2Etb0FkSVFPVUlCelhqSWpNN2FCaTY5eUplWG13R3IzNXQ1TVRIb3lpVklwT2N1eGFTQTVVTHRENHZEWi1QTWQ3MW1NYWJwa2JBTVRtcXZfS2NuWTQ?oc=5",
-      "source": "EMS1",
-      "date": "2026-09-10T11:18:05.000Z",
-      "simple_summary": "Seattle officials are questioning whether an ambulance company should use AI to help decide which 911 calls are most urgent.",
-      "why_it_matters": "If you live in Seattle and call 911, the ambulance system might use AI to prioritize calls — this could affect how quickly help arrives."
+      "simple_summary": "This headline points to a longer discussion about why people are now feeling frustrated or skeptical about big tech companies in a new way.",
+      "why_it_matters": "This is an opinion piece rather than news about a specific AI development—it's worth reading if you're curious about why tech criticism is growing, but there's no specific action to take."
     },
     {
       "title": "Mathematicians want proof OpenAI didn’t use their work ",
       "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
       "source": "The Verge",
       "date": "2026-09-10T11:00:57.000Z",
-      "simple_summary": "Mathematicians say OpenAI (the company behind ChatGPT) may have used their unpublished research without permission to train its AI.",
-      "why_it_matters": "This matters mostly to researchers and investors — it's about whether the AI company acted fairly in getting its data."
-    },
-    {
-      "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-09-10T11:00:08.000Z",
-      "simple_summary": "China is warning that Japan's plan to use AI in satellites could be dangerous.",
-      "why_it_matters": "This is about international politics and military concerns — nothing that affects your daily life."
-    },
-    {
-      "title": "For years they warned AI could kill all humans. Now people are listening.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-10T10:32:15.000Z",
-      "simple_summary": "Researchers who have warned for years that advanced AI could become dangerous are finally getting more attention and people taking them seriously.",
-      "why_it_matters": "This is about long-term concerns over AI safety — important for society, but no immediate action you need to take."
-    },
-    {
-      "title": "Commission Urges UK to Overhaul Regulation of AI Medicine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmV6R3RUNFF0dlhVa2NFclZiWE00YnFDTTJIN2w0ODRWZGtUc2diY1VnbXNvVF9ORXlKbFp0YXNkWnppUTh5bXpaY2RzendXaVdXVlAxRnRfbTZrRHFfMEFKcXBIdE9DNGdkVTJXa29ib3NfSmE2MEx2cUVjWm1Ud25SenFVbHA4WDFKaHdaejQtMVRmV3VnU0hBQzJQbVhOVUg3bDlNUEV4cU9IM0Flay0yMy1rWEIxMnVrRlR3?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-09-10T10:29:00.000Z",
-      "simple_summary": "A UK government group says the rules for AI used in medicine need to be stricter and updated.",
-      "why_it_matters": "If you're in the UK and use medical services, stronger rules for medical AI could make those tools safer for you."
-    },
-    {
-      "title": "‘For 2 years, we’ve held our tongues’: Democrats clap back at 1 of Silicon Valley’s biggest donors",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdVNZcFdBRzg3TDRUNjk2cllHbkQtRGFkcEVkU0pPYzlZclpoLTZyRDd1VjU0aWV5WVdSVjBLOWh2S09VOGctSjdmbm41bUZ2bFQ2cmJUZjJiZzI1dU5mNjZzWmI5WUg2MHJsaVBZc3cySmhNblRkS3hGcjBGR29wZEczbjM4aWd4anpKMXRzSGtGSjJoS1VQS2c2TVhhdEE5bU8zQk1WRlpxWkx0Zi1Pcy1sNHZDMHlnODg1LTY3bFZ4SGF3?oc=5",
-      "source": "Politico",
-      "date": "2026-09-10T09:01:00.000Z",
-      "simple_summary": "Democrats are publicly criticizing one of Silicon Valley's major donors over disagreements.",
-      "why_it_matters": "This is politics and insider conflicts — nothing directly affecting your business or daily life."
+      "simple_summary": "Mathematicians are accusing OpenAI of using their unpublished research to train its AI without permission or credit.",
+      "why_it_matters": "This is a legal and ethical issue being worked out between researchers and AI companies—for now, it's mostly a concern for the math and AI communities, though it touches on larger questions about who owns ideas."
     },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "source": "TechCrunch",
       "date": "2026-09-10T00:00:37.000Z",
-      "simple_summary": "A startup called Listen Labs turned down a $1.5 billion investment offer to have talks with Salesforce instead.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers — not something that affects you."
-    },
-    {
-      "title": "Can humans stay in control of AI?",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bXZDUTFvcUJCZmlmeVFhaU1lcVhmV0h6OVBmTnhlYTlKWGh4TlNKbkFyc3kxRGM0ekctR3FPMURnMTJuOWdYTUttcUNfTElFWWxqNXBnc2hEdw?oc=5",
-      "source": "BBC",
-      "date": "2026-09-09T23:17:33.000Z",
-      "simple_summary": "Experts are asking whether humans can stay in charge as AI systems become more powerful.",
-      "why_it_matters": "This is a big philosophical question for society — important to think about, but not an immediate practical concern for your business."
+      "simple_summary": "A startup called Listen Labs cancelled a large funding deal to instead have talks with Salesforce about being acquired.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers—nothing affecting ordinary people."
     },
     {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "source": "TechCrunch",
       "date": "2026-09-09T22:25:22.000Z",
-      "simple_summary": "OpenAI hired a researcher named Paul Christiano who has worried publicly about AI risks and safety.",
-      "why_it_matters": "This mostly matters to investors in AI companies — it signals OpenAI cares about safety concerns."
+      "simple_summary": "OpenAI hired a well-known AI researcher named Paul Christiano who has worried publicly about AI safety risks.",
+      "why_it_matters": "This suggests OpenAI is trying to listen to critics about AI safety, which is good, though it's mostly a signal to investors and AI watchers rather than affecting your daily life."
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
       "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
       "source": "TechCrunch",
       "date": "2026-09-09T21:43:34.000Z",
-      "simple_summary": "Massachusetts passed new rules requiring data centers (the giant computer buildings that power AI and websites) to use cleaner energy.",
-      "why_it_matters": "If you have a business in Massachusetts, this makes energy rules stricter for large tech operations — probably doesn't affect you unless you run a data center."
-    },
-    {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "source": "The Verge",
-      "date": "2026-09-09T21:42:19.000Z",
-      "simple_summary": "An AI music company called Suno made a new version of its music-making tool, this time with permission and help from record labels.",
-      "why_it_matters": "If you make music or need background music for your business, you might soon have a legal AI tool for that instead of worrying about copying someone's work."
+      "simple_summary": "Massachusetts passed new rules requiring data centers (the huge warehouses that store and run AI and cloud services) to use clean energy.",
+      "why_it_matters": "If you live in Massachusetts or nearby, this means data centers will use less fossil fuel, which is good for the environment—and it may inspire other states to do the same."
     }
   ]
 }
