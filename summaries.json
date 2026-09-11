@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-11T11:26:18.205Z",
+  "generated_at": "2026-09-11T16:31:09.792Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "date": "2026-09-11T14:25:21.000Z",
+      "simple_summary": "Meta's AI chatbot was asking very personal questions about a woman's children, which upset many people. Meta says it will change how the AI asks questions.",
+      "why_it_matters": "If you use Meta's AI tools, they should be less nosy about your family and personal life going forward."
+    },
     {
       "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbHdhM2RYWkhIdGYxdFJBLVFQSzRDZWRNeUxsaUU1Tldjd3R0WlZaRXY1Szlmd0Z0dU5SVTdiT0pibjJXSWU2NU50MjY4S08tcTZETF9iVUoyc0s0eFlZM3YtWXhtdm5yaW45S2N2WDV4aDNwN0N2bEpjTlBvQl9NdUc1dGE0aFN0VkJHd2VKMGk1em1qYVVMcjNGRG9xVXlrS2F2TGt1MXVaOWpIZDZaOGhWMm5POGNRWUh0QlA1eVNLaFhyTGdDcDIwa2Z1cFJa?oc=5",
       "source": "Reuters",
       "date": "2026-09-11T10:47:39.000Z",
-      "simple_summary": "A Chinese AI company is raising $5 billion dollars by selling shares and bonds in Hong Kong. This is a financial deal for investors.",
-      "why_it_matters": "This mostly matters to investors and financial markets — nothing you need to act on."
+      "simple_summary": "A Chinese AI company is raising 5 billion dollars by selling company shares in Hong Kong.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "The race to build smarter machines ran into a dangerous problem",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5",
       "source": "The Washington Post",
       "date": "2026-09-11T10:33:07.000Z",
-      "simple_summary": "Developers building AI systems have run into a difficult problem that's slowing down progress. The headline doesn't say exactly what the problem is.",
-      "why_it_matters": "This is mainly interesting to tech engineers working on AI — it doesn't affect how you'd use AI in your business right now."
+      "simple_summary": "The headline is too vague to explain what problem this refers to.",
+      "why_it_matters": "Without knowing the details, it's hard to say if this affects you."
     },
     {
       "title": "Doomsday tech: could AI really kill us all?",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MRy1CQTZZbl9qcmJWZFFXZFhJbW1MZldseC14T3BKZVBnZS1jMFc0N1k1dm1lTXFrdHBSWi1XM3N1MlRpLXVubnlWQ3o3OU5VdlVuU0dhZlIyWWlhV1k5MC1aeGExNHUyWi13YXBKNGNXUGlNWFRZZm9B?oc=5",
       "source": "Yahoo News Singapore",
       "date": "2026-09-11T09:28:31.000Z",
-      "simple_summary": "This is a headline asking whether AI could become dangerous enough to harm humanity. It's asking a question rather than reporting news.",
-      "why_it_matters": "This is a big-picture debate that doesn't change anything you'd do today — it's more philosophy than practical news."
+      "simple_summary": "An article asks whether AI could be dangerous enough to cause serious harm to humanity.",
+      "why_it_matters": "This is a worry some experts have, but for your daily life and business, current AI tools are not that powerful yet."
     },
     {
       "title": "Readers Write: 9/11, CPR rates, artificial intelligence, immigration",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONC1vbDc3RWliZ0JLWWNvRE5BSkIyc1JqNGtIMGNOOHdVUW1EY09RbXAtSnEzNlhfOS1FWUxHRUE2a0s2b0JuWFF0cWU3RWJkMEktbmJjOFpYUUVVZTVLSTAxdkhYcXVNVEMyUU0yY1B6TEtYS0tQMnMyRXJfZ2NfcVQxUURldTQtd2F6WWtVcmJuM3haMy1ISHQ0dXgwQzhQcFV3?oc=5",
       "source": "Star Tribune",
       "date": "2026-09-10T23:00:00.000Z",
-      "simple_summary": "This appears to be a collection of reader letters about various topics including artificial intelligence. No specific AI news story is described.",
-      "why_it_matters": "Without knowing what the letters say, it's hard to know if this affects you — likely this is just community opinions rather than news you need to know."
+      "simple_summary": "This is a section where newspaper readers write short letters about various topics including AI.",
+      "why_it_matters": "This doesn't affect you — it's just reader opinions."
     },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch",
       "date": "2026-09-10T21:51:59.000Z",
-      "simple_summary": "Jensen Huang, who runs Nvidia (a company that makes computer chips), says his company will grow very quickly next year because AI companies need lots of chips. This is investor news.",
-      "why_it_matters": "This mostly matters to investors — unless you're buying new computers for your business, you don't need to act on this."
+      "simple_summary": "The CEO of Nvidia (a company that makes computer chips for AI) says the company will grow very fast next year.",
+      "why_it_matters": "This mostly matters to investors in Nvidia — nothing you need to act on."
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-09-10T21:35:00.000Z",
-      "simple_summary": "Actor Mark Wahlberg will speak at a tech conference with Bruce K. Lee about business and investing. This is event news.",
-      "why_it_matters": "This is mainly entertainment and conference news — not something that affects your daily life or business."
+      "simple_summary": "Actor Mark Wahlberg will speak at a tech conference about business and investing.",
+      "why_it_matters": "Unless you're planning to attend this conference, this doesn't affect you."
     },
     {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "source": "The Verge",
       "date": "2026-09-10T21:25:21.000Z",
-      "simple_summary": "Slack (a chat app for teams) is adding a feature where AI can create charts, reports, and dashboards right inside your chats. You'd tell the AI what you need and it would gather the information for you.",
-      "why_it_matters": "If your small business uses Slack to communicate with your team, this could save you time creating reports and sharing information."
+      "simple_summary": "Slack (a messaging app for work teams) is adding an AI feature that can create charts, reports, and polls for you just by describing what you need.",
+      "why_it_matters": "If your business uses Slack, this could save you time making reports and presenting information to your team."
     },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TechCrunch",
       "date": "2026-09-10T20:59:51.000Z",
-      "simple_summary": "OpenAI (the company behind ChatGPT) temporarily stopped letting new people buy Pro subscriptions because too many people want it and it's straining their computer systems. They're adding more capacity to handle the demand.",
-      "why_it_matters": "If you want a Pro subscription, you may have to wait a bit, but the company is working to open it back up soon."
+      "simple_summary": "OpenAI (the company that makes ChatGPT) is temporarily not letting new people sign up for their paid Pro plan because too many people want to use their new AI tool at once.",
+      "why_it_matters": "If you were thinking of upgrading to Pro, you'll have to wait a bit until they can handle more users."
     },
     {
       "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "source": "TechCrunch",
       "date": "2026-09-10T20:57:30.000Z",
-      "simple_summary": "Anthropic (an AI company) says that Chinese AI companies have been copying their AI technology without permission and doing it more frequently lately. It's a competition issue.",
-      "why_it_matters": "This is mainly a story about AI companies competing and is mostly important to investors and tech industry people."
+      "simple_summary": "Chinese AI companies have been copying technology from Anthropic (an AI company) by stealing their methods and tools.",
+      "why_it_matters": "This mostly matters to AI companies competing with each other — nothing you need to act on."
     },
     {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
       "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "source": "TechCrunch",
       "date": "2026-09-10T19:50:04.000Z",
-      "simple_summary": "Meta (which owns Facebook) released a new AI app called Muse that's becoming very popular in the United States, now ranking as the second-most-downloaded app.",
-      "why_it_matters": "If you use Meta products, you might see Muse promoted to you, but whether you use it is entirely optional — nothing you need to do."
+      "simple_summary": "Meta just released a new app called Muse and it's become the second most downloaded app in the US.",
+      "why_it_matters": "This is mostly interesting as a business story — it shows Meta is trying new products, but you only need to care if you want to try new apps."
     },
     {
       "title": "Schools are catching on to Big Tech’s playbook",
       "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
       "source": "The Verge",
       "date": "2026-09-10T19:44:20.000Z",
-      "simple_summary": "AI companies are offering free training and materials to schools to teach students how to use AI. Schools are starting to realize this is how AI companies did the same thing with other technologies in the past.",
-      "why_it_matters": "If you have kids or grandkids in school, they're likely being taught about AI — this is good, though it's worth knowing that tech companies have an interest in getting people trained on their tools."
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "date": "2026-09-10T17:54:44.000Z",
-      "simple_summary": "Researchers found that AI bots trying to act like humans don't like CAPTCHAs (those security puzzles where you prove you're human) just like regular people don't like them.",
-      "why_it_matters": "This is mostly interesting to security experts and researchers — it doesn't change anything about your daily AI use."
+      "simple_summary": "Big tech companies (especially AI companies) are offering free training and materials to schools so students learn how to use their AI tools.",
+      "why_it_matters": "If you have kids or grandkids in school, this means they're learning AI tools, which could be useful job skills — but it also means tech companies are building loyal customers young."
     }
   ]
 }
