@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-11T04:45:27.557Z",
+  "generated_at": "2026-09-11T11:26:18.205Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
-      "source": "BBC",
-      "date": "2026-09-11T02:46:30.000Z",
-      "simple_summary": "A company called Anthropic says they've blocked people from using their AI tool to help create biological weapons. They caught bad actors trying to misuse the system.",
-      "why_it_matters": "This is good news for safety. For ordinary people and small businesses, this means the company is working to prevent dangerous misuse — you don't need to do anything, but it's reassuring they're paying attention."
+      "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbHdhM2RYWkhIdGYxdFJBLVFQSzRDZWRNeUxsaUU1Tldjd3R0WlZaRXY1Szlmd0Z0dU5SVTdiT0pibjJXSWU2NU50MjY4S08tcTZETF9iVUoyc0s0eFlZM3YtWXhtdm5yaW45S2N2WDV4aDNwN0N2bEpjTlBvQl9NdUc1dGE0aFN0VkJHd2VKMGk1em1qYVVMcjNGRG9xVXlrS2F2TGt1MXVaOWpIZDZaOGhWMm5POGNRWUh0QlA1eVNLaFhyTGdDcDIwa2Z1cFJa?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-11T10:47:39.000Z",
+      "simple_summary": "A Chinese AI company is raising $5 billion dollars by selling shares and bonds in Hong Kong. This is a financial deal for investors.",
+      "why_it_matters": "This mostly matters to investors and financial markets — nothing you need to act on."
     },
     {
-      "title": "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5",
-      "source": "Politico",
-      "date": "2026-09-11T00:22:12.000Z",
-      "simple_summary": "A researcher who studies AI said something worried some politicians. A senator called the warning 'scary.'",
-      "why_it_matters": "This is mostly political discussion among important people — honestly, this doesn't directly affect your daily life or business."
+      "title": "The race to build smarter machines ran into a dangerous problem",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-11T10:33:07.000Z",
+      "simple_summary": "Developers building AI systems have run into a difficult problem that's slowing down progress. The headline doesn't say exactly what the problem is.",
+      "why_it_matters": "This is mainly interesting to tech engineers working on AI — it doesn't affect how you'd use AI in your business right now."
     },
     {
-      "title": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-10T22:46:00.000Z",
-      "simple_summary": "Anthropic reported in detail how bad actors have been trying to trick their AI into helping create bioweapons. This confirms they're actively catching and stopping these attempts.",
-      "why_it_matters": "Like headline 0, this shows the company is monitoring for misuse. For you, it means they're taking safety seriously — nothing you need to act on."
+      "title": "Doomsday tech: could AI really kill us all?",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MRy1CQTZZbl9qcmJWZFFXZFhJbW1MZldseC14T3BKZVBnZS1jMFc0N1k1dm1lTXFrdHBSWi1XM3N1MlRpLXVubnlWQ3o3OU5VdlVuU0dhZlIyWWlhV1k5MC1aeGExNHUyWi13YXBKNGNXUGlNWFRZZm9B?oc=5",
+      "source": "Yahoo News Singapore",
+      "date": "2026-09-11T09:28:31.000Z",
+      "simple_summary": "This is a headline asking whether AI could become dangerous enough to harm humanity. It's asking a question rather than reporting news.",
+      "why_it_matters": "This is a big-picture debate that doesn't change anything you'd do today — it's more philosophy than practical news."
+    },
+    {
+      "title": "Readers Write: 9/11, CPR rates, artificial intelligence, immigration",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONC1vbDc3RWliZ0JLWWNvRE5BSkIyc1JqNGtIMGNOOHdVUW1EY09RbXAtSnEzNlhfOS1FWUxHRUE2a0s2b0JuWFF0cWU3RWJkMEktbmJjOFpYUUVVZTVLSTAxdkhYcXVNVEMyUU0yY1B6TEtYS0tQMnMyRXJfZ2NfcVQxUURldTQtd2F6WWtVcmJuM3haMy1ISHQ0dXgwQzhQcFV3?oc=5",
+      "source": "Star Tribune",
+      "date": "2026-09-10T23:00:00.000Z",
+      "simple_summary": "This appears to be a collection of reader letters about various topics including artificial intelligence. No specific AI news story is described.",
+      "why_it_matters": "Without knowing what the letters say, it's hard to know if this affects you — likely this is just community opinions rather than news you need to know."
     },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch",
       "date": "2026-09-10T21:51:59.000Z",
-      "simple_summary": "Nvidia, a company that makes computer chips for AI, predicts it will grow very fast next year. The CEO says their products are used everywhere in AI.",
-      "why_it_matters": "This matters mostly to investors and tech companies buying chips — unless you run a business that depends on AI technology, you don't need to act on this."
+      "simple_summary": "Jensen Huang, who runs Nvidia (a company that makes computer chips), says his company will grow very quickly next year because AI companies need lots of chips. This is investor news.",
+      "why_it_matters": "This mostly matters to investors — unless you're buying new computers for your business, you don't need to act on this."
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-09-10T21:35:00.000Z",
-      "simple_summary": "Movie star Mark Wahlberg is speaking at a tech conference about business and investing, not about movies.",
-      "why_it_matters": "This doesn't affect you — it's just a conference announcement."
+      "simple_summary": "Actor Mark Wahlberg will speak at a tech conference with Bruce K. Lee about business and investing. This is event news.",
+      "why_it_matters": "This is mainly entertainment and conference news — not something that affects your daily life or business."
     },
     {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "source": "The Verge",
       "date": "2026-09-10T21:25:21.000Z",
-      "simple_summary": "Slack, a workplace chat app, is adding an AI feature that lets you describe what chart or report you need, and the AI builds it for you automatically inside your chats.",
-      "why_it_matters": "If your small business uses Slack, this could save time making reports and dashboards — you won't have to build them manually anymore."
+      "simple_summary": "Slack (a chat app for teams) is adding a feature where AI can create charts, reports, and dashboards right inside your chats. You'd tell the AI what you need and it would gather the information for you.",
+      "why_it_matters": "If your small business uses Slack to communicate with your team, this could save you time creating reports and sharing information."
     },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TechCrunch",
       "date": "2026-09-10T20:59:51.000Z",
-      "simple_summary": "OpenAI temporarily stopped taking new sign-ups for their paid Pro service because too many people are using their latest AI, and their systems are strained.",
-      "why_it_matters": "If you wanted to pay for their premium service, you might have to wait a bit. This shows their AI is very popular right now."
+      "simple_summary": "OpenAI (the company behind ChatGPT) temporarily stopped letting new people buy Pro subscriptions because too many people want it and it's straining their computer systems. They're adding more capacity to handle the demand.",
+      "why_it_matters": "If you want a Pro subscription, you may have to wait a bit, but the company is working to open it back up soon."
     },
     {
       "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "source": "TechCrunch",
       "date": "2026-09-10T20:57:30.000Z",
-      "simple_summary": "Anthropic says Chinese AI companies have been repeatedly trying to copy their AI technology without permission, and it's gotten worse lately.",
-      "why_it_matters": "This is mostly a business competition issue between tech companies — it doesn't directly affect you, though it's about protecting AI technology from theft."
+      "simple_summary": "Anthropic (an AI company) says that Chinese AI companies have been copying their AI technology without permission and doing it more frequently lately. It's a competition issue.",
+      "why_it_matters": "This is mainly a story about AI companies competing and is mostly important to investors and tech industry people."
     },
     {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
       "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "source": "TechCrunch",
       "date": "2026-09-10T19:50:04.000Z",
-      "simple_summary": "Meta, which owns Facebook, released a new app called Muse with AI features. It's becoming the second most popular app in the US.",
-      "why_it_matters": "If you're on Facebook or Instagram, Meta is expanding AI features. You might see this app recommended, but you don't have to use it."
+      "simple_summary": "Meta (which owns Facebook) released a new AI app called Muse that's becoming very popular in the United States, now ranking as the second-most-downloaded app.",
+      "why_it_matters": "If you use Meta products, you might see Muse promoted to you, but whether you use it is entirely optional — nothing you need to do."
     },
     {
       "title": "Schools are catching on to Big Tech’s playbook",
       "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
       "source": "The Verge",
       "date": "2026-09-10T19:44:20.000Z",
-      "simple_summary": "Tech companies like Google and Microsoft are offering free AI tools and lessons to schools. But critics worry this is the same strategy big tech companies use to get people dependent on their products.",
-      "why_it_matters": "If you have kids or grandkids in school, they're being taught to use these AI tools. It's good they learn modern skills, but schools should be careful not to depend too much on one company's free resources."
+      "simple_summary": "AI companies are offering free training and materials to schools to teach students how to use AI. Schools are starting to realize this is how AI companies did the same thing with other technologies in the past.",
+      "why_it_matters": "If you have kids or grandkids in school, they're likely being taught about AI — this is good, though it's worth knowing that tech companies have an interest in getting people trained on their tools."
     },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "source": "TechCrunch",
       "date": "2026-09-10T17:54:44.000Z",
-      "simple_summary": "Researchers testing rogue AI agents (AI systems trying to act on their own) found they struggle with CAPTCHAs — those security puzzles that prove you're human.",
-      "why_it_matters": "This is mostly for engineers and security experts — it shows AI still has weak points. For you, it means your online security protections still work against AI."
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "date": "2026-09-10T17:45:00.000Z",
-      "simple_summary": "A company in India called Pocket FM uses AI to create most of their audio content and is making lots of money. They say AI makes producing content about 80 times cheaper than doing it by hand.",
-      "why_it_matters": "If you're in the media or entertainment business, AI is dramatically cutting production costs. For others, this might mean more affordable audio content, but also fewer jobs in voice acting and audio production."
+      "simple_summary": "Researchers found that AI bots trying to act like humans don't like CAPTCHAs (those security puzzles where you prove you're human) just like regular people don't like them.",
+      "why_it_matters": "This is mostly interesting to security experts and researchers — it doesn't change anything about your daily AI use."
     }
   ]
 }
