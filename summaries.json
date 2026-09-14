@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-14T05:00:49.289Z",
+  "generated_at": "2026-09-14T12:53:30.185Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Trump resists AI slowdown as the political tide turns",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-14T03:49:07.000Z",
-      "simple_summary": "Donald Trump is pushing back against calls for slowing down AI development. Political leaders are split on whether AI should grow faster or slower.",
-      "why_it_matters": "This mostly involves politicians disagreeing — it doesn't immediately affect your daily life or business, though government rules on AI could matter later."
+      "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-14T11:07:00.000Z",
+      "simple_summary": "British lawmakers are saying new laws are needed to make sure AI doesn't hurt people's rights, like privacy or freedom of speech.",
+      "why_it_matters": "This affects you if you live in the UK — these laws might change how companies can use AI to track or make decisions about you."
     },
     {
-      "title": "Select committee calls for bill to address AI threat to human rights",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fbndOUW1xdld5ZEp1SUhqRUtsbDBDOVpHUjc1aTk0LWpGVGtWbDU4c1cxQ00wV2xNYmZaT3loOTZJcTdmNUZrSDdaM3pFYzh2QnFmM2lnVi1sZw?oc=5",
-      "source": "BBC",
-      "date": "2026-09-14T03:23:54.000Z",
-      "simple_summary": "A group of lawmakers wants to create new rules to make sure AI systems don't harm people's rights and freedoms. They're calling for new laws to protect citizens.",
-      "why_it_matters": "If these rules pass, they could affect how companies use AI systems that might collect your information or make decisions about you."
+      "title": "AI giants, investors clash over calls to slow down artificial intelligence development",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LZm1SSXNrbEpkNlZyRVMzRkhpWkhNUGZnVWNvbUd6dWRzYV9JWHAwaFI2eWNRb0t0bHhwSWlxdEo2cGR1X2cxbFZGQWR5UEphRlhjb1J3?oc=5",
+      "source": "Fox News",
+      "date": "2026-09-14T11:03:01.000Z",
+      "simple_summary": "Big AI companies want to slow down how fast they develop new AI, but investors who own parts of these companies disagree because slower development means less profit.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to act on right now."
     },
     {
-      "title": "Dreamforce welcomes more than 43,000 to San Francisco amid debate over pace of AI development",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDFNd2ppSmlFeS0xaGhZaFNtd1A3WjFkUVRheC1uYmxLQzJDdXRMSnlUYmdQUks3WFpVdFd3dS1HOWJyNFNCMGJGdW9uUDVJdkVwTy1tYTJCaFhNaWpldlhGUEtUeTIwZ2pzaUVXQ0ZmX1J1b0lWVFMtcmJ3MHczczBwejY0eG9pNXFuMjRhVkpnZGIxRFVoRDZPTDNyaGpka2dLTGdlM0RzSEJHZGU2S0tn0gG3AUFVX3lxTE1GMV9rcW1TMDlmY0hPZGFlZzVhUWZfUzhDbi1GRXNhdzFMSmJKYlBSMjJfNTUxWExoOFZsaEpGQ1ZMamtSTzl6NDRXWmpxMWpaSURlRThjdVNrZktraXZCRkhyU3JyS1pSYVJGODA0MEpzYlRSOTgwdFlGN1JKNG1JZ0s3WXU0NDAzbXhTTWc3MG1HTHdXcHRGbzN5SUJEaFBoRjRlWk5iUjl0VFJBWjYwN0dJZm5HZw?oc=5",
-      "source": "ABC7 Bay Area",
-      "date": "2026-09-14T03:18:34.000Z",
-      "simple_summary": "A big tech company conference in San Francisco drew over 43,000 people, but attendees are debating whether AI is being developed too fast or too slow.",
-      "why_it_matters": "This is mostly about tech industry insiders discussing their field — nothing you need to act on unless you work in technology."
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5",
+      "source": "NPR",
+      "date": "2026-09-14T10:09:08.000Z",
+      "simple_summary": "China's government criticized the head of an American AI company for saying the world should slow down AI development. China sees this as the US trying to get ahead in the race for AI power.",
+      "why_it_matters": "This is mostly about countries competing with each other — it probably won't directly affect your daily life as a small-business owner."
     },
     {
-      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-14T01:04:20.000Z",
-      "simple_summary": "The leader of an AI company published an open letter saying the industry should slow down and be more careful about how fast it builds AI systems.",
-      "why_it_matters": "This is mostly interesting to investors and tech workers — it doesn't directly change how you'll use AI in your daily life or small business."
+      "title": "How China is preparing for the risk of AI escaping human control",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-14T09:07:11.000Z",
+      "simple_summary": "China is making plans to handle the risk that AI could become too powerful and stop doing what humans tell it to do.",
+      "why_it_matters": "This is mostly about what governments are planning — nothing you need to worry about in your business right now."
     },
     {
-      "title": "House Speaker Johnson says Congress shouldn't lead AI safety efforts",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ25CNWJINlIxVDhOVTNwYXc2M3BPdkFvS3AxVjdlOE1feEQ1Wl93dEFwRkw3TzRIc044OUE3WHVDNTBXaUhJVEsyVTFHRjR2RE9pVXZ0SlB6OVRyQWFFMHpRb1lobWRfZmxBeWp3Uzd0bF9haEUtNTI5cVgwZ2hEbThwTVd4Y2NXUm1JX01oWk0weFc4dlk3NGNjVVZwS2Y3VVhfTXJQU0hzTmZ6clotQ2o4NlVJVmRf?oc=5",
-      "source": "usatoday.com",
-      "date": "2026-09-14T00:16:00.000Z",
-      "simple_summary": "The Speaker of the House said Congress shouldn't be the ones making decisions about AI safety rules. He thinks others should handle it instead.",
-      "why_it_matters": "This is a political position that might eventually affect what rules get made about AI, but nothing immediate for you to worry about."
+      "title": "Dire warnings about AI shock Congress, but action is unlikely before the election",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON05rZXlwTktkLW5IQXUyZWZOWUt6MmZCWVRrb0dwSHdCcDY3X2ZORlBkdVdha0E0YXdmVElCSF8tRExNZEhQNUFzclhFLW1uUktVRDVRRUpoU1h0M291eWFNZ1NWbzNoMHU1eG05Rm1iaG9CNGZBYTFhX2pDZHl3ZW9kVFRKd3dvQjB0bGM5R2lOTUUxUEtGSW9sdG9reER3SWxyUnBZaHc?oc=5",
+      "source": "NBC News",
+      "date": "2026-09-14T09:00:40.000Z",
+      "simple_summary": "Experts are warning Congress that AI could be dangerous, but Congress probably won't pass new rules about it before the election.",
+      "why_it_matters": "This means AI will likely keep growing without new government rules for a while — something to watch if you use AI in your business."
     },
     {
-      "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NTenhlaVBsazZZaUR4TlFZSzl0VzY4aXZqa3BrZHRoQ3N6a3JpR3BpQW5Nc3kzUk5hV1Eydk10SlVLUDRvMDMxRHQ2TlBUVlUxUmp0ZGZzbzlySEIzZ2tWcG1JTzZrMHVLLWdqb2E5ei14d0MzY1FlQmxWSHYzWGF2bkFrRjRkX0ZPUV9LMA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-13T20:49:16.000Z",
-      "simple_summary": "Top lawmakers agree that AI could create problems, but they say they don't have easy answers or quick fixes for those problems yet.",
-      "why_it_matters": "This is honest talk from politicians — they're basically saying AI rules are complicated and will take time to figure out."
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0xYYkd0WFJiNU9GSFFqNC0xMzB3ZUpXZWxteVI1WkwwZkNkVFlNOGVDUTVfZm1fVUJQeTVwYXlFTEdxNzJCd2xQUFVrZkhCOXg5dVZQMS1sSVZhUTNiUHpud3lDeFVGUTg0S213ZVVpdVZkOW1kanRxV2dmSHBRUk9RQk5VbE8wZmprVkhWaUR5UEhuWDVBZdIBngFBVV95cUxPUUxMQ3FnTUdrbVpJRXdadlJfTWJiTHphR3NQNldwTmxCRGRBbk4tYjBNdnhzMVlhS2NpOGIwdkpNc0JOdVUwUV9JOEZXQktkckd6MUFpdlhOOFdBYjlMb1pqbHVRQ0FmNGRBcC1kb01wNmRhamJUczlvSWJ2SmZSME1Kb2xXNGIyTWhxMVRlUUQ2b3N6ZDVFaGY1X1pDQQ?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-09-14T05:34:46.000Z",
+      "simple_summary": "Scientists and experts are warning again that AI could pose serious risks to humanity, and people are debating whether these warnings are valid.",
+      "why_it_matters": "This is part of an ongoing discussion among experts — stay aware, but there's no immediate action you need to take."
+    },
+    {
+      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-14T04:04:00.000Z",
+      "simple_summary": "China's state newspaper says an American AI company's call to slow down AI development is just a trick to make China fall behind in the AI race.",
+      "why_it_matters": "This is countries arguing about competition — it doesn't directly impact you or your small business."
     },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
       "source": "The Verge",
       "date": "2026-09-13T19:41:48.000Z",
-      "simple_summary": "Some important AI company leaders want to slow down AI development, but Trump and the House Speaker disagree and think the industry is overreacting.",
-      "why_it_matters": "This is political and business debate at the highest level — nothing that changes what you need to do right now."
+      "simple_summary": "The head of an AI company said companies should slow down their AI development, and other AI leaders agreed. But Donald Trump and a Republican leader think the AI industry is overreacting and don't want to slow down.",
+      "why_it_matters": "This shows disagreement between AI companies and political leaders about how fast AI should develop — something to watch, but no action needed yet."
     },
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
       "source": "TechCrunch",
       "date": "2026-09-13T19:40:15.000Z",
-      "simple_summary": "AI industry leaders are publicly debating whether AI might pose serious dangers to humanity, with some calling it an existential threat.",
-      "why_it_matters": "This is mostly academics and tech leaders discussing long-term risks — not something affecting your immediate use of AI tools."
-    },
-    {
-      "title": "Chip Roy is leaving Congress — but not before warning his colleagues about AI",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
-      "source": "Politico",
-      "date": "2026-09-13T18:41:00.000Z",
-      "simple_summary": "A congressman who is leaving office is warning his colleagues that they should pay attention to AI and its potential problems.",
-      "why_it_matters": "This is a politician's warning to other politicians — it's a signal that some lawmakers think Congress needs to take AI seriously."
+      "simple_summary": "Experts in the AI industry are debating whether AI is truly dangerous enough to worry about or if these warnings are exaggerated.",
+      "why_it_matters": "This mostly matters to engineers and investors — the debate itself doesn't change how AI affects you yet."
     },
     {
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
       "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
       "source": "TechCrunch",
       "date": "2026-09-13T16:30:00.000Z",
-      "simple_summary": "Former President Obama says Democrats should make AI regulation and safety a top priority and create a clear plan for how to handle it.",
-      "why_it_matters": "This means one major political party thinks AI safety matters — it could eventually lead to new rules, but that takes time."
+      "simple_summary": "Former President Obama says Democrats should make AI safety and its effect on jobs a major priority and have a clear plan for it.",
+      "why_it_matters": "This is a political statement about future plans — if you're a small-business owner, keep an eye on how AI might change jobs and the economy."
+    },
+    {
+      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-13T15:58:51.000Z",
+      "simple_summary": "The head of an AI company explained why he thinks companies should slow down how fast they develop AI.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it's one person's argument in a bigger debate."
     },
     {
       "title": "What are the five pros and cons of artificial intelligence?",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
       "source": "Al Jazeera",
       "date": "2026-09-13T15:06:08.000Z",
-      "simple_summary": "This article lists good things and bad things about artificial intelligence. (The headline alone doesn't tell us what those are.)",
-      "why_it_matters": "A general article explaining AI's benefits and downsides — useful background information but no news about what's happening now."
-    },
-    {
-      "title": "AI will transform capitalism – but how?",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FZa2NtaEdMSERqbGRwMDN4Q1doVzF4VXIyVFFvNzVVRVZoVUtEYUY0eTZtbmtZQ3dVRjVoSGduMXp6OFNCVXVwaFd2SG5ISEtDSGNvQktCTEsxQ1RsYUdaSkFad2FKUWVyN3RiV1BoSjk0XzBXY0NPTVJocDZ6Z0FvZXhjOVJKam02M29Wb2Y?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-13T11:33:00.000Z",
-      "simple_summary": "AI will probably change how our economy and businesses work, but it's unclear exactly how that transformation will happen.",
-      "why_it_matters": "This is thinking about the big economic future — interesting to consider, but too vague to know what to do about it today."
+      "simple_summary": "This is a general article listing good things AI can do and bad things to worry about.",
+      "why_it_matters": "Read this if you want a balanced introduction to AI benefits and risks, but the headline is too general to know specifics."
     }
   ]
 }
