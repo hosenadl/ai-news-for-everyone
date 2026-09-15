@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-15T17:02:59.501Z",
+  "generated_at": "2026-09-15T21:23:58.869Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzk0RHRlTG41VVpUcjdSYW16N3FZZUNWMFhhNTdtaENBc1B0Vk1LUlZZemd3cmt0N2JEYzFrRVo3dUxSb3RfVndCOUJmdHMxaDRPTjRGVG5ZSzZBRC1tdUJoNldRWTY4VVQweUVET2lmWTFNSXdMNTJQTDdSSnlrZ1IwSlVxaEp3VlpnZ25rRVJHbmhZMzdtTnlhc1VPU2FNWXc?oc=5",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-15T18:40:17.000Z",
+      "simple_summary": "Some AI company stocks made investors a lot of money over the past 5 years, earning more than the famous Nvidia company.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch",
+      "date": "2026-09-15T18:29:20.000Z",
+      "simple_summary": "AI computers use a lot of electricity and natural gas to run. By 2035, U.S. data centers might use more natural gas than entire countries like Germany or Japan.",
+      "why_it_matters": "This could affect your electric and heating bills if energy prices go up because of all this AI demand."
+    },
+    {
+      "title": "Poway City Council to consider AI data centers ban",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmtJWVk4a2dYWGJWRnZQUjRLTVZMTC10SnNCR1JBcnFMaGJFLWZzS0xlcU5nM2I1OG4xUzllMzdFSkxUT0g3MkxKOXNneWJpb3hUNEdISDZvcTRPWUExcmoxXzl5OEtVeUUwcWxIMVp6TlpTbjFBVU9mYi1TLVZmN01IYnFxT0pVQWFxaTRWZWs3a28zdG9hZ2pTLTJuTjDSAacBQVVfeXFMUHdzcUhPNE9namRFT2hFTjgxb2ttNjUySk9KUlhFTmZWY1V3WFl3RVhZVG91RDJ0Vl9FeVd5aW9VRTQzd2ZVNEljOFN1ck9TZHhCanRFeXFZcl9zY3lLb3lqRXk3STktWnRXcFR6MXBXYVB5VmozZGFsRDFsWkN6T2pxU1ZvVlRJM2hrM182b2o0MWpFOTduMlpFWDFiNzNsQjJrUnRDekk?oc=5",
+      "source": "NBC 7 San Diego",
+      "date": "2026-09-15T18:20:24.000Z",
+      "simple_summary": "A city council in Poway is thinking about banning new AI data centers from being built there.",
+      "why_it_matters": "If you live in Poway, this could affect local jobs and development plans in your area."
+    },
+    {
+      "title": "Opinion | Don’t let AI build the next AI",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xRajRrRlpkd1lIUjdoaWZ4MHo3VXhjcnc1SFg5NTU2YWhQMUVKaGN0dTJST0hLMzh4WDB5R011bmhYX0hwQ3dZUWhpTnNDRVZFUEd4MmxVVTZ6YV9CNHJyY0VSdkJWV0hOcmc4aV9wQVQza1V5dFNrcEUtV1dYbnJscDZEbnFEZGZORlNySjBVWGYweFJLYi1OTXV3S0NCaGlydFRsc0R3RTJfU3c?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-15T18:00:00.000Z",
+      "simple_summary": "An opinion piece argues that humans should have more control over building new AI systems instead of letting AI build AI.",
+      "why_it_matters": "This is a debate about the direction of AI technology — not something that changes your life immediately."
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch",
+      "date": "2026-09-15T17:42:59.000Z",
+      "simple_summary": "Companies created a hotline where AI systems can report problems they see, like a tip line for artificial intelligence.",
+      "why_it_matters": "This mostly matters to engineers and companies — nothing you need to act on."
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch",
+      "date": "2026-09-15T17:05:24.000Z",
+      "simple_summary": "Meta (which owns Facebook and Instagram) is selling a new subscription plan that gives you extra AI features along with ad-free social media.",
+      "why_it_matters": "If you use Facebook, Instagram, or WhatsApp, Meta wants you to pay monthly for better features and more AI help."
+    },
+    {
+      "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHk0cnRVWlZ6WVhQWVVwUTlyNHFEWGVWM2loUXpYOFBqOXBrZ0ZBQ0JDQzFwYkJDRm10RXVMS20yM1ZJanVhWmJ6RVdrNHV2OG9LNVFjeVdjcW9BeWhkc296RUhEbnpsa1M5Slk5bndkNkJoWEVYaDhsemlxXzBUc3VCX2NUUGx4Tm5wVVN2VGViVWQxSURV?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-15T16:32:00.000Z",
+      "simple_summary": "Congress is pushing back on a plan to speed up AI development without safety rules.",
+      "why_it_matters": "This is about government policy — it may eventually affect how safe AI tools are for you to use."
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch",
+      "date": "2026-09-15T15:47:03.000Z",
+      "simple_summary": "Three big AI companies held meetings to discuss how to make AI safer, while some government leaders want to skip safety rules to compete with China.",
+      "why_it_matters": "This is a behind-the-scenes debate among tech leaders and government — nothing you need to do right now."
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch",
+      "date": "2026-09-15T15:22:48.000Z",
+      "simple_summary": "A startup company that works with AI just raised a huge amount of money and is now worth $1.8 billion.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
     {
       "title": "Meta’s new One subscriptions put a price on social media and AI",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "source": "The Verge",
       "date": "2026-09-15T15:00:00.000Z",
-      "simple_summary": "Meta is now charging money for extra AI features and social media apps through subscription bundles.",
-      "why_it_matters": "If you use Meta apps and want advanced AI features, you may need to pay a monthly fee instead of using them free."
+      "simple_summary": "Meta is now selling subscription plans that bundle ad-free social media with access to extra AI features.",
+      "why_it_matters": "If you want to use more of Meta's AI tools or remove ads from Facebook and Instagram, you'll need to pay a monthly fee."
     },
     {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "source": "The Verge",
-      "date": "2026-09-15T13:36:45.000Z",
-      "simple_summary": "SimpliSafe is selling a new doorbell camera ($199.99) that combines AI with human security guards who can watch your front door and respond to threats in real time.",
-      "why_it_matters": "If you want a smarter home security system, this is an option — but it costs extra money each month ($49.99+) to have a real person monitoring it alongside the AI."
-    },
-    {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
       "source": "TechCrunch",
-      "date": "2026-09-15T12:00:00.000Z",
-      "simple_summary": "Salesforce and Nvidia created new AI software designed to help businesses with sales, marketing, and customer support tasks.",
-      "why_it_matters": "This mostly matters to large companies and investors — nothing you need to act on right now."
+      "date": "2026-09-15T14:42:37.000Z",
+      "simple_summary": "A new camera app uses AI to suggest better poses for your photos, like having a photographer guide you.",
+      "why_it_matters": "If you take a lot of photos or selfies, this is just a fun new tool to try — not necessary for your life."
     },
     {
-      "title": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQ4VktTOFQ2dF9CNFl3cVlZQkZHeVZKeXJJa0dJQ1JYZFlmaWtFR1pfV3R0cFMtMUkwTmswQ25Jal9aM2Z1aVdfYjhiMVhzdnJUX1JMelF3Vzl3SDF5cTByazNGUTBaRG1lUnk5dWRtSmkxTEMtamlGenVxZmJvSmVmTUtjbUxORUNsV2RBWTRLTFE4YjFKRWZ4MXNmYnNSenJ0ZnNpVV9Qa1BmeWlkaG930gG3AUFVX3lxTE4zWEs5Zk40X0hFQ1RJdktXcjVuUFZZTldaN2NWRVVLY0RYOWZSdmdVbDQyU19qSmRyalVxeTJ4cEJmLTdsQnZtOTIwVFNIdU11OVpaLVJMXzBDS2hWSkZ1amRYa19SOHlGQ0RvdEVRcDlqZTVBUGtpWFBxNmt2akVWdEI2LUdMRkxEUVkzRm0zREFldGVxenRSQmhIdXFXVnBmYXlqemMyb0hEbUpfd0hzZTBaNTQySQ?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-09-15T07:19:39.000Z",
-      "simple_summary": "The Gates Foundation (a charity run by Bill Gates) warned that AI might make rich and poor people even more unequal, and they're spending $1 billion to try to help more people access AI benefits.",
-      "why_it_matters": "This is about long-term fairness in society, but the foundation is trying to make sure regular people benefit from AI, not just wealthy people and big companies."
-    },
-    {
-      "title": "AI Is Transforming Business. Now It’s Transforming the MBA Classroom",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnByc0g3Y3JTaEdnYVVTZVUwcV82WEZZYWdFV0p1bUJvZ1RPSXQwbTlaWGNyeWliTE1DNnNCaUw2OEFyUzhMaUFoQWVPV2Q0YlRNLUp6VlEtQU5kY0dUbk9IYl9OWFM1ZmoxRk9Zekp4eTdaamZjLUZ3WkIyZkdmSGh4cFJVUEdyOTdUVUloS29SNVBQSnZnUEk1QksxUTc4aG5XaGNudDAzQ2s?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-09-15T04:45:00.000Z",
-      "simple_summary": "Business schools are now teaching students about AI and how it's changing work.",
-      "why_it_matters": "This mostly affects MBA students and educators — nothing you need to act on."
-    },
-    {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
-      "date": "2026-09-15T01:50:48.000Z",
-      "simple_summary": "The headline is too vague to explain clearly — it mentions Jensen Huang (a tech CEO) got a call from Trump and showed off some phone, but doesn't explain what happened.",
-      "why_it_matters": "Not enough information to say whether this matters to you."
-    },
-    {
-      "title": "Sen. Kennedy readies AI ‘kill switch’ bill - Live Updates",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXlXWTBIcEh2VWJSQXRvUVZremRtVllHNTBjUXY5UDRwdnRWbmpfamFKZXhvaS16X0xWeHBjWTZ5THpuMzI0VC1QNU1BaUtpT2hCWVZLRTk5SFVWN1FmTGRrUklybGo0VTRwWXIwa3RwekFpNG9qTGdGX3Y5OUdmX2RTQXdYY2tUTm9rOTIyRkR3MlJFR3VlQjdXbjhpUzNac21OSA?oc=5",
-      "source": "Politico",
-      "date": "2026-09-14T23:38:55.000Z",
-      "simple_summary": "A senator is working on a bill that would give the government an \"emergency stop button\" for AI if something goes wrong.",
-      "why_it_matters": "This is about government policy and mostly affects lawmakers and tech companies — it's too early to know if it will become law."
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge",
-      "date": "2026-09-14T22:59:41.000Z",
-      "simple_summary": "Top AI company leaders (like Elon Musk and Sam Altman) said they would slow down their AI development to make it safer, but some people think they might really just be trying to protect their business advantage.",
-      "why_it_matters": "This mostly matters to tech industry watchers and investors — the debate over AI safety is important, but doesn't directly affect your life right now."
-    },
-    {
-      "title": "Barack Obama, Kamala Harris call for government action on AI development",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzZway1IX0otVnBLTWhVWURKcUVXaTl1U0R0ekxCaEEzcjFJV1BhYngtczhJeDJDVjNMNVNUTkdQTGlXX1I3ZFdCV2tCWjRlU0cwRzJlenQ5V0NvUklKUEJoSEF4eHNUZ3pfLWd6RFZOc0NKV2s4ZFN6RzZVVmhxcng0dHBXSTFfU0RqVFI5MA?oc=5",
-      "source": "CNN",
-      "date": "2026-09-14T22:55:42.000Z",
-      "simple_summary": "Barack Obama and Kamala Harris called for the government to take action and make rules about how AI is developed and used.",
-      "why_it_matters": "Government oversight of AI could eventually affect how AI products work in your life, but there's no specific action to take yet."
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T21:51:02.000Z",
-      "simple_summary": "Nvidia's CEO Jensen Huang told Trump he doesn't agree with slowing down AI development — he wants companies to keep moving fast.",
-      "why_it_matters": "This mostly matters to investors and tech industry people — it shows disagreement among leaders about how fast AI should develop."
-    },
-    {
-      "title": "Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejV4dFJOa3FwRmRqWkxqTUlFSG04Y3plVndzR2JTVWE3bnlBSHRkSGVYOGdDUXFaTmFVV1hSRDhRckYxNHV6U2xPY0ZZbTBhWjdCRW5vNE1IeHRZMk8zVks1SEdnYUExRFdfTWNRaUN4eDF2aGxqRV9vWnRHS1ZhMHlENy1Pdno5M09JSXRMN0VVSHh2TFlsRTE4TUVDLXY4NzVYYg?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-09-14T21:32:01.000Z",
-      "simple_summary": "The headline suggests a company called Oklo has potential because of AI, but its stock price is dropping anyway.",
-      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on."
-    },
-    {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge",
-      "date": "2026-09-14T21:21:42.000Z",
-      "simple_summary": "Business leaders and politicians are debating whether AI development should be slowed down for safety reasons or kept moving forward.",
-      "why_it_matters": "This debate could eventually affect future AI products and rules, but for now it's mostly discussion among decision-makers."
+      "date": "2026-09-15T14:30:00.000Z",
+      "simple_summary": "A tech conference is advertising a speaking event for people who want to learn how to grow their startups.",
+      "why_it_matters": "Only relevant if you're starting a business and want to attend a conference — not for most people."
     }
   ]
 }
