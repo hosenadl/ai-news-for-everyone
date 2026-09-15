@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-14T21:51:38.568Z",
+  "generated_at": "2026-09-15T04:58:07.305Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Vance downplays AI fears: Heritage Foundation warns against regulation",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVWw2Z2Vka0VSaXhOWHUwS0hRRUdVVk9DSFdBbkJSX2tIb0lwQ21UTHlkN1BHOG0xY0w2TmRmS2c4b0RkbGhSY0htTjZ3dEUzNHhwSkRGbUhVWTVFRklYcFBHWWNDeGdFaEx0OXFUaWJrcGY4RXA0aFB4NlFRRVMxN0NWbUVlTGdkNW1QMDZoaVF6VzZuWUVudkMyWXI1M0l4TXVfMlp2MDBSc2hZdkhpOEhuczZJWFBwUDRwUFJKYVRPQy1RMGRDalhfWngwS0hfalc5cXJRRVhWbEx2OUVQYVYwaTc?oc=5",
+      "source": "KATU",
+      "date": "2026-09-14T23:54:41.000Z",
+      "simple_summary": "A political group says the government shouldn't make strict rules about AI right now.",
+      "why_it_matters": "This mostly matters to politicians and investors — nothing you need to act on immediately."
+    },
+    {
+      "title": "Newt Gingrich warns US could face grave danger if it falls behind on artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqSHp2Y091dXpIWHBWMTd0dmVDNEp6eXRiQXlSX1llRXE1U0M1YU51TmsyaFd3QXB6bFdKMWxhWXF1T0xlNE0waGtOc1lrbW9tMExTeU8zd000TjA?oc=5",
+      "source": "Fox Business",
+      "date": "2026-09-14T23:39:00.000Z",
+      "simple_summary": "A politician is warning that America could have serious problems if other countries get better at AI than we do.",
+      "why_it_matters": "This is political talk rather than actual AI news affecting your daily life or business."
+    },
+    {
+      "title": "Stock Market News From Sept. 14, 2026: Dow, S&amp;P 500, Nasdaq Fall Amid AI Fears; Micron, Marvell, Intel, More Movers",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RaGtCakxhQW9XMUViUDB1YmdMWjVBV3RlYUVUeHJKVGc4YTJzZWtBbDNfZWxLeHhDd011OXVyZzRYaHVTT3RQVFk2aXRRMDhxQkt0M1V4RWVxU3FDeXJqcE9QZFVqMEZSZVRkbUh1NzFtZDFueFE?oc=5",
+      "source": "Barron's",
+      "date": "2026-09-14T23:07:00.000Z",
+      "simple_summary": "Stock prices fell partly because people are worried about AI's effects on businesses.",
+      "why_it_matters": "If you have retirement savings or investments, this is worth watching, but it's about the stock market, not AI itself."
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge",
+      "date": "2026-09-14T22:59:41.000Z",
+      "simple_summary": "The big AI companies said they'll slow down how fast they're building new AI, but some people think they're just pretending to avoid government rules.",
+      "why_it_matters": "This mostly matters to big tech investors — for ordinary people, AI development speed won't affect you either way right now."
+    },
+    {
+      "title": "AI CEOs say they need to slow the pace of development. But will they?",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-14T22:17:00.000Z",
+      "simple_summary": "AI company leaders say they want to develop AI more slowly and carefully, but people wonder if they'll actually do it.",
+      "why_it_matters": "This mostly matters to investors and tech workers — nothing you need to worry about for your business today."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch",
+      "date": "2026-09-14T21:51:02.000Z",
+      "simple_summary": "Nvidia's leader says his company won't slow down AI development, disagreeing with other tech leaders.",
+      "why_it_matters": "This is mostly about tech business competition and investor concerns — not something affecting ordinary people or small businesses."
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge",
+      "date": "2026-09-14T21:21:42.000Z",
+      "simple_summary": "Business leaders and politicians are arguing about whether AI should be developed faster or slower, with different opinions.",
+      "why_it_matters": "This is political debate rather than practical AI changes affecting you right now."
+    },
+    {
+      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
+      "source": "NBC News",
+      "date": "2026-09-14T20:58:29.000Z",
+      "simple_summary": "A politician said AI doesn't need safety rules, just smart leadership.",
+      "why_it_matters": "This is political talk — it doesn't affect what AI can actually do for your business today."
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "date": "2026-09-14T20:44:14.000Z",
+      "simple_summary": "OpenAI (a major AI company) bought a small company that makes camera technology, spending 300 million dollars.",
+      "why_it_matters": "This mostly matters to investors in tech companies — it's a business deal, not something affecting regular AI users or small business owners."
+    },
+    {
+      "title": "Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkl5UW02RDZQSXhuSzRCNTBWZHhlejlNdlJhZnBpeHBXZ0JJZF9kYTFtdDZjMlhuZFFiSEp3b2xQWGpNa0lDaVl0eHBTSXByakdkNWc2dDZwcnEwd1lfWWg2ci0yV1JBam9vOVluTFJTbnl1ay1vZ0xMejh3c1libEFzVUNHa0NqV1hqYmprNVhjQ0k?oc=5",
+      "source": "Politico",
+      "date": "2026-09-14T20:20:12.000Z",
+      "simple_summary": "A politician is saying Congress needs to pass laws to control and limit AI right away.",
+      "why_it_matters": "This is political debate about future rules — nothing you need to act on yet for your business."
+    },
     {
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
       "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "source": "The Verge",
       "date": "2026-09-14T20:03:37.000Z",
-      "simple_summary": "Nvidia's CEO took a phone call from President Trump during a public event and put him on speakerphone. Trump said that AI robots won't take over the world.",
-      "why_it_matters": "This mostly matters to investors and political news — nothing that changes how you use AI day-to-day."
-    },
-    {
-      "title": "Gov. Healey wants federal action on AI development",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTB4djdyR1lCX1J1bkZGZFcwTExjcUJQNm1TY2F3ZEljZ2dHX2x4T1VkUFJJN1FVRjk4dWkwR1lfT21tQVZrZ3NIMVJTTGZSNDhWS2pKMDlqVUtkdlpFWU9EUHFaeWNJQUFqNXhzRFZYZHQyRTNlRDQtOGRlY1AweFRBeXVUMXlHWEtqMlk5MG03cHFPZVlxM0FYQzFaZXozby13QdIBrAFBVV95cUxQc0V1LUUtRGJKeVRjS2NzNE9LYUpiOG1Ib0MxY0NPejkzZjI1WmM1UjBDR2R3SGlpNkNZa1dOWVVBXzVXdFlRaHY5ZHJyTmJ1ME8yTmxyTGU5elJrMm96UGR5NnFNSU5WM01KY0VMVUJOT3VqdE1HWkVmSmc5V2lrVV9XejNkSDZhZktiaXhxdjFFcUttZjJBUGl6bzRyUklGREVHMGR0MmRJb2Mt?oc=5",
-      "source": "NBC Boston",
-      "date": "2026-09-14T20:03:16.000Z",
-      "simple_summary": "A Massachusetts governor wants the federal government to create rules for how AI should be developed and used.",
-      "why_it_matters": "If new federal rules are made, they could eventually affect what AI tools you can use, though this is still just a request and far from becoming law."
-    },
-    {
-      "title": "China says U.S. tech leaders’ calls for AI slowdown are ‘malicious competition’",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclNyb29WSFJDNENVeGJwSXB4d055bW9TZVp3dklKQXpMMFhZYWZFMFJzQ2Mzc2djQjk0YjcyNWVjcGt6d010MWVaZjNJaE82SUtoNU1aSEVfZUp5UkV3djU2cVJRS04yOWRoMTRaTHhxaE9EMVI0Zlh0V2ZLOFRfRjdaN3kwNXljRkhhenRHNm1uUzVGYVR5MnFVclI3N2k3eGVJX2ZSdGhOWUdaSUhKY09zVUszZw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-14T19:59:09.000Z",
-      "simple_summary": "China criticized American tech leaders for saying AI development should slow down, calling it unfair competition.",
-      "why_it_matters": "This mostly matters to tech investors and government officials — nothing that affects your daily life right now."
-    },
-    {
-      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-14T19:28:14.000Z",
-      "simple_summary": "The leader of an AI company called for the industry to develop AI more slowly and carefully.",
-      "why_it_matters": "This is mostly relevant to investors and other tech companies — it's about how quickly the industry grows, not about features you use."
+      "simple_summary": "An AI company leader talked to the President on stage at an event and said robots won't take over the world.",
+      "why_it_matters": "This is just news about what people are saying at events — it's not a real change in what AI can do."
     },
     {
       "title": "How China is preparing for the risk of AI escaping human control",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
       "source": "Reuters",
       "date": "2026-09-14T19:02:37.000Z",
-      "simple_summary": "China is working on plans to manage the risk of AI systems becoming too powerful or acting unpredictably.",
-      "why_it_matters": "This mostly matters to government officials and tech companies — nothing that affects what you need to do right now."
-    },
-    {
-      "title": "Stocks Decline, 10-Year Treasury Yield Touches 5% Amid Oil Surge",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5",
-      "source": "WSJ",
-      "date": "2026-09-14T18:50:00.000Z",
-      "simple_summary": "Stock prices went down and interest rates on government bonds went up, partly because oil prices rose.",
-      "why_it_matters": "This is about financial markets and investments — not specifically about AI, so it's not something you need to act on because of AI news."
-    },
-    {
-      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
-      "source": "NBC News",
-      "date": "2026-09-14T17:47:07.000Z",
-      "simple_summary": "President Trump said AI doesn't need safety rules, only smart leadership.",
-      "why_it_matters": "This is a political opinion that mostly matters to investors and tech policy — nothing you need to do in response."
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T17:10:30.000Z",
-      "simple_summary": "Apple made its Siri voice assistant (the helpful robot that talks to you on iPhones) much smarter and more useful.",
-      "why_it_matters": "If you use an iPhone, you might want to try using Siri again since it works better now for everyday tasks."
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T17:00:00.000Z",
-      "simple_summary": "A shopping app now uses Apple's new AI smarts to help you find and buy clothes based on photos you've taken.",
-      "why_it_matters": "If you like clothes shopping and use iPhones, this app could be a fun time-saver for finding similar items to ones you like."
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T16:27:53.000Z",
-      "simple_summary": "Microsoft created a set of rules telling its AI systems not to hack computers, trick people, or replace human workers.",
-      "why_it_matters": "This mostly matters to other tech companies and investors — it's Microsoft saying it wants its AI to be responsible, which is good but doesn't directly change what you use."
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T15:00:00.000Z",
-      "simple_summary": "A tech conference is promoting a discussion about how AI companies can stay successful as the technology keeps improving.",
-      "why_it_matters": "This is mostly relevant to people building AI startups — nothing an ordinary person needs to pay attention to."
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch",
-      "date": "2026-09-14T14:45:44.000Z",
-      "simple_summary": "A company bought a note-taking app to help with productivity tools that can work more like a personal assistant.",
-      "why_it_matters": "This is mostly relevant to investors and tech companies — it's a business acquisition that doesn't change what tools you use right now."
+      "simple_summary": "China is planning how to handle the risk of AI systems becoming too powerful to control.",
+      "why_it_matters": "This is mostly about international competition and government planning — it doesn't affect your daily life or small business right now."
     }
   ]
 }
