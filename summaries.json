@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-16T04:53:04.757Z",
+  "generated_at": "2026-09-16T11:40:34.536Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXMwWTgyQmJoUkMyalVsWWZBRmNpVEdJLTR1cVQ3UFlXNFA4UkRGNk9OdWQtcjEzYThGNnpuRVpLODhOM3dlcmlZTHlpTWJOcFUwM25rUk9WRFgtNHY2WUlnSWJFbHJUUkFYRFVUQUFOWVVhdUc3OFlfYmNMZDdOUXp4NlMtXzJlNXg1S19VaklJQ25qeWRlMG5oY1ZETG03enfSAacBQVVfeXFMTTVCTWIxalA1a1BIbjd4UlFNODRlY24xWERLM1Z5NnlaV2JmbWJDaFZTd2VrQnlyMjRDRElueEc2TEw5UGJtbXF0WkFveXdtMUhvaExiVkJVbElEcVhnZFJJU0p3Y3JIZnpKMHNwUUlnUjVpQ0p3WDdWVHRtOG9NNXFya3d2NUJvcWUxVzUyZU5zRjFLbWFFdmQwYmV0YWNDVEFsMmFJVFk?oc=5",
-      "source": "CNBC",
-      "date": "2026-09-16T04:01:59.000Z",
-      "simple_summary": "Chinese AI companies are not speaking publicly about AI safety risks, while the U.S. is actively discussing them.",
-      "why_it_matters": "This mostly matters to government officials and big tech investors — it doesn't directly affect your daily life or small business."
+      "title": "Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGVUbFFJNEVENkxSaWhIUWdwcTJhSC1iY0FYc2FVbzk1c0dxMzg3WUpoa2EtS3B1OWlmTEkwckVYTWxsNzd5U21OVWZzZk0tZzFNLUJCUVlCd2tpYWZDV1ZTZ0RQUzU5WTdfdHdiR1FONXc2SklodW5uOV9PTHdSanU5OUVsNnFwY05SR0RpTQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-16T11:01:00.000Z",
+      "simple_summary": "Some people are worried that AI companies might be allowed to work together to control how fast AI develops, rather than competing separately. This could give them too much power over the technology.",
+      "why_it_matters": "This is mainly about how government rules should work — it affects what AI tools exist in the future, but there's nothing specific you need to do right now."
+    },
+    {
+      "title": "Gates Foundation commits $1 billion to improving global AI access",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGV5a2ZWSVNtNG5Dc1NSY0thSmhiNEEyZXMza0xHQjg5MmdSeDNDU2FlcjdZNGhNRnRWeFI0dVIxOV9MX1Q3ekxENEgtZm9OU0E5eTdqQ2ZyUTBMbFpjc0o1Z1VVcGFBdFRXQzk4bnhqOHAzUG11UE52bnZBOG1scmRBNGdLZm5mVmpBc1p5LXBzRmNKQmJxRWdCZjVIRnZ4THFOdW13QWw?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-09-16T10:00:00.000Z",
+      "simple_summary": "Bill Gates is giving $1 billion (a thousand million dollars) to help more people around the world get access to AI tools and technology.",
+      "why_it_matters": "This could eventually mean AI becomes more available to small businesses in developing countries, but it's years away from affecting most people."
+    },
+    {
+      "title": "Poll: Americans say there’s a serious risk of AI destroying humanity",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUc0MTYzZ2FSRUQ0c0doT3lBUl9yV3FzVG5VVFhFSFNLaFdOMjdsdmM5d1hYWEVkWkE1MU1ZRFpWSEU0Q2VkZmR5NnZwVVBCMFQwd1k2dGhXT1V0R1Z2NmxLRm5pRHcwdEpPdk1yUW5ObTZNcnJYNzZ4aGJFWGJkTktBSUticDhpemtnUjR4cGhjemtmN0J4ajZnclU?oc=5",
+      "source": "Politico",
+      "date": "2026-09-16T09:45:00.000Z",
+      "simple_summary": "A poll asked Americans if they're worried AI could destroy humanity — and many said yes, they think there's a serious risk.",
+      "why_it_matters": "This shows people are nervous about AI, but polls measure opinions, not actual dangers — it mostly reflects how people feel rather than what will actually happen."
+    },
+    {
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTjhzMW9DbzJ3ZjJkZlVjOTJRSWpMa3N6emZORlpQRjc1WFZOUTl3UllXZF9UTlZ4dXFXc1llYzczZjFMN2J4OXo2Z3A1bG5kelpDenVGRU5RV1k?oc=5",
+      "source": "BBC",
+      "date": "2026-09-16T08:41:44.000Z",
+      "simple_summary": "President Trump supports developing AI quickly, even though many experts are warning about risks.",
+      "why_it_matters": "This shapes which government policies get made, but it's political news — you don't need to change anything unless you work in AI or politics."
     },
     {
       "title": "Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax'",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3F0eDVLem83MjQ1eV9idTdoQm5rM0xsS2pBOEdVdDB2QXlYNVdDSHJuRVE0aVNHMEdwYTdXNzZJVVFWSEI5NThfbmZTY1lnbzRHSUZiUWM5cWVIRnRWREN3akhwcVpMekJWNVNYUTV4ekY3SGt4Sm5VbTBtWjgxTklEd25USi1OenAzNXlISkV6STU1ZGRfd3VPazMyN19Qa2xBNDRsNG1OY3BU?oc=5",
       "source": "Fox News",
-      "date": "2026-09-16T01:53:27.000Z",
-      "simple_summary": "Both Republican and Democratic politicians want rules for AI safety, but President Trump disagrees and says concerns about AI risks are exaggerated.",
-      "why_it_matters": "This matters because new rules could eventually change how AI tools work, but nothing is decided yet."
+      "date": "2026-09-16T06:20:59.000Z",
+      "simple_summary": "Members from both political parties want to create rules for AI safety, but President Trump says that's unnecessary.",
+      "why_it_matters": "This is a political debate about future regulations — nothing affects you personally unless you own an AI company."
+    },
+    {
+      "title": "Why the US and China are at odds on AI threats",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVM5VlpUajR4MzJPZVVlZmNnNUYxcjNSTFlZVjZKRS1uWXctMkZfTFdsdWU1anJfQVNCakFlN05FYkN6MmxrVEROTWJFTllHbGE1a05FMFk4UklVeXBsNXhRNTVVeFktV3VaMFowVnBHRGQ3OUpwUXlLdlJQTzZzRzhKUHI?oc=5",
+      "source": "Financial Times",
+      "date": "2026-09-16T01:21:36.000Z",
+      "simple_summary": "The United States and China disagree about what dangers AI poses and how to handle them.",
+      "why_it_matters": "This is about international relations between two countries — it doesn't directly change how AI works for ordinary people."
     },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch",
       "date": "2026-09-16T00:20:39.000Z",
-      "simple_summary": "Nvidia's leader says AI is just regular technology and doesn't need special government rules — his company can keep it safe on its own.",
-      "why_it_matters": "This mostly matters to investors and engineers debating who should make AI safety rules — it doesn't affect you unless you use Nvidia products."
+      "simple_summary": "Nvidia's leader (a big AI hardware company) says companies should handle their own AI safety instead of having government rules.",
+      "why_it_matters": "This mostly matters to investors and people in the tech industry — it's one company's opinion on policy, not something affecting your daily life."
     },
     {
       "title": "AI and data centers are incredibly unpopular in every poll",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "source": "The Verge",
       "date": "2026-09-15T23:34:25.000Z",
-      "simple_summary": "Polls show most Americans don't want more AI and data centers (the giant computers that run AI) built near their homes.",
-      "why_it_matters": "This shows people are concerned about AI's impact on their communities, which could influence whether new AI projects get built where you live."
+      "simple_summary": "A poll shows that most Americans (61%) don't want AI data centers built in their areas. Data centers are huge computer warehouses that use lots of electricity to power AI.",
+      "why_it_matters": "If you live near where a data center might be built, this could matter — communities are pushing back against construction because of noise, power use, and environmental concerns."
+    },
+    {
+      "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-15T22:53:04.000Z",
+      "simple_summary": "President Trump publicly supported building AI data centers, but people responded online disagreeing with him.",
+      "why_it_matters": "This is political debate online — no immediate change to what you need to do, but it shows communities are concerned about data centers."
     },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry ",
       "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "source": "TechCrunch",
       "date": "2026-09-15T21:47:38.000Z",
-      "simple_summary": "Cities are rejecting plans to build large data centers for AI, especially in neighborhoods already dealing with pollution from old factories.",
-      "why_it_matters": "If you live near where new data centers might be built, this affects whether they actually happen and what local environmental impact they might have."
+      "simple_summary": "AI data centers are being proposed in cities that already have pollution problems from old factories. In Philadelphia, people worry about building another major industrial facility in an area still recovering from a closed oil refinery.",
+      "why_it_matters": "If you live in or near a city considering a data center, this means the debate about whether to allow it in your community is heating up."
     },
     {
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "source": "TechCrunch",
       "date": "2026-09-15T20:12:53.000Z",
-      "simple_summary": "Meta (Facebook's owner) is letting AI do some of the routine computer setup work for small businesses using WhatsApp for sales.",
-      "why_it_matters": "If you're a small business owner using WhatsApp to sell things, this could save you time on technical setup work."
-    },
-    {
-      "title": "Cruz and Hawley shut down antitrust exemptions for AI companies - Live Updates",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0tEVW16UTJGYURuZ0diWk5sSEItMHk3S2NIYWoyUXI2NmZkdGNuTlNzcDR0M3R4cjRNVU9KWnVnRmxDRVZpeVl4djB6XzY1bVFFZG9YXzJmWTAxemo5R0JIN1VwRl9leWlLTXZ4bW5WQlVHS2dmQzR1NXI4cklnRmhnbEJUdEZDMm4zSlhFTnUxZw?oc=5",
-      "source": "politico.com",
-      "date": "2026-09-15T19:27:28.000Z",
-      "simple_summary": "Two senators are blocking special legal protections for AI companies.",
-      "why_it_matters": "This mostly matters to investors and lawyers — it's about whether AI companies get special treatment in court."
+      "simple_summary": "Meta (which owns WhatsApp) now has AI that can automatically set up WhatsApp Business accounts and handle routine tasks for developers.",
+      "why_it_matters": "If you run a small business using WhatsApp, setup might eventually become easier, but this is technical news mainly for people building apps — it doesn't affect regular WhatsApp users yet."
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch",
       "date": "2026-09-15T19:00:00.000Z",
-      "simple_summary": "Many AI projects have shut down or failed to meet expectations, from Apple's Siri improvements to OpenAI's new app.",
-      "why_it_matters": "This shows that AI companies don't always succeed with their plans, so don't believe everything you hear about new AI being revolutionary."
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "date": "2026-09-15T18:29:20.000Z",
-      "simple_summary": "AI data centers use so much electricity and natural gas that by 2035 they could use more gas than entire large countries.",
-      "why_it_matters": "This matters because it means energy bills could rise for everyone, and it's bad for climate change."
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch",
-      "date": "2026-09-15T17:42:59.000Z",
-      "simple_summary": "Someone created a hotline where AI systems can report other AI systems doing something wrong (this is a joke or experimental idea, not a real system).",
-      "why_it_matters": "This is mostly a humorous thought experiment — it doesn't affect you."
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "source": "TechCrunch",
-      "date": "2026-09-15T17:05:24.000Z",
-      "simple_summary": "Meta is offering new paid subscriptions that bundle extra AI features with Facebook, Instagram, and WhatsApp premium access.",
-      "why_it_matters": "If you use Meta apps, you may see new paid options to access better AI tools, but you don't have to pay for them."
-    },
-    {
-      "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHk0cnRVWlZ6WVhQWVVwUTlyNHFEWGVWM2loUXpYOFBqOXBrZ0ZBQ0JDQzFwYkJDRm10RXVMS20yM1ZJanVhWmJ6RVdrNHV2OG9LNVFjeVdjcW9BeWhkc296RUhEbnpsa1M5Slk5bndkNkJoWEVYaDhsemlxXzBUc3VCX2NUUGx4Tm5wVVN2VGViVWQxSURV?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-15T16:32:00.000Z",
-      "simple_summary": "Congress members are pushing back against President Trump's dismissal of AI safety concerns and want new rules to protect people.",
-      "why_it_matters": "This is an ongoing political debate about AI safety rules, but no changes have been decided yet."
+      "simple_summary": "The headline lists AI projects and companies that failed or got shut down, showing that not every AI project succeeds.",
+      "why_it_matters": "This is industry news showing that hype doesn't always match reality — useful to remember before believing every AI announcement, but no specific action needed."
     }
   ]
 }
