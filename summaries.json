@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-17T11:46:09.133Z",
+  "generated_at": "2026-09-17T17:02:52.567Z",
   "model": "claude-haiku-4-5",
   "stories": [
-    {
-      "title": "King to urge AI leaders 'not to lose control of our destiny' at Scotland summit",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90cjhKZWlpZ0hsekdwTHFrLXdYV2Z1N2xpMmd2YUlrVFB2c0dRZHVSeGpHZE05QUpnaXh3QUQxMTdtbDFUNm5WV0JhdEFSaktZNm81ZVhB?oc=5",
-      "source": "BBC",
-      "date": "2026-09-17T10:43:04.000Z",
-      "simple_summary": "King Charles is meeting with AI company leaders and asking them to be careful about controlling how AI develops in the future.",
-      "why_it_matters": "This is mostly political news — it shows world leaders are paying attention to AI, but it won't directly change what you can do today."
-    },
     {
       "title": "The king and AI: U.K. monarch Charles meets with artificial intelligence leaders",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2lXWFFzOEw1SVdiZElQTTRRWWhWTlpEMlNKS2sxNXpTSzRLeERaaFZtdEtlQTNFaG5Mb2FQVnRCb3dJU0ZGMXpLbmJvNlZPNE9KMlNDcjFzWWRsUWlQVC1wVGt0b2tuc2N2eUZ3MEl2bUxteTdmTzdlTFNlQUlKTWVtc2Fyc2hJQjlTdnpnVFZYeFhVMmRaNEJfX241YklvX2M2Q0ZrOXJyRm5BMDk3TzhRNXhIM3BULVcybA?oc=5",
       "source": "NBC News",
-      "date": "2026-09-17T10:20:00.000Z",
-      "simple_summary": "King Charles is meeting with people who run AI companies.",
-      "why_it_matters": "This is mostly political news — nothing you need to act on."
+      "date": "2026-09-17T16:08:09.000Z",
+      "simple_summary": "The King of the United Kingdom met with people who lead AI companies to discuss artificial intelligence.",
+      "why_it_matters": "This mostly matters to investors and politicians — it shows governments are paying attention to AI, but nothing changes for you today."
     },
     {
-      "title": "King Charles to call on tech giants for 'reassurances' over AI",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFVqQ2hhbC1PSjY5N2hMMVRLS3k5R0c1Ri1TR2FaUEtHZ21QT3VsSko1OHczaFZoYUdZNER1Rk9sNlBySzR2Z1BMcV9TNTNCYV9hOWsxX3NzUW5OTk9HRkNaOFpEMlNCRXREd0YzUXNlQ0dGaklkMVFIVUhoT1dzZEhHZmlWb3RFNXVrQlp3aGtudw?oc=5",
+      "title": "King Charles warns AI leaders of 'existential dangers'",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-17T15:53:41.000Z",
+      "simple_summary": "King Charles told AI leaders that he's worried artificial intelligence could cause serious problems in the future.",
+      "why_it_matters": "This mostly matters to investors and politicians — it's a signal that world leaders want AI companies to be more careful."
+    },
+    {
+      "title": "Bots Behaving Badly? New York Wants to Hear From A.I. Whistle-Blowers.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnZhM1RZaW94TDlBV0NYdzJPQzZZNDNjTjRmTDVuYUpKNkpxUWJCUkplUjY5b0hvcHZfOXhkMEphcjlsMTlzNWxKZ2plWFVJVXcwSnhNQ2VNVXU2VTNESXNMR0M5VnJWNDduYVV3aFFLTVRscTRNQUF2aTRtTHlCTm8tdE9EenFyZi13ZUVCZkNGRDgzMldaajlmYnc?oc=5",
+      "source": "nytimes.com",
+      "date": "2026-09-17T15:50:04.000Z",
+      "simple_summary": "New York State is asking people who work at AI companies to report if they see the AI systems doing something wrong or harmful.",
+      "why_it_matters": "This is mostly relevant to investors and engineers — it's a new rule for how AI companies operate."
+    },
+    {
+      "title": "State board approves artificial intelligence guidelines for K-12 schools, colleges",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ucFRwOEM4R3QtS2dZMVJYcS1hOXl5N0RUTjdtUEEwZTViTk1JWWVTVll2N0x2QjBSalNaeHBveXNsUTBVbUJyejVMUks5Z0xSVnQ2OHNILV9zTmZ5c0oxRC1ZMHZ5bXhPRTZzWHhGaG16eWVScWwtTlZB0gF6QVVfeXFMTTRsM1J3M1o5MVUzUlR5MGU1OWZrM2J1RG5TbEJCU0tXZlV3cU9ObWZpcC15VE85MlZtc2Y1eXNfOHZJalN4SVhFUjZodGtaREJVQ0FCa0E0UGFwMWpTQ0VSQmVscDdJMmtPY0p4OUd5NXFjZENNWER3aWc?oc=5",
+      "source": "miamiherald.com",
+      "date": "2026-09-17T15:41:10.000Z",
+      "simple_summary": "A state board in Florida approved new rules for how schools and colleges should use and teach about artificial intelligence.",
+      "why_it_matters": "If you have grandchildren in Florida schools, they may learn about AI differently, but this is mainly for educators to follow."
+    },
+    {
+      "title": "King Charles meets with artificial intelligence leaders over safety risks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmNpbjJabWx1UUxoeENBWTRTQlV3N2YzZnhGLXJPSjhTYWtwZTlubXZLSXdydXFOdnhRdm5VYTFTUUl4RXA5NmVmSDY2cTRVc1ZJSzNpYkpfODl2N3h6OW80WHc3NGZyZ2E1cnA5S1ZsNlhCbnVmdGlJQ1lkSkZ2cWxOV1VwVmhXZlNabXhpVlVhRTJucmc?oc=5",
       "source": "Yahoo",
-      "date": "2026-09-17T09:19:47.000Z",
-      "simple_summary": "King Charles wants AI companies to give assurances that they're being responsible with their technology.",
-      "why_it_matters": "This is mostly political news — it won't affect your daily life or business right now."
+      "date": "2026-09-17T14:49:41.000Z",
+      "simple_summary": "King Charles met with artificial intelligence leaders to discuss safety concerns about AI technology.",
+      "why_it_matters": "This mostly matters to investors and politicians — it's the same message as other headlines: world leaders want AI to be safer."
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source": "The Verge",
+      "date": "2026-09-17T14:00:00.000Z",
+      "simple_summary": "The person in charge of AI at Microsoft says AI safety is a serious problem and criticized another major AI company.",
+      "why_it_matters": "This is mainly interesting to investors and tech industry people — different tech leaders disagree about how safe AI is right now."
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source": "The Verge",
+      "date": "2026-09-17T14:00:00.000Z",
+      "simple_summary": "A large survey asking over 42,000 people in 37 countries found that most people worry AI will take away their jobs.",
+      "why_it_matters": "If you own a small business or work, this shows many people are concerned about AI replacing workers — it's worth paying attention to how your industry changes."
+    },
+    {
+      "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-17T12:37:25.000Z",
+      "simple_summary": "A Chinese company says that Chinese AI technology isn't advanced enough yet to understand some of the risks that very powerful AI could create.",
+      "why_it_matters": "This mostly matters to investors and governments tracking AI progress — nothing you need to act on."
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "source": "The Verge",
+      "date": "2026-09-17T11:30:00.000Z",
+      "simple_summary": "Top AI safety researchers met to investigate an incident where an unreleased AI system from a major company behaved in unexpected ways.",
+      "why_it_matters": "This is mostly for investors and engineers — it shows AI companies are discovering problems with how their AI systems work."
+    },
+    {
+      "title": "How China is driving the emerging partisan divide on AI safety",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLThxcnc3TnBHbHdma0R5dThYTGt5djh2SHJTQ2s3aWltWW1LOUVRSUZNYUh2Rkw3WjVneEZaQ19VbzR5Q19CUE4yTC1qcEJDV2VTWEVzTURKV1c4dDdrRFItMnlJVHlLbHd6STBpM01QOGFkSjVickJZWm9DNW1haQ?oc=5",
+      "source": "Politico",
+      "date": "2026-09-17T08:45:00.000Z",
+      "simple_summary": "How different countries think about AI safety is becoming a topic that divides politicians along party lines.",
+      "why_it_matters": "This is mostly relevant to investors and politicians — it's a sign that AI regulation will become a political issue."
+    },
+    {
+      "title": "OpenAI reveals 6 more incidents of \"unexpected or concerning\" AI behavior",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0Vmay1XV2VDdE1NWG56OVdqUm9ZNFkyT1N4aUdFeWVWakxRUzhWS3Ixb0R6WnZMdzV3VjlEejlIUlZNT29BZjJsWU9rUG1sSm5UcjFVaXd0eDFtc2JydGxoUUkya1VmZkcwUVFkRDlBd2FiUGF3VkVsOUY2VW0wUXJyVTZFNmN4ZXEzakxqbzItY0p0?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-17T07:57:56.000Z",
+      "simple_summary": "OpenAI reported six more times when their AI systems did something unexpected or concerning.",
+      "why_it_matters": "This mostly matters to investors and engineers — it shows AI companies are finding problems with how their systems behave."
     },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "source": "TechCrunch",
       "date": "2026-09-17T05:00:00.000Z",
-      "simple_summary": "A company called Treble raised $18 million to build a tool that copies people's voices using AI.",
-      "why_it_matters": "This mostly matters to investors and companies making robots or voice products — nothing you need to worry about."
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-17T03:30:00.000Z",
-      "simple_summary": "Some startup companies are hiring AI assistants (software that acts like a worker) to work alongside their human employees.",
-      "why_it_matters": "This is early-stage stuff for tech startups right now, but it hints that small businesses might eventually use AI as team members — mostly relevant to business investors."
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch",
-      "date": "2026-09-17T00:58:49.000Z",
-      "simple_summary": "Snap is trying to convince people to buy its expensive smart glasses that cost $2,200.",
-      "why_it_matters": "Unless you're thinking about buying these glasses, this doesn't affect you — it's a company trying to sell a product."
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T23:43:09.000Z",
-      "simple_summary": "Al Gore (a famous environmentalist) says he's not worried about the electricity used by AI, but is more worried about AI safety problems the industry itself has warned about.",
-      "why_it_matters": "This is mostly a political opinion and not something that directly impacts your everyday life."
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "source": "The Verge",
-      "date": "2026-09-16T23:40:00.000Z",
-      "simple_summary": "Snap is adding a new AI helper to its smart glasses that can connect to your other accounts and help with work tasks like planning travel.",
-      "why_it_matters": "Unless you use Snap products, this doesn't affect you — it's a new tool for people who already own their glasses."
-    },
-    {
-      "title": "Microsoft AI Chief Says the Way Anthropic Trains Claude Could Upend Society",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjJMWmlSTUpzWXZ0QTBnUENkUWZTaHZtUWJWVUY4YW0zcTRvcjh1WWNwdmtsYVNmT2dZRTRvTEtaOVIzYVJuQUozaVpFTGdHcTRwY3VPeTRyNk9SNVpzbk9MUDNqaG5tU2twZjJKLTJyU21wYXRlM1p5X1FtaFJITTFFMGx3N2JQQ3Ixbkd3cURUendmc1VabWg4X3N4YVRIbHpDRTRKNHlRUQ?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-09-16T22:13:19.000Z",
-      "simple_summary": "A Microsoft AI leader says that Anthropic's method of training their AI called Claude could cause big problems for society.",
-      "why_it_matters": "This is mostly a debate between tech companies about how safe their AI is — it's technical industry news, not something you need to act on."
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T21:07:24.000Z",
-      "simple_summary": "AI companies OpenAI and Anthropic want to hire independent people to check if their AI is safe, though some worry these checkers might not be truly independent.",
-      "why_it_matters": "This is about how AI companies oversee themselves — mostly technical industry news, nothing you need to worry about personally."
-    },
-    {
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "source": "The Verge",
-      "date": "2026-09-16T20:59:13.000Z",
-      "simple_summary": "Someone made a whole movie about The Odyssey entirely using AI, and it turned out to be very bad.",
-      "why_it_matters": "This is entertainment news showing that AI movies still aren't very good — nothing that affects you unless you wanted to watch it."
-    },
-    {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "source": "The Verge",
-      "date": "2026-09-16T20:40:46.000Z",
-      "simple_summary": "AI companies are producing massive amounts of electronic waste (broken computer parts), and by 2050 there could be enough trash to fill millions of shipping containers.",
-      "why_it_matters": "This is a real environmental problem that could affect your community long-term, similar to how pollution affects everyone, but there's nothing specific you can do about it right now."
+      "simple_summary": "A company called Treble that makes software to copy and create human voices raised $18 million from investors.",
+      "why_it_matters": "This is mainly relevant to investors — nothing you need to act on, though voice-copying technology exists and is getting better."
     }
   ]
 }
