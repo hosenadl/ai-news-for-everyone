@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-17T17:02:52.567Z",
+  "generated_at": "2026-09-17T21:25:18.126Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch",
+      "date": "2026-09-17T17:26:25.000Z",
+      "simple_summary": "King Charles III held a private meeting with major AI company leaders and British government officials to discuss concerns about artificial intelligence.",
+      "why_it_matters": "Even world leaders are worried about AI safety — it shows this isn't just a technical problem for engineers to solve, but something governments are taking seriously."
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch",
+      "date": "2026-09-17T17:15:59.000Z",
+      "simple_summary": "Three AI research organizations are working together to create better safety methods for AI systems that are open for anyone to use and improve.",
+      "why_it_matters": "This mostly matters to AI researchers and engineers — nothing you need to act on right now."
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch",
+      "date": "2026-09-17T17:15:00.000Z",
+      "simple_summary": "Pinterest is testing a new tool that uses AI to show you how your room would look with different furniture and decorations by analyzing photos you take.",
+      "why_it_matters": "If you use Pinterest and like decorating ideas, this could help you visualize changes before buying new items — like seeing clothes on yourself before you buy them."
+    },
     {
       "title": "The king and AI: U.K. monarch Charles meets with artificial intelligence leaders",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2lXWFFzOEw1SVdiZElQTTRRWWhWTlpEMlNKS2sxNXpTSzRLeERaaFZtdEtlQTNFaG5Mb2FQVnRCb3dJU0ZGMXpLbmJvNlZPNE9KMlNDcjFzWWRsUWlQVC1wVGt0b2tuc2N2eUZ3MEl2bUxteTdmTzdlTFNlQUlKTWVtc2Fyc2hJQjlTdnpnVFZYeFhVMmRaNEJfX241YklvX2M2Q0ZrOXJyRm5BMDk3TzhRNXhIM3BULVcybA?oc=5",
       "source": "NBC News",
       "date": "2026-09-17T16:08:09.000Z",
-      "simple_summary": "The King of the United Kingdom met with people who lead AI companies to discuss artificial intelligence.",
-      "why_it_matters": "This mostly matters to investors and politicians — it shows governments are paying attention to AI, but nothing changes for you today."
+      "simple_summary": "King Charles met with artificial intelligence leaders to discuss safety concerns.",
+      "why_it_matters": "This shows world leaders believe AI safety is important enough to discuss directly with the companies building it."
     },
     {
       "title": "King Charles warns AI leaders of 'existential dangers'",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
       "source": "Reuters",
       "date": "2026-09-17T15:53:41.000Z",
-      "simple_summary": "King Charles told AI leaders that he's worried artificial intelligence could cause serious problems in the future.",
-      "why_it_matters": "This mostly matters to investors and politicians — it's a signal that world leaders want AI companies to be more careful."
+      "simple_summary": "King Charles warned AI company leaders that artificial intelligence poses serious risks that could affect humanity's future.",
+      "why_it_matters": "A respected world leader publicly expressing concern about AI safety reinforces that this is a real issue, not just tech company hype."
     },
     {
       "title": "Bots Behaving Badly? New York Wants to Hear From A.I. Whistle-Blowers.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnZhM1RZaW94TDlBV0NYdzJPQzZZNDNjTjRmTDVuYUpKNkpxUWJCUkplUjY5b0hvcHZfOXhkMEphcjlsMTlzNWxKZ2plWFVJVXcwSnhNQ2VNVXU2VTNESXNMR0M5VnJWNDduYVV3aFFLTVRscTRNQUF2aTRtTHlCTm8tdE9EenFyZi13ZUVCZkNGRDgzMldaajlmYnc?oc=5",
       "source": "nytimes.com",
       "date": "2026-09-17T15:50:04.000Z",
-      "simple_summary": "New York State is asking people who work at AI companies to report if they see the AI systems doing something wrong or harmful.",
-      "why_it_matters": "This is mostly relevant to investors and engineers — it's a new rule for how AI companies operate."
+      "simple_summary": "New York State is asking people who work with AI systems to report problems or bad behavior they see in how AI tools operate.",
+      "why_it_matters": "This means New York is trying to catch AI problems early — similar to how health inspectors check restaurants for safety issues."
     },
     {
       "title": "State board approves artificial intelligence guidelines for K-12 schools, colleges",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ucFRwOEM4R3QtS2dZMVJYcS1hOXl5N0RUTjdtUEEwZTViTk1JWWVTVll2N0x2QjBSalNaeHBveXNsUTBVbUJyejVMUks5Z0xSVnQ2OHNILV9zTmZ5c0oxRC1ZMHZ5bXhPRTZzWHhGaG16eWVScWwtTlZB0gF6QVVfeXFMTTRsM1J3M1o5MVUzUlR5MGU1OWZrM2J1RG5TbEJCU0tXZlV3cU9ObWZpcC15VE85MlZtc2Y1eXNfOHZJalN4SVhFUjZodGtaREJVQ0FCa0E0UGFwMWpTQ0VSQmVscDdJMmtPY0p4OUd5NXFjZENNWER3aWc?oc=5",
       "source": "miamiherald.com",
       "date": "2026-09-17T15:41:10.000Z",
-      "simple_summary": "A state board in Florida approved new rules for how schools and colleges should use and teach about artificial intelligence.",
-      "why_it_matters": "If you have grandchildren in Florida schools, they may learn about AI differently, but this is mainly for educators to follow."
+      "simple_summary": "A state board created new rules for how schools and colleges should use and teach artificial intelligence.",
+      "why_it_matters": "If you have grandchildren in school, this means their schools are getting guidance on using AI responsibly for learning."
     },
     {
       "title": "King Charles meets with artificial intelligence leaders over safety risks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmNpbjJabWx1UUxoeENBWTRTQlV3N2YzZnhGLXJPSjhTYWtwZTlubXZLSXdydXFOdnhRdm5VYTFTUUl4RXA5NmVmSDY2cTRVc1ZJSzNpYkpfODl2N3h6OW80WHc3NGZyZ2E1cnA5S1ZsNlhCbnVmdGlJQ1lkSkZ2cWxOV1VwVmhXZlNabXhpVlVhRTJucmc?oc=5",
       "source": "Yahoo",
       "date": "2026-09-17T14:49:41.000Z",
-      "simple_summary": "King Charles met with artificial intelligence leaders to discuss safety concerns about AI technology.",
-      "why_it_matters": "This mostly matters to investors and politicians — it's the same message as other headlines: world leaders want AI to be safer."
+      "simple_summary": "King Charles met with artificial intelligence leaders to discuss safety risks from AI.",
+      "why_it_matters": "A major political leader is publicly focused on making sure AI is developed safely — this is a sign governments are paying attention."
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-09-17T14:06:14.000Z",
+      "simple_summary": "The Chinese company Huawei is rushing to release a new computer chip designed for AI in early 2027, trying to compete with the American company Nvidia.",
+      "why_it_matters": "This mostly matters to investors and computer engineers — it's a business competition between big tech companies."
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026 ",
+      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-17T14:00:00.000Z",
+      "simple_summary": "A tech conference is accepting last-minute booth reservations to exhibit products to thousands of business leaders and investors.",
+      "why_it_matters": "This is only relevant if you run a tech startup and want to showcase your products — not for most small business owners."
     },
     {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
       "source": "The Verge",
       "date": "2026-09-17T14:00:00.000Z",
-      "simple_summary": "The person in charge of AI at Microsoft says AI safety is a serious problem and criticized another major AI company.",
-      "why_it_matters": "This is mainly interesting to investors and tech industry people — different tech leaders disagree about how safe AI is right now."
+      "simple_summary": "Microsoft's AI leader said he believes AI risks are real and criticized another AI company (Anthropic) for not addressing safety concerns properly.",
+      "why_it_matters": "This mostly matters to investors and AI industry watchers — big tech executives are publicly disagreeing about the best way to keep AI safe."
     },
     {
       "title": "AI is feared globally as the destroyer of jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "source": "The Verge",
       "date": "2026-09-17T14:00:00.000Z",
-      "simple_summary": "A large survey asking over 42,000 people in 37 countries found that most people worry AI will take away their jobs.",
-      "why_it_matters": "If you own a small business or work, this shows many people are concerned about AI replacing workers — it's worth paying attention to how your industry changes."
-    },
-    {
-      "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-17T12:37:25.000Z",
-      "simple_summary": "A Chinese company says that Chinese AI technology isn't advanced enough yet to understand some of the risks that very powerful AI could create.",
-      "why_it_matters": "This mostly matters to investors and governments tracking AI progress — nothing you need to act on."
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "source": "The Verge",
-      "date": "2026-09-17T11:30:00.000Z",
-      "simple_summary": "Top AI safety researchers met to investigate an incident where an unreleased AI system from a major company behaved in unexpected ways.",
-      "why_it_matters": "This is mostly for investors and engineers — it shows AI companies are discovering problems with how their AI systems work."
-    },
-    {
-      "title": "How China is driving the emerging partisan divide on AI safety",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLThxcnc3TnBHbHdma0R5dThYTGt5djh2SHJTQ2s3aWltWW1LOUVRSUZNYUh2Rkw3WjVneEZaQ19VbzR5Q19CUE4yTC1qcEJDV2VTWEVzTURKV1c4dDdrRFItMnlJVHlLbHd6STBpM01QOGFkSjVickJZWm9DNW1haQ?oc=5",
-      "source": "Politico",
-      "date": "2026-09-17T08:45:00.000Z",
-      "simple_summary": "How different countries think about AI safety is becoming a topic that divides politicians along party lines.",
-      "why_it_matters": "This is mostly relevant to investors and politicians — it's a sign that AI regulation will become a political issue."
-    },
-    {
-      "title": "OpenAI reveals 6 more incidents of \"unexpected or concerning\" AI behavior",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0Vmay1XV2VDdE1NWG56OVdqUm9ZNFkyT1N4aUdFeWVWakxRUzhWS3Ixb0R6WnZMdzV3VjlEejlIUlZNT29BZjJsWU9rUG1sSm5UcjFVaXd0eDFtc2JydGxoUUkya1VmZkcwUVFkRDlBd2FiUGF3VkVsOUY2VW0wUXJyVTZFNmN4ZXEzakxqbzItY0p0?oc=5",
-      "source": "CBS News",
-      "date": "2026-09-17T07:57:56.000Z",
-      "simple_summary": "OpenAI reported six more times when their AI systems did something unexpected or concerning.",
-      "why_it_matters": "This mostly matters to investors and engineers — it shows AI companies are finding problems with how their systems behave."
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch",
-      "date": "2026-09-17T05:00:00.000Z",
-      "simple_summary": "A company called Treble that makes software to copy and create human voices raised $18 million from investors.",
-      "why_it_matters": "This is mainly relevant to investors — nothing you need to act on, though voice-copying technology exists and is getting better."
+      "simple_summary": "A survey of over 42,000 people across 37 countries found that most people worldwide are worried AI will destroy jobs and hurt people's ability to earn money.",
+      "why_it_matters": "This shows job loss from AI is a real concern for ordinary people globally — if you work, it's worth thinking about how AI might change your industry in the coming years."
     }
   ]
 }
