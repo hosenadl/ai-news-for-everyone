@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-16T21:20:50.474Z",
+  "generated_at": "2026-09-17T04:56:36.118Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T18:25:25.000Z",
-      "simple_summary": "AI companies are talking about hiring people to check if their AI systems behave properly, but the article suggests there might be simpler fixes they're missing.",
-      "why_it_matters": "This mostly matters to AI companies and investors right now — nothing you need to act on."
+      "title": "AI helping teachers focus more on students, less on administrative tasks",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUJVNC04YVNOR2E5dkdDY0FLZW92ZEk5bVRQcnVoU0hMVmFCTUxWZ0kzZmFXZGNjR3V4WjVMbENMR1JERmZYS1BLcHNzNW94TzZPd3QxOTZMU3U5WFNEQkoyMWZYN01lOXl2Q0hWdFhtRExYckd6MGtjY2w1aEVRWHJqREt1dUw3bmdJbDlJOHlXakVjeU9QelFodjJwS0tnY2V1TlMyNXFTVy1fTUozekhJa3Y?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-17T01:56:15.000Z",
+      "simple_summary": "Schools are using AI to handle paperwork and grading, which gives teachers more time to work with students directly.",
+      "why_it_matters": "If you have grandchildren in school, their teachers might have more time to help them. If you're involved in education, this could reduce your admin burden."
     },
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T17:00:00.000Z",
-      "simple_summary": "Google is letting AI assistants (like Claude and ChatGPT) control your smart home devices, like turning lights on or checking security cameras, just by asking them in plain language.",
-      "why_it_matters": "If you use Google Home devices and AI assistants, this could make controlling your smart home easier — but it's still early and only for paid users."
+      "title": "AI looms large ahead of Xi, Trump summit",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUdQVE1QWmlwbmpEbDU4ODlhdkZWVEtkQzJCWFZwZ3F6eG5kZHBJdENYNS1wSVRmTHFsVFVMNl9UbnNlN2syTmc3LWw1MVY3R2czNFFXb3MwSG5mTFVINDEzLXZnLXRIZWRUODlrMmItVHFOcUdzUVNCS3FwcXZuNHZCNDhEdW9vZThv?oc=5",
+      "source": "Yahoo",
+      "date": "2026-09-17T01:24:00.000Z",
+      "simple_summary": "AI is becoming an important topic in talks between the US and China's leaders.",
+      "why_it_matters": "This mostly matters to investors and policy watchers — no action needed for your daily life right now."
     },
     {
-      "title": "Google DeepMind Co-Founder Shane Legg Joins Safety-First Camp in AI Debate",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVhnUkxlV0ZodFNibzFTX2F6VTlxNjVzeTdBQjNzeTI2T0VieGNadGk3akpSdkVjcFQ2S2tzYmRHckpwMTBZMHFldWlweUxpODZSZkZEZndCb2tTeUx0MjNVTkdqcWoxd2xzOTJfQXA0TDIxLV82MVlncXBKeVJPUlNEN1c2MG9qUjNfZldkbC00U0c4azhpSEEyb3BKVVdUX0h3SGRvZVQ0ZUFLTnlKNXJhamNQT0JnRmQ0SHNuZlpGZzFFblBnZA?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-09-16T16:54:43.000Z",
-      "simple_summary": "A co-founder of a major AI lab is joining discussions about making sure AI is developed safely.",
-      "why_it_matters": "This is mostly about industry debates among experts — nothing you need to act on."
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-17T00:12:24.000Z",
+      "simple_summary": "OpenAI disclosed six incidents where their AI system behaved in ways that concerned the company.",
+      "why_it_matters": "This shows companies are watching for problems, but it's primarily relevant to tech industry observers rather than everyday users."
     },
     {
-      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1lZcUtoOUhuTEgzVk9jZGFXbjNZZ1NtQ2l4WlFSQ2lGdVFVdURYcUtYTjhBQlBFN3otUS1salFkT1RkREFNMjFyR3dzcEgyYWZfWnBkN1NlVUxESm5BNXdGV2p6OVBoZDdqaVgxb3pIalZtTlhKbnJLeV9pczhRWktyQnR6R0YwYzRjWTVMQWthR1JKbm5FeTVKYVdRekFuOGRaSUx5OE13NERnejlwaTcwWnLSAboBQVVfeXFMTU5xWVA4ZU5wU3ZYcHg2ZGhmZS12ZmNtWmE1dHNadkFwRjNQd2VpZ3U3Z1JCUWNTZnpBM2FnOURmMkMwN1hVdV9OclJ0c2NKbW1uN0VvSzF1ekx6akh1REEzUWZHWnRCcWRCVUdrM2xXRUQyWGxudHVwbHI2djRiaWNsN2NlZkNFUV9GcGRpekpCS01tYnJGcUNJMXdxWG1rcFZPd29yOGFSVnVaeTNXU18xbllHZXUzSURn?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-09-16T16:47:54.000Z",
-      "simple_summary": "A poll found that many Americans are worried about how much electricity and environmental resources AI systems use up.",
-      "why_it_matters": "This reflects growing public concern, but it doesn't change what you can do today."
-    },
-    {
-      "title": "House Democrats call to cancel upcoming recess for time to legislate on AI",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDJkT184ajc2RFkxZkJEdjdFbDdmOTFhU2ZOYi12cnNLMTZEOVFJaG5KWExQYzNmRmZHMGlVMkh4VXpKVFZxUDN0NFVJWm8zREhjTFh4Q2ZGM0lwOERyWkZ4ZEJ1dmEtMGk3dkl5am9rd05KYzJsQ3B2cU05R2daMHJIdVZuMkhGZlR1R2JPNVZ5eF84d3k1OEhUcU95MFhva0wtaTdjbTg2ME13alU4QlppSm80UUxyNDJTSlJIMDNZTlU?oc=5",
-      "source": "Nextgov/FCW",
-      "date": "2026-09-16T16:30:00.000Z",
-      "simple_summary": "Some members of Congress want to skip their vacation to work on new laws about AI.",
-      "why_it_matters": "This means government is taking AI regulation seriously, but it's too early to know what rules might actually affect you."
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T16:30:00.000Z",
-      "simple_summary": "Anthropic (a company that makes Claude, an AI assistant) is combining two of its tools into one easier-to-use package for paid subscribers.",
-      "why_it_matters": "If you pay for Claude, this might make it slightly more convenient — but it's a small update."
-    },
-    {
-      "title": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WODVsZEhlMkJlNjFISFlJaXZFOUNSZ3dXNlpWTUpUWEx6dUVqVWxZVk9CWmktRjVTcEZ1SXhfVjZOWGpFcldjeVMxd1dla2dCdzVLTy1JRk1vSG1wbG9manZUdE9zOEZYa3paTzNwWGZXTGRuZHRTNdIBfkFVX3lxTE4zR2Zic1FQamxJbnVyUTU4M2ZETFlRX3JDdjQtM3dhOFoxNmFJY2s3akZ5Y0dUOEpGQWpDWUExSGNZZlVGYUFIam5VQmhiZm1MMnJmc1NjUzFBY0MyaFpVbkRnNl83aFQ1RUdMQ1YtMHE1UFA1YnRpTWN4Y3VNdw?oc=5",
-      "source": "CNBC",
-      "date": "2026-09-16T16:08:53.000Z",
-      "simple_summary": "A Pentagon official said the U.S. government shouldn't buy stock in big tech companies and questioned whether new AI rules are needed.",
-      "why_it_matters": "This is mainly about government policy debates — nothing you need to act on."
-    },
-    {
-      "title": "‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU1BamVFcVJGTnR0OVk4MV9sTFFaYUZRV2lDdjJJSm5fWTVtT0JodnVSWHA1Y3ZwYWFNUVBSVjJZSlg0bl9yVnFxZmJIS2FCajIzenctdWY3TTZnSGhCWlhJOXRGd3ViMjQ0UjJNdkJJQ25TQ1dEdXRMQTVVSTJuY2hGTUpTNWt3ejBPdHBHOTA3WHNkdklCb215TlloZkhUdFNB?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-16T16:05:00.000Z",
-      "simple_summary": "A famous AI researcher says that how governments regulate AI might be about to shift direction, like what happened with Covid policies.",
-      "why_it_matters": "This is expert commentary about possible future regulation — too uncertain to affect your decisions today."
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T15:00:00.000Z",
-      "simple_summary": "A tech company executive says the robotics industry is waiting for its big breakthrough moment, like when ChatGPT suddenly became popular.",
-      "why_it_matters": "This is mostly an invitation to a tech conference — nothing you need to act on."
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
       "source": "The Verge",
-      "date": "2026-09-16T14:45:00.000Z",
-      "simple_summary": "Scammers are creating fake dating apps that use AI to chat with people and trick them into sending money or personal information.",
-      "why_it_matters": "If you use dating apps, be extra careful — if someone you just matched with asks for money or personal details, it's almost certainly a scam."
+      "date": "2026-09-16T23:40:00.000Z",
+      "simple_summary": "Snap (the company behind Snapchat) is releasing an AI helper that can connect to your other accounts and help with work tasks and travel planning.",
+      "why_it_matters": "If you use Snapchat and want AI help organizing tasks or trips, this could be useful — but it's optional and you can ignore it if you don't want it."
     },
     {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch",
-      "date": "2026-09-16T14:24:58.000Z",
-      "simple_summary": "Meta's Threads social network is adding new tools to help podcast creators promote their shows and reach listeners.",
-      "why_it_matters": "If you're a podcaster, this gives you a new way to promote — but only if you already use Threads."
+      "title": "Rand Paul kills Kennedy’s AI ‘kill switch’ bill",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlN2bVFib1M3SVA0em5DWGRBYmFPd1BLRy1LM29kWXJvREljX0RHd3liNVQ5Zk9tYkdqVXFTNkQ1cjNWNWhZbERCTFUtYjdGVThKVDNrMTBmNExEbnk0V2dhY2JRd0R3RnAySW1qMXYtbHdjQWpTMVZhYzU3WDJrWkRFVVp4VGozVjVXc3NtU2YxaFdjVmNNRmtR?oc=5",
+      "source": "Politico",
+      "date": "2026-09-16T22:09:23.000Z",
+      "simple_summary": "A US senator blocked a bill that would have created an emergency 'off switch' for AI systems.",
+      "why_it_matters": "This is mostly relevant to policy watchers and tech industry people — nothing immediate for your business or daily life."
     },
     {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "title": "Research centre, AI company vandalized ahead of Montreal artificial intelligence summit",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMm16V2p5YXd4VUdXOXhmOHZyUjZ2MHFqNUtTaVJoTzZiVG5uRHdiTnNZZk9Ld2IwMHZUUXBpQ29UUjRmaXBaelBmbm1tWHlCWTlrZ2pBcGVJWkFtVk9vRGlQdUVHNmhXbVc0dmVSZUZjMDA3dnl6UktHYXQ0eTFCUWxnamtnR3NRdmNj?oc=5",
+      "source": "CBC",
+      "date": "2026-09-16T21:09:31.000Z",
+      "simple_summary": "Some people vandalized a research center and AI company offices in Montreal during an AI conference.",
+      "why_it_matters": "This is about protesters' concerns over AI development, but doesn't directly affect how you might use AI in your business."
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
       "source": "TechCrunch",
-      "date": "2026-09-16T14:15:00.000Z",
-      "simple_summary": "A tech conference is announcing the judges for a startup competition.",
-      "why_it_matters": "This is only relevant if you're pitching a startup to investors — nothing you need to act on."
+      "date": "2026-09-16T21:07:24.000Z",
+      "simple_summary": "Two major AI companies want to hire independent reviewers to sit inside their labs and check if their AI systems are safe and working correctly.",
+      "why_it_matters": "This is a technical governance issue mostly important to tech industry professionals — not something affecting your everyday use of AI."
+    },
+    {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "source": "The Verge",
+      "date": "2026-09-16T20:59:13.000Z",
+      "simple_summary": "Someone made a full movie entirely with AI-generated content, and the result was poorly made and not enjoyable to watch.",
+      "why_it_matters": "This shows that AI isn't yet good at creative storytelling — nothing practical you need to worry about."
+    },
+    {
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "source": "The Verge",
+      "date": "2026-09-16T20:40:46.000Z",
+      "simple_summary": "AI companies are creating huge amounts of electronic waste (broken computers and equipment), and it's expected to get much worse in the coming years.",
+      "why_it_matters": "This is an environmental concern, but as a small business or individual, your main responsibility is to recycle your own used electronics properly."
+    },
+    {
+      "title": "Florida sets new rules for how students, teachers can use AI. Here’s what to know",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FNXRBVU00NzBiX1U0bnNKZWlldTNERUFuZUVOSmppSHgtMjh3MVY3dlRPZ1VLejgtX25pMUp3aVk2Rm9nVUNYV0N2QmtRalZwd1NVZUNzUWRKai1GTkhDT3ZYTGVCSFF1QUNRVGtncVBpb1ZJQjcwM0FB0gF6QVVfeXFMT0Zack1PcVB2ak03NzhXVDlTM0F6Yk1sZDBhMkVobG5yYjZJZUY0S3dEYTZoUkM0VVV0OWdFSXRaUmZmQy11THdZR0wtc1pVeE5abjA3R2hYMnFjX3ZBemY0UTVJLWxPbkI5Q0ROTGYxVnZ6VVRNNlVmVXc?oc=5",
+      "source": "Miami Herald",
+      "date": "2026-09-16T20:32:00.000Z",
+      "simple_summary": "Florida schools created rules about when and how students and teachers can use AI tools.",
+      "why_it_matters": "If you live in Florida with school-age family members, the schools will have clearer policies on AI use — you may want to ask your school what those rules are."
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch",
+      "date": "2026-09-16T20:12:00.000Z",
+      "simple_summary": "Meta (Facebook's parent company) faced criticism over glasses with cameras, so they're making a version without a camera.",
+      "why_it_matters": "If you were worried about privacy with smart glasses, camera-free versions may become available — but this is optional technology you'd choose to use."
+    },
+    {
+      "title": "Trump adviser Sacks says AI fears driven by 'fear-mongering playbook'",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemEtc1lCaUxzdHhLbzkyQ3JDeUR2ZzJza2ZIX1pQWEJWN2I4b2hvRXpmcmNSZTZucGhVN2Vlek1GRXU0dV93YUJHQmo3WmMzOUVZSWhvbU1zN2EzWVlkSEVwcGlfV2tFYlBfTVZUSW5BUGdiNWQyTVB1b1VjTVYxM2o2cUZfOEFicDJRVGxfT3N6WnpYcUo0cEluYTNac2NqRTk2Q0xPTVNQQ2g2czQxeDN0Zm5xeHY0ektFZQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-16T18:52:20.000Z",
+      "simple_summary": "A Trump adviser said worries about AI dangers are being exaggerated to scare people.",
+      "why_it_matters": "This is political opinion-making — experts genuinely disagree on AI risks, so this is just one perspective among many."
     }
   ]
 }
