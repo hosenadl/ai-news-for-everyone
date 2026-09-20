@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-20T16:10:48.101Z",
+  "generated_at": "2026-09-20T20:51:59.028Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "date": "2026-09-20T18:56:04.000Z",
+      "simple_summary": "AI company leaders are being asked if they really mean it when they say they want to slow down AI development. There's debate about whether they're serious.",
+      "why_it_matters": "This mostly matters to investors and people working in AI companies — it doesn't affect your daily life right now."
+    },
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "date": "2026-09-20T18:32:52.000Z",
+      "simple_summary": "A company made a ring you wear on your finger that records meeting notes for you. It costs $249.",
+      "why_it_matters": "If you attend lots of meetings and want an easier way to remember what was said, this might be interesting — but it raises privacy concerns since it's recording conversations."
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch",
+      "date": "2026-09-20T18:00:00.000Z",
+      "simple_summary": "A company is making textbooks look like TikTok and Instagram, with videos and quizzes built in instead of just words on pages.",
+      "why_it_matters": "This is mainly for students and schools — if you have grandchildren in school, their learning materials might look different in the future."
+    },
     {
       "title": "Trump now says he wants to form an ‘AI Force’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
       "source": "The Verge",
       "date": "2026-09-20T15:39:22.000Z",
-      "simple_summary": "The president announced plans to create a new government group called an 'AI Force' and appoint a leader to oversee artificial intelligence development. This comes as many people worry that AI is growing too fast without enough safety checks.",
-      "why_it_matters": "This might eventually affect how AI companies operate in the US, but for now it's mostly political news — no immediate changes for you."
+      "simple_summary": "The president announced plans to create an \"AI Force\" and appoint someone to lead AI policy for the government.",
+      "why_it_matters": "This is political news about government organization — it could eventually affect how AI is regulated, but no immediate changes for you right now."
+    },
+    {
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-20T14:00:00.000Z",
+      "simple_summary": "This is an advertisement for a tech conference with a ticket deadline.",
+      "why_it_matters": "Unless you're in the tech business, this doesn't matter to you."
     },
     {
       "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
       "source": "cbsnews.com",
       "date": "2026-09-20T13:37:40.000Z",
-      "simple_summary": "An important leader at Nvidia said that warnings about AI becoming too dangerous are overblown and exaggerated.",
-      "why_it_matters": "This mostly matters to investors and people who worry about AI safety — nothing that changes your daily life right now."
+      "simple_summary": "A major AI company leader said he disagrees with people who warn that AI could become dangerous.",
+      "why_it_matters": "This is mostly insider industry debate — it doesn't affect you today."
     },
     {
       "title": "Trump to host China's Xi Jinping for trade, AI talks",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWjJRTDE5YjFvaGlRLURDR0VsbWc3dDgzUkdyUThoWmVuT1JfXzFUNFFqYXBsOEM3ZnlEMnlJN1hqQ0pZMGtkUFhuT1BRd1FyM2ZnQ2tkWFJFOUZPWkZDWlMxR0N1cG1vR3dhVEI3dWpwSDBQeXc5UlFn?oc=5",
       "source": "kcci.com",
       "date": "2026-09-20T13:34:00.000Z",
-      "simple_summary": "The president plans to meet with China's leader to discuss trade and artificial intelligence.",
-      "why_it_matters": "This is political negotiation news — nothing you need to act on, though international AI policies could eventually affect tech prices."
+      "simple_summary": "The president plans to meet with China's leader to discuss trade and AI.",
+      "why_it_matters": "This is political news about international relations — the effects, if any, would take a long time to reach ordinary people."
     },
     {
       "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
       "source": "The Washington Post",
       "date": "2026-09-20T13:32:11.000Z",
-      "simple_summary": "Computer hackers broke into OpenAI and are warning that the AI industry doesn't protect its systems well enough from attacks.",
-      "why_it_matters": "This shows that AI companies need better security, like how a shop needs better locks — relevant if you use AI tools, but most people shouldn't panic."
+      "simple_summary": "Hackers broke into OpenAI (a major AI company) and are warning that AI companies don't have good enough security protection.",
+      "why_it_matters": "This shows AI companies may be vulnerable to attack — it's a reminder that any company handling important information needs strong security."
     },
     {
       "title": "Nvidia's Jensen Huang on artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUpsci04dXBTUkZhdWlwa0M0d2tyYzhObFVWX1BKZExvbGEzalk5X2JSVFJ3SzVlWXRTbU8xOTFXMml1Y3p5Q0ZOc2lQUDlPMmp1SWpCN2lrMlFzZllGRTZZalphU0lBc2thdDBGakcyaVBqeGdLNGNKQjFQOEdfX3RHRVU?oc=5",
       "source": "cbsnews.com",
       "date": "2026-09-20T13:32:00.000Z",
-      "simple_summary": "An Nvidia leader gave comments or statements about artificial intelligence.",
-      "why_it_matters": "This is too vague from the headline to explain what was actually said — nothing to worry about without more details."
+      "simple_summary": "This appears to be a news interview or segment about AI with a company leader.",
+      "why_it_matters": "Without more details, it's hard to say what this covers — it depends on what was actually discussed."
     },
     {
       "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
       "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
       "source": "The Verge",
       "date": "2026-09-20T12:00:00.000Z",
-      "simple_summary": "Power plants and electricity systems are still mostly hacked by actual people, not by AI running wild on its own. The real danger comes from regular cybercriminals, not killer robots.",
-      "why_it_matters": "If you own a small business that uses electricity (which is all of them), it's good to know the real threats are from human hackers, so normal security practices still matter most."
+      "simple_summary": "Energy companies' power systems are easily hacked by people, not by AI. These systems are in danger and getting worse.",
+      "why_it_matters": "This matters to everyone — it means the power grid you depend on has security weak spots that criminals could exploit."
     },
     {
       "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRUxLZEl6TGlfUVlKbVh2UVFKRmR6dnZHblpPUlRKZkVyUmRKNkZFOTZaWUNzWmNMQkNfS0VwLW9XUFFQelhad3dtNjhTOFVCRENaSzdBdUpVOVZHNGpjYi1ab0dCdTRpVk5RRTZMUDlFNlF1MHAtbDVhaGNZVDJRX0MtNk5pOERuT3pkcUlBR3drLUdRY2FfZzBNTjZ2YkhJVUg5WklBelpMZEI1SzA2UW85QWhPZk4zWXA4eU0yNk1BMlJ1NkFrRWt2Tm41RGhKUTY4N1dqYi11Y0l3WGRLUTNwVDloRDBJLUFlR3JMUmNLY3FzN0VKdVZ5YmcwOE56NHZNVllYc2x4UFFRWTR4RW4xNUpsbVAzUGFDU0xFaDlhMTNkUjJoRm5hSFpLZTFRdVZxc3FOTkYzaUdqRjRvQVBaRXprM3JTNjR6aEtuS3VvUjZtcnd2SGczMHlzbExtSU9yaXl2bnBseXJDVFZqeE42VnBSenoz?oc=5",
       "source": "Tom's Hardware",
       "date": "2026-09-20T10:55:00.000Z",
-      "simple_summary": "A Nvidia leader said he's confident AI won't destroy the world by 2030 and that companies should develop AI as fast as possible without waiting for new rules.",
-      "why_it_matters": "This mostly matters to investors and people worried about AI safety — nothing you need to act on."
+      "simple_summary": "An AI company leader says he's confident AI won't destroy the world by 2030 and says AI development should move as fast as possible without worrying about safety rules.",
+      "why_it_matters": "This is insider debate among tech leaders about whether AI needs safety limits — it doesn't directly affect you yet, but it's about policy decisions that could matter later."
     },
     {
       "title": "China’s A.I. Makes a Great Leap Forward. But Its Economy Is Falling Behind.",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5",
       "source": "The New York Times",
       "date": "2026-09-20T09:01:40.000Z",
-      "simple_summary": "China is making good progress with its own AI technology, but its economy is still struggling overall.",
-      "why_it_matters": "This is mostly international business and economics news — it may eventually affect global tech prices, but nothing urgent for you now."
-    },
-    {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5",
-      "source": "BBC",
-      "date": "2026-09-19T21:01:56.000Z",
-      "simple_summary": "The president announced plans to create an 'AI Force' government group and hire someone to lead it and oversee AI technology.",
-      "why_it_matters": "Same as headline 0 — this is political news about future plans, nothing that immediately affects you."
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "date": "2026-09-19T20:44:40.000Z",
-      "simple_summary": "Meta created an AI assistant called Muse that can read your messages, calendar, and notes on Apple computers, and it works well but feels creepy because it's so intrusive.",
-      "why_it_matters": "If you use Meta products on a Mac, be aware this AI can access your personal information — think of it like hiring someone who gets to read all your mail and your calendar."
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch",
-      "date": "2026-09-19T20:39:13.000Z",
-      "simple_summary": "A company called Flock is offering employees money to leave their jobs instead of doing full layoffs.",
-      "why_it_matters": "This is company news — mostly relevant only if you work at Flock or care about that specific business."
-    },
-    {
-      "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVXE5YTI5dDR5YjNpVHIzYnhMQ3huclFnajVuczZBaU40U2RqQkFXMFVOVXJJTWo5SzlVN0tQMkhvdm84bDJMa2lkc2NKbDlHWVFlX2c4VzFyVmFqdFdzbkdqMDNBSXE0N3ZHR3BKdVBzcG44emoxcA?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-19T19:58:00.000Z",
-      "simple_summary": "The president plans to create an 'AI Force' government group to monitor and oversee AI technology as concerns grow that AI systems are becoming too independent and hard to control.",
-      "why_it_matters": "Same as headlines 0 and 8 — this is political planning news, nothing urgent for you to do right now."
+      "simple_summary": "China has made good progress on AI technology, but its overall economy is still struggling.",
+      "why_it_matters": "This is mostly relevant to investors and people who follow international economics — it doesn't directly affect you unless you do business with China."
     }
   ]
 }
