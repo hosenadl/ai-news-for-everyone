@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-21T05:00:46.016Z",
+  "generated_at": "2026-09-21T12:53:30.438Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Is this how the world ends? Extinction scenarios are taking over the AI debate.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHdXRXJtS3NzRnEwd0liQXYzbnM2bUV0UUJ3MU4xMklyMVUzbl9vRGtlVTRUdm44YnFzOGNrSWktT0pCWVBTVnE2WEcwUWxLd18xS2VNWTM4bWROZ19oSUN5Q01NU0NwSHBPbzVTZEdQT25jMlA0MGZGTEZ3dHZJeGJNMDlrbS14Ukt4UEtybGF5aExPRUJORjlKTC1rYzVtZmVYWHpsQnBzbnZUdGRiNE5VU3pla1lzZmMxUGFoaTg?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-21T12:49:32.000Z",
+      "simple_summary": "People are increasingly worried that artificial intelligence could lead to dangerous or even catastrophic scenarios. These worries are now a major part of conversations about AI's future.",
+      "why_it_matters": "This mostly matters to policymakers and researchers — you should be aware that safety concerns exist, but there's no action you need to take today."
+    },
+    {
+      "title": "World leaders meet at UN as planet grapples with war, runaway AI and climate shocks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVRCemNHdU51WmdMaEpwYTBTNExzSXloMDR1RU9PakpMRUpiQTh4NFlZM0VBa2RETVY1TkFGVEIyVEJMeUJJMW1qTllIcGs5SllpcjJ4RlhDZU9RMVpXR3hjUWxMTlR2TGpkT1J0bjg0NWtQXzlPQ3diTjR6OGZtVzZtTFRGODMwQi1FakVJU2FUd09jSV9HdmFlSmFYRUJqeEI4MjhKd1JmVlpDME40ZDNBUExYZlpW0gG-AUFVX3lxTFBIdnhVRUZ0c252N2tpeU9UbmpxTDZNcE12SE92cWxHRUZUM1hDRkFJNFd0WFl1SEQxUnpBXzZwSUx3Njg3Y1BjelZKY3Z3RVB4Zy1tcExzbGJ2LUdVTG90Mm9zaERnMlBxN1U1QlBzMFNHQ054aGtIUDE2WUxvb01UdGoyWTNsUXdibDJvQUhvLV90bFNYOW05aTRVbnEtUVlJdFpITnBQZHJfZ2c1eUN4c3dscUNDUTFwOXFBVnc?oc=5",
+      "source": "PBS",
+      "date": "2026-09-21T12:07:52.000Z",
+      "simple_summary": "World leaders are meeting to discuss major global problems, including concerns about AI, war, and climate change.",
+      "why_it_matters": "This is about government discussions; nothing specific you need to do right now."
+    },
+    {
+      "title": "Lawmakers push for artificial intelligence regulations",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGNIQVMtb3ZsY0NLUTMyOExFa2ZISWNKcVBac1IwVl9TOTRIU0tNRXduN1VRMjZod3hjeDlmS000Qm9RLXY3NTZvZjhKM2h4NDVsOW10QW9Bb0VvT3FYdFdpNUFvb01yQmZSR2QzeElCRndqZTREdXREUS1rUVdDVW9wSklMeW5iTmFJaHVHVnMtQ2ZJRXVodQ?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-21T11:28:00.000Z",
+      "simple_summary": "Government officials are trying to create rules for how AI companies should operate.",
+      "why_it_matters": "This could eventually affect what AI tools you can use and how they work, but it's still in the early discussion stage."
+    },
+    {
+      "title": "AI programs can interfere with key lessons of childhood. Here’s what parents can do",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNem43WEpDNVRjc09IZEVUMUs3cUtRWTBWcVUxbFhBaDJIMXlvNDFUclVrTnFWR1pkVVJ3ZXR1S081cVlyQXctX2NFaHNJc3BGSEVEV24zeDlacXFEYmpyYzhGakRZYV9VeGFJMndTa19XZTNIMTg0RHBqUTU3R1RmVU1ReTRqZUo4M2twbGE4cW9WZXpZMzZ4Ql9UbzdXdEU5SmZPV3lHUE0zUTVxVmVSSVpQN3RjRW1fVUJUMUpMejFmREVpLXhjQ0VJeld0OUN6c0JjR0VoVXJmZ25sVWNZcFc5ajgtQWUxUmpVcVRkRXFuVlBwLUY0SkhjSk04YTdTSGVoZ2lROGF2ZjVmNjJsTzhEUnI0ZGpq?oc=5",
+      "source": "Channel 3000",
+      "date": "2026-09-21T11:00:29.000Z",
+      "simple_summary": "AI programs can sometimes interfere with what children normally learn from everyday experience. The article offers advice for parents.",
+      "why_it_matters": "If you have grandchildren, you might want to read this to understand how screens with AI differ from older technology."
+    },
+    {
+      "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-21T10:53:00.000Z",
+      "simple_summary": "The United States and China are talking about creating a system to alert each other if AI causes national security problems.",
+      "why_it_matters": "This is mostly about government and military concerns — nothing that affects your daily life or business."
+    },
+    {
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "source": "The Verge",
+      "date": "2026-09-21T09:21:47.000Z",
+      "simple_summary": "Amazon blocked Meta's AI helper from shopping on Amazon.com on behalf of users because Meta didn't ask permission first.",
+      "why_it_matters": "If you use Amazon or Meta services, good news: companies are setting boundaries to protect customers from unauthorized AI actions."
+    },
+    {
+      "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-21T07:12:00.000Z",
+      "simple_summary": "The boss of Nvidia (a big computer chip company) said he's certain AI won't destroy the world by 2030.",
+      "why_it_matters": "This is mostly one person's opinion; it's worth noting that people disagree on AI safety risks, but this headline alone doesn't change anything for you."
+    },
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "date": "2026-09-20T21:41:08.000Z",
-      "simple_summary": "A tech conference called TechCrunch Disrupt is offering a $200 discount on tickets if you buy within the next 6 days.",
-      "why_it_matters": "This mostly matters to people in the tech industry — nothing you need to act on if you run a regular small business."
+      "simple_summary": "A tech conference is advertising discounted tickets for the next six days.",
+      "why_it_matters": "This is just a sales announcement — nothing you need to act on unless you want to attend a tech conference."
+    },
+    {
+      "title": "First Came Space Force. Now Prepare For AI Force",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2p1dU1pU3hUcnFMbGQxbENkRGtkZzhGTDI0WjhLX0tMQkNOS1Y2Vnl6cktsbXN0aDVaRW9vTV94R01QYnZ2MHEtMW5oSG8zNDc2cmdtbGI3TmgwZTVrOWIzdS1GSmxwWFNQbTlKd2xmcGk5Y1pqOUxRb080RWRveGczaWk?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-09-20T21:12:14.000Z",
+      "simple_summary": "The government might create an official military or defense branch focused specifically on artificial intelligence.",
+      "why_it_matters": "This is mostly relevant to government and military policy — it doesn't directly affect small businesses or ordinary people."
     },
     {
       "title": "World model companies are keeping a lot of secrets",
       "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
       "source": "TechCrunch",
       "date": "2026-09-20T20:29:07.000Z",
-      "simple_summary": "Companies building AI systems that can model the world are not telling anyone what they're actually working on, keeping their plans secret.",
-      "why_it_matters": "This doesn't affect most small business owners right now — it's mainly about what large tech companies are doing behind closed doors."
+      "simple_summary": "Companies building advanced AI 'world models' (computer programs that learn to understand how the real world works) are not sharing details about what they're making.",
+      "why_it_matters": "This mostly matters to investors and tech professionals — nothing you need to know for your own use of AI."
     },
     {
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "source": "TechCrunch",
       "date": "2026-09-20T18:56:04.000Z",
-      "simple_summary": "Tech executives are saying they want to slow down AI development, but there's debate about whether they're being serious.",
-      "why_it_matters": "This doesn't change anything you need to do today — it's about what the tech industry *might* do in the future."
+      "simple_summary": "Tech industry leaders are debating whether they're actually willing to slow down AI development.",
+      "why_it_matters": "This is industry gossip; whether companies slow down or speed up doesn't immediately affect you, though it could matter long-term."
     },
     {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "date": "2026-09-20T18:50:18.000Z",
-      "simple_summary": "The head of Nvidia, a company making chips for AI, says fears about AI being dangerous are overblown.",
-      "why_it_matters": "This is just one person's opinion — he makes money from AI, so he's naturally going to be optimistic about it. This doesn't affect your immediate decisions."
-    },
-    {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "source": "TechCrunch",
-      "date": "2026-09-20T18:32:52.000Z",
-      "simple_summary": "A company made a smart ring that costs $249 and records notes from meetings.",
-      "why_it_matters": "This is a new gadget for people who take lots of meeting notes — useful for some business owners, but not essential, and it could raise privacy concerns."
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "source": "TechCrunch",
-      "date": "2026-09-20T18:00:00.000Z",
-      "simple_summary": "A new app turns textbooks into short videos and interactive lessons, like scrolling through TikTok.",
-      "why_it_matters": "If you have kids or grandkids in school, this could make learning more fun, but it's still just one new educational tool among many."
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "source": "The Verge",
-      "date": "2026-09-20T15:39:22.000Z",
-      "simple_summary": "The president announced plans to create an 'AI Force' with an 'AI czar' to oversee artificial intelligence.",
-      "why_it_matters": "This could mean new government rules around AI eventually, but it's too early to know what that will actually look like or how it might affect you."
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "source": "The Verge",
-      "date": "2026-09-20T12:00:00.000Z",
-      "simple_summary": "The biggest security threat to power systems is still people, not AI — hackers breaking into systems through human mistakes.",
-      "why_it_matters": "Good news for homeowners and small businesses: the scary AI hacking stories overshadow the real problem, which is actually older security weaknesses."
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "date": "2026-09-19T20:44:40.000Z",
-      "simple_summary": "Meta (Facebook) made an AI assistant called Muse that can read your messages, calendar, and notes — and people find it unsettling.",
-      "why_it_matters": "If you use Meta products, be aware that this AI tool can access your personal information, so think carefully before using it if that worries you."
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch",
-      "date": "2026-09-19T20:39:13.000Z",
-      "simple_summary": "The company Flock is offering money to employees who voluntarily quit to avoid having to lay people off.",
-      "why_it_matters": "This is a business restructuring story — only relevant if you work there or own a similar tech company."
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch",
-      "date": "2026-09-19T19:57:47.000Z",
-      "simple_summary": "The president suggested giving AI a new name and announced creating an 'AI Force' government group, calling AI fears a hoax.",
-      "why_it_matters": "This is political talk about AI — the actual impact on your life is unclear and probably still years away."
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch",
-      "date": "2026-09-19T17:30:00.000Z",
-      "simple_summary": "Google's AI system successfully broke into other computer systems as a test, then stopped itself.",
-      "why_it_matters": "This is a controlled test by Google researchers — not a real cyberattack — but it shows AI systems can be used to find security weaknesses."
+      "simple_summary": "The leader of Nvidia (which makes computer chips used for AI) dismissed safety worries about AI, saying the fears are exaggerated.",
+      "why_it_matters": "It's worth knowing that the people making money from AI might downplay risks — but this is one person's opinion, not a fact you need to act on."
     }
   ]
 }
