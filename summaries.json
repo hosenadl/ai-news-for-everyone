@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-21T12:53:30.438Z",
+  "generated_at": "2026-09-21T22:00:22.070Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Is this how the world ends? Extinction scenarios are taking over the AI debate.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHdXRXJtS3NzRnEwd0liQXYzbnM2bUV0UUJ3MU4xMklyMVUzbl9vRGtlVTRUdm44YnFzOGNrSWktT0pCWVBTVnE2WEcwUWxLd18xS2VNWTM4bWROZ19oSUN5Q01NU0NwSHBPbzVTZEdQT25jMlA0MGZGTEZ3dHZJeGJNMDlrbS14Ukt4UEtybGF5aExPRUJORjlKTC1rYzVtZmVYWHpsQnBzbnZUdGRiNE5VU3pla1lzZmMxUGFoaTg?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-21T12:49:32.000Z",
-      "simple_summary": "People are increasingly worried that artificial intelligence could lead to dangerous or even catastrophic scenarios. These worries are now a major part of conversations about AI's future.",
-      "why_it_matters": "This mostly matters to policymakers and researchers — you should be aware that safety concerns exist, but there's no action you need to take today."
+      "title": "Treasury secretary confirms AI talks with China are underway ahead of Trump-Xi summit",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX19ZRjFWbi1jRGN0azFyU0s0VFdCcHNPWG9iUFh1QXhNajMzazZUR0FVQ3RaYzlsSEZXSi1kWE9xNEN2ZlhyNEkzOFdtYTRKRF9WaUYwa3VuOWdtWUZ3Y3U3a2F0cEVzTVM5ZENUY3J4LUNzdzFqYXhfZWZ3QS1vYWcxZlZ0NENZb05LbklWZjlYYzc0WFduLVhodmNhUmF4SXM0TVRMQWZ5Z01WM2paR3E1cXd2UU9EcjAwVUJaNEMtN3RvT1hqRlpFbUlMVHdOWThROFFLUVp0WVhFaHJod1pBM2FvUFpuM0RwYk16NFNFcXozNHlJS3lkTWt1Ykd3NGdib1ZMV2k5c1h0?oc=5",
+      "source": "KATU",
+      "date": "2026-09-21T21:16:30.000Z",
+      "simple_summary": "The U.S. Treasury secretary is talking with China about artificial intelligence rules and safety. These talks are happening before the president meets with China's leader.",
+      "why_it_matters": "This mostly matters to investors and government policy people — nothing you need to act on right now."
     },
     {
-      "title": "World leaders meet at UN as planet grapples with war, runaway AI and climate shocks",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVRCemNHdU51WmdMaEpwYTBTNExzSXloMDR1RU9PakpMRUpiQTh4NFlZM0VBa2RETVY1TkFGVEIyVEJMeUJJMW1qTllIcGs5SllpcjJ4RlhDZU9RMVpXR3hjUWxMTlR2TGpkT1J0bjg0NWtQXzlPQ3diTjR6OGZtVzZtTFRGODMwQi1FakVJU2FUd09jSV9HdmFlSmFYRUJqeEI4MjhKd1JmVlpDME40ZDNBUExYZlpW0gG-AUFVX3lxTFBIdnhVRUZ0c252N2tpeU9UbmpxTDZNcE12SE92cWxHRUZUM1hDRkFJNFd0WFl1SEQxUnpBXzZwSUx3Njg3Y1BjelZKY3Z3RVB4Zy1tcExzbGJ2LUdVTG90Mm9zaERnMlBxN1U1QlBzMFNHQ054aGtIUDE2WUxvb01UdGoyWTNsUXdibDJvQUhvLV90bFNYOW05aTRVbnEtUVlJdFpITnBQZHJfZ2c1eUN4c3dscUNDUTFwOXFBVnc?oc=5",
-      "source": "PBS",
-      "date": "2026-09-21T12:07:52.000Z",
-      "simple_summary": "World leaders are meeting to discuss major global problems, including concerns about AI, war, and climate change.",
-      "why_it_matters": "This is about government discussions; nothing specific you need to do right now."
+      "title": "Op-eds, academic articles by Provost Santiago Schnell flagged as ‘AI-written’ by ‘near-zero error’ AI detector Pangram",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbGQyWnRzV0FMVzhZMllIVFdwZVNVdTJvS3ktMS1jSzdMWUlOSnREMWR1RnlnV2NreVRwMGo3RkQtXzJ1cnd3NnM5RTl2Z1dHQWg1eWYxR1g0eFhiS0NPWFRqNm9nNXFEOHpvTGlrWEw?oc=5",
+      "source": "The Dartmouth",
+      "date": "2026-09-21T20:28:00.000Z",
+      "simple_summary": "A software tool said it found that articles written by a college leader were actually written by AI, not by a human. The college leader says this is wrong.",
+      "why_it_matters": "This shows AI detection tools can make mistakes, which matters if you worry about whether something you read was written by a real person or a machine."
     },
     {
-      "title": "Lawmakers push for artificial intelligence regulations",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGNIQVMtb3ZsY0NLUTMyOExFa2ZISWNKcVBac1IwVl9TOTRIU0tNRXduN1VRMjZod3hjeDlmS000Qm9RLXY3NTZvZjhKM2h4NDVsOW10QW9Bb0VvT3FYdFdpNUFvb01yQmZSR2QzeElCRndqZTREdXREUS1rUVdDVW9wSklMeW5iTmFJaHVHVnMtQ2ZJRXVodQ?oc=5",
-      "source": "CBS News",
-      "date": "2026-09-21T11:28:00.000Z",
-      "simple_summary": "Government officials are trying to create rules for how AI companies should operate.",
-      "why_it_matters": "This could eventually affect what AI tools you can use and how they work, but it's still in the early discussion stage."
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T17:55:18.000Z",
+      "simple_summary": "Meta created an AI robot shopper called Muse that could buy things on Amazon. Amazon has now blocked it from shopping there anymore.",
+      "why_it_matters": "This mostly matters to tech investors — nothing you need to act on."
     },
     {
-      "title": "AI programs can interfere with key lessons of childhood. Here’s what parents can do",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNem43WEpDNVRjc09IZEVUMUs3cUtRWTBWcVUxbFhBaDJIMXlvNDFUclVrTnFWR1pkVVJ3ZXR1S081cVlyQXctX2NFaHNJc3BGSEVEV24zeDlacXFEYmpyYzhGakRZYV9VeGFJMndTa19XZTNIMTg0RHBqUTU3R1RmVU1ReTRqZUo4M2twbGE4cW9WZXpZMzZ4Ql9UbzdXdEU5SmZPV3lHUE0zUTVxVmVSSVpQN3RjRW1fVUJUMUpMejFmREVpLXhjQ0VJeld0OUN6c0JjR0VoVXJmZ25sVWNZcFc5ajgtQWUxUmpVcVRkRXFuVlBwLUY0SkhjSk04YTdTSGVoZ2lROGF2ZjVmNjJsTzhEUnI0ZGpq?oc=5",
-      "source": "Channel 3000",
-      "date": "2026-09-21T11:00:29.000Z",
-      "simple_summary": "AI programs can sometimes interfere with what children normally learn from everyday experience. The article offers advice for parents.",
-      "why_it_matters": "If you have grandchildren, you might want to read this to understand how screens with AI differ from older technology."
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-09-21T17:32:19.000Z",
+      "simple_summary": "OpenAI is starting a group to think about how AI relates to mathematics and learning.",
+      "why_it_matters": "This mostly matters to engineers and scientists — nothing you need to act on."
     },
     {
-      "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
+      "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnYwQWVnNS1PejZ6VXFCRjRzcVZrcnh6S3hzZldtUGR3TWdSTmRsbVVvdWFUaHdwSHZqX2lpaV9pWlNRYmVjUk45czNacGlJR29BcGdjUnB5MzRfOXhkcDlfNE00ZEx5SjRZNlpEOXliSzZVRDZYeUlFdGlZUG1BbzNkWnVvV1dWNmJJUmEtM3ZPNTdmNTE5N1o1NVlUS3A1?oc=5",
       "source": "The New York Times",
-      "date": "2026-09-21T10:53:00.000Z",
-      "simple_summary": "The United States and China are talking about creating a system to alert each other if AI causes national security problems.",
-      "why_it_matters": "This is mostly about government and military concerns — nothing that affects your daily life or business."
+      "date": "2026-09-21T16:55:39.000Z",
+      "simple_summary": "The United Nations is worried that the U.S. and China are moving fast on AI while the U.N. is not involved in those decisions.",
+      "why_it_matters": "This mostly matters to government officials and investors — nothing you need to act on."
     },
     {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "source": "The Verge",
-      "date": "2026-09-21T09:21:47.000Z",
-      "simple_summary": "Amazon blocked Meta's AI helper from shopping on Amazon.com on behalf of users because Meta didn't ask permission first.",
-      "why_it_matters": "If you use Amazon or Meta services, good news: companies are setting boundaries to protect customers from unauthorized AI actions."
-    },
-    {
-      "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence)",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-21T07:12:00.000Z",
-      "simple_summary": "The boss of Nvidia (a big computer chip company) said he's certain AI won't destroy the world by 2030.",
-      "why_it_matters": "This is mostly one person's opinion; it's worth noting that people disagree on AI safety risks, but this headline alone doesn't change anything for you."
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
       "source": "TechCrunch",
-      "date": "2026-09-20T21:41:08.000Z",
-      "simple_summary": "A tech conference is advertising discounted tickets for the next six days.",
-      "why_it_matters": "This is just a sales announcement — nothing you need to act on unless you want to attend a tech conference."
+      "date": "2026-09-21T16:38:51.000Z",
+      "simple_summary": "Someone created a tool called Tabby that uses AI to do bookkeeping work — tracking money in and out of a business. The creator wants it to eventually replace human accountants.",
+      "why_it_matters": "If you run a small business with lots of paperwork, this kind of tool might eventually help you keep track of your money faster, though a human accountant will still be valuable for advice."
     },
     {
-      "title": "First Came Space Force. Now Prepare For AI Force",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2p1dU1pU3hUcnFMbGQxbENkRGtkZzhGTDI0WjhLX0tMQkNOS1Y2Vnl6cktsbXN0aDVaRW9vTV94R01QYnZ2MHEtMW5oSG8zNDc2cmdtbGI3TmgwZTVrOWIzdS1GSmxwWFNQbTlKd2xmcGk5Y1pqOUxRb080RWRveGczaWk?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-09-20T21:12:14.000Z",
-      "simple_summary": "The government might create an official military or defense branch focused specifically on artificial intelligence.",
-      "why_it_matters": "This is mostly relevant to government and military policy — it doesn't directly affect small businesses or ordinary people."
+      "title": "Bill Gates says Trump's AI views point to societal blind spot",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52LS0yZl9tYlljRmlZbTJySG16c1JmTTV6dHlWaEtzdnIzUmhhb3pJTmoxSlltaGFGVy1aRWJXeXA3Vk9iRnh1Ym1PSTVUSXRXeC1xLWlnaFluVjRycGNET21BQTE1SzBDNG9PUU9MYU42NTZ2U0xmVA?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-21T16:07:00.000Z",
+      "simple_summary": "Bill Gates said that some people in charge are not paying enough attention to important AI issues.",
+      "why_it_matters": "This mostly matters to policy leaders and investors — nothing you need to act on."
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "title": "Trump to decide whether to green light US-China artificial intelligence 'hotline' agreement: sources",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVhGOEpJUVZTREFzOTFfdzQzdW5wTDZfZDRsWEdzSmJKVy1OUXNCSm9tZ3hxYXdpWEctVnN6bExVOXQwdGZiWVJJb0RKLWVGa20yLTQ2Qk9vTTlBLTdQMERNMG56R2ppWVRZTWhEZm1rWUtobTZFYWoxQWRfZXVqRFNXcG1uRVhmUFgxbl92d05DY1FQNG5aREhGRV9GV19xVU4wa2JnWU11Q2NJNjdCX284cVVIMVp0U1pXOXhsMTl0ckxXZlcw0gHMAUFVX3lxTE9sX2N6OVYtQ0tpdkt4dWpmbVg1SGUwMnhRVEpZSFpSMlh6cG12ck0xRWZZTGtDSlhJSWRhX1JQRVBNbWRvSW9RS3Bkb0dCNVI1WWpwck9hSUxXTTdRbDVPalVRblE4UmtXenBlNU96RTF1NUtPWFdMQ1JBV3B2SGF2RllTMjEydzVOWGRuamltaEVhQk1pZlBNTUhPVlFuQVFxQTFkQ0tpTllEWjl5ZVZud0tOUlNEaHhES3lIcGlxN0tCMG1nVUtkUXE0eQ?oc=5",
+      "source": "Fox Business",
+      "date": "2026-09-21T15:47:00.000Z",
+      "simple_summary": "The president is thinking about whether to allow an AI 'hotline' — a direct communication system — between the U.S. and China to handle problems.",
+      "why_it_matters": "This mostly matters to government and investors — nothing you need to act on."
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
-      "date": "2026-09-20T20:29:07.000Z",
-      "simple_summary": "Companies building advanced AI 'world models' (computer programs that learn to understand how the real world works) are not sharing details about what they're making.",
-      "why_it_matters": "This mostly matters to investors and tech professionals — nothing you need to know for your own use of AI."
+      "date": "2026-09-21T15:00:00.000Z",
+      "simple_summary": "This is an advertisement for a tech conference happening in 2026.",
+      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
     },
     {
-      "title": "Is the AI industry really ready to slow down?",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
       "source": "TechCrunch",
-      "date": "2026-09-20T18:56:04.000Z",
-      "simple_summary": "Tech industry leaders are debating whether they're actually willing to slow down AI development.",
-      "why_it_matters": "This is industry gossip; whether companies slow down or speed up doesn't immediately affect you, though it could matter long-term."
+      "date": "2026-09-21T14:39:22.000Z",
+      "simple_summary": "Google made a new laptop computer for $899 that is designed to work closely with Gemini, which is Google's AI assistant. The idea is that AI is built into everything you do on the computer.",
+      "why_it_matters": "If you buy a new laptop soon, you may find AI features built in to help with writing, searching, and other tasks — you should try them out to see if they help you work."
     },
     {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "date": "2026-09-20T18:50:18.000Z",
-      "simple_summary": "The leader of Nvidia (which makes computer chips used for AI) dismissed safety worries about AI, saying the fears are exaggerated.",
-      "why_it_matters": "It's worth knowing that the people making money from AI might downplay risks — but this is one person's opinion, not a fact you need to act on."
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T14:30:00.000Z",
+      "simple_summary": "This is an advertisement for a speaker at a tech conference in 2026.",
+      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T14:15:00.000Z",
+      "simple_summary": "This is an advertisement for a tech conference startup competition happening in 2026.",
+      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
     }
   ]
 }
