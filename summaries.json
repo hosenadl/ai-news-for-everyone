@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-21T22:00:22.070Z",
+  "generated_at": "2026-09-22T05:01:15.825Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Treasury secretary confirms AI talks with China are underway ahead of Trump-Xi summit",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX19ZRjFWbi1jRGN0azFyU0s0VFdCcHNPWG9iUFh1QXhNajMzazZUR0FVQ3RaYzlsSEZXSi1kWE9xNEN2ZlhyNEkzOFdtYTRKRF9WaUYwa3VuOWdtWUZ3Y3U3a2F0cEVzTVM5ZENUY3J4LUNzdzFqYXhfZWZ3QS1vYWcxZlZ0NENZb05LbklWZjlYYzc0WFduLVhodmNhUmF4SXM0TVRMQWZ5Z01WM2paR3E1cXd2UU9EcjAwVUJaNEMtN3RvT1hqRlpFbUlMVHdOWThROFFLUVp0WVhFaHJod1pBM2FvUFpuM0RwYk16NFNFcXozNHlJS3lkTWt1Ykd3NGdib1ZMV2k5c1h0?oc=5",
-      "source": "KATU",
-      "date": "2026-09-21T21:16:30.000Z",
-      "simple_summary": "The U.S. Treasury secretary is talking with China about artificial intelligence rules and safety. These talks are happening before the president meets with China's leader.",
-      "why_it_matters": "This mostly matters to investors and government policy people — nothing you need to act on right now."
+      "title": "How can people manage anxiety caused by artificial intelligence?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzNndElQZkF5cnVKOEtmaG5vLThyNGVYVThUSDRmSmJKMTJWcHFGSUdlVEoxbXRtZ3ByeEtZVkJ3M2ZaYlVaZEMydTZDb054cmc0THM2SHFZWEROUmRDTHJuN09SeXVXMVZUNTY1R09uNTViMEFnQ2dvS3N3Q3Z6aFppalVCMnNVUkMtVkhB?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-22T04:26:06.000Z",
+      "simple_summary": "People are feeling worried or stressed about artificial intelligence, and there are ways to help manage those feelings.",
+      "why_it_matters": "If you're nervous about AI changing your work or life, knowing how to handle that stress is useful — this is about your peace of mind."
+    },
+    {
+      "title": "New York rolls out new AI regulations as technology rapidly evolves",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5",
+      "source": "13wham.com",
+      "date": "2026-09-22T03:28:27.000Z",
+      "simple_summary": "New York State is creating new rules to control how AI companies operate as the technology grows.",
+      "why_it_matters": "Rules might eventually protect you from AI misuse, but this is mainly about government catching up — no immediate action needed for you."
+    },
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T23:44:28.000Z",
+      "simple_summary": "The person who designed Apple's stores thinks Apple should focus on real people helping customers, not just AI technology doing the work.",
+      "why_it_matters": "This is one expert's opinion about retail — mostly relevant to investors and large retailers, not something affecting your small business right now."
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge",
+      "date": "2026-09-21T20:29:45.000Z",
+      "simple_summary": "California made new laws so that AI data centers (huge computer facilities) have to pay for the extra water and electricity they use, instead of passing those costs to regular residents.",
+      "why_it_matters": "This might help keep your electric bill from rising due to AI company costs, though the effect will take time to show up."
     },
     {
       "title": "Op-eds, academic articles by Provost Santiago Schnell flagged as ‘AI-written’ by ‘near-zero error’ AI detector Pangram",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbGQyWnRzV0FMVzhZMllIVFdwZVNVdTJvS3ktMS1jSzdMWUlOSnREMWR1RnlnV2NreVRwMGo3RkQtXzJ1cnd3NnM5RTl2Z1dHQWg1eWYxR1g0eFhiS0NPWFRqNm9nNXFEOHpvTGlrWEw?oc=5",
       "source": "The Dartmouth",
       "date": "2026-09-21T20:28:00.000Z",
-      "simple_summary": "A software tool said it found that articles written by a college leader were actually written by AI, not by a human. The college leader says this is wrong.",
-      "why_it_matters": "This shows AI detection tools can make mistakes, which matters if you worry about whether something you read was written by a real person or a machine."
+      "simple_summary": "An AI checker said that a university leader's written papers look like they were written by AI, but the leader says they wrote them.",
+      "why_it_matters": "This shows AI checkers sometimes make mistakes — be skeptical if anyone claims something is definitely AI-written without strong proof."
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T20:15:58.000Z",
+      "simple_summary": "OpenAI's AI solved over 100 math problems that experts couldn't solve before, and they're forming a group to guide this math work.",
+      "why_it_matters": "This mostly matters to mathematicians and investors — nothing you need to act on."
+    },
+    {
+      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjhPS25fUHJuTXZPSWJ1d09tMDlRZEI1SXppRkFjeHRrV3JXWWREUEx3cXZSSVliVG9qVmRDaUNiSlFfemVVd21zcmJ0ZHo4STNYNFVIRmtsR1RQcjNMVlpCbl9UV2dzcUFpMmR5ejc0SjhGQWlF?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-21T20:04:39.000Z",
+      "simple_summary": "Wall Street investors are becoming less confident that the huge investment in AI data centers will pay off.",
+      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on."
+    },
+    {
+      "title": "Sting reveals he doesn’t see artificial intelligence as a competitor",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnk5d0V6SXVPb294ZjgzU1p3bmJFQS1iMUNnNkNLTGJLcW9SRXhrT2xudTI3SEJrTUcwNnVtYm9BR0xnMmpoM09mbXN6RVpVdDk5dlR6ODhyOHlQVGJ5YnU2emgtYXFLUXpwTGR6RUQ1YkRmZHJ5anQ3bnpINktBeHB4VlpuWVZjVkVHczlROEh2QTNGVUcxWFVOTmFfWXFHMDk2SVJJclE?oc=5",
+      "source": "pastemagazine.com",
+      "date": "2026-09-21T19:50:00.000Z",
+      "simple_summary": "The musician Sting said he doesn't view AI as competition to human artists.",
+      "why_it_matters": "This is one musician's personal view — not news that affects your daily life."
+    },
+    {
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T19:25:00.000Z",
+      "simple_summary": "TechCrunch is advertising a discount on conference tickets before prices go up.",
+      "why_it_matters": "This is an advertisement, not news — only relevant if you want to attend a tech conference."
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch",
+      "date": "2026-09-21T19:19:21.000Z",
+      "simple_summary": "Meta released a new AI helper app called Muse that more people downloaded quickly than people did with ChatGPT when it first came out on phones.",
+      "why_it_matters": "This mostly matters to tech investors — it shows Meta's AI product is popular, but doesn't directly affect your business."
     },
     {
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
       "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "source": "TechCrunch",
       "date": "2026-09-21T17:55:18.000Z",
-      "simple_summary": "Meta created an AI robot shopper called Muse that could buy things on Amazon. Amazon has now blocked it from shopping there anymore.",
-      "why_it_matters": "This mostly matters to tech investors — nothing you need to act on."
+      "simple_summary": "Amazon blocked Meta's Muse app from accessing Amazon.com, so the AI can't help people shop on Amazon.",
+      "why_it_matters": "This is a business dispute between tech giants — nothing you need to worry about."
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
       "source": "OpenAI",
       "date": "2026-09-21T17:32:19.000Z",
-      "simple_summary": "OpenAI is starting a group to think about how AI relates to mathematics and learning.",
-      "why_it_matters": "This mostly matters to engineers and scientists — nothing you need to act on."
-    },
-    {
-      "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnYwQWVnNS1PejZ6VXFCRjRzcVZrcnh6S3hzZldtUGR3TWdSTmRsbVVvdWFUaHdwSHZqX2lpaV9pWlNRYmVjUk45czNacGlJR29BcGdjUnB5MzRfOXhkcDlfNE00ZEx5SjRZNlpEOXliSzZVRDZYeUlFdGlZUG1BbzNkWnVvV1dWNmJJUmEtM3ZPNTdmNTE5N1o1NVlUS3A1?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-21T16:55:39.000Z",
-      "simple_summary": "The United Nations is worried that the U.S. and China are moving fast on AI while the U.N. is not involved in those decisions.",
-      "why_it_matters": "This mostly matters to government officials and investors — nothing you need to act on."
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T16:38:51.000Z",
-      "simple_summary": "Someone created a tool called Tabby that uses AI to do bookkeeping work — tracking money in and out of a business. The creator wants it to eventually replace human accountants.",
-      "why_it_matters": "If you run a small business with lots of paperwork, this kind of tool might eventually help you keep track of your money faster, though a human accountant will still be valuable for advice."
-    },
-    {
-      "title": "Bill Gates says Trump's AI views point to societal blind spot",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52LS0yZl9tYlljRmlZbTJySG16c1JmTTV6dHlWaEtzdnIzUmhhb3pJTmoxSlltaGFGVy1aRWJXeXA3Vk9iRnh1Ym1PSTVUSXRXeC1xLWlnaFluVjRycGNET21BQTE1SzBDNG9PUU9MYU42NTZ2U0xmVA?oc=5",
-      "source": "CBS News",
-      "date": "2026-09-21T16:07:00.000Z",
-      "simple_summary": "Bill Gates said that some people in charge are not paying enough attention to important AI issues.",
-      "why_it_matters": "This mostly matters to policy leaders and investors — nothing you need to act on."
-    },
-    {
-      "title": "Trump to decide whether to green light US-China artificial intelligence 'hotline' agreement: sources",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVhGOEpJUVZTREFzOTFfdzQzdW5wTDZfZDRsWEdzSmJKVy1OUXNCSm9tZ3hxYXdpWEctVnN6bExVOXQwdGZiWVJJb0RKLWVGa20yLTQ2Qk9vTTlBLTdQMERNMG56R2ppWVRZTWhEZm1rWUtobTZFYWoxQWRfZXVqRFNXcG1uRVhmUFgxbl92d05DY1FQNG5aREhGRV9GV19xVU4wa2JnWU11Q2NJNjdCX284cVVIMVp0U1pXOXhsMTl0ckxXZlcw0gHMAUFVX3lxTE9sX2N6OVYtQ0tpdkt4dWpmbVg1SGUwMnhRVEpZSFpSMlh6cG12ck0xRWZZTGtDSlhJSWRhX1JQRVBNbWRvSW9RS3Bkb0dCNVI1WWpwck9hSUxXTTdRbDVPalVRblE4UmtXenBlNU96RTF1NUtPWFdMQ1JBV3B2SGF2RllTMjEydzVOWGRuamltaEVhQk1pZlBNTUhPVlFuQVFxQTFkQ0tpTllEWjl5ZVZud0tOUlNEaHhES3lIcGlxN0tCMG1nVUtkUXE0eQ?oc=5",
-      "source": "Fox Business",
-      "date": "2026-09-21T15:47:00.000Z",
-      "simple_summary": "The president is thinking about whether to allow an AI 'hotline' — a direct communication system — between the U.S. and China to handle problems.",
-      "why_it_matters": "This mostly matters to government and investors — nothing you need to act on."
-    },
-    {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T15:00:00.000Z",
-      "simple_summary": "This is an advertisement for a tech conference happening in 2026.",
-      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T14:39:22.000Z",
-      "simple_summary": "Google made a new laptop computer for $899 that is designed to work closely with Gemini, which is Google's AI assistant. The idea is that AI is built into everything you do on the computer.",
-      "why_it_matters": "If you buy a new laptop soon, you may find AI features built in to help with writing, searching, and other tasks — you should try them out to see if they help you work."
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T14:30:00.000Z",
-      "simple_summary": "This is an advertisement for a speaker at a tech conference in 2026.",
-      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T14:15:00.000Z",
-      "simple_summary": "This is an advertisement for a tech conference startup competition happening in 2026.",
-      "why_it_matters": "This is just promotional material — nothing relevant to ordinary people or business owners."
+      "simple_summary": "OpenAI created an advisory group to guide its artificial intelligence work on mathematics.",
+      "why_it_matters": "This mostly matters to math researchers and OpenAI investors — nothing affecting your daily life."
     }
   ]
 }
