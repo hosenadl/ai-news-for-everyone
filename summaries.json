@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-22T16:59:45.730Z",
+  "generated_at": "2026-09-22T21:22:12.762Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T18:00:00.000Z",
+      "simple_summary": "OpenAI released two new AI assistants called Sol and Luna that work better and cost less money to use than their older versions.",
+      "why_it_matters": "If you use AI tools for your small business, these cheaper options could save you money on your monthly bills."
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T16:30:07.000Z",
+      "simple_summary": "Anthropic released a new AI assistant called Opus 5.5 that works really well and costs less than before.",
+      "why_it_matters": "Similar to the OpenAI news above — cheaper AI tools might help small business owners save money if they use these services."
+    },
     {
       "title": "Trump says US is officially renaming AI ‘super intelligence’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
       "source": "The Verge",
       "date": "2026-09-22T16:01:10.000Z",
-      "simple_summary": "Donald Trump said during a speech that the US is officially changing the name of 'artificial intelligence' to 'super intelligence' because he thinks the word 'artificial' makes it sound fake.",
-      "why_it_matters": "This is just a name change by the government — it won't affect how AI actually works or how you use it."
+      "simple_summary": "President Trump said the US is renaming 'artificial intelligence' to 'super intelligence' because he thinks the word 'artificial' makes it sound fake.",
+      "why_it_matters": "This is just a name change that doesn't affect how AI actually works or what it can do for you."
     },
     {
-      "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjljX1dKVG55bGRTZ2xjY2c1QXkxcV9rSHdKS0FhYUY1dkxQVnF2QXJzOEljalVFcWFINzNHQktXazlsdFVPbTlUZFNNTzRWT3E2X3VybHpjVDhzSzI0OHllZnJtVlRKSy1weDdSdUhXbTFiOFlFbFpidVczcE9yZzlmMjNCMnM?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-22T14:15:13.000Z",
-      "simple_summary": "The US and China are planning to talk about AI safety risks and competition between their countries.",
-      "why_it_matters": "When big countries negotiate about technology, it can eventually affect what AI tools are available and how they're regulated, but this is just a discussion being planned."
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T15:00:00.000Z",
+      "simple_summary": "A space company is using AI to control a spacecraft instead of having humans operate it from Earth.",
+      "why_it_matters": "This mostly matters to space engineers and investors — nothing you need to act on."
     },
     {
-      "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-22T13:52:37.000Z",
-      "simple_summary": "A poll found that three out of four Americans think AI companies aren't doing enough to protect people from potential dangers.",
-      "why_it_matters": "This shows many people are worried about AI safety, which might push companies to be more careful — but it doesn't mean disaster is coming."
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T15:00:00.000Z",
+      "simple_summary": "A tech conference is offering sessions where experts discuss how to use AI safely and responsibly.",
+      "why_it_matters": "This is for people attending a specific conference in 2026 — not relevant unless you're planning to go."
     },
     {
-      "title": "The world freaked out about AI doomsday. Now what?",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdDRGZlNsM0FUYklsNm9aUGl4VFNmRGN3RlZsdzVtLU5JdmZWTWlJcXJLOGZOTUVEbks2alRFT0lQY1BsUVZfb2V5Z2FOT1M5N0tnWWxTb0pwQ2kxbzJaMW1pMFdKWndId0NnMFJMNzQ0d2pibkdROVJ4SQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-22T13:01:00.000Z",
-      "simple_summary": "People have been worried about AI causing big problems, but now the headlines are calming down and the article asks what comes next.",
-      "why_it_matters": "The panic around AI isn't matching reality, which is normal — fear often goes up and down, then life continues as usual."
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T14:30:00.000Z",
+      "simple_summary": "A robotics company is showing off its latest robot at a tech conference.",
+      "why_it_matters": "This is a conference announcement — mostly just for people interested in attending that specific event."
+    },
+    {
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T14:15:00.000Z",
+      "simple_summary": "A big tech conference is giving companies one more week to book a booth where they can show off their products.",
+      "why_it_matters": "Only relevant if you run a tech startup and want to exhibit at this conference."
+    },
+    {
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T14:00:00.000Z",
+      "simple_summary": "A tech conference is reminding people they have a few days left to buy discounted tickets.",
+      "why_it_matters": "Only matters if you were already planning to attend this conference."
     },
     {
       "title": "Everyone can find a reason to dislike data center construction",
       "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
       "source": "TechCrunch",
       "date": "2026-09-22T13:00:00.000Z",
-      "simple_summary": "Building large data centers (the computer warehouses that run AI) in Pennsylvania has caused a lot of local disagreement over two years.",
-      "why_it_matters": "This mostly matters to investors and people in Pennsylvania — it shows communities are concerned about where AI infrastructure gets built."
+      "simple_summary": "Building large computer centers for AI has become controversial in Pennsylvania, with neighbors and communities raising concerns about the construction.",
+      "why_it_matters": "This mostly matters to investors and people in Pennsylvania — nothing you need to act on unless you live near a proposed data center."
     },
     {
       "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
       "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
       "source": "TechCrunch",
       "date": "2026-09-22T12:23:05.000Z",
-      "simple_summary": "A British company that builds AI data centers is planning to sell stock to the public, and its success depends heavily on Microsoft and another company buying from it.",
-      "why_it_matters": "This is mostly interesting to investors — nothing you need to pay attention to unless you're buying stocks."
+      "simple_summary": "A British company that builds computer centers for AI companies is going public (selling stock), and many of its customers are giant tech companies.",
+      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on."
     },
     {
       "title": "Meta patches Muse exploit that let attackers control the AI agent",
       "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
       "source": "The Verge",
       "date": "2026-09-22T11:53:58.000Z",
-      "simple_summary": "Meta found and fixed a security weakness in its Muse AI tool that could have let hackers take control of it.",
-      "why_it_matters": "This was already fixed, so there's no danger to you — it just shows that companies need to keep watching for security problems."
-    },
-    {
-      "title": "New York tightens AI regulations as technology rapidly evolves",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5",
-      "source": "13wham.com",
-      "date": "2026-09-22T09:18:45.000Z",
-      "simple_summary": "New York state is making stronger rules about how AI companies can operate.",
-      "why_it_matters": "More regulations might make AI safer for everyone, but the details matter and we'd need to see what the rules actually are."
-    },
-    {
-      "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGdURXFrNW1oN0pRM0Z6Z3Y3YmpFaXEyaHFiRDVCS1lYSFR0Y0MtSGJoeUk4Zmdud3ZUNzY4QUNEQTJkV1VJT2dVMGpDd2FEMndwVmxKVzJVVTkzVE05dkNRam9KMFlCOXh6S0VLN0hEaWM3ODUxamJuTUplS3hWUGNWMVlwVENiaHFpN2pRbnFjeVpISWg5VA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-09-22T07:30:00.000Z",
-      "simple_summary": "An investment newsletter is recommending a particular AI-related stock for people to buy.",
-      "why_it_matters": "This is investment advice — nothing you need to act on unless you're actively buying stocks and want that company's opinion."
-    },
-    {
-      "title": "5 Ways AI Is Reshaping Student Success",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFBhSGl0Zl9JdnlLMUd0OGdobFdtUTc4aVRVRDcwV3JIT09kYjBCaC1WaF9RRnU5cnp3OTc0U1pPblA0VDVnQVJmSjl4ZTJERE9tWUxOR19pRTdwOWFxUXNvdEJXVlFQR1hTdGd1b2Vza2tNTUdhMDZ4RXdGUUIxdTVIU2t4LTJNMjJMM0o1MWZBejBIeDFLTXAwUHp5RWRXdDlJaWVDWmotb3VHNEJkWlA4YnFhNG9F?oc=5",
-      "source": "Inside Higher Ed",
-      "date": "2026-09-22T07:01:46.000Z",
-      "simple_summary": "Schools and colleges are using AI in five different ways to help students learn better.",
-      "why_it_matters": "If you have kids or grandkids in school, AI might be helping them study, but you don't need to do anything about it."
-    },
-    {
-      "title": "Alex Berenson: I Didn’t Fall for Covid Fearmongering. But AI Terrifies Me.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlJYRmR6ZFl5ZElEeDRISFAxZmpfZ0plTW9rcVBhMVJ2cHdMQlpRam5JWEVmdkF2d2d4bl8zLXJnVUFYSTFiLUczRkd0TUlvaEdnQmp4eGIyRmdqLVd6U2U2ZmZlalo0NmRTY0JTN0x6aVpGM1p3M2VJWjlKYTQyTkVQWS1pX3ZOVXpF?oc=5",
-      "source": "The Free Press",
-      "date": "2026-09-22T01:43:31.000Z",
-      "simple_summary": "A writer says he's worried about AI in a way he wasn't worried about COVID.",
-      "why_it_matters": "This is one person's opinion about AI risks — it doesn't mean AI is actually dangerous right now."
+      "simple_summary": "Meta (Facebook's owner) fixed a security bug in its AI assistant that could have let hackers take control of it.",
+      "why_it_matters": "If you use Meta's Muse AI tool, the company fixed a problem that could have let someone hack it — update your app to stay safe."
     },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
       "source": "TechCrunch",
       "date": "2026-09-21T23:44:28.000Z",
-      "simple_summary": "The person who designed Apple's physical stores says Apple shouldn't count on AI to replace the people who help customers shop in stores.",
-      "why_it_matters": "Some business experts think AI shopping won't replace humans the way some people claim, but this doesn't change how you shop now."
+      "simple_summary": "The person who designed Apple's retail stores says that having real people helping customers is more important than relying only on AI.",
+      "why_it_matters": "This suggests that for shopping experiences, hiring good employees may still matter more than high-tech AI — useful to remember if you own a small business."
     }
   ]
 }
