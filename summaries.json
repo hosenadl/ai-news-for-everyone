@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-23T04:48:53.792Z",
+  "generated_at": "2026-09-23T11:42:15.689Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHVzUlF0eFczNS1lN0swazlOZEUxWGxkWWVRc1JTdUFIOXJnZGU1Zkp4eTRpT21mV3BZeGZlaUF5RF9mc0xHTEg1QktncXMxaE1OQmRrX0pjaldFenlVRkphMlBySUNzUG1zVHNSVi00M0pWdGNXekRDV0M4U2JnMElYS2xGQ2I2WkdfZ3pTOC1qVUludENYWllNQl84WlJDaU4tUjNYa252NEtRbVJGa3NyWWtZRkZXV2VPbGludE0zZ29jTGlhN0lqSQ?oc=5",
+      "source": "WRAL",
+      "date": "2026-09-23T09:11:15.000Z",
+      "simple_summary": "A senator introduced a bill that would ban very advanced AI systems and create a government department to oversee AI. This is a proposal — it hasn't become law yet.",
+      "why_it_matters": "This mostly matters to large AI companies and investors right now. Most ordinary people and small business owners can ignore this for now."
+    },
+    {
+      "title": "Opinion | Jensen Huang vs. the A.I. Doomers",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-23T09:02:02.000Z",
+      "simple_summary": "This is an opinion article about disagreements between business leaders and people worried about AI dangers. No specific news happened.",
+      "why_it_matters": "Nothing you need to act on — this is just people arguing about AI's future."
+    },
+    {
+      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdTBpWk5jcXBuUFItMkdtMzFEMEZLaE1nVGlWMUp5dHZtNUxSMFl0WW9Zb09haU5YdjBrTHFweFBYZHI0S1luVXZmeUVBTU5NbnI3Mk5jcU9FeWlTeXBHWTg1THZjVUV3NDl0R3VBcXB1R3RUV01PdHlOYm9TX2JhQUo4V0NWaHM?oc=5",
+      "source": "NPR",
+      "date": "2026-09-23T09:00:00.000Z",
+      "simple_summary": "Experts warn that if the government puts strict limits on AI development (called a 'freeze'), it could help big companies stay powerful and make it harder for smaller companies to compete.",
+      "why_it_matters": "If you own a small business, rules that are too strict could accidentally make it harder for you to use AI tools, while large companies find ways around the rules."
+    },
+    {
+      "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios | Toby Walsh",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWUFXblFIQW9OYldINjVMZmdrMFpnZFdHa1FNRXN4RUZqZ2JZSERaMG9JSHZNaDAwNFA5VFM5T2JhdTdkTk9sOUZ3akVHc0UxZEZsOFJaSXVkclAwQXlzOXdIR25OenMwcmIwcDFNWjVnT2hBeHBkTkhSclQ3c0pndVA0UWlMazVSbDZKbThIb0ZldzdadmtlcURCUjhlaXlBWkRHcG92UHMwTUZoRzhLUGFvUXJqNURlOHZKRTdlMy14aVdrVHdfUnBIa1lkSEZLRWthT3FPUzdPcXZwSFZkaXlHc0I?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-23T06:14:00.000Z",
+      "simple_summary": "An expert wrote an opinion piece listing possible worst-case scenarios about AI, like humans being harmed. No new actual event happened.",
+      "why_it_matters": "Nothing you need to act on — this is speculative thinking about unlikely future scenarios."
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch",
+      "date": "2026-09-23T04:59:08.000Z",
+      "simple_summary": "Greece's leader said that no government — including his own — is truly prepared for how much AI will change society in the coming years.",
+      "why_it_matters": "This honestly reflects reality: leaders are scrambling to understand AI just like everyone else, which suggests rules and support for businesses may take time to develop."
+    },
+    {
+      "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5",
+      "source": "BBC",
+      "date": "2026-09-23T03:20:30.000Z",
+      "simple_summary": "Former President Trump wants AI companies to use the term 'super intelligence' instead of 'artificial superintelligence.' The article questions whether this naming change will actually stick.",
+      "why_it_matters": "This doesn't affect you — it's just a debate about what to call AI systems."
+    },
     {
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
       "source": "The Verge",
       "date": "2026-09-23T00:17:17.000Z",
-      "simple_summary": "OpenAI had some problems sharing math research that caused embarrassment, so now they're asking expert mathematicians to help them handle this better in the future.",
-      "why_it_matters": "This doesn't affect everyday people or small business owners — it's about how a big company manages its scientific work."
-    },
-    {
-      "title": "Big tech says AI can find a cure for cancer. So where is it?",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0pRaDZ4a0ZUQzU2OGNZaFpxZzBmNERpcEdyWElWREdINWZQOEVEU3pIMU1ZWjhUZUxfVXVWN3RKYkdnYUFoRnlRdXBVS3NEbFM5bWlQOHRXM2JUYTJsSUQ3TDAyX3B5c3dYczJlWHdsT1BPVkhFRDhFNjBkWmIxSkxNMFZkQ0c2aVhoSU9aOVZaYmt2TXBOZUJkUVhZM1VoZTFaZEpxOWVGNGJCaUs2WWZuUGd6ZUZKdVBlUno4c2o2QQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-22T23:27:00.000Z",
-      "simple_summary": "Big technology companies say AI might help find cures for cancer, but the article points out that actual cures haven't shown up yet.",
-      "why_it_matters": "This is mostly hype from companies trying to look good — don't expect AI cancer cures to help you or your business anytime soon, though research is ongoing."
+      "simple_summary": "OpenAI had embarrassing problems with how it handled mathematics research, so now it's hiring real mathematicians as advisors to help it handle research better in the future.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it shows OpenAI is trying to fix its reputation problems."
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
       "date": "2026-09-22T23:21:49.000Z",
-      "simple_summary": "TechCrunch is holding a business conference in Boston where startup founders can learn about fundraising and AI.",
-      "why_it_matters": "This only matters if you're planning to start a tech company — otherwise it's just an event for other business owners."
+      "simple_summary": "A tech conference is advertising upcoming talks for business founders about fundraising and AI. This is a promotional announcement.",
+      "why_it_matters": "Only relevant if you're thinking about starting a tech company — otherwise, nothing you need to know."
     },
     {
       "title": "Opinion | Cartoon by Mike Smith",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBpVEw3M20tdC0wODZmdnhEVWt1ZTJxUUxPcVkzWWJpakxvOFpUQTktekt2Z2V3WlZYNlEtdzVtZC1wU1ZjQ1FrcENmSGhwekpjUTBQSFZYTGVMYk5SU05xVFRyWWpKWFF3RTNnSlM2aXFnQ0FTNnhfb1dEM2JEZFROX19IYzVobW0wUGRkNWZNcTVZWHpJcndQMHc4eEZJZWc?oc=5",
       "source": "The Washington Post",
       "date": "2026-09-22T23:18:34.000Z",
-      "simple_summary": "This is just a cartoon, not a news story.",
-      "why_it_matters": "Nothing to act on."
+      "simple_summary": "This is a political cartoon. No actual news here.",
+      "why_it_matters": "Nothing — this is just an illustration expressing an opinion."
+    },
+    {
+      "title": "Beyond killer robots: China's real AI threat to America is already here, experts warn",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2c3azAxV2JfSUxDWVlLUUh0QjRodHBOVjl2V2k4aHNkeDRpVFFuU29pNWV3ZmhWVDZZTkhPTUdoYXJUV1c3RVpiMEhueTVQbG9McFlnZ3FReXpoOUJySWplbnoxZ29uNEtDcVMxVWpSczhwS0pDZmdCTXh6bnd5Wi1TWi1WYTFuLTZuSlNZVGJYWk11Nk5YekVRRzJiOWEyMDFWaXZJNnZHN3ZjNUHSAbMBQVVfeXFMTjZvVzNlUEQwekFaZjZTU2tDdGdXX3U0MFliSU11bEVRNllHU01DamJVY0pkTXJidlY3bGZBQ2c1R3pDdHJWNUFrZnJmbnVfOVc2c1ZIUmVqRUlHR2VVY2V3cGxlUThZTEhBeFNub252VENhN1BteEV2TVphTG14Y2VKYXNURnBXWENtaXpCRVBTMm9LRlNHdnNQZ1hzT2lEOFE1Y2pXTDY5RTVfVjlIUXViT2c?oc=5",
+      "source": "Fox News",
+      "date": "2026-09-22T22:30:36.000Z",
+      "simple_summary": "Experts are warning that China poses a real competitive threat to America in AI technology development. No specific new event is described.",
+      "why_it_matters": "This is geopolitical discussion mostly affecting government policy and tech companies — nothing specific you need to do."
     },
     {
       "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
       "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "source": "TechCrunch",
       "date": "2026-09-22T21:56:43.000Z",
-      "simple_summary": "A company called Snorkel AI, which helps train AI systems with data, just became worth $3.5 billion and raised $350 million in funding.",
-      "why_it_matters": "This mostly matters to investors — it shows AI companies need lots of training data, but it doesn't directly affect small business owners."
+      "simple_summary": "A company called Snorkel AI, which helps train AI systems using data, raised a large investment and is now worth $3.5 billion because many companies need help with AI data.",
+      "why_it_matters": "This matters to investors — it shows the AI industry is growing. For a small business, it means companies providing AI services are doing well."
     },
     {
       "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
       "source": "The Verge",
       "date": "2026-09-22T20:52:40.000Z",
-      "simple_summary": "Rabbit, a company that makes AI helper software, released a version you can use on your regular Windows or Mac computer without buying their special hardware device.",
-      "why_it_matters": "If you're interested in trying AI assistants, this gives you another option to download and test, though it's still mostly for tech-comfortable people."
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T20:00:00.000Z",
-      "simple_summary": "Qualcomm made new smartphone chips that can run AI programs directly on the phone itself, rather than sending everything to the cloud.",
-      "why_it_matters": "This means future smartphones will handle AI tasks faster and privately, which could make AI features more useful in everyday phone apps."
-    },
-    {
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-22T19:24:41.000Z",
-      "simple_summary": "A reporter tried using Meta's new AI assistant and was impressed by how well it worked.",
-      "why_it_matters": "This is just one person's opinion — wait to see what most users think before deciding if it's worth trying."
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T19:09:11.000Z",
-      "simple_summary": "Meta created an AI assistant called Muse that looks very similar to another company's assistant called OpenClaw, and Meta admits it copied the design heavily.",
-      "why_it_matters": "This mostly matters to tech companies and lawyers — it shows big tech companies sometimes copy each other's ideas."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T18:00:00.000Z",
-      "simple_summary": "OpenAI released two new AI models that cost less money to use and make fewer mistakes than their older versions.",
-      "why_it_matters": "If you use OpenAI's services for your business, you might save money and get better results, but most small business owners should first try free or cheaper AI tools to see if they actually help your work."
-    },
-    {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge",
-      "date": "2026-09-22T16:34:08.000Z",
-      "simple_summary": "A big investment company is creating a school and training program to help young people start tech companies, working with partners like Google, Meta, and OpenAI.",
-      "why_it_matters": "This mostly matters to young people interested in starting tech startups — nothing you need to act on as a small business owner."
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T16:30:07.000Z",
-      "simple_summary": "Anthropic released a new AI model called Opus 5.5 that works really well and costs less than their previous version.",
-      "why_it_matters": "If you use Anthropic's AI for business tasks, you might get better results for less money, but most small businesses should try free AI tools first to understand if AI actually helps your specific work."
+      "simple_summary": "A company called Rabbit released a new AI tool that works on regular computers (Windows, Mac, or Linux) without needing to buy their special hardware device.",
+      "why_it_matters": "If you own a small business, this is just one more AI tool option becoming available — worth watching if you need help automating tasks, but nothing urgent."
     }
   ]
 }
