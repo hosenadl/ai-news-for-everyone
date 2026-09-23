@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-22T21:22:12.762Z",
+  "generated_at": "2026-09-23T04:48:53.792Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "date": "2026-09-23T00:17:17.000Z",
+      "simple_summary": "OpenAI had some problems sharing math research that caused embarrassment, so now they're asking expert mathematicians to help them handle this better in the future.",
+      "why_it_matters": "This doesn't affect everyday people or small business owners — it's about how a big company manages its scientific work."
+    },
+    {
+      "title": "Big tech says AI can find a cure for cancer. So where is it?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0pRaDZ4a0ZUQzU2OGNZaFpxZzBmNERpcEdyWElWREdINWZQOEVEU3pIMU1ZWjhUZUxfVXVWN3RKYkdnYUFoRnlRdXBVS3NEbFM5bWlQOHRXM2JUYTJsSUQ3TDAyX3B5c3dYczJlWHdsT1BPVkhFRDhFNjBkWmIxSkxNMFZkQ0c2aVhoSU9aOVZaYmt2TXBOZUJkUVhZM1VoZTFaZEpxOWVGNGJCaUs2WWZuUGd6ZUZKdVBlUno4c2o2QQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-22T23:27:00.000Z",
+      "simple_summary": "Big technology companies say AI might help find cures for cancer, but the article points out that actual cures haven't shown up yet.",
+      "why_it_matters": "This is mostly hype from companies trying to look good — don't expect AI cancer cures to help you or your business anytime soon, though research is ongoing."
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T23:21:49.000Z",
+      "simple_summary": "TechCrunch is holding a business conference in Boston where startup founders can learn about fundraising and AI.",
+      "why_it_matters": "This only matters if you're planning to start a tech company — otherwise it's just an event for other business owners."
+    },
+    {
+      "title": "Opinion | Cartoon by Mike Smith",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBpVEw3M20tdC0wODZmdnhEVWt1ZTJxUUxPcVkzWWJpakxvOFpUQTktekt2Z2V3WlZYNlEtdzVtZC1wU1ZjQ1FrcENmSGhwekpjUTBQSFZYTGVMYk5SU05xVFRyWWpKWFF3RTNnSlM2aXFnQ0FTNnhfb1dEM2JEZFROX19IYzVobW0wUGRkNWZNcTVZWHpJcndQMHc4eEZJZWc?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-22T23:18:34.000Z",
+      "simple_summary": "This is just a cartoon, not a news story.",
+      "why_it_matters": "Nothing to act on."
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T21:56:43.000Z",
+      "simple_summary": "A company called Snorkel AI, which helps train AI systems with data, just became worth $3.5 billion and raised $350 million in funding.",
+      "why_it_matters": "This mostly matters to investors — it shows AI companies need lots of training data, but it doesn't directly affect small business owners."
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "date": "2026-09-22T20:52:40.000Z",
+      "simple_summary": "Rabbit, a company that makes AI helper software, released a version you can use on your regular Windows or Mac computer without buying their special hardware device.",
+      "why_it_matters": "If you're interested in trying AI assistants, this gives you another option to download and test, though it's still mostly for tech-comfortable people."
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T20:00:00.000Z",
+      "simple_summary": "Qualcomm made new smartphone chips that can run AI programs directly on the phone itself, rather than sending everything to the cloud.",
+      "why_it_matters": "This means future smartphones will handle AI tasks faster and privately, which could make AI features more useful in everyday phone apps."
+    },
+    {
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-22T19:24:41.000Z",
+      "simple_summary": "A reporter tried using Meta's new AI assistant and was impressed by how well it worked.",
+      "why_it_matters": "This is just one person's opinion — wait to see what most users think before deciding if it's worth trying."
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "source": "TechCrunch",
+      "date": "2026-09-22T19:09:11.000Z",
+      "simple_summary": "Meta created an AI assistant called Muse that looks very similar to another company's assistant called OpenClaw, and Meta admits it copied the design heavily.",
+      "why_it_matters": "This mostly matters to tech companies and lawyers — it shows big tech companies sometimes copy each other's ideas."
+    },
     {
       "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
       "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
       "source": "TechCrunch",
       "date": "2026-09-22T18:00:00.000Z",
-      "simple_summary": "OpenAI released two new AI assistants called Sol and Luna that work better and cost less money to use than their older versions.",
-      "why_it_matters": "If you use AI tools for your small business, these cheaper options could save you money on your monthly bills."
+      "simple_summary": "OpenAI released two new AI models that cost less money to use and make fewer mistakes than their older versions.",
+      "why_it_matters": "If you use OpenAI's services for your business, you might save money and get better results, but most small business owners should first try free or cheaper AI tools to see if they actually help your work."
+    },
+    {
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source": "The Verge",
+      "date": "2026-09-22T16:34:08.000Z",
+      "simple_summary": "A big investment company is creating a school and training program to help young people start tech companies, working with partners like Google, Meta, and OpenAI.",
+      "why_it_matters": "This mostly matters to young people interested in starting tech startups — nothing you need to act on as a small business owner."
     },
     {
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
       "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "source": "TechCrunch",
       "date": "2026-09-22T16:30:07.000Z",
-      "simple_summary": "Anthropic released a new AI assistant called Opus 5.5 that works really well and costs less than before.",
-      "why_it_matters": "Similar to the OpenAI news above — cheaper AI tools might help small business owners save money if they use these services."
-    },
-    {
-      "title": "Trump says US is officially renaming AI ‘super intelligence’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "source": "The Verge",
-      "date": "2026-09-22T16:01:10.000Z",
-      "simple_summary": "President Trump said the US is renaming 'artificial intelligence' to 'super intelligence' because he thinks the word 'artificial' makes it sound fake.",
-      "why_it_matters": "This is just a name change that doesn't affect how AI actually works or what it can do for you."
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T15:00:00.000Z",
-      "simple_summary": "A space company is using AI to control a spacecraft instead of having humans operate it from Earth.",
-      "why_it_matters": "This mostly matters to space engineers and investors — nothing you need to act on."
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T15:00:00.000Z",
-      "simple_summary": "A tech conference is offering sessions where experts discuss how to use AI safely and responsibly.",
-      "why_it_matters": "This is for people attending a specific conference in 2026 — not relevant unless you're planning to go."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T14:30:00.000Z",
-      "simple_summary": "A robotics company is showing off its latest robot at a tech conference.",
-      "why_it_matters": "This is a conference announcement — mostly just for people interested in attending that specific event."
-    },
-    {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T14:15:00.000Z",
-      "simple_summary": "A big tech conference is giving companies one more week to book a booth where they can show off their products.",
-      "why_it_matters": "Only relevant if you run a tech startup and want to exhibit at this conference."
-    },
-    {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T14:00:00.000Z",
-      "simple_summary": "A tech conference is reminding people they have a few days left to buy discounted tickets.",
-      "why_it_matters": "Only matters if you were already planning to attend this conference."
-    },
-    {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T13:00:00.000Z",
-      "simple_summary": "Building large computer centers for AI has become controversial in Pennsylvania, with neighbors and communities raising concerns about the construction.",
-      "why_it_matters": "This mostly matters to investors and people in Pennsylvania — nothing you need to act on unless you live near a proposed data center."
-    },
-    {
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T12:23:05.000Z",
-      "simple_summary": "A British company that builds computer centers for AI companies is going public (selling stock), and many of its customers are giant tech companies.",
-      "why_it_matters": "This mostly matters to stock investors — nothing you need to act on."
-    },
-    {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "source": "The Verge",
-      "date": "2026-09-22T11:53:58.000Z",
-      "simple_summary": "Meta (Facebook's owner) fixed a security bug in its AI assistant that could have let hackers take control of it.",
-      "why_it_matters": "If you use Meta's Muse AI tool, the company fixed a problem that could have let someone hack it — update your app to stay safe."
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch",
-      "date": "2026-09-21T23:44:28.000Z",
-      "simple_summary": "The person who designed Apple's retail stores says that having real people helping customers is more important than relying only on AI.",
-      "why_it_matters": "This suggests that for shopping experiences, hiring good employees may still matter more than high-tech AI — useful to remember if you own a small business."
+      "simple_summary": "Anthropic released a new AI model called Opus 5.5 that works really well and costs less than their previous version.",
+      "why_it_matters": "If you use Anthropic's AI for business tasks, you might get better results for less money, but most small businesses should try free AI tools first to understand if AI actually helps your specific work."
     }
   ]
 }
