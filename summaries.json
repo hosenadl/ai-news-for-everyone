@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-23T11:42:15.689Z",
+  "generated_at": "2026-09-23T17:05:36.850Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSl9wWHFxSHhqR1VGbUY3QjdTY0hxM1lOb1F5Q2NscmlkTlRQcG9Ea1dQVVdPczVKYnkwYlpQbEJQWDVucTRrVEZ3ZHdxaEo1a0ktWTRhYTIxU3lTYWRVcGkyYTRLMV9nODJxc3d3QWQwRDBaaVlISHZ1YzYyQWkxRGpGV3NzYkhoejdXN2lubC1aYXlRTDQ4ZTdfYTUzTnBsMkN1Zw?oc=5",
+      "source": "The Verge",
+      "date": "2026-09-23T16:23:05.000Z",
+      "simple_summary": "Senator Bernie Sanders introduced a bill that would make it illegal to create very advanced AI systems, with jail time for violators.",
+      "why_it_matters": "This is politics and law — nothing you need to worry about acting on right now, but it shows the government is thinking about AI safety rules."
+    },
+    {
+      "title": "Sanders, Casar introduce ‘superintelligence’ ban",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2dNUVExSWRkc0cybGZmdzY3OHUzV09KWmtiZVJUVHRuTENvWmN2ejhLNlYwN0tHb1Bzazlkclg4X3RKbndUdTBTNDVmNTJpSlhYS0dreFhnVjF2Rkp0ZjlQdG5BYnhrN0FmcFhpRmwtTGpOZFlXSzdZeE9QX2FfY3BUV3JhSFpYRzJXNlBKeUtLMmszdzVtUTJHMU1QTW1RT2c?oc=5",
+      "source": "Politico",
+      "date": "2026-09-23T16:20:21.000Z",
+      "simple_summary": "Senator Bernie Sanders and another politician introduced a bill to ban the most powerful future AI systems.",
+      "why_it_matters": "This is mostly a political story — the same as item 0 above."
+    },
+    {
       "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHVzUlF0eFczNS1lN0swazlOZEUxWGxkWWVRc1JTdUFIOXJnZGU1Zkp4eTRpT21mV3BZeGZlaUF5RF9mc0xHTEg1QktncXMxaE1OQmRrX0pjaldFenlVRkphMlBySUNzUG1zVHNSVi00M0pWdGNXekRDV0M4U2JnMElYS2xGQ2I2WkdfZ3pTOC1qVUludENYWllNQl84WlJDaU4tUjNYa252NEtRbVJGa3NyWWtZRkZXV2VPbGludE0zZ29jTGlhN0lqSQ?oc=5",
-      "source": "WRAL",
-      "date": "2026-09-23T09:11:15.000Z",
-      "simple_summary": "A senator introduced a bill that would ban very advanced AI systems and create a government department to oversee AI. This is a proposal — it hasn't become law yet.",
-      "why_it_matters": "This mostly matters to large AI companies and investors right now. Most ordinary people and small business owners can ignore this for now."
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWc4bTdSNFZ4RGJoODkxUVFYZWx4ekZhM29ieUVlNmdHejd2VF9BbU5kVWRrdVg4a2J4X1VOTjFXR3cxR3luRVMtbXkwdERKenFQdV9kN2VlQnFoOUpyUk1fa0VoQ3UwOExaYVd2b1dTV192Z3JhcnB0YW05VEdmRk4zT3hXMi1UMFZoM3hNdGp1TVRYcTJIZ3lvZWpQbTQ4ZGZzaG9jV0pRUS1xcDZsTDRRV2c?oc=5",
+      "source": "Boston.com",
+      "date": "2026-09-23T15:54:00.000Z",
+      "simple_summary": "Senator Bernie Sanders proposed a bill to ban superintelligence (the most powerful future AI) and create a government department to oversee AI.",
+      "why_it_matters": "This is about government regulation — honestly, it's mostly relevant to investors and politicians, not something affecting your daily life yet."
     },
     {
-      "title": "Opinion | Jensen Huang vs. the A.I. Doomers",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-23T09:02:02.000Z",
-      "simple_summary": "This is an opinion article about disagreements between business leaders and people worried about AI dangers. No specific news happened.",
-      "why_it_matters": "Nothing you need to act on — this is just people arguing about AI's future."
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "source": "The Verge",
+      "date": "2026-09-23T14:30:00.000Z",
+      "simple_summary": "YouTube is building AI tools that help creators make videos and get them seen by more people automatically.",
+      "why_it_matters": "If you or someone you know makes videos on YouTube, this could eventually save you time and help more people find your content."
     },
     {
-      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdTBpWk5jcXBuUFItMkdtMzFEMEZLaE1nVGlWMUp5dHZtNUxSMFl0WW9Zb09haU5YdjBrTHFweFBYZHI0S1luVXZmeUVBTU5NbnI3Mk5jcU9FeWlTeXBHWTg1THZjVUV3NDl0R3VBcXB1R3RUV01PdHlOYm9TX2JhQUo4V0NWaHM?oc=5",
-      "source": "NPR",
-      "date": "2026-09-23T09:00:00.000Z",
-      "simple_summary": "Experts warn that if the government puts strict limits on AI development (called a 'freeze'), it could help big companies stay powerful and make it harder for smaller companies to compete.",
-      "why_it_matters": "If you own a small business, rules that are too strict could accidentally make it harder for you to use AI tools, while large companies find ways around the rules."
+      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "source": "TechCrunch",
+      "date": "2026-09-23T13:00:00.000Z",
+      "simple_summary": "Spotify is letting listeners see exactly how its AI understands their music taste and lets you change it in plain language (like saying 'play less pop').",
+      "why_it_matters": "If you use Spotify, you now have more control over what music it suggests to you, which could make your recommendations better."
     },
     {
-      "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios | Toby Walsh",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWUFXblFIQW9OYldINjVMZmdrMFpnZFdHa1FNRXN4RUZqZ2JZSERaMG9JSHZNaDAwNFA5VFM5T2JhdTdkTk9sOUZ3akVHc0UxZEZsOFJaSXVkclAwQXlzOXdIR25OenMwcmIwcDFNWjVnT2hBeHBkTkhSclQ3c0pndVA0UWlMazVSbDZKbThIb0ZldzdadmtlcURCUjhlaXlBWkRHcG92UHMwTUZoRzhLUGFvUXJqNURlOHZKRTdlMy14aVdrVHdfUnBIa1lkSEZLRWthT3FPUzdPcXZwSFZkaXlHc0I?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-23T06:14:00.000Z",
-      "simple_summary": "An expert wrote an opinion piece listing possible worst-case scenarios about AI, like humans being harmed. No new actual event happened.",
-      "why_it_matters": "Nothing you need to act on — this is speculative thinking about unlikely future scenarios."
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch",
+      "date": "2026-09-23T12:00:00.000Z",
+      "simple_summary": "A company called Ema raised a lot of money because its AI software is starting to replace expensive business software that companies used to hire people or pay for.",
+      "why_it_matters": "This mostly matters to investors — it shows AI is changing how businesses buy software and services."
+    },
+    {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "source": "The Verge",
+      "date": "2026-09-23T11:02:39.000Z",
+      "simple_summary": "OpenAI hired three people who used to run Patreon (a platform where creators get paid by fans) to help it build tools for creators.",
+      "why_it_matters": "This suggests OpenAI is planning to build tools to help content creators make money — details aren't clear yet."
     },
     {
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
       "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "source": "TechCrunch",
       "date": "2026-09-23T04:59:08.000Z",
-      "simple_summary": "Greece's leader said that no government — including his own — is truly prepared for how much AI will change society in the coming years.",
-      "why_it_matters": "This honestly reflects reality: leaders are scrambling to understand AI just like everyone else, which suggests rules and support for businesses may take time to develop."
+      "simple_summary": "Greece's prime minister said that governments aren't ready for how much AI will change society.",
+      "why_it_matters": "This is a political observation — it reflects that leaders are worried about AI but don't have clear plans yet."
     },
     {
-      "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
+      "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5",
       "source": "BBC",
       "date": "2026-09-23T03:20:30.000Z",
-      "simple_summary": "Former President Trump wants AI companies to use the term 'super intelligence' instead of 'artificial superintelligence.' The article questions whether this naming change will actually stick.",
-      "why_it_matters": "This doesn't affect you — it's just a debate about what to call AI systems."
+      "simple_summary": "Trump wants people to call AI 'super intelligence' instead of 'artificial intelligence' and is trying to rebrand the term.",
+      "why_it_matters": "This is mostly just a naming debate — it won't change how AI actually works or affects you."
+    },
+    {
+      "title": "Can artificial intelligence help the agriculture industry save water? Two high schoolers in Idaho say 'yes'",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUEtcnFUN0tZZmZ0ZzJnRnV1X1dZVWdNT1VwYmFXblplSFVPcHVXdk5pMGdtTWVXejRTVDM3LUZoYnN6V2ViaDF0OURVZGhVSUhVT0lOSF9KMlkycUNsNFp3UHFmOXhwM3ZMaEVjUThVY2pnTHRmYXo3T2Z2YTFtUmE0bmdIXzJOUjBvWHpIUTk0ZVZya3lrMERXSU1sbVhFNllMYXprSWVzd01BcDQzZlp0MXc1SjFoYU1RSVNyV0xIdGl3Y2dOblhOWVJvQjN3ZWV1UlMwZzM?oc=5",
+      "source": "ksl.com",
+      "date": "2026-09-23T03:09:26.000Z",
+      "simple_summary": "Two high school students in Idaho used AI to help farmers save water on their crops.",
+      "why_it_matters": "If you farm or care about water conservation, AI tools like this could eventually help you use less water and save money."
     },
     {
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
       "source": "The Verge",
       "date": "2026-09-23T00:17:17.000Z",
-      "simple_summary": "OpenAI had embarrassing problems with how it handled mathematics research, so now it's hiring real mathematicians as advisors to help it handle research better in the future.",
-      "why_it_matters": "This mostly matters to investors and tech workers — it shows OpenAI is trying to fix its reputation problems."
+      "simple_summary": "OpenAI made mistakes handling math discoveries and is now asking expert mathematicians for advice on how to handle future research better.",
+      "why_it_matters": "This mostly matters to researchers and investors — it's about how AI companies manage scientific work, not something affecting ordinary people."
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
       "date": "2026-09-22T23:21:49.000Z",
-      "simple_summary": "A tech conference is advertising upcoming talks for business founders about fundraising and AI. This is a promotional announcement.",
-      "why_it_matters": "Only relevant if you're thinking about starting a tech company — otherwise, nothing you need to know."
-    },
-    {
-      "title": "Opinion | Cartoon by Mike Smith",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBpVEw3M20tdC0wODZmdnhEVWt1ZTJxUUxPcVkzWWJpakxvOFpUQTktekt2Z2V3WlZYNlEtdzVtZC1wU1ZjQ1FrcENmSGhwekpjUTBQSFZYTGVMYk5SU05xVFRyWWpKWFF3RTNnSlM2aXFnQ0FTNnhfb1dEM2JEZFROX19IYzVobW0wUGRkNWZNcTVZWHpJcndQMHc4eEZJZWc?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-22T23:18:34.000Z",
-      "simple_summary": "This is a political cartoon. No actual news here.",
-      "why_it_matters": "Nothing — this is just an illustration expressing an opinion."
-    },
-    {
-      "title": "Beyond killer robots: China's real AI threat to America is already here, experts warn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2c3azAxV2JfSUxDWVlLUUh0QjRodHBOVjl2V2k4aHNkeDRpVFFuU29pNWV3ZmhWVDZZTkhPTUdoYXJUV1c3RVpiMEhueTVQbG9McFlnZ3FReXpoOUJySWplbnoxZ29uNEtDcVMxVWpSczhwS0pDZmdCTXh6bnd5Wi1TWi1WYTFuLTZuSlNZVGJYWk11Nk5YekVRRzJiOWEyMDFWaXZJNnZHN3ZjNUHSAbMBQVVfeXFMTjZvVzNlUEQwekFaZjZTU2tDdGdXX3U0MFliSU11bEVRNllHU01DamJVY0pkTXJidlY3bGZBQ2c1R3pDdHJWNUFrZnJmbnVfOVc2c1ZIUmVqRUlHR2VVY2V3cGxlUThZTEhBeFNub252VENhN1BteEV2TVphTG14Y2VKYXNURnBXWENtaXpCRVBTMm9LRlNHdnNQZ1hzT2lEOFE1Y2pXTDY5RTVfVjlIUXViT2c?oc=5",
-      "source": "Fox News",
-      "date": "2026-09-22T22:30:36.000Z",
-      "simple_summary": "Experts are warning that China poses a real competitive threat to America in AI technology development. No specific new event is described.",
-      "why_it_matters": "This is geopolitical discussion mostly affecting government policy and tech companies — nothing specific you need to do."
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "date": "2026-09-22T21:56:43.000Z",
-      "simple_summary": "A company called Snorkel AI, which helps train AI systems using data, raised a large investment and is now worth $3.5 billion because many companies need help with AI data.",
-      "why_it_matters": "This matters to investors — it shows the AI industry is growing. For a small business, it means companies providing AI services are doing well."
-    },
-    {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "date": "2026-09-22T20:52:40.000Z",
-      "simple_summary": "A company called Rabbit released a new AI tool that works on regular computers (Windows, Mac, or Linux) without needing to buy their special hardware device.",
-      "why_it_matters": "If you own a small business, this is just one more AI tool option becoming available — worth watching if you need help automating tasks, but nothing urgent."
+      "simple_summary": "TechCrunch is advertising a conference for startup founders about fundraising, hiring, and using AI.",
+      "why_it_matters": "This is only relevant if you're starting a tech business — otherwise it's just an advertisement for a business event."
     }
   ]
 }
