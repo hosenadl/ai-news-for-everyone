@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-24T21:33:19.611Z",
+  "generated_at": "2026-09-25T05:01:19.939Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "UCLA launches first digital humanities department to address AI and emerging technologies",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1kxMFh6R2FFSy1Lc2sxWThQNm5iMXVpbXktektKZWViWmdoRnF3cFJvU1ZWWjBIZHJHRzFRNXRCOUtid2pqaWl2bHBLR3BRN2pQNGhQbkI2dzFxVUQ3clpnZTRJSVU4WWdrZnJhOUllMU1fZFlYOTVMU1RXbVlzRg?oc=5",
+      "source": "KCRA",
+      "date": "2026-09-25T04:34:00.000Z",
+      "simple_summary": "UCLA opened a new school department focused on teaching students about artificial intelligence and how it's changing society. They want to help people understand AI from the human perspective, not just the technical side.",
+      "why_it_matters": "If you have young family members interested in tech or education careers, this is a good program to know about — otherwise, it's mainly news for students and educators."
+    },
+    {
+      "title": "Pope’s artificial intelligence guru admits he doesn’t use AI",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanJHdXBZUW52UDRES2l6Wk5OU3hVeVJvemdqSW9RSnJ4T0hzY0ZfOTM1YUFJLTUxNEpjNzJBeTZ1OGtBN0VSV1o0U2ktemJjekpueVo2ZDJEYlNTaHBSaWJBWFBnOTFoei1EdlEybWF4UldIcWFlUkNuTHlMSTZOUEFIRTc3UFlqTFBvQUJsYy10dTlYLXc?oc=5",
+      "source": "politico.eu",
+      "date": "2026-09-25T04:07:19.000Z",
+      "simple_summary": "The Pope's AI expert admitted in an interview that he doesn't actually use AI tools himself. This is somewhat ironic since his job is to give advice about AI.",
+      "why_it_matters": "This doesn't affect your daily life — it's mostly a funny story about what experts do versus what they preach."
+    },
+    {
+      "title": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
+      "source": "Fox News",
+      "date": "2026-09-25T01:56:52.000Z",
+      "simple_summary": "Note: Headline 2 appears to be misleading clickbait lacking credible details. Treat with caution until verified by major news sources.",
+      "why_it_matters": "Be careful believing dramatic AI security stories without specifics — always check if major established news outlets are reporting the same story."
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "date": "2026-09-24T19:59:26.000Z",
+      "simple_summary": "Google added a new feature where you can talk to their AI while watching a cartoon face on your screen that moves its lips and makes expressions. Right now, only big business customers can use it.",
+      "why_it_matters": "This is Google making their AI feel more like talking to a person — interesting but not something that affects most people yet."
+    },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
       "date": "2026-09-24T19:15:00.000Z",
-      "simple_summary": "TechCrunch is offering a discount where if you buy one ticket to their tech conference in October, you can buy a second ticket at half price.",
-      "why_it_matters": "This mostly matters to people planning to attend a tech industry conference — nothing you need to act on unless you're interested in that specific event."
+      "simple_summary": "This is an advertisement for a tech conference that's selling group discounts on tickets.",
+      "why_it_matters": "This is purely a sales promotion and doesn't involve any actual AI news — skip it."
     },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "source": "TechCrunch",
       "date": "2026-09-24T19:00:42.000Z",
-      "simple_summary": "A company called PrismML is making tiny AI programs that can run on smart glasses made by Qualcomm, without needing to send data to big computers elsewhere.",
-      "why_it_matters": "If you wear smart glasses in the future, they might work better and faster by thinking on their own instead of relying on internet connection."
+      "simple_summary": "A company called PrismML is putting tiny AI programs onto smart glasses made by Qualcomm. The goal is to make glasses smarter without needing them to connect to the internet constantly.",
+      "why_it_matters": "This could eventually make smart glasses actually useful for regular people instead of just expensive toys — but it's still in very early stages."
     },
     {
       "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
       "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
       "source": "TechCrunch",
       "date": "2026-09-24T18:11:44.000Z",
-      "simple_summary": "Oracle, a big computer company, sent a notice saying it might delay paying for a massive computer facility it's building in New Mexico if it's not finished by 2028.",
-      "why_it_matters": "This mostly matters to investors and industry experts — nothing you need to worry about in your daily life or business."
+      "simple_summary": "Oracle, a big tech company, just warned they might be late finishing a massive computer facility (data center) in New Mexico that won't be ready until 2028. This is important for their business contracts.",
+      "why_it_matters": "This mostly matters to investors and large companies that depend on Oracle — nothing you need to act on as a small business owner."
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "source": "The Verge",
+      "date": "2026-09-24T18:04:44.000Z",
+      "simple_summary": "The CEO of Nvidia (a huge AI company) said that AI will help fight climate change, but getting there will be very difficult and cause disruption first. He sounded dramatic about it.",
+      "why_it_matters": "This is one executive's opinion about how AI might help the environment in the future — interesting to think about, but not something affecting you today."
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge",
+      "date": "2026-09-24T17:52:29.000Z",
+      "simple_summary": "Meta (Facebook's parent company) is making tools so regular people can create simple video games using AI on their phones or web browser, without knowing how to code. The games would go on Meta's gaming platform.",
+      "why_it_matters": "If you're interested in making games as a hobby or small business, this could be a way to do it without learning programming — but it's only for Meta's platform."
     },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "source": "TechCrunch",
       "date": "2026-09-24T17:39:24.000Z",
-      "simple_summary": "Meta made a small AI gadget shaped like a Tamagotchi (a tiny electronic pet toy from the 1990s) that people can wear on their bag as a fashion accessory.",
-      "why_it_matters": "This is mostly a trendy gadget for younger people — most small-business owners won't need this to run their business."
+      "simple_summary": "Meta created a small AI gadget shaped like a charm you hang on a bag or keychain (like the retro Tamagotchi toy). It looks cute but contains AI inside.",
+      "why_it_matters": "This is Meta selling a new toy gadget — interesting as a tech trend but not essential for most people."
     },
     {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "date": "2026-09-24T17:00:00.000Z",
-      "simple_summary": "Google Photos added a feature that uses AI to organize pictures of your clothes into a virtual closet, and it now works on both Android and iPhone.",
-      "why_it_matters": "If you take lots of photos of outfits, this feature can help you see what you own and plan what to wear — it's useful but not essential."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "date": "2026-09-24T16:46:47.000Z",
-      "simple_summary": "TechCrunch is hosting a one-day business conference in Boston on November 4 where startup founders can meet investors and experienced business owners.",
-      "why_it_matters": "This matters only if you're a startup founder looking for investment advice or connections — most small-business owners won't need to attend."
-    },
-    {
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "TechCrunch",
-      "date": "2026-09-24T16:35:13.000Z",
-      "simple_summary": "ElevenLabs makes AI voices that answer customer service calls, and its leader said companies should tell customers they're talking to a robot.",
-      "why_it_matters": "If your business uses an AI voice to answer calls, you should let customers know they're talking to a machine to build trust."
-    },
-    {
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
       "source": "The Verge",
-      "date": "2026-09-24T16:04:31.000Z",
-      "simple_summary": "Google is testing a feature on new Pixel phones where an AI assistant can call local businesses for you to make reservations, check inventory, or reschedule appointments without you having to wait on hold.",
-      "why_it_matters": "In the future, this could save you time by letting AI make routine calls, but right now it's just a test for certain phone owners."
+      "date": "2026-09-24T17:14:12.000Z",
+      "simple_summary": "Two developers discovered that Meta's new Muse gadget can be tricked into giving them access to all of its internal files, including secret instruction files and system information. This is a security problem.",
+      "why_it_matters": "If you're considering buying Muse or similar products, this shows the company may have security weaknesses — wait to see if Meta fixes this problem first."
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "date": "2026-09-24T16:03:36.000Z",
-      "simple_summary": "TechCrunch is announcing the judges (venture capitalists who fund startups) for their startup competition at their October conference, and people can register by September 25 to save money.",
-      "why_it_matters": "This matters only if you're a startup founder competing for investment — not relevant to most small-business owners."
-    },
-    {
-      "title": "Google tests letting Gemini call businesses for you",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "source": "TechCrunch",
-      "date": "2026-09-24T16:00:00.000Z",
-      "simple_summary": "Google's AI assistant Gemini can now make phone calls to businesses for you on Pixel 11 phones if you pay for a subscription.",
-      "why_it_matters": "Eventually this might save people time on routine calls, but right now it's only available to certain phone users and costs extra."
-    },
-    {
-      "title": "AI Expands Banks’ Options for Modernizing Legacy Cores",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTZXc05lZFZVR2ZTMGFOVnAtaGd2R2pBZmlGTUNrUmxIYXNoTVVtZlk3ZjRkd1Fyd210Tm5PLUIyZEs4V2VhdkotWjVjOF9ESnJfUGJDVHpKOUFqTWlUcHdwaEdsYm1Ba0pRSW15Y1JHQy1mdnJtUzlLTzQ2M1BOQU5GX0Vnb05vZ0tHOWtIOGRaMld5akFacExTbG9wY0UycGZzUFlfUDZ4b3FNcmcwSg?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-09-24T15:56:01.000Z",
-      "simple_summary": "The headline is too vague to explain what the article says about AI and banking systems.",
-      "why_it_matters": "Without more details, it's hard to say if this affects your business or banking — you'd need to read the full article to know."
-    },
-    {
-      "title": "What Happens When 10,000 Treasury Agents Make the Same Decision?",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0pMbnA3VEVDbWFjVGljUjFmYlRteVBwbUxPdVJFaDhmUWQ4TVltcDZwaFV5NmdYcmdNWW5FWWRTRWhqZVEyZG1lQjc2S0hFa2k4a28xaHEtdGplcWhpcnNnaGtFb1FiR1E0ZnF0Z21VaXAxRmh3OFNKbDM1bWI2ZXFxaGNUUXBSclpJcm1GX0FIUlBKaFJQaEY5aHdjUmhUY3pIcGZJRTY4a2tUMjBWTmpqZ0xheU0?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-09-24T15:40:35.000Z",
-      "simple_summary": "The headline doesn't clearly explain what the article is about.",
-      "why_it_matters": "Without more information, it's impossible to say why this matters — you'd need to read the full article to understand."
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge",
+      "date": "2026-09-24T17:10:38.000Z",
+      "simple_summary": "Meta's Muse AI gadget became very popular right after launch (topped the App Store charts) and has hundreds of thousands of daily users. Similar AI agent products are also becoming trendy.",
+      "why_it_matters": "This shows AI gadgets are becoming popular consumer products — it's mostly interesting news about tech trends, but doesn't require action on your part."
     }
   ]
 }
