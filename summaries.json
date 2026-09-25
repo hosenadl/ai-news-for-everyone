@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-25T05:01:19.939Z",
+  "generated_at": "2026-09-25T11:54:39.093Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "UCLA launches first digital humanities department to address AI and emerging technologies",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1kxMFh6R2FFSy1Lc2sxWThQNm5iMXVpbXktektKZWViWmdoRnF3cFJvU1ZWWjBIZHJHRzFRNXRCOUtid2pqaWl2bHBLR3BRN2pQNGhQbkI2dzFxVUQ3clpnZTRJSVU4WWdrZnJhOUllMU1fZFlYOTVMU1RXbVlzRg?oc=5",
-      "source": "KCRA",
-      "date": "2026-09-25T04:34:00.000Z",
-      "simple_summary": "UCLA opened a new school department focused on teaching students about artificial intelligence and how it's changing society. They want to help people understand AI from the human perspective, not just the technical side.",
-      "why_it_matters": "If you have young family members interested in tech or education careers, this is a good program to know about — otherwise, it's mainly news for students and educators."
+      "title": "Opinion | This ancient spiritual practice may be the answer to AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjN4Nzd5Zm01X080b2hFXzNPQ1RLc2NWbm9XZEMwTlFyUmhrdUowUi1qZXZSa1l4QzZGcWJrU0J2LWM5VVRVU0I0Vk5XYlN3RnhuS04yVkpxbkFPQUJyLTRLMlB1M2N1WlhuTjUzeS1RcGo5QnN4MWpjV2o4YkltNGticjdmQlEtVTVDTlNR?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-25T11:45:51.000Z",
+      "simple_summary": "An opinion piece suggests that old spiritual practices might help us use AI more wisely.",
+      "why_it_matters": "This is mostly philosophy and opinion — nothing you need to do right now."
     },
     {
-      "title": "Pope’s artificial intelligence guru admits he doesn’t use AI",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanJHdXBZUW52UDRES2l6Wk5OU3hVeVJvemdqSW9RSnJ4T0hzY0ZfOTM1YUFJLTUxNEpjNzJBeTZ1OGtBN0VSV1o0U2ktemJjekpueVo2ZDJEYlNTaHBSaWJBWFBnOTFoei1EdlEybWF4UldIcWFlUkNuTHlMSTZOUEFIRTc3UFlqTFBvQUJsYy10dTlYLXc?oc=5",
-      "source": "politico.eu",
-      "date": "2026-09-25T04:07:19.000Z",
-      "simple_summary": "The Pope's AI expert admitted in an interview that he doesn't actually use AI tools himself. This is somewhat ironic since his job is to give advice about AI.",
-      "why_it_matters": "This doesn't affect your daily life — it's mostly a funny story about what experts do versus what they preach."
+      "title": "Will AI kill us all? Doomsday Clock expert compares it to Manhattan Project",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2lWT3FydUYwU2QtX05Qd1dGcVZPOGlnMWs2cVRzMi1zN0xQN0N5M2kxaWpVcjFfZXJPb0Zqbks4eDc1LUZ2NHdMUWI5U3k3QkNUTmtzSFd2YVBqWG9rN0pBVHA2cXhMZng2SEI1d1FNRkswM2tKU3lDZ2p3QXlWVVB3dVk1ZGNKNVFPejE0Qm8xU01MQnhwVTctODZka21iNkxEejJKQ1N1Q0ZDVzM4bA?oc=5",
+      "source": "USA Today",
+      "date": "2026-09-25T09:06:00.000Z",
+      "simple_summary": "An expert warns that AI could be dangerous, and compares the worry to the risks people had with the atomic bomb.",
+      "why_it_matters": "This is a debate among experts about the future — most small businesses and retired people don't need to change anything today."
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch",
+      "date": "2026-09-25T05:00:00.000Z",
+      "simple_summary": "A big investment company is raising $250 million to invest in early-stage AI companies in India.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
       "title": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
       "source": "Fox News",
       "date": "2026-09-25T01:56:52.000Z",
-      "simple_summary": "Note: Headline 2 appears to be misleading clickbait lacking credible details. Treat with caution until verified by major news sources.",
-      "why_it_matters": "Be careful believing dramatic AI security stories without specifics — always check if major established news outlets are reporting the same story."
+      "simple_summary": "AI systems hacked a government website, which is concerning world leaders.",
+      "why_it_matters": "If true, this shows AI security is a real concern, but this headline lacks details and appears alarming — be skeptical of the source and wait for verification."
     },
     {
       "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "source": "The Verge",
       "date": "2026-09-24T19:59:26.000Z",
-      "simple_summary": "Google added a new feature where you can talk to their AI while watching a cartoon face on your screen that moves its lips and makes expressions. Right now, only big business customers can use it.",
-      "why_it_matters": "This is Google making their AI feel more like talking to a person — interesting but not something that affects most people yet."
+      "simple_summary": "Google's AI now has an animated face that you can talk to, and it will move its lips and make expressions while answering you.",
+      "why_it_matters": "This is a fancy new feature for large businesses right now — regular customers can't use it yet."
     },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
       "date": "2026-09-24T19:15:00.000Z",
-      "simple_summary": "This is an advertisement for a tech conference that's selling group discounts on tickets.",
-      "why_it_matters": "This is purely a sales promotion and doesn't involve any actual AI news — skip it."
+      "simple_summary": "A tech conference is offering a discount on tickets if you buy two passes.",
+      "why_it_matters": "This is just an advertisement for a conference — nothing you need to act on unless you want to attend."
     },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "source": "TechCrunch",
       "date": "2026-09-24T19:00:42.000Z",
-      "simple_summary": "A company called PrismML is putting tiny AI programs onto smart glasses made by Qualcomm. The goal is to make glasses smarter without needing them to connect to the internet constantly.",
-      "why_it_matters": "This could eventually make smart glasses actually useful for regular people instead of just expensive toys — but it's still in very early stages."
+      "simple_summary": "A company is putting small AI systems onto smart glasses made by Qualcomm, so the glasses can do tasks without needing to connect to the internet.",
+      "why_it_matters": "This is early technology that engineers care about — it doesn't affect most small businesses yet."
     },
     {
       "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
       "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
       "source": "TechCrunch",
       "date": "2026-09-24T18:11:44.000Z",
-      "simple_summary": "Oracle, a big tech company, just warned they might be late finishing a massive computer facility (data center) in New Mexico that won't be ready until 2028. This is important for their business contracts.",
-      "why_it_matters": "This mostly matters to investors and large companies that depend on Oracle — nothing you need to act on as a small business owner."
+      "simple_summary": "Oracle (a large tech company) says it might not finish building a giant data center in New Mexico on time, so it sent a legal notice to protect itself.",
+      "why_it_matters": "This mostly matters to investors and Oracle customers — nothing you need to act on."
     },
     {
       "title": "Jensen Huang talks about AI and climate change like a supervillain",
       "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "source": "The Verge",
       "date": "2026-09-24T18:04:44.000Z",
-      "simple_summary": "The CEO of Nvidia (a huge AI company) said that AI will help fight climate change, but getting there will be very difficult and cause disruption first. He sounded dramatic about it.",
-      "why_it_matters": "This is one executive's opinion about how AI might help the environment in the future — interesting to think about, but not something affecting you today."
+      "simple_summary": "The head of Nvidia says AI can help solve climate change, but it will be difficult and costly.",
+      "why_it_matters": "This is one executive's opinion on a future problem — nothing you need to do today."
     },
     {
       "title": "Meta is going to let you build games with AI right on your phone",
       "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
       "source": "The Verge",
       "date": "2026-09-24T17:52:29.000Z",
-      "simple_summary": "Meta (Facebook's parent company) is making tools so regular people can create simple video games using AI on their phones or web browser, without knowing how to code. The games would go on Meta's gaming platform.",
-      "why_it_matters": "If you're interested in making games as a hobby or small business, this could be a way to do it without learning programming — but it's only for Meta's platform."
+      "simple_summary": "Meta is making it easier for regular people to create games using AI, by offering phone and browser apps that let you describe what you want instead of coding it.",
+      "why_it_matters": "If you like making games or want to try game creation, this could be a fun tool in the future — but it's still quite new."
     },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "source": "TechCrunch",
       "date": "2026-09-24T17:39:24.000Z",
-      "simple_summary": "Meta created a small AI gadget shaped like a charm you hang on a bag or keychain (like the retro Tamagotchi toy). It looks cute but contains AI inside.",
-      "why_it_matters": "This is Meta selling a new toy gadget — interesting as a tech trend but not essential for most people."
+      "simple_summary": "Meta made a small AI gadget shaped like a Tamagotchi toy that can hang from your bag.",
+      "why_it_matters": "This is a fashion accessory for young people — probably not relevant to most small-business owners or retired people."
     },
     {
       "title": "Muse will apparently let you download its entire filesystem",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
       "source": "The Verge",
       "date": "2026-09-24T17:14:12.000Z",
-      "simple_summary": "Two developers discovered that Meta's new Muse gadget can be tricked into giving them access to all of its internal files, including secret instruction files and system information. This is a security problem.",
-      "why_it_matters": "If you're considering buying Muse or similar products, this shows the company may have security weaknesses — wait to see if Meta fixes this problem first."
-    },
-    {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "The Verge",
-      "date": "2026-09-24T17:10:38.000Z",
-      "simple_summary": "Meta's Muse AI gadget became very popular right after launch (topped the App Store charts) and has hundreds of thousands of daily users. Similar AI agent products are also becoming trendy.",
-      "why_it_matters": "This shows AI gadgets are becoming popular consumer products — it's mostly interesting news about tech trends, but doesn't require action on your part."
+      "simple_summary": "Two developers discovered that Meta's Muse gadget easily shares all of its internal files and code if asked, which is a security problem.",
+      "why_it_matters": "This shows that new AI gadgets may have security flaws — if you buy new tech, be cautious and wait for reviews."
     }
   ]
 }
