@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-28T23:18:49.152Z",
+  "generated_at": "2026-09-29T05:47:28.552Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI cancels new AI launch, citing safety issues",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaS1OamRFUFBDMjRRdVp6cWl6RDE3WHVZSFcyVUhzcFNKT2tXcXpMTWtvY3g5TU8yZjdDYjR0cUJYWEdMQ2NhVHBNNmg2RmIwZVBqSG9IYnZnWHhYWW8xZGJOTDdiLXBJUVB5emVPMUtFdFhmaXJ6aThMMldubkV1dmwwUGlydW8xMjBuby05MklnMGh6OVJlTkVibjVPemVWNU11cUsxbGRYT3lNdDdzOEM3Rzcwc2c?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-09-29T03:11:00.000Z",
+      "simple_summary": "OpenAI decided not to release a new AI tool they were working on because they worried it wasn't safe enough to use.",
+      "why_it_matters": "This shows AI companies are being more careful before releasing new products, which is good for everyone — but there's no immediate change for you."
+    },
+    {
+      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
+      "source": "AP News",
+      "date": "2026-09-29T01:56:00.000Z",
+      "simple_summary": "A religious leader said that worries about AI safety are real concerns, not false claims made up for publicity.",
+      "why_it_matters": "This is mostly a political statement — nothing you need to act on, though it reflects that AI safety is being taken seriously."
+    },
+    {
+      "title": "OpenAI scraps release of new AI model over safety concerns",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5",
+      "source": "CBC",
+      "date": "2026-09-29T01:35:00.000Z",
+      "simple_summary": "OpenAI canceled the release of a new AI model because of safety worries.",
+      "why_it_matters": "Same as headline 0 — shows responsible behavior, but no immediate effect on you."
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch",
+      "date": "2026-09-29T00:30:00.000Z",
+      "simple_summary": "A company that invests in new startups increased the amount of seed money (starting money) they'll give to new AI companies, and picked 18 new companies to support.",
+      "why_it_matters": "This mostly matters to investors and entrepreneurs — nothing you need to act on."
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-09-28T23:39:20.000Z",
+      "simple_summary": "OpenAI didn't release an AI model because it had trouble following instructions the way it should.",
+      "why_it_matters": "This is the same story as headlines 0 and 2 — nothing you need to do."
+    },
+    {
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHc1bGRRUWRVbGtPUkMtUFZnY1IwUXNvU3FDaUpfOEZ3b0VjbXA1QzlaZ1JtcDZrOGFuMmNPSWVubGM5UzhNbWh0WktpUjNPdE1Kd2N0VTVYdi04SHdmc2daQmhlYjhQMzNMTVdPZ2pPblViSy1TVlFTc0xGUHczVnd2N1ZZQzNyMDRpcUxPU2FCVG9PUnpjYUlmWnBoRU1pTjFmSmtzMUFYeFJzaXZVYnVDUWZZQWhNUmFXN0RR0gHDAUFVX3lxTE1JcnhhVWM0ZkU1UERKUThfYjR6TzBDRGx0WnFXQ3owVVFUV3J4aER6TGJjMUxmMW8tbUlIVWkyM1lHUkNPVjNSSUdLMklYM1h2ZjdJQWJIZDE3bE1Zb1dFaXM5V295X1o4ZHNkQ0tsMGNRbTFBWG5Kc0RMZmxXRlU1WEhVYUltWnVGb285QzVKYzZvbHBVOXBJQUxyQW5VZVlpbnNmWlByMWNrRExEdXphX0JFRU9rbzFpYmtHYUtnQVBlOA?oc=5",
+      "source": "PBS",
+      "date": "2026-09-28T22:28:00.000Z",
+      "simple_summary": "Two major AI companies are warning that AI safety is important and they want to help decide how AI should be controlled.",
+      "why_it_matters": "This shows the industry is thinking about safety, but there's no immediate action needed from you."
+    },
+    {
+      "title": "Nvidia announces new software to prevent AI agents from \"going rogue\"",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFFvNHQ0MERnZHRua19kM2xmSWJsUFJUTXRMVU04T0hYRUhpTko3UEUwVjFoZFl6WkVmalpzZ1NKdXpBTE1BMlQ5b3Jad2tWYjdDeGJzcEZRLWd2Z21uUlBmUTVDVmF5QVQ1YkpFTDczVUZQVUJVQUFwYUdZbVRDWlhocUk1Sm5vNDlZb3FwaUZtc3Bh?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-28T22:25:00.000Z",
+      "simple_summary": "Nvidia, a computer chip company, announced new safety tools to make sure AI systems don't make dangerous mistakes on their own.",
+      "why_it_matters": "This is technical work for engineers — nothing you need to worry about right now."
+    },
     {
       "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
       "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
       "source": "The Verge",
       "date": "2026-09-28T21:31:35.000Z",
-      "simple_summary": "AMD, a computer chip company, is buying World Labs, an AI research company, for about $8 billion. World Labs is a newer company that makes AI programs that can create imaginary worlds or scenes.",
-      "why_it_matters": "This mostly matters to investors and tech industry people — it doesn't directly change anything for regular small-business owners right now."
+      "simple_summary": "The computer chip company AMD is buying a newer AI research company for about $8.2 billion, and a famous AI researcher will join AMD's leadership.",
+      "why_it_matters": "This is a big business deal between tech companies — mostly important to investors, though it may eventually affect what AI tools become available."
     },
     {
-      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
-      "source": "AP News",
-      "date": "2026-09-28T20:23:00.000Z",
-      "simple_summary": "Nvidia (a big computer chip company) created new security tools to make sure AI agents (helpful computer programs that work on their own) don't do harmful things without permission.",
-      "why_it_matters": "If you use AI tools in your business, this makes them safer, but you probably won't notice the difference yourself."
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-09-28T21:29:18.000Z",
+      "simple_summary": "An AI infrastructure company raised a very large amount of investment money, making the company worth much more than it was just four months ago.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to do."
     },
     {
-      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHE2UEo1Zmg4SGhuWWJ1ZXRWNUFmUkFFUkNScDRjTWhNOHNvTEVnVnFXcnJ3NHlZN0tIYXczQmNFcU0xSmwyeUJKWEVsMzdWNndsS2lPRVoxRk9DanhnUnpQMnpuaG1kLXluY0xCY0NLMkxiSUNYQmlmVUNmV0tiUTZzS2JzS0tuVUdOWUx4NlJVY0NXZFhTVWpWNFcxc1Z5RTRuem81QXVVVksyV1pSbnRPU0ROazVFZm9TQm02a04?oc=5",
-      "source": "wral.com",
-      "date": "2026-09-28T20:13:30.000Z",
-      "simple_summary": "A religious leader said that worries about AI safety are real concerns, not fake news, disagreeing with what a political leader said.",
-      "why_it_matters": "This is mainly about what leaders are saying — it doesn't change how AI actually works or affects your daily life."
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
+      "date": "2026-09-28T20:39:33.000Z",
+      "simple_summary": "AMD is buying the AI company World Labs for $8.2 billion, and the company's founder will become a top executive at AMD.",
+      "why_it_matters": "This is the same story as headline 7 — a major business deal, mostly relevant to investors."
     },
     {
       "title": "Shopify opens checkout to browser-based AI agents",
       "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
       "source": "TechCrunch",
       "date": "2026-09-28T19:33:57.000Z",
-      "simple_summary": "Shopify (an online store platform) now lets AI agents help customers finish buying things on their website, if the customer agrees to it.",
-      "why_it_matters": "If you run a Shopify store, you could eventually use AI to help customers complete purchases faster, but this is still new and just being rolled out."
+      "simple_summary": "Shopify, which helps people run online shops, is allowing AI assistants to handle some customer checkout tasks (with the customer's permission).",
+      "why_it_matters": "If you use Shopify to sell online, this could eventually make checkout smoother for your customers, but you don't need to do anything now."
     },
     {
       "title": "AI godfathers warn of runaway ‘intelligence explosion’",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
       "source": "The Guardian",
       "date": "2026-09-28T19:29:00.000Z",
-      "simple_summary": "Famous AI researchers are warning that AI could become so smart and powerful it might grow out of control in unexpected ways.",
-      "why_it_matters": "This is experts talking about future risks — nothing you need to worry about doing differently in your business today."
-    },
-    {
-      "title": "Artificial intelligence is coming for Israel’s voters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFRScU9XY1lQUGNDMEpza1FBdWFfalh2RVZZN0FkU24xa3hMZFgxS3Nsa2ZMVDh1QzRIa3lGNDJBeEI5SGR0ZW8tY1FtdS1KQXB6LVJualVqbEpfd0E5ajlPYVFPalhhSTdVQVBfVjZDT1hSZ1JORFItb0Ezakk2ekpobHVLa0pkS09TVTZ4Ul9xRlpnVnRNbXN2dlRvWTJBYjY0c0w5WkNyb0R0ekZxSjNn?oc=5",
-      "source": "The Economist",
-      "date": "2026-09-28T18:49:18.000Z",
-      "simple_summary": "AI programs are being used to influence voters in Israel, like through targeted messages or fake information during elections.",
-      "why_it_matters": "This is a story about politics in another country — worth knowing about, but doesn't affect American small businesses."
-    },
-    {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "source": "The Verge",
-      "date": "2026-09-28T18:45:00.000Z",
-      "simple_summary": "OpenAI (the company that made ChatGPT) has been slower than competitors at building AI agents that work on their own, but they might announce a new one soon.",
-      "why_it_matters": "This mostly matters to investors watching tech companies compete — not something that changes how you'd use AI in a small business."
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "date": "2026-09-28T18:31:23.000Z",
-      "simple_summary": "Nvidia created new security tools and software to make sure AI agents that work independently stay safe and don't cause problems.",
-      "why_it_matters": "Similar to story #1 — this makes AI safer to use, but you probably won't notice the technical changes yourself."
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "source": "The Verge",
-      "date": "2026-09-28T18:30:00.000Z",
-      "simple_summary": "Bad actors are using AI to hack into hospitals and banks more easily, and many of these organizations haven't set up good defenses yet.",
-      "why_it_matters": "If your business handles sensitive customer information or works in healthcare, you should check that your computer security is strong and up to date."
-    },
-    {
-      "title": "Why AI Infrastructure Stocks Are Falling After OpenAI’s Latest Pause",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGhOV1lxU2ktTmVlZk8wNFNzbXlsU2J6cDFsbEhCZEY4c3NuTVpCY2huSk1CQlJwVWpodzJyeUplQzJNVzJkYXpwQVl6Y3M2TmN0amYxZEI3REktVHdmS0dVaUEzaUlGaDNLeF83dHRXUGpzajZybHIyMHg5Q0QxcG03TXBKNUxUMEZBbG0ybmstQm5UTmNR?oc=5",
-      "source": "Barron's",
-      "date": "2026-09-28T18:26:00.000Z",
-      "simple_summary": "The stock prices of companies that build AI computer chips and hardware have dropped recently, possibly because of news about OpenAI's progress.",
-      "why_it_matters": "This mostly matters to people with stock investments — unless you own these tech stocks, this doesn't affect your business."
-    },
-    {
-      "title": "Trump Admin Is Reportedly Giving FOIA Requests an AI Makeover",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW5TX1FHM1pJV2tnbFhzNEtXWXdaZUpCeHVibWE2TVR4ZjkzZXdMWEt0S1VWOV9kTUpaSlI1TGp4cldZZjdfNkxCUGplQzRpYW4wZHVlc1ltWmNDcnoxcmVWVUFFM2NOLWtYckU5ZURMQXdHS2t4dF8xMzRwLXBONEdkSzZENmtTaXBxZG1QUm5HMG0zTGw0?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-09-28T18:25:12.000Z",
-      "simple_summary": "The Trump administration is starting to use AI to help process FOIA requests (formal requests for government documents from the public).",
-      "why_it_matters": "This might make getting government documents slightly faster, but probably won't impact most small-business owners."
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "source": "TechCrunch",
-      "date": "2026-09-28T18:00:00.000Z",
-      "simple_summary": "Anthropic released a new version of its AI assistant that works faster and costs less money to use than before.",
-      "why_it_matters": "If you pay to use AI tools, you might save money, but this is mainly a tool for tech-savvy companies building AI products."
+      "simple_summary": "Prominent AI researchers are warning that AI could become so powerful it spirals beyond anyone's control.",
+      "why_it_matters": "This is a serious concern experts are raising, but it's mostly relevant to policymakers and companies building AI — not something ordinary people can act on today."
     }
   ]
 }
