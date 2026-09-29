@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-29T12:57:42.598Z",
+  "generated_at": "2026-09-29T22:19:05.294Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Inside the Biggest Feud in Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5",
-      "source": "The Atlantic",
-      "date": "2026-09-29T10:00:00.000Z",
-      "simple_summary": "There's a major disagreement happening between important people in the artificial intelligence industry.",
-      "why_it_matters": "This mostly matters to investors and tech workers — it won't affect your daily life or business operations right now."
+      "title": "Data centers are changing America's landscape, report says",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGl5TXlhTkREb0k5aGxVXzgtTDB6U003ODhDTzZkS3FwZlU1bzdBMF9jMFNMQ2s3MElJLVlrTDhBUURpZlZlZzFCUGhmU1psdXU5aG5IeEpvNFlHQ0p1ZHdEeXl3ZTJfMDNnN2RmcktmTjhFa1dXak8xa3E4ZUVVLQ?oc=5",
+      "source": "CBS News",
+      "date": "2026-09-29T21:51:55.000Z",
+      "simple_summary": "Large computer buildings that power AI and the internet are being built in many places across America and changing the areas around them.",
+      "why_it_matters": "This affects local communities where these buildings are built — they can bring jobs but also use lots of electricity and water, so it's worth paying attention if one is planned near you."
     },
     {
-      "title": "Top AI leaders to meet with Trump at White House amid dire warnings about technology",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHE4ODJZTmgwNDY3dGRXOW5IY3EzeVoyZlowcndmU0VuVEZKd1hVUGdfWkh5M0hfZWh2RW9ob2ZISEx1SjIyYjN4MFBNcHJvSFYyWHNINHRxdi1IVEdsNVQybzZ0TEtuQ3ZaOWFqRFo5SE5sRGxRdUppVEJxNUdOc3QzWXhIRFBEQ2QwRmlSSnRQOGxTZFNtQ0pJT3pNOVFDNWc?oc=5",
-      "source": "ABC7 Los Angeles",
-      "date": "2026-09-29T09:40:00.000Z",
-      "simple_summary": "Leaders of big AI companies are going to meet with the President at the White House to talk about their concerns about AI technology.",
-      "why_it_matters": "This mostly matters to investors and people in the tech industry — what government decides about AI rules could eventually affect small businesses, but nothing is happening yet."
+      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZw?oc=5",
+      "source": "CNBC",
+      "date": "2026-09-29T21:07:20.000Z",
+      "simple_summary": "OpenAI is now offering tools like Word and Excel that compete with Microsoft Office — software for writing documents and making spreadsheets.",
+      "why_it_matters": "If you use Microsoft Office for your business, you'll soon have another option, though it's too new to know yet if it's better or worse."
     },
     {
-      "title": "Slovenia sees surge in '.si' sites after Trump hypes 'super intelligence'",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnppeF9YUG1IMm5PZzJFOW9WMXBUMHQ1eUEzaVU5TmN4V1IzMXBLYkw2d3Bib0lJcjM0cGlLSjNiQkkxX3VWYl9rWkc3U2FKb2FQSTNQTkZybVdNTUFaaE1fVFgybDczQXMwRkF3NU5sYnN1a0NkWmFvRXYtaHFYVzEyWDVUTzRUX2hiZ1ZB?oc=5",
-      "source": "Yahoo",
-      "date": "2026-09-29T09:28:51.000Z",
-      "simple_summary": "People are buying websites ending in '.si' (which is for Slovenia) thinking they can use 'si' as shorthand for 'super intelligence,' after someone mentioned 'super intelligence' in the news.",
-      "why_it_matters": "This is a funny internet quirk with no real impact on you or your business."
+      "title": "OpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5idERPZWJyRmd3emJFdjh2SkNZank1Wnc0aVlJYi1ENFlxbS1vLTc3SEVOWkRvSEZkSEtMdFE5MmJYOEVEdmdzbEJDLWxwa0N1ZTZzSDUza2lKNGpNNmRUaUw0TVFKT1lvcEs1ZXN3bUJJM2kzaW5v0gF8QVVfeXFMTXRqSjVPc2kteE1lTjI4YjJ5QWZKV3plRlliV3FqZ05sRWZfR3hVZkFLUHdPaWxRZmltNDEzM2lHRk02RWJCbTAtYUJmYU5CUm5NS2p5T3lYaC0tM0FTZDhjdXZWalV6OUNYR0hEblN1dEhCNU1kb1U3U3E5Ng?oc=5",
+      "source": "CNBC",
+      "date": "2026-09-29T21:03:00.000Z",
+      "simple_summary": "OpenAI (the company behind ChatGPT) showed off new features at an event and talked about possibly becoming a public company that anyone can invest in.",
+      "why_it_matters": "This mostly matters to investors and people who work in tech — not something an ordinary person needs to act on right now."
     },
     {
-      "title": "As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTVuR2lRaEpBUEYzc1YzZk1fM0hGel9MQ3RNelA2NU9lNGRjbzYtbDVrd3I4N2dvRHdDSHBqYVdQdFdnME1HQXlVbzhZQTMxR3p3R01GZWl4QWIzMm1rTlNQaG9rRHFRRkttRUZPaGJLM1lUSks5ZlphR2EtbFhJNXRveGpJUQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-29T09:03:12.000Z",
-      "simple_summary": "Argentina's leader is trying to attract AI companies by saying the country will have fewer rules and regulations for them.",
-      "why_it_matters": "This is mostly about international business and politics — nothing you need to worry about unless you're involved in very large tech investments."
+      "title": "Pope Leo Contradicts Trump, Says Artificial Intelligence Safety Concerns Are Not 'Fake News'",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaU9wcEY3SHNIcnlndThBaUZpQTI2aVcyZEtmdTJVRGFGN1ZFV0JBbjhvNXhzNGY3NmczRHo1RkhocVVsRkdRQWZYT0oydDRzQm5RTG1SM1Z6SkVtWGZfb3hvZ3FvQ3hEaFBjMXZuM0ZhZFpvN01oM29IVFpMQXJCb2M1b3VEMWM?oc=5",
+      "source": "yahoo.com",
+      "date": "2026-09-29T19:57:44.000Z",
+      "simple_summary": "A religious leader disagreed with a politician about whether AI safety concerns are real or not, saying the concerns are valid.",
+      "why_it_matters": "This is a public debate about whether we should worry about AI risks — honest people disagree, but it doesn't change what you should do today."
     },
     {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "source": "TechCrunch",
-      "date": "2026-09-29T05:13:43.000Z",
-      "simple_summary": "An AI company called Anthropic is losing enormous amounts of money each year but is also growing very fast. They also warned investors that their AI technology itself could theoretically pose risks to humanity.",
-      "why_it_matters": "The money-losing part is normal for young tech companies trying to grow — this mostly matters to investors. The warning about AI risks is honest, but doesn't mean anything bad is happening right now."
+      "date": "2026-09-29T19:52:37.000Z",
+      "simple_summary": "OpenAI is trying to raise a huge amount of money ($30 billion) from investors before the company goes public in 2027.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5",
-      "source": "BBC",
-      "date": "2026-09-29T04:30:13.000Z",
-      "simple_summary": "OpenAI decided not to release a new AI model because they had safety concerns about how it worked.",
-      "why_it_matters": "This shows AI companies are taking safety seriously before releasing products to the public, which is a good sign."
+      "title": "Cruz blocks Senate Democrats’ bid to pass AI safety bill",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWxPN3BfV1JtdGw5cW9JUjJVMkgxVHl4WEJpQm1vcmNNZ1Z3QlFyaWh6eFZQeFZGbVNmYVVZT0lHVnpFODI5Rk5paXNZclJPbFR6RGdmdEtVWXlOMkhIX1lfQ0czYVp0ZndnWGZTZGdId0JRZGlLUmRHTkNnR0tBblpQTFYwRlNYN09sYXdma2F4eXBTSGJMMUM2el94cE5wTUN5NW14dHllQ3FiQ1JldjRMMGQtTk01Mk9VSXpwaw?oc=5",
+      "source": "Politico",
+      "date": "2026-09-29T18:55:19.000Z",
+      "simple_summary": "A senator blocked a bill that would have made rules about keeping AI safe.",
+      "why_it_matters": "This means America probably won't get new AI safety rules soon — a policy decision that affects the whole country, but not something a small business owner needs to handle immediately."
     },
     {
-      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
-      "source": "AP News",
-      "date": "2026-09-29T01:56:00.000Z",
-      "simple_summary": "The Pope said that worries about AI safety are legitimate concerns, not fake or made-up news.",
-      "why_it_matters": "This is mostly a statement about the conversation people are having — it doesn't change anything practical for your business or life."
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "source": "TechCrunch",
-      "date": "2026-09-29T00:30:00.000Z",
-      "simple_summary": "An investment company is funding a group of 18 new AI startups (mostly in India) with money to help them grow.",
-      "why_it_matters": "This mostly matters to investors and people starting tech companies — nothing that affects ordinary small-business owners."
+      "date": "2026-09-29T18:35:00.000Z",
+      "simple_summary": "OpenAI is not publicly supporting a safety project from another company, but is working with them behind the scenes.",
+      "why_it_matters": "This mostly matters to tech engineers and investors — it's a business relationship between big companies."
     },
     {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
       "source": "TechCrunch",
-      "date": "2026-09-28T23:39:20.000Z",
-      "simple_summary": "OpenAI canceled releasing an AI model because it wasn't following instructions the way it should.",
-      "why_it_matters": "Like the earlier OpenAI story, this shows responsible AI companies testing their products carefully before releasing them."
+      "date": "2026-09-29T17:45:51.000Z",
+      "simple_summary": "OpenAI is now offering tools like Word and Excel that compete with Microsoft Office — software for writing documents and making spreadsheets.",
+      "why_it_matters": "If you use Microsoft Office for your business, you'll soon have another option, though it's too new to know yet if it's better or worse."
     },
     {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge",
-      "date": "2026-09-28T21:31:35.000Z",
-      "simple_summary": "A large computer chip company (AMD) is buying a smaller AI research company (World Labs) for about $8.2 billion.",
-      "why_it_matters": "This is mostly about large corporate investments and industry changes — nothing you need to act on as a small-business owner."
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "source": "TechCrunch",
-      "date": "2026-09-28T21:29:18.000Z",
-      "simple_summary": "An AI infrastructure company (Modal Labs) is raising new investment money at a value three times higher than it was four months ago.",
-      "why_it_matters": "This is mostly relevant to investors and tech people — the startup world moves fast, but this doesn't affect everyday businesses."
+      "date": "2026-09-29T17:20:00.000Z",
+      "simple_summary": "A startup that makes AI apps is changing its focus to be more like a personal AI assistant you chat with that also performs tasks.",
+      "why_it_matters": "This is a startup change — mostly relevant to investors and tech workers, not affecting ordinary small businesses right now."
     },
     {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "source": "TechCrunch",
-      "date": "2026-09-28T20:39:33.000Z",
-      "simple_summary": "AMD is purchasing an AI company called World Labs for $8.2 billion, and the company's founder will become a top scientist at AMD.",
-      "why_it_matters": "This is mostly about corporate deals and industry reshuffling — nothing you need to worry about as a regular business owner."
+      "date": "2026-09-29T17:17:15.000Z",
+      "simple_summary": "OpenAI created something called 'Dots' — little AI helpers that work in the background on your computer or phone to do ongoing tasks you ask them to do.",
+      "why_it_matters": "This is new and experimental — it's too early to know if it will be useful for real small business work."
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch",
+      "date": "2026-09-29T17:15:00.000Z",
+      "simple_summary": "OpenAI released a new version of its AI software (called GPT-6.1 Sol) that does complex work like writing computer code and organizing documents better than before, and it's cheaper to use.",
+      "why_it_matters": "If you use OpenAI's services for professional tasks, this update gives you a faster and cheaper option — worth knowing about if you're already using their tools."
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch",
+      "date": "2026-09-29T17:15:00.000Z",
+      "simple_summary": "ChatGPT is getting new add-on features that make it work more like a full software program with buttons, panels, and the ability to automate repetitive tasks.",
+      "why_it_matters": "If you use ChatGPT regularly, these features will make it more useful for doing real business work like organizing files and repeating tasks automatically."
     }
   ]
 }
