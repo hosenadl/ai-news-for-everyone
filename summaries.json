@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-29T05:47:28.552Z",
+  "generated_at": "2026-09-29T12:57:42.598Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "OpenAI cancels new AI launch, citing safety issues",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaS1OamRFUFBDMjRRdVp6cWl6RDE3WHVZSFcyVUhzcFNKT2tXcXpMTWtvY3g5TU8yZjdDYjR0cUJYWEdMQ2NhVHBNNmg2RmIwZVBqSG9IYnZnWHhYWW8xZGJOTDdiLXBJUVB5emVPMUtFdFhmaXJ6aThMMldubkV1dmwwUGlydW8xMjBuby05MklnMGh6OVJlTkVibjVPemVWNU11cUsxbGRYT3lNdDdzOEM3Rzcwc2c?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-29T03:11:00.000Z",
-      "simple_summary": "OpenAI decided not to release a new AI tool they were working on because they worried it wasn't safe enough to use.",
-      "why_it_matters": "This shows AI companies are being more careful before releasing new products, which is good for everyone — but there's no immediate change for you."
+      "title": "Inside the Biggest Feud in Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5",
+      "source": "The Atlantic",
+      "date": "2026-09-29T10:00:00.000Z",
+      "simple_summary": "There's a major disagreement happening between important people in the artificial intelligence industry.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it won't affect your daily life or business operations right now."
+    },
+    {
+      "title": "Top AI leaders to meet with Trump at White House amid dire warnings about technology",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHE4ODJZTmgwNDY3dGRXOW5IY3EzeVoyZlowcndmU0VuVEZKd1hVUGdfWkh5M0hfZWh2RW9ob2ZISEx1SjIyYjN4MFBNcHJvSFYyWHNINHRxdi1IVEdsNVQybzZ0TEtuQ3ZaOWFqRFo5SE5sRGxRdUppVEJxNUdOc3QzWXhIRFBEQ2QwRmlSSnRQOGxTZFNtQ0pJT3pNOVFDNWc?oc=5",
+      "source": "ABC7 Los Angeles",
+      "date": "2026-09-29T09:40:00.000Z",
+      "simple_summary": "Leaders of big AI companies are going to meet with the President at the White House to talk about their concerns about AI technology.",
+      "why_it_matters": "This mostly matters to investors and people in the tech industry — what government decides about AI rules could eventually affect small businesses, but nothing is happening yet."
+    },
+    {
+      "title": "Slovenia sees surge in '.si' sites after Trump hypes 'super intelligence'",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnppeF9YUG1IMm5PZzJFOW9WMXBUMHQ1eUEzaVU5TmN4V1IzMXBLYkw2d3Bib0lJcjM0cGlLSjNiQkkxX3VWYl9rWkc3U2FKb2FQSTNQTkZybVdNTUFaaE1fVFgybDczQXMwRkF3NU5sYnN1a0NkWmFvRXYtaHFYVzEyWDVUTzRUX2hiZ1ZB?oc=5",
+      "source": "Yahoo",
+      "date": "2026-09-29T09:28:51.000Z",
+      "simple_summary": "People are buying websites ending in '.si' (which is for Slovenia) thinking they can use 'si' as shorthand for 'super intelligence,' after someone mentioned 'super intelligence' in the news.",
+      "why_it_matters": "This is a funny internet quirk with no real impact on you or your business."
+    },
+    {
+      "title": "As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTVuR2lRaEpBUEYzc1YzZk1fM0hGel9MQ3RNelA2NU9lNGRjbzYtbDVrd3I4N2dvRHdDSHBqYVdQdFdnME1HQXlVbzhZQTMxR3p3R01GZWl4QWIzMm1rTlNQaG9rRHFRRkttRUZPaGJLM1lUSks5ZlphR2EtbFhJNXRveGpJUQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-09-29T09:03:12.000Z",
+      "simple_summary": "Argentina's leader is trying to attract AI companies by saying the country will have fewer rules and regulations for them.",
+      "why_it_matters": "This is mostly about international business and politics — nothing you need to worry about unless you're involved in very large tech investments."
+    },
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch",
+      "date": "2026-09-29T05:13:43.000Z",
+      "simple_summary": "An AI company called Anthropic is losing enormous amounts of money each year but is also growing very fast. They also warned investors that their AI technology itself could theoretically pose risks to humanity.",
+      "why_it_matters": "The money-losing part is normal for young tech companies trying to grow — this mostly matters to investors. The warning about AI risks is honest, but doesn't mean anything bad is happening right now."
+    },
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5",
+      "source": "BBC",
+      "date": "2026-09-29T04:30:13.000Z",
+      "simple_summary": "OpenAI decided not to release a new AI model because they had safety concerns about how it worked.",
+      "why_it_matters": "This shows AI companies are taking safety seriously before releasing products to the public, which is a good sign."
     },
     {
       "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
       "source": "AP News",
       "date": "2026-09-29T01:56:00.000Z",
-      "simple_summary": "A religious leader said that worries about AI safety are real concerns, not false claims made up for publicity.",
-      "why_it_matters": "This is mostly a political statement — nothing you need to act on, though it reflects that AI safety is being taken seriously."
-    },
-    {
-      "title": "OpenAI scraps release of new AI model over safety concerns",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5",
-      "source": "CBC",
-      "date": "2026-09-29T01:35:00.000Z",
-      "simple_summary": "OpenAI canceled the release of a new AI model because of safety worries.",
-      "why_it_matters": "Same as headline 0 — shows responsible behavior, but no immediate effect on you."
+      "simple_summary": "The Pope said that worries about AI safety are legitimate concerns, not fake or made-up news.",
+      "why_it_matters": "This is mostly a statement about the conversation people are having — it doesn't change anything practical for your business or life."
     },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "source": "TechCrunch",
       "date": "2026-09-29T00:30:00.000Z",
-      "simple_summary": "A company that invests in new startups increased the amount of seed money (starting money) they'll give to new AI companies, and picked 18 new companies to support.",
-      "why_it_matters": "This mostly matters to investors and entrepreneurs — nothing you need to act on."
+      "simple_summary": "An investment company is funding a group of 18 new AI startups (mostly in India) with money to help them grow.",
+      "why_it_matters": "This mostly matters to investors and people starting tech companies — nothing that affects ordinary small-business owners."
     },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
       "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
       "source": "TechCrunch",
       "date": "2026-09-28T23:39:20.000Z",
-      "simple_summary": "OpenAI didn't release an AI model because it had trouble following instructions the way it should.",
-      "why_it_matters": "This is the same story as headlines 0 and 2 — nothing you need to do."
-    },
-    {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHc1bGRRUWRVbGtPUkMtUFZnY1IwUXNvU3FDaUpfOEZ3b0VjbXA1QzlaZ1JtcDZrOGFuMmNPSWVubGM5UzhNbWh0WktpUjNPdE1Kd2N0VTVYdi04SHdmc2daQmhlYjhQMzNMTVdPZ2pPblViSy1TVlFTc0xGUHczVnd2N1ZZQzNyMDRpcUxPU2FCVG9PUnpjYUlmWnBoRU1pTjFmSmtzMUFYeFJzaXZVYnVDUWZZQWhNUmFXN0RR0gHDAUFVX3lxTE1JcnhhVWM0ZkU1UERKUThfYjR6TzBDRGx0WnFXQ3owVVFUV3J4aER6TGJjMUxmMW8tbUlIVWkyM1lHUkNPVjNSSUdLMklYM1h2ZjdJQWJIZDE3bE1Zb1dFaXM5V295X1o4ZHNkQ0tsMGNRbTFBWG5Kc0RMZmxXRlU1WEhVYUltWnVGb285QzVKYzZvbHBVOXBJQUxyQW5VZVlpbnNmWlByMWNrRExEdXphX0JFRU9rbzFpYmtHYUtnQVBlOA?oc=5",
-      "source": "PBS",
-      "date": "2026-09-28T22:28:00.000Z",
-      "simple_summary": "Two major AI companies are warning that AI safety is important and they want to help decide how AI should be controlled.",
-      "why_it_matters": "This shows the industry is thinking about safety, but there's no immediate action needed from you."
-    },
-    {
-      "title": "Nvidia announces new software to prevent AI agents from \"going rogue\"",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFFvNHQ0MERnZHRua19kM2xmSWJsUFJUTXRMVU04T0hYRUhpTko3UEUwVjFoZFl6WkVmalpzZ1NKdXpBTE1BMlQ5b3Jad2tWYjdDeGJzcEZRLWd2Z21uUlBmUTVDVmF5QVQ1YkpFTDczVUZQVUJVQUFwYUdZbVRDWlhocUk1Sm5vNDlZb3FwaUZtc3Bh?oc=5",
-      "source": "CBS News",
-      "date": "2026-09-28T22:25:00.000Z",
-      "simple_summary": "Nvidia, a computer chip company, announced new safety tools to make sure AI systems don't make dangerous mistakes on their own.",
-      "why_it_matters": "This is technical work for engineers — nothing you need to worry about right now."
+      "simple_summary": "OpenAI canceled releasing an AI model because it wasn't following instructions the way it should.",
+      "why_it_matters": "Like the earlier OpenAI story, this shows responsible AI companies testing their products carefully before releasing them."
     },
     {
       "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
       "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
       "source": "The Verge",
       "date": "2026-09-28T21:31:35.000Z",
-      "simple_summary": "The computer chip company AMD is buying a newer AI research company for about $8.2 billion, and a famous AI researcher will join AMD's leadership.",
-      "why_it_matters": "This is a big business deal between tech companies — mostly important to investors, though it may eventually affect what AI tools become available."
+      "simple_summary": "A large computer chip company (AMD) is buying a smaller AI research company (World Labs) for about $8.2 billion.",
+      "why_it_matters": "This is mostly about large corporate investments and industry changes — nothing you need to act on as a small-business owner."
     },
     {
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
       "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
       "source": "TechCrunch",
       "date": "2026-09-28T21:29:18.000Z",
-      "simple_summary": "An AI infrastructure company raised a very large amount of investment money, making the company worth much more than it was just four months ago.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to do."
+      "simple_summary": "An AI infrastructure company (Modal Labs) is raising new investment money at a value three times higher than it was four months ago.",
+      "why_it_matters": "This is mostly relevant to investors and tech people — the startup world moves fast, but this doesn't affect everyday businesses."
     },
     {
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
       "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
       "source": "TechCrunch",
       "date": "2026-09-28T20:39:33.000Z",
-      "simple_summary": "AMD is buying the AI company World Labs for $8.2 billion, and the company's founder will become a top executive at AMD.",
-      "why_it_matters": "This is the same story as headline 7 — a major business deal, mostly relevant to investors."
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch",
-      "date": "2026-09-28T19:33:57.000Z",
-      "simple_summary": "Shopify, which helps people run online shops, is allowing AI assistants to handle some customer checkout tasks (with the customer's permission).",
-      "why_it_matters": "If you use Shopify to sell online, this could eventually make checkout smoother for your customers, but you don't need to do anything now."
-    },
-    {
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-28T19:29:00.000Z",
-      "simple_summary": "Prominent AI researchers are warning that AI could become so powerful it spirals beyond anyone's control.",
-      "why_it_matters": "This is a serious concern experts are raising, but it's mostly relevant to policymakers and companies building AI — not something ordinary people can act on today."
+      "simple_summary": "AMD is purchasing an AI company called World Labs for $8.2 billion, and the company's founder will become a top scientist at AMD.",
+      "why_it_matters": "This is mostly about corporate deals and industry reshuffling — nothing you need to worry about as a regular business owner."
     }
   ]
 }
