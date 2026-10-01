@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-01T06:00:36.905Z",
+  "generated_at": "2026-10-01T13:22:15.648Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Letters | Hong Kong need not build its ‘AI City Brain’ from scratch",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS3dFR3pJVUdpVWVwM1JxeGNRUU5yb1dJSXdUTzZ0VXdsTFVnYjZmZDFPdW5Ba0N1clh4Z1MyYk1yVTdEVEwwQ014THh2X3NFSjJWQUZTaHBudW1EQTVZcVBxc0dieFNGZFExVFp0WldOdXkxaHQ3b0hTU1ozdW5oU2s5V1ppTXV3dDNYS3pMc1VRRXdGYm5kR2x1RzBBVTA2V2lkcXA2YzhQX09RWmU1N08yazVHamV6T0doQWJCRDZzajRQSlIwYy03djFuaHZGV2RqbQ?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-10-01T03:30:07.000Z",
-      "simple_summary": "A newspaper opinion piece discusses whether Hong Kong should build its own AI city system or use existing technology from elsewhere.",
-      "why_it_matters": "This mostly concerns government leaders in Hong Kong — nothing you need to act on."
+      "title": "A Hacking Competition Shows the Power of China’s ‘Open Weight’ A.I.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDRiay1mS2VPaElGTE93M29nWndFc3RLb1ZYTk9BdnhHYzE0eXNDZEhrVC1lcDhwOTZjTUFMeUpGQ2xQSzVIbTd6LUh6c0FoQ2hCNlluZVBoRHJVa0c4RHJhblNYc1FPaVdQZEM4eWhRMWhkMnZGRFpnLTlUQ0tEQU5ZRG5Oc0l5ci1v?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-01T13:00:13.000Z",
+      "simple_summary": "China has created a very powerful AI system that can be modified and improved by users. A hacking competition showed how good it is at solving difficult problems.",
+      "why_it_matters": "This mostly matters to tech investors and governments tracking AI development — nothing you need to act on personally."
     },
     {
-      "title": "War of words: Newsom orders California to say AI after Trump’s ‘superintelligence’ decree",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSF9ZMHZBcldKLUJtdzB6cUJmUV9PXzJwTV9MVEpNX25yWWVqTUNFaDEyTGEwZE5KbkhaX3lHOE5qcFNqZUFfcGFnZ2gteGN4ak5PUWJMenlqUnpfN0pJNHZtX0tBdG9zeVp0bVdsMFFQaGp2TFNMYXFtOGFuV3V2MTZSNEp6bUpxUnRHUzBoVXNnT2VicngxOXpvNzV2V05xZDh1MWc3bHVfVzgwa2g5Vk9yWFctbjJoU1FVS2g2X1ZQYjZHUWFjeW9DYXU4bzlv?oc=5",
-      "source": "Politico",
-      "date": "2026-10-01T02:34:00.000Z",
-      "simple_summary": "California's governor is disagreeing with another leader about what to call advanced AI technology.",
-      "why_it_matters": "This is a political disagreement about words — it doesn't affect how AI works or how you'd use it."
+      "title": "Cardinal Fernández on the complementarity of humanity and AI",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb19EbFJjTkVHYVpieEh5WFlmeVFHdnBIN0s0TmZFSV9WZkRfU0pnem1HbzFzSFZZSmFQMGNuVW14VWE5bXRWNURjQmxYMy1WM1pVblg4Mjc5blBNVFR1czk2aFc2MlFCWXQxY2RsN2puZ3JobUhIMHhHOWowOS1vV3NkVjVJZWpNTTZET0MyM0gzOGl3ZG1HNl9MYV9OblVsNFNFTEw2aUZtUF9wTEZnWlNLZGVtMzRma1E?oc=5",
+      "source": "Vatican News",
+      "date": "2026-10-01T12:53:07.000Z",
+      "simple_summary": "A Vatican official discussed how humans and AI can work together and help each other.",
+      "why_it_matters": "This is mainly philosophical discussion — it doesn't affect your daily life or business right now."
+    },
+    {
+      "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-01T11:20:15.000Z",
+      "simple_summary": "SpaceX is planning to launch Google's AI computer chips into space to create data centers that work from orbit (high above Earth).",
+      "why_it_matters": "This mostly matters to investors and tech companies — it won't change how you use AI anytime soon."
+    },
+    {
+      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-01T11:19:13.000Z",
+      "simple_summary": "Chinese hackers pretended to be a former US government official in order to steal emails from people who work with AI.",
+      "why_it_matters": "This is a reminder that if you work in technology or receive unusual emails asking for access or information, be very careful about who you trust."
+    },
+    {
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bVJ0cDhPOWNsbndsN0FHTURoM3VnWGhUY2ZtaEoxbGd2cFh4NlpRelFTVi1CUkRTWjZGeVRBM1YwSDZkdFowQ1dBa3p5UWFZaklSMzZqRkplR1E?oc=5",
+      "source": "BBC",
+      "date": "2026-10-01T10:05:25.000Z",
+      "simple_summary": "The Bank of England's leader warned that the rapid growth of AI could cause sudden shocks or crashes in financial markets, similar to how the stock market can suddenly drop.",
+      "why_it_matters": "If you have retirement savings or investments, this is worth noting — major AI changes could affect markets, though this kind of warning happens often."
+    },
+    {
+      "title": "Do AI and air traffic control mix? CEO addresses anxiety about new FAA tool",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FiV1BrVzlJdWV3MzRteXVxRzZvaXJBOUczcExoVGFNMzlFX3A0V3dsX2RxUkt3TXotY3lvazBwNnVCTXZLTHF5UUdiQXN2TnE2WEpMbXlDUUlpMV9jSEh3WjNsVDFUNzRCMURIRi1TM3ZteTZxclk0T1pieno1MVQ2SUprbWM?oc=5",
+      "source": "NPR",
+      "date": "2026-10-01T09:00:00.000Z",
+      "simple_summary": "Airlines and the FAA are using new AI tools to help manage airplane traffic in the sky, but some people worry about whether it's safe.",
+      "why_it_matters": "If you fly, this affects the safety systems around your flights — generally these AI tools are built to be very safe, and the FAA is careful about testing them."
     },
     {
       "title": "FTC launches broad investigation into Anthropic, OpenAI",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "date": "2026-10-01T00:26:52.000Z",
-      "simple_summary": "The government's consumer protection agency is investigating whether AI companies OpenAI and Anthropic are following the law.",
-      "why_it_matters": "These investigations help make sure AI companies treat customers fairly, though the results will take time."
+      "simple_summary": "The US government's Federal Trade Commission (FTC) is investigating two major AI companies — Anthropic and OpenAI — to see if they're treating customers fairly.",
+      "why_it_matters": "If you use ChatGPT or similar AI tools, the government is checking to make sure these companies aren't doing anything unfair or deceptive."
     },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
       "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
       "source": "The Verge",
       "date": "2026-10-01T00:23:45.000Z",
-      "simple_summary": "Elon Musk's company SpaceX released an updated version of an AI encyclopedia website with a new look and logo.",
-      "why_it_matters": "This is one of many AI encyclopedias being built — it's interesting but doesn't affect your daily life yet."
-    },
-    {
-      "title": "'Poured jet fuel on AI:' NC's secret weapon for faster audits as experts urge human oversight",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeklsTHhpZlJDc3JTSmdfV3pheDVKeEhCNUVoVUY4enpLcmdjWHFNdmxlakVZVjBjMWFqMC1iLUlXdEdRbWllV2lHVnB3dHNEZlNsYWRrbXZvbHM0N2lydkdONUxpWW9aVGdSZWNZSVNKY0lNQ0hLaUttUzZwUy1GUnlma0lJdFNqbTNJYV9TVVRnLVdKOElaY1N1aUZ6Qnh3VmYwVy1Icw?oc=5",
-      "source": "WRAL",
-      "date": "2026-10-01T00:03:13.000Z",
-      "simple_summary": "North Carolina is using AI to speed up government audits (checking that money is spent correctly), but experts want humans to double-check the results.",
-      "why_it_matters": "This could make government work faster and catch mistakes better, though humans should still verify what the AI finds."
+      "simple_summary": "Elon Musk's Grokipedia, which is like Wikipedia but powered by AI, has a new updated look with new colors and buttons.",
+      "why_it_matters": "If you use Grokipedia to look things up online, it got a small redesign — this is like when a restaurant rearranges its menu but the food is the same."
     },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "source": "TechCrunch",
       "date": "2026-09-30T23:43:07.000Z",
-      "simple_summary": "Google released a new, more powerful version of its AI tool called Gemini, designed to help with computer coding and cybersecurity.",
-      "why_it_matters": "This matters to tech professionals and large companies — most small-business owners won't directly use this."
-    },
-    {
-      "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tTGxKSzNJQXdUNERtQ3VkbDlzRlkzSnhmak5GazMzeDZuNGM3VGRpSUNWNnc4ZHlPR05fRXpBZXNZbWsyZEx1QkkzT0syOElSd0JVb0lPWGRhbEktb1pxZmt6RmRPN1pIOHNnbGZ1c1MyV1VSSGfSAXtBVV95cUxOcEM3Qm05elRYTG9CMjNJVWk0MENyU3JzczhJVHc0TTQwZTBvT3VjV1pzNDA3QVNuZGRzUlUyem40dmlLZWcyX05iX2dBZXZCcXpxRHpESUFHNGtqWE0zclZNZFRvSTBBSVVibnBwWnk4ZExtTk9CTTA3TkU?oc=5",
-      "source": "CNBC",
-      "date": "2026-09-30T23:29:58.000Z",
-      "simple_summary": "California passed a new law banning \"robot bosses\" (AI systems making all the employment decisions) and the governor agreed to it after earlier saying no.",
-      "why_it_matters": "If you have employees or might hire workers, this law protects workers from being treated unfairly by AI alone — a human must be involved in major job decisions."
-    },
-    {
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?oc=5",
-      "source": "BBC",
-      "date": "2026-09-30T23:25:23.000Z",
-      "simple_summary": "China is restricting how AI can be used in romantic or relationship-based services and conversations.",
-      "why_it_matters": "This mostly affects tech companies operating in China — it doesn't affect you unless you use Chinese AI dating or companion services."
+      "simple_summary": "Google released a new, more powerful version of its AI tool called Gemini 4 Argon that's especially good at writing computer code and finding security problems.",
+      "why_it_matters": "This matters mainly to computer programmers and security experts — most everyday users won't notice a big difference."
     },
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "source": "TechCrunch",
       "date": "2026-09-30T21:07:40.000Z",
-      "simple_summary": "Several investment groups are giving $750 million to a startup making AI tools for designing computer hardware.",
-      "why_it_matters": "This mostly matters to investors and engineers — it's not relevant to typical small-business owners."
+      "simple_summary": "Investors gave a startup called Flow Engineering $750 million in funding to develop AI tools that help design computer hardware.",
+      "why_it_matters": "This mostly matters to investors — it shows tech funding keeps flowing, but it won't affect your business unless you design computer chips."
     },
     {
       "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
       "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
       "source": "The Verge",
       "date": "2026-09-30T20:41:41.000Z",
-      "simple_summary": "Google released a powerful new AI tool for software engineers, lawyers, and cybersecurity experts, but only certain trusted professionals can use it right now.",
-      "why_it_matters": "Unless you're a software engineer or cybersecurity specialist, this doesn't affect you yet."
-    },
-    {
-      "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qOC1wNW5jazhaTWJ0RFNBZGkwYlJMQnRXT1F6Z01PU0pWTEJEaHFUQkxfR1pLU2MzWl9QU2swZi1FN3FmbEUwOTJyeDFzVlF2YlFmcVd3eW1sbEJBcUo1RUpyX2FCQV90OUhXRVpNX0NrUEc0c3UwZVR3?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-30T20:36:37.000Z",
-      "simple_summary": "U.S. Congress is leaving to campaign for elections without passing any new laws about AI regulation.",
-      "why_it_matters": "This means there will be no new national rules on AI from the government for now — regulations stay as they are."
+      "simple_summary": "Google announced its new powerful AI called Gemini 4 Argon, but they're only letting certain trusted security experts use it right now, not the public.",
+      "why_it_matters": "This is a limited release for specialists — regular people and small businesses won't have access to this version yet."
     },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
       "source": "blog.google",
       "date": "2026-09-30T20:06:23.000Z",
-      "simple_summary": "Google announced details about a new advanced AI model called Gemini 4 Argon that it says represents the next big step forward.",
-      "why_it_matters": "This is one of many powerful AI tools being released — it's similar to earlier announcements from Google and other companies."
+      "simple_summary": "Google published details about its newest AI frontier model, Gemini 4 Argon, explaining what it can do.",
+      "why_it_matters": "This is Google's official announcement about their advanced AI — for most small business owners, these powerful versions aren't available yet."
     }
   ]
 }
