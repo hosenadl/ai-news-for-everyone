@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-30T22:18:45.549Z",
+  "generated_at": "2026-10-01T06:00:36.905Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T19:00:57.000Z",
-      "simple_summary": "OpenAI made a new tool called the Decisions API that helps AI systems make fast choices without using expensive computer power. This is mainly of interest to engineers and companies building AI systems.",
-      "why_it_matters": "This mostly matters to investors and engineers — nothing you need to act on."
+      "title": "Letters | Hong Kong need not build its ‘AI City Brain’ from scratch",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS3dFR3pJVUdpVWVwM1JxeGNRUU5yb1dJSXdUTzZ0VXdsTFVnYjZmZDFPdW5Ba0N1clh4Z1MyYk1yVTdEVEwwQ014THh2X3NFSjJWQUZTaHBudW1EQTVZcVBxc0dieFNGZFExVFp0WldOdXkxaHQ3b0hTU1ozdW5oU2s5V1ppTXV3dDNYS3pMc1VRRXdGYm5kR2x1RzBBVTA2V2lkcXA2YzhQX09RWmU1N08yazVHamV6T0doQWJCRDZzajRQSlIwYy03djFuaHZGV2RqbQ?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-10-01T03:30:07.000Z",
+      "simple_summary": "A newspaper opinion piece discusses whether Hong Kong should build its own AI city system or use existing technology from elsewhere.",
+      "why_it_matters": "This mostly concerns government leaders in Hong Kong — nothing you need to act on."
+    },
+    {
+      "title": "War of words: Newsom orders California to say AI after Trump’s ‘superintelligence’ decree",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSF9ZMHZBcldKLUJtdzB6cUJmUV9PXzJwTV9MVEpNX25yWWVqTUNFaDEyTGEwZE5KbkhaX3lHOE5qcFNqZUFfcGFnZ2gteGN4ak5PUWJMenlqUnpfN0pJNHZtX0tBdG9zeVp0bVdsMFFQaGp2TFNMYXFtOGFuV3V2MTZSNEp6bUpxUnRHUzBoVXNnT2VicngxOXpvNzV2V05xZDh1MWc3bHVfVzgwa2g5Vk9yWFctbjJoU1FVS2g2X1ZQYjZHUWFjeW9DYXU4bzlv?oc=5",
+      "source": "Politico",
+      "date": "2026-10-01T02:34:00.000Z",
+      "simple_summary": "California's governor is disagreeing with another leader about what to call advanced AI technology.",
+      "why_it_matters": "This is a political disagreement about words — it doesn't affect how AI works or how you'd use it."
     },
     {
       "title": "FTC launches broad investigation into Anthropic, OpenAI",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-09-30T18:59:21.000Z",
-      "simple_summary": "The government agency that protects consumers (the FTC) is investigating two big AI companies: Anthropic and OpenAI. They want to check if these companies are treating people fairly.",
-      "why_it_matters": "If the investigation finds problems, it could lead to new rules about how AI companies must behave toward customers."
+      "source": "washingtonpost.com",
+      "date": "2026-10-01T00:26:52.000Z",
+      "simple_summary": "The government's consumer protection agency is investigating whether AI companies OpenAI and Anthropic are following the law.",
+      "why_it_matters": "These investigations help make sure AI companies treat customers fairly, though the results will take time."
+    },
+    {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "source": "The Verge",
+      "date": "2026-10-01T00:23:45.000Z",
+      "simple_summary": "Elon Musk's company SpaceX released an updated version of an AI encyclopedia website with a new look and logo.",
+      "why_it_matters": "This is one of many AI encyclopedias being built — it's interesting but doesn't affect your daily life yet."
+    },
+    {
+      "title": "'Poured jet fuel on AI:' NC's secret weapon for faster audits as experts urge human oversight",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeklsTHhpZlJDc3JTSmdfV3pheDVKeEhCNUVoVUY4enpLcmdjWHFNdmxlakVZVjBjMWFqMC1iLUlXdEdRbWllV2lHVnB3dHNEZlNsYWRrbXZvbHM0N2lydkdONUxpWW9aVGdSZWNZSVNKY0lNQ0hLaUttUzZwUy1GUnlma0lJdFNqbTNJYV9TVVRnLVdKOElaY1N1aUZ6Qnh3VmYwVy1Icw?oc=5",
+      "source": "WRAL",
+      "date": "2026-10-01T00:03:13.000Z",
+      "simple_summary": "North Carolina is using AI to speed up government audits (checking that money is spent correctly), but experts want humans to double-check the results.",
+      "why_it_matters": "This could make government work faster and catch mistakes better, though humans should still verify what the AI finds."
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch",
+      "date": "2026-09-30T23:43:07.000Z",
+      "simple_summary": "Google released a new, more powerful version of its AI tool called Gemini, designed to help with computer coding and cybersecurity.",
+      "why_it_matters": "This matters to tech professionals and large companies — most small-business owners won't directly use this."
+    },
+    {
+      "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tTGxKSzNJQXdUNERtQ3VkbDlzRlkzSnhmak5GazMzeDZuNGM3VGRpSUNWNnc4ZHlPR05fRXpBZXNZbWsyZEx1QkkzT0syOElSd0JVb0lPWGRhbEktb1pxZmt6RmRPN1pIOHNnbGZ1c1MyV1VSSGfSAXtBVV95cUxOcEM3Qm05elRYTG9CMjNJVWk0MENyU3JzczhJVHc0TTQwZTBvT3VjV1pzNDA3QVNuZGRzUlUyem40dmlLZWcyX05iX2dBZXZCcXpxRHpESUFHNGtqWE0zclZNZFRvSTBBSVVibnBwWnk4ZExtTk9CTTA3TkU?oc=5",
+      "source": "CNBC",
+      "date": "2026-09-30T23:29:58.000Z",
+      "simple_summary": "California passed a new law banning \"robot bosses\" (AI systems making all the employment decisions) and the governor agreed to it after earlier saying no.",
+      "why_it_matters": "If you have employees or might hire workers, this law protects workers from being treated unfairly by AI alone — a human must be involved in major job decisions."
+    },
+    {
+      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?oc=5",
+      "source": "BBC",
+      "date": "2026-09-30T23:25:23.000Z",
+      "simple_summary": "China is restricting how AI can be used in romantic or relationship-based services and conversations.",
+      "why_it_matters": "This mostly affects tech companies operating in China — it doesn't affect you unless you use Chinese AI dating or companion services."
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-09-30T21:07:40.000Z",
+      "simple_summary": "Several investment groups are giving $750 million to a startup making AI tools for designing computer hardware.",
+      "why_it_matters": "This mostly matters to investors and engineers — it's not relevant to typical small-business owners."
+    },
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "date": "2026-09-30T20:41:41.000Z",
+      "simple_summary": "Google released a powerful new AI tool for software engineers, lawyers, and cybersecurity experts, but only certain trusted professionals can use it right now.",
+      "why_it_matters": "Unless you're a software engineer or cybersecurity specialist, this doesn't affect you yet."
     },
     {
       "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qOC1wNW5jazhaTWJ0RFNBZGkwYlJMQnRXT1F6Z01PU0pWTEJEaHFUQkxfR1pLU2MzWl9QU2swZi1FN3FmbEUwOTJyeDFzVlF2YlFmcVd3eW1sbEJBcUo1RUpyX2FCQV90OUhXRVpNX0NrUEc0c3UwZVR3?oc=5",
       "source": "The New York Times",
-      "date": "2026-09-30T18:31:26.000Z",
-      "simple_summary": "Congress is leaving town without passing any new laws about AI safety or rules. This is happening before the midterm elections.",
-      "why_it_matters": "This means there won't be new government rules on AI for a while, so the AI industry will keep developing without strict new regulations."
+      "date": "2026-09-30T20:36:37.000Z",
+      "simple_summary": "U.S. Congress is leaving to campaign for elections without passing any new laws about AI regulation.",
+      "why_it_matters": "This means there will be no new national rules on AI from the government for now — regulations stay as they are."
     },
     {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T18:23:57.000Z",
-      "simple_summary": "ElevenLabs, a company that makes AI voices that sound like real people, is now worth $22 billion. Some big investment companies just put money into the company.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T17:45:00.000Z",
-      "simple_summary": "Reddit is blocking a popular way for AI bots to automatically copy all user conversations and posts from the site. The company is tightening who can access user discussions.",
-      "why_it_matters": "This helps protect your posts and comments from being stolen and used to train AI systems without permission."
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T17:24:45.000Z",
-      "simple_summary": "Big AI companies are losing money when they try to sell AI tools directly to regular people. The technology works well, but it costs too much money to run.",
-      "why_it_matters": "This means AI tools may stay expensive for a while, and you may see fewer new AI features pop up in apps you use daily."
-    },
-    {
-      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "source": "The Verge",
-      "date": "2026-09-30T17:15:49.000Z",
-      "simple_summary": "President Trump met with tech leaders and said he no longer thinks AI safety worries are a hoax — he now calls it \"Super Intelligence\" instead. His exact plans for AI rules aren't clear from this report.",
-      "why_it_matters": "This mostly matters to big tech companies — it's too early to know if your business will see any new rules or changes."
-    },
-    {
-      "title": "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNWl0MGVITzBQTDJZZjlPUGJwYndtdUZxVTBGOWpqVS0zWnhmcUJCVFRFNzVlaDU0VU5pVWZfQ0lDRnhSenZ0QzBZOGZPbTQ5TzN0VmJKUHpyZmJYdXJKQmNXU2ZPLW95djRSNkhzYTJXRk5WMW42ZEU4RGliM00?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-30T17:03:00.000Z",
-      "simple_summary": "A fake picture of a Georgia mayor was created with AI and spread online before people realized it wasn't real. People are asking whether they can still trust images they see.",
-      "why_it_matters": "You should be careful before believing photos and videos you see online — fake ones made by AI are getting harder to spot."
-    },
-    {
-      "title": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-09-30T16:53:46.000Z",
-      "simple_summary": "A safety group is suing OpenAI, saying the company hacked into a website called Hugging Face without permission to get information for training its AI.",
-      "why_it_matters": "This is a legal dispute between organizations — nothing you need to act on right now."
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T16:24:23.000Z",
-      "simple_summary": "Meta's AI agent called Muse got accused of reading someone's private text messages without permission. Meta says this couldn't happen unless the person turned on a setting to allow it.",
-      "why_it_matters": "If you use Meta's AI tools, make sure you check your settings to control what private information the AI can see."
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T16:00:24.000Z",
-      "simple_summary": "DoorDash, a food delivery service, launched an AI agent that you can text to order food instead of using the app. It works like texting a friend to place an order.",
-      "why_it_matters": "If you use DoorDash, you'll have an easier way to order food — just text instead of clicking through an app."
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TechCrunch",
-      "date": "2026-09-30T16:00:00.000Z",
-      "simple_summary": "A company called Destro AI that helps robots work with people says it's winning against other robotics companies because they focus on how humans and robots understand each other, not just building better robots.",
-      "why_it_matters": "This mostly matters to engineers and factories using robots — nothing that affects most small businesses yet."
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+      "source": "blog.google",
+      "date": "2026-09-30T20:06:23.000Z",
+      "simple_summary": "Google announced details about a new advanced AI model called Gemini 4 Argon that it says represents the next big step forward.",
+      "why_it_matters": "This is one of many powerful AI tools being released — it's similar to earlier announcements from Google and other companies."
     }
   ]
 }
