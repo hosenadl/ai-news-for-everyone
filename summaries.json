@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-02T12:41:19.301Z",
+  "generated_at": "2026-10-02T22:16:59.152Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "source": "The Verge",
-      "date": "2026-10-02T11:52:20.000Z",
-      "simple_summary": "Amazon is telling communities they shouldn't block new AI data centers, warning that blocking them could hurt the US economy and national security.",
-      "why_it_matters": "If your town or city is considering blocking a data center, this is part of a bigger debate about whether the jobs and economic benefits outweigh concerns about power use and other local impacts — something worth paying attention to if it affects your area."
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T19:15:51.000Z",
+      "simple_summary": "TechCrunch is offering discounted passes to a tech conference for people who lost their jobs. It's a promotional offer.",
+      "why_it_matters": "This is just an advertisement for a conference — nothing you need to act on unless you want to attend industry events."
     },
     {
-      "title": "While the U.S. debates AI risks, China mandates universal training for students",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEo2SkVQNGc5ZVp1MEtOX2tXTWppZUtFT1VVSmhkWGxMT0lGRU5RYmJRbm9mbjhzTkxGcVg4RFExVXJmUmlMLVk1RlZkLUl3Z3JxYmhTOTNXRG1teDZnOG9mSlNES1FOMGdjWmV4UllqX243TWlxdlUyNXRvalJiMm1kbElFRmZiem8xRWZvOHFVa1phVUZmOHplNF9KNjBBQkxBa09ydVpGTHpa?oc=5",
+      "title": "Opinion | Who should be held liable when AI causes harm?",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3ZMU3BrZzRPQXlpdk52QXQ3UHhiYVZ4RzJ1U205VzBsZDNVSmtwYW0wQk1JQjhfeW5wNi1iMmVETzdFbUc5b0dCSE04aUFTMkwyWWx4VHZKVDc3TUtDMEtVZm1QdlFKc0pkbEdhSUdkcnJfODNMLUVuUFAteDhrODNjNkI3dEdsYV9JU2YwWQ?oc=5",
       "source": "The Washington Post",
-      "date": "2026-10-02T10:33:12.000Z",
-      "simple_summary": "China is requiring all students to receive training in AI as a standard part of their education.",
-      "why_it_matters": "This doesn't directly affect you unless you have family in China, but it shows different countries are taking different approaches to preparing young people for an AI-driven world."
+      "date": "2026-10-02T18:21:54.000Z",
+      "simple_summary": "An opinion piece asks who should be responsible if an AI system does something wrong or harmful.",
+      "why_it_matters": "This is an important discussion for the future, but right now there are no clear answers — it's still being debated by lawmakers and companies."
     },
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T18:11:27.000Z",
+      "simple_summary": "Apple is making it harder for AI programs to access all your personal files, messages, and browsing history without permission because these AI programs are becoming more powerful.",
+      "why_it_matters": "If you use a Mac computer, this means Apple is trying to protect your privacy better — you'll likely see more permission requests from AI tools."
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:56:00.000Z",
+      "simple_summary": "Most consumers (98%) are not actually using or interested in new AI products, even though tech companies are promoting them heavily.",
+      "why_it_matters": "If you're not using AI yet, you're in the majority — there's no rush, and you shouldn't feel pressured by all the hype around it."
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:48:16.000Z",
+      "simple_summary": "The Trump administration officially renamed AI to 'super intelligence' and got major tech CEOs to sign a safety pledge.",
+      "why_it_matters": "This is mostly about how the government is trying to manage AI development — it's unlikely to directly affect how you use technology."
+    },
+    {
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
       "source": "The Verge",
-      "date": "2026-10-02T09:42:19.000Z",
-      "simple_summary": "Suno, a tool that creates music using AI, can now also generate spoken words and voiceovers to go along with the music.",
-      "why_it_matters": "If you make videos or promotional content for a small business, this could become a cheaper way to create background music and narration without hiring people — though the quality might not match a professional speaker."
+      "date": "2026-10-02T17:37:36.000Z",
+      "simple_summary": "A personal breakup announcement by someone connected to Elon Musk became public on social media.",
+      "why_it_matters": "This is celebrity gossip and has nothing to do with AI or technology that affects you."
     },
     {
-      "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG8yVU1aUnRKU1BST0JNbTJvYkVCa2UzQVEyQ3B2dkR5N1J2MmowcGp1T0pGd3p1bkRYNWk2Z3Z6M1RHLW95eE45TEZjOEZsQWRFUG42NkxjbUk1SGQzX2dXWE1GZkppcjJtSk1xX1o5ejgwbnF1a2Rtbng3bGVSNWx6ajRPSU56cVE?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-02T09:04:05.000Z",
-      "simple_summary": "Russia is using AI to create propaganda songs related to war.",
-      "why_it_matters": "This is mostly a news story about international politics and misinformation — it doesn't directly affect your daily life, but it shows AI tools can be misused to spread false messages."
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:32:05.000Z",
+      "simple_summary": "TechCrunch is promoting a conference speaker who will discuss building new AI companies.",
+      "why_it_matters": "This is just an advertisement for a tech conference — nothing you need to act on unless you want to attend."
     },
     {
-      "title": "The low-profile Democrat helping shape her party’s AI agenda",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGIxSkg2MkttSm9kem1wcUNKbFBlTXh0NU02V2RxYng1MW1sMTRTbXg2U3RTd1lNWVVmdWU2N04yMUpWc2ZGN2plRXFpMHU1NEpOTFo0QmFkcXo0c1NCLTFTbVdLUTUycXJHb2xpNWZ0OWplVEhudFhFd2hBNTBBb3hhbVpGdGtHQmNF?oc=5",
-      "source": "Politico",
-      "date": "2026-10-02T08:45:00.000Z",
-      "simple_summary": "A Democratic politician is playing a role in developing her party's policies around AI.",
-      "why_it_matters": "This is mostly relevant to people interested in politics and policy — nothing you need to act on unless you follow political news closely."
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:00:00.000Z",
+      "simple_summary": "A company called Circuit Breaker Labs is working to make AI safer and less harmful to people, especially children.",
+      "why_it_matters": "If you have kids, this is a good sign that people are thinking about protecting young people from negative effects of AI."
     },
     {
-      "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlJ1MHRhMUY5YUNJT3pwWDVJc3h0TkhFLUxYd3FUbnQ2SHdTOFpobWZ2VkRXZmhoQW9XV0JlREhwbHo2TWM0eHcydEtQeWtFcDVGN3JZYUZJQmctMnY0Q0RTbklWaEY3NE5XR0QweHJITVZhSWhuckF2TUV3RkRsSURGV0JOTnZkdWxQR0N0U0RDcFJ2aHF6QnlyQ0RSMVZxbUt2dWl0TTVneERvcTZRc0JTZkJVTGpHOHpB0gG7AUFVX3lxTFBjaTQwVU9VRmRSN1hiajZEeFNGbDlQTXF3MmZFU1hqeWNUZFBkV1NaMWFBb2l2OHlLR290a0JNVlc1eHc1TTVaNWp2SkNBdG92V1l1LUhIb1ZQX1Bwd21HWG5Id3ZjM1pkZHAtNF9DNnktV3BnZlhscmM1OEczbEdjRXZ0V3RoM0F5QUlHREtaT25QWDJrV0J6LXhhMEEzU05DUkE5ODEwZkp1X3d1TlhvOHhlMmJWOHZCNHM?oc=5",
+      "title": "Trump expected to tap DNI Jay Clayton for AI czar",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adzBNQm9UZXllb08wWURqVzhua0V2b3pIekoxMEFxNXFfbExnTldUcmlnSFRiTllKWTRtc1FVcjRUX3A3RjUwSXpyVG5wQTItYWlyZ243U0VNd3loVkZLbmp5SEVWSW9nU2xpRHhXNHJZZVYz?oc=5",
+      "source": "Axios",
+      "date": "2026-10-02T16:50:19.000Z",
+      "simple_summary": "The Trump administration is considering appointing someone to oversee AI policy for the U.S. government.",
+      "why_it_matters": "This is mostly relevant to investors and people tracking government policy — it won't directly change how you use AI in your daily life right now."
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T15:39:41.000Z",
+      "simple_summary": "The Pope said that AI-generated art is not real art because it lacks human creativity and comes from machine calculations rather than human emotion.",
+      "why_it_matters": "This is an opinion about the value of AI art — if you care about traditional art and human creativity, this reflects a growing concern some people share."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T14:30:00.000Z",
+      "simple_summary": "TechCrunch is promoting a tech conference speaker who will discuss a new job role in tech companies.",
+      "why_it_matters": "This is just an advertisement for a tech conference — nothing you need to act on unless you want to attend."
+    },
+    {
+      "title": "Trump wants to stamp out the term ‘artificial intelligence’. Why?",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzhZTng2emxhNHVZWjg2ZE5qZlBseG9ERUwwclRfUERBQ0ZjTkRBek52bjRtVE9DZVFWcVlRczJUUFFUS3JBU1J4MVFfY2VtdElwQlpnYkg4b3QtWGpHT3FJM1pwTkw3c3k0S1RoMWdBQS1hdUVrSG5kNHhyZjJRQmdqVmlvSUNGeUpKNUZ6c1NLamdWWW1kXzEtV0tkUDlMZXdDeDM0ZHLSAagBQVVfeXFMT3diWkRQYzl0SUtDMzNGU2tNNzhjRWJzVU9IZXhyRUlYMXl3bFE4aEhXanhhS21RYkwwcEp2MkRWbVdVRWN4NUZpYUN2azg2VWZDZDFNdWlhTGZEQjd6bGR5bm5FQ2pwQWFRS1k1SEhxRWx6RzF5amlQNXA3RmE5Vi1ZYWE4WVZpNjVTM0pWMzFNbmlXN2diTWF3SWVoZWhMamZ5a0UyaWRO?oc=5",
       "source": "South China Morning Post",
-      "date": "2026-10-02T05:44:12.000Z",
-      "simple_summary": "The company Anthropic (which makes Claude, an AI chatbot) is restricting access for people using VPN services in Hong Kong.",
-      "why_it_matters": "Unless you live in or do business in Hong Kong and use that service, this doesn't affect you — this is mainly a technical and political story."
-    },
-    {
-      "title": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFDNmt2V3FoZU5vQkp2M3RlVVRrXy10Rzh6Y2FMTVZjVHR4MnFmalFzelB1RlpsOUhNSkFtY2dMTDJ0ZEVsVi01SjZhMDhWVHlCZFhPY2s3ZEgyLVBzQWZXXzlUZGlYVXF3V0FIZldZUTJPanFKOVZjOFljVHRFVWVMWHN2NkxMNXR1M09OTzNWOE94R2ljblVGXzNicy11?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-10-02T04:20:00.000Z",
-      "simple_summary": "A billionaire investor named Peter Thiel has put a large portion of his money into two artificial intelligence company stocks.",
-      "why_it_matters": "This mostly matters to investors — it's a story about what rich people are betting on, not something that affects ordinary people or small business owners."
-    },
-    {
-      "title": "AI liability fight reaches Senate as Google releases powerful new model",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3FLeXhoUkNGZll5QUlXTkpZdEU4WnJNNHVoeUNnS1ByZjlGMndVWXk3cEFRM0hHTmhGdkoxdTlhMi14V0xIaGQwZkFxenA2d295QUlKcHc3Nnk3bFAyeXpNU2wxMC1EVTR1SlJndnotclVselVaNzdJeGxzT2FHOUk5Vlplb1lGT2hPSTctZmdXUzRtWVI4?oc=5",
-      "source": "foxnews.com",
-      "date": "2026-10-02T00:40:07.000Z",
-      "simple_summary": "Google released a new powerful AI model while politicians debate who is responsible if AI causes harm.",
-      "why_it_matters": "The debate about responsibility and liability (who pays if something goes wrong) will eventually affect how AI tools work and who can use them, but this specific news is mostly for investors and tech watchers."
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch",
-      "date": "2026-10-01T21:08:11.000Z",
-      "simple_summary": "A satirical news story claims that Trump's AI chatbot called Grok gave an opinion about invading Venezuela — this appears to be a joke or misinformation.",
-      "why_it_matters": "This story is not credible — AI chatbots don't advise presidents on military decisions, and this seems designed to get attention rather than report real news."
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge",
-      "date": "2026-10-01T19:47:51.000Z",
-      "simple_summary": "Google added a new feature to its Gemini AI chatbot that can read small text out loud and describe what your phone's camera sees.",
-      "why_it_matters": "If you have trouble reading fine print (like on medicine bottles or contracts), this free feature on your Android phone could be genuinely helpful for accessibility."
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch",
-      "date": "2026-10-01T19:21:53.000Z",
-      "simple_summary": "ChatGPT now lets you upload a photo of yourself and see how clothes would look on you before you buy them online.",
-      "why_it_matters": "If you shop online, this could help you feel more confident about clothing purchases without having to try things on in a store — though keep in mind AI isn't always accurate about fit."
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch",
-      "date": "2026-10-01T19:18:03.000Z",
-      "simple_summary": "Google believes SpaceX would need to launch its large rocket Starship about 1,800 times before Google could put data centers in space.",
-      "why_it_matters": "This is a very early, experimental idea that won't affect you for many years, if ever — it's mostly interesting to tech enthusiasts and investors."
+      "date": "2026-10-02T14:00:30.000Z",
+      "simple_summary": "President Trump wants to stop using the term 'artificial intelligence' and use 'super intelligence' instead instead.",
+      "why_it_matters": "This is a political rebrand with no real impact on how the technology works or affects you — mostly a messaging change for government and media."
     }
   ]
 }
