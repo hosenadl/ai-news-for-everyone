@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-01T22:43:24.617Z",
+  "generated_at": "2026-10-02T05:42:57.171Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Study: Gen Z is using AI, but skepticism grows",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTHhkTVE3ejZfaDBPUU1hTkJwRGF1SXdoQWlkSEJoVjBMdTZOYTlDVjVOMVM4bFdBMkhRQzJ5S1FNOGMzSmVFVE9xS2pkcTl6d0EwcVdjYUt6M2JxZm9kd1E3ajczekZuRXlXdVpTTHhnQU9WbGgzMUpfQ08?oc=5",
+      "source": "KUTV",
+      "date": "2026-10-02T03:23:46.000Z",
+      "simple_summary": "Young people are using AI tools, but many don't fully trust them yet.",
+      "why_it_matters": "If you work with younger employees or customers, knowing they use AI but question it might help you understand how they approach technology."
+    },
+    {
+      "title": "OpenAI fires workers for mishandling 'sensitive information'",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
+      "source": "BBC",
+      "date": "2026-10-02T01:34:56.000Z",
+      "simple_summary": "OpenAI fired some workers because they weren't careful with confidential company information.",
+      "why_it_matters": "This mostly matters to investors and employees of tech companies — nothing you need to act on."
+    },
+    {
+      "title": "AI liability fight reaches Senate as Google releases powerful new model",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3FLeXhoUkNGZll5QUlXTkpZdEU4WnJNNHVoeUNnS1ByZjlGMndVWXk3cEFRM0hHTmhGdkoxdTlhMi14V0xIaGQwZkFxenA2d295QUlKcHc3Nnk3bFAyeXpNU2wxMC1EVTR1SlJndnotclVselVaNzdJeGxzT2FHOUk5Vlplb1lGT2hPSTctZmdXUzRtWVI4?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-02T00:40:07.000Z",
+      "simple_summary": "Lawmakers in Congress are debating who should be responsible when AI causes damage, and Google released a new powerful AI tool.",
+      "why_it_matters": "This is early-stage legal discussion that mostly affects tech companies right now — nothing you need to act on yet."
+    },
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "date": "2026-10-01T21:08:11.000Z",
+      "simple_summary": "Reports say Elon Musk's AI chatbot Grok supposedly gave advice to Trump about military action in Venezuela.",
+      "why_it_matters": "This is mainly about political news involving AI — unless you work in government or politics, it doesn't affect your daily life."
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge",
+      "date": "2026-10-01T19:47:51.000Z",
+      "simple_summary": "Google added a feature to its AI that can read small print out loud to you by pointing your phone's camera at it.",
+      "why_it_matters": "If you have trouble reading small text on labels or signs, this Google feature could be genuinely helpful for you."
+    },
     {
       "title": "ChatGPT can now virtually try on clothes for you",
       "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
       "source": "TechCrunch",
       "date": "2026-10-01T19:21:53.000Z",
-      "simple_summary": "ChatGPT now lets you upload a photo of yourself and see how clothes would look on you before you buy them. You can also save items you like to check later.",
-      "why_it_matters": "If you like to shop online, this could help you avoid ordering clothes that don't look good on you — like having a fitting room on your phone."
+      "simple_summary": "ChatGPT now lets you take a photo of yourself and see how clothes would look on you before buying them online.",
+      "why_it_matters": "If you shop online, this could save you returns — you could see if a shirt or jacket actually fits you before ordering."
     },
     {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "source": "TechCrunch",
       "date": "2026-10-01T19:18:03.000Z",
-      "simple_summary": "Google is testing putting computer servers up in space. They think SpaceX would need to make about 1,600 successful rocket trips before this becomes practical.",
-      "why_it_matters": "This mostly matters to tech investors and engineers — nothing you need to act on right now."
-    },
-    {
-      "title": "From EI To HI—Why We Need Human Intelligence In The Age Of AI",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3JpWFBvVXJzNFFLenBxWnI0emFDekdiYTRkQmF1Y193dll3cUJtWGcyeHJmMW9kNy1EN2Vxemc1NFlldW9lTVcwNURNUlprQmJCNElmb3BBX0RIc0FRRnhubzlmdXlPQUtPa0RjeXRkU0N6Rm5rXzJIMFdzaXU4QUlUaGd1THdLUXVfSEVsQmQxTlZrRnRtVW5rWFJWYjJrMl9Fd2NjRXBMZGprZkJDMW5MejVBUQ?oc=5",
-      "source": "Forbes",
-      "date": "2026-10-01T19:00:23.000Z",
-      "simple_summary": "Someone is arguing that human judgment and thinking are still important even as AI becomes more powerful.",
-      "why_it_matters": "This is a general opinion piece — it doesn't describe a specific change or development."
+      "simple_summary": "Google is building data centers (computer servers that store information) in space and estimates it would need thousands of launches to make this work.",
+      "why_it_matters": "This is a technical engineering project that mostly matters to investors and tech engineers — nothing you need to act on."
     },
     {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "source": "TechCrunch",
       "date": "2026-10-01T18:14:42.000Z",
-      "simple_summary": "Three safety researchers at OpenAI lost their jobs after an internal investigation found they mishandled confidential company information.",
-      "why_it_matters": "This mostly matters to people who work in AI at big companies — nothing you need to act on."
+      "simple_summary": "OpenAI fired three safety researchers for mishandling sensitive company secrets.",
+      "why_it_matters": "This mostly matters to investors and people tracking tech company management — nothing you need to act on."
     },
     {
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
       "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "source": "TechCrunch",
       "date": "2026-10-01T17:50:19.000Z",
-      "simple_summary": "Someone noticed that Opus 5.5 (an AI writing tool) uses certain words much more often than humans do, which gives away that it was written by AI rather than a person.",
-      "why_it_matters": "This is a technical observation mostly interesting to engineers — nothing affecting ordinary users."
+      "simple_summary": "A company's new AI writing model has recognizable patterns in how it writes, like using certain words too often.",
+      "why_it_matters": "This mostly interests AI engineers and people studying how to spot AI-written text — not relevant for everyday use."
     },
     {
       "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
       "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
       "source": "The Verge",
       "date": "2026-10-01T17:12:21.000Z",
-      "simple_summary": "A judge dismissed lawsuits against Google that claimed their new AI search summaries (called AI Overviews) were unfair to websites and news publishers.",
-      "why_it_matters": "This mostly matters to website publishers — if you run a small business, it doesn't directly affect you."
+      "simple_summary": "A judge dismissed lawsuits against Google claiming its AI search results unfairly took traffic away from other websites.",
+      "why_it_matters": "This mostly matters to website owners and investors — nothing you need to act on."
     },
     {
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
       "source": "TechCrunch",
       "date": "2026-10-01T16:49:22.000Z",
-      "simple_summary": "Amazon released its own version of an AI decision-making tool, joining other companies doing the same thing.",
-      "why_it_matters": "This mostly matters to tech professionals and investors — nothing you need to act on."
+      "simple_summary": "Amazon released a new AI tool that helps make decisions, joining other companies releasing similar tools.",
+      "why_it_matters": "This mostly matters to businesses using Amazon's cloud services — nothing you need to act on unless you use AWS."
     },
     {
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
       "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
       "source": "TechCrunch",
       "date": "2026-10-01T16:44:35.000Z",
-      "simple_summary": "Shopify (an online store platform) now lets you build an online shop by chatting with an AI assistant instead of clicking buttons and dragging things around.",
-      "why_it_matters": "If you're a small business owner wanting to start selling online, this could make it much easier to build your store without hiring help."
-    },
-    {
-      "title": "AI liability fight reaches Senate as Google releases powerful new model",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3FLeXhoUkNGZll5QUlXTkpZdEU4WnJNNHVoeUNnS1ByZjlGMndVWXk3cEFRM0hHTmhGdkoxdTlhMi14V0xIaGQwZkFxenA2d295QUlKcHc3Nnk3bFAyeXpNU2wxMC1EVTR1SlJndnotclVselVaNzdJeGxzT2FHOUk5Vlplb1lGT2hPSTctZmdXUzRtWVI4?oc=5",
-      "source": "foxnews.com",
-      "date": "2026-10-01T16:38:38.000Z",
-      "simple_summary": "The U.S. Senate is discussing new laws about who is responsible when AI causes problems, and Google released a new powerful AI model.",
-      "why_it_matters": "This is mostly about lawmakers and tech companies — nothing specific you need to do yet."
-    },
-    {
-      "title": "A.I. Is Going Rogue. Who Should Be Held Responsible?",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-01T15:25:45.000Z",
-      "simple_summary": "Someone is asking who should take responsibility when AI systems make mistakes or cause harm.",
-      "why_it_matters": "This is a general question being debated — not a specific change or announcement."
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "source": "TechCrunch",
-      "date": "2026-10-01T15:12:00.000Z",
-      "simple_summary": "The founder of Airbnb is discussing how AI agents should work and suggesting they need their own underlying system (like how phones need an operating system).",
-      "why_it_matters": "This is a tech executive's opinion about the future — mostly relevant to investors and tech professionals."
-    },
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge",
-      "date": "2026-10-01T14:36:50.000Z",
-      "simple_summary": "OpenAI announced a new AI assistant called Dots that it says can do real work, trying to compete with Meta's free AI assistant that has become very popular.",
-      "why_it_matters": "This is mostly important to tech investors watching which company wins the AI race — nothing affecting your daily life."
+      "simple_summary": "Shopify released a new tool where you can chat with an AI to build and design your online store and watch the changes happen in real time.",
+      "why_it_matters": "If you own a small business and want to create an online store, this could make it much easier and faster without needing to hire a web designer."
     }
   ]
 }
