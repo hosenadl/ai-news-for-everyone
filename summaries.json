@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-03T16:20:22.305Z",
+  "generated_at": "2026-10-03T21:20:49.567Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "'Algorithms Lack The Spark Of Humanity': Pope Leo Condemns AI Art",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTNqeEs3ejlpTTJVVHFEamxDMmVkTUNYQXJtckl6WFplcEtNZWk3M2x5UnExYnVpc3lDX2lnVzZEcE9iV08tMWxuT3dyQVlQTk1xTFV4N3NQNENTMk81SmQ5c1kyWU9uWkJIVWl0ZkNMeE1wcHMyQ3R6TGpuTzdSNjdB?oc=5",
+      "source": "Yahoo News Singapore",
+      "date": "2026-10-03T20:28:40.000Z",
+      "simple_summary": "A religious leader has criticized AI-made art, saying it lacks human creativity and soul. This is mainly a philosophical opinion piece rather than news about AI technology itself.",
+      "why_it_matters": "Unless you create or sell art, this doesn't affect you directly — it's mostly about whether people think AI art has value."
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch",
+      "date": "2026-10-03T18:43:57.000Z",
+      "simple_summary": "Amazon said it will no longer use non-disclosure agreements (secret contracts that prevent people from talking about problems) when customers use their data center services. Amazon is trying to reduce distrust about how it handles data.",
+      "why_it_matters": "If your business uses Amazon's cloud services, this could make it easier to speak publicly about problems or get help from others — though most small businesses won't notice this change."
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge",
+      "date": "2026-10-03T16:49:10.000Z",
+      "simple_summary": "Video game company Capcom is planning to use AI as a tool to help create games faster and more efficiently in the future. One of their programmers explained how this could work.",
+      "why_it_matters": "This mostly matters to investors and the gaming industry — if you play games, they might be made slightly differently, but nothing you need to worry about now."
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "date": "2026-10-03T16:30:01.000Z",
+      "simple_summary": "A person who worked on safety at OpenAI (the company behind ChatGPT) quit their job and said the company's workplace culture has serious problems. They're speaking out about concerns.",
+      "why_it_matters": "This is about what happens inside a major tech company — it doesn't directly affect your daily life, though it raises questions about whether AI safety is being taken seriously enough."
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge",
+      "date": "2026-10-03T15:00:00.000Z",
+      "simple_summary": "The head of a music sample company thinks that AI-written emails are making people communicate less and talk to each other less in real conversation. He believes this is harmful.",
+      "why_it_matters": "If you use email a lot for business, this is a reminder to think about whether AI-written messages are actually helping you connect better with customers or hurting your relationships."
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge",
+      "date": "2026-10-03T14:31:56.000Z",
+      "simple_summary": "An employee from OpenAI who worked on making sure AI systems were safe quit and wrote an article warning that the company isn't taking safety seriously enough. (This is similar to story #3.)",
+      "why_it_matters": "This raises general questions about AI safety but doesn't immediately change what you use or do — it's mostly important if you care about how big tech companies operate responsibly."
+    },
     {
       "title": "All the AI agents that can live in your text messages ",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
       "date": "2026-10-03T14:00:00.000Z",
-      "simple_summary": "Companies are making AI assistants that work inside text messages. You can chat with them about travel, work, family, and general questions.",
-      "why_it_matters": "If you text a lot, you might soon be able to use these helpers without downloading a separate app — but you don't need to do anything yet."
+      "simple_summary": "Several new AI assistants have been created that you can talk to through text messages, like chatting with a helper through your phone. Some are general, and some are specialized for families, travel, or work.",
+      "why_it_matters": "If you text, you can now try talking to an AI assistant instead of a person for simple help — but it's optional, and most small business owners won't need this right now."
     },
     {
-      "title": "The Future of Wildfire Response: AI, Drones, and Robots",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzh4bXF3T0kyNWZESFBWem1wd1JMV3VUYUlodVZVUGhZbDhtUGxvcm9HYlBpZmdSREpibVZLLTJ4QWk5VXFlX1M1ZllZdWxZNFlpWTE4OVV1U0dsTkpiOGc5QWk1LWxTWmFtdTJYYzJFNE90eXNMaVZuSkkyVFpLQzJHMWRJR2dOOTREbmt5bGx2MG1UR2NtamVWZXRQcWJ6WTVFdnotbzZNTWw1dk9FZUw4WTBndw?oc=5",
-      "source": "Mother Jones",
-      "date": "2026-10-03T11:29:50.000Z",
-      "simple_summary": "AI and robots are being tested to help fight wildfires faster and smarter.",
-      "why_it_matters": "If you live in a wildfire area, this could mean better protection eventually, though it will take time to roll out."
+      "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3BtN0x3OHo2enVINFN2ZWpCRUYtRVpGOFczcm9NMkVudnlZOTlKdHdVTUpHTUN2aGRhMjIyWklJcFRDSFZrZkNfQUNseXp1ODBqN1UxeEJkbWNvQnFBYW5vSnltTjNxcmtGOEszXzBxNlZGYmlPN1haTkMtOENYVldWUHd1M0ctSGtJU2o5X2tzNTFNaFdRcGtLRdIBoAFBVV95cUxQa0lhZmVzTE9DcS1rY1JaSEdBR1lZSGJQZ0hVTENVRmp3RlEwRTdWTGliNlRXcTEwYWdLSm5zMWN5OUpVM19HV1ljbVlhOFQxZVhlXzhuNE5LUlpVN18yYTVXdngySldlRFVyUEpLMjRxWUdiZEJVbDJmWjB0OWgxVy1acHQ4LVZkcjU2aVpJN0xsdk1DeDM3QXFsTzduVjZF?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-10-03T10:14:55.000Z",
+      "simple_summary": "The Smithsonian Museum is using AI to help find connections between different objects from American history. The AI can help researchers organize and understand artifacts better.",
+      "why_it_matters": "This is interesting for history lovers but doesn't affect your daily life or business."
     },
     {
-      "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUk50LUd6TWpjUW4xeGxKZnRPZERPV0hwSWtVMUxkTDZwUl9Wbk42X042aE9oa19uTXprM21wN2RJUGM5VGhiVE52TzZsLWpQdkM3MHhvSmE0WHhjbWhSY0ZTLU5KeHQwNEEzVzJHcjZZVlhIWHN1aWYzbXpfWXhZbnRXNERRZkZsa0xldmF2SThYbmpRZk1yczd0aGhsMWdQTkRzYkd1UFBLYXloV2Zndk5CZEhvMURFUml1UHhmT1RFOTFpYkxYMmtVaWdVVlVscjVoa2dPZGk3ajI4bjFNQUpSY1FRWmhRTEQ3MEpfZVFFT2VMYlJIZDlKRHZJY21KT01oTEwxMjRRU0pPd2djd2ZlTDFIYXg3NF8wQ2tGOTRwcmdKYjROSG05Z25ZRWZmR05TTXliaUN5Y0xqUDNKOUhOQjJBMzBZeDNUbjNuQjZ2U2xBYXlkWTl3?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-10-03T10:00:00.000Z",
-      "simple_summary": "This is a story about AI software playing a video game without being shown the screen — it won by reading the computer's hidden data instead.",
-      "why_it_matters": "This mostly matters to engineers and AI experts — nothing you need to worry about."
+      "title": "Will AI really kill most desk jobs ‘within the next 12 to 18 months’?",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZyaHowa2tkaFJKY3NFYTdxT2pobFZaQmlNS2Fva3l0cG1DV0dzZElsYmNZRFlfSXNlbWxsOFg1Skp1NTRBM05LUjJPbHJNSVhnRzRMV1ZwWTZ2UkQ4LVRKM0tWemFIY0F4VGhvSlM1eXBWaHZsWVdxWnppMlpfamxSNmhRR2xpQnA2ZlhpNTR5YVR4LW0yLVJQb1QtM2c?oc=5",
+      "source": "The Irish Times",
+      "date": "2026-10-03T09:01:22.000Z",
+      "simple_summary": "An article asks whether AI will really eliminate most office jobs in the next year or so. The headline is asking a skeptical question, not making a prediction.",
+      "why_it_matters": "If you work at a desk, it's worth paying attention to how AI changes your job over time — but the big overnight job loss that some people warn about probably won't happen as fast as claimed."
     },
     {
       "title": "AI's race to transform the world before the money runs out",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "date": "2026-10-03T05:06:00.000Z",
-      "simple_summary": "Companies are spending huge amounts of money on AI development and racing to prove it's worth the cost before they run out of money.",
-      "why_it_matters": "This is mostly important to investors and tech company executives — nothing you need to act on."
+      "simple_summary": "AI companies are working very hard and spending huge amounts of money to develop new AI technology before their funding runs out. There's pressure to show results quickly.",
+      "why_it_matters": "This is mostly about investors and business strategy — it shows that even big tech companies worry about money and competition, but it doesn't directly change what you use."
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "source": "TechCrunch",
       "date": "2026-10-03T00:45:39.000Z",
-      "simple_summary": "Meta is giving away free code so other companies can add its AI assistant (called Muse) to gadgets like TVs and toasters.",
-      "why_it_matters": "In the future, everyday appliances might talk to you with AI, but there's nothing for you to do right now."
+      "simple_summary": "Meta (which owns Facebook) is making its AI technology called Muse free for other companies to use in their devices like TVs and toasters. They hope this will get it into more products.",
+      "why_it_matters": "Someday your appliances might have AI built in, but for now this is just Meta's business strategy — nothing you need to do or buy right now."
     },
     {
-      "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-02T23:31:27.000Z",
-      "simple_summary": "The government is expected to appoint Jay Clayton to oversee AI policy.",
-      "why_it_matters": "This is mostly important for tracking government AI rules — nothing you need to do immediately."
-    },
-    {
-      "title": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxQOVRxbnlsdHQ1RGM0TVNZLUF1bGVqQ2xlUnpGZHJFQ3dZR05tMjZOVGRmTm9XblhYdXg0U0pFTTF0UXNWb0pGTGdRY0hPd2tadk9vSmdRdkFCNWJjLXFhZDFJSzBOdTc2UkVXeTFTUl84cmVvVUdib0lWMS1uc3huRzdEdGdjeV8xbA?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-02T23:20:43.000Z",
-      "simple_summary": "OpenAI is checking if hackers broke into their systems, after similar hackers broke into another AI company's systems.",
-      "why_it_matters": "If you use ChatGPT, know that companies are taking security seriously and investigating — but there's no action you need to take unless you hear more details."
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "date": "2026-10-02T21:09:14.000Z",
-      "simple_summary": "A businessman named Sean Parker is helping rebuild an AI company that makes music, and the music industry is backing him this time.",
-      "why_it_matters": "This mostly matters to the music industry and investors — not something you need to think about."
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "date": "2026-10-02T21:08:37.000Z",
-      "simple_summary": "Meta is letting people build their own devices with AI using free code — things like smart displays or TV add-ons that can help remind you of things.",
-      "why_it_matters": "If you like tinkering with gadgets, you could try making one, but most people will just wait for companies to sell finished products."
-    },
-    {
-      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-02T20:36:55.000Z",
-      "simple_summary": "A financial report about what's keeping the stock market and economy strong right now.",
-      "why_it_matters": "This is a financial news story for investors — nothing you need to act on."
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "date": "2026-10-02T20:08:40.000Z",
-      "simple_summary": "Apple is adding security locks to Macs to protect against AI programs that might try to snoop through all your files without permission.",
-      "why_it_matters": "This is good news — Apple is protecting you from a real risk that AI agents could see your private data."
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFpwQng5aGE4VmZfd2o5NDhhRlNrT1lvaXFndWxzUEQ1YkZKXzZVckE3UzNrRXRPRjNTMXBwdkhjU2tueFFVQkRncHc0ZVJ1VFRiZmFmZnYtQjF6eUxEalJHTnR3dHREcnc2LWQwTkxDWjZfNERtY0RLOW0ySVI5dTYtZnhFT2F4UmctRXFiWXJ0dnJJMWNRTmgxMmQ3c09hR25sdkNDekF4VUdVckp2TEY3clpzYmNmYmZWdldoeGsyclBscHRzZHU3ZlpSSGtsVnMtVnMyRDA5WktXY1Z4WXAxOA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-10-02T19:58:00.000Z",
-      "simple_summary": "A stock advisor is predicting a particular AI chip company's stock will move a lot in October.",
-      "why_it_matters": "This is advice for stock investors only — nothing relevant to everyday life or small business."
+      "title": "Opinion | Cartoon by Matt Davies",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXRUSU5seC1KNHZocGhWc0otZW83NF9RTlZZQXdWZ1F4SXBIWl9mSjJPVHJnQU9MU2RvODl1RktQTmwxejBVanowMkV6V0hrQjJDN1hyV04tS05QeTFNMEF2N0Q1WWNqcVMtUDQ4S2xzQ29EYjE4LWFVZW4tVnBGc0M4VHhhUDVGRDhRX3gxcVlDblJGX1ktYmpnZlZwd1pfYnZ2WVVWT09uOFI2cVE?oc=5",
+      "source": "washingtonpost.com",
+      "date": "2026-10-02T23:36:27.000Z",
+      "simple_summary": "This is a cartoon opinion drawing, not a news story with details to explain.",
+      "why_it_matters": "Cannot assess relevance without seeing the actual cartoon."
     }
   ]
 }
