@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:22:28.499Z",
+  "generated_at": "2026-10-03T11:43:12.444Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "source": "TechCrunch",
       "date": "2026-10-03T00:45:39.000Z",
-      "simple_summary": "Meta is giving away free code so that other companies can put its AI assistant called Muse into devices like TVs and toasters.",
-      "why_it_matters": "This mostly matters to tech companies and gadget makers right now — there's nothing you need to do, but eventually you might see AI show up in more of your home devices."
-    },
-    {
-      "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-02T23:31:27.000Z",
-      "simple_summary": "The president is expected to appoint Jay Clayton to lead the government's AI policy.",
-      "why_it_matters": "This mostly matters to investors and policy watchers — it's about government decisions, not something that directly affects your daily life or business."
-    },
-    {
-      "title": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxQOVRxbnlsdHQ1RGM0TVNZLUF1bGVqQ2xlUnpGZHJFQ3dZR05tMjZOVGRmTm9XblhYdXg0U0pFTTF0UXNWb0pGTGdRY0hPd2tadk9vSmdRdkFCNWJjLXFhZDFJSzBOdTc2UkVXeTFTUl84cmVvVUdib0lWMS1uc3huRzdEdGdjeV8xbA?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-02T23:20:43.000Z",
-      "simple_summary": "OpenAI discovered that hackers may have broken into some of their systems, and they're investigating whether other security breaches happened too.",
-      "why_it_matters": "If you use OpenAI tools for your business, this is a reminder to be cautious about what information you share with AI services — keep your sensitive business data private."
+      "simple_summary": "Meta is sharing the code for Muse (their AI helper) for free so other companies can add it to products like TVs and toasters.",
+      "why_it_matters": "This mostly matters to tech companies and engineers — nothing you need to act on right now, though down the road you might see AI features in everyday gadgets."
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
       "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "source": "TechCrunch",
       "date": "2026-10-02T21:09:14.000Z",
-      "simple_summary": "Sean Parker (a famous tech entrepreneur) is starting a new company that uses AI to create music, and the music industry is supporting him this time.",
-      "why_it_matters": "This mostly matters to music industry investors and creators — ordinary people don't need to act on this unless you're directly involved in making or distributing music."
+      "simple_summary": "Sean Parker, a music industry figure, is starting a company called Stability AI that works with music labels to create AI music tools.",
+      "why_it_matters": "This mostly matters to investors and music industry people — nothing you need to worry about."
     },
     {
       "title": "Meta open sources code to let you make Muse AI gadgets",
       "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "source": "The Verge",
       "date": "2026-10-02T21:08:37.000Z",
-      "simple_summary": "Meta is letting anyone download free code to build their own gadgets with Muse AI, like a reminder screen or a TV stick.",
-      "why_it_matters": "If you're a tech hobbyist or small electronics maker, you now have a free tool to experiment with — otherwise, this is just what companies might use to build gadgets you'll eventually buy."
-    },
-    {
-      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-02T20:36:55.000Z",
-      "simple_summary": "The New York Times article headline suggests something is keeping stock prices and the economy stable, but details aren't clear from the headline alone.",
-      "why_it_matters": "Without knowing what the article actually says, we can't tell you what this means — read the full story if you're interested in how investments are doing."
+      "simple_summary": "Meta released free code so anyone can build their own AI gadgets using Meta's Muse assistant, like smart displays or devices connected to your TV.",
+      "why_it_matters": "This is mainly for people who like building tech projects — ordinary people don't need to do anything."
     },
     {
       "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
       "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "source": "The Verge",
       "date": "2026-10-02T20:08:40.000Z",
-      "simple_summary": "Apple is making it harder for AI programs to access everything on your Mac computer to protect your privacy and safety.",
-      "why_it_matters": "If you use a Mac, this is good news — it means Apple is being more careful to stop AI programs from secretly looking at all your files, emails, and browsing history."
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFpwQng5aGE4VmZfd2o5NDhhRlNrT1lvaXFndWxzUEQ1YkZKXzZVckE3UzNrRXRPRjNTMXBwdkhjU2tueFFVQkRncHc0ZVJ1VFRiZmFmZnYtQjF6eUxEalJHTnR3dHREcnc2LWQwTkxDWjZfNERtY0RLOW0ySVI5dTYtZnhFT2F4UmctRXFiWXJ0dnJJMWNRTmgxMmQ3c09hR25sdkNDekF4VUdVckp2TEY3clpzYmNmYmZWdldoeGsyclBscHRzZHU3ZlpSSGtsVnMtVnMyRDA5WktXY1Z4WXAxOA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-10-02T19:58:00.000Z",
-      "simple_summary": "An investment newsletter is predicting that a certain AI chip company's stock will move up soon.",
-      "why_it_matters": "This is purely for stock investors — it's speculation about which company's shares might go up, nothing that affects ordinary business owners or people."
+      "simple_summary": "Apple is adding new safety locks to Macs to prevent AI programs from reading all your personal files, emails, and messages without your clear permission.",
+      "why_it_matters": "This is good news for Mac owners — it means Apple is being more careful about protecting your privacy from AI programs."
     },
     {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "source": "TechCrunch",
       "date": "2026-10-02T19:15:51.000Z",
-      "simple_summary": "TechCrunch is offering a discounted ticket to a tech conference for people who lost their jobs.",
-      "why_it_matters": "This is only relevant if you were recently laid off and looking for a networking event or job opportunity — otherwise you can skip this."
+      "simple_summary": "TechCrunch is offering discounted conference passes for people who lost their jobs.",
+      "why_it_matters": "This is a business opportunity if you were laid off and want to network — not relevant to most people."
     },
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "source": "TechCrunch",
       "date": "2026-10-02T18:11:27.000Z",
-      "simple_summary": "Apple is adding extra safety controls on Mac computers to prevent AI programs from having access to too much personal information like your emails and browsing history.",
-      "why_it_matters": "If you use a Mac, this protects your privacy — it makes it harder for AI to secretly read your private files and personal messages."
+      "simple_summary": "Apple is making it harder for AI programs to access everything on your Mac computer, because these programs are becoming powerful enough to do damage if they get too much permission.",
+      "why_it_matters": "If you own a Mac, this means Apple is working to keep AI programs from snooping through your private stuff."
     },
     {
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
       "source": "The Verge",
       "date": "2026-10-02T18:00:00.000Z",
-      "simple_summary": "OpenAI made a new AI system called Dots that can do office work tasks for companies and can also do personal things like order food.",
-      "why_it_matters": "If you run a business, this shows that AI tools for handling paperwork and schedules are getting more capable — you might consider whether they could help your business someday."
+      "simple_summary": "OpenAI made a new AI helper called Dots that can do business tasks like handling paperwork or ordering food, but it's designed to feel like work software rather than something friendly and casual.",
+      "why_it_matters": "This is aimed at businesses and may eventually make office work easier, but most small business owners don't need to switch right now."
     },
     {
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
       "source": "TechCrunch",
       "date": "2026-10-02T17:56:00.000Z",
-      "simple_summary": "Even though the government and tech companies are promoting AI heavily, surveys show only 2% of regular people are actually buying into the excitement.",
-      "why_it_matters": "This honestly just means that most people like you aren't convinced yet that AI is necessary in their lives — you're not alone if you're skeptical or waiting to see what actually works."
+      "simple_summary": "Only 2% of shoppers actually believe in or want AI products, even though the White House and tech companies are pushing them hard and renaming AI as 'super intelligence.'",
+      "why_it_matters": "Most people aren't rushing to buy AI products yet — so you're not alone if you're skeptical."
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:48:16.000Z",
+      "simple_summary": "President Trump signed an order to officially call AI 'super intelligence' instead of 'artificial intelligence,' and tech leaders promised to make AI safer.",
+      "why_it_matters": "This is mostly political news — the name change doesn't actually change how AI works or affects your life."
+    },
+    {
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "source": "The Verge",
+      "date": "2026-10-02T17:37:36.000Z",
+      "simple_summary": "Elon Musk and Shivon Zilis, who have four children together, announced their breakup on social media.",
+      "why_it_matters": "This is celebrity gossip — nothing that affects your business or daily life."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:32:05.000Z",
+      "simple_summary": "A leader from the investment company Blackstone will speak at a tech conference about building the next big AI companies.",
+      "why_it_matters": "This is for investors and tech entrepreneurs — nothing you need to know about."
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch",
+      "date": "2026-10-02T17:00:00.000Z",
+      "simple_summary": "A company called Circuit Breaker Labs is testing AI systems to see if they might harm people psychologically before those AI programs are released to the public.",
+      "why_it_matters": "This is good — someone is checking AI for safety risks — but this work happens behind the scenes before you ever interact with these programs."
     }
   ]
 }
