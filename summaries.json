@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-03T21:20:49.567Z",
+  "generated_at": "2026-10-04T05:58:22.040Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "'Algorithms Lack The Spark Of Humanity': Pope Leo Condemns AI Art",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTNqeEs3ejlpTTJVVHFEamxDMmVkTUNYQXJtckl6WFplcEtNZWk3M2x5UnExYnVpc3lDX2lnVzZEcE9iV08tMWxuT3dyQVlQTk1xTFV4N3NQNENTMk81SmQ5c1kyWU9uWkJIVWl0ZkNMeE1wcHMyQ3R6TGpuTzdSNjdB?oc=5",
-      "source": "Yahoo News Singapore",
-      "date": "2026-10-03T20:28:40.000Z",
-      "simple_summary": "A religious leader has criticized AI-made art, saying it lacks human creativity and soul. This is mainly a philosophical opinion piece rather than news about AI technology itself.",
-      "why_it_matters": "Unless you create or sell art, this doesn't affect you directly — it's mostly about whether people think AI art has value."
+      "title": "Gavin Newsom Mocks 'Golden Age of Super Intelligence,' Calls President’s 'Let It Rip' Approach to AI 'Reckless'",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9tejV3ek93dHBPRzVvdF9adVp2cG91Q2lqb0FuY3gzaW1VQUFWX0tLb0ZkRnBaMUpndk9nbHVOUzFFc1VaT1ktWUdHVFVjYS1aUWZIeVhmdUx6X3Zwd19OMGJlWE5PbWpKV2lVQjYwV3dIWFR3Qmd2d2J1UlhSN1BDdTM5Ym9wOV9SOUxQck1LLVk?oc=5",
+      "source": "Yahoo",
+      "date": "2026-10-04T01:30:00.000Z",
+      "simple_summary": "California's Governor Newsom criticized the President's relaxed approach to AI regulation, saying it's reckless and not a 'golden age of superintelligence.'",
+      "why_it_matters": "This is mostly political disagreement — nothing you need to act on right now."
+    },
+    {
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-03T23:37:23.000Z",
+      "simple_summary": "The President appointed Jay Clayton to lead the government's AI policy and decisions.",
+      "why_it_matters": "This mostly affects how the government will regulate AI companies — it could change rules for your business down the road, but nothing immediate."
+    },
+    {
+      "title": "Don’t Write With AI , Say People Who Write With AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5",
+      "source": "The Atlantic",
+      "date": "2026-10-03T19:21:32.000Z",
+      "simple_summary": "Writers who use AI tools are now saying other people shouldn't use AI for writing.",
+      "why_it_matters": "If you're thinking about using AI to help write, people have mixed opinions, but it's ultimately your choice depending on what you need."
     },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "source": "TechCrunch",
       "date": "2026-10-03T18:43:57.000Z",
-      "simple_summary": "Amazon said it will no longer use non-disclosure agreements (secret contracts that prevent people from talking about problems) when customers use their data center services. Amazon is trying to reduce distrust about how it handles data.",
-      "why_it_matters": "If your business uses Amazon's cloud services, this could make it easier to speak publicly about problems or get help from others — though most small businesses won't notice this change."
+      "simple_summary": "Amazon said it will stop using secret agreements (called NDAs) that prevented people from talking about its data centers.",
+      "why_it_matters": "This means more transparency about how Amazon's AI data centers work, but it probably won't directly affect your business."
     },
     {
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
       "source": "The Verge",
       "date": "2026-10-03T16:49:10.000Z",
-      "simple_summary": "Video game company Capcom is planning to use AI as a tool to help create games faster and more efficiently in the future. One of their programmers explained how this could work.",
-      "why_it_matters": "This mostly matters to investors and the gaming industry — if you play games, they might be made slightly differently, but nothing you need to worry about now."
+      "simple_summary": "The video game company Capcom said it plans to use AI to help create games in the future.",
+      "why_it_matters": "This only matters if you work in gaming — it doesn't affect everyday people or most small businesses."
     },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "source": "TechCrunch",
       "date": "2026-10-03T16:30:01.000Z",
-      "simple_summary": "A person who worked on safety at OpenAI (the company behind ChatGPT) quit their job and said the company's workplace culture has serious problems. They're speaking out about concerns.",
-      "why_it_matters": "This is about what happens inside a major tech company — it doesn't directly affect your daily life, though it raises questions about whether AI safety is being taken seriously enough."
+      "simple_summary": "An employee at OpenAI who worked on safety quit his job because he says the company's workplace culture has serious problems.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it doesn't directly affect your daily life or business."
     },
     {
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
       "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "source": "The Verge",
       "date": "2026-10-03T15:00:00.000Z",
-      "simple_summary": "The head of a music sample company thinks that AI-written emails are making people communicate less and talk to each other less in real conversation. He believes this is harmful.",
-      "why_it_matters": "If you use email a lot for business, this is a reminder to think about whether AI-written messages are actually helping you connect better with customers or hurting your relationships."
+      "simple_summary": "The CEO of a music production company says AI-written emails are making real conversations between people less common.",
+      "why_it_matters": "If you run a business, this is a gentle reminder that AI emails might hurt your actual relationships with customers and partners."
     },
     {
       "title": "An OpenAI safety employee has quit and is sounding the alarm",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "source": "The Verge",
       "date": "2026-10-03T14:31:56.000Z",
-      "simple_summary": "An employee from OpenAI who worked on making sure AI systems were safe quit and wrote an article warning that the company isn't taking safety seriously enough. (This is similar to story #3.)",
-      "why_it_matters": "This raises general questions about AI safety but doesn't immediately change what you use or do — it's mostly important if you care about how big tech companies operate responsibly."
+      "simple_summary": "A former OpenAI safety expert published an article warning about dangers at the company after he resigned.",
+      "why_it_matters": "This mostly matters to investors and tech workers — it doesn't directly affect your daily life or business."
     },
     {
       "title": "All the AI agents that can live in your text messages ",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
       "date": "2026-10-03T14:00:00.000Z",
-      "simple_summary": "Several new AI assistants have been created that you can talk to through text messages, like chatting with a helper through your phone. Some are general, and some are specialized for families, travel, or work.",
-      "why_it_matters": "If you text, you can now try talking to an AI assistant instead of a person for simple help — but it's optional, and most small business owners won't need this right now."
+      "simple_summary": "There are now AI assistants you can chat with right in text messages for things like planning trips or organizing work.",
+      "why_it_matters": "These are tools you could try if you want text message help with tasks, but they're optional — you don't need them to run your life or business."
     },
     {
-      "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3BtN0x3OHo2enVINFN2ZWpCRUYtRVpGOFczcm9NMkVudnlZOTlKdHdVTUpHTUN2aGRhMjIyWklJcFRDSFZrZkNfQUNseXp1ODBqN1UxeEJkbWNvQnFBYW5vSnltTjNxcmtGOEszXzBxNlZGYmlPN1haTkMtOENYVldWUHd1M0ctSGtJU2o5X2tzNTFNaFdRcGtLRdIBoAFBVV95cUxQa0lhZmVzTE9DcS1rY1JaSEdBR1lZSGJQZ0hVTENVRmp3RlEwRTdWTGliNlRXcTEwYWdLSm5zMWN5OUpVM19HV1ljbVlhOFQxZVhlXzhuNE5LUlpVN18yYTVXdngySldlRFVyUEpLMjRxWUdiZEJVbDJmWjB0OWgxVy1acHQ4LVZkcjU2aVpJN0xsdk1DeDM3QXFsTzduVjZF?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "date": "2026-10-03T10:14:55.000Z",
-      "simple_summary": "The Smithsonian Museum is using AI to help find connections between different objects from American history. The AI can help researchers organize and understand artifacts better.",
-      "why_it_matters": "This is interesting for history lovers but doesn't affect your daily life or business."
-    },
-    {
-      "title": "Will AI really kill most desk jobs ‘within the next 12 to 18 months’?",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZyaHowa2tkaFJKY3NFYTdxT2pobFZaQmlNS2Fva3l0cG1DV0dzZElsYmNZRFlfSXNlbWxsOFg1Skp1NTRBM05LUjJPbHJNSVhnRzRMV1ZwWTZ2UkQ4LVRKM0tWemFIY0F4VGhvSlM1eXBWaHZsWVdxWnppMlpfamxSNmhRR2xpQnA2ZlhpNTR5YVR4LW0yLVJQb1QtM2c?oc=5",
-      "source": "The Irish Times",
-      "date": "2026-10-03T09:01:22.000Z",
-      "simple_summary": "An article asks whether AI will really eliminate most office jobs in the next year or so. The headline is asking a skeptical question, not making a prediction.",
-      "why_it_matters": "If you work at a desk, it's worth paying attention to how AI changes your job over time — but the big overnight job loss that some people warn about probably won't happen as fast as claimed."
-    },
-    {
-      "title": "AI's race to transform the world before the money runs out",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "source": "reuters.com",
-      "date": "2026-10-03T05:06:00.000Z",
-      "simple_summary": "AI companies are working very hard and spending huge amounts of money to develop new AI technology before their funding runs out. There's pressure to show results quickly.",
-      "why_it_matters": "This is mostly about investors and business strategy — it shows that even big tech companies worry about money and competition, but it doesn't directly change what you use."
+      "title": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-03T09:00:41.000Z",
+      "simple_summary": "The New York Times tested an experiment where humans and AI competed at writing songs.",
+      "why_it_matters": "This is just an interesting experiment — nothing you need to do or worry about."
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "source": "TechCrunch",
       "date": "2026-10-03T00:45:39.000Z",
-      "simple_summary": "Meta (which owns Facebook) is making its AI technology called Muse free for other companies to use in their devices like TVs and toasters. They hope this will get it into more products.",
-      "why_it_matters": "Someday your appliances might have AI built in, but for now this is just Meta's business strategy — nothing you need to do or buy right now."
+      "simple_summary": "Meta (Facebook's parent company) is offering free AI technology so other companies can add AI features to TVs, toasters, and other appliances.",
+      "why_it_matters": "Eventually you might see AI in more household gadgets, but this is mostly important for companies that make these products, not for shoppers."
     },
     {
       "title": "Opinion | Cartoon by Matt Davies",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXRUSU5seC1KNHZocGhWc0otZW83NF9RTlZZQXdWZ1F4SXBIWl9mSjJPVHJnQU9MU2RvODl1RktQTmwxejBVanowMkV6V0hrQjJDN1hyV04tS05QeTFNMEF2N0Q1WWNqcVMtUDQ4S2xzQ29EYjE4LWFVZW4tVnBGc0M4VHhhUDVGRDhRX3gxcVlDblJGX1ktYmpnZlZwd1pfYnZ2WVVWT09uOFI2cVE?oc=5",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "date": "2026-10-02T23:36:27.000Z",
-      "simple_summary": "This is a cartoon opinion drawing, not a news story with details to explain.",
-      "why_it_matters": "Cannot assess relevance without seeing the actual cartoon."
+      "simple_summary": "The Washington Post published a cartoon, but no headline details are given.",
+      "why_it_matters": "Without knowing what the cartoon is about, we can't say what it means."
     }
   ]
 }
