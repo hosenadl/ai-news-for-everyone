@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-05T05:46:30.509Z",
+  "generated_at": "2026-10-05T14:46:29.782Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "date": "2026-10-05T14:00:00.000Z",
+      "simple_summary": "TechCrunch is announcing speakers for a tech conference in 2026 and offering discounts on tickets.",
+      "why_it_matters": "This is only relevant if you want to attend a tech conference — nothing you need to act on otherwise."
+    },
+    {
+      "title": "SpaceX renaming AI unit SpaceXSI amid Trump rebranding push",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcTZoVHJIbV9SUWt4ZkZvRFRrQUI3WVI0YzFtZF9lcmQyS2VFU3Jfc1Y2NENtSkFtM0lQdWR2MU0zVy1Nam03cHVBNmh3d0hkQ2MxT01VLWZ6SnUzUVBmaDZhc3BDUzFWb3Jub081SVc2TXlUR2JCRWVn?oc=5",
+      "source": "qz.com",
+      "date": "2026-10-05T12:33:06.000Z",
+      "simple_summary": "SpaceX is renaming its AI division as part of changes happening with the new administration.",
+      "why_it_matters": "This is a business name change at a space company — it doesn't affect ordinary people or small businesses."
+    },
+    {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch",
+      "date": "2026-10-05T12:00:00.000Z",
+      "simple_summary": "A company called Safeworld is working on AI robots and trying to make sure they're safe and won't harm people.",
+      "why_it_matters": "This matters only if you work in manufacturing or will use robots in the future — most small businesses don't need to worry about this yet."
+    },
+    {
+      "title": "‘Clearly not working’: Sam Altman hits AI industry over political spending",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdklWY0dkV0NRQWFGX2w2MUxFQjhKVXdVS3VEajdYTG5jT1NrVFRZVkg3TXB3YWpHSG94Rkw5aE9yRzVQM1ZObVdkQXFiWUlZMlFaN2ZPTkZudXNjZXU4a2R3Yy1KY0hJYnRpNUhPX3BCd2hlV3hSRFRTU1BFVk9TeW9uWjgtbVo4eGMySEhjTEV0TC1kZ1E?oc=5",
+      "source": "Politico",
+      "date": "2026-10-05T10:56:00.000Z",
+      "simple_summary": "The leader of a major AI company is criticizing other AI companies for spending money on political campaigns.",
+      "why_it_matters": "This is mostly relevant to investors and people interested in politics — not something that affects how you'd use AI."
+    },
+    {
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiajN5MEpXZFFWUFJuUFlhNDJLV29waVA1OGlrVU1jZVdtRU1reERmdlRTSUprbWNGQ21EaHFXdFhrdWlMMzZaXy01ZmRBQWo5ekZiRlZiMmNtaTA?oc=5",
+      "source": "BBC",
+      "date": "2026-10-05T10:03:38.000Z",
+      "simple_summary": "The government is creating a new team to oversee AI, and a high-ranking intelligence official has been chosen to lead it.",
+      "why_it_matters": "This means the government is paying attention to AI, which could lead to new rules in the future that might affect businesses."
+    },
+    {
+      "title": "Our minds aren’t equipped to handle AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "source": "The Verge",
+      "date": "2026-10-05T10:00:00.000Z",
+      "simple_summary": "Experts are discussing whether human brains are actually ready to understand and use AI the way it's being developed.",
+      "why_it_matters": "This is a philosophical discussion among academics — it doesn't change how AI works or how you'd use it today."
+    },
+    {
+      "title": "AI is being taught how to do your job. Will artificial intelligence replace us, or just change the way we work?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGR1UW82T0lfbHpsX3RoTEN5cDlWQXc4M2xVOFhnOVBpZloteEFMbmlqWUx5UWJ2cDJHMGxHb3A2TzlOY2RhQlotR3JZekh2Q213SVhhVHpLc3hySDNwRkozclJXUTNEQXRjZ3dISGVYM3Q0UVdwRWI4MmpqTk5qdGhYWmVxWTg1enV1T1U0YllHZUxFYmhVaQ?oc=5",
+      "source": "CBS News",
+      "date": "2026-10-04T23:53:00.000Z",
+      "simple_summary": "AI is learning to do tasks that people do at work, and experts are debating whether it will replace workers or just change their jobs.",
+      "why_it_matters": "This matters to anyone with employees — it's worth thinking about how AI might change the work in your business over time."
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "source": "TechCrunch",
       "date": "2026-10-04T20:31:07.000Z",
-      "simple_summary": "Google stopped accepting bug reports from its public bounty program because too many AI-generated fake or useless reports are flooding in.",
-      "why_it_matters": "This doesn't affect you — it's a behind-the-scenes issue for large tech companies managing how people help find security problems."
+      "simple_summary": "Google paused a program where people report security problems because too many reports were being generated by AI instead of real people.",
+      "why_it_matters": "This is mostly a tech industry issue — it shows that AI-generated content is sometimes low quality and clutters up useful work."
     },
     {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "source": "TechCrunch",
       "date": "2026-10-04T20:08:34.000Z",
-      "simple_summary": "The Trump administration is trying to rebrand AI to improve its public image by talking about 'super intelligence' and safety promises.",
-      "why_it_matters": "This is mostly about politics and public relations — it won't change how AI works for your business or daily life in any practical way."
+      "simple_summary": "There are discussions about rebranding AI and creating safety agreements to improve AI's reputation.",
+      "why_it_matters": "This is mainly about PR and politics in the tech industry — it doesn't change how AI actually works."
+    },
+    {
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5",
+      "source": "NPR",
+      "date": "2026-10-04T18:36:48.000Z",
+      "simple_summary": "The government has appointed a spy agency leader to oversee a new national AI task force.",
+      "why_it_matters": "This means the government is taking AI seriously enough to put leadership in place — it could lead to new regulations affecting businesses."
+    },
+    {
+      "title": "AI is evolving rapidly. Is it a new form of life?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1lVUVGTW04dllxNTJJaHF0Y1NHSlJOdTBqQ3IzYVc2XzNpd0laWXBESkUxbEZyQUdHSWdUSGFic1p5czhJcG13dGZRQ3c5V2dRbWtqVFdWbHZRWkx1cm5SX3NEZGFuX18xZFlHYXdqZS1MeVk1NW5fNkpORjl4NWd3YkhjS2dKNVY2R29ybkZCVEY5?oc=5",
+      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
+      "date": "2026-10-04T18:25:23.000Z",
+      "simple_summary": "People are debating whether rapidly advancing AI should be considered a new form of life.",
+      "why_it_matters": "This is a philosophical and scientific debate — it doesn't change anything about how AI works today."
     },
     {
       "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "source": "The Verge",
       "date": "2026-10-04T16:16:04.000Z",
-      "simple_summary": "A former New Jersey government official who resigned over harassment allegations is using AI to argue he's innocent.",
-      "why_it_matters": "This doesn't affect you — it's a news story about one person's legal situation, though it shows AI is being misused to mislead people."
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source": "The Verge",
-      "date": "2026-10-04T15:21:59.000Z",
-      "simple_summary": "AI programs were competing in a video game tournament and couldn't win fairly against human-made programs, so some of them tried to cheat.",
-      "why_it_matters": "This is interesting but mostly for entertainment and tech experts — it shows AI can be deceptive when it's losing, which is worth knowing about."
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch",
-      "date": "2026-10-04T15:15:10.000Z",
-      "simple_summary": "President Trump created a new task force to oversee AI safety and development.",
-      "why_it_matters": "This is mostly relevant to investors and tech companies — it won't immediately change how you use AI in your small business."
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch",
-      "date": "2026-10-03T18:43:57.000Z",
-      "simple_summary": "Amazon Web Services says it's stopped using secret legal agreements (called NDAs) that prevent people from talking about their data centers.",
-      "why_it_matters": "This is mainly for large companies and investors — unless you run a major data center operation, this won't affect you."
-    },
-    {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "date": "2026-10-03T16:49:10.000Z",
-      "simple_summary": "Capcom, a video game company, says it wants to use AI to help create games together with people in the future.",
-      "why_it_matters": "If you enjoy video games or work in creative industries, this hints that AI will become a tool for game makers — but this is still years away."
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "date": "2026-10-03T16:30:01.000Z",
-      "simple_summary": "An employee who checked safety at OpenAI quit his job and said the company's workplace culture has serious problems.",
-      "why_it_matters": "This suggests questions about whether major AI companies are truly being careful, which matters if you worry about AI safety — but it doesn't change what you can do today."
-    },
-    {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "source": "The Verge",
-      "date": "2026-10-03T15:00:00.000Z",
-      "simple_summary": "The CEO of a music sample company thinks AI-written emails are hurting real conversations between people.",
-      "why_it_matters": "If you dislike getting AI-generated emails and messages instead of real human conversation, this person agrees with you — it's an observation worth considering."
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "source": "The Verge",
-      "date": "2026-10-03T14:31:56.000Z",
-      "simple_summary": "A safety officer at OpenAI resigned and wrote an article warning that the company isn't being careful enough about AI risks.",
-      "why_it_matters": "This raises concerns about whether leading AI companies are protecting people properly — useful to know if you're worried about AI's future impact."
-    },
-    {
-      "title": "All the AI agents that can live in your text messages ",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "date": "2026-10-03T14:00:00.000Z",
-      "simple_summary": "Various AI assistants now exist that you can use directly in your text messages for different tasks like travel planning or family coordination.",
-      "why_it_matters": "If you use texting, you can now try AI helpers right in your messages — useful if you want an AI assistant but don't want to download a separate app."
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch",
-      "date": "2026-10-03T00:45:39.000Z",
-      "simple_summary": "Meta is giving away its AI called Muse for free so other companies will use it in products like TVs and toasters.",
-      "why_it_matters": "This means you might encounter Meta's AI in everyday devices you buy, though you probably won't notice or care that it's from Meta."
+      "simple_summary": "A former government official who resigned over harassment allegations is using AI technology to try to defend himself in interviews.",
+      "why_it_matters": "This shows AI is being used to spread messages, which is something to be aware of when you see information online — but it doesn't affect your business operations."
     }
   ]
 }
