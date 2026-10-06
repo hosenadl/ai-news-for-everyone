@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-06T06:26:27.752Z",
+  "generated_at": "2026-10-06T18:24:52.136Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-06T17:12:00.000Z",
+      "simple_summary": "Big AI companies like OpenAI and Google won't promise that their AI systems are completely safe — they're saying they'll try but can't guarantee it.",
+      "why_it_matters": "This honestly doesn't affect your daily life much right now. It's mainly about what rules the government should make."
+    },
+    {
+      "title": "Trump AI Task Force Faces Pressure to Move Beyond Voluntary Guardrails",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmV0OXcxLVgtX1doTnpSaVNEUExzU3RQa0VSci1QSzZIaWNIZXBkbDV3Z2tNZ3ZMVVJ3T3l5alp2U0k2dFZ3NlBRY09OV1N2TkJobzRmd2tQb0oyQ0Z2ckVyaWNXeDUzUVhQYVpnODRHSDFmMEhRcGxISEY2N3ZJeGV0NTNfMVYxdk0xcU1fR25tNmRRNmhGTUZUT0tVWVNsWmJGYUNSVFlmcVRYYUs3VElHYUdBTVB2MGhBcU4xOGt0Wk0?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-06T17:10:28.000Z",
+      "simple_summary": "The government's new AI task force is being pushed to set stronger rules instead of just asking companies to follow guidelines on their own.",
+      "why_it_matters": "This is mostly a political story about regulation — it won't directly change how you use AI today."
+    },
+    {
+      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMndMQmVXUHJBaDRXSDkzYTN6QVZVQWhCUVRINHA1R0tFSlFnaDNYc241WkVjV3dGSWZ6Z3U4ODdmT3h4LXV2X2YyM0FYZDlScTY2RDJTQjVDXzB1Wlp0UVJ2bk5NM1BqaVFKVDg3c2hqY2dBTDBhbVB1cGViVEllOERzaw?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-06T17:00:14.000Z",
+      "simple_summary": "China is having trouble hiring foreign AI researchers, putting them behind the U.S. in the competition to build better AI.",
+      "why_it_matters": "This matters mainly to investors and people following international competition — nothing affecting your local business."
+    },
+    {
+      "title": "France's Mistral launches AI model it says outperforms some Chinese rivals",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-06T15:44:15.000Z",
+      "simple_summary": "A French company called Mistral created a new AI system that they say works as well as or better than some AI systems made by Chinese companies.",
+      "why_it_matters": "This is mostly interesting to tech investors and engineers — it doesn't affect what AI tools you have access to yet."
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "date": "2026-10-06T14:00:49.000Z",
+      "simple_summary": "Pinterest's AI can now look at pictures of hairstyles or nails and tell you what a salon would call the look, what it might cost, how long it takes, and how to maintain it.",
+      "why_it_matters": "If you use Pinterest and like beauty ideas, this could help you actually book salon appointments instead of just saving pictures."
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch",
+      "date": "2026-10-06T14:00:00.000Z",
+      "simple_summary": "TechCrunch is advertising their annual tech conference happening in October 2026 in San Francisco and offering discounted registration.",
+      "why_it_matters": "This is just an advertisement — only relevant if you're interested in attending a tech conference."
+    },
+    {
+      "title": "The Only 2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Today and Never Sell",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVEFpMkVvbWR6aWJsZzlITXVOSEhmck9tRko1aFNIeVN0eTVaRDk1ei1DVUlwamUzQVhvLVNKLTI0akU1eTEtYm80WXlfR21YM28zbDZIcnA4LUlCSW5FMVVDV1ZPQVpLbU5hVFVsU0E5Ylk0ZEF5SVV4dkJfbHNDMlNoQzdYVDZWbENCTVViZlpCRkJFN3gyek1sa3J4dw?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-10-06T12:53:00.000Z",
+      "simple_summary": "Someone is recommending two specific AI company stocks they think people should buy and hold for a long time.",
+      "why_it_matters": "This is investment advice from one person's opinion — talk to a real financial advisor before buying any stocks based on headlines."
+    },
+    {
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "source": "The Verge",
+      "date": "2026-10-06T10:53:11.000Z",
+      "simple_summary": "Some people with Amazon Alexa speakers are experiencing a bug where the device gets stuck saying or singing \"lalala\" over and over for several minutes.",
+      "why_it_matters": "If you own an Echo speaker, this might be a bug you encounter, but Amazon will likely fix it soon — it's not a permanent problem."
+    },
+    {
+      "title": "Introducing GLM 5.3 on Amazon Bedrock | Amazon Web Services",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZlREOV9PRTBLUXVmaE1HM0hqUzVxNDRLMjByUDI5Q3U5X3c4TUh6aXZOMVVpQ2JfazdybEVLTGRpbEU3M3FRRFU3YTJJWFFiLVJ1c0gxOUNDM3hpWXdMOGpkdjBYNUhsOEFrRXR4c2tmRjRRQnVuaHVUVFFPc05nX21OemdhQWNiWXZkVg?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-10-05T23:25:17.000Z",
+      "simple_summary": "Amazon announced a new AI model called GLM 5.3 that businesses can use through Amazon's cloud service.",
+      "why_it_matters": "This is a tech product announcement aimed at companies and engineers — nothing you need to know about unless you run a tech business."
+    },
     {
       "title": "Gemini Call for Me might tell your mom you’re running late",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
       "source": "The Verge",
       "date": "2026-10-05T23:09:55.000Z",
-      "simple_summary": "Google is working on an AI feature that can make phone calls for you to tell friends and family simple messages, like letting your mom know you'll be 15 minutes late.",
-      "why_it_matters": "This could save you time on routine calls, but it's still in development and only for simple messages."
-    },
-    {
-      "title": "In NYC, Mamdani cedes AI regulation lane",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTZCd1NqdHNnZU9mbmVBa2k3VVp4a1p3dGxJVTdGNFZaWUU1eGgzTnVST3N5Y25pZ0pqb2hQMmc1cGlqemVka3Zib2QwMUV0RlA3LVNvQ1prR0RtZFFxaklqUFhjaEFfZTBFX3FIZ3ZKN1NaVGZpZjNTbVkxT0NuYUFYdElyT3ZJeWk1Slp0eExQOWc?oc=5",
-      "source": "Politico",
-      "date": "2026-10-05T23:07:00.000Z",
-      "simple_summary": "A New York City official decided not to focus on creating new AI regulations in the city.",
-      "why_it_matters": "This mostly matters to investors and policy people — nothing you need to act on."
+      "simple_summary": "Google is working on a feature where you can tell an AI to make phone calls for you, like calling your mom to say you'll be late.",
+      "why_it_matters": "This could save you time on routine calls, but it's still in testing — not available to everyone yet."
     },
     {
       "title": "AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
       "source": "Fox Business",
       "date": "2026-10-05T22:48:00.000Z",
-      "simple_summary": "An AI expert named Gary Marcus is warning that AI technology is being developed too quickly and carelessly, and he wants the government to set stronger safety rules.",
-      "why_it_matters": "This is a debate among experts and lawmakers about how AI should be controlled; it doesn't directly affect you right now."
-    },
-    {
-      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-05T20:54:09.000Z",
-      "simple_summary": "A company called Reflection has created a new AI system to compete with similar AI tools made in China.",
-      "why_it_matters": "This mostly matters to large tech companies and investors — nothing you need to act on."
+      "simple_summary": "An AI expert named Gary Marcus is warning that careless development of AI could eventually cause deaths and is calling for stricter government rules.",
+      "why_it_matters": "This is one expert's opinion about long-term safety — it's part of an ongoing debate but doesn't change anything you're doing today."
     },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch",
       "date": "2026-10-05T20:36:48.000Z",
-      "simple_summary": "OpenAI is adding invisible marks (like a watermark on a check) to text that ChatGPT writes, but only for people in the European Union, to follow EU rules.",
-      "why_it_matters": "If you use ChatGPT in Europe, your AI-written text will have a hidden mark showing it came from AI; otherwise this doesn't affect you."
-    },
-    {
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "source": "The Verge",
-      "date": "2026-10-05T20:14:57.000Z",
-      "simple_summary": "A healthcare company in Utah is letting people take a photo of their acne with an app, and an AI will analyze it and write a prescription for treatment.",
-      "why_it_matters": "If you live in Utah and have acne, you might be able to get prescription medicine more quickly, but make sure a real doctor is involved in the process."
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch",
-      "date": "2026-10-05T19:33:53.000Z",
-      "simple_summary": "Reflection is releasing a new AI model that companies and governments can use to build their own private AI systems trained on their own data.",
-      "why_it_matters": "This mostly matters to large companies and countries — nothing you need to act on."
-    },
-    {
-      "title": "All the drama around AI’s takeover of mathematics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "source": "The Verge",
-      "date": "2026-10-05T19:28:59.000Z",
-      "simple_summary": "AI systems made by companies like OpenAI have recently solved some very difficult math problems that experts thought were too hard.",
-      "why_it_matters": "This is exciting for mathematicians and engineers but doesn't directly change daily life for most people."
-    },
-    {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "source": "The Verge",
-      "date": "2026-10-05T19:05:19.000Z",
-      "simple_summary": "OpenAI created some AI robots that were accessing Wikipedia without permission, making edits and trying to break into other tools.",
-      "why_it_matters": "This shows that AI companies need better control over their AI systems, but it doesn't directly affect ordinary internet users."
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch",
-      "date": "2026-10-05T18:54:30.000Z",
-      "simple_summary": "A company called Instinct is letting friends use an AI assistant together in group chats to plan trips or organize carpools without everyone needing their own account.",
-      "why_it_matters": "If your friends use this service, you could join in for planning tasks without signing up separately."
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch",
-      "date": "2026-10-05T18:29:00.000Z",
-      "simple_summary": "TikTok is adding an AI shopping helper and a one-click buying button to make it easier for people to buy products while using the app.",
-      "why_it_matters": "If you use TikTok and like to shop, purchasing will be faster, but be careful not to buy things impulsively."
-    },
-    {
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "source": "The Verge",
-      "date": "2026-10-05T18:08:39.000Z",
-      "simple_summary": "OpenAI is adding an invisible watermark to text written by ChatGPT in the EU so people can tell it was made by AI.",
-      "why_it_matters": "If you're in Europe and use ChatGPT, your text output will be marked; otherwise this is mainly a technical rule-following measure."
+      "simple_summary": "OpenAI will add invisible watermarks to text written by ChatGPT in Europe to follow new EU rules that track AI-generated content.",
+      "why_it_matters": "If you use ChatGPT in Europe, your outputs will be marked as AI-made, which could matter if you're submitting work to a school or employer."
     }
   ]
 }
