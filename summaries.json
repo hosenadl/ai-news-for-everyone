@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-05T14:46:29.782Z",
+  "generated_at": "2026-10-06T00:05:39.137Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "title": "L’Oréal Cuts Customer Service Time 64% With AI",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnJsMzFwOHBuRFo3WGc5X0J6aFQ5UVlraVBsZkViVjVqZkY1dGZqTWN2QUdLVU1iUTFqUkk4aGlFWG5TdG9tcDlqQldWeXJ6ZFpiQ2xKSHYzX2pOWU9RZ1NISFQxTXlJRW9qdXJCc3VaYUt1REJ4RVpyUHNneFlKUWh4OXI2RXV2aFBldnF6MEhLZWpUZTg5SDlUenpVelNPa19IUw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-05T19:54:16.000Z",
+      "simple_summary": "L'Oréal, a big beauty company, used AI to answer customer questions much faster — they cut the time needed by more than half.",
+      "why_it_matters": "If you run a business and get lots of customer calls or emails, AI might help you answer them quicker and keep customers happier."
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "source": "TechCrunch",
-      "date": "2026-10-05T14:00:00.000Z",
-      "simple_summary": "TechCrunch is announcing speakers for a tech conference in 2026 and offering discounts on tickets.",
-      "why_it_matters": "This is only relevant if you want to attend a tech conference — nothing you need to act on otherwise."
+      "date": "2026-10-05T19:33:53.000Z",
+      "simple_summary": "A company called Reflection made a new AI tool that other companies can use to build their own AI systems trained on their private information.",
+      "why_it_matters": "This mostly matters to investors and big companies — it's too technical for most small-business owners to worry about right now."
     },
     {
-      "title": "SpaceX renaming AI unit SpaceXSI amid Trump rebranding push",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcTZoVHJIbV9SUWt4ZkZvRFRrQUI3WVI0YzFtZF9lcmQyS2VFU3Jfc1Y2NENtSkFtM0lQdWR2MU0zVy1Nam03cHVBNmh3d0hkQ2MxT01VLWZ6SnUzUVBmaDZhc3BDUzFWb3Jub081SVc2TXlUR2JCRWVn?oc=5",
-      "source": "qz.com",
-      "date": "2026-10-05T12:33:06.000Z",
-      "simple_summary": "SpaceX is renaming its AI division as part of changes happening with the new administration.",
-      "why_it_matters": "This is a business name change at a space company — it doesn't affect ordinary people or small businesses."
+      "title": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing: 'Extremely reckless'",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw?oc=5",
+      "source": "nypost.com",
+      "date": "2026-10-05T19:18:18.000Z",
+      "simple_summary": "Someone who used to work at an AI company is warning people that the industry is being reckless with AI safety.",
+      "why_it_matters": "This is important to know about, but honestly, nobody yet knows exactly what the real risks are — it's still being figured out by experts."
     },
     {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzVQbnBJOC1FZ2NmZUVLRFhjZDQzZzlqVjUtYm0xWjVhYjU4T0hfbVpaems2MFNaY285RzlTa08teU1SU0pydVR2c25iNHpza0hvUHJKeW8ydnV4WjlyLWktQ2tMX0RDOXE3SURYVHV3Tlo5ZFNERGJJUzlSbXI2WFhNUHFSaWhfWjg3UlBkal9fcEQ3bnV1OS1SMDF4WUF4bExBelNzRXAyUVNPTmI4OEd5V0VRSDRaMDBZR0FqNjNfaVVIUXZXaw?oc=5",
+      "source": "WRAL",
+      "date": "2026-10-05T19:08:11.000Z",
+      "simple_summary": "AI industry people are talking to New York City leaders about safety concerns they have with AI technology.",
+      "why_it_matters": "Government is starting to pay attention to AI safety, which is good — this could lead to rules that affect how AI is used in the future."
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "source": "TechCrunch",
-      "date": "2026-10-05T12:00:00.000Z",
-      "simple_summary": "A company called Safeworld is working on AI robots and trying to make sure they're safe and won't harm people.",
-      "why_it_matters": "This matters only if you work in manufacturing or will use robots in the future — most small businesses don't need to worry about this yet."
+      "date": "2026-10-05T18:54:30.000Z",
+      "simple_summary": "An app called Instinct now lets groups of friends use an AI assistant together to plan trips or coordinate events, even if not everyone has the app.",
+      "why_it_matters": "If you like planning group activities with friends, this gives you another tool to help organize things — but it's still just one option among many."
     },
     {
-      "title": "‘Clearly not working’: Sam Altman hits AI industry over political spending",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdklWY0dkV0NRQWFGX2w2MUxFQjhKVXdVS3VEajdYTG5jT1NrVFRZVkg3TXB3YWpHSG94Rkw5aE9yRzVQM1ZObVdkQXFiWUlZMlFaN2ZPTkZudXNjZXU4a2R3Yy1KY0hJYnRpNUhPX3BCd2hlV3hSRFRTU1BFVk9TeW9uWjgtbVo4eGMySEhjTEV0TC1kZ1E?oc=5",
-      "source": "Politico",
-      "date": "2026-10-05T10:56:00.000Z",
-      "simple_summary": "The leader of a major AI company is criticizing other AI companies for spending money on political campaigns.",
-      "why_it_matters": "This is mostly relevant to investors and people interested in politics — not something that affects how you'd use AI."
+      "title": "New debate grows over spirituality and artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Y2ZHRG1TeHNXNF84Q29uQ1RRZmxiVDNQR09TY21NZ1pmT3lxX19ta3ladHRUUmp5YjhxdTVVWFZQbm9icWFld01STFVYRHBlSm5tby1R?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-05T18:49:48.000Z",
+      "simple_summary": "People are discussing whether AI raises spiritual or religious questions about the nature of thinking and consciousness.",
+      "why_it_matters": "This is a personal question that different people will answer differently based on their beliefs — AI itself doesn't change this."
     },
     {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiajN5MEpXZFFWUFJuUFlhNDJLV29waVA1OGlrVU1jZVdtRU1reERmdlRTSUprbWNGQ21EaHFXdFhrdWlMMzZaXy01ZmRBQWo5ekZiRlZiMmNtaTA?oc=5",
-      "source": "BBC",
-      "date": "2026-10-05T10:03:38.000Z",
-      "simple_summary": "The government is creating a new team to oversee AI, and a high-ranking intelligence official has been chosen to lead it.",
-      "why_it_matters": "This means the government is paying attention to AI, which could lead to new rules in the future that might affect businesses."
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch",
+      "date": "2026-10-05T18:29:00.000Z",
+      "simple_summary": "TikTok added an AI shopping assistant that helps you find and buy products directly in the app with one click.",
+      "why_it_matters": "If you sell products, TikTok is making it easier for shoppers to buy things, which could help your sales if you use TikTok to reach customers."
     },
     {
-      "title": "Our minds aren’t equipped to handle AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
       "source": "The Verge",
-      "date": "2026-10-05T10:00:00.000Z",
-      "simple_summary": "Experts are discussing whether human brains are actually ready to understand and use AI the way it's being developed.",
-      "why_it_matters": "This is a philosophical discussion among academics — it doesn't change how AI works or how you'd use it today."
+      "date": "2026-10-05T18:08:39.000Z",
+      "simple_summary": "ChatGPT is adding a hidden digital stamp to text it writes so people can tell it came from AI — starting with European users.",
+      "why_it_matters": "If you use ChatGPT for writing, people will eventually be able to see it came from AI, which is honest and fair."
     },
     {
-      "title": "AI is being taught how to do your job. Will artificial intelligence replace us, or just change the way we work?",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGR1UW82T0lfbHpsX3RoTEN5cDlWQXc4M2xVOFhnOVBpZloteEFMbmlqWUx5UWJ2cDJHMGxHb3A2TzlOY2RhQlotR3JZekh2Q213SVhhVHpLc3hySDNwRkozclJXUTNEQXRjZ3dISGVYM3Q0UVdwRWI4MmpqTk5qdGhYWmVxWTg1enV1T1U0YllHZUxFYmhVaQ?oc=5",
-      "source": "CBS News",
-      "date": "2026-10-04T23:53:00.000Z",
-      "simple_summary": "AI is learning to do tasks that people do at work, and experts are debating whether it will replace workers or just change their jobs.",
-      "why_it_matters": "This matters to anyone with employees — it's worth thinking about how AI might change the work in your business over time."
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
       "source": "TechCrunch",
-      "date": "2026-10-04T20:31:07.000Z",
-      "simple_summary": "Google paused a program where people report security problems because too many reports were being generated by AI instead of real people.",
-      "why_it_matters": "This is mostly a tech industry issue — it shows that AI-generated content is sometimes low quality and clutters up useful work."
+      "date": "2026-10-05T17:29:22.000Z",
+      "simple_summary": "Two sisters created an AI service that gives young women personalized dating advice with safety as the main focus.",
+      "why_it_matters": "This doesn't affect you unless you're a young woman looking for relationship advice — it's a new tool people can choose to use or not."
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch",
-      "date": "2026-10-04T20:08:34.000Z",
-      "simple_summary": "There are discussions about rebranding AI and creating safety agreements to improve AI's reputation.",
-      "why_it_matters": "This is mainly about PR and politics in the tech industry — it doesn't change how AI actually works."
-    },
-    {
-      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5",
-      "source": "NPR",
-      "date": "2026-10-04T18:36:48.000Z",
-      "simple_summary": "The government has appointed a spy agency leader to oversee a new national AI task force.",
-      "why_it_matters": "This means the government is taking AI seriously enough to put leadership in place — it could lead to new regulations affecting businesses."
-    },
-    {
-      "title": "AI is evolving rapidly. Is it a new form of life?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1lVUVGTW04dllxNTJJaHF0Y1NHSlJOdTBqQ3IzYVc2XzNpd0laWXBESkUxbEZyQUdHSWdUSGFic1p5czhJcG13dGZRQ3c5V2dRbWtqVFdWbHZRWkx1cm5SX3NEZGFuX18xZFlHYXdqZS1MeVk1NW5fNkpORjl4NWd3YkhjS2dKNVY2R29ybkZCVEY5?oc=5",
-      "source": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
-      "date": "2026-10-04T18:25:23.000Z",
-      "simple_summary": "People are debating whether rapidly advancing AI should be considered a new form of life.",
-      "why_it_matters": "This is a philosophical and scientific debate — it doesn't change anything about how AI works today."
-    },
-    {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "source": "The Verge",
-      "date": "2026-10-04T16:16:04.000Z",
-      "simple_summary": "A former government official who resigned over harassment allegations is using AI technology to try to defend himself in interviews.",
-      "why_it_matters": "This shows AI is being used to spread messages, which is something to be aware of when you see information online — but it doesn't affect your business operations."
+      "date": "2026-10-05T16:55:42.000Z",
+      "simple_summary": "OpenAI's PR person tried to stop a journalist from asking the CEO about a serious problem — a person's suicide connected to ChatGPT.",
+      "why_it_matters": "This shows that companies sometimes avoid talking about real problems, which makes it harder to understand AI's actual risks."
+    },
+    {
+      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "source": "The Verge",
+      "date": "2026-10-05T16:44:21.000Z",
+      "simple_summary": "The head of OpenAI said that even though AI will cause some bad things to happen, the good benefits will be worth the cost.",
+      "why_it_matters": "This is an opinion about whether the risks of AI are acceptable — reasonable people disagree, and nobody knows if this prediction will actually come true."
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch",
+      "date": "2026-10-05T16:43:35.000Z",
+      "simple_summary": "A coding practice website built an AI that has already conducted over 500,000 job interviews for companies testing it out.",
+      "why_it_matters": "If you're job hunting, some companies might use AI to screen your interview before a human talks to you — good to know this is starting to happen."
     }
   ]
 }
