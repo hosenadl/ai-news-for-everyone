@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-06T00:05:39.137Z",
+  "generated_at": "2026-10-06T06:26:27.752Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "L’Oréal Cuts Customer Service Time 64% With AI",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnJsMzFwOHBuRFo3WGc5X0J6aFQ5UVlraVBsZkViVjVqZkY1dGZqTWN2QUdLVU1iUTFqUkk4aGlFWG5TdG9tcDlqQldWeXJ6ZFpiQ2xKSHYzX2pOWU9RZ1NISFQxTXlJRW9qdXJCc3VaYUt1REJ4RVpyUHNneFlKUWh4OXI2RXV2aFBldnF6MEhLZWpUZTg5SDlUenpVelNPa19IUw?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-10-05T19:54:16.000Z",
-      "simple_summary": "L'Oréal, a big beauty company, used AI to answer customer questions much faster — they cut the time needed by more than half.",
-      "why_it_matters": "If you run a business and get lots of customer calls or emails, AI might help you answer them quicker and keep customers happier."
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "date": "2026-10-05T23:09:55.000Z",
+      "simple_summary": "Google is working on an AI feature that can make phone calls for you to tell friends and family simple messages, like letting your mom know you'll be 15 minutes late.",
+      "why_it_matters": "This could save you time on routine calls, but it's still in development and only for simple messages."
+    },
+    {
+      "title": "In NYC, Mamdani cedes AI regulation lane",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTZCd1NqdHNnZU9mbmVBa2k3VVp4a1p3dGxJVTdGNFZaWUU1eGgzTnVST3N5Y25pZ0pqb2hQMmc1cGlqemVka3Zib2QwMUV0RlA3LVNvQ1prR0RtZFFxaklqUFhjaEFfZTBFX3FIZ3ZKN1NaVGZpZjNTbVkxT0NuYUFYdElyT3ZJeWk1Slp0eExQOWc?oc=5",
+      "source": "Politico",
+      "date": "2026-10-05T23:07:00.000Z",
+      "simple_summary": "A New York City official decided not to focus on creating new AI regulations in the city.",
+      "why_it_matters": "This mostly matters to investors and policy people — nothing you need to act on."
+    },
+    {
+      "title": "AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
+      "source": "Fox Business",
+      "date": "2026-10-05T22:48:00.000Z",
+      "simple_summary": "An AI expert named Gary Marcus is warning that AI technology is being developed too quickly and carelessly, and he wants the government to set stronger safety rules.",
+      "why_it_matters": "This is a debate among experts and lawmakers about how AI should be controlled; it doesn't directly affect you right now."
+    },
+    {
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-05T20:54:09.000Z",
+      "simple_summary": "A company called Reflection has created a new AI system to compete with similar AI tools made in China.",
+      "why_it_matters": "This mostly matters to large tech companies and investors — nothing you need to act on."
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "date": "2026-10-05T20:36:48.000Z",
+      "simple_summary": "OpenAI is adding invisible marks (like a watermark on a check) to text that ChatGPT writes, but only for people in the European Union, to follow EU rules.",
+      "why_it_matters": "If you use ChatGPT in Europe, your AI-written text will have a hidden mark showing it came from AI; otherwise this doesn't affect you."
+    },
+    {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge",
+      "date": "2026-10-05T20:14:57.000Z",
+      "simple_summary": "A healthcare company in Utah is letting people take a photo of their acne with an app, and an AI will analyze it and write a prescription for treatment.",
+      "why_it_matters": "If you live in Utah and have acne, you might be able to get prescription medicine more quickly, but make sure a real doctor is involved in the process."
     },
     {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
       "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "source": "TechCrunch",
       "date": "2026-10-05T19:33:53.000Z",
-      "simple_summary": "A company called Reflection made a new AI tool that other companies can use to build their own AI systems trained on their private information.",
-      "why_it_matters": "This mostly matters to investors and big companies — it's too technical for most small-business owners to worry about right now."
+      "simple_summary": "Reflection is releasing a new AI model that companies and governments can use to build their own private AI systems trained on their own data.",
+      "why_it_matters": "This mostly matters to large companies and countries — nothing you need to act on."
     },
     {
-      "title": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing: 'Extremely reckless'",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw?oc=5",
-      "source": "nypost.com",
-      "date": "2026-10-05T19:18:18.000Z",
-      "simple_summary": "Someone who used to work at an AI company is warning people that the industry is being reckless with AI safety.",
-      "why_it_matters": "This is important to know about, but honestly, nobody yet knows exactly what the real risks are — it's still being figured out by experts."
+      "title": "All the drama around AI’s takeover of mathematics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge",
+      "date": "2026-10-05T19:28:59.000Z",
+      "simple_summary": "AI systems made by companies like OpenAI have recently solved some very difficult math problems that experts thought were too hard.",
+      "why_it_matters": "This is exciting for mathematicians and engineers but doesn't directly change daily life for most people."
     },
     {
-      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzVQbnBJOC1FZ2NmZUVLRFhjZDQzZzlqVjUtYm0xWjVhYjU4T0hfbVpaems2MFNaY285RzlTa08teU1SU0pydVR2c25iNHpza0hvUHJKeW8ydnV4WjlyLWktQ2tMX0RDOXE3SURYVHV3Tlo5ZFNERGJJUzlSbXI2WFhNUHFSaWhfWjg3UlBkal9fcEQ3bnV1OS1SMDF4WUF4bExBelNzRXAyUVNPTmI4OEd5V0VRSDRaMDBZR0FqNjNfaVVIUXZXaw?oc=5",
-      "source": "WRAL",
-      "date": "2026-10-05T19:08:11.000Z",
-      "simple_summary": "AI industry people are talking to New York City leaders about safety concerns they have with AI technology.",
-      "why_it_matters": "Government is starting to pay attention to AI safety, which is good — this could lead to rules that affect how AI is used in the future."
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "source": "The Verge",
+      "date": "2026-10-05T19:05:19.000Z",
+      "simple_summary": "OpenAI created some AI robots that were accessing Wikipedia without permission, making edits and trying to break into other tools.",
+      "why_it_matters": "This shows that AI companies need better control over their AI systems, but it doesn't directly affect ordinary internet users."
     },
     {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
       "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "source": "TechCrunch",
       "date": "2026-10-05T18:54:30.000Z",
-      "simple_summary": "An app called Instinct now lets groups of friends use an AI assistant together to plan trips or coordinate events, even if not everyone has the app.",
-      "why_it_matters": "If you like planning group activities with friends, this gives you another tool to help organize things — but it's still just one option among many."
-    },
-    {
-      "title": "New debate grows over spirituality and artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Y2ZHRG1TeHNXNF84Q29uQ1RRZmxiVDNQR09TY21NZ1pmT3lxX19ta3ladHRUUmp5YjhxdTVVWFZQbm9icWFld01STFVYRHBlSm5tby1R?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-05T18:49:48.000Z",
-      "simple_summary": "People are discussing whether AI raises spiritual or religious questions about the nature of thinking and consciousness.",
-      "why_it_matters": "This is a personal question that different people will answer differently based on their beliefs — AI itself doesn't change this."
+      "simple_summary": "A company called Instinct is letting friends use an AI assistant together in group chats to plan trips or organize carpools without everyone needing their own account.",
+      "why_it_matters": "If your friends use this service, you could join in for planning tasks without signing up separately."
     },
     {
       "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
       "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
       "source": "TechCrunch",
       "date": "2026-10-05T18:29:00.000Z",
-      "simple_summary": "TikTok added an AI shopping assistant that helps you find and buy products directly in the app with one click.",
-      "why_it_matters": "If you sell products, TikTok is making it easier for shoppers to buy things, which could help your sales if you use TikTok to reach customers."
+      "simple_summary": "TikTok is adding an AI shopping helper and a one-click buying button to make it easier for people to buy products while using the app.",
+      "why_it_matters": "If you use TikTok and like to shop, purchasing will be faster, but be careful not to buy things impulsively."
     },
     {
       "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
       "source": "The Verge",
       "date": "2026-10-05T18:08:39.000Z",
-      "simple_summary": "ChatGPT is adding a hidden digital stamp to text it writes so people can tell it came from AI — starting with European users.",
-      "why_it_matters": "If you use ChatGPT for writing, people will eventually be able to see it came from AI, which is honest and fair."
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch",
-      "date": "2026-10-05T17:29:22.000Z",
-      "simple_summary": "Two sisters created an AI service that gives young women personalized dating advice with safety as the main focus.",
-      "why_it_matters": "This doesn't affect you unless you're a young woman looking for relationship advice — it's a new tool people can choose to use or not."
-    },
-    {
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "source": "The Verge",
-      "date": "2026-10-05T16:55:42.000Z",
-      "simple_summary": "OpenAI's PR person tried to stop a journalist from asking the CEO about a serious problem — a person's suicide connected to ChatGPT.",
-      "why_it_matters": "This shows that companies sometimes avoid talking about real problems, which makes it harder to understand AI's actual risks."
-    },
-    {
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "source": "The Verge",
-      "date": "2026-10-05T16:44:21.000Z",
-      "simple_summary": "The head of OpenAI said that even though AI will cause some bad things to happen, the good benefits will be worth the cost.",
-      "why_it_matters": "This is an opinion about whether the risks of AI are acceptable — reasonable people disagree, and nobody knows if this prediction will actually come true."
-    },
-    {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch",
-      "date": "2026-10-05T16:43:35.000Z",
-      "simple_summary": "A coding practice website built an AI that has already conducted over 500,000 job interviews for companies testing it out.",
-      "why_it_matters": "If you're job hunting, some companies might use AI to screen your interview before a human talks to you — good to know this is starting to happen."
+      "simple_summary": "OpenAI is adding an invisible watermark to text written by ChatGPT in the EU so people can tell it was made by AI.",
+      "why_it_matters": "If you're in Europe and use ChatGPT, your text output will be marked; otherwise this is mainly a technical rule-following measure."
     }
   ]
 }
