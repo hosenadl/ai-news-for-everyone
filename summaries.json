@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-07T06:04:40.655Z",
+  "generated_at": "2026-10-07T13:29:21.532Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "US, China, EU: three paths to regulating AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMm1ieGlUUDNNeExtZ2w5Y2JyOGxDSVZSS3RBRHBxMm5Qc1h0OUhLcjZwVmJlZWVqRERGNWxmZTMtY0FPUWF3OXV5b0ItMXBGZ0EwNGNIRHV3RHMyVEpVbndJZkRMSVY1Mk5lMjZhbWo2Rjl5ZGl1TVVEZDk5SWFxMGZlXzZiTmVqUVhidnI1SEo?oc=5",
-      "source": "France 24",
-      "date": "2026-10-07T01:16:44.000Z",
-      "simple_summary": "The United States, China, and Europe are each creating their own different rules for how AI companies must operate. Each region is taking a different approach rather than working together.",
-      "why_it_matters": "This is mostly for businesses that sell internationally — they may need to follow different rules in different countries. For a local small business, you likely won't notice this directly."
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "source": "The Verge",
+      "date": "2026-10-07T12:00:00.000Z",
+      "simple_summary": "A small AI startup called Bites is trying to use artificial intelligence to change how food delivery works, competing with much larger companies like DoorDash.",
+      "why_it_matters": "If this works well, it might change how you order food delivered — but right now it's just starting out in one area, so it's too early to know if it will actually catch on."
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source": "The Verge",
+      "date": "2026-10-07T09:00:00.000Z",
+      "simple_summary": "A child safety organization says OpenAI's new ChatGPT version made for teenagers has serious safety problems and shouldn't be used by that age group.",
+      "why_it_matters": "If you have teenagers, this suggests being cautious about letting them use this particular tool without adult supervision."
+    },
+    {
+      "title": "Opinion | US risks ceding AI governance leadership to China and the EU",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3YydTRmeHVoSGFFMG8taUhJdTM0Yi1wTGstcTc0SUpWTkFPVEx3c0lkRmZndm9uODQ4cEszZ3lGeGxDS0VnNTNPbkhyeG1OcGJkdFlJd2xwSVlWb0MtMHUwMndyQ3dvVzNKUWk5LW1qMGtaeEl1dzZmeVhUbThZNnR0dldQZ2ZzVUZyVWU5bFdpR09GcUFqOVpkTWR6bldrZm9XV0VwYXU1ZEh6MncyMWpn0gGyAUFVX3lxTE5vR0laV2o2cFlRclZYNHZaTmlMLVpIcngtbjBBTmp3MzZPblRWZTJSdmp6LWl4RUQwN2lvWFdnemZndWhjTGJTbUc3ZUp6N0ZjMUNPVFU3NnBaVlJiUXpuOURtRi1kVG9GVmdYaWEzTERvMHhyVnlzRkRpaUpRekFJSzRDSkw5S09DQnBqdUJ2M1dxZmF4NzhxR1BmQ053MGZaVl8yZVMzY0I4WWpWdGtpVHc?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-10-07T08:30:06.000Z",
+      "simple_summary": "This headline is too vague to explain properly based on what's provided.",
+      "why_it_matters": "This mostly matters to government officials and large tech companies — nothing you need to act on right now."
+    },
+    {
+      "title": "AI Agents Turn Permission Into Payments’ New Control Point",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHBFUUVhcm1nQmF4MXR3b1pvbUlrLWVIUzN2MW9xU0lOVE5UcGUtVGZGR29MNHRCZnkzbGd3Y1V5Ry1WV0tHaFFyR0kwNnRUSWFwdkF5TFJlVlIzd1lQOU1rRWc4TzRtLUtsdDVVTE5JQjFTUEotU0prVHRxdF9LS0FGcFpxeGgtZWZwQXhHSGVhMTlBbHNRTXRGa185QVdxdnJLREpaWF9tYU9EdXdUT2VRdkJjZw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-07T08:06:41.000Z",
+      "simple_summary": "AI programs are starting to handle payment permissions in new ways, giving companies different ways to control how money moves.",
+      "why_it_matters": "This mostly matters to payment processing companies and tech engineers — nothing most small business owners need to worry about today."
+    },
+    {
+      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-07T01:13:21.000Z",
+      "simple_summary": "Major AI companies like OpenAI, Google, and Meta have not committed to guarantees about making their AI systems completely safe.",
+      "why_it_matters": "This is mainly relevant to investors and people concerned with regulation — it doesn't directly affect how you use AI in daily life."
     },
     {
       "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
       "source": "CNBC",
       "date": "2026-10-07T00:49:00.000Z",
-      "simple_summary": "An investor named Arthur Hayes thinks a lot of money being spent on AI right now is being wasted, and he's betting money on what he thinks will be the next big thing in technology.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+      "simple_summary": "An investor is saying that companies are spending huge amounts of money on AI that isn't producing real value yet, and he thinks different technology will be better.",
+      "why_it_matters": "This is an investor's opinion about future trends — nothing you need to act on, though it shows AI is still unpredictable."
     },
     {
-      "title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lVzdtMDhZYkhnM1R0cVJJYW9oN3ZaZEhnNTUzQTVaaGRMTXRfbk05eG4yd19rQnNObVdkMVB4d1pPX1FBc0ZWVVFSQmFMdng1Y1A1UkxlM0ZPNFRpSHJzQ2o4YUFfbW9nRURqRXAzbkNyakY3QW5F?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-06T23:46:31.000Z",
-      "simple_summary": "OpenAI tested their AI system on 377 difficult math problems and released the results. This is causing some debate in the field about how well these systems actually work.",
-      "why_it_matters": "This mostly matters to people studying AI and technology experts — it doesn't directly affect everyday users or small businesses."
-    },
-    {
-      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-06T23:11:39.000Z",
-      "simple_summary": "Major AI companies (OpenAI, Anthropic, Meta, and Google) refused to promise that their AI systems are completely safe and won't cause harm.",
-      "why_it_matters": "This shows these companies aren't fully committing to safety promises, which is something to know when you use their tools, but they're still generally usable for normal work."
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge",
+      "date": "2026-10-06T23:26:38.000Z",
+      "simple_summary": "OpenAI's AI system has solved hundreds of difficult math problems that mathematicians have been trying to solve for years.",
+      "why_it_matters": "This is impressive for math researchers and computer scientists, but it doesn't affect your daily life or small business operations."
     },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "source": "TechCrunch",
       "date": "2026-10-06T22:34:03.000Z",
-      "simple_summary": "A group of engineers started a new company called Melius that uses AI to automatically create ads and marketing campaigns for you, instead of helping you manage existing ads.",
-      "why_it_matters": "If you run ads for a small business, this tool might eventually save you time by automatically designing ads, but it's still a startup that's just getting started."
+      "simple_summary": "A group of engineers left a company called Ramp and started a new AI company called Melius that makes advertising materials and campaigns automatically.",
+      "why_it_matters": "If you run a small business and create ads, AI tools that design ads for you might eventually become useful — but this company is still very new."
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "source": "OpenAI",
+      "date": "2026-10-06T22:21:50.000Z",
+      "simple_summary": "OpenAI is sharing information about how their AI solved mathematical problems.",
+      "why_it_matters": "This is mainly of interest to math researchers and engineers — nothing you need to do."
     },
     {
       "title": "Read the charter for the White House’s ‘Super Intelligence Force’",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTBwQ0VQN2V3SjJzTHRQLVhNTmlaMmt1TmtqcjNCanpmZEl2RnoxZTVmRVkxc1dCU1RwT196b0pIVnNjVWtIT1pXUmRaVDUwVHBfRzRkd1Z3Z2ZTZllkeE9DN1pwbEJyQW9FTW9sZmhNR0RGRDBPZ3RMY1BGY3pTWWd0RHdnQ3JfN1oyRXhiZEFoQmY2OUE?oc=5",
       "source": "Politico",
       "date": "2026-10-06T21:30:00.000Z",
-      "simple_summary": "The White House created a group called the 'Super Intelligence Force' to help the government handle AI technology, and they released their plan for what this group will do.",
-      "why_it_matters": "This mostly matters to policy experts and large businesses — it shows the government is paying attention to AI, but most small businesses won't be directly affected."
+      "simple_summary": "The White House has created a group called the 'Super Intelligence Force' to help lead policy decisions about powerful AI systems.",
+      "why_it_matters": "This mostly matters to people following government policy — it doesn't directly change how you use AI today, but it may affect AI rules in the future."
     },
     {
       "title": "How AI decision models could change content moderation",
       "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "source": "TechCrunch",
       "date": "2026-10-06T20:35:20.000Z",
-      "simple_summary": "A company called Musubi created a new AI tool that can decide which comments or posts to remove from websites more quickly and efficiently.",
-      "why_it_matters": "This is mainly for social media companies and website owners who moderate comments — most small business owners won't interact with this directly."
+      "simple_summary": "A company called Musubi made an AI tool designed to help websites decide which user comments or posts to remove or keep (content moderation).",
+      "why_it_matters": "This is useful for large websites and social media companies, but doesn't directly affect ordinary people or small business owners."
     },
     {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "source": "TechCrunch",
       "date": "2026-10-06T20:00:30.000Z",
-      "simple_summary": "A computing company called Lambda (backed by Nvidia) is raising 4 billion dollars and planning to sell stock to the public in 2027. This is a high-stakes investment story.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch",
-      "date": "2026-10-06T19:56:50.000Z",
-      "simple_summary": "AI assistants are being developed that can do things like shop online, book flights, and make reservations for you, but many websites are blocking these bots to prevent them from accessing their systems.",
-      "why_it_matters": "In the future, you might use an AI helper to do online errands for you, but right now websites are preventing this from working."
-    },
-    {
-      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
-      "source": "Georgia Tech News Center",
-      "date": "2026-10-06T19:32:43.000Z",
-      "simple_summary": "Georgia Tech University is now offering a college degree you can earn online that focuses on teaching students about artificial intelligence.",
-      "why_it_matters": "If someone wants to learn AI skills or change careers into technology, this is an option, but it's mainly relevant to students and people looking to be trained."
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch",
-      "date": "2026-10-06T18:22:45.000Z",
-      "simple_summary": "A company called Hark created a personal AI assistant that focuses on protecting your privacy — meaning it tries to collect less information about you than other AI assistants do.",
-      "why_it_matters": "If you're worried about privacy, this shows some AI tools are starting to offer privacy protections, but it's still a brand-new product."
-    },
-    {
-      "title": "DOJ Staff Must Refer to AI as ‘Super Intelligence’ in Court (1)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalZTNTgxaGtxMDUxTVdFZDJTVG9NYnNycGJlZEhXVWxGV0xOdTltV08xdTJ4SGU5dms3WnczbmpvaXpIN3ZCeGJuM3l3VDNPa0gwendLYVE4LUVyUWtTS1hKTElkc0tOVkQyQU8xZEk1dnlockw4QjBDSzNNVTIwUzJMMWl5SzNRTk1YWW5GYm15QTFLWFQ4V280eF96aGl6ZHRZdA?oc=5",
-      "source": "Bloomberg Law News",
-      "date": "2026-10-06T18:06:00.000Z",
-      "simple_summary": "The Department of Justice told its staff to use the term 'Super Intelligence' instead of 'AI' when talking in court cases.",
-      "why_it_matters": "This is mostly a government naming rule — nothing that affects ordinary people or small business owners."
+      "simple_summary": "A company called Lambda that builds specialized computers for AI is raising billions of dollars and plans to sell stock to the public in 2027.",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on, though it shows people are betting a lot of money on AI hardware."
     }
   ]
 }
