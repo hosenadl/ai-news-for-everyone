@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-07T13:29:21.532Z",
+  "generated_at": "2026-10-07T23:07:49.718Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI could upend food delivery",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "source": "The Verge",
-      "date": "2026-10-07T12:00:00.000Z",
-      "simple_summary": "A small AI startup called Bites is trying to use artificial intelligence to change how food delivery works, competing with much larger companies like DoorDash.",
-      "why_it_matters": "If this works well, it might change how you order food delivered — but right now it's just starting out in one area, so it's too early to know if it will actually catch on."
-    },
-    {
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "source": "The Verge",
-      "date": "2026-10-07T09:00:00.000Z",
-      "simple_summary": "A child safety organization says OpenAI's new ChatGPT version made for teenagers has serious safety problems and shouldn't be used by that age group.",
-      "why_it_matters": "If you have teenagers, this suggests being cautious about letting them use this particular tool without adult supervision."
-    },
-    {
-      "title": "Opinion | US risks ceding AI governance leadership to China and the EU",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3YydTRmeHVoSGFFMG8taUhJdTM0Yi1wTGstcTc0SUpWTkFPVEx3c0lkRmZndm9uODQ4cEszZ3lGeGxDS0VnNTNPbkhyeG1OcGJkdFlJd2xwSVlWb0MtMHUwMndyQ3dvVzNKUWk5LW1qMGtaeEl1dzZmeVhUbThZNnR0dldQZ2ZzVUZyVWU5bFdpR09GcUFqOVpkTWR6bldrZm9XV0VwYXU1ZEh6MncyMWpn0gGyAUFVX3lxTE5vR0laV2o2cFlRclZYNHZaTmlMLVpIcngtbjBBTmp3MzZPblRWZTJSdmp6LWl4RUQwN2lvWFdnemZndWhjTGJTbUc3ZUp6N0ZjMUNPVFU3NnBaVlJiUXpuOURtRi1kVG9GVmdYaWEzTERvMHhyVnlzRkRpaUpRekFJSzRDSkw5S09DQnBqdUJ2M1dxZmF4NzhxR1BmQ053MGZaVl8yZVMzY0I4WWpWdGtpVHc?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-10-07T08:30:06.000Z",
-      "simple_summary": "This headline is too vague to explain properly based on what's provided.",
-      "why_it_matters": "This mostly matters to government officials and large tech companies — nothing you need to act on right now."
-    },
-    {
-      "title": "AI Agents Turn Permission Into Payments’ New Control Point",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHBFUUVhcm1nQmF4MXR3b1pvbUlrLWVIUzN2MW9xU0lOVE5UcGUtVGZGR29MNHRCZnkzbGd3Y1V5Ry1WV0tHaFFyR0kwNnRUSWFwdkF5TFJlVlIzd1lQOU1rRWc4TzRtLUtsdDVVTE5JQjFTUEotU0prVHRxdF9LS0FGcFpxeGgtZWZwQXhHSGVhMTlBbHNRTXRGa185QVdxdnJLREpaWF9tYU9EdXdUT2VRdkJjZw?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-10-07T08:06:41.000Z",
-      "simple_summary": "AI programs are starting to handle payment permissions in new ways, giving companies different ways to control how money moves.",
-      "why_it_matters": "This mostly matters to payment processing companies and tech engineers — nothing most small business owners need to worry about today."
-    },
-    {
-      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-07T01:13:21.000Z",
-      "simple_summary": "Major AI companies like OpenAI, Google, and Meta have not committed to guarantees about making their AI systems completely safe.",
-      "why_it_matters": "This is mainly relevant to investors and people concerned with regulation — it doesn't directly affect how you use AI in daily life."
-    },
-    {
-      "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5",
+      "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5",
       "source": "CNBC",
-      "date": "2026-10-07T00:49:00.000Z",
-      "simple_summary": "An investor is saying that companies are spending huge amounts of money on AI that isn't producing real value yet, and he thinks different technology will be better.",
-      "why_it_matters": "This is an investor's opinion about future trends — nothing you need to act on, though it shows AI is still unpredictable."
+      "date": "2026-10-07T22:51:03.000Z",
+      "simple_summary": "Samsung is making a lot of money because people are buying chips and products related to AI technology. The company expects record profits in the next few months.",
+      "why_it_matters": "This mostly matters to investors and Samsung customers — it shows AI is becoming a bigger part of the tech business, but doesn't directly affect your daily life or small business yet."
     },
     {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "title": "Delta CEO talks fuel cost and artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3cteE9YY25MZVVMekwxc3Aza3BTcG1Fa2s5TUNiV3N0T1MwOGxSTTFHc1kzNk9wV0tBeUNjNDdRN0pWdnpCMUxBNE15aXpZZ3lLcU1vd0FMVjJuMFZBN0cyQm9JTEo4Z1RKN2JJZ2dsRVJJaU5raGFLOGpPZWRTZ0VhdTlrTmQyaHhSclpOQ1NjTkhhelVB?oc=5",
+      "source": "CBS News",
+      "date": "2026-10-07T22:15:00.000Z",
+      "simple_summary": "The boss of Delta Airlines discussed how AI and fuel costs affect the airline's business.",
+      "why_it_matters": "If you fly Delta, AI might eventually help them run better and cheaper, but this is mostly an early internal conversation — nothing you need to worry about now."
+    },
+    {
+      "title": "OpenAI releases progress on more than 300 math research problems, stunning humans",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-10-07T21:17:45.000Z",
+      "simple_summary": "OpenAI's AI system solved more than 300 difficult math problems that surprised experts. This shows the AI is getting better at complex thinking.",
+      "why_it_matters": "This mostly matters to mathematicians and researchers — it's impressive but doesn't change anything for ordinary people or small businesses right now."
+    },
+    {
+      "title": "Microsoft brings more AI to PCs as it challenges Apple",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-07T21:11:43.000Z",
+      "simple_summary": "Microsoft is adding more AI features to computers (like Windows PCs) to compete with Apple's computers.",
+      "why_it_matters": "If you use Windows, you may eventually get AI tools built into your computer, similar to how Apple is adding AI to iPhones and Macs."
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "date": "2026-10-07T20:22:37.000Z",
+      "simple_summary": "Microsoft released new laptop computers called Surface Laptop Ultra that use special Nvidia chips designed to run AI programs. These are powerful computers built specifically for AI.",
+      "why_it_matters": "These are expensive, specialized computers ($2,599) mainly for people who need to run AI programs — not something most small business owners need right now."
+    },
+    {
+      "title": "Microsoft Turns Windows PCs Into Command Centers for AI Agents",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBSTk9zWVlNLTdyNEduNmxRU00wb3pLNUxweHJiclNaOTFEcEFYQ19Pa3NQc1puTEZsSkdyVDdtLVB1RTk1d0pPVm9SeGFnbjhFZFpoWV8zY0ZzOVJXb04xUGRVVFRkY2djemhySEh0RXJqZTBXNUVraEg1S2twZUNzdWRKcFdzWjJBNWlraVNBSThjSS0yYTRZT3JjUWx4bGs4aFVldWN3OHRteDZwQUtKSGRObUM4SXNMZw?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-07T20:07:23.000Z",
+      "simple_summary": "Microsoft is turning Windows computers into \"command centers\" where AI assistants can do tasks for you.",
+      "why_it_matters": "Eventually, this might mean you can ask your computer to do more things automatically, like sorting files or answering questions — similar to how a personal assistant would help you."
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch",
+      "date": "2026-10-07T18:30:57.000Z",
+      "simple_summary": "Meta (Facebook's parent company) released its AI assistant called Muse on iPad tablets. It was already available on phones, and now it works on tablets too.",
+      "why_it_matters": "If you use an iPad and want an AI assistant, you now have more options, but this doesn't affect you unless you specifically use Meta's products."
+    },
+    {
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-07T18:30:52.000Z",
+      "simple_summary": "Microsoft is selling a high-powered laptop computer with a special Nvidia AI chip for $2,599.",
+      "why_it_matters": "This is a specialized expensive computer for people who work with advanced AI — regular small business owners don't need it."
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch",
+      "date": "2026-10-07T18:15:28.000Z",
+      "simple_summary": "OpenAI's ChatGPT for teenagers has safety features, but tests showed it keeps encouraging teenagers to keep talking even when they're going through a crisis, which could be unhealthy.",
+      "why_it_matters": "If you have teenagers, you should know that AI chatbots may not be the right person to talk to during tough times — talking to a real person like a counselor is still better."
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "source": "The Verge",
-      "date": "2026-10-06T23:26:38.000Z",
-      "simple_summary": "OpenAI's AI system has solved hundreds of difficult math problems that mathematicians have been trying to solve for years.",
-      "why_it_matters": "This is impressive for math researchers and computer scientists, but it doesn't affect your daily life or small business operations."
+      "date": "2026-10-07T18:01:20.000Z",
+      "simple_summary": "Microsoft is giving its AI assistant Copilot more power to access your files and make changes to your computer.",
+      "why_it_matters": "If you use Windows and Copilot, the AI will be able to do more tasks for you, but this also means you should be careful about what permissions you give it."
     },
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
       "source": "TechCrunch",
-      "date": "2026-10-06T22:34:03.000Z",
-      "simple_summary": "A group of engineers left a company called Ramp and started a new AI company called Melius that makes advertising materials and campaigns automatically.",
-      "why_it_matters": "If you run a small business and create ads, AI tools that design ads for you might eventually become useful — but this company is still very new."
+      "date": "2026-10-07T18:00:19.000Z",
+      "simple_summary": "ChatGPT is getting a new look with more pictures and interactive graphics instead of just text.",
+      "why_it_matters": "If you use ChatGPT, it will become easier to understand with pictures and visuals, but this is just a nicer interface — the AI itself isn't changing."
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-      "source": "OpenAI",
-      "date": "2026-10-06T22:21:50.000Z",
-      "simple_summary": "OpenAI is sharing information about how their AI solved mathematical problems.",
-      "why_it_matters": "This is mainly of interest to math researchers and engineers — nothing you need to do."
-    },
-    {
-      "title": "Read the charter for the White House’s ‘Super Intelligence Force’",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTBwQ0VQN2V3SjJzTHRQLVhNTmlaMmt1TmtqcjNCanpmZEl2RnoxZTVmRVkxc1dCU1RwT196b0pIVnNjVWtIT1pXUmRaVDUwVHBfRzRkd1Z3Z2ZTZllkeE9DN1pwbEJyQW9FTW9sZmhNR0RGRDBPZ3RMY1BGY3pTWWd0RHdnQ3JfN1oyRXhiZEFoQmY2OUE?oc=5",
-      "source": "Politico",
-      "date": "2026-10-06T21:30:00.000Z",
-      "simple_summary": "The White House has created a group called the 'Super Intelligence Force' to help lead policy decisions about powerful AI systems.",
-      "why_it_matters": "This mostly matters to people following government policy — it doesn't directly change how you use AI today, but it may affect AI rules in the future."
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch",
-      "date": "2026-10-06T20:35:20.000Z",
-      "simple_summary": "A company called Musubi made an AI tool designed to help websites decide which user comments or posts to remove or keep (content moderation).",
-      "why_it_matters": "This is useful for large websites and social media companies, but doesn't directly affect ordinary people or small business owners."
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch",
-      "date": "2026-10-06T20:00:30.000Z",
-      "simple_summary": "A company called Lambda that builds specialized computers for AI is raising billions of dollars and plans to sell stock to the public in 2027.",
-      "why_it_matters": "This mostly matters to investors — nothing you need to act on, though it shows people are betting a lot of money on AI hardware."
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "source": "The Verge",
+      "date": "2026-10-07T17:46:44.000Z",
+      "simple_summary": "Microsoft is selling a very powerful computer designed for developers and AI work for about $6,000. You can preorder it now and it will ship in November.",
+      "why_it_matters": "This is an expensive specialized tool for people who build AI programs — not something ordinary small business owners or individuals need."
     }
   ]
 }
