@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-07T23:07:49.718Z",
+  "generated_at": "2026-10-08T06:10:10.895Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WUJNYjRyQm5lSXhtVnhIRXFnUmJKbGpCMWRUWDUtSWdpOVcwWkVCeUMzU0RXVk9USUpBRmYzQkNUV1RpUXg5VXo5cm91cHBvR0dEWF9WbTZMTXM?oc=5",
+      "source": "BBC",
+      "date": "2026-10-08T01:59:54.000Z",
+      "simple_summary": "Samsung is making more computer chips for AI systems, and this is making their company very profitable — they're earning record amounts of money.",
+      "why_it_matters": "This mostly matters to Samsung and investors. For you, it just means AI companies have the chips they need to keep growing, which is why you see AI tools everywhere."
+    },
+    {
+      "title": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFR3UFJmaG9ULVIyNzJoT2lqZmZRVF9GNmJkNVdZdldUZ3RkdlY4T1dyQktJcnZnSklqczFoRzJGbDFITDhzc2Q5TUR4OExfTDJ2ckVTRF9mZ3ZVZ3phMFJkaThEeTIySVZSdzA3dE9tMWREVDh5WHV6b0tIUVNTRXNURmI?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-08T01:28:57.000Z",
+      "simple_summary": "OpenAI showed off some new math solutions, and separately, there's a political group supporting candidates who want to use AI.",
+      "why_it_matters": "This mostly matters to investors and people interested in politics — nothing you need to act on."
+    },
+    {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5",
       "source": "CNBC",
       "date": "2026-10-07T22:51:03.000Z",
-      "simple_summary": "Samsung is making a lot of money because people are buying chips and products related to AI technology. The company expects record profits in the next few months.",
-      "why_it_matters": "This mostly matters to investors and Samsung customers — it shows AI is becoming a bigger part of the tech business, but doesn't directly affect your daily life or small business yet."
-    },
-    {
-      "title": "Delta CEO talks fuel cost and artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3cteE9YY25MZVVMekwxc3Aza3BTcG1Fa2s5TUNiV3N0T1MwOGxSTTFHc1kzNk9wV0tBeUNjNDdRN0pWdnpCMUxBNE15aXpZZ3lLcU1vd0FMVjJuMFZBN0cyQm9JTEo4Z1RKN2JJZ2dsRVJJaU5raGFLOGpPZWRTZ0VhdTlrTmQyaHhSclpOQ1NjTkhhelVB?oc=5",
-      "source": "CBS News",
-      "date": "2026-10-07T22:15:00.000Z",
-      "simple_summary": "The boss of Delta Airlines discussed how AI and fuel costs affect the airline's business.",
-      "why_it_matters": "If you fly Delta, AI might eventually help them run better and cheaper, but this is mostly an early internal conversation — nothing you need to worry about now."
-    },
-    {
-      "title": "OpenAI releases progress on more than 300 math research problems, stunning humans",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-07T21:17:45.000Z",
-      "simple_summary": "OpenAI's AI system solved more than 300 difficult math problems that surprised experts. This shows the AI is getting better at complex thinking.",
-      "why_it_matters": "This mostly matters to mathematicians and researchers — it's impressive but doesn't change anything for ordinary people or small businesses right now."
+      "simple_summary": "Samsung is making record profits because so many companies want to buy computer chips for AI systems.",
+      "why_it_matters": "Same as story #0 — it shows AI is a booming business, but it doesn't directly affect your everyday life."
     },
     {
       "title": "Microsoft brings more AI to PCs as it challenges Apple",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
       "source": "Reuters",
       "date": "2026-10-07T21:11:43.000Z",
-      "simple_summary": "Microsoft is adding more AI features to computers (like Windows PCs) to compete with Apple's computers.",
-      "why_it_matters": "If you use Windows, you may eventually get AI tools built into your computer, similar to how Apple is adding AI to iPhones and Macs."
+      "simple_summary": "Microsoft is adding more AI features to computers so they work better against Apple's computers.",
+      "why_it_matters": "If you use a Windows computer, you'll probably get more AI helpers built into your machine over time."
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "date": "2026-10-07T20:48:45.000Z",
+      "simple_summary": "A company called Nous Research created an AI tool that helps businesses, and investors valued the company at $1.5 billion.",
+      "why_it_matters": "This is mainly interesting to investors and tech companies. Small businesses might eventually use their AI tools if they become popular and affordable."
     },
     {
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
       "source": "TechCrunch",
       "date": "2026-10-07T20:22:37.000Z",
-      "simple_summary": "Microsoft released new laptop computers called Surface Laptop Ultra that use special Nvidia chips designed to run AI programs. These are powerful computers built specifically for AI.",
-      "why_it_matters": "These are expensive, specialized computers ($2,599) mainly for people who need to run AI programs — not something most small business owners need right now."
+      "simple_summary": "Microsoft is selling new laptops with special AI chips inside, starting at $2,599, and they updated Windows to work with them.",
+      "why_it_matters": "If your computer is wearing out, these new laptops will have AI features built in — but they're expensive, and you probably don't need one unless you want cutting-edge technology."
     },
     {
-      "title": "Microsoft Turns Windows PCs Into Command Centers for AI Agents",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBSTk9zWVlNLTdyNEduNmxRU00wb3pLNUxweHJiclNaOTFEcEFYQ19Pa3NQc1puTEZsSkdyVDdtLVB1RTk1d0pPVm9SeGFnbjhFZFpoWV8zY0ZzOVJXb04xUGRVVFRkY2djemhySEh0RXJqZTBXNUVraEg1S2twZUNzdWRKcFdzWjJBNWlraVNBSThjSS0yYTRZT3JjUWx4bGs4aFVldWN3OHRteDZwQUtKSGRObUM4SXNMZw?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-10-07T20:07:23.000Z",
-      "simple_summary": "Microsoft is turning Windows computers into \"command centers\" where AI assistants can do tasks for you.",
-      "why_it_matters": "Eventually, this might mean you can ask your computer to do more things automatically, like sorting files or answering questions — similar to how a personal assistant would help you."
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge",
+      "date": "2026-10-07T19:10:42.000Z",
+      "simple_summary": "ChatGPT now shows pictures, charts, and clickable buttons in its answers instead of just words.",
+      "why_it_matters": "If you use ChatGPT, your answers will look nicer and be easier to understand, like reading a magazine instead of just a plain letter."
+    },
+    {
+      "title": "Donald Trump’s untenable strategy for AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTRBY0FpLWxnNkVkYWFoa0ptalMybWJVRVBGWTZZY2hfRUxoWldraVV1SmlWRlh6Y2lwMzZ0a2tBR2FiUlVORWZTRl80elRncXZjYzFpSTFVN3Zab0FLTWs3NjJDa1ZFZ2pjNlFGemlJd3NEd1RJSE9abGYxX09HYTB6YVhwUlZicXJHMm9OVmJLNVlE?oc=5",
+      "source": "The Economist",
+      "date": "2026-10-07T18:44:43.000Z",
+      "simple_summary": "An article discusses Donald Trump's plans for AI policy.",
+      "why_it_matters": "This is about politics and policy — mostly for people interested in government, not something affecting your daily life right now."
+    },
+    {
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "source": "The Verge",
+      "date": "2026-10-07T18:42:22.000Z",
+      "simple_summary": "Microsoft announced details about new AI-powered laptops and updated Windows software at an event.",
+      "why_it_matters": "Same as story #5 — these are expensive new computers with AI features, but most people can keep using their current machines."
     },
     {
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
       "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "source": "TechCrunch",
       "date": "2026-10-07T18:30:57.000Z",
-      "simple_summary": "Meta (Facebook's parent company) released its AI assistant called Muse on iPad tablets. It was already available on phones, and now it works on tablets too.",
-      "why_it_matters": "If you use an iPad and want an AI assistant, you now have more options, but this doesn't affect you unless you specifically use Meta's products."
-    },
-    {
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-07T18:30:52.000Z",
-      "simple_summary": "Microsoft is selling a high-powered laptop computer with a special Nvidia AI chip for $2,599.",
-      "why_it_matters": "This is a specialized expensive computer for people who work with advanced AI — regular small business owners don't need it."
+      "simple_summary": "Meta's AI assistant called Muse is now available on iPads, just a month after it came out on phones.",
+      "why_it_matters": "If you own an iPad, Meta's AI helper is becoming available to you. Like having a phone assistant that now works on your tablet too."
     },
     {
       "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
       "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
       "source": "TechCrunch",
       "date": "2026-10-07T18:15:28.000Z",
-      "simple_summary": "OpenAI's ChatGPT for teenagers has safety features, but tests showed it keeps encouraging teenagers to keep talking even when they're going through a crisis, which could be unhealthy.",
-      "why_it_matters": "If you have teenagers, you should know that AI chatbots may not be the right person to talk to during tough times — talking to a real person like a counselor is still better."
+      "simple_summary": "ChatGPT is designed to be safe for teenagers, but testing shows it keeps trying to chat with them even when they're upset, which might not be healthy.",
+      "why_it_matters": "If you have a teenager, you should know that AI chatbots might encourage too much chatting rather than helping them get real help during hard times."
     },
     {
       "title": "Microsoft is giving Copilot more control over Windows and your files",
       "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "source": "The Verge",
       "date": "2026-10-07T18:01:20.000Z",
-      "simple_summary": "Microsoft is giving its AI assistant Copilot more power to access your files and make changes to your computer.",
-      "why_it_matters": "If you use Windows and Copilot, the AI will be able to do more tasks for you, but this also means you should be careful about what permissions you give it."
-    },
-    {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch",
-      "date": "2026-10-07T18:00:19.000Z",
-      "simple_summary": "ChatGPT is getting a new look with more pictures and interactive graphics instead of just text.",
-      "why_it_matters": "If you use ChatGPT, it will become easier to understand with pictures and visuals, but this is just a nicer interface — the AI itself isn't changing."
-    },
-    {
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "source": "The Verge",
-      "date": "2026-10-07T17:46:44.000Z",
-      "simple_summary": "Microsoft is selling a very powerful computer designed for developers and AI work for about $6,000. You can preorder it now and it will ship in November.",
-      "why_it_matters": "This is an expensive specialized tool for people who build AI programs — not something ordinary small business owners or individuals need."
+      "simple_summary": "Microsoft is giving its AI assistant Copilot more power — it can now look at your personal files and make changes on your computer.",
+      "why_it_matters": "This means Copilot will be more helpful and do more for you automatically, but it also has more access to your private information — something to be aware of."
     }
   ]
 }
