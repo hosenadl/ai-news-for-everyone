@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-08T13:35:40.431Z",
+  "generated_at": "2026-10-08T23:23:28.702Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Peppermint Secures $4.7 Million to Fix Clinical Trial Billing",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDhxS3RTRmxEWWhtRms2SFJ4NFFEQ2V0cEZZeHMwYXV3cUcyMG8tSTVUQmFhWTc2WlgxNjFKMnZ3NGxRdm9YV210dTg1YW1vRVM0ZnNGZEhSSWhnT2NRb1h3STFyeTFSV1lzN2ZrUUhRS1VXZndiN1lxRkJxdDM3UDdBZDlIRUdCM3hCT2cwNTVtOGV3WEZlNVZuRkxTdEN4ZUFwU2R2bzZtM09ZZXdheUNLX2ltNFVmMm0yY1FB?oc=5",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T20:04:26.000Z",
+      "simple_summary": "Three safety researchers who were fired from OpenAI say the company's claims about them mishandling sensitive information are wrong. They worry that firing them will scare other people at OpenAI from speaking up about safety concerns.",
+      "why_it_matters": "This mostly matters to people who work in AI companies and investors — nothing you need to act on."
+    },
+    {
+      "title": "AI Answers Get Cheaper as Model Choices Multiply",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjNXc0RPLXNMbXk5VlV1OTl4cjNVUGFYMkpreC1VWHpJQ1Vsa0hCSThaYlIyR19xSEhqS1BSdFRZVWZJbDhxUjNrci14T0VkYUpiZTRILWpfTGR6UDhHTHhuQ3NZRmZTSzhZV0R5MWduY3JjUWtrM0VOUGozd3ZDZms4QnhER2k0eGltYVRSUkktM2ltdWpERjU2Q0dRaUQ3WllnQnB1S29qQQ?oc=5",
       "source": "PYMNTS.com",
-      "date": "2026-10-08T13:02:04.000Z",
-      "simple_summary": "A company called Peppermint raised money to build AI software that helps hospitals handle billing for medical research studies.",
-      "why_it_matters": "This mostly matters to hospitals and investors — nothing you need to act on personally."
+      "date": "2026-10-08T19:52:30.000Z",
+      "simple_summary": "Different AI companies are competing with each other, which is making AI services less expensive.",
+      "why_it_matters": "If you're a small business considering AI tools to help with your work, prices may become more affordable over time."
     },
     {
-      "title": "From Its First Ecommerce Site to AI Adoption, Gap Looks Back While Looking Forward",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUU3cE9jUEViYnhSd0dSOUFTQnh2ajhEQUY5N2E3OEdoSWNmVUwyUkNtOXJVNUhoaHMwT3ItMlUzaC1FWTlQeVNUcUpkaVh4UWxXcmU2cnlQSGlmVDZtWmp4U21LbXRMSjZhaktwd1JnTUpneGwwaUJ0eDdMdG90ZWJ4Tm02VGRtR25HUF9RTUI1akJEVHB5TkkxQUhaZm8tSmJWSHZ5MEVuR3c?oc=5",
-      "source": "WWD",
-      "date": "2026-10-08T13:00:43.000Z",
-      "simple_summary": "Gap, the clothing store, is sharing its history of moving to online shopping and is now using AI to help run their business.",
-      "why_it_matters": "If you shop at Gap online or in stores, their AI might help them stock better inventory or improve your experience, but nothing major changes for you."
+      "title": "Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY21aRzRPQWRJdXB1WWEyYS1YOWZrVEdoU0FWeEdMeGtLRUk0MmpQNlMxdzgtUDNWOGVhRTNoR2h0RlM5d1ZtTllCOHY3TnctS0liU2o1ZmdFc054RHdhSVV0MmMxOVZnX2FqZWpXWk10RWpUTkRzRWQ5QlMwNVBTa0g4ajBDYVlVZXhMMFVjVVhNS0FsUFk0RDFZcGwwTHNldjFqMzQwT3dEMHhIcGZtT1Q4Mks3R0hvYWhWdWxJX21mY0FJOTcwb1kyc1JxU3NXczl3MHlpcDhmd2hSTURoUW9SV2FwWFVnNnNkMWtMYnhkWV9tajVkRw?oc=5",
+      "source": "WBMA",
+      "date": "2026-10-08T19:45:03.000Z",
+      "simple_summary": "A political figure made a comment about AI that people found amusing or wrong.",
+      "why_it_matters": "This is mostly political commentary — nothing you need to act on."
     },
     {
-      "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWR1QnJQemJYOUd6LUJ5dzQ5VTF3b21EZlVYakphU0Z3ZVVWS0tad3VLZUZPV2VsMjBINzBlZXV4WTNpeGdoUmRqUDNHYU9pWFl3bEdpUy1ZY3J0LVhjOTlBYm5fX1V1ZU1MQ3dUMTFzdngzWDFqQUwzZ3VzTHpzQ0djY2l6SU03VmZmQklvWDg3NWJJNFQ5VXdDSl95Qjkzd0JMcEVJQ1BvWFU?oc=5",
-      "source": "The Guardian",
-      "date": "2026-10-08T11:16:00.000Z",
-      "simple_summary": "A large grocery store called Co-op started using AI to watch what their employees are doing during work.",
-      "why_it_matters": "If you work in retail or customer service, this shows a trend of employers using AI cameras to monitor workers — something worth being aware of when looking for jobs."
+      "title": "JPMorgan Chase CEO Jamie Dimon Just Issued a Blunt Warning About Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVZtUkloNk9VNmxfOF9JNXo4YlFyWGNURFVzd21ReUtyUUxRNTJvY2thLXVZemEtSDVFS19lWFRlNUdzQkNRV1NnSXAxS0JCQ295YjgtTHMzb2dURW5fODZRcnIzcVFEQkp6VWEtNm5KQ29QRzEycVQ5ODJvcmRoOTRlZ28yY2pvRUxBSUJaNl8tdE1FZm9NNQ?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-10-08T19:43:55.000Z",
+      "simple_summary": "The CEO of JPMorgan Chase bank said something serious about AI's risks or importance.",
+      "why_it_matters": "When major business leaders warn about AI, it's worth paying attention to what changes might be coming to banking or businesses — though the article doesn't say what the specific warning was."
     },
     {
-      "title": "Fired OpenAI employees raise concerns over AI safety, monitoring",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-08T10:52:07.000Z",
-      "simple_summary": "Some employees who left OpenAI (the company that makes ChatGPT) are speaking up about safety concerns with their AI systems.",
-      "why_it_matters": "This matters mainly to people investing in or working for AI companies — regular folks don't need to do anything."
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T18:20:32.000Z",
+      "simple_summary": "Actor Ben Affleck sold an AI filmmaking company to Netflix and has shown he knows a lot about how AI actually works, not just the buzzwords.",
+      "why_it_matters": "This mostly shows that AI filmmaking is becoming real — but for now it's mainly relevant to entertainment companies and investors."
     },
     {
-      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "source": "AP News",
-      "date": "2026-10-08T10:23:00.000Z",
-      "simple_summary": "A poll shows most Americans believe AI is being developed too quickly without enough thought about safety.",
-      "why_it_matters": "This reflects widespread concern that many people share, but it doesn't change anything in your daily life right now."
-    },
-    {
-      "title": "Are Artificial Intelligence Chatbots Safe? | IFLScience The Big Questions",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUZqdVZVT2ZURDRmOWV5dTlEcmUtbkoxbzB1cEhmOHdtMzN0TVp3ODB2RXZkZmRod2Jwd0Z5SUtsV0hOWVpWYUhVNXRocVhxTHpaYUJCM3lueWI2LVNmMk1GVmFIdS1icklkUVZDMktBVHJNM2lGQTE0dENDRC03TU5qbUIxTndfTlNNLW1pT1pKRTFucWtKWTFCcHBFMW5rcGtqbUNB?oc=5",
-      "source": "IFLScience",
-      "date": "2026-10-08T09:57:30.000Z",
-      "simple_summary": "A science website is discussing whether chatbots like ChatGPT are safe to use.",
-      "why_it_matters": "If you use AI chatbots, it's good to know people are asking safety questions, but this is mostly background discussion rather than breaking news."
-    },
-    {
-      "title": "Manus raises more than $500 million after Meta exit",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-08T07:30:35.000Z",
-      "simple_summary": "A company called Manus raised a lot of money after being spun off from Meta (Facebook's parent company).",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T18:19:45.000Z",
+      "simple_summary": "A company that ranks and tests different AI models received a large investment of $200 million and is now worth $3.1 billion.",
       "why_it_matters": "This mostly matters to investors — nothing you need to act on."
     },
     {
-      "title": "Jeff Bezos reveals AI vision that could transform the American workweek",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1Q2Sk9ob2s3a3V1ZDBZSkotSERlVXBCUHhsd183NlR6R29nTDNxVDB3MmFnVEtWMU5HbUF1cE9OUl83RWd0bGJ3S1FYZFFfODZ4SUFJNjJBWm9TbmwzWHVjQVdEczd2VzRBRl9WRmJxQkVTRmJKV2t6XzNMbi00dl9QdG5LTjJvN2FxQVdwSHEyb1dkdmNyVUNnNjRWaU9KT2ZTWmNLVi1vVG1HRjF2Yg?oc=5",
-      "source": "New York Post",
-      "date": "2026-10-08T01:46:00.000Z",
-      "simple_summary": "Jeff Bezos (who founded Amazon) shared ideas about how AI could change how much people work in America.",
-      "why_it_matters": "This is speculation about the distant future — nothing concrete to act on now, but worth paying attention to if you're thinking about jobs long-term."
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "source": "TechCrunch",
-      "date": "2026-10-07T20:48:45.000Z",
-      "simple_summary": "A company called Nous Research raised money and released AI 'agents' — software that can handle business tasks like a helper would.",
-      "why_it_matters": "If you run a business, AI agents that can do specific tasks might become useful tools in the future, but they're still new."
+      "date": "2026-10-08T18:19:42.000Z",
+      "simple_summary": "OpenAI, one of the biggest AI companies, is making much less money than people thought it was — about $50 billion less per year.",
+      "why_it_matters": "This mostly matters to investors and shows that even popular AI companies aren't as profitable as assumed — nothing you need to act on immediately."
     },
     {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "source": "TechCrunch",
-      "date": "2026-10-07T20:22:37.000Z",
-      "simple_summary": "Microsoft released new laptops that are specially designed to run AI programs and come with updated Windows 11 software. They start at $2,599.",
-      "why_it_matters": "If you need a very powerful laptop for special AI work, this is an option — but for most people, regular laptops still work fine."
+      "date": "2026-10-08T18:18:00.000Z",
+      "simple_summary": "Google is adding features to its Gemini AI so it can work like an employee — planning work, doing tasks, and even getting its own email address to use business apps.",
+      "why_it_matters": "If you run a business using Google tools, this could eventually help automate routine tasks for you, though it's just starting with large businesses first."
     },
     {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge",
-      "date": "2026-10-07T19:10:42.000Z",
-      "simple_summary": "ChatGPT now shows pictures, charts, and clickable buttons in its answers instead of just text.",
-      "why_it_matters": "If you use ChatGPT, answers will be easier to understand with visuals — a nice improvement for anyone asking it questions."
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T18:16:24.000Z",
+      "simple_summary": "A company that makes an AI called Claude created new rules against people using it for bad things like election interference, weapons, or endless abuse.",
+      "why_it_matters": "This is mainly a company policy update — if you use Claude, you just need to know it has clearer rules now, but normal use is fine."
     },
     {
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T18:10:55.000Z",
+      "simple_summary": "OpenAI released solutions to math problems that don't follow the quality standards that math researchers expect.",
+      "why_it_matters": "This mostly matters to math researchers and AI engineers — nothing you need to act on."
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
       "source": "The Verge",
-      "date": "2026-10-07T18:42:22.000Z",
-      "simple_summary": "Microsoft announced details about its new Surface Laptop Ultra laptop and other Windows products at a big event.",
-      "why_it_matters": "If you're shopping for an expensive high-powered laptop, this is worth checking out — but it's a premium product mainly for people who need lots of computing power."
+      "date": "2026-10-08T17:58:33.000Z",
+      "simple_summary": "USA Today newspaper is suing OpenAI because it claims OpenAI used hundreds of thousands of the newspaper's articles to train its AI without permission or payment.",
+      "why_it_matters": "This is one of many lawsuits against AI companies over using published content — the outcome could eventually affect how AI companies get training material, though it won't affect you right away."
+    },
+    {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "source": "The Verge",
+      "date": "2026-10-08T17:57:01.000Z",
+      "simple_summary": "Elon Musk's company SpaceXAI donated computing power to support a Linux software project.",
+      "why_it_matters": "This is a technical donation mostly relevant to software engineers — nothing you need to act on."
     }
   ]
 }
