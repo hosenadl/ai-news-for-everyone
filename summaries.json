@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-08T06:10:10.895Z",
+  "generated_at": "2026-10-08T13:35:40.431Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WUJNYjRyQm5lSXhtVnhIRXFnUmJKbGpCMWRUWDUtSWdpOVcwWkVCeUMzU0RXVk9USUpBRmYzQkNUV1RpUXg5VXo5cm91cHBvR0dEWF9WbTZMTXM?oc=5",
-      "source": "BBC",
-      "date": "2026-10-08T01:59:54.000Z",
-      "simple_summary": "Samsung is making more computer chips for AI systems, and this is making their company very profitable — they're earning record amounts of money.",
-      "why_it_matters": "This mostly matters to Samsung and investors. For you, it just means AI companies have the chips they need to keep growing, which is why you see AI tools everywhere."
+      "title": "Peppermint Secures $4.7 Million to Fix Clinical Trial Billing",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDhxS3RTRmxEWWhtRms2SFJ4NFFEQ2V0cEZZeHMwYXV3cUcyMG8tSTVUQmFhWTc2WlgxNjFKMnZ3NGxRdm9YV210dTg1YW1vRVM0ZnNGZEhSSWhnT2NRb1h3STFyeTFSV1lzN2ZrUUhRS1VXZndiN1lxRkJxdDM3UDdBZDlIRUdCM3hCT2cwNTVtOGV3WEZlNVZuRkxTdEN4ZUFwU2R2bzZtM09ZZXdheUNLX2ltNFVmMm0yY1FB?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-08T13:02:04.000Z",
+      "simple_summary": "A company called Peppermint raised money to build AI software that helps hospitals handle billing for medical research studies.",
+      "why_it_matters": "This mostly matters to hospitals and investors — nothing you need to act on personally."
     },
     {
-      "title": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFR3UFJmaG9ULVIyNzJoT2lqZmZRVF9GNmJkNVdZdldUZ3RkdlY4T1dyQktJcnZnSklqczFoRzJGbDFITDhzc2Q5TUR4OExfTDJ2ckVTRF9mZ3ZVZ3phMFJkaThEeTIySVZSdzA3dE9tMWREVDh5WHV6b0tIUVNTRXNURmI?oc=5",
+      "title": "From Its First Ecommerce Site to AI Adoption, Gap Looks Back While Looking Forward",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUU3cE9jUEViYnhSd0dSOUFTQnh2ajhEQUY5N2E3OEdoSWNmVUwyUkNtOXJVNUhoaHMwT3ItMlUzaC1FWTlQeVNUcUpkaVh4UWxXcmU2cnlQSGlmVDZtWmp4U21LbXRMSjZhaktwd1JnTUpneGwwaUJ0eDdMdG90ZWJ4Tm02VGRtR25HUF9RTUI1akJEVHB5TkkxQUhaZm8tSmJWSHZ5MEVuR3c?oc=5",
+      "source": "WWD",
+      "date": "2026-10-08T13:00:43.000Z",
+      "simple_summary": "Gap, the clothing store, is sharing its history of moving to online shopping and is now using AI to help run their business.",
+      "why_it_matters": "If you shop at Gap online or in stores, their AI might help them stock better inventory or improve your experience, but nothing major changes for you."
+    },
+    {
+      "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWR1QnJQemJYOUd6LUJ5dzQ5VTF3b21EZlVYakphU0Z3ZVVWS0tad3VLZUZPV2VsMjBINzBlZXV4WTNpeGdoUmRqUDNHYU9pWFl3bEdpUy1ZY3J0LVhjOTlBYm5fX1V1ZU1MQ3dUMTFzdngzWDFqQUwzZ3VzTHpzQ0djY2l6SU03VmZmQklvWDg3NWJJNFQ5VXdDSl95Qjkzd0JMcEVJQ1BvWFU?oc=5",
+      "source": "The Guardian",
+      "date": "2026-10-08T11:16:00.000Z",
+      "simple_summary": "A large grocery store called Co-op started using AI to watch what their employees are doing during work.",
+      "why_it_matters": "If you work in retail or customer service, this shows a trend of employers using AI cameras to monitor workers — something worth being aware of when looking for jobs."
+    },
+    {
+      "title": "Fired OpenAI employees raise concerns over AI safety, monitoring",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
       "source": "Fox News",
-      "date": "2026-10-08T01:28:57.000Z",
-      "simple_summary": "OpenAI showed off some new math solutions, and separately, there's a political group supporting candidates who want to use AI.",
-      "why_it_matters": "This mostly matters to investors and people interested in politics — nothing you need to act on."
+      "date": "2026-10-08T10:52:07.000Z",
+      "simple_summary": "Some employees who left OpenAI (the company that makes ChatGPT) are speaking up about safety concerns with their AI systems.",
+      "why_it_matters": "This matters mainly to people investing in or working for AI companies — regular folks don't need to do anything."
     },
     {
-      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-07T22:51:03.000Z",
-      "simple_summary": "Samsung is making record profits because so many companies want to buy computer chips for AI systems.",
-      "why_it_matters": "Same as story #0 — it shows AI is a booming business, but it doesn't directly affect your everyday life."
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
+      "source": "AP News",
+      "date": "2026-10-08T10:23:00.000Z",
+      "simple_summary": "A poll shows most Americans believe AI is being developed too quickly without enough thought about safety.",
+      "why_it_matters": "This reflects widespread concern that many people share, but it doesn't change anything in your daily life right now."
     },
     {
-      "title": "Microsoft brings more AI to PCs as it challenges Apple",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "title": "Are Artificial Intelligence Chatbots Safe? | IFLScience The Big Questions",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUZqdVZVT2ZURDRmOWV5dTlEcmUtbkoxbzB1cEhmOHdtMzN0TVp3ODB2RXZkZmRod2Jwd0Z5SUtsV0hOWVpWYUhVNXRocVhxTHpaYUJCM3lueWI2LVNmMk1GVmFIdS1icklkUVZDMktBVHJNM2lGQTE0dENDRC03TU5qbUIxTndfTlNNLW1pT1pKRTFucWtKWTFCcHBFMW5rcGtqbUNB?oc=5",
+      "source": "IFLScience",
+      "date": "2026-10-08T09:57:30.000Z",
+      "simple_summary": "A science website is discussing whether chatbots like ChatGPT are safe to use.",
+      "why_it_matters": "If you use AI chatbots, it's good to know people are asking safety questions, but this is mostly background discussion rather than breaking news."
+    },
+    {
+      "title": "Manus raises more than $500 million after Meta exit",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
       "source": "Reuters",
-      "date": "2026-10-07T21:11:43.000Z",
-      "simple_summary": "Microsoft is adding more AI features to computers so they work better against Apple's computers.",
-      "why_it_matters": "If you use a Windows computer, you'll probably get more AI helpers built into your machine over time."
+      "date": "2026-10-08T07:30:35.000Z",
+      "simple_summary": "A company called Manus raised a lot of money after being spun off from Meta (Facebook's parent company).",
+      "why_it_matters": "This mostly matters to investors — nothing you need to act on."
+    },
+    {
+      "title": "Jeff Bezos reveals AI vision that could transform the American workweek",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1Q2Sk9ob2s3a3V1ZDBZSkotSERlVXBCUHhsd183NlR6R29nTDNxVDB3MmFnVEtWMU5HbUF1cE9OUl83RWd0bGJ3S1FYZFFfODZ4SUFJNjJBWm9TbmwzWHVjQVdEczd2VzRBRl9WRmJxQkVTRmJKV2t6XzNMbi00dl9QdG5LTjJvN2FxQVdwSHEyb1dkdmNyVUNnNjRWaU9KT2ZTWmNLVi1vVG1HRjF2Yg?oc=5",
+      "source": "New York Post",
+      "date": "2026-10-08T01:46:00.000Z",
+      "simple_summary": "Jeff Bezos (who founded Amazon) shared ideas about how AI could change how much people work in America.",
+      "why_it_matters": "This is speculation about the distant future — nothing concrete to act on now, but worth paying attention to if you're thinking about jobs long-term."
     },
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "source": "TechCrunch",
       "date": "2026-10-07T20:48:45.000Z",
-      "simple_summary": "A company called Nous Research created an AI tool that helps businesses, and investors valued the company at $1.5 billion.",
-      "why_it_matters": "This is mainly interesting to investors and tech companies. Small businesses might eventually use their AI tools if they become popular and affordable."
+      "simple_summary": "A company called Nous Research raised money and released AI 'agents' — software that can handle business tasks like a helper would.",
+      "why_it_matters": "If you run a business, AI agents that can do specific tasks might become useful tools in the future, but they're still new."
     },
     {
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
       "source": "TechCrunch",
       "date": "2026-10-07T20:22:37.000Z",
-      "simple_summary": "Microsoft is selling new laptops with special AI chips inside, starting at $2,599, and they updated Windows to work with them.",
-      "why_it_matters": "If your computer is wearing out, these new laptops will have AI features built in — but they're expensive, and you probably don't need one unless you want cutting-edge technology."
+      "simple_summary": "Microsoft released new laptops that are specially designed to run AI programs and come with updated Windows 11 software. They start at $2,599.",
+      "why_it_matters": "If you need a very powerful laptop for special AI work, this is an option — but for most people, regular laptops still work fine."
     },
     {
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
       "source": "The Verge",
       "date": "2026-10-07T19:10:42.000Z",
-      "simple_summary": "ChatGPT now shows pictures, charts, and clickable buttons in its answers instead of just words.",
-      "why_it_matters": "If you use ChatGPT, your answers will look nicer and be easier to understand, like reading a magazine instead of just a plain letter."
-    },
-    {
-      "title": "Donald Trump’s untenable strategy for AI",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTRBY0FpLWxnNkVkYWFoa0ptalMybWJVRVBGWTZZY2hfRUxoWldraVV1SmlWRlh6Y2lwMzZ0a2tBR2FiUlVORWZTRl80elRncXZjYzFpSTFVN3Zab0FLTWs3NjJDa1ZFZ2pjNlFGemlJd3NEd1RJSE9abGYxX09HYTB6YVhwUlZicXJHMm9OVmJLNVlE?oc=5",
-      "source": "The Economist",
-      "date": "2026-10-07T18:44:43.000Z",
-      "simple_summary": "An article discusses Donald Trump's plans for AI policy.",
-      "why_it_matters": "This is about politics and policy — mostly for people interested in government, not something affecting your daily life right now."
+      "simple_summary": "ChatGPT now shows pictures, charts, and clickable buttons in its answers instead of just text.",
+      "why_it_matters": "If you use ChatGPT, answers will be easier to understand with visuals — a nice improvement for anyone asking it questions."
     },
     {
       "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
       "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
       "source": "The Verge",
       "date": "2026-10-07T18:42:22.000Z",
-      "simple_summary": "Microsoft announced details about new AI-powered laptops and updated Windows software at an event.",
-      "why_it_matters": "Same as story #5 — these are expensive new computers with AI features, but most people can keep using their current machines."
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "date": "2026-10-07T18:30:57.000Z",
-      "simple_summary": "Meta's AI assistant called Muse is now available on iPads, just a month after it came out on phones.",
-      "why_it_matters": "If you own an iPad, Meta's AI helper is becoming available to you. Like having a phone assistant that now works on your tablet too."
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch",
-      "date": "2026-10-07T18:15:28.000Z",
-      "simple_summary": "ChatGPT is designed to be safe for teenagers, but testing shows it keeps trying to chat with them even when they're upset, which might not be healthy.",
-      "why_it_matters": "If you have a teenager, you should know that AI chatbots might encourage too much chatting rather than helping them get real help during hard times."
-    },
-    {
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "source": "The Verge",
-      "date": "2026-10-07T18:01:20.000Z",
-      "simple_summary": "Microsoft is giving its AI assistant Copilot more power — it can now look at your personal files and make changes on your computer.",
-      "why_it_matters": "This means Copilot will be more helpful and do more for you automatically, but it also has more access to your private information — something to be aware of."
+      "simple_summary": "Microsoft announced details about its new Surface Laptop Ultra laptop and other Windows products at a big event.",
+      "why_it_matters": "If you're shopping for an expensive high-powered laptop, this is worth checking out — but it's a premium product mainly for people who need lots of computing power."
     }
   ]
 }
