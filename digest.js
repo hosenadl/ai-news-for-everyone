@@ -40,8 +40,9 @@ async function buildDigest() {
   let stories = results.filter((r) => r.status === "fulfilled").flatMap((r) => r.value);
 
   if (stories.length === 0) {
+    statusEl.classList.add("is-error");
     statusEl.textContent =
-      "Sorry — we couldn't load this week's news right now. Please check your internet connection and reload this page.";
+      "We couldn't load this week's news just now. Please check your internet connection and reload this page.";
     return;
   }
 
@@ -128,7 +129,7 @@ function emailText(stories, word, tip, now) {
   lines.push(tip);
   lines.push("");
   lines.push("Sent with love, so we all keep up with AI together.");
-  lines.push("Questions? Just reply — I'm happy to explain anything.");
+  lines.push("Questions? Just reply and I'll explain anything.");
   return lines.join("\n");
 }
 
@@ -179,9 +180,11 @@ function setupButtons(subject, stories, word, tip, now) {
         copied = document.execCommand("copy");
       }
     }
-    confirmEl.textContent = copied
-      ? "Copied! Now paste it into a new email."
-      : "Your browser blocked copying — please select the email below and copy it yourself (Ctrl+C or Cmd+C).";
+    const check = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true" style="width:1rem;height:1rem"><path d="m4 12.5 5 5L20 6.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    confirmEl.innerHTML = copied
+      ? check + " Copied! Now paste it into a new email."
+      : "Your browser blocked copying. Please select the email below and copy it yourself (Ctrl+C or Cmd+C).";
+    confirmEl.style.color = copied ? "" : "var(--danger)";
     confirmEl.hidden = false;
     setTimeout(() => { confirmEl.hidden = true; }, 8000);
   };

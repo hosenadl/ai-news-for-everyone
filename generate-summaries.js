@@ -110,7 +110,8 @@ async function summarize(apiKey, stories) {
       "with technology. Write at a level a smart 12-year-old would understand. Never use jargon without " +
       "immediately explaining it in everyday words. Use short sentences. Use comparisons to everyday life " +
       "(shops, cars, recipes, letters). Never hype. Be honest when a story is mostly only relevant to " +
-      "investors or engineers.",
+      "investors or engineers. Never use em dashes; use periods, commas, or colons instead. Vary how you " +
+      "begin and end each sentence so the summaries don't all follow the same shape.",
     messages: [
       {
         role: "user",
@@ -119,7 +120,7 @@ async function summarize(apiKey, stories) {
           "1. simple_summary: 1-2 short sentences explaining what happened, in plain everyday English.\n" +
           "2. why_it_matters: 1 short sentence on what this means for an ordinary person or small business " +
           "owner. If it genuinely doesn't affect them, say so honestly (e.g. \"This mostly matters to " +
-          "investors — nothing you need to act on.\").\n\n" +
+          "investors. There's nothing you need to do.\").\n\n" +
           "Base your answer only on the headline and excerpt given. If a headline is too vague to explain " +
           "confidently, keep the summary very general rather than guessing details.\n\n" +
           storyList

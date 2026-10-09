@@ -11,13 +11,13 @@ const GLOSSARY = [
   {
     term: "Artificial Intelligence",
     aliases: ["artificial intelligence", "\\bAI\\b", "\\bA\\.I\\.\\B"],
-    meaning: "Computer software that can do tasks that normally need a human — like writing, answering questions, or recognizing pictures.",
+    meaning: "Computer software that can do tasks which normally need a human, such as writing, answering questions, or recognizing pictures.",
     example: "Example: asking a computer \"write a birthday message for my sister\" and getting a nice message back."
   },
   {
     term: "Generative AI",
     aliases: ["generative ai", "genai", "gen ai"],
-    meaning: "AI that creates brand-new things — text, pictures, music, or video — instead of just finding existing ones.",
+    meaning: "AI that creates brand-new text, pictures, music, or video, instead of just finding things that already exist.",
     example: "Example: typing \"draw a cat wearing a chef's hat\" and getting a brand-new picture."
   },
   {
@@ -36,25 +36,25 @@ const GLOSSARY = [
     term: "Large Language Model (LLM)",
     aliases: ["large language models", "large language model", "\\bLLMs\\b", "\\bLLM\\b", "language model"],
     meaning: "The engine inside tools like ChatGPT. It has \"read\" enormous amounts of text, which is how it learned to write and answer questions.",
-    example: "Think of it as the engine under the hood — ChatGPT is the car, the language model is the engine."
+    example: "Think of ChatGPT as the car and the language model as the engine under the hood."
   },
   {
     term: "Machine Learning",
     aliases: ["machine learning", "\\bML\\b"],
-    meaning: "How computers get smarter: instead of being given exact instructions, they learn from lots of examples — a bit like how people learn from experience.",
+    meaning: "How computers get smarter. Instead of being given exact instructions, they learn from lots of examples, a bit like people learning from experience.",
     example: "Example: show a computer 10,000 photos of apples, and it learns to spot an apple in a new photo."
   },
   {
     term: "Algorithm",
     aliases: ["algorithms", "algorithm", "algorithmic"],
-    meaning: "A set of step-by-step instructions a computer follows — like a recipe, but for computers.",
+    meaning: "A set of step-by-step instructions a computer follows, like a recipe written for a machine.",
     example: "Example: Facebook's algorithm is the recipe that decides which posts you see first."
   },
   {
     term: "Neural Network",
     aliases: ["neural networks", "neural network", "neural net"],
     meaning: "A way of building AI that is loosely inspired by how the human brain works, with many small connected parts working together.",
-    example: "You'll see this word in news stories — you can safely read it as \"the AI's brain.\""
+    example: "When you see this word in a news story, you can safely read it as \"the AI's brain.\""
   },
   {
     term: "Hallucination",
@@ -78,7 +78,7 @@ const GLOSSARY = [
     term: "Anthropic",
     aliases: ["anthropic"],
     meaning: "An AI company that makes a ChatGPT-like tool called Claude, with a strong focus on making AI safe and reliable.",
-    example: "You can try their tool free at claude.ai — it works just like ChatGPT."
+    example: "You can try their tool free at claude.ai. It works much like ChatGPT."
   },
   {
     term: "Claude",
@@ -89,7 +89,7 @@ const GLOSSARY = [
   {
     term: "Gemini",
     aliases: ["\\bGemini\\b"],
-    meaning: "Google's AI chat tool — their version of ChatGPT. It's built into Google search and Android phones.",
+    meaning: "Google's AI chat tool, their answer to ChatGPT. It's built into Google search and Android phones.",
     example: "Those \"AI Overview\" answers at the top of Google searches come from Gemini."
   },
   {
@@ -101,7 +101,7 @@ const GLOSSARY = [
   {
     term: "AGI",
     aliases: ["artificial general intelligence", "\\bAGI\\b", "superintelligence", "superintelligent"],
-    meaning: "A future kind of AI that could match or beat humans at almost every kind of thinking. It does not exist yet — companies are racing to build it.",
+    meaning: "A future kind of AI that could match or beat humans at almost every kind of thinking. It does not exist yet, but companies are racing to build it.",
     example: "When you see \"AGI\" in headlines, read it as \"the super-smart AI they're trying to build next.\""
   },
   {
@@ -119,19 +119,19 @@ const GLOSSARY = [
   {
     term: "Data Center",
     aliases: ["data centers", "data centres", "data center", "data centre"],
-    meaning: "A giant building full of computers. AI tools don't run on your phone — they run in these buildings and send answers to your screen.",
+    meaning: "A giant building full of computers. AI tools don't actually run on your phone. They run in these buildings and send the answers to your screen.",
     example: "Companies are spending billions building data centers, which is why it's in the news so often."
   },
   {
     term: "Training",
     aliases: ["training data", "trained on", "\\btraining\\b"],
-    meaning: "How an AI \"learns\" — by reading or viewing enormous amounts of text and images before it's released to the public.",
+    meaning: "How an AI \"learns,\" by reading or viewing enormous amounts of text and images before it's released to the public.",
     example: "Like an apprentice studying millions of examples before starting the job."
   },
   {
     term: "Open Source",
     aliases: ["open-source", "open source", "open weights", "open-weight"],
-    meaning: "Software whose recipe is shared publicly for free, so anyone can use it or improve it — like a community cookbook instead of a secret family recipe.",
+    meaning: "Software whose recipe is shared publicly for free, so anyone can use it or improve it. Think of a community cookbook rather than a secret family recipe.",
     example: "Meta (Facebook's owner) gives away some of its AI this way."
   },
   {
@@ -149,13 +149,13 @@ const GLOSSARY = [
   {
     term: "AI Agent",
     aliases: ["ai agents", "ai agent", "agentic", "\\bagents\\b"],
-    meaning: "AI that doesn't just answer questions but can actually do multi-step tasks — like booking an appointment or filling out forms — with less hand-holding.",
+    meaning: "AI that doesn't just answer questions but carries out multi-step tasks on its own, such as booking an appointment or filling out a form.",
     example: "Think: an assistant who doesn't just tell you the restaurant's number but calls and makes the reservation."
   },
   {
     term: "Regulation",
     aliases: ["ai regulation", "ai act", "\\bregulators\\b", "\\bregulation\\b"],
-    meaning: "Government rules about how AI can be built and used — meant to keep it safe and fair. Different countries are writing different rules.",
+    meaning: "Government rules about how AI can be built and used, meant to keep it safe and fair. Different countries are writing different rules.",
     example: "Similar to how governments set safety rules for cars and medicines."
   },
   {
@@ -234,10 +234,37 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+/* A stable id for a story, so duplicates, saved items and AI summaries
+   can all be matched up by headline. */
+function storyKey(title) {
+  return title.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 60);
+}
+
+/* "The Verge" -> "TV", "TechCrunch" -> "TC" — for the little source badge */
+function initials(source) {
+  const words = source.replace(/^the\s+/i, "").split(/[\s-]+/).filter(Boolean);
+  if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+  return (words[0][0] + words[1][0]).toUpperCase();
+}
+
+const CATEGORY_LABELS = {
+  business: "Money & Business",
+  gadgets: "Gadgets & Apps",
+  safety: "Safety & Rules",
+  other: "AI News"
+};
+
+const ICONS = {
+  arrow: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  speaker: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M11 5 6.5 9H3v6h3.5L11 19V5z" stroke-linecap="round" stroke-linejoin="round"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" stroke-linecap="round"/></svg>',
+  stop: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="2.5"/></svg>',
+  star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="m12 4 2.5 5.1 5.6.8-4 4 .9 5.6L12 16.9 7 19.5l.9-5.6-4-4 5.6-.8L12 4z" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  bulb: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9V16h7v-2.1A6 6 0 0 0 12 3z" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+};
+
 /* Wrap known jargon in clickable buttons. Works on escaped plain text. */
 function highlightJargon(plainText) {
   let html = escapeHtml(plainText);
-  const claimed = []; // avoid double-wrapping overlapping terms
 
   GLOSSARY.forEach((entry, index) => {
     entry.aliases.forEach((alias) => {
@@ -385,23 +412,92 @@ async function loadSummaries() {
     if (Date.now() - new Date(data.generated_at).getTime() > 2 * 24 * 60 * 60 * 1000) {
       return new Map();
     }
-    return new Map(
-      data.stories.map((s) => [
-        s.title.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 60),
-        s
-      ])
-    );
+    return new Map(data.stories.map((s) => [storyKey(s.title), s]));
   } catch {
     return new Map();
   }
 }
 
+/* Placeholder cards while the feeds load — feels much faster than a
+   "loading…" line, and the page doesn't jump when the news arrives. */
+function renderSkeletons(count) {
+  document.getElementById("news-skeleton").innerHTML = Array.from({ length: count })
+    .map(() =>
+      '<div class="skeleton-card">' +
+      '<span class="sk sk-chip"></span>' +
+      '<span class="sk sk-title"></span><span class="sk sk-title-2"></span>' +
+      '<span class="sk sk-line"></span><span class="sk sk-line sk-line-2"></span>' +
+      '<span class="sk sk-line sk-line-3"></span>' +
+      '<span class="sk sk-box"></span>' +
+      "</div>"
+    )
+    .join("");
+}
+
+function newsCard(story, ai, isFeatured) {
+  const key = storyKey(story.title);
+  const cat = categorize(story);
+  const dateLabel = story.date && !isNaN(story.date) ? timeAgo(story.date) : "Recently";
+  // Prefer our plain-English summary over the feed's technical one
+  const summaryText = ai?.simple_summary || story.summary;
+  const canSpeak = "speechSynthesis" in window;
+  const isSaved = savedKeys.has(key);
+  const link = escapeHtml(story.link);
+
+  return (
+    '<article class="news-item' + (isFeatured ? " is-featured" : "") + '"' +
+      ' data-cat="' + cat + '" data-key="' + key + '">' +
+
+      '<div class="news-top">' +
+        '<span class="source-chip">' +
+          '<span class="source-avatar" aria-hidden="true">' + escapeHtml(initials(story.source)) + "</span>" +
+          escapeHtml(story.source) +
+        "</span>" +
+        '<span class="news-sep" aria-hidden="true">·</span>' +
+        "<span>" + dateLabel + "</span>" +
+        '<span class="cat-badge cat-' + cat + '">' + CATEGORY_LABELS[cat] + "</span>" +
+      "</div>" +
+
+      '<h3><a href="' + link + '" target="_blank" rel="noopener">' +
+        highlightJargon(story.title) + "</a></h3>" +
+
+      (summaryText ? '<p class="news-summary">' + highlightJargon(summaryText) + "</p>" : "") +
+
+      (ai?.why_it_matters
+        ? '<div class="why-matters">' +
+            '<span class="why-label">' + ICONS.bulb + "What this means for you</span>" +
+            "<p>" + highlightJargon(ai.why_it_matters) + "</p>" +
+          "</div>"
+        : "") +
+
+      '<div class="news-actions">' +
+        '<a class="news-readmore" href="' + link + '" target="_blank" rel="noopener">' +
+          "Read the full story" + ICONS.arrow + "</a>" +
+        (canSpeak
+          ? '<button type="button" class="chip-btn listen-btn">' + ICONS.speaker + "Listen</button>"
+          : "") +
+        '<button type="button" class="chip-btn save-btn' + (isSaved ? " saved" : "") + '"' +
+          ' aria-pressed="' + isSaved + '">' + ICONS.star +
+          "<span>" + (isSaved ? "Saved" : "Save") + "</span></button>" +
+      "</div>" +
+    "</article>"
+  );
+}
+
 async function loadNews() {
   const statusEl = document.getElementById("news-status");
   const listEl = document.getElementById("news-list");
-  statusEl.hidden = false;
-  statusEl.textContent = "Loading the latest news for you… (this takes a few seconds)";
+  const skeletonEl = document.getElementById("news-skeleton");
+  const refreshBtn = document.getElementById("refresh-btn");
+
+  stopSpeaking();
+  statusEl.hidden = true;
+  statusEl.classList.remove("is-error");
   listEl.innerHTML = "";
+  renderSkeletons(6);
+  skeletonEl.hidden = false;
+  refreshBtn.classList.add("is-busy");
+  refreshBtn.disabled = true;
 
   const summariesPromise = loadSummaries();
   const results = await Promise.allSettled(FEEDS.map(fetchFeed));
@@ -409,9 +505,16 @@ async function loadNews() {
     .filter((r) => r.status === "fulfilled")
     .flatMap((r) => r.value);
 
+  skeletonEl.hidden = true;
+  skeletonEl.innerHTML = "";
+  refreshBtn.classList.remove("is-busy");
+  refreshBtn.disabled = false;
+
   if (stories.length === 0) {
+    statusEl.hidden = false;
+    statusEl.classList.add("is-error");
     statusEl.textContent =
-      "Sorry — we couldn't load the news right now. Please check your internet connection, then press the \"Get the latest news\" button to try again.";
+      "We couldn't load the news just now. Please check your internet connection, then press \"Refresh\" to try again.";
     return;
   }
 
@@ -419,58 +522,68 @@ async function loadNews() {
   stories.sort((a, b) => (b.date?.getTime() || 0) - (a.date?.getTime() || 0));
   const seen = new Set();
   stories = stories.filter((s) => {
-    const key = s.title.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 60);
+    const key = storyKey(s.title);
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   }).slice(0, MAX_STORIES);
 
   const summaries = await summariesPromise;
-  const canSpeak = "speechSynthesis" in window;
 
-  statusEl.hidden = true;
+  // The newest story gets a wide card — gives the page a clear starting point
   listEl.innerHTML = stories
-    .map((s) => {
-      const dateLabel = s.date && !isNaN(s.date) ? timeAgo(s.date) : "Recently";
-      const key = s.title.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 60);
-      const ai = summaries.get(key);
-      // Prefer our plain-English summary over the feed's technical one
-      const summaryText = ai?.simple_summary || s.summary;
-      return (
-        '<article class="news-item" data-cat="' + categorize(s) + '">' +
-        '<h3><a href="' + escapeHtml(s.link) + '" target="_blank" rel="noopener">' +
-        highlightJargon(s.title) + "</a></h3>" +
-        '<p class="news-meta">' + dateLabel + " · From " + escapeHtml(s.source) + "</p>" +
-        (summaryText ? '<p class="news-summary">' + highlightJargon(summaryText) + "</p>" : "") +
-        (ai?.why_it_matters
-          ? '<p class="why-matters"><strong>What this means for you:</strong> ' + highlightJargon(ai.why_it_matters) + "</p>"
-          : "") +
-        '<div class="news-actions">' +
-        '<a class="news-readmore" href="' + escapeHtml(s.link) + '" target="_blank" rel="noopener">Read the full story →</a>' +
-        (canSpeak ? '<button type="button" class="listen-btn">🔊 Listen</button>' : "") +
-        "</div>" +
-        "</article>"
-      );
-    })
+    .map((s, i) => newsCard(s, summaries.get(storyKey(s.title)), i === 0))
     .join("");
 
   document.getElementById("category-filters").hidden = false;
-  applyCategoryFilter(); // keep the current filter when refreshing
+  document.getElementById("stat-stories").textContent = stories.length;
+  updateFilterCounts();
+  applyFilters(); // keep the current topic and search when refreshing
 }
 
-/* ---------- Category filters ---------- */
+/* ---------- Filtering: topic + search + saved ---------- */
 
 let activeCategory = "all";
+let searchQuery = "";
 
-function applyCategoryFilter() {
+function applyFilters() {
   const items = document.querySelectorAll(".news-item");
+  const query = searchQuery.trim().toLowerCase();
   let visible = 0;
+
   items.forEach((item) => {
-    const show = activeCategory === "all" || item.dataset.cat === activeCategory;
-    item.style.display = show ? "" : "none";
+    const matchesCat =
+      activeCategory === "all" ||
+      (activeCategory === "saved" ? savedKeys.has(item.dataset.key)
+                                  : item.dataset.cat === activeCategory);
+    const matchesSearch = !query || item.textContent.toLowerCase().includes(query);
+    const show = matchesCat && matchesSearch;
+    item.hidden = !show;
     if (show) visible++;
   });
+
+  // A filtered list of one shouldn't keep the full-width "featured" treatment
+  const firstVisible = [...items].find((i) => !i.hidden);
+  items.forEach((i) => i.classList.toggle("is-featured", i === firstVisible && !query && activeCategory === "all"));
+
   document.getElementById("filter-empty").hidden = visible > 0 || items.length === 0;
+}
+
+function updateFilterCounts() {
+  document.querySelectorAll(".filter-btn").forEach((btn) => {
+    const cat = btn.dataset.cat;
+    if (cat === "all") return;
+    const n = cat === "saved"
+      ? [...document.querySelectorAll(".news-item")].filter((i) => savedKeys.has(i.dataset.key)).length
+      : document.querySelectorAll('.news-item[data-cat="' + cat + '"]').length;
+    let countEl = btn.querySelector(".count");
+    if (!countEl) {
+      countEl = document.createElement("span");
+      countEl.className = "count";
+      btn.appendChild(countEl);
+    }
+    countEl.textContent = n || "";
+  });
 }
 
 function setupFilters() {
@@ -481,9 +594,52 @@ function setupFilters() {
         b.classList.toggle("active", b === btn)
       );
       stopSpeaking();
-      applyCategoryFilter();
+      applyFilters();
     })
   );
+}
+
+function setupSearch() {
+  const input = document.getElementById("news-search");
+  const clear = document.getElementById("search-clear");
+  if (!input) return;
+
+  input.addEventListener("input", () => {
+    searchQuery = input.value;
+    clear.hidden = !searchQuery;
+    applyFilters();
+  });
+  clear.addEventListener("click", () => {
+    input.value = "";
+    searchQuery = "";
+    clear.hidden = true;
+    applyFilters();
+    input.focus();
+  });
+}
+
+/* ---------- Saved stories ---------- */
+
+let savedKeys = new Set(JSON.parse(localStorage.getItem("savedStories") || "[]"));
+
+function setupSave() {
+  document.addEventListener("click", (event) => {
+    const btn = event.target.closest(".save-btn");
+    if (!btn) return;
+    const key = btn.closest(".news-item").dataset.key;
+
+    if (savedKeys.has(key)) savedKeys.delete(key);
+    else savedKeys.add(key);
+
+    const isSaved = savedKeys.has(key);
+    btn.classList.toggle("saved", isSaved);
+    btn.setAttribute("aria-pressed", String(isSaved));
+    btn.querySelector("span").textContent = isSaved ? "Saved" : "Save";
+
+    localStorage.setItem("savedStories", JSON.stringify([...savedKeys]));
+    updateFilterCounts();
+    if (activeCategory === "saved") applyFilters();
+  });
 }
 
 /* ---------- Listen buttons (read a story aloud) ---------- */
@@ -492,7 +648,7 @@ function stopSpeaking() {
   if ("speechSynthesis" in window) speechSynthesis.cancel();
   document.querySelectorAll(".listen-btn.speaking").forEach((b) => {
     b.classList.remove("speaking");
-    b.textContent = "🔊 Listen";
+    b.innerHTML = ICONS.speaker + "Listen";
   });
 }
 
@@ -521,7 +677,7 @@ function setupListen() {
     // utterances after ~15 seconds, and short chunks avoid that entirely.
     const sentences = text.match(/[^.!?]+[.!?]*/g) || [text];
     btn.classList.add("speaking");
-    btn.textContent = "⏹ Stop";
+    btn.innerHTML = ICONS.stop + "Stop";
     sentences.forEach((sentence, i) => {
       const utterance = new SpeechSynthesisUtterance(sentence.trim());
       utterance.rate = 0.95; // slightly slower — easier to follow
@@ -537,9 +693,13 @@ function setupListen() {
 
 /* ---------- Glossary section ---------- */
 
-function renderGlossary() {
+function renderGlossary(query = "") {
   const listEl = document.getElementById("glossary-list");
-  const sorted = [...GLOSSARY].sort((a, b) => a.term.localeCompare(b.term));
+  const q = query.trim().toLowerCase();
+  const sorted = [...GLOSSARY]
+    .sort((a, b) => a.term.localeCompare(b.term))
+    .filter((g) => !q || (g.term + " " + g.meaning).toLowerCase().includes(q));
+
   listEl.innerHTML = sorted
     .map(
       (g) =>
@@ -550,6 +710,26 @@ function renderGlossary() {
         "</article>"
     )
     .join("");
+
+  document.getElementById("glossary-empty").hidden = sorted.length > 0;
+  document.getElementById("stat-words").textContent = GLOSSARY.length;
+}
+
+function setupGlossarySearch() {
+  const input = document.getElementById("glossary-search");
+  const clear = document.getElementById("glossary-clear");
+  if (!input) return;
+
+  input.addEventListener("input", () => {
+    clear.hidden = !input.value;
+    renderGlossary(input.value);
+  });
+  clear.addEventListener("click", () => {
+    input.value = "";
+    clear.hidden = true;
+    renderGlossary();
+    input.focus();
+  });
 }
 
 /* ---------- Jargon popup ---------- */
@@ -568,7 +748,7 @@ function setupJargonPopup() {
       event.stopPropagation();
       const entry = GLOSSARY[Number(btn.dataset.term)] || {
         term: "Technical term",
-        meaning: "A word from the tech world — check our Word Guide below for explanations.",
+        meaning: "A word from the tech world. Check the Word Guide below for an explanation.",
         example: ""
       };
       termEl.textContent = entry.term;
@@ -616,16 +796,138 @@ function setupTextSize() {
   }
 }
 
+/* ---------- Light / dark mode ---------- */
+
+function setupTheme() {
+  const btn = document.getElementById("theme-toggle");
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (!btn) return;
+
+  apply(document.documentElement.dataset.theme || "light");
+
+  btn.addEventListener("click", () => {
+    const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+    apply(next);
+    localStorage.setItem("theme", next);
+  });
+
+  // Follow the system setting until the reader picks a side themselves
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+    if (!localStorage.getItem("theme")) apply(e.matches ? "dark" : "light");
+  });
+
+  function apply(theme) {
+    document.documentElement.dataset.theme = theme;
+    if (meta) meta.content = theme === "dark" ? "#000000" : "#ffffff";
+  }
+}
+
+/* ---------- Mobile menu ---------- */
+
+function setupNav() {
+  const toggle = document.getElementById("nav-toggle");
+  const links = document.getElementById("nav-links");
+  if (!toggle || !links) return;
+
+  toggle.addEventListener("click", () => {
+    const open = links.classList.toggle("open");
+    toggle.setAttribute("aria-expanded", String(open));
+    toggle.setAttribute("aria-label", open ? "Close the menu" : "Open the menu");
+  });
+
+  links.addEventListener("click", (e) => {
+    if (e.target.tagName === "A") close();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") close();
+  });
+
+  function close() {
+    links.classList.remove("open");
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.setAttribute("aria-label", "Open the menu");
+  }
+}
+
+/* ---------- Reading progress, active link, back to top ---------- */
+
+function setupScrollUi() {
+  const bar = document.getElementById("scroll-bar");
+  const toTop = document.getElementById("to-top");
+  const sections = [...document.querySelectorAll("main section[id]")];
+  const navLinks = [...document.querySelectorAll('.nav-links a[href^="#"]')];
+  let queued = false;
+
+  const update = () => {
+    queued = false;
+    const scrolled = window.scrollY;
+    const height = document.documentElement.scrollHeight - innerHeight;
+
+    if (bar) bar.style.width = (height > 0 ? (scrolled / height) * 100 : 0) + "%";
+    if (toTop) toTop.classList.toggle("show", scrolled > 700);
+
+    // Highlight whichever section is sitting under the top of the window
+    const probe = scrolled + innerHeight * 0.3;
+    let current = "";
+    sections.forEach((s) => {
+      if (s.offsetTop <= probe) current = s.id;
+    });
+    navLinks.forEach((a) => a.classList.toggle("active", a.hash === "#" + current));
+  };
+
+  addEventListener("scroll", () => {
+    if (!queued) { queued = true; requestAnimationFrame(update); }
+  }, { passive: true });
+  addEventListener("resize", update, { passive: true });
+  update();
+
+  toTop?.addEventListener("click", () => scrollTo({ top: 0, behavior: "smooth" }));
+}
+
+/* ---------- Fade sections in as they come into view ---------- */
+
+function setupReveal() {
+  const items = document.querySelectorAll(".reveal");
+  if (!("IntersectionObserver" in window) ||
+      matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    items.forEach((el) => el.classList.add("in"));
+    return;
+  }
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+      entry.target.classList.add("in");
+      observer.unobserve(entry.target);
+    });
+  }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
+
+  // Stagger siblings slightly so grids cascade instead of popping in at once
+  items.forEach((el) => {
+    const siblings = [...(el.parentElement?.children || [])].filter((c) => c.classList.contains("reveal"));
+    el.style.transitionDelay = Math.min(siblings.indexOf(el), 5) * 60 + "ms";
+    observer.observe(el);
+  });
+}
+
 /* ---------- Start ---------- */
 
 document.addEventListener("DOMContentLoaded", () => {
   setupTextSize();
+  setupTheme();
+  setupNav();
+  setupScrollUi();
+  setupReveal();
+
   // The news list and glossary only exist on the home page — the digest page
   // loads this file too, just for the shared helpers below.
   if (document.getElementById("news-list")) {
     renderGlossary();
+    setupGlossarySearch();
     setupJargonPopup();
     setupFilters();
+    setupSearch();
+    setupSave();
     setupListen();
     loadNews();
     document.getElementById("refresh-btn").addEventListener("click", loadNews);

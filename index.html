@@ -4,19 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI News in Plain English</title>
-  <meta name="description" content="The latest AI news explained in simple, everyday language — made for people who are new to technology.">
-  <meta name="theme-color" content="#0071e3">
+  <meta name="description" content="The latest AI news explained in simple, everyday language, for people who are new to technology.">
+  <meta name="theme-color" content="#ffffff">
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icon-180.png">
   <link rel="icon" type="image/png" href="icon-192.png">
   <link rel="stylesheet" href="styles.css">
+  <script>
+    // Applied before first paint so there's no flash of the wrong theme
+    (function () {
+      var t = localStorage.getItem("theme");
+      if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = t;
+      document.documentElement.dataset.size = localStorage.getItem("textSize") || "normal";
+    })();
+  </script>
 </head>
 <body>
 
+  <a class="skip-link" href="#news">Skip to the news</a>
+
   <nav class="site-nav" aria-label="Main sections">
     <div class="container nav-inner">
-      <a class="nav-brand" href="index.html">AI News in Plain English</a>
-      <div class="nav-links">
+      <a class="nav-brand" href="index.html">
+        <span class="brand-mark" aria-hidden="true">AI</span>
+        <span class="brand-text">AI News <em>in Plain English</em></span>
+      </a>
+
+      <div class="nav-links" id="nav-links">
         <a href="#news">Today's News</a>
         <a href="#basics">AI Basics</a>
         <a href="#business">Your Business</a>
@@ -24,97 +39,147 @@
         <a href="#glossary">Word Guide</a>
         <a href="digest.html">Weekly Email</a>
       </div>
+
+      <div class="nav-actions">
+        <button type="button" id="theme-toggle" class="icon-btn theme-toggle" aria-label="Switch between light and dark mode">
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M18.7 5.3l-1.4 1.4M6.7 17.3l-1.4 1.4" stroke-linecap="round"/></svg>
+        </button>
+        <button type="button" id="nav-toggle" class="icon-btn nav-toggle" aria-label="Open the menu" aria-expanded="false" aria-controls="nav-links">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+
+      <div class="scroll-progress" aria-hidden="true"><span id="scroll-bar"></span></div>
     </div>
   </nav>
 
   <header class="hero">
+    <div class="hero-glow" aria-hidden="true"></div>
     <div class="container">
-      <h1>Keep up with AI.<br>No tech talk required.</h1>
-      <p class="hero-sub">The latest AI news, explained in plain English — with every confusing word one click away from making sense.</p>
+      <p class="hero-eyebrow"><span class="live-dot" aria-hidden="true"></span> Updated through the day</p>
+      <h1>Keep up with AI.<br><span class="grad">No tech talk required.</span></h1>
+      <p class="hero-sub">The latest AI news, written in plain English. Click any word you don't recognize and we'll tell you what it means.</p>
+
+      <div class="hero-cta">
+        <a class="btn" href="#news">
+          Read today's news
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <a class="btn btn-secondary" href="#basics">New to AI? Start here</a>
+      </div>
+
       <div class="text-size-control" role="group" aria-label="Text size">
         <span class="text-size-label">Text size</span>
         <span class="size-segment">
-          <button type="button" data-size="normal" class="size-btn active">A</button>
-          <button type="button" data-size="large" class="size-btn size-btn-large">A</button>
-          <button type="button" data-size="xlarge" class="size-btn size-btn-xlarge">A</button>
+          <button type="button" data-size="normal" class="size-btn active" aria-label="Normal text size">A</button>
+          <button type="button" data-size="large" class="size-btn size-btn-large" aria-label="Large text size">A</button>
+          <button type="button" data-size="xlarge" class="size-btn size-btn-xlarge" aria-label="Extra large text size">A</button>
         </span>
+      </div>
+
+      <div class="hero-stats">
+        <div class="hero-stat"><b>3</b><span>Trusted news sources</span></div>
+        <div class="hero-stat"><b id="stat-stories">—</b><span>Stories right now</span></div>
+        <div class="hero-stat"><b id="stat-words">29</b><span>Words explained</span></div>
+        <div class="hero-stat"><b>Free</b><span>No account needed</span></div>
       </div>
     </div>
   </header>
 
-  <main>
+  <main id="main">
 
     <!-- ===================== NEWS ===================== -->
     <section id="news" class="section section-alt">
       <div class="container">
         <div class="section-heading">
-          <h2>Today's AI News</h2>
-          <button type="button" id="refresh-btn" class="btn">Get the latest news</button>
+          <div>
+            <p class="section-eyebrow">Live headlines</p>
+            <h2>Today's AI News</h2>
+            <p class="section-intro">
+              Real stories from trusted news websites. Words with a
+              <span class="jargon-demo">dotted&nbsp;underline</span> are technical terms.
+              <strong>Click them</strong> and we'll explain what they mean.
+            </p>
+          </div>
+          <button type="button" id="refresh-btn" class="btn btn-secondary">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15.3-6.4L21 8M21 4v4h-4M21 12a9 9 0 0 1-15.3 6.4L3 16M3 20v-4h4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Refresh
+          </button>
         </div>
-        <p class="section-intro">
-          Real stories from trusted news websites, updated all day long.
-          Words with a <span class="jargon-demo">dotted&nbsp;underline</span> are technical terms —
-          <strong>click them</strong> and we'll explain what they mean in plain English.
-        </p>
-        <div id="category-filters" class="filter-bar" hidden>
-          <span class="filter-label">Show me:</span>
-          <button type="button" data-cat="all" class="filter-btn active">Everything</button>
-          <button type="button" data-cat="business" class="filter-btn">Money &amp; Business</button>
-          <button type="button" data-cat="gadgets" class="filter-btn">Gadgets &amp; Apps</button>
-          <button type="button" data-cat="safety" class="filter-btn">Safety &amp; Rules</button>
+
+        <div class="news-toolbar">
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.9-3.9" stroke-linecap="round"/></svg>
+            <input type="search" id="news-search" placeholder="Search today's stories…" aria-label="Search today's stories" autocomplete="off">
+            <button type="button" class="search-clear" id="search-clear" aria-label="Clear search" hidden>&times;</button>
+          </div>
+          <div id="category-filters" class="filter-bar" role="group" aria-label="Filter stories by topic" hidden>
+            <button type="button" data-cat="all" class="filter-btn active">Everything</button>
+            <button type="button" data-cat="business" class="filter-btn">Money &amp; Business</button>
+            <button type="button" data-cat="gadgets" class="filter-btn">Gadgets &amp; Apps</button>
+            <button type="button" data-cat="safety" class="filter-btn">Safety &amp; Rules</button>
+            <button type="button" data-cat="saved" class="filter-btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="m12 4 2.5 5.1 5.6.8-4 4 .9 5.6L12 16.9 7 19.5l.9-5.6-4-4 5.6-.8L12 4z" stroke-linecap="round" stroke-linejoin="round"/></svg>Saved</button>
+          </div>
         </div>
-        <div id="news-status" class="news-status">Loading the latest news for you…</div>
+
+        <div id="news-status" class="news-status" role="status" aria-live="polite">Loading the latest news for you…</div>
+        <div id="news-skeleton" class="skeleton-list" aria-hidden="true"></div>
         <div id="news-list" class="news-list"></div>
-        <p id="filter-empty" class="filter-empty" hidden>No stories in this group right now — check back later, or press "Everything".</p>
+        <p id="filter-empty" class="filter-empty" hidden>
+          <strong>Nothing here right now</strong>
+          Try a different topic, clear your search, or press "Everything".
+        </p>
       </div>
     </section>
 
     <!-- ===================== BASICS ===================== -->
     <section id="basics" class="section">
       <div class="container">
-        <h2>AI Basics. Start here.</h2>
-        <p class="section-intro">New to all this? These short explanations will get you up to speed. No tech background needed.</p>
+        <p class="section-eyebrow reveal">Start here</p>
+        <h2 class="reveal">AI Basics, in plain words.</h2>
+        <p class="section-intro reveal">New to all this? These short explanations will get you up to speed. No tech background needed.</p>
         <div class="card-grid">
 
-          <article class="card">
-            <div class="card-icon">🤖</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="7" width="10" height="10" rx="2.5"/><path d="M10.5 3v2.5M13.5 3v2.5M10.5 18.5V21M13.5 18.5V21M3 10.5h2.5M3 13.5h2.5M18.5 10.5H21M18.5 13.5H21"/></svg></div>
             <h3>What is AI, really?</h3>
-            <p>AI (Artificial Intelligence) is computer software that can do tasks that used to need a human — like writing, answering questions, or spotting patterns.</p>
-            <p><strong>Think of it like this:</strong> a very fast assistant who has read millions of books and can help with almost any question — but who sometimes gets things wrong, so you still check their work.</p>
+            <p>AI (Artificial Intelligence) is computer software that can do tasks that used to need a human: writing, answering questions, or spotting patterns.</p>
+            <p><strong>Think of it like this:</strong> a very fast assistant who has read millions of books and can help with almost any question, but who sometimes gets things wrong, so you still check their work.</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">💬</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 12.3c0 4-3.8 7.2-8.5 7.2a9.8 9.8 0 0 1-2.5-.3L4.5 21l1.3-3.4A6.9 6.9 0 0 1 3.5 12.3c0-4 3.8-7.3 8.5-7.3s8.5 3.3 8.5 7.3Z"/><path d="M8.8 12.3h.01M12 12.3h.01M15.2 12.3h.01"/></svg></div>
             <h3>What is ChatGPT?</h3>
-            <p>ChatGPT is the most famous AI tool. You type a question in normal English, and it types back an answer — like texting with a knowledgeable helper.</p>
+            <p>ChatGPT is the most famous AI tool. You type a question in normal English, and it types back an answer, much like texting a knowledgeable helper.</p>
             <p><strong>Example:</strong> You could type "Write a friendly sign telling customers we close early on Sundays" and it writes one for you in seconds. Claude and Gemini are similar tools made by other companies.</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">🆓</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v10M14.6 9.4A2.6 2.6 0 0 0 12 8.3h-.3a2.1 2.1 0 0 0-.4 4.1l1.6.3a2.1 2.1 0 0 1-.4 4.1H12a2.6 2.6 0 0 1-2.6-1.2"/></svg></div>
             <h3>Does it cost money?</h3>
             <p>Most AI tools have a free version that is plenty for getting started. Paid versions (usually around $20 a month) are faster and more capable, but you don't need one to begin.</p>
             <p><strong>Tip:</strong> Start with the free version. If you find yourself using it every day, then consider paying.</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">⚠️</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 4.2 2.6 17.5A2 2 0 0 0 4.3 20.5h15.4a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0Z"/><path d="M12 9.5v4M12 16.6h.01"/></svg></div>
             <h3>Can I trust what AI says?</h3>
-            <p>Mostly, but not always. AI sometimes states wrong information with full confidence — experts call this a "hallucination."</p>
-            <p><strong>The golden rule:</strong> treat AI like a bright new employee. Great at drafts and ideas, but double-check anything important — prices, laws, medical advice, dates.</p>
+            <p>Mostly, but not always. AI sometimes states wrong information with full confidence. Experts call this a "hallucination."</p>
+            <p><strong>The golden rule:</strong> treat AI like a bright new employee. Great at drafts and ideas, but double-check anything important: prices, laws, medical advice, dates.</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">🔒</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.8 4.5 5.6v5.9c0 4.3 3 8.2 7.5 9.7 4.5-1.5 7.5-5.4 7.5-9.7V5.6L12 2.8Z"/><path d="m8.9 12 2.2 2.2 4-4.3"/></svg></div>
             <h3>Is it safe to use?</h3>
             <p>Yes, using AI tools is safe for everyday tasks. Just follow one rule: don't type in passwords, bank details, or private customer information.</p>
-            <p><strong>Also good to know:</strong> scammers now use AI to write convincing fake emails. Be extra careful with unexpected messages asking for money or passwords — even ones that sound personal.</p>
+            <p><strong>Also good to know:</strong> scammers now use AI to write convincing fake emails. Be extra careful with unexpected messages asking for money or passwords, even ones that sound personal.</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">📱</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><rect x="2.8" y="4.2" width="18.4" height="14.6" rx="2.5"/><path d="M2.8 8.4h18.4M6 6.3h.01M8.4 6.3h.01"/><path d="m10.4 11.4 4.6 2.6-4.6 2.6v-5.2Z"/></svg></div>
             <h3>How do I try it?</h3>
-            <p>Go to <strong>chatgpt.com</strong> or <strong>claude.ai</strong> in your web browser — the same way you'd visit any website. Create a free account, then just type like you're sending a text message.</p>
+            <p>Go to <strong>chatgpt.com</strong> or <strong>claude.ai</strong> in your web browser, the same way you'd visit any website. Create a free account, then just type like you're sending a text message.</p>
             <p><strong>First thing to try:</strong> "Explain what AI could do for a small [your type of business] in simple terms."</p>
           </article>
 
@@ -125,42 +190,43 @@
     <!-- ===================== BUSINESS ===================== -->
     <section id="business" class="section section-alt">
       <div class="container">
-        <h2>AI for your business.</h2>
-        <p class="section-intro">You don't need to be a tech person. Here are real, simple ways small business owners are using AI today.</p>
+        <p class="section-eyebrow reveal">For owners &amp; managers</p>
+        <h2 class="reveal">AI for your business.</h2>
+        <p class="section-intro reveal">You don't need to be a tech person. Here are real, simple ways small business owners are using AI today.</p>
         <div class="card-grid">
 
-          <article class="card">
-            <div class="card-icon">✍️</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M16.4 3.9a2.2 2.2 0 0 1 3.1 0l.6.6a2.2 2.2 0 0 1 0 3.1L9.4 18.4l-4.6 1.3 1.3-4.6L16.4 3.9Z"/><path d="m14.8 5.5 3.7 3.7"/></svg></div>
             <h3>Writing made easy</h3>
-            <p>Emails, ads, social media posts, product descriptions, customer replies — tell the AI what you want to say, and it writes a polished draft.</p>
+            <p>Emails, ads, social media posts, product descriptions, customer replies. Tell the AI what you want to say, and it writes a polished draft.</p>
             <p class="try-it"><strong>Try saying:</strong> "Write a warm thank-you email to a customer who has shopped with us for 10 years."</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">📋</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4.2H6.8a2 2 0 0 0-2 2v12.6a2 2 0 0 0 2 2h10.4a2 2 0 0 0 2-2V6.2a2 2 0 0 0-2-2H15"/><rect x="9" y="2.6" width="6" height="3.4" rx="1.3"/><path d="M8.6 11.2h6.8M8.6 14.6h4.4"/></svg></div>
             <h3>Paperwork &amp; admin</h3>
             <p>AI can summarize long documents, draft contracts to review with your lawyer, organize notes, and turn a rambling voice memo into a tidy to-do list.</p>
             <p class="try-it"><strong>Try saying:</strong> "Summarize this letter in 3 bullet points" (then paste the letter in).</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">💡</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M9.2 17.2a6.2 6.2 0 1 1 5.6 0v1.4a1.6 1.6 0 0 1-1.6 1.6h-2.4a1.6 1.6 0 0 1-1.6-1.6v-1.4Z"/><path d="M9.4 17.2h5.2"/></svg></div>
             <h3>A thinking partner</h3>
             <p>Stuck on a decision? Ask AI to list the pros and cons, suggest ideas for a slow season, or explain a confusing government form.</p>
             <p class="try-it"><strong>Try saying:</strong> "Give me 10 low-cost ideas to bring more customers into my bakery in winter."</p>
           </article>
 
-          <article class="card">
-            <div class="card-icon">🌍</div>
+          <article class="card reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.6"/><path d="M3.4 12h17.2"/><path d="M12 3.4c2.2 2.4 3.4 5.4 3.4 8.6s-1.2 6.2-3.4 8.6c-2.2-2.4-3.4-5.4-3.4-8.6S9.8 5.8 12 3.4Z"/></svg></div>
             <h3>Reaching more customers</h3>
-            <p>AI can translate your menu or flyer into other languages, write posts for Facebook, and help you answer online reviews professionally — even the unfair ones.</p>
+            <p>AI can translate your menu or flyer into other languages, write posts for Facebook, and help you answer online reviews professionally, even the unfair ones.</p>
             <p class="try-it"><strong>Try saying:</strong> "Help me write a calm, professional reply to this negative review" (then paste it in).</p>
           </article>
 
         </div>
-        <div class="callout">
+        <div class="callout reveal">
           <h3>The honest truth</h3>
-          <p>You don't need to understand how AI works to benefit from it — just like you don't need to know how an engine works to drive a car. Start with one small task, like writing an email. That's how everyone starts.</p>
+          <p>You don't need to understand how AI works to benefit from it, just as you don't need to know how an engine works to drive a car. Start with one small task, like writing an email. That's how everyone starts.</p>
         </div>
       </div>
     </section>
@@ -168,42 +234,43 @@
     <!-- ===================== SCAM WATCH ===================== -->
     <section id="scams" class="section">
       <div class="container">
-        <h2>Scam Watch.</h2>
-        <p class="section-intro">Criminals now use AI too — and their tricks are getting very convincing. Here are the ones going around right now, and how to stay safe. Please share this with friends.</p>
+        <p class="section-eyebrow reveal">Stay safe</p>
+        <h2 class="reveal">Scam Watch.</h2>
+        <p class="section-intro reveal">Criminals now use AI too, and their tricks are getting very convincing. Here are the ones going around right now, and how to stay safe. Please share this with friends.</p>
         <div class="card-grid">
 
-          <article class="card card-scam">
-            <div class="card-icon">📞</div>
+          <article class="card card-scam reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M8.2 3.6 10 7.3l-2 1.9a11.5 11.5 0 0 0 5.5 5.5l1.9-2 3.7 1.8a1.8 1.8 0 0 1 .9 2.2l-.6 1.6a2 2 0 0 1-2.2 1.3C11.2 19.6 4.4 12.8 3.3 6.8a2 2 0 0 1 1.3-2.2l1.6-.6a1.8 1.8 0 0 1 2 .6Z"/></svg></div>
             <h3>The fake family phone call</h3>
             <p>Scammers can copy a person's voice from a short video clip online. Then they call you sounding exactly like your child or grandchild: "I'm in trouble, I need money fast, don't tell anyone."</p>
-            <p class="try-it"><strong>Protect yourself:</strong> Hang up and call the family member back on the number you already have for them. Even better — agree on a family code word for real emergencies.</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Hang up and call the family member back on the number you already have for them. Better still: agree on a family code word for real emergencies.</p>
           </article>
 
-          <article class="card card-scam">
-            <div class="card-icon">✉️</div>
+          <article class="card card-scam reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><rect x="2.8" y="5" width="18.4" height="14" rx="2.5"/><path d="m3.8 7.4 8.2 5.8 8.2-5.8"/></svg></div>
             <h3>The too-perfect email</h3>
-            <p>Scam emails used to be full of spelling mistakes. AI now writes them flawlessly — they can look exactly like your bank, the post office, or a supplier asking to "update payment details."</p>
+            <p>Scam emails used to be full of spelling mistakes. AI now writes them flawlessly. They can look exactly like your bank, the post office, or a supplier asking to "update payment details."</p>
             <p class="try-it"><strong>Protect yourself:</strong> Never click links in unexpected emails. Go to the company's website yourself, the way you usually do, or phone them using the number on your card or statement.</p>
           </article>
 
-          <article class="card card-scam">
-            <div class="card-icon">🎥</div>
+          <article class="card card-scam reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><rect x="2.8" y="6" width="12.4" height="12" rx="2.4"/><path d="m15.2 11.4 5-2.8v6.8l-5-2.8v-1.2Z"/></svg></div>
             <h3>The fake celebrity video</h3>
-            <p>AI can make a video of a famous person "recommending" an investment or miracle product — mouth movements, voice and all. These are fakes designed to take your money.</p>
+            <p>AI can make a video of a famous person "recommending" an investment or miracle product, mouth movements and voice included. These are fakes designed to take your money.</p>
             <p class="try-it"><strong>Protect yourself:</strong> Treat any video promising easy money as fake, full stop. Real investments are never advertised through celebrity videos on social media.</p>
           </article>
 
-          <article class="card card-scam">
-            <div class="card-icon">🔎</div>
+          <article class="card card-scam reveal">
+            <div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.6" cy="10.6" r="6.8"/><path d="m20.4 20.4-5-5"/></svg></div>
             <h3>The fake customer service number</h3>
             <p>Scammers put fake "support phone numbers" on the internet for banks and airlines. You search, call the number, and a convincing "agent" asks for your card details or remote access to your computer.</p>
-            <p class="try-it"><strong>Protect yourself:</strong> Get phone numbers only from the back of your bank card, a paper statement, or the company's official app — not from a web search.</p>
+            <p class="try-it"><strong>Protect yourself:</strong> Get phone numbers only from the back of your bank card, a paper statement, or the company's official app, never from a web search.</p>
           </article>
 
         </div>
-        <div class="callout">
+        <div class="callout reveal">
           <h3>The three golden rules</h3>
-          <p>1) No real bank, government office, or company ever asks for gift cards or a money transfer to "fix" something. 2) Scammers always create urgency — real organizations let you take your time. 3) When in doubt, hang up and check with someone you trust. Being careful is never rude.</p>
+          <p>1) No real bank, government office, or company ever asks for gift cards or a money transfer to "fix" something. 2) Scammers always create urgency, while real organizations let you take your time. 3) When in doubt, hang up and check with someone you trust. Being careful is never rude.</p>
         </div>
       </div>
     </section>
@@ -211,9 +278,21 @@
     <!-- ===================== GLOSSARY ===================== -->
     <section id="glossary" class="section section-alt">
       <div class="container">
-        <h2>Word Guide.</h2>
-        <p class="section-intro">The tech words you'll see in the news, translated into plain English. These are the same explanations that pop up when you click a dotted word in a headline.</p>
+        <p class="section-eyebrow reveal">Dictionary</p>
+        <h2 class="reveal">Word Guide.</h2>
+        <p class="section-intro reveal">The tech words you'll see in the news, translated into plain English. These are the same explanations that pop up when you click a dotted word in a headline.</p>
+        <div class="glossary-toolbar">
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.9-3.9" stroke-linecap="round"/></svg>
+            <input type="search" id="glossary-search" placeholder="Look up a word…" aria-label="Search the word guide" autocomplete="off">
+            <button type="button" class="search-clear" id="glossary-clear" aria-label="Clear search" hidden>&times;</button>
+          </div>
+        </div>
         <div id="glossary-list" class="glossary-list"></div>
+        <p id="glossary-empty" class="filter-empty" hidden>
+          <strong>No match for that word</strong>
+          Try part of the word instead, or clear the search to see all of them.
+        </p>
       </div>
     </section>
 
@@ -221,15 +300,48 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>Made with care to help everyone keep up with AI.</p>
-      <p class="footer-note">News headlines come from public news websites (Google News, TechCrunch, The Verge). Clicking a headline opens the full story on the original news site.</p>
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a class="nav-brand" href="index.html">
+            <span class="brand-mark" aria-hidden="true">AI</span>
+            <span class="brand-text">AI News <em>in Plain English</em></span>
+          </a>
+          <p>Built so that keeping up with AI doesn't require a technical background.</p>
+        </div>
+        <div class="footer-cols">
+          <div class="footer-col">
+            <h4>Read</h4>
+            <a href="#news">Today's News</a>
+            <a href="#glossary">Word Guide</a>
+            <a href="digest.html">Weekly Email</a>
+          </div>
+          <div class="footer-col">
+            <h4>Learn</h4>
+            <a href="#basics">AI Basics</a>
+            <a href="#business">For Your Business</a>
+            <a href="#scams">Scam Watch</a>
+          </div>
+          <div class="footer-col">
+            <h4>Try AI</h4>
+            <a href="https://chatgpt.com" target="_blank" rel="noopener">ChatGPT</a>
+            <a href="https://claude.ai" target="_blank" rel="noopener">Claude</a>
+            <a href="https://gemini.google.com" target="_blank" rel="noopener">Gemini</a>
+          </div>
+        </div>
+      </div>
+      <p class="footer-note">Headlines come from public news websites (Google News, TechCrunch, The Verge), and clicking one opens the full story on the original site. The plain-English summaries are written by AI, so they can occasionally get a detail wrong. When something matters, trust the original article.</p>
     </div>
   </footer>
+
+  <button type="button" id="to-top" class="to-top" aria-label="Back to top">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
 
   <!-- Popup for jargon explanations -->
   <div id="jargon-popup" class="jargon-popup" hidden>
     <div class="jargon-popup-box" role="dialog" aria-modal="true" aria-labelledby="jargon-popup-term">
-      <button type="button" class="jargon-popup-close" aria-label="Close explanation">Close</button>
+      <button type="button" class="jargon-popup-close" aria-label="Close explanation">&times;</button>
+      <span class="jargon-popup-label">In plain English</span>
       <h3 id="jargon-popup-term"></h3>
       <p id="jargon-popup-meaning"></p>
       <p id="jargon-popup-example" class="jargon-popup-example"></p>
