@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-09T02:17:16.552Z",
+  "generated_at": "2026-10-09T06:13:47.691Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Fired OpenAI employees raise concerns over AI safety, monitoring",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-08T22:19:55.000Z",
+      "simple_summary": "Some former OpenAI workers who were fired are saying the company is not paying enough attention to safety concerns about AI.",
+      "why_it_matters": "This mostly matters to people who work in AI companies. For regular people, just know that some experts think AI needs better safety checks."
+    },
     {
       "title": "Anthropic launches free AI security scans for open-source projects",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
       "source": "The Verge",
       "date": "2026-10-08T21:53:51.000Z",
-      "simple_summary": "Anthropic is offering free security checks for computer code projects that are shared publicly online. The software will scan for problems and alert project owners if it finds anything dangerous.",
-      "why_it_matters": "If you use open-source software for your business, it may become safer. This mostly helps software developers though, not typical small business owners."
+      "simple_summary": "A company called Anthropic is offering to check software projects for security problems for free using their AI tools.",
+      "why_it_matters": "If you use open-source software (free software that many businesses rely on), this could help protect it from hackers, but you won't notice any change unless you're directly involved in one of these projects."
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "date": "2026-10-08T21:00:00.000Z",
+      "simple_summary": "Someone made a website where you can look through emails and documents from a famous fraud trial as if you're sitting at the criminal's desk.",
+      "why_it_matters": "This is just a curiosity item with no practical impact on your life or business."
+    },
+    {
+      "title": "Anthropic Moves Us One Step Closer to Making ‘Clanker’ a Slur",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbl9MUzN2Q0lIT2lvV1ZtWGxUeS1iV21HUmJhSzR2N1dLNlJMVGpMdzJZZ1ZYLUpscWhFbW0td3pjdlAtZ0t1UW9WQnhjZzBFUVlVUVZaQjFTcEtzT25USE14LTI2SF9CdXBjXzhZTDYzb1dONlJjc20zNVhCYmdnbzF3TWxyQ0JDMU05c3pGOGpad3Qw?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-10-08T20:40:39.000Z",
+      "simple_summary": "The headline is unclear about what news is being reported.",
+      "why_it_matters": "Without more details, it is hard to say if this matters to you."
+    },
+    {
+      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
+      "source": "Politico",
+      "date": "2026-10-08T20:18:00.000Z",
+      "simple_summary": "A politician says people should call AI by the term 'super intelligence' instead of just 'AI.'",
+      "why_it_matters": "This is mostly political talk with no real impact on how AI actually works or affects you."
     },
     {
       "title": "California is trying to shut down robot vs. human cage matches",
       "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
       "source": "The Verge",
       "date": "2026-10-08T20:06:56.000Z",
-      "simple_summary": "California's government stopped a company from hosting a fight between a human and a robot. The state says these events need permission just like regular sports events do.",
-      "why_it_matters": "This doesn't affect ordinary people or small businesses. It's mainly about entertainment regulations."
+      "simple_summary": "California's sports regulators sent a legal letter telling a company to stop holding fights between robots and humans.",
+      "why_it_matters": "Unless you're planning to enter a robot fight, this doesn't affect you."
     },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "source": "TechCrunch",
       "date": "2026-10-08T20:04:26.000Z",
-      "simple_summary": "Three researchers who worked at OpenAI were fired. They say the company's reasons are not fair and worry it will make other workers afraid to speak up about safety problems.",
-      "why_it_matters": "This mostly matters to investors and industry watchers. For everyday people, it raises questions about whether AI companies take safety seriously enough."
+      "simple_summary": "Three researchers who were fired from OpenAI say the company is treating safety concerns unfairly and discouraging other workers from speaking up about problems.",
+      "why_it_matters": "This shows that major AI companies may not be handling safety questions well, which is worth paying attention to as AI becomes more powerful."
     },
     {
       "title": "Ben Affleck is an AI nerd, and the internet is impressed",
       "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "source": "TechCrunch",
       "date": "2026-10-08T18:20:32.000Z",
-      "simple_summary": "Actor Ben Affleck knows a lot about artificial intelligence technology. He even started a company that uses AI for making movies before selling it to Netflix.",
-      "why_it_matters": "This doesn't affect your business or daily life. It's just interesting that a celebrity understands AI well."
+      "simple_summary": "Actor Ben Affleck is getting attention on the internet because he knows a lot about how AI works.",
+      "why_it_matters": "This is just entertainment news and doesn't affect you or your business."
     },
     {
       "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
       "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "source": "TechCrunch",
       "date": "2026-10-08T18:19:45.000Z",
-      "simple_summary": "A company that ranks different AI systems raised a large amount of money from investors. The company is now worth 3.1 billion dollars.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do."
+      "simple_summary": "A company that ranks different AI systems has raised a large amount of money from investors and is now checking whether AI tells the truth.",
+      "why_it_matters": "This mostly matters to investors and AI engineers. There's nothing you need to do."
     },
     {
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
       "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "source": "TechCrunch",
       "date": "2026-10-08T18:19:42.000Z",
-      "simple_summary": "OpenAI's money earnings are much lower than people thought they would be. Instead of 70 billion dollars a year, the real number is much smaller.",
-      "why_it_matters": "This matters to investors who own pieces of OpenAI. It suggests the AI business is slower to make money than some people hoped."
+      "simple_summary": "OpenAI, the company behind ChatGPT, is making less money than people thought it was making.",
+      "why_it_matters": "This mostly matters to investors. It doesn't change how ChatGPT works or what it costs you to use."
     },
     {
       "title": "Google brings agentic AI to Gemini, starting with businesses",
       "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "source": "TechCrunch",
       "date": "2026-10-08T18:18:00.000Z",
-      "simple_summary": "Google is updating its Gemini AI to do more tasks on its own and work with business software automatically. The AI can now handle multiple jobs at the same time like an employee would.",
-      "why_it_matters": "If you use Google's business tools, your AI assistant might become more helpful by doing more work without you asking for each step."
+      "simple_summary": "Google is updating its Gemini AI tool to handle more tasks on its own, like opening emails and organizing work across different programs.",
+      "why_it_matters": "If you use Google's business tools, this could save your workers time by automating routine jobs, but the feature is still being rolled out slowly."
     },
     {
       "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
       "source": "TechCrunch",
       "date": "2026-10-08T18:16:24.000Z",
-      "simple_summary": "Anthropic made new rules about how people can use its AI assistant Claude. The company now forbids using it for election fraud, weapons building, and extreme repeated mistreatment.",
-      "why_it_matters": "If you use Claude for your business, you need to stay away from these forbidden uses. For most honest business owners, this won't change anything."
-    },
-    {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "TechCrunch",
-      "date": "2026-10-08T18:10:55.000Z",
-      "simple_summary": "OpenAI created an AI system that solves math problems, but the solutions don't follow the rules that math experts set up. The work quality isn't meeting professional standards yet.",
-      "why_it_matters": "This mostly matters to researchers and mathematicians. Regular business owners don't need to worry about this."
-    },
-    {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "The Verge",
-      "date": "2026-10-08T17:58:33.000Z",
-      "simple_summary": "USA Today newspaper is suing OpenAI in court. The paper says OpenAI copied hundreds of thousands of its articles without permission to train its AI, and wants over 250 million dollars as payment.",
-      "why_it_matters": "This shows ongoing legal fights over AI companies using published content. It may eventually affect what AI systems can do or how news companies get paid."
-    },
-    {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "source": "The Verge",
-      "date": "2026-10-08T17:57:01.000Z",
-      "simple_summary": "SpaceX is giving money and computer power to support a free software project called Omarchy. This mostly involves technology industry insiders working together.",
-      "why_it_matters": "This doesn't affect typical small business owners or everyday people."
-    },
-    {
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "source": "The Verge",
-      "date": "2026-10-08T17:00:00.000Z",
-      "simple_summary": "Anthropic updated its rules to stop people from being cruel to its Claude AI for no good reason. The company also banned uses like election fraud, weapons building, and illegal spying.",
-      "why_it_matters": "If you use Claude, you should follow these rules. For honest business use, nothing changes."
+      "simple_summary": "Anthropic updated its rules to ban people from repeatedly misusing its AI system and from using it to interfere with elections or create weapons.",
+      "why_it_matters": "If you use Claude (Anthropic's AI), you should know the company is trying to prevent harmful uses, but normal everyday use is still allowed."
     }
   ]
 }
