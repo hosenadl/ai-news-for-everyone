@@ -13,10 +13,10 @@ const STORY_COUNT = 5;
 /* Rotating weekly tips — one per week, in plain English */
 const WEEKLY_TIPS = [
   "Open chatgpt.com or claude.ai and type: \"Explain what AI could do for a small business like mine, in simple terms.\"",
-  "Ask an AI to write something for you this week — a birthday message, a thank-you note, or a short email. Just describe what you want.",
+  "Ask an AI to write something for you this week, like a birthday message, a thank-you note, or a short email. Just describe what you want.",
   "Paste a confusing letter or document into an AI chat and ask: \"Explain this to me in simple words.\"",
   "Ask an AI: \"Give me 5 low-cost ideas to bring in more customers this month.\" See if one sparks something.",
-  "Try asking an AI to plan something — a week of dinners, a small trip, or a to-do list for a busy day.",
+  "Try asking an AI to plan something, like a week of dinners, a small trip, or a to-do list for a busy day.",
   "Ask an AI to explain a news headline you didn't understand. It's very good at breaking things down."
 ];
 
@@ -62,7 +62,7 @@ async function buildDigest() {
   const week = weekNumber(now);
   const word = WORD_GUIDE[week % WORD_GUIDE.length];
   const tip = WEEKLY_TIPS[week % WEEKLY_TIPS.length];
-  const subject = "This week in AI, explained simply — " +
+  const subject = "This week in AI, explained simply: " +
     now.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
 
   renderPreview(subject, stories, word, tip, now);
@@ -85,7 +85,7 @@ function emailHtml(stories, word, tip, now) {
       '<div style="' + base + 'font-weight:600;">' +
         '<a href="' + esc(s.link) + '" style="color:#0071e3;text-decoration:none;">' + esc(s.title) + "</a>" +
       "</div>" +
-      '<div style="' + base + muted + '">From ' + esc(s.source) + " — " + friendlyDate(s.date) + "</div>" +
+      '<div style="' + base + muted + '">From ' + esc(s.source) + ", " + friendlyDate(s.date) + "</div>" +
       (s.summary ? '<div style="' + base + 'margin-top:4px;">' + esc(s.summary) + "</div>" : "") +
     "</div>"
   ).join("");
@@ -97,12 +97,12 @@ function emailHtml(stories, word, tip, now) {
       '<hr style="border:none;border-top:1px solid #d2d2d7;margin:22px 0;">' +
       storyBlocks +
       '<hr style="border:none;border-top:1px solid #d2d2d7;margin:22px 0;">' +
-      '<p style="' + base + 'font-weight:600;margin-bottom:4px;">📖 Word of the week: ' + esc(word.term) + "</p>" +
+      '<p style="' + base + 'font-weight:600;margin-bottom:4px;">Word of the week: ' + esc(word.term) + "</p>" +
       '<p style="' + base + 'margin-top:0;">' + esc(word.meaning) + "<br>" +
       '<span style="' + muted + '">' + esc(word.example) + "</span></p>" +
-      '<p style="' + base + 'font-weight:600;margin-bottom:4px;">💡 Try this week</p>' +
+      '<p style="' + base + 'font-weight:600;margin-bottom:4px;">Try this week</p>' +
       '<p style="' + base + 'margin-top:0;">' + esc(tip) + "</p>" +
-      '<p style="' + base + muted + 'margin-top:26px;">Sent with love, so we all keep up with AI together. Questions? Just reply — I\'m happy to explain anything.</p>' +
+      '<p style="' + base + muted + 'margin-top:26px;">Sent with love, so we all keep up with AI together. Questions? Just reply and I\'m happy to explain anything.</p>' +
     "</div>"
   );
 }
@@ -117,7 +117,7 @@ function emailText(stories, word, tip, now) {
   ];
   stories.forEach((s, i) => {
     lines.push((i + 1) + ". " + s.title);
-    lines.push("   From " + s.source + " — " + friendlyDate(s.date));
+    lines.push("   From " + s.source + ", " + friendlyDate(s.date));
     lines.push("   Read more: " + s.link);
     lines.push("");
   });

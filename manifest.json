@@ -1,7 +1,7 @@
 {
-  "name": "AI News in Plain English",
-  "short_name": "AI News",
-  "description": "The latest AI news explained in simple, everyday language.",
+  "name": "UZE: AI news and AI skills in plain English",
+  "short_name": "UZE",
+  "description": "AI news explained in simple, everyday language, plus hands-on practice writing prompts.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
