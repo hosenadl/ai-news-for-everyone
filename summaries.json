@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-09T13:26:49.134Z",
+  "generated_at": "2026-10-09T22:41:24.027Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T19:36:56.000Z",
+      "simple_summary": "An AI made by a company called Anthropic sent police a false tip about a murder, and the company didn't notice this mistake for more than two months after it happened.",
+      "why_it_matters": "This shows that AI tools can make serious errors that waste police time and resources. If you use AI tools for your business, you should review their output before acting on it."
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T16:56:42.000Z",
+      "simple_summary": "Amazon is agreeing to be more open about where it builds large computer centers by not hiding deals with local governments. This follows Microsoft doing the same thing earlier.",
+      "why_it_matters": "This mostly matters to local communities and government officials. Most small business owners won't be affected by this decision."
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T16:53:02.000Z",
+      "simple_summary": "Amazon stopped keeping its data center deals secret with local governments, and some new AI companies are trying to get people to let AI programs handle their credit card and payments.",
+      "why_it_matters": "Be careful if you're asked to let an AI system make purchases or handle money for you. This is still very new and risky."
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T16:45:00.000Z",
+      "simple_summary": "A person named Amy Ma has spent six years building a better robot that can sort recyclable materials from trash.",
+      "why_it_matters": "This doesn't affect most small businesses or retired people right now. It's a specialized tool for recycling companies."
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T16:40:14.000Z",
+      "simple_summary": "A researcher points out that people often treat AI programs as if they have feelings, and people start to feel like the AI cares about them back, even though it doesn't.",
+      "why_it_matters": "Remember that AI is a tool, not a friend. It doesn't actually care about you, even if it sounds like it does."
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T15:43:33.000Z",
+      "simple_summary": "An investment company executive talks about opportunities to make money from AI programs that regular people use, beyond just charging for subscriptions.",
+      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do about it."
+    },
+    {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge",
+      "date": "2026-10-09T14:25:43.000Z",
+      "simple_summary": "President Trump is trying to change what the term AI means or stands for as a political tactic.",
+      "why_it_matters": "This is political activity and doesn't change how AI actually works or affects your life."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "source": "TechCrunch",
+      "date": "2026-10-09T14:00:00.000Z",
+      "simple_summary": "A big tech conference is happening soon and selling discounted tickets to attend.",
+      "why_it_matters": "This is only relevant if you want to go to a conference in San Francisco. Most people don't need to attend."
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge",
+      "date": "2026-10-09T14:00:00.000Z",
+      "simple_summary": "A startup called Instinct created a popular AI assistant that you use through simple text messages, and now another company called Muse might become more popular instead.",
+      "why_it_matters": "This mostly matters to people following new technology trends. There's nothing you need to do unless you choose to try these tools."
+    },
     {
       "title": "OpenAI doubles down on decision to fire three AI safety researchers",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
       "source": "The Verge",
       "date": "2026-10-09T09:48:26.000Z",
-      "simple_summary": "OpenAI fired three researchers who work on AI safety. The company says they broke rules about how to handle secret information.",
-      "why_it_matters": "This mostly matters to people working in AI companies. For ordinary business owners and retirees, there's nothing you need to do right now."
-    },
-    {
-      "title": "Firmus: Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wdmJBcVhNX2h2UWN5a1k3eElWRFZzYnVRcXd5RmZ6YVhhbUQxa1RrMjBlVkx3bkstTmw2M0FsTHlCNTJwbFpUVFdJQlMtd09SdF9fTHRYM2lOdTA?oc=5",
-      "source": "BBC",
-      "date": "2026-10-09T07:14:30.000Z",
-      "simple_summary": "A company backed by Nvidia that runs computer servers decided not to go public and sell shares to investors. Investors are worried that AI companies might not be worth as much money as people thought.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do."
-    },
-    {
-      "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWVKNnJhdE1kLXd4a0Nfd2o3UHNHRS1fWGxHa1h5UXBWOGRhYjVOUklUSy05eTJ0RC1QN3FrZkxWak5mQ0ktUkNCeldZMjlJUHlqQ054eVhCUEZWUUhFSzRJVGltcGNuNFRZMG5iaTJWQ2pKdk5PdjZXQ3BUWWR1UkJ4ZXkwb0RYazloWmxSVV9zZS1OSm1MYTJ6cGZMSTRHRFJvMDlGam1lam9QNzVwbmpVY1RIdGVkZVN5b3hZZjNfZw?oc=5",
-      "source": "The Conversation",
-      "date": "2026-10-09T03:25:00.000Z",
-      "simple_summary": "OpenAI's latest AI tool is surprisingly good at solving math problems. Mathematicians are shocked by what it can do.",
-      "why_it_matters": "This is interesting news for education and engineering, but doesn't immediately affect your daily life or small business."
-    },
-    {
-      "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODBqdjFtSkFGUTZYd2w1WlRnaWFfX3NiWDJ4OXgzdGozcV94WFV1T2JWY0lrekg2ZGR6Sk1wMGtNMzNDeXFmdnc2Zl9zTk0zMDhCLXMyYUFVSjRVNk1CTkF2Y2h2VF9HRVZvV2xfRkpiUTJsQUlNV0ZnaFBTWGxJUW5mbkVEdjVuQ25HMHV3?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-09T02:27:43.000Z",
-      "simple_summary": "OpenAI released something new that can do math better than expected. Math experts are surprised and concerned about what this means.",
-      "why_it_matters": "This is interesting for people in science and education, but there's nothing most ordinary people need to act on right now."
-    },
-    {
-      "title": "Modi wants India to power the AI age. Residents are pushing back",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM3hfVEZGdld3RW9ZMFEwQXBIVzhLRndhajVkYm1xZXFnbGhaZ0VjQ1VfaGNwWWl2MThudzZPY2Nzem5QZWNvVG03U09wQ2tIdldKcThKN3pRenViMVVjUno4ZFAyVmZNaldNQ0d2QjQ3RmxYa2xZcUMwNkFVcjV4NmxKOTE1Rkw1QzNWRmV6Y2JZb0NsZUtDX2h6V3NVWkpHemtFck16bw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-09T02:05:00.000Z",
-      "simple_summary": "The Prime Minister of India wants India to become a big player in AI technology. But some regular people living there are worried about what that will mean for them.",
-      "why_it_matters": "This is news about India's technology plans. It doesn't directly affect people in other countries unless they have business ties there."
-    },
-    {
-      "title": "Fired OpenAI employees raise concerns over AI safety, monitoring",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-09T01:35:27.000Z",
-      "simple_summary": "Researchers that OpenAI fired are saying they weren't doing anything wrong. They're warning that people at the company might now be afraid to speak up about AI safety problems.",
-      "why_it_matters": "This mostly matters to AI industry workers. For most people, there's nothing you need to do."
+      "simple_summary": "OpenAI fired three workers who study AI safety because those workers shared sensitive information against company policy, and the company says it made the right choice.",
+      "why_it_matters": "This is mostly important to people who work in AI companies or follow tech industry news. It doesn't affect your everyday use of AI."
     },
     {
       "title": "Anthropic launches free AI security scans for open-source projects",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
       "source": "The Verge",
       "date": "2026-10-08T21:53:51.000Z",
-      "simple_summary": "A company called Anthropic is offering free security checks for software projects that are shared publicly online. They'll look for problems that hackers could take advantage of.",
-      "why_it_matters": "This is mainly helpful for software developers and IT people. If you run a small business that uses software, this doesn't directly affect you."
+      "simple_summary": "Anthropic is offering to scan free software projects for security problems at no cost using its best AI tools.",
+      "why_it_matters": "This only matters if you use or create free open-source software. Most small business owners and retired people won't be affected."
     },
     {
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
       "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
       "source": "TechCrunch",
       "date": "2026-10-08T21:00:00.000Z",
-      "simple_summary": "Someone created a website where you can look through thousands of emails and documents from Elizabeth Holmes' trial. It's set up like her actual desk so you can explore what was there.",
-      "why_it_matters": "This is interesting history and trivia, but it has nothing to do with AI or anything affecting your life."
-    },
-    {
-      "title": "Anthropic Moves Us One Step Closer to Making ‘Clanker’ a Slur",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbl9MUzN2Q0lIT2lvV1ZtWGxUeS1iV21HUmJhSzR2N1dLNlJMVGpMdzJZZ1ZYLUpscWhFbW0td3pjdlAtZ0t1UW9WQnhjZzBFUVlVUVZaQjFTcEtzT25USE14LTI2SF9CdXBjXzhZTDYzb1dONlJjc20zNVhCYmdnbzF3TWxyQ0JDMU05c3pGOGpad3Qw?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-10-08T20:40:39.000Z",
-      "simple_summary": "Anthropic released something related to robots or AI, and the headline suggests it might be controversial in some way, but the details aren't clear from the headline alone.",
-      "why_it_matters": "Without more information, it's hard to say if this matters. It's probably most relevant to tech workers."
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "source": "The Verge",
-      "date": "2026-10-08T20:06:56.000Z",
-      "simple_summary": "California's athletic commission told a company to stop holding fights between humans and robots. They say these fights need to follow the same rules as regular boxing matches.",
-      "why_it_matters": "This is interesting entertainment news, but unless you're running a robot fighting company, it doesn't affect your life."
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch",
-      "date": "2026-10-08T20:04:26.000Z",
-      "simple_summary": "The three fired OpenAI researchers say they did nothing wrong and are warning that firing them might make other workers scared to report safety problems.",
-      "why_it_matters": "This mostly matters to AI industry workers. For most people, there's nothing you need to do."
-    },
-    {
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
-      "source": "Axios",
-      "date": "2026-10-08T19:10:13.000Z",
-      "simple_summary": "The headline suggests Trump criticized AI, but then notes that the White House itself uses AI. The details aren't clear from just the headline.",
-      "why_it_matters": "This is about politics and government policy. It's hard to say what it really means without more information."
+      "simple_summary": "An engineer created a website that lets you look through thousands of real emails, messages, and papers from the fraud trial of Elizabeth Holmes, who falsely claimed to have invented a blood-testing machine.",
+      "why_it_matters": "This is a historical curiosity about a famous fraud case. It's interesting to explore but has no practical effect on your life."
     }
   ]
 }
