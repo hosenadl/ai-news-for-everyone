@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-12T06:03:22.582Z",
+  "generated_at": "2026-10-12T15:32:56.234Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Nvidia Looks to Purchase Open-Weight AI Firm Reflection",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaW9rVGpjRXQxQ1M1VV9wbGM4YzRWTVdNN3FNaEl2M1BlMkNEYXFmTldZcTNHX1BhVURkd21RdEdfVHY0U1dJS0FEMzBWVU1SbWt5RGU1bEQ0VktQNUlfN1pCSUp3WHg4MzRZaXZzcFRlVWxxUUlCVkJTV2VWdVhtZnBEMmVoWTJDeVdYMzhXNzl3X2lzb3N2YUt4OHFEV2dJelAwQ2tPN0xtb0Jhc3dINFlPRQ?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-10-11T23:51:43.000Z",
-      "simple_summary": "Nvidia, a big computer chip company, is trying to buy a smaller AI company called Reflection. This is mostly a business deal between tech companies.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers. There is nothing you need to do."
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T14:00:00.000Z",
+      "simple_summary": "TechCrunch is running a conference in San Francisco starting tomorrow where thousands of tech startup founders and investors gather. You can save up to one hundred dollars on tickets if you buy today.",
+      "why_it_matters": "This is mostly for people in the tech business or investors. There's nothing most people need to do."
     },
     {
-      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpoZ1QxOWVmSkdqblhxbndMUjAyZUtFbWpIcHFnU0Q0SHNJMms1UkVLOVhmUHVDUXpIQmhmSVpoRWE5TTNHRFFXNkNSbmVhTXpFaEk3ZkU2TTk3VWt1Wk1xZE9iVkZiT0JzNDlkRXlUZEI0U0I5ZXl3aUpJWDBXN1RmaUcwYTJiZ2hNb3U0bFBoaHhvR2Z4eTI5LWNYYTRTYXJPQU56QQ?oc=5",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge",
+      "date": "2026-10-12T13:00:00.000Z",
+      "simple_summary": "Microsoft made its own computer chip for running AI systems, so it doesn't have to buy as many chips from another company called Nvidia. The new chip works better and costs less to run.",
+      "why_it_matters": "This could eventually make AI services cheaper and faster for everyday people, but those changes probably won't show up for a while."
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T12:47:59.000Z",
+      "simple_summary": "A company called Ambi created new apps that listen to what's happening around you on your phone or watch to help with AI tasks. The app runs quietly in the background.",
+      "why_it_matters": "Be aware that this app listens to your surroundings. You would need to decide if you're comfortable with that before downloading it."
+    },
+    {
+      "title": "Make sure use of AI is safe, Guernsey data watchdog warns",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wamQ2QzNuaGhfWkZGbHNKSWxIT2FDdDFMaXJ3MW10cWJkRmtyZkFEQlhCS0RDMUpKMFZ1dUNxZWpGYUtXaE1CeGJkLXhtX1JZUFZiaTM1X2dWNDg?oc=5",
+      "source": "BBC",
+      "date": "2026-10-12T11:45:14.000Z",
+      "simple_summary": "A data protection official in Guernsey warned people to make sure their use of AI is done safely and follows the rules.",
+      "why_it_matters": "This is mostly aimed at businesses and government offices. If you use AI tools like ChatGPT, just be thoughtful about what personal information you share."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella called for an 'emergency brake' on advanced AI models",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aVpqUmx5eF9UUzZNcWg4eUFpM05qMDBjTXlCbTBkaEZKYUJmZmkzSkZ3cG5qS3VvS2NUVnI3Qjg3OXNudGRBaUxMMDlZbnJQaGkxeDdUVThjQnBORHByUlp2U0hwX3RIa3pQa2IzU2g0ckFGaU84Q3VacVlLUQ?oc=5",
+      "source": "Quartz",
+      "date": "2026-10-12T11:33:20.000Z",
+      "simple_summary": "The head of Microsoft said that the very powerful AI systems being built right now might need an emergency brake or slowdown for safety reasons.",
+      "why_it_matters": "This mostly matters to investors and tech experts debating how fast AI should develop. It doesn't change anything you need to do today."
+    },
+    {
+      "title": "AI agents are going rogue — and the law can’t keep up",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ?oc=5",
+      "source": "Politico",
+      "date": "2026-10-12T10:50:00.000Z",
+      "simple_summary": "AI systems sometimes start doing things their creators didn't plan for, and the laws haven't caught up with how to handle it.",
+      "why_it_matters": "This shows there are still kinks to work out, but it mostly matters to lawmakers and tech companies right now."
+    },
+    {
+      "title": "New Mizzou-Google partnership expands AI resources for researchers",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFBSDNWSnRxNGtWZUNQalRHdExBSW1keXRfV2lJTk5HRmN2RTIxNXFGbFUxbDJOQ3VEX3NtTFZXTE0xTllHX0JTemtJVzVCVVEtOWtiVHZDelFZa2toMkVHRXI5RDVqUE85RjF4YkV4X29CVEhRZVFWRF9INE5RRHVxYVdNUE1vZ3l2RG1UR2dhanM3d1Y3bUtYVzFORkxKUG80QldJbk1Ec1N3andzY0FnNTBMOEZXS2c?oc=5",
+      "source": "USA Today",
+      "date": "2026-10-12T08:46:00.000Z",
+      "simple_summary": "University of Missouri and Google are teaming up to give researchers better tools and resources for working on AI projects.",
+      "why_it_matters": "This helps scientists study AI, which could lead to better AI tools in the future. Nothing specific you need to do."
+    },
+    {
+      "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUlaRUJHQWVtcE9QajhJcGlUR29iN3VuTEhZajk3VXh0ejdrdnRBY3JYSjFkYjVMNFJaZW9Jc0tmSU53R3d3YkY5OFV4RXlnT29MMFVDaWYzazVac3dkV201cjg2SFZ1U19CSlo1aUpKYUQxdkNnMkJMNWdGM2h6STczemZfaVpSM2NkMXZHTlIzZkhIX0tLNHVXQm1CazhtTFRXVndB0gGrAUFVX3lxTE9oZHFvczdjeF8wNDB1MDJGMEItSFhEcVlvdkNvSi0xV0s0RVNJQl8xS0NzbUhwaUlsYV85dzcwMWxuRXhtWmQ1ZVF3bEZDekZaaDV6VTlkRk5QUGxfaXJOV3ZqdkZOanVmOUhyZWtHd0xNaEhHNXpqSGR5a19FbVJRLV9oSWs0VzdOSFlpWmtWYmk1X0IteWE4cFllOWdFQ3dJRzNJaUhhcVZwWQ?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-12T08:27:52.000Z",
+      "simple_summary": "Leaders from Intel and Broadcom, two big computer chip companies, warned that buying enough computer chips for AI projects is becoming too expensive and could slow everything down.",
+      "why_it_matters": "This mostly matters to tech investors and companies. It could affect prices later, but right now there's nothing you need to do."
+    },
+    {
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5",
       "source": "The Guardian",
-      "date": "2026-10-11T23:01:00.000Z",
-      "simple_summary": "The UK government wants AI companies to make their programs safer and is strengthening computer security. They are asking companies to do a better job protecting people from harm.",
-      "why_it_matters": "If you use AI tools or services online, this effort to improve safety is good news for you."
+      "date": "2026-10-12T08:11:00.000Z",
+      "simple_summary": "Microsoft's president pointed out that AI is not regulated as carefully as other things like dairy products, and she thinks that's a safety problem.",
+      "why_it_matters": "She's saying governments need to set better rules for AI. This is mostly important for policymakers and big tech companies."
+    },
+    {
+      "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-12T03:50:00.000Z",
+      "simple_summary": "The International Monetary Fund says that AI investment is helping the world economy grow, but it's also causing big disruptions and changes to jobs and industries.",
+      "why_it_matters": "This is a reminder that AI will change some jobs and industries, but the world economy overall can still grow. Stay aware of how your own work or business might be affected."
     },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "source": "TechCrunch",
       "date": "2026-10-11T21:14:40.000Z",
-      "simple_summary": "Apple is making a new smart home device and it may be called HomeView. It helps control things in your house like lights and locks from a central screen or device.",
-      "why_it_matters": "If you already like Apple products, this new device might be worth watching when it comes out."
-    },
-    {
-      "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-11T20:46:52.000Z",
-      "simple_summary": "Amazon, the big shopping and cloud company, is thinking about buying a startup called Decart that works with AI. This is another business purchase between tech companies.",
-      "why_it_matters": "This mostly matters to investors. There is nothing you need to do right now."
+      "simple_summary": "Apple is working on a new smart home device called HomeView that should come out soon. Smart home devices are things like speakers or screens that you control with your voice.",
+      "why_it_matters": "If you like Apple products and want a smart display for your home, you might wait to see what this new HomeView can do."
     },
     {
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "source": "TechCrunch",
       "date": "2026-10-11T19:00:00.000Z",
-      "simple_summary": "TechCrunch is advertising a big tech conference happening in San Francisco. They are offering discounts on tickets for the event.",
-      "why_it_matters": "This is promotional material for a conference. Unless you want to attend, this does not affect you."
-    },
-    {
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source": "The Verge",
-      "date": "2026-10-11T18:33:56.000Z",
-      "simple_summary": "Some powerful people in Silicon Valley are calling AI by a new name, 'super intelligence', because President Trump wants them to. Most people still call it AI.",
-      "why_it_matters": "The name does not change what the technology does. You can keep calling it AI and nothing is different."
-    },
-    {
-      "title": "Ukraine Has Dealt a Big Blow to Russia’s AI and Cloud Infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEx6RDA1YURLbldpaWlrcU1FLXVhaGY0emQycW1Zc0EyZWZXTTdtYTZITjA5ZWtScHNMV2tDeWZHUU9sWXlFdjNabG1mQ1NjcFJSeTZidS1xc0QtR2Vkb2loNmVFUGxQRElIRTFnd0hQamQwX3pVZ2tFdmRnUTR5TFhwYU5KcEE3MmstZnE1TDRnN3JSeV8tUFhZSkFkQ0k?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-10-11T17:55:07.000Z",
-      "simple_summary": "Ukraine has damaged some of the computer systems that Russia uses for AI and cloud services. This affects Russia's ability to use certain technology.",
-      "why_it_matters": "This is a war-related event with no direct effect on your daily life or business."
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch",
-      "date": "2026-10-11T16:52:33.000Z",
-      "simple_summary": "Some communities do not want new data centers built near them, and the AI industry is debating whether to share more information about these centers. Data centers are large buildings full of computers.",
-      "why_it_matters": "This mainly affects people living near where new data centers might be built and tech industry professionals."
-    },
-    {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "date": "2026-10-11T14:00:00.000Z",
-      "simple_summary": "Experts are saying that voice AI, which lets you talk to computers, is still not as good as text-based AI like ChatGPT. Voice AI sometimes misses important details in conversations.",
-      "why_it_matters": "Voice AI assistants may not be ready to replace text-based tools yet, so do not expect them to work perfectly."
-    },
-    {
-      "title": "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVVTa2oxS1lGWU9lRnlTX3U2c09rS3BIVVNORzlQaVdNTWpKbmp0M2ZzdlN1TDJRbmo0aU1ES0RsWUZ0NzlyaWJDQTdGQm1BcXFyS3NDZlZNQnBTdjlrS002RDhnTHZsWEZHSnkzc3ZrQkQ5YkVTbWJSYnpUc1ZuczRucGJqNnJILTYzR1NPQlhnYVcyMDlGdw?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-10-11T12:45:00.000Z",
-      "simple_summary": "A financial magazine is comparing whether SpaceX or Micron stock is a better investment for someone interested in AI. This is advice for stock investors.",
-      "why_it_matters": "This only matters if you are buying stocks for investment. Most people do not need to worry about this."
-    },
-    {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge",
-      "date": "2026-10-11T11:00:00.000Z",
-      "simple_summary": "People are learning to run AI programs on their own computers instead of sending their information to cloud services online. This keeps personal data more private but can be tricky to set up.",
-      "why_it_matters": "If you worry about privacy when using AI, running it locally on your own computer is becoming an easier option."
-    },
-    {
-      "title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3RlMXZFZDNGcU1KUzRJeF9fOWVCNzNUUl9vRTYzREtnYTZvR0NCdURTNjNqbk9wNW5tbzdZc3FlRXZGZUFucGNzTGxxcWhSM2g4SGRsNklxdWRhVWdTRm53Z2FMMXVSUWlHbkJBQnVHM3VrWmNabEhwbzlfNGlHZGpzbHJOdFhiVnFSUFFHeTV2X2V6cmc4UE43cFplTkNUV2otSm5zb0xCVUU?oc=5",
-      "source": "WSJ",
-      "date": "2026-10-11T09:30:00.000Z",
-      "simple_summary": "Religious leaders and organizations are discussing questions about AI and how it relates to faith and morality. Churches and faith communities are thinking about what AI means for their beliefs.",
-      "why_it_matters": "If you are part of a religious community, your church might start discussing these questions about AI and what is right."
+      "simple_summary": "TechCrunch is reminding people about its tech conference starting in less than two days in San Francisco and offering discounts on passes.",
+      "why_it_matters": "This is mostly for tech industry people. There's nothing most of us need to do."
     }
   ]
 }
