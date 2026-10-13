@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-12T15:32:56.234Z",
+  "generated_at": "2026-10-13T00:44:44.865Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "source": "TechCrunch",
-      "date": "2026-10-12T14:00:00.000Z",
-      "simple_summary": "TechCrunch is running a conference in San Francisco starting tomorrow where thousands of tech startup founders and investors gather. You can save up to one hundred dollars on tickets if you buy today.",
-      "why_it_matters": "This is mostly for people in the tech business or investors. There's nothing most people need to do."
+      "title": "Daily Digest: Meta unleashes new AI model, former Levi’s Stadium manager charged",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUM1T3FXYW9XcGo0aXlHc19sWERUTlMtcjVIS2JaMEtIS2FyZFBMVWozVnRrVWVlUUNDMmZvZ1cxOUQ1NWtrbjJiRTRKeTBDLWRSb01ucGI2cFRCVmJsZEg1ZVljQ3BBTXRqYnE3MnJUMlp3dnBKajg3em5jLWtmV0x6MWJOeXQtZ204Z25JcEdCaFI3RzF3d1NObDRLN21CdnRWMU9qbllJSjNoNXVGZQ?oc=5",
+      "source": "The Business Journals",
+      "date": "2026-10-12T19:46:00.000Z",
+      "simple_summary": "Meta released a new powerful AI model and there was also a separate legal case involving the former manager of a sports stadium.",
+      "why_it_matters": "The new model may eventually power AI tools you use, but this news is too early and vague to know what it means for you right now."
     },
     {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T17:56:56.000Z",
+      "simple_summary": "Meta built a bigger and stronger AI model called Muse Wonder that can handle harder problems like writing computer code better than their previous lighter model.",
+      "why_it_matters": "This mostly matters to tech companies and investors. For regular people, it means Meta is trying to catch up in the AI race, but you probably won't notice changes to tools you use anytime soon."
+    },
+    {
+      "title": "Microsoft president urges global AI regulation, warns of safety gaps",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMVJaNU5ob2xvTjFVcmcxWHFiSDJySjFZeFlIaG5ldEVrWUh3emhhaGpFazlJeC02cmFYVjlwRG5GdHY2WUVjVW9SN0FrV2JMVFhtNEdyNFR0dUhFQzF6MWVlc3doZElkWVh6NmVJa1NISUVac0x6X2lB?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-12T17:44:06.000Z",
+      "simple_summary": "Microsoft's president is calling for governments worldwide to make rules for how AI companies should operate and said there are safety problems right now.",
+      "why_it_matters": "This could eventually mean AI tools become safer and more trustworthy, but these are just calls for action. Nothing changes for you today."
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T17:19:14.000Z",
+      "simple_summary": "A small tech company won a fifty-million-dollar contract from the Air Force to use weather balloons and AI to predict weather better.",
+      "why_it_matters": "This mostly matters to investors and the military. Better weather predictions might eventually help farmers and others, but this is just one company's contract."
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
       "source": "The Verge",
-      "date": "2026-10-12T13:00:00.000Z",
-      "simple_summary": "Microsoft made its own computer chip for running AI systems, so it doesn't have to buy as many chips from another company called Nvidia. The new chip works better and costs less to run.",
-      "why_it_matters": "This could eventually make AI services cheaper and faster for everyday people, but those changes probably won't show up for a while."
+      "date": "2026-10-12T17:00:00.000Z",
+      "simple_summary": "Meta released two new powerful AI models called Muse Wonder and Muse Wonder Full that they say are as good as the best AI models from other companies.",
+      "why_it_matters": "This mostly matters to investors and tech companies competing in AI. For everyday people, it's part of a bigger race but won't change your life this week."
     },
     {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch",
-      "date": "2026-10-12T12:47:59.000Z",
-      "simple_summary": "A company called Ambi created new apps that listen to what's happening around you on your phone or watch to help with AI tasks. The app runs quietly in the background.",
-      "why_it_matters": "Be aware that this app listens to your surroundings. You would need to decide if you're comfortable with that before downloading it."
+      "title": "Meta Says New Muse Model Reaches AI Frontier After Aggressive Push",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEE0WWhsM19sbHp4eXRuUHJNeURDWkpQS2tSdE9scThXNUVrWGN0R19KdHZLdXJnZjJQNFJXRnRsNXNWS1RmeGhlSlR6bVFER0JsWjRraFVIeXpZZkZIblc5TmVaeExWYjRqamRnUUl4enVHb0hnN3B5NUdaV1UwVmlmMVE4QlpYWmhQeWlzVUs5X0dTZkVtSHZDdXJZTHNaLWtFQ3luM0puZk91QlQyeWdPTVg0Zw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-12T16:56:51.000Z",
+      "simple_summary": "Meta says its new Muse model has reached the level of the most advanced AI systems available after pushing hard to improve its AI division.",
+      "why_it_matters": "This mostly matters to investors and tech industry people. It shows Meta wants to catch up in AI, but it doesn't change anything for your daily life."
     },
     {
-      "title": "Make sure use of AI is safe, Guernsey data watchdog warns",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wamQ2QzNuaGhfWkZGbHNKSWxIT2FDdDFMaXJ3MW10cWJkRmtyZkFEQlhCS0RDMUpKMFZ1dUNxZWpGYUtXaE1CeGJkLXhtX1JZUFZiaTM1X2dWNDg?oc=5",
-      "source": "BBC",
-      "date": "2026-10-12T11:45:14.000Z",
-      "simple_summary": "A data protection official in Guernsey warned people to make sure their use of AI is done safely and follows the rules.",
-      "why_it_matters": "This is mostly aimed at businesses and government offices. If you use AI tools like ChatGPT, just be thoughtful about what personal information you share."
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella called for an 'emergency brake' on advanced AI models",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aVpqUmx5eF9UUzZNcWg4eUFpM05qMDBjTXlCbTBkaEZKYUJmZmkzSkZ3cG5qS3VvS2NUVnI3Qjg3OXNudGRBaUxMMDlZbnJQaGkxeDdUVThjQnBORHByUlp2U0hwX3RIa3pQa2IzU2g0ckFGaU84Q3VacVlLUQ?oc=5",
-      "source": "Quartz",
-      "date": "2026-10-12T11:33:20.000Z",
-      "simple_summary": "The head of Microsoft said that the very powerful AI systems being built right now might need an emergency brake or slowdown for safety reasons.",
-      "why_it_matters": "This mostly matters to investors and tech experts debating how fast AI should develop. It doesn't change anything you need to do today."
-    },
-    {
-      "title": "AI agents are going rogue — and the law can’t keep up",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ?oc=5",
-      "source": "Politico",
-      "date": "2026-10-12T10:50:00.000Z",
-      "simple_summary": "AI systems sometimes start doing things their creators didn't plan for, and the laws haven't caught up with how to handle it.",
-      "why_it_matters": "This shows there are still kinks to work out, but it mostly matters to lawmakers and tech companies right now."
-    },
-    {
-      "title": "New Mizzou-Google partnership expands AI resources for researchers",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFBSDNWSnRxNGtWZUNQalRHdExBSW1keXRfV2lJTk5HRmN2RTIxNXFGbFUxbDJOQ3VEX3NtTFZXTE0xTllHX0JTemtJVzVCVVEtOWtiVHZDelFZa2toMkVHRXI5RDVqUE85RjF4YkV4X29CVEhRZVFWRF9INE5RRHVxYVdNUE1vZ3l2RG1UR2dhanM3d1Y3bUtYVzFORkxKUG80QldJbk1Ec1N3andzY0FnNTBMOEZXS2c?oc=5",
-      "source": "USA Today",
-      "date": "2026-10-12T08:46:00.000Z",
-      "simple_summary": "University of Missouri and Google are teaming up to give researchers better tools and resources for working on AI projects.",
-      "why_it_matters": "This helps scientists study AI, which could lead to better AI tools in the future. Nothing specific you need to do."
-    },
-    {
-      "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUlaRUJHQWVtcE9QajhJcGlUR29iN3VuTEhZajk3VXh0ejdrdnRBY3JYSjFkYjVMNFJaZW9Jc0tmSU53R3d3YkY5OFV4RXlnT29MMFVDaWYzazVac3dkV201cjg2SFZ1U19CSlo1aUpKYUQxdkNnMkJMNWdGM2h6STczemZfaVpSM2NkMXZHTlIzZkhIX0tLNHVXQm1CazhtTFRXVndB0gGrAUFVX3lxTE9oZHFvczdjeF8wNDB1MDJGMEItSFhEcVlvdkNvSi0xV0s0RVNJQl8xS0NzbUhwaUlsYV85dzcwMWxuRXhtWmQ1ZVF3bEZDekZaaDV6VTlkRk5QUGxfaXJOV3ZqdkZOanVmOUhyZWtHd0xNaEhHNXpqSGR5a19FbVJRLV9oSWs0VzdOSFlpWmtWYmk1X0IteWE4cFllOWdFQ3dJRzNJaUhhcVZwWQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-12T08:27:52.000Z",
-      "simple_summary": "Leaders from Intel and Broadcom, two big computer chip companies, warned that buying enough computer chips for AI projects is becoming too expensive and could slow everything down.",
-      "why_it_matters": "This mostly matters to tech investors and companies. It could affect prices later, but right now there's nothing you need to do."
-    },
-    {
-      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5",
+      "title": "Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanFCd2l3akRydHFXY29pRTZCazF6UXljRERLWHpZMzZVNkZlN19VMG5qSnkwRzJjVGpRNm5fMGxKV0p4R05UWnZqTi1JUTVJOHVzR0tUYnRMRTRGN3lHaU1qc2ZjdV9NbmFtVTZwZ1NLQ1lUcGNnb0JJZk4xdzEyTmhPVmhNeHh1RHgyRWRwRnJ4cDZ1Sk5EMGszVFVpbDVaT0p3b3NZNnN2T3JoQXJ1LXVmVk1KcDlaV3N2VHl4Y1ZPdw?oc=5",
       "source": "The Guardian",
-      "date": "2026-10-12T08:11:00.000Z",
-      "simple_summary": "Microsoft's president pointed out that AI is not regulated as carefully as other things like dairy products, and she thinks that's a safety problem.",
-      "why_it_matters": "She's saying governments need to set better rules for AI. This is mostly important for policymakers and big tech companies."
+      "date": "2026-10-12T16:23:00.000Z",
+      "simple_summary": "A UK government official warned that cyberattacks similar to one that hit OpenAI and affected Medicare are likely to happen in the UK too.",
+      "why_it_matters": "This is a warning about computer security risks in general. If you use AI tools or healthcare services, it's good to use strong passwords and watch for scams."
     },
     {
-      "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-12T03:50:00.000Z",
-      "simple_summary": "The International Monetary Fund says that AI investment is helping the world economy grow, but it's also causing big disruptions and changes to jobs and industries.",
-      "why_it_matters": "This is a reminder that AI will change some jobs and industries, but the world economy overall can still grow. Stay aware of how your own work or business might be affected."
-    },
-    {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "source": "TechCrunch",
-      "date": "2026-10-11T21:14:40.000Z",
-      "simple_summary": "Apple is working on a new smart home device called HomeView that should come out soon. Smart home devices are things like speakers or screens that you control with your voice.",
-      "why_it_matters": "If you like Apple products and want a smart display for your home, you might wait to see what this new HomeView can do."
+      "date": "2026-10-12T15:45:00.000Z",
+      "simple_summary": "A new company called Honeyjar built AI tools to help companies write better press releases and communicate with people.",
+      "why_it_matters": "If you run a small business and want to get better at telling your story to customers and news outlets, this kind of tool might help you save time."
     },
     {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
       "source": "TechCrunch",
-      "date": "2026-10-11T19:00:00.000Z",
-      "simple_summary": "TechCrunch is reminding people about its tech conference starting in less than two days in San Francisco and offering discounts on passes.",
-      "why_it_matters": "This is mostly for tech industry people. There's nothing most of us need to do."
+      "date": "2026-10-12T15:31:19.000Z",
+      "simple_summary": "Microsoft's president is pushing governments to set up rules for AI companies now, comparing it to how milk and washing machines already have safety regulations.",
+      "why_it_matters": "He's arguing AI companies need the same kind of government oversight as everyday products. This might lead to safer AI in the future, but it's not something affecting you immediately."
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T15:27:59.000Z",
+      "simple_summary": "A new company called Blueprints AI made software that can create construction blueprints that follow building codes just by looking at a photo, PDF, or sketch.",
+      "why_it_matters": "If you're in construction or real estate, this could save time and money on creating building plans. For everyone else, this doesn't affect you."
+    },
+    {
+      "title": "An overlooked sci-fi movie shows how disruption by AI could be positive for society",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2Rrd2wzUUJDNzB6cExrNWRhQmZhQ2Zac2ZkZ3Z1YjNEUy04WWRkbE5FV3lYcTN3NUY0eHVWN0RNQTU1NWFfc3N0ZElkNlVjNTJSbHZLbWp4UHo2R2ZtMkd5NXZ4dzl1RFBVRm9oYlFsU0lQWENOdzVKcEtsODc0dWxETjRBbV9xYUZiN0hzUEZ0cGtSdFZJVHJkanVlck5jSkFlRXF3ZFdxVWNSQnBNTDE1MGdIOFQxOUE?oc=5",
+      "source": "The Conversation",
+      "date": "2026-10-12T15:00:40.000Z",
+      "simple_summary": "An article discusses how an old science fiction movie shows that AI disruption could actually be good for society in some ways.",
+      "why_it_matters": "This is opinion writing about how AI might change the future. There's no news here that affects what you do today."
+    },
+    {
+      "title": "Is ‘Attention’ the Essence of Intelligence?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUZjMWZEdHFOOU11LWZtZnljazlxUS1ZR2JscDJ0ZXl6aG9KeXpONDczOWw5eUg0YmQ1VG9DQ0VHQWNfRngzSDBEdlN1bDN4c1B3WkFkTEhJVEwwS3FuQnZMbFlXX1M3MFdWckFSRUR0cm1EZjFwaFRaeG80Y08zb1NNVWdQLTJ0?oc=5",
+      "source": "Quanta Magazine",
+      "date": "2026-10-12T14:20:29.000Z",
+      "simple_summary": "A science magazine publishes an article asking whether 'attention' is the core thing that makes something intelligent.",
+      "why_it_matters": "This is academic discussion about how AI works at a technical level. It doesn't affect you unless you're interested in AI research theory."
     }
   ]
 }
