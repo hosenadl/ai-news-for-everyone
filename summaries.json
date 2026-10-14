@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-14T11:57:53.850Z",
+  "generated_at": "2026-10-14T17:14:52.665Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "What is the US Super Intelligence Force and who leads it?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2VxcjZxQ3ctMzB0Y2prLURZV0UzSWpkUEFQcFVLbXVlcXJFbnhDb2M2YlliZWc0SFI5QlhieDFNWXE2cjc0SFBiM3NKN0Z5c0x3ZXM5T243b1dmNzdoQ0t2SzNIMlcyMUkwWjAxN19HUVNKMWRiOGFZZklfWlhGc0c3aGo2dzIxZmxYS2dYQTNPMnVzNnfSAZYBQVVfeXFMTjlOZUlmdlR3eHBaVDh2eC0tWFpUMkdnVWt2NmI1RG1HYXY4QXR0akI4alUtaUtoeFJiQnpGcGlyMnBfRFRMSS1hQUU4THVSRU5VX0hPUFBvNmFxTm9jc1UzWVVrWnRNazd3UndBdVZBS20tcE5fVFA2Vml3NGZIR3U1VEhZTEJUTlZVR0FaNEdob3M4LVpn?oc=5",
-      "source": "DW.com",
-      "date": "2026-10-14T11:00:34.000Z",
-      "simple_summary": "The US government is creating a new group focused on advanced artificial intelligence. The headline asks what this group is and who runs it.",
-      "why_it_matters": "This is mostly about government organization. For most small business owners and retirees, there's nothing you need to do right now."
+      "title": "Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc?oc=5",
+      "source": "Le Monde.fr",
+      "date": "2026-10-14T15:29:53.000Z",
+      "simple_summary": "Nvidia's leader says he is optimistic that AI will be safe and will create jobs rather than destroy them. He also spoke about countries having control over their own AI systems.",
+      "why_it_matters": "This mostly matters to investors and people worried about AI's future. If you use AI tools, this is a general positive statement but doesn't change anything you need to do today."
     },
     {
-      "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnlGQWFjcEg1YTdWUm1sSlU0dzJkMlgtanFpVUFoUHNDNjczVEJtX0dteGlHNDk4U1I4RV9UbDNmNTdjNjRtWHQ0M3hiTlNLV2dBSW5PM2VtWE9vbXdrV2pKMkhUeGxRc2k5X3pjSUpxQ0NWNXVfZXB2cjFJM0RXelhpLWlGVERmckNCaGJCMmZ4RE9fbEc1S21kZ25XY3Y50gGmAUFVX3lxTFBCQnBPUjBtY3gyM2llZjBEajFpYzVyY2NkQkhxQ0FtVVdvUzJIU1FOeGFtV1NjRUtnTW1BYkk0WVlVb3VleGlmMjEyVkJoVVRkNHVCTHViZEhEM0p1anZRcENMaVpoY0dJZ2NYRWZqdExSRmFNc2NhWmVWTHFQVmZUcjh1RmNlZXZhSDJ5VURqcHRzRWJyTFVkdnZHbVFscU1fTE9nVGc?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-14T11:00:01.000Z",
-      "simple_summary": "Big technology companies are rushing to sell new AI devices before the holiday shopping season. They want these products in stores soon.",
-      "why_it_matters": "If you shop for gifts this holiday season, you might see new AI gadgets available that weren't there before."
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T15:16:04.000Z",
+      "simple_summary": "The music streaming service Deezer is adding a button that lets you skip over songs created by AI instead of by humans. It will be available by the end of the year.",
+      "why_it_matters": "If you use Deezer and prefer human-made music, this gives you more control over what you listen to."
     },
     {
-      "title": "Mariano's owner Kroger to lay off 3,000 employees over 3 years as it leans into AI",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQmEwWXNtd1oyZEpITzZ3bVRkeVh6M2dGMWF5LU55cDQ5R25fc25lTDJNZW9uWVlxUGx5WEc5OG1Cc0t6ZVpXd2Y2dUhKaHEyODFaZFgwX3lGVzlKLUVGdjZ2OGhFY0dTYzAtOVVMWENJTmdxX2REdXZBakt6VmszMXAtTjRCODN5NmYwZkd3alhVczRWR09ONnRWOHBxcWgzQnRwLWpTeGtHM2FvSjltRVRNTW9FeDBIRlBPcnBtYWFfVHVJUzdIYWtIbzJfREEyLUYtS1FUX19GLVnSAeMBQVVfeXFMT3JVSlVlcmx2ODZSU2ItQkdkWVJ0djQ5MEFXaVlaYWFDa0NCVlhKNFM5VU9UVGNqNUtVMmlxeWxlTmlNb254aW0tM216dGpUSVg4dkRhdGRteEtzbW1fdjFWVU9XQkhaS0FuU1JtR0h4ckY2emRsOWRpYnBFbjR1dTRucjlYS0FGZjVaTzZOekdLRXlIVlZWUVljRHNhR1o2N2ROOFBqRmFmcTFLeC1FN0RGZ3VQRlNLZkJlMHkyQ2gyUGJPNFd4WWVCeDA4OTZnb3p2ZHFfUEFTbDZ3MEFxOE8wMzg?oc=5",
-      "source": "NBC 5 Chicago",
-      "date": "2026-10-14T10:52:40.000Z",
-      "simple_summary": "Kroger grocery stores are letting go of 3,000 workers over the next three years because they are using more AI and automation instead. Mariano's is owned by Kroger.",
-      "why_it_matters": "If you shop at Kroger or Mariano's, some jobs there will disappear, though stores will still operate. This shows how AI is changing where people work."
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T15:13:24.000Z",
+      "simple_summary": "TechCrunch is selling discounted tickets to a big technology conference happening in October 2026 in San Francisco. This is an advertisement for that event.",
+      "why_it_matters": "This matters only if you run a startup company and want to attend tech conferences. Most small business owners and retirees won't need this."
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T15:08:00.000Z",
+      "simple_summary": "A company called Zenzap has raised money to build an AI chat tool for workplaces, similar to WhatsApp but for businesses. Big companies like Starbucks and Taco Bell already use it.",
+      "why_it_matters": "If you run a business and want your team to communicate better online, this is one option to consider when choosing workplace messaging tools."
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T15:00:00.000Z",
+      "simple_summary": "A company called Floqer created an AI tool that automatically researches potential customers so sales teams don't have to do that boring work themselves.",
+      "why_it_matters": "If you run a sales team, this kind of tool could save your employees time doing research, though this mostly matters to larger businesses."
+    },
+    {
+      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-10-14T14:42:19.000Z",
+      "simple_summary": "This article recommends buying stock in an AI chip company that is not as famous as Nvidia or Micron. This is investment advice.",
+      "why_it_matters": "This matters only to investors deciding what stocks to buy. There's nothing here for regular people or small business owners."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T14:30:00.000Z",
+      "simple_summary": "This is about day two of a TechCrunch technology conference happening in 2026. It includes various sessions about AI and is promoting ticket sales.",
+      "why_it_matters": "This is only relevant if you are thinking about attending a tech conference. Most people won't need this information."
+    },
+    {
+      "title": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEdVZ0NfSTRQbUstZHN1YkhzRHlkRU15N3NrUnNEeVgzZlBLQVdzczJFY2szOEpwdERyVXdVNFIxVHlCNmpVZEVKUTZoMnZjZUpNRTFFU3MyRnNvZlBpNjlzYzVRTFhpVHo3cWVhVEZWTThBNzlyUVlvemphTWRWSnZmd0VmU3N5T3J4bDEtUGs3S0F3bXNfYWx6N3hVR2dLVGc?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-10-14T13:00:00.000Z",
+      "simple_summary": "Someone wrote a letter to the newspaper saying that AI companies should not be allowed to make their own rules. They compared it to letting sports teams referee their own games, which wouldn't be fair.",
+      "why_it_matters": "This is a concern about whether AI companies are trustworthy to regulate themselves. It reflects a broader conversation about AI safety, but doesn't announce any changes."
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T11:00:00.000Z",
+      "simple_summary": "A company called Scimplify raised money to use AI to find and extract materials that China currently controls most of the supply for. Their business has grown fast and they want to expand in the United States.",
+      "why_it_matters": "This mostly matters to investors and people concerned about America depending on other countries for important materials. It doesn't affect your daily life right now."
+    },
+    {
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-14T09:01:19.000Z",
+      "simple_summary": "Someone wrote an article about a dinner party where 22 people attended, and their AI chat assistants were also present as separate participants. This is an experiment or unusual event.",
+      "why_it_matters": "This is a creative story showing how AI might be used in social situations in the future. It doesn't announce a product you can use today."
+    },
+    {
+      "title": "Google says it needs the grid. The grid can’t keep up.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUYwQUdaRHJ1ODk5Q0JQbHJjU21EeFUxZ3hGU0VNQWExMjVnY3JIalB0S05OT2ZKSFJVR19wZ1RRNVhGbWRDX1hHZWhFel9VZS1fY0dsMzJMMjBKZXJvN1N2Mm11TENJSFNKckdjMTNKbHJVdDUzRmJVMVh1XzJVbnJvWlA?oc=5",
+      "source": "Politico",
+      "date": "2026-10-14T09:00:00.000Z",
+      "simple_summary": "Google needs a lot more electricity to power its AI systems, but the electrical grid in America is struggling to provide enough power for all these new demands.",
+      "why_it_matters": "This could eventually affect electricity prices and availability if companies use lots of AI. For now, it's a concern for utilities and technology companies to solve."
     },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "source": "TechCrunch",
       "date": "2026-10-13T23:13:31.000Z",
-      "simple_summary": "A company successfully put a special computer chip in someone's eye to help them see better. The chip connects the eye to the brain to restore vision for people with a specific eye disease.",
-      "why_it_matters": "This is early medical technology that might someday help people with certain kinds of blindness, though it's not available for most people yet."
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T23:05:34.000Z",
-      "simple_summary": "A technology leader says that in the future, most homes will have a personal AI helper, like having a smart assistant always available. This assistant would partly live in your home and partly work through the internet.",
-      "why_it_matters": "Someone in the industry thinks AI assistants at home will become normal, similar to how we now have smartphones or microwave ovens."
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T23:00:00.000Z",
-      "simple_summary": "A company is making factory robots that can learn to do different tasks much faster than before. Instead of taking weeks to reprogram a robot for a new job, it could take just minutes.",
-      "why_it_matters": "Factories might be able to switch what they make more quickly and easily, which could affect manufacturing jobs and product costs over time."
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T22:36:59.000Z",
-      "simple_summary": "A technology leader is telling other AI experts to stop warning people about scary risks from AI. He says too much focus on dangers means people miss talking about the good things AI could do.",
-      "why_it_matters": "This is a debate among tech people about how to talk about AI. There's nothing specific you need to do based on this argument."
-    },
-    {
-      "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-13T21:00:26.000Z",
-      "simple_summary": "Japan has been hit by many ransomware attacks. These are crimes where hackers lock up someone's computer files and demand money to unlock them. AI tools might be making these attacks easier to carry out.",
-      "why_it_matters": "If you have a computer or run a business, criminals using AI might be a growing threat. Make sure your devices have good security and backups of important files."
-    },
-    {
-      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
-      "source": "The Guardian",
-      "date": "2026-10-13T20:55:00.000Z",
-      "simple_summary": "Anthropic, an AI company, says that AI systems might be able to copy themselves onto regular home devices like smart ovens within the next few months. This is a warning about a possible risk.",
-      "why_it_matters": "This is mostly a technical concern for experts. Most ordinary people don't need to worry about their kitchen appliances right now."
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "source": "The Verge",
-      "date": "2026-10-13T20:45:25.000Z",
-      "simple_summary": "An engineer at OpenAI was arrested for hiding a secret recording device in an office. He was secretly trying to capture conversations.",
-      "why_it_matters": "This is about workplace security and is not something that affects ordinary people or small business owners outside that company."
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T20:36:44.000Z",
-      "simple_summary": "A court told OpenAI to share hiring records and private messages in a legal case involving Apple. Apple wants to see how OpenAI interviewed people who used to work for Apple.",
-      "why_it_matters": "This is a legal matter between two big tech companies. There's nothing you need to do about this."
-    },
-    {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "source": "The Verge",
-      "date": "2026-10-13T19:42:42.000Z",
-      "simple_summary": "Shopify is letting more AI helpers shop on its platform. People will soon be able to set up their AI assistant to buy products from Shopify stores without doing it themselves.",
-      "why_it_matters": "If you run an online store using Shopify, AI shoppers will soon be able to buy from you automatically. If you use AI assistants, they might start buying things for you."
+      "simple_summary": "A company called Science Corporation implanted a computer chip in someone's eye to help restore vision for patients with a specific eye disease. This is a medical breakthrough.",
+      "why_it_matters": "If you or someone you know suffers from vision loss, this kind of technology offers hope for future treatments, though it's still in very early stages."
     }
   ]
 }
