@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-14T17:14:52.665Z",
+  "generated_at": "2026-10-14T21:43:49.446Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc?oc=5",
-      "source": "Le Monde.fr",
-      "date": "2026-10-14T15:29:53.000Z",
-      "simple_summary": "Nvidia's leader says he is optimistic that AI will be safe and will create jobs rather than destroy them. He also spoke about countries having control over their own AI systems.",
-      "why_it_matters": "This mostly matters to investors and people worried about AI's future. If you use AI tools, this is a general positive statement but doesn't change anything you need to do today."
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "source": "The Verge",
+      "date": "2026-10-14T19:06:03.000Z",
+      "simple_summary": "Several big AI companies are competing to make better and better AI systems. Google and Meta are catching up to leaders like OpenAI and Anthropic.",
+      "why_it_matters": "This mostly matters to investors and tech enthusiasts. You will likely benefit from better AI tools over time, but there's nothing specific you need to do right now."
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T15:16:04.000Z",
-      "simple_summary": "The music streaming service Deezer is adding a button that lets you skip over songs created by AI instead of by humans. It will be available by the end of the year.",
-      "why_it_matters": "If you use Deezer and prefer human-made music, this gives you more control over what you listen to."
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge",
+      "date": "2026-10-14T18:47:54.000Z",
+      "simple_summary": "A company called Character.AI is going out of business. Lawyers are investigating whether the company protected people's personal information before closing down.",
+      "why_it_matters": "If you used this service, your data could be at risk. If you didn't use it, this doesn't affect you."
     },
     {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T15:13:24.000Z",
-      "simple_summary": "TechCrunch is selling discounted tickets to a big technology conference happening in October 2026 in San Francisco. This is an advertisement for that event.",
-      "why_it_matters": "This matters only if you run a startup company and want to attend tech conferences. Most small business owners and retirees won't need this."
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "source": "The Verge",
+      "date": "2026-10-14T18:22:56.000Z",
+      "simple_summary": "YouTube will now put a label on songs made or changed by AI, similar to how it labels AI-generated videos. This helps people know what they're listening to.",
+      "why_it_matters": "If you listen to music on YouTube, you will now know which songs were created with AI help. This is good information but doesn't require you to do anything."
     },
     {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T15:08:00.000Z",
-      "simple_summary": "A company called Zenzap has raised money to build an AI chat tool for workplaces, similar to WhatsApp but for businesses. Big companies like Starbucks and Taco Bell already use it.",
-      "why_it_matters": "If you run a business and want your team to communicate better online, this is one option to consider when choosing workplace messaging tools."
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T15:00:00.000Z",
-      "simple_summary": "A company called Floqer created an AI tool that automatically researches potential customers so sales teams don't have to do that boring work themselves.",
-      "why_it_matters": "If you run a sales team, this kind of tool could save your employees time doing research, though this mostly matters to larger businesses."
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-10-14T14:42:19.000Z",
-      "simple_summary": "This article recommends buying stock in an AI chip company that is not as famous as Nvidia or Micron. This is investment advice.",
-      "why_it_matters": "This matters only to investors deciding what stocks to buy. There's nothing here for regular people or small business owners."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T14:30:00.000Z",
-      "simple_summary": "This is about day two of a TechCrunch technology conference happening in 2026. It includes various sessions about AI and is promoting ticket sales.",
-      "why_it_matters": "This is only relevant if you are thinking about attending a tech conference. Most people won't need this information."
-    },
-    {
-      "title": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEdVZ0NfSTRQbUstZHN1YkhzRHlkRU15N3NrUnNEeVgzZlBLQVdzczJFY2szOEpwdERyVXdVNFIxVHlCNmpVZEVKUTZoMnZjZUpNRTFFU3MyRnNvZlBpNjlzYzVRTFhpVHo3cWVhVEZWTThBNzlyUVlvemphTWRWSnZmd0VmU3N5T3J4bDEtUGs3S0F3bXNfYWx6N3hVR2dLVGc?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-10-14T13:00:00.000Z",
-      "simple_summary": "Someone wrote a letter to the newspaper saying that AI companies should not be allowed to make their own rules. They compared it to letting sports teams referee their own games, which wouldn't be fair.",
-      "why_it_matters": "This is a concern about whether AI companies are trustworthy to regulate themselves. It reflects a broader conversation about AI safety, but doesn't announce any changes."
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch",
-      "date": "2026-10-14T11:00:00.000Z",
-      "simple_summary": "A company called Scimplify raised money to use AI to find and extract materials that China currently controls most of the supply for. Their business has grown fast and they want to expand in the United States.",
-      "why_it_matters": "This mostly matters to investors and people concerned about America depending on other countries for important materials. It doesn't affect your daily life right now."
+      "title": "Governments Draw the Line on Where AI Glasses Can Go",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBIaGpkZHh0bFRqSVJraEZWeC1uRy0yVGFVUGwyZlZxb21tbTdJd1BqbnBTRS03aVBnYXZ0ZkpiSEhnLWkzakZCSExKSzR5T2F5ODdWWnY5Zlh2WmFKRGw5YmpHckhNOUFYZHRDNmVSX2x0ZlV5Z29YTThTSVNMd2cxRkVwNGljTjRXQk9XMURBZ0lSLW4tTy1mR3lWc0RHY2ZwbG1DZG5wcExtMVhZ?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-10-14T17:43:55.000Z",
+      "simple_summary": "Governments are deciding where and how AI glasses can be used in public places. Rules are being created to protect privacy and safety.",
+      "why_it_matters": "This means AI glasses will have real limits on where they work. Ordinary people should feel more protected in private spaces."
     },
     {
       "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
       "source": "The New York Times",
-      "date": "2026-10-14T09:01:19.000Z",
-      "simple_summary": "Someone wrote an article about a dinner party where 22 people attended, and their AI chat assistants were also present as separate participants. This is an experiment or unusual event.",
-      "why_it_matters": "This is a creative story showing how AI might be used in social situations in the future. It doesn't announce a product you can use today."
+      "date": "2026-10-14T17:35:24.000Z",
+      "simple_summary": "A group of people had a dinner party where AI assistants also participated as digital guests. It was an experiment in how AI can join human events.",
+      "why_it_matters": "This is an interesting experiment but not something most people need to pay attention to right now."
     },
     {
-      "title": "Google says it needs the grid. The grid can’t keep up.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUYwQUdaRHJ1ODk5Q0JQbHJjU21EeFUxZ3hGU0VNQWExMjVnY3JIalB0S05OT2ZKSFJVR19wZ1RRNVhGbWRDX1hHZWhFel9VZS1fY0dsMzJMMjBKZXJvN1N2Mm11TENJSFNKckdjMTNKbHJVdDUzRmJVMVh1XzJVbnJvWlA?oc=5",
-      "source": "Politico",
-      "date": "2026-10-14T09:00:00.000Z",
-      "simple_summary": "Google needs a lot more electricity to power its AI systems, but the electrical grid in America is struggling to provide enough power for all these new demands.",
-      "why_it_matters": "This could eventually affect electricity prices and availability if companies use lots of AI. For now, it's a concern for utilities and technology companies to solve."
+      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VRzZRUmxHT0dEeEJLcXlKZGJaVlIwYWhzcURham12YnlPc01oTG8zLVphYmlaX2IzMFNFXzJhNldPVGZCSE91TzlUU0pjZmNYbTJFeFRLSmhPT3NQczFHSjBQb2EwcmxIM0JkUW1UQ2ZZLVl0VEHSAXtBVV95cUxOc241NDA1RTVhM3NYU2psZmhJdkFNU3ZNWUl1b0c3T002RDFKSXNldDJhSnpycGNMc3JZUjBCMWFETV9lajg3eGxQV1ZZd0ZrZTVCT3I3cnh3bUFSdXZZVEhYeWljRWRva1lkRllFYmxiUS1ELTBFOEhvaXc?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-14T17:10:59.000Z",
+      "simple_summary": "Investors are betting that a cloud computing company called CoreWeave might fail. This is mostly about stock market trading and investor worries.",
+      "why_it_matters": "This matters to investors and people with stock portfolios. It has nothing to do with everyday life or small businesses."
     },
     {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T23:13:31.000Z",
-      "simple_summary": "A company called Science Corporation implanted a computer chip in someone's eye to help restore vision for patients with a specific eye disease. This is a medical breakthrough.",
-      "why_it_matters": "If you or someone you know suffers from vision loss, this kind of technology offers hope for future treatments, though it's still in very early stages."
+      "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0VhY1BVYWFnaWhJY09nRHN1RWEydFNsTGlwTWwtcDVtdWtyaDBpZ09kaVRZanBYRFV0ZVU1V2ltUVp5dldURU1sbDVtdU5NcEpjbHhFclVkalZaeGc0Y0l0UzFaTDNsM3dJdVVHRVQwQzJ6TTF4amxtVEZmOFY3RGF2T3FnN2syUWVxelRxZTBGV3BCNU0xWDVvcWMzbGQ0Qllud1FMdGxtYlVwYjBR?oc=5",
+      "source": "The Guardian",
+      "date": "2026-10-14T17:03:00.000Z",
+      "simple_summary": "Experts are worried that AI could make it easier to create dangerous biological weapons. It's a serious safety concern being discussed by governments.",
+      "why_it_matters": "This is about national security and government policy. There's nothing an ordinary person can do about this, but it's worth knowing governments are thinking ahead about the risks."
+    },
+    {
+      "title": "My AI doppelganger tells me what to eat",
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "source": "The Verge",
+      "date": "2026-10-14T17:00:00.000Z",
+      "simple_summary": "A reporter created an AI version of herself that gives her suggestions about what to eat each day. It's an experiment in using AI as a personal assistant.",
+      "why_it_matters": "This is one person's experiment and doesn't affect you unless you want to try something similar."
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "source": "The Verge",
+      "date": "2026-10-14T16:43:24.000Z",
+      "simple_summary": "OpenAI says a former employee took secret files about their product plans and shared them with Apple. Both companies are dealing with this dispute.",
+      "why_it_matters": "This is a business conflict between two tech companies. It has nothing to do with your everyday life."
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "source": "The Verge",
+      "date": "2026-10-14T16:05:21.000Z",
+      "simple_summary": "Microsoft created a tool that uses AI to predict weather more accurately weeks in advance. Farmers and emergency responders could benefit from better long-term forecasts.",
+      "why_it_matters": "If you farm or rely on weather forecasts for planning, more accurate predictions could help you. Otherwise, this is just a nice improvement happening behind the scenes."
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "source": "The Verge",
+      "date": "2026-10-14T16:00:00.000Z",
+      "simple_summary": "Square is selling a kiosk for restaurants and shops that lets customers order food or items by talking to an AI. It combines a touchscreen with voice conversation.",
+      "why_it_matters": "If you own a restaurant or shop, this is a tool you could buy to make ordering easier for customers and reduce the need for cashiers."
+    },
+    {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "source": "The Verge",
+      "date": "2026-10-14T16:00:00.000Z",
+      "simple_summary": "Google is adding stronger protection to Google Messages on Android phones to catch and warn people about text scams before they click on fake links.",
+      "why_it_matters": "If you have an Android phone and use Google Messages, you'll have better protection against scams and fraud coming through text messages."
     }
   ]
 }
