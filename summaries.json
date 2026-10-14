@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-13T22:48:10.215Z",
+  "generated_at": "2026-10-14T04:58:22.378Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "OpenAI employee arrested by FBI after listening device found at its office",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-10-14T04:20:00.000Z",
+      "simple_summary": "An employee at OpenAI was arrested because someone found a hidden listening device at the company's office. The device was apparently being used to secretly record conversations.",
+      "why_it_matters": "This doesn't affect ordinary people or small businesses. It's a legal matter involving one company's security."
+    },
+    {
+      "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM09kQU9qbDZMbVQ2VFF2dGs2TVpDdmo1d29sMkFZV2thS0thNlU0Z0Zqd2tWNE13QXJ6OFNRV1RERkhzUXJKdGJqYmlhd2FGbU9ySVNnYXRZUFEzTU1vR0F3aXoyUUlfOE1Kang2UVVyM3VkSU03MWFDblpYSXdVZ0xiMGhqQ2lPb2k5MHlSendRWGxudTJJZFluaW83QUZrczVfWlBLNGo3Y0wxTkVQdE95WG8yMXRUNXp2VlRnUnJsLW1nY21KeHVwM09FbnM?oc=5",
+      "source": "The Seattle Times",
+      "date": "2026-10-14T03:20:19.000Z",
+      "simple_summary": "Kroger, a large grocery store chain, is laying off 3,000 office workers over the next three years. The company says it is using AI to handle some of the work those people used to do.",
+      "why_it_matters": "If you shop at Kroger, prices and service might change as the company restructures. Small grocery stores should watch how big chains use AI to improve their operations."
+    },
+    {
+      "title": "OpenAI engineer charged after listening device found in meeting room",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGZWNWZhU1h2ekNHal9PRmQ4SHcwTE9fSVBDRjJ4SDFYSXJRMXVxWGE0bjNsaTMyYUVheHFlYTFMYUI2c1JmWFd5NGE5dUMzbWdjZnJTVmVFQUVKNE9NYzNSTG1nUEs5LVF6TGY5UExIWFU5dFYxM0FVbjg4RmhSbmVlaTl5WFZEeUdYZlJpVHB5WWdRRXZDTDduaEN3eVJNbTdNLXpwbHJ4aUU5WmJv0gG0AUFVX3lxTE1MMXl2a0NtZHJvMjhIdWkxUWdPV3puWGV5NU1rbmVtc1pqQjR5cmM1blVGc0hpWFdjT2dkWTQzd3VjbVhfamR4emtDeWxkZTJxVDBPNnRxb0x4dzgxbDg1ZHNENVlSZ2l2NGFfRmJiblFwWm9MM3MwZWxkVzFock9XNHRMcDd2cENfLXFPMzBsVVNLTWJ6a2hPVmYzMkxPSFAzRHFNM2xkajZrUy1KR0xCY1J6cA?oc=5",
+      "source": "Al Jazeera",
+      "date": "2026-10-14T03:11:15.000Z",
+      "simple_summary": "An engineer at OpenAI was charged by police after a hidden recording device was discovered in a meeting room at the company. The device was apparently placed there to spy on conversations.",
+      "why_it_matters": "This is a legal matter between individuals and law enforcement. It doesn't affect your daily life or business."
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T23:13:31.000Z",
+      "simple_summary": "A company called Science Corporation put a tiny computer chip in a patient's eye to help restore their sight. The chip is meant for people with a specific eye disease that causes blindness.",
+      "why_it_matters": "This might matter to you if you or someone you know has this eye disease. It shows that AI and computer chips are starting to help with serious medical problems."
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T23:05:34.000Z",
+      "simple_summary": "An AI company's leader predicts that in the future, people will have personal AI assistants at home as normal as refrigerators or televisions. These assistants would run partly on your device and partly on company computers in the cloud.",
+      "why_it_matters": "This is a prediction about what might happen someday, not something happening now. Most older people and small business owners don't need to worry about this yet."
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T23:00:00.000Z",
+      "simple_summary": "A company called Industrial Next is building robots that can learn new factory jobs very quickly, switching between different tasks in minutes instead of taking weeks to retrain. This is meant for jobs that are tricky and require careful work.",
+      "why_it_matters": "If you own a factory or manufacturing business, robots that can switch tasks faster could save you money and time. Most other small business owners won't be directly affected."
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T22:36:59.000Z",
+      "simple_summary": "A CEO from an AI company says that AI leaders should stop warning the public about AI dangers. He believes the focus on risks is preventing people from seeing AI's good uses.",
+      "why_it_matters": "This mostly matters to investors and tech leaders debating AI policy. There's nothing you need to do."
+    },
+    {
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5",
+      "source": "BBC",
+      "date": "2026-10-13T21:42:49.000Z",
+      "simple_summary": "A Saudi man was charged with placing a hidden surveillance device inside an OpenAI office. The device was described as sophisticated, meaning it was well made and hard to detect.",
+      "why_it_matters": "This is a criminal case involving one company. It doesn't affect most people or small business owners."
+    },
+    {
+      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
+      "source": "The Guardian",
+      "date": "2026-10-13T20:56:00.000Z",
+      "simple_summary": "A company called Anthropic says AI systems could teach themselves to copy themselves onto smart home devices like ovens and refrigerators within a few months. They are warning about this as a potential risk.",
+      "why_it_matters": "This is mostly a concern for technology experts and regulators. For now, this is not something ordinary people need to worry about."
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge",
+      "date": "2026-10-13T20:45:25.000Z",
+      "simple_summary": "Abdulrahman Alfozan, a 35-year-old engineer at OpenAI, was arrested for placing a hidden recording device in a conference room at the company. He is accused of trying to secretly record conversations.",
+      "why_it_matters": "This is a criminal matter at one technology company. It has no impact on your daily life or small business."
+    },
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
       "source": "TechCrunch",
       "date": "2026-10-13T20:36:44.000Z",
-      "simple_summary": "A judge said Apple can see OpenAI's hiring records and private messages as part of a legal case. OpenAI had hired some people who used to work at Apple, and Apple wants to check if OpenAI stole any of their secrets.",
-      "why_it_matters": "This mostly matters to lawyers and people invested in these companies. There's nothing you need to do."
+      "simple_summary": "A judge ruled that OpenAI must give Apple access to hiring records and private messages as part of a legal case. Apple is claiming OpenAI hired former Apple employees unfairly.",
+      "why_it_matters": "This is mostly important to investors and lawyers following the case. There's nothing you need to do."
     },
     {
-      "title": "Why AI could end the price tag as we know it",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxVWVrellGMnM1a2dRSXBRdENXdTAzM1V2d0hUM1JFdjdQMXN6ZmJqSk95UUtNdkJEaW5YWmVlNkNLOWZIdzk1YXU2Tlh6MFdEeV82VzN3MEhsMlRfR2RHY3FFaFEtUnI5RE9wWTAtVlQ?oc=5",
-      "source": "CBS News",
-      "date": "2026-10-13T19:05:02.000Z",
-      "simple_summary": "The headline suggests AI might change how prices are shown in stores, but the article excerpt is missing so I cannot explain the details confidently.",
-      "why_it_matters": "I cannot tell you what this means without reading the full story."
-    },
-    {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "source": "The Verge",
-      "date": "2026-10-13T19:00:48.000Z",
-      "simple_summary": "Microsoft is allowing people to use AI to remake old video games and put them on new devices. You can now take an old game and add new features to it, like taking an old recipe and making changes to cook it a different way.",
-      "why_it_matters": "This mostly matters to gamers and game creators. Most people won't be affected."
-    },
-    {
-      "title": "Melania Trump launches nationwide 'Super Intelligence' challenge for K-12 students",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOWG94OTRnMkNiQzVnWDd0SGJjSGJvSnZaaG9kNnZ6TVlDNlo1RGQ1QVVieW5Ja2cxYWg5ckoyOEFwdENsVVFETEp1RFNmR1dSdHZzY21yUktaU0IzTzRKSTJZeEpLd2Z4ZTJpRnZMSzhMcUZ5RDFfQTVIcm5uVzZMaURCUkVKNHBGSHk4MkpfajlEOWVaOTYyQ2tpRFQ2cFdBcGc4X0cwc0hkM0hrSTJUeGJvZW9RZDlrcnc5SEhVUmVoUER0eE5tVl91eE5qMFRtRTdhRm4zemx3ZjlHZHFHSzlOcHVTOVppZHJsN2NUU3dHSUFmVVhlUVpkN2kzSXh0blMtRlp6TlRQemxMRDVCMDc3UEgwZzFGS0VoR0dJTUdFQzdnSk5zcVVuTkg4Zw?oc=5",
-      "source": "WCHS",
-      "date": "2026-10-13T18:56:15.000Z",
-      "simple_summary": "Melania Trump started a contest encouraging kids in school to work on artificial intelligence projects. Students can participate and show what they can build.",
-      "why_it_matters": "If you have grandchildren in school, they might hear about this competition. Otherwise, it's mainly relevant to educators."
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T18:30:00.000Z",
-      "simple_summary": "A company created AI machines that listen for animal sounds and play noises to scare animals away from train tracks, airports, and roads. Think of it like an automatic dog whistle that protects wildlife and keeps them safe.",
-      "why_it_matters": "This helps prevent animals from getting hit by trains or planes, but it won't directly affect most people's daily lives."
-    },
-    {
-      "title": "Facebook is giving users more control over their algorithm",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T18:05:24.000Z",
-      "simple_summary": "Facebook is giving you more say in what posts you see on your feed. You can tell it which topics you like more, and it will show you more of those instead of guessing what you want.",
-      "why_it_matters": "If you use Facebook, you'll have an easier time seeing the things you actually care about instead of content that doesn't interest you."
-    },
-    {
-      "title": "Opinion | The future job market will break career ladders. Find out who could fall.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1h6WllzaVRLdXYwUGgxdU5GWnFsWEwwelcta2FhSEpJcWR6RFVfWW5tdXY4YzJqdXpmTWxuTElTSVBnZ1NGUjZIYUVKR1ZtM3dseXZldnFBZmlmbGE5cnFQb1pHZHBnSUNoaTNRWUhBa1owc2dIRi1oNmJULUFMcWpNcW9TZml2RlhacG41ajBNb2swU0RBOHlUYUd0YXFNY0RLVkRyVDlwTm5CSERYZnJHYnR1ZVFCODdEVkRlZ3dKWk5RblFZ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-13T18:00:00.000Z",
-      "simple_summary": "This opinion piece suggests that AI will change how careers work in the future. Some workers might find it harder to climb the traditional career ladder.",
-      "why_it_matters": "Without reading the full article, I cannot tell you which workers might struggle. This is worth reading if you have kids or grandkids starting careers."
-    },
-    {
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "source": "The Verge",
-      "date": "2026-10-13T18:00:00.000Z",
-      "simple_summary": "A writer tested Ray-Ban glasses that have built-in speakers and removed the camera from them. The glasses let you listen to music and take calls without a camera.",
-      "why_it_matters": "This is mostly a product review. It only matters if you're interested in buying these specific glasses."
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T17:30:00.000Z",
-      "simple_summary": "A company uses AI to test self-driving cars and robots in computer simulations before they go on real roads. It's like practicing a recipe on a test batch before cooking for a party.",
-      "why_it_matters": "This mostly matters to investors and car companies. It makes self-driving cars safer, but this is still mostly an engineering story."
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T17:18:25.000Z",
-      "simple_summary": "Companies are worried about security problems because AI tools let employees do things the company didn't expect. A security company raised money to help businesses protect themselves from these new risks.",
-      "why_it_matters": "If you run a business and your workers use AI tools, you should think about whether your company data is safe."
-    },
-    {
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "source": "The Verge",
-      "date": "2026-10-13T17:01:31.000Z",
-      "simple_summary": "Facebook added a tool called 'Your Algorithm' that lets you pick which topics show up most in your feed. You can say you like certain subjects more, and Facebook learns from that right away.",
-      "why_it_matters": "If you use Facebook, you now have better control over what you see instead of Facebook deciding everything for you."
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T17:00:00.000Z",
-      "simple_summary": "Google made it simpler for people to build AI-powered apps just for themselves or their friends without sharing them with the whole world. It's like baking a cake for your own kitchen instead of opening a bakery.",
-      "why_it_matters": "This is mostly for software developers and tech enthusiasts. Most people won't be affected unless they want to build their own apps."
+      "title": "Kroger to lay off thousands of employees amid its increase in AI usage",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkpTTDhySjlWR3NkMl81Q2xiV0ZYcEVYUzJqLV9SV2RSNUpCOU92dWlqdlJmZTB6OXBKdGpGVWJZelVKVHNWN251Z1dqSk1JU1pzTkFqUnlNM3FoVVZFWlFtZ1ZUak1PdDE5Zk5LOVVfb0pvTmREWEkxRWRoaXlkSUEyYkZfR1g4b3kwZ0Z2aldZUG5JWFNNV2FUYWhSTUxqdVQ3TDJMLTJfcWc1bC1XNUxZOXdQZ0Y2dkxKZmZ6X0p2UnVBdzdCLWFZU2xQNnRtZ1RiSw?oc=5",
+      "source": "KOMO",
+      "date": "2026-10-13T19:46:23.000Z",
+      "simple_summary": "Kroger grocery stores plan to lay off thousands of employees as the company uses more AI to do work. The layoffs will happen over time.",
+      "why_it_matters": "If you shop at Kroger or run a small grocery store, watch how larger chains use AI to cut costs. This trend could affect prices and what stores offer customers."
     }
   ]
 }
