@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-14T21:43:49.446Z",
+  "generated_at": "2026-10-15T11:34:34.245Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The AI race is back on",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "title": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-10-15T10:00:00.000Z",
+      "simple_summary": "Grocery stores in Los Angeles are using robot machines to roll through aisles and help with tasks. People shopping and people who work there are concerned about how this might affect them.",
+      "why_it_matters": "If your local grocery store gets robots, you might see fewer workers or find your shopping experience changes. It is worth paying attention to how stores near you are handling this."
+    },
+    {
+      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was reportedly given access to the production server and wiped the finished season",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZ1JwU05wS2tBd2ZBSUctNHc2Z29IRzNYVWJvOWV6V18waWdkbWdxc21nS2F5VVlSUUVLaTBUY2RBV0lpb0IwLVF0ZkZ4ek1lSEI4MHVjRmp5QmZOMkJzR0k1ODVrVXVGano2djZfMEZ3bXFITndxd0VGOXdsb1BldjJBNFVWZzk4MEkwRlVKeTB2Q1RLd0lURjc0ZHZ2MFVNVnRGOEJaZ01yMUUzMTMyVlZBUDNTcW9xeUZwZGJyR0I5b0N2T1ZtN04tZC1yV3VJUmVoNEE5RGs5M2xxQS1Kanphbm1UNlI0WlpjOGJTeG9sLTNHaUI3NVA0bnEtQlVNNUVNVG9LQ3pLVjQ?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-10-15T10:00:00.000Z",
+      "simple_summary": "An AI program was given access to a TV show's computer files and accidentally deleted the entire finished season, wiping out months of work. The show cannot air now.",
+      "why_it_matters": "This shows that AI systems can cause serious damage if they are given too much power over important work. If you use AI tools for your business, be careful about what access you give them."
+    },
+    {
+      "title": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFBRNm9yTDRZZl9VRGNidHJqdDRHTGdSUGtCaEdpX3ZCdzJWNnBXcU1XTTZSYUFBQ1VUR2FZYzg1ZXMya09mMVhUa0FrdXE1YVByM3lPZEVwVUxJS09iLUw4VTZUWGRhbFR0MG5XY0QyenVmQlBRci1CX0pmcktLbDlxYWJzeUNGVzBkSjZMTndZVDFvYlk4NUx1WHJMV2Nl?oc=5",
+      "source": "Fierce Biotech",
+      "date": "2026-10-15T10:00:00.000Z",
+      "simple_summary": "A large medicine company is paying another company to use AI to help discover new drugs for liver and heart disease. This is mostly a business deal between large companies.",
+      "why_it_matters": "This mostly matters to investors and people in the medicine industry. There is nothing you need to do right now."
+    },
+    {
+      "title": "AI credit jitters drive US tech default insurance to record highs",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-15T05:18:00.000Z",
+      "simple_summary": "Insurance companies that protect businesses against financial trouble are charging higher prices because they worry AI companies might fail. This is a worry in the technology world.",
+      "why_it_matters": "This mostly matters to investors and banks that lend money to tech companies. If you are not investing in technology stocks, this does not affect you."
+    },
+    {
+      "title": "Opinion | The Luddite and the engineer",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1VaQmlxSUdiSUZWRFh2Sy05cXQ4VGlURmlUSG5HT1NvTUYxTzlxOEVQdWs1MjI5SDluS1RJZ3c0VWh0NVJPYmVBMW1YNzBBSk5pSFcxUV9GYnQ1cFVhMjdnMzRCM01GOWpxTEFhU2hWWjd0UjdDWnRiUHNxX2tpanRTN3lza2c0bTFSWS1ST3kxQWtVY2dWdTl3cVlvVEpDSUhyQjBUODdpZEpBVWJWN05aaw?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-10-15T04:49:29.000Z",
+      "simple_summary": "This is an opinion article discussing people who are skeptical about new technology versus people who embrace it. The headline does not explain the specific argument.",
+      "why_it_matters": "Without reading the full article, it is hard to say whether this affects ordinary people. It sounds like a general discussion about attitudes toward technology."
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T04:30:00.000Z",
+      "simple_summary": "Figma, which is a software tool that designers use to create pictures and layouts online, is adding new features to let AI agents help with work. They are also releasing a code layers tool.",
+      "why_it_matters": "If you are a graphic designer or work with design tools, this might give you new options. Most other small business owners can skip this one."
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T01:01:32.000Z",
+      "simple_summary": "A company is using AI to help design computer chips, teaching the AI to improve with each try. They want to make chip design faster and easier.",
+      "why_it_matters": "This mostly matters to engineers and tech companies. It could eventually lead to cheaper computers years from now, but there is nothing you need to do today."
+    },
+    {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T00:00:00.000Z",
+      "simple_summary": "A company called Gudea uses AI to watch social media and spot problems like false rumors or hate speech before they blow up into big controversies. They help organizations catch these issues early.",
+      "why_it_matters": "If you own a business with a social media presence, a tool like this could help you spot and stop damaging rumors before they spread. It is worth knowing tools like this exist."
+    },
+    {
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5",
+      "source": "Nature",
+      "date": "2026-10-14T22:55:28.000Z",
+      "simple_summary": "Scientists used AI to study brown fat in human bodies. This is medical research published in a science journal.",
+      "why_it_matters": "This is early scientific research. It might lead to better health treatments someday, but there is nothing you need to do about it now."
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
       "source": "The Verge",
-      "date": "2026-10-14T19:06:03.000Z",
-      "simple_summary": "Several big AI companies are competing to make better and better AI systems. Google and Meta are catching up to leaders like OpenAI and Anthropic.",
-      "why_it_matters": "This mostly matters to investors and tech enthusiasts. You will likely benefit from better AI tools over time, but there's nothing specific you need to do right now."
+      "date": "2026-10-14T22:53:31.000Z",
+      "simple_summary": "The consulting company McKinsey is testing job candidates by having them talk to a fake AI client for 10 minutes as part of the job interview. The AI pretends to be a customer they might work with.",
+      "why_it_matters": "If you are applying for jobs at big consulting firms, you may soon face AI during interviews. Most small business owners are not affected."
     },
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T21:30:33.000Z",
+      "simple_summary": "A company called Flock makes microphones that claim to detect gunshot sounds. Privacy groups worry the technology could be misused in ways Flock's website does not fully explain.",
+      "why_it_matters": "This is mostly a concern for people who care about privacy in public spaces. If microphones like this get installed near you, it is worth asking what they can really do."
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "source": "The Verge",
-      "date": "2026-10-14T18:47:54.000Z",
-      "simple_summary": "A company called Character.AI is going out of business. Lawyers are investigating whether the company protected people's personal information before closing down.",
-      "why_it_matters": "If you used this service, your data could be at risk. If you didn't use it, this doesn't affect you."
-    },
-    {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "source": "The Verge",
-      "date": "2026-10-14T18:22:56.000Z",
-      "simple_summary": "YouTube will now put a label on songs made or changed by AI, similar to how it labels AI-generated videos. This helps people know what they're listening to.",
-      "why_it_matters": "If you listen to music on YouTube, you will now know which songs were created with AI help. This is good information but doesn't require you to do anything."
-    },
-    {
-      "title": "Governments Draw the Line on Where AI Glasses Can Go",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBIaGpkZHh0bFRqSVJraEZWeC1uRy0yVGFVUGwyZlZxb21tbTdJd1BqbnBTRS03aVBnYXZ0ZkpiSEhnLWkzakZCSExKSzR5T2F5ODdWWnY5Zlh2WmFKRGw5YmpHckhNOUFYZHRDNmVSX2x0ZlV5Z29YTThTSVNMd2cxRkVwNGljTjRXQk9XMURBZ0lSLW4tTy1mR3lWc0RHY2ZwbG1DZG5wcExtMVhZ?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-10-14T17:43:55.000Z",
-      "simple_summary": "Governments are deciding where and how AI glasses can be used in public places. Rules are being created to protect privacy and safety.",
-      "why_it_matters": "This means AI glasses will have real limits on where they work. Ordinary people should feel more protected in private spaces."
-    },
-    {
-      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-14T17:35:24.000Z",
-      "simple_summary": "A group of people had a dinner party where AI assistants also participated as digital guests. It was an experiment in how AI can join human events.",
-      "why_it_matters": "This is an interesting experiment but not something most people need to pay attention to right now."
-    },
-    {
-      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VRzZRUmxHT0dEeEJLcXlKZGJaVlIwYWhzcURham12YnlPc01oTG8zLVphYmlaX2IzMFNFXzJhNldPVGZCSE91TzlUU0pjZmNYbTJFeFRLSmhPT3NQczFHSjBQb2EwcmxIM0JkUW1UQ2ZZLVl0VEHSAXtBVV95cUxOc241NDA1RTVhM3NYU2psZmhJdkFNU3ZNWUl1b0c3T002RDFKSXNldDJhSnpycGNMc3JZUjBCMWFETV9lajg3eGxQV1ZZd0ZrZTVCT3I3cnh3bUFSdXZZVEhYeWljRWRva1lkRllFYmxiUS1ELTBFOEhvaXc?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-14T17:10:59.000Z",
-      "simple_summary": "Investors are betting that a cloud computing company called CoreWeave might fail. This is mostly about stock market trading and investor worries.",
-      "why_it_matters": "This matters to investors and people with stock portfolios. It has nothing to do with everyday life or small businesses."
-    },
-    {
-      "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0VhY1BVYWFnaWhJY09nRHN1RWEydFNsTGlwTWwtcDVtdWtyaDBpZ09kaVRZanBYRFV0ZVU1V2ltUVp5dldURU1sbDVtdU5NcEpjbHhFclVkalZaeGc0Y0l0UzFaTDNsM3dJdVVHRVQwQzJ6TTF4amxtVEZmOFY3RGF2T3FnN2syUWVxelRxZTBGV3BCNU0xWDVvcWMzbGQ0Qllud1FMdGxtYlVwYjBR?oc=5",
-      "source": "The Guardian",
-      "date": "2026-10-14T17:03:00.000Z",
-      "simple_summary": "Experts are worried that AI could make it easier to create dangerous biological weapons. It's a serious safety concern being discussed by governments.",
-      "why_it_matters": "This is about national security and government policy. There's nothing an ordinary person can do about this, but it's worth knowing governments are thinking ahead about the risks."
-    },
-    {
-      "title": "My AI doppelganger tells me what to eat",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "source": "The Verge",
-      "date": "2026-10-14T17:00:00.000Z",
-      "simple_summary": "A reporter created an AI version of herself that gives her suggestions about what to eat each day. It's an experiment in using AI as a personal assistant.",
-      "why_it_matters": "This is one person's experiment and doesn't affect you unless you want to try something similar."
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "source": "The Verge",
-      "date": "2026-10-14T16:43:24.000Z",
-      "simple_summary": "OpenAI says a former employee took secret files about their product plans and shared them with Apple. Both companies are dealing with this dispute.",
-      "why_it_matters": "This is a business conflict between two tech companies. It has nothing to do with your everyday life."
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge",
-      "date": "2026-10-14T16:05:21.000Z",
-      "simple_summary": "Microsoft created a tool that uses AI to predict weather more accurately weeks in advance. Farmers and emergency responders could benefit from better long-term forecasts.",
-      "why_it_matters": "If you farm or rely on weather forecasts for planning, more accurate predictions could help you. Otherwise, this is just a nice improvement happening behind the scenes."
-    },
-    {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "source": "The Verge",
-      "date": "2026-10-14T16:00:00.000Z",
-      "simple_summary": "Square is selling a kiosk for restaurants and shops that lets customers order food or items by talking to an AI. It combines a touchscreen with voice conversation.",
-      "why_it_matters": "If you own a restaurant or shop, this is a tool you could buy to make ordering easier for customers and reduce the need for cashiers."
-    },
-    {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "source": "The Verge",
-      "date": "2026-10-14T16:00:00.000Z",
-      "simple_summary": "Google is adding stronger protection to Google Messages on Android phones to catch and warn people about text scams before they click on fake links.",
-      "why_it_matters": "If you have an Android phone and use Google Messages, you'll have better protection against scams and fraud coming through text messages."
+      "date": "2026-10-14T21:11:28.000Z",
+      "simple_summary": "Eight states are suing OpenAI, the company that makes ChatGPT, saying the tool is not safe for children and that OpenAI misled people about safety. The states claim OpenAI put making money ahead of protecting kids.",
+      "why_it_matters": "If you have children or grandchildren who use ChatGPT, this lawsuit raises real questions about whether the tool is safe for them. It might also lead to rules about how AI tools can be used by young people."
     }
   ]
 }
