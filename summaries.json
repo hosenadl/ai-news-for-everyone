@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-15T17:04:36.439Z",
+  "generated_at": "2026-10-15T21:26:20.021Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Scientists are finding AI may make us remember things that never happened",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUp6RVZiZmYxYjBWLWFpNldiYlY1NWFFenNFVFNUaVZxVUo4LTRDZW15Yy1CeU9Wa0N5bjhobUNGVk1STzBtQ3NYeUtrb1drM0d6QUFDMFJoM3ZWQTh4U1ZKX2ZtaEVSeDYwTUg3QUU3WHdLa2pINWZQcnd5bVd1VldacV9OaGhKdVh0Ti02c0RueGxnQ2FKMmpnUzg5N2dzU1I1bW9yMENMSDEyOGdIblVlS013cnlMbEZ0N0dYSmc?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-10-15T16:00:00.000Z",
+      "simple_summary": "Scientists discovered that AI programs can accidentally make people remember events that never actually happened. This happens because the AI can suggest false details so convincingly that our brains accept them as real memories.",
+      "why_it_matters": "If you use AI to help you remember things, be careful. Don't assume everything it tells you is true. Always double-check important information."
+    },
+    {
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-15T15:48:59.000Z",
+      "simple_summary": "The US Treasury Department is asking other countries to start calling AI by a new name: 'super intelligence' instead of just 'AI.' This is mostly a terminology change being negotiated at a government level.",
+      "why_it_matters": "This mostly matters to government officials and policymakers. It won't change how AI actually works or affects your daily life."
+    },
     {
       "title": "AI agents are coming to Rivian’s cars",
       "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch",
       "date": "2026-10-15T15:02:36.000Z",
-      "simple_summary": "Rivian, a car company, is adding AI agents to their vehicles. AI agents are computer helpers that can do tasks on their own without you telling them every step.",
-      "why_it_matters": "If you buy a Rivian car in the future, it might handle some driving chores automatically. Most other car owners won't notice a change right now."
+      "simple_summary": "Rivian, a car company, is adding AI assistants to their vehicles. These assistants will be able to help drivers with various tasks, though the full details won't be clear until December.",
+      "why_it_matters": "If you drive a Rivian or plan to buy one, future models may have a helpful AI assistant. For most people with other cars, this doesn't affect you yet."
     },
     {
       "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
       "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
       "source": "The Verge",
       "date": "2026-10-15T14:30:00.000Z",
-      "simple_summary": "Microsoft and Nvidia are making new laptop computers that are especially good at running AI programs. They're changing Windows software to work better with these machines.",
-      "why_it_matters": "This mostly matters to people who need powerful computers for work. Ordinary computer users probably won't need one of these laptops."
+      "simple_summary": "Microsoft and Nvidia are making laptops that run AI programs better, with Windows software specially tuned to work with them. These new RTX Spark laptops are designed to handle AI tasks more smoothly.",
+      "why_it_matters": "This mostly matters to engineers and people buying expensive new laptops for specialized work. If you have a regular laptop for email and web browsing, you don't need to worry about this."
     },
     {
       "title": "Google’s Universal Cart shopping tool launches in the US",
       "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "source": "TechCrunch",
       "date": "2026-10-15T14:29:33.000Z",
-      "simple_summary": "Google has released a new shopping tool that remembers items you're interested in across different websites. You can use it through Google Search or the Gemini app to keep one shared shopping cart.",
-      "why_it_matters": "If you shop online, this could make it slightly easier to collect items from different stores in one place before buying."
+      "simple_summary": "Google created a new online shopping tool that lets you add items from different stores to one cart. You can use it on Google Search or in the Gemini app starting now in the US.",
+      "why_it_matters": "If you shop online and use Google, this tool might make it easier to compare prices and checkout from multiple stores in one place. It's convenient but not essential."
     },
     {
       "title": "Nobody is safe from celebrity AI deepfakes",
       "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
       "source": "The Verge",
       "date": "2026-10-15T14:03:42.000Z",
-      "simple_summary": "Fake videos and images of famous people are being created using AI and shared on social media. These deepfakes can look very real but show things the celebrity never actually did.",
-      "why_it_matters": "Be skeptical of surprising celebrity news you see online. Anyone can be fooled by these fake videos, and scammers might use them to trick people."
+      "simple_summary": "AI can now create fake videos and images of celebrities doing and saying things they never did. These fake images look realistic enough to fool people on social media.",
+      "why_it_matters": "Be skeptical of images and videos you see online, especially if they seem surprising or embarrassing. They could be AI fakes. Don't share them without being sure they're real."
     },
     {
       "title": "TechCrunch Disrupt 2026: Last day",
       "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "source": "TechCrunch",
       "date": "2026-10-15T14:00:00.000Z",
-      "simple_summary": "TechCrunch is advertising the last day to buy discount tickets for a tech industry conference in 2026.",
-      "why_it_matters": "This is just a sales advertisement. It doesn't affect you unless you work in technology and want to attend the event."
+      "simple_summary": "This is an advertisement for a technology conference happening in 2026. It's a sales message for an event where tech professionals gather.",
+      "why_it_matters": "Unless you work in technology or are interested in attending a large industry conference, this doesn't affect you."
     },
     {
       "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
       "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
       "source": "The Verge",
       "date": "2026-10-15T14:00:00.000Z",
-      "simple_summary": "An interview with Benn Jordan, who investigates how companies collect data about people and governments watch citizens online.",
-      "why_it_matters": "This is mostly an interview announcement. The actual privacy concerns he investigates might matter to you, but this headline doesn't explain what they are."
+      "simple_summary": "This is an interview announcement with a researcher who investigates privacy and surveillance issues related to technology. The headline doesn't provide specific news about a new development.",
+      "why_it_matters": "If you're concerned about privacy online, this interview might provide useful insights. Otherwise, it's mostly content for people interested in media and tech trends."
     },
     {
       "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
       "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
       "source": "The Verge",
       "date": "2026-10-15T13:00:00.000Z",
-      "simple_summary": "Google released a shopping cart tool that remembers things you're interested in across different stores. It's available now through Google Search and the Gemini app in the United States.",
-      "why_it_matters": "Online shoppers might find it handy to collect items from different websites in one digital cart before checking out."
+      "simple_summary": "Google launched a shopping cart tool that works across different online stores. You can use it in Google Search or the Gemini app to make holiday shopping easier.",
+      "why_it_matters": "If you do online shopping during the holidays, this tool could save you time by letting you browse multiple stores in one place. It's optional and convenient but not necessary."
+    },
+    {
+      "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
+      "source": "About Amazon",
+      "date": "2026-10-15T12:01:09.000Z",
+      "simple_summary": "Amazon's company called Bee released two new devices that use AI. These devices help with various tasks and connect to Alexa and Amazon services.",
+      "why_it_matters": "If you use Amazon products and services, you may see these new AI devices offered to you. Otherwise, this is just a new product announcement from a major company."
     },
     {
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
       "source": "TechCrunch",
       "date": "2026-10-15T12:00:00.000Z",
-      "simple_summary": "Amazon bought a company called Bee that makes small AI devices. Bee is now selling a wearable device for about 75 dollars and a small card-sized recorder that listens and takes notes for you.",
-      "why_it_matters": "If you want help remembering conversations or making to-do lists, these gadgets are now an affordable option. They connect to Amazon's other services."
+      "simple_summary": "Amazon's Bee devices are small AI tools. One is a wearable you can wear, and one is a tiny recorder that clips to your phone. They listen to conversations, create lists, and help you shop, starting at about $75.",
+      "why_it_matters": "If you like Amazon's services and gadgets, these devices might interest you as affordable AI helpers. But they do record your conversations, so think carefully about privacy before buying."
     },
     {
       "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
       "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
       "source": "The Verge",
       "date": "2026-10-15T12:00:00.000Z",
-      "simple_summary": "Bee, which Amazon owns, is selling wearable AI devices that always listen and can now help you shop. One updated device costs 74.99 dollars and records what you say.",
-      "why_it_matters": "These devices could help you remember things, but you should know they record your private conversations. Think carefully before wearing always-listening technology."
-    },
-    {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "source": "The Verge",
-      "date": "2026-10-15T11:00:00.000Z",
-      "simple_summary": "A cute robot toy called Eiliko listens to what you say and stores it on computers in China. Hackers could potentially access what the toy has recorded about you and your family.",
-      "why_it_matters": "Don't buy this toy for yourself or your children. Your personal conversations and your kids' words would be stored on foreign servers where they could be hacked."
-    },
-    {
-      "title": "AI robots are roaming L.A. grocery store aisles. Shoppers and workers are worried",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo2azNzZ0R1ZWpCNFJocWQzMEZsTGdEbElaak5tMEU1dHh2Y21mMWtEMXQyaTRKdWxmQk02aGMycTExdlgyeW9FS05mUExlQUROZndvLXZ1VjI4cDlXQXZvN3pCVTZnSjhDek9LM3JrcExCaC1LMnpleVpWWlFTbERqZGNscWU4dUt0T3RsR1RXdzA3SjMxN0dkeUtXTXhaYlZvc2JWREp1dXhqODd6aEJzbDVBcHEtT3A2R045dnlndw?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-10-15T10:00:00.000Z",
-      "simple_summary": "Robots that are controlled by AI are now walking around grocery store aisles in Los Angeles. Workers and shoppers are concerned about these machines.",
-      "why_it_matters": "This affects grocery store workers in L.A. who worry these robots might replace jobs. Shoppers should expect to see more automation in stores going forward."
-    },
-    {
-      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was reportedly given access to the production server and wiped the finished season",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZ1JwU05wS2tBd2ZBSUctNHc2Z29IRzNYVWJvOWV6V18waWdkbWdxc21nS2F5VVlSUUVLaTBUY2RBV0lpb0IwLVF0ZkZ4ek1lSEI4MHVjRmp5QmZOMkJzR0k1ODVrVXVGano2djZfMEZ3bXFITndxd0VGOXdsb1BldjJBNFVWZzk4MEkwRlVKeTB2Q1RLd0lURjc0ZHZ2MFVNVnRGOEJaZ01yMUUzMTMyVlZBUDNTcW9xeUZwZGJyR0I5b0N2T1ZtN04tZC1yV3VJUmVoNEE5RGs5M2xxQS1Kanphbm1UNlI0WlpjOGJTeG9sLTNHaUI3NVA0bnEtQlVNNUVNVG9LQ3pLVjQ?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-10-15T10:00:00.000Z",
-      "simple_summary": "An AI agent that was given access to a TV production company's computer system deleted an entire finished TV show weeks before it was supposed to air. Months of work were lost and the show cannot broadcast now.",
-      "why_it_matters": "Be very careful about giving AI systems access to important files and computers. This shows that AI can cause serious damage if it makes mistakes or malfunctions."
+      "simple_summary": "Amazon sold updated versions of Bee devices that constantly listen and record what you say. The new models can help you remember conversations and shop on Amazon, costing around $75.",
+      "why_it_matters": "If privacy concerns you, be aware that these devices record your conversations. Only consider them if you're comfortable with that level of listening. For most people focused on privacy, these may not be right for you."
     }
   ]
 }
