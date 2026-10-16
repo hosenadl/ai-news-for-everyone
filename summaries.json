@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-16T16:42:19.233Z",
+  "generated_at": "2026-10-16T21:13:52.851Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Reflection AI CEO confronts the risks of artificial intelligence: ‘It certainly worries me’",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ES1BrYUpvT2RSeVFPVzZwQWo1OE1BZDRLbGltU2l1M3VDYjlad01ZNWtpdVlvLUpQMFJOSWN4T1ZZa0dwNDlfMXF5WEY5ZnZFTkUtU2V3QjNNd00?oc=5",
+      "source": "Fox Business",
+      "date": "2026-10-16T20:51:59.000Z",
+      "simple_summary": "The CEO of Reflection AI, a company making artificial intelligence, says that AI development makes him worried about risks and problems. He is openly concerned even though he runs an AI company.",
+      "why_it_matters": "This shows that even people building AI think there are real problems to watch out for. It's a reminder that AI tools need careful use."
+    },
+    {
+      "title": "States sue OpenAI over allegedly hurting children and deceiving adults",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlRNFkzbTVORWZzUHFFZXE0Y2ZPcTlaZXZJbmpOaTc3SUlXLWRMNGRGeUV3blVzdFA1STYtRVhfdldOQ2FEWUYwNGpHV0RIRTQxTjZ5NDdzb1VWeUtfTnQwSVJNYlNpckU2NVBQMW9MUGJxaXJVMWdieWxLVFRESmRTcXF1Qzc2TmdfczNfMHl6WmhaQ3RZ?oc=5",
+      "source": "Fast Company",
+      "date": "2026-10-16T20:14:56.000Z",
+      "simple_summary": "Several states are suing OpenAI, the company that makes ChatGPT. They claim OpenAI has hurt children and tricked adults with how it works.",
+      "why_it_matters": "If courts agree with the states, OpenAI might have to change how it operates or pay money. This could affect what features are available in ChatGPT."
+    },
+    {
+      "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-16T18:59:17.000Z",
+      "simple_summary": "The Chinese government wants stricter rules on selling AI technology to other countries. China says this is for national security reasons.",
+      "why_it_matters": "This mostly matters to governments and large tech companies. There's nothing you need to do, but it may affect which AI tools are available in different countries."
+    },
+    {
+      "title": "Anything not tied to artificial intelligence took off this week",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiU2dpTDU5VnpVTmlTbFA5bk45QVJvUnJNWlFpcWZxUHJYdy1fVlYwZ0dwZ0xQaFZvWDY2UlliUE1HaGdoQ0Q0bWpmcE9jZnlEUS11Y3VsY0JQUmhxeU1RWG5zVHYwNDY0WTlha2wwdlBkRWtyUGxwZFdXNmtUV05sejB1dFhQOUx1VUZXRnFvYktwano5QWtZMXg4OVNVZHc?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-16T16:38:51.000Z",
+      "simple_summary": "Stock market investors turned their attention to companies that have nothing to do with artificial intelligence this week. Meanwhile, AI-related stocks didn't gain as much.",
+      "why_it_matters": "This mostly matters to people who invest in stocks. It suggests that AI hype may have cooled slightly, but that doesn't change how AI actually works."
+    },
+    {
+      "title": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-10-16T16:12:34.000Z",
+      "simple_summary": "Kevin Warsh, a Federal Reserve official, warns that AI could cause unexpected shocks to the economy. He says the Fed will try to prevent inflation from rising because of AI.",
+      "why_it_matters": "If AI significantly changes job markets or prices, it could affect your income, savings, or what things cost. Warsh is saying the government is paying attention to this risk."
+    },
     {
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
       "date": "2026-10-16T16:01:37.000Z",
-      "simple_summary": "A company called Elorian made an AI model that can look at pictures and charts and understand what they mean, and it does this better than some other AI systems. It's especially good at reading scientific charts and describing videos.",
-      "why_it_matters": "This mostly matters to researchers and engineers building new AI tools. There's nothing you need to do about it right now."
+      "simple_summary": "A company called Elorian made a new AI model that can understand and reason about images and charts. According to their tests, it works better than some competing AI systems.",
+      "why_it_matters": "This mostly matters to engineers and investors. There's nothing you need to do unless you work with charts and visual information in your business."
     },
     {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch",
       "date": "2026-10-16T15:33:49.000Z",
-      "simple_summary": "A new AI model called Jev became very popular very quickly among people using Vercel's service, which is a platform developers use to build websites and applications.",
-      "why_it_matters": "This mostly matters to software developers and tech investors. It doesn't affect your daily life or small business unless you're a web developer."
+      "simple_summary": "Vercel, a web development company, released a new AI model called Jev that became very popular with their customers very quickly. More people are using it than any previous AI model they offered.",
+      "why_it_matters": "This mostly matters to software developers. It shows that easy-to-use AI tools are spreading, but there's nothing specific you need to know."
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "source": "The Verge",
       "date": "2026-10-16T15:00:00.000Z",
-      "simple_summary": "Nvidia made new laptop processors called RTX Spark that are meant to be very fast and powerful, competing with similar chips from Apple and other companies.",
-      "why_it_matters": "If you're thinking about buying a new laptop soon, RTX Spark laptops might be worth looking at as an option, though they'll probably be expensive."
+      "simple_summary": "Nvidia, a computer chip maker, released new laptop processors called RTX Spark that are designed to run AI programs very quickly. These chips compete with similar chips from Apple and Intel.",
+      "why_it_matters": "If you buy a new laptop in the coming years, it might have this chip, which could make AI features faster. You don't need to buy one now."
     },
     {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch",
       "date": "2026-10-16T14:26:51.000Z",
-      "simple_summary": "Actor Mark Wahlberg said he thinks using AI in making movies can be okay if it's used to help improve the film, and he might even be open to an AI version of himself being used in future projects.",
-      "why_it_matters": "This is mostly about how Hollywood works and doesn't affect you or a small business owner in a practical way."
+      "simple_summary": "Actor Mark Wahlberg says he supports using AI in movies if it's used to improve the film. He's even open to AI creating a digital copy of himself to act in future movies after he's gone.",
+      "why_it_matters": "This shows how AI might change the entertainment industry, but it's mostly interesting to people in film. It doesn't affect your daily life right now."
     },
     {
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
       "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
       "source": "The Verge",
       "date": "2026-10-16T14:02:40.000Z",
-      "simple_summary": "Meta (which owns Facebook and Instagram) changed its rules so it can take articles and content from news websites and use them to train its AI systems without paying the news sites.",
-      "why_it_matters": "If you run a website or business with online content, Meta may now use that content for free to improve its AI. News publishers are concerned about this."
+      "simple_summary": "Meta, which owns Facebook and Instagram, updated its terms of service to let itself copy content from news websites and train its AI on that material without paying the news publishers. The new rules start October 30th.",
+      "why_it_matters": "If you run a website or publish news, Meta may use your content for free. Even if you don't, this shows how AI companies are gathering information from the internet."
+    },
+    {
+      "title": "China moves to curb tech exports, including AI, citing national security risks",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHhic0hpX2MycmxRcTg1bk0ydC0wckJMQ1ZJNjY4V3JmSW1ZRnhicmJYQmw5QUVUa3FSQXdTWlpzcUF2Si1hZmRXR0lDRTJ1aFVKMXQ5QldEaDhMZERyaWltYk1fS2FmaWlhM2p2LTJSVHMyb19mSlZudHNmdjVsc0EtWmVRamJnOUNvTkxINzgxWjdRci15Nmp5bkRjS3BEdmg1czc2ejhwNVZleWxDNWF1MA?oc=5",
+      "source": "KSL News",
+      "date": "2026-10-16T14:01:23.000Z",
+      "simple_summary": "China announced new rules to limit the export of technology, including AI, claiming it needs to protect national security. This is part of tension between China and the United States over technology.",
+      "why_it_matters": "This mostly matters to governments and large corporations. There's nothing you need to do, but it may affect which AI tools are sold where."
     },
     {
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
       "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
       "source": "TechCrunch",
       "date": "2026-10-16T14:00:00.000Z",
-      "simple_summary": "A company called Veritas is putting tiny chips into products like jewelry, trophies, and perfume bottles to prove they're real and not fake copies.",
-      "why_it_matters": "If you buy luxury items or sell products online, this technology might help protect you from buying counterfeits, though it will only work if sellers actually use these chips."
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T12:55:09.000Z",
-      "simple_summary": "The leader of a software company called Replit thinks that in the future, AI will handle most daily tasks at companies and people will just make the big decisions.",
-      "why_it_matters": "This is mostly a guess about the future from one company leader. It's honest to say we don't know if this will actually happen."
-    },
-    {
-      "title": "Young Indians are learning to work alongside artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEVyNE1jMFVSUWVDU2JiTWpCR3NhdU5yV3lKOVFfWGNtWXdxZXB3SWxSMUVYR3NnTFkyWEo2aTNlUE5Hd0Fyd1dSZWc3MjgwYktWR2NBM0x6NDVpMEw3S2pBSGxfbnRyWHdKNEZHRDR5cGsza3FMdHhOcWI5M2ZMelpjONIBgwFBVV95cUxQZDBjVnRBdlpWbE9Gdm54QS1qSkZHdFNYeGhhRnlrZXhtX3dYSkhTOUZsMnc1VDBZVjVpWUZURTFuQUNyeWlLNmFXR3dTRmU4QzRPa2RJM2NLZ3lxdGI5N3VhaDc3a0JXZEN4RGxiYl95Z2xkc0w3TmdWOXZiTnVSRElFbw?oc=5",
-      "source": "DW.com",
-      "date": "2026-10-16T11:31:30.000Z",
-      "simple_summary": "Young people in India are learning how to work with AI tools as part of their education and careers.",
-      "why_it_matters": "This shows that learning about AI is becoming normal in schools around the world, though the details aren't provided here."
-    },
-    {
-      "title": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-16T11:26:08.000Z",
-      "simple_summary": "A financial news report looked at the week's biggest money stories, including concerns about AI.",
-      "why_it_matters": "This mostly matters to investors and people who follow stock markets. It's too vague to say what you should know."
-    },
-    {
-      "title": "Democrats eyeing the presidency can’t stop talking about this issue",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTl4a3I1RTR4WjFYT1lZa3o3bWF6M1A0NXVqa1NIM1FJNlk5VGsyVnNuSEtiUmNVd1hSTXlHeVkwcEdoS0hYUk9yQ1ItaUFYcXZNa2hKa0pjUnZaQjdwb0Judm1sSWlXaXFaNTVHZUNTZE9aQ3lEX0pNZW9DczZUeUxUQUJwcEZ4ZkdMQjJxeXNDdTZhVlRJendDZ0ZjU1ZoSzZKSWpOdmhORkNGTERsc1c2dDVtRTdLci1KeVJVcw?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-16T10:33:03.000Z",
-      "simple_summary": "Politicians running for president are talking a lot about a particular issue, though the headline doesn't say what it is.",
-      "why_it_matters": "Without knowing what issue they're discussing, it's hard to say whether this matters to you."
-    },
-    {
-      "title": "Don’t Let Big Tech Dictate Humanity’s Future",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFkwUTMtRHpzQ2VydmlxZW1mZ0FhXy0xOGRsMkZ0U3FZaVpQM1BYcm9kdmxfd0dTNlh6NVJnNjFvOUlIQXlnLVlhdmFaM1V6S2dQS3dHeXRhc1J4bEF2UHhpTElFcE83cW1Vdk9FcldRNWFXVVU0eG9CRU1jcDcySjM3TFExUVhkSEl1Z1BGNUo?oc=5",
-      "source": "The Atlantic",
-      "date": "2026-10-16T10:00:00.000Z",
-      "simple_summary": "An opinion piece suggests that big tech companies shouldn't be allowed to control how AI develops and affects society.",
-      "why_it_matters": "This is a debate about policy and values rather than a news story about what's actually happening."
-    },
-    {
-      "title": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tOHlmZ29mTmVUOUU1OGJ6NW0yRWo1c1lrVFV0VmNSd2FwMzViZGNtNWIyVHVmaVUwTERmeFVKZkhwN1R5Z0xmWHlDSS1IaG1kaUNoY3lnQUd5cVgzN3pIRGZGR3Y1V29Gc2hSbnRfX0NPRi1EVWZSM1RxMA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-16T09:02:57.000Z",
-      "simple_summary": "Groups of regular people who do scientific research are noticing that AI is being used to create fake or low-quality information, making it harder to find real scientific data.",
-      "why_it_matters": "If you rely on internet research for hobbies or work, you may need to be more careful about checking whether information is real or made by AI."
+      "simple_summary": "A company called Veritas is expanding its tiny chip that proves goods are real and not counterfeit. The chip now works on jewelry, trophies, and perfume bottles, not just other products.",
+      "why_it_matters": "If you sell or buy expensive items like jewelry or watches, this technology could help you know if they're real. Counterfeiting is a real problem this helps fight."
     }
   ]
 }
