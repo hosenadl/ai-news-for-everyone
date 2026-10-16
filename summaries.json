@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:36:13.308Z",
+  "generated_at": "2026-10-16T11:29:06.261Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
@@ -7,96 +7,96 @@
       "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch",
       "date": "2026-10-15T23:44:56.000Z",
-      "simple_summary": "A company called Cal AI made $30 million in two years through social media influencers promoting it, and then another company bought it.",
-      "why_it_matters": "This mostly matters to investors and business people watching tech companies. If you are not buying or selling a business, there is nothing you need to do."
+      "simple_summary": "A company called Cal AI became popular through paid social media influencers. It made $30 million in two years before being bought by MyFitnessPal.",
+      "why_it_matters": "This mostly matters to investors and business people looking at how companies grow. There's nothing you need to do."
     },
     {
       "title": "ChatGPT can peek at your Chrome tabs now",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "source": "The Verge",
       "date": "2026-10-15T22:43:23.000Z",
-      "simple_summary": "ChatGPT's tool for Chrome (the web browser) can now look at the other tabs you have open when you ask it questions. You have to give it permission first.",
-      "why_it_matters": "This is useful if you want ChatGPT to help you research something across multiple web pages, but it also means being careful about what sensitive information you have open in other tabs."
+      "simple_summary": "ChatGPT's helper tool for the Chrome web browser can now look at the other websites you have open. You have to give it permission by tagging Chrome when you use it.",
+      "why_it_matters": "If you use ChatGPT and have the Chrome extension installed, it might be easier to ask ChatGPT questions about your open websites, but it also means ChatGPT can see what you're looking at."
     },
     {
       "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
       "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "source": "The Verge",
       "date": "2026-10-15T22:35:55.000Z",
-      "simple_summary": "A video game company released an updated version of an old game that had so many problems it stopped selling it. One issue was that the game used AI to make pictures look better, but did it poorly.",
-      "why_it_matters": "If you buy video games, this shows that sometimes new versions of old games do not work well. You may want to wait for reviews before buying an updated game."
-    },
-    {
-      "title": "Senate poised to add Claude to staffers’ AI tools",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEdYdXdudWxVSElEVjRJb1Q1T1FlQXZKNVVSUHRhS3hIeDZvNTlHSDJMNU1jSDk0SzVDWTdGd1NkX1JoMHA2bUthTkswZzdxMmxObG5vYVlQQTIwcHZEbE01dkpQOEpTOVR3ZlFQa1ZKLXpxY1M1dlN3YWVEeEpuTGtlY2I5UQ?oc=5",
-      "source": "Politico",
-      "date": "2026-10-15T22:28:00.000Z",
-      "simple_summary": "The Senate is planning to let staff members use Claude, an AI assistant similar to ChatGPT, to help with their work.",
-      "why_it_matters": "This shows that AI tools are becoming common in regular jobs even in government. There is nothing you need to do unless you work there."
+      "simple_summary": "A video game company released a fixed-up old game but had to stop selling it because it was full of bugs. The company also used AI to make the old graphics look newer, which didn't work well.",
+      "why_it_matters": "If you bought this game, you might want a refund. Otherwise this is mainly a story about one company's bad launch."
     },
     {
       "title": "The tech backlash is now in theaters",
       "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
       "source": "The Verge",
       "date": "2026-10-15T21:39:52.000Z",
-      "simple_summary": "Several movies coming out in 2026 are being made about big tech company leaders, and they show these leaders in a negative way instead of celebrating them.",
-      "why_it_matters": "This reflects that more people are questioning whether some tech companies are good for society. This does not affect you directly, but it shows changing attitudes."
-    },
-    {
-      "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
-      "source": "About Amazon",
-      "date": "2026-10-15T21:10:06.000Z",
-      "simple_summary": "Amazon announced two new AI products with names like Bee Frontier and Bee Eclipse, but the details are not clear from this headline.",
-      "why_it_matters": "Without more information about what these products do, it is hard to say if they matter to you. Keep watching to learn what Amazon is offering."
+      "simple_summary": "Several movies coming out in 2026 are criticizing big tech companies and their leaders. These films show a more negative view of how Silicon Valley is changing society.",
+      "why_it_matters": "This doesn't really affect your daily life. It's just entertainment taking a harder look at the tech world."
     },
     {
       "title": "Trump posts AI-edited photo to brag about White House restoration work",
       "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
       "source": "The Verge",
       "date": "2026-10-15T21:09:33.000Z",
-      "simple_summary": "President Trump posted pictures of White House repairs on social media, but at least one picture appears to have been edited with AI to make the work look better than it actually is.",
-      "why_it_matters": "This is a reminder that AI can change photos in ways that are hard to spot. Be cautious about believing what you see in pictures on social media."
+      "simple_summary": "President Trump posted photos of White House work on social media, but one photo appears to have been changed using AI to look better. An AI detector caught the changes.",
+      "why_it_matters": "This doesn't affect you directly, but it shows that AI-edited images are getting more common and that even important people are using them."
     },
     {
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
       "source": "TechCrunch",
       "date": "2026-10-15T20:04:53.000Z",
-      "simple_summary": "Meta and Apple made an AI tool together that can run directly on your Mac computer without sending information to the internet.",
-      "why_it_matters": "This means some AI work could stay private on your own computer. This is mostly important for people who care about privacy or use newer Macs."
+      "simple_summary": "Meta and Apple partnered to create an AI tool called Muse Spark Open that can work on Apple computers. It's an AI model that runs on your own computer instead of somewhere else online.",
+      "why_it_matters": "If you own a Mac, this might let you use powerful AI tools without sending your information to the internet. This mostly matters to people who care about privacy or need advanced AI on their computer."
     },
     {
       "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
       "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
       "source": "The Verge",
       "date": "2026-10-15T19:57:16.000Z",
-      "simple_summary": "A social media site called Bluesky now has a tool that lets anyone create simple games, polls, and other small programs to share with others, using AI to help build them.",
-      "why_it_matters": "If you use Bluesky and want to create interactive things to share, this tool makes it easier. Most people can ignore this unless they use that specific social media site."
+      "simple_summary": "Bluesky's AI tool now helps you create simple games, polls, and dashboards that you can share with other people. It's a way to build things without knowing how to code.",
+      "why_it_matters": "If you're interested in making simple games or interactive tools to share with friends, this makes it easier. Most people won't need this."
     },
     {
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
       "source": "TechCrunch",
       "date": "2026-10-15T19:55:25.000Z",
-      "simple_summary": "Amazon says in the future, AI devices in your home might predict what you want and do things for you without you having to ask them.",
-      "why_it_matters": "This is mostly speculation about the future. Right now, you still have to ask Alexa and other smart devices to do things for you."
+      "simple_summary": "Amazon's leader says he thinks future AI devices will work quietly in the background and guess what you need. Instead of you telling a device what to do, it will do things before you ask.",
+      "why_it_matters": "This is about a future idea, not something available now. It's mostly for tech watchers to think about."
     },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
       "source": "TechCrunch",
       "date": "2026-10-15T19:14:26.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, gave researchers permission to study their AI and publish whatever they find, including problems and risks, without letting Anthropic block the results.",
-      "why_it_matters": "This mostly matters to investors and people watching AI companies. It shows one company is willing to be transparent about its AI systems."
+      "simple_summary": "Anthropic, a company that makes AI, is letting outside researchers look at how it works and find problems. The company promises not to block what these researchers publish.",
+      "why_it_matters": "This mostly matters to people who care about AI safety. It shows one company trying to be more open about how it works."
     },
     {
       "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
       "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
       "source": "TechCrunch",
       "date": "2026-10-15T18:56:46.000Z",
-      "simple_summary": "Bluesky is letting people on its social network build interactive websites and games using AI help, making coding easier even if you have never done it before.",
-      "why_it_matters": "If you use Bluesky, this tool makes it simpler to create things to share. If you use other social media, this does not affect you right now."
+      "simple_summary": "Bluesky's Attie platform now lets people create websites, games, and quizzes without knowing how to write computer code. These things can connect to the Bluesky social network.",
+      "why_it_matters": "If you want to make simple interactive tools to share, this makes it possible. Most small business owners won't need this feature."
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge",
+      "date": "2026-10-15T18:15:36.000Z",
+      "simple_summary": "Meta created a powerful AI model called Muse Spark Open that works on expensive Apple computers. It's made to run well on Mac devices.",
+      "why_it_matters": "This mostly matters to tech companies and people with very powerful computers. There's nothing you need to do."
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T18:00:00.000Z",
+      "simple_summary": "This is an advertisement for a business conference in Boston on November 4. Early ticket discounts end October 16.",
+      "why_it_matters": "This only matters if you're a business founder or investor who wants to attend a conference. Most people can skip this."
     }
   ]
 }
