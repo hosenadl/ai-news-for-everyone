@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-15T21:26:20.021Z",
+  "generated_at": "2026-10-16T04:36:13.308Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Scientists are finding AI may make us remember things that never happened",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUp6RVZiZmYxYjBWLWFpNldiYlY1NWFFenNFVFNUaVZxVUo4LTRDZW15Yy1CeU9Wa0N5bjhobUNGVk1STzBtQ3NYeUtrb1drM0d6QUFDMFJoM3ZWQTh4U1ZKX2ZtaEVSeDYwTUg3QUU3WHdLa2pINWZQcnd5bVd1VldacV9OaGhKdVh0Ti02c0RueGxnQ2FKMmpnUzg5N2dzU1I1bW9yMENMSDEyOGdIblVlS013cnlMbEZ0N0dYSmc?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-15T16:00:00.000Z",
-      "simple_summary": "Scientists discovered that AI programs can accidentally make people remember events that never actually happened. This happens because the AI can suggest false details so convincingly that our brains accept them as real memories.",
-      "why_it_matters": "If you use AI to help you remember things, be careful. Don't assume everything it tells you is true. Always double-check important information."
-    },
-    {
-      "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-15T15:48:59.000Z",
-      "simple_summary": "The US Treasury Department is asking other countries to start calling AI by a new name: 'super intelligence' instead of just 'AI.' This is mostly a terminology change being negotiated at a government level.",
-      "why_it_matters": "This mostly matters to government officials and policymakers. It won't change how AI actually works or affects your daily life."
-    },
-    {
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch",
-      "date": "2026-10-15T15:02:36.000Z",
-      "simple_summary": "Rivian, a car company, is adding AI assistants to their vehicles. These assistants will be able to help drivers with various tasks, though the full details won't be clear until December.",
-      "why_it_matters": "If you drive a Rivian or plan to buy one, future models may have a helpful AI assistant. For most people with other cars, this doesn't affect you yet."
+      "date": "2026-10-15T23:44:56.000Z",
+      "simple_summary": "A company called Cal AI made $30 million in two years through social media influencers promoting it, and then another company bought it.",
+      "why_it_matters": "This mostly matters to investors and business people watching tech companies. If you are not buying or selling a business, there is nothing you need to do."
     },
     {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "source": "The Verge",
-      "date": "2026-10-15T14:30:00.000Z",
-      "simple_summary": "Microsoft and Nvidia are making laptops that run AI programs better, with Windows software specially tuned to work with them. These new RTX Spark laptops are designed to handle AI tasks more smoothly.",
-      "why_it_matters": "This mostly matters to engineers and people buying expensive new laptops for specialized work. If you have a regular laptop for email and web browsing, you don't need to worry about this."
+      "date": "2026-10-15T22:43:23.000Z",
+      "simple_summary": "ChatGPT's tool for Chrome (the web browser) can now look at the other tabs you have open when you ask it questions. You have to give it permission first.",
+      "why_it_matters": "This is useful if you want ChatGPT to help you research something across multiple web pages, but it also means being careful about what sensitive information you have open in other tabs."
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T14:29:33.000Z",
-      "simple_summary": "Google created a new online shopping tool that lets you add items from different stores to one cart. You can use it on Google Search or in the Gemini app starting now in the US.",
-      "why_it_matters": "If you shop online and use Google, this tool might make it easier to compare prices and checkout from multiple stores in one place. It's convenient but not essential."
-    },
-    {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "source": "The Verge",
-      "date": "2026-10-15T14:03:42.000Z",
-      "simple_summary": "AI can now create fake videos and images of celebrities doing and saying things they never did. These fake images look realistic enough to fool people on social media.",
-      "why_it_matters": "Be skeptical of images and videos you see online, especially if they seem surprising or embarrassing. They could be AI fakes. Don't share them without being sure they're real."
+      "date": "2026-10-15T22:35:55.000Z",
+      "simple_summary": "A video game company released an updated version of an old game that had so many problems it stopped selling it. One issue was that the game used AI to make pictures look better, but did it poorly.",
+      "why_it_matters": "If you buy video games, this shows that sometimes new versions of old games do not work well. You may want to wait for reviews before buying an updated game."
     },
     {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T14:00:00.000Z",
-      "simple_summary": "This is an advertisement for a technology conference happening in 2026. It's a sales message for an event where tech professionals gather.",
-      "why_it_matters": "Unless you work in technology or are interested in attending a large industry conference, this doesn't affect you."
+      "title": "Senate poised to add Claude to staffers’ AI tools",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEdYdXdudWxVSElEVjRJb1Q1T1FlQXZKNVVSUHRhS3hIeDZvNTlHSDJMNU1jSDk0SzVDWTdGd1NkX1JoMHA2bUthTkswZzdxMmxObG5vYVlQQTIwcHZEbE01dkpQOEpTOVR3ZlFQa1ZKLXpxY1M1dlN3YWVEeEpuTGtlY2I5UQ?oc=5",
+      "source": "Politico",
+      "date": "2026-10-15T22:28:00.000Z",
+      "simple_summary": "The Senate is planning to let staff members use Claude, an AI assistant similar to ChatGPT, to help with their work.",
+      "why_it_matters": "This shows that AI tools are becoming common in regular jobs even in government. There is nothing you need to do unless you work there."
     },
     {
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
       "source": "The Verge",
-      "date": "2026-10-15T14:00:00.000Z",
-      "simple_summary": "This is an interview announcement with a researcher who investigates privacy and surveillance issues related to technology. The headline doesn't provide specific news about a new development.",
-      "why_it_matters": "If you're concerned about privacy online, this interview might provide useful insights. Otherwise, it's mostly content for people interested in media and tech trends."
-    },
-    {
-      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "source": "The Verge",
-      "date": "2026-10-15T13:00:00.000Z",
-      "simple_summary": "Google launched a shopping cart tool that works across different online stores. You can use it in Google Search or the Gemini app to make holiday shopping easier.",
-      "why_it_matters": "If you do online shopping during the holidays, this tool could save you time by letting you browse multiple stores in one place. It's optional and convenient but not necessary."
+      "date": "2026-10-15T21:39:52.000Z",
+      "simple_summary": "Several movies coming out in 2026 are being made about big tech company leaders, and they show these leaders in a negative way instead of celebrating them.",
+      "why_it_matters": "This reflects that more people are questioning whether some tech companies are good for society. This does not affect you directly, but it shows changing attitudes."
     },
     {
       "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
       "source": "About Amazon",
-      "date": "2026-10-15T12:01:09.000Z",
-      "simple_summary": "Amazon's company called Bee released two new devices that use AI. These devices help with various tasks and connect to Alexa and Amazon services.",
-      "why_it_matters": "If you use Amazon products and services, you may see these new AI devices offered to you. Otherwise, this is just a new product announcement from a major company."
+      "date": "2026-10-15T21:10:06.000Z",
+      "simple_summary": "Amazon announced two new AI products with names like Bee Frontier and Bee Eclipse, but the details are not clear from this headline.",
+      "why_it_matters": "Without more information about what these products do, it is hard to say if they matter to you. Keep watching to learn what Amazon is offering."
     },
     {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T12:00:00.000Z",
-      "simple_summary": "Amazon's Bee devices are small AI tools. One is a wearable you can wear, and one is a tiny recorder that clips to your phone. They listen to conversations, create lists, and help you shop, starting at about $75.",
-      "why_it_matters": "If you like Amazon's services and gadgets, these devices might interest you as affordable AI helpers. But they do record your conversations, so think carefully about privacy before buying."
-    },
-    {
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
       "source": "The Verge",
-      "date": "2026-10-15T12:00:00.000Z",
-      "simple_summary": "Amazon sold updated versions of Bee devices that constantly listen and record what you say. The new models can help you remember conversations and shop on Amazon, costing around $75.",
-      "why_it_matters": "If privacy concerns you, be aware that these devices record your conversations. Only consider them if you're comfortable with that level of listening. For most people focused on privacy, these may not be right for you."
+      "date": "2026-10-15T21:09:33.000Z",
+      "simple_summary": "President Trump posted pictures of White House repairs on social media, but at least one picture appears to have been edited with AI to make the work look better than it actually is.",
+      "why_it_matters": "This is a reminder that AI can change photos in ways that are hard to spot. Be cautious about believing what you see in pictures on social media."
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T20:04:53.000Z",
+      "simple_summary": "Meta and Apple made an AI tool together that can run directly on your Mac computer without sending information to the internet.",
+      "why_it_matters": "This means some AI work could stay private on your own computer. This is mostly important for people who care about privacy or use newer Macs."
+    },
+    {
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "date": "2026-10-15T19:57:16.000Z",
+      "simple_summary": "A social media site called Bluesky now has a tool that lets anyone create simple games, polls, and other small programs to share with others, using AI to help build them.",
+      "why_it_matters": "If you use Bluesky and want to create interactive things to share, this tool makes it easier. Most people can ignore this unless they use that specific social media site."
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T19:55:25.000Z",
+      "simple_summary": "Amazon says in the future, AI devices in your home might predict what you want and do things for you without you having to ask them.",
+      "why_it_matters": "This is mostly speculation about the future. Right now, you still have to ask Alexa and other smart devices to do things for you."
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T19:14:26.000Z",
+      "simple_summary": "Anthropic, a company that makes AI, gave researchers permission to study their AI and publish whatever they find, including problems and risks, without letting Anthropic block the results.",
+      "why_it_matters": "This mostly matters to investors and people watching AI companies. It shows one company is willing to be transparent about its AI systems."
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T18:56:46.000Z",
+      "simple_summary": "Bluesky is letting people on its social network build interactive websites and games using AI help, making coding easier even if you have never done it before.",
+      "why_it_matters": "If you use Bluesky, this tool makes it simpler to create things to share. If you use other social media, this does not affect you right now."
     }
   ]
 }
