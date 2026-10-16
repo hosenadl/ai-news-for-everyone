@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-16T11:29:06.261Z",
+  "generated_at": "2026-10-16T16:42:19.233Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
-      "date": "2026-10-15T23:44:56.000Z",
-      "simple_summary": "A company called Cal AI became popular through paid social media influencers. It made $30 million in two years before being bought by MyFitnessPal.",
-      "why_it_matters": "This mostly matters to investors and business people looking at how companies grow. There's nothing you need to do."
+      "date": "2026-10-16T16:01:37.000Z",
+      "simple_summary": "A company called Elorian made an AI model that can look at pictures and charts and understand what they mean, and it does this better than some other AI systems. It's especially good at reading scientific charts and describing videos.",
+      "why_it_matters": "This mostly matters to researchers and engineers building new AI tools. There's nothing you need to do about it right now."
     },
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "date": "2026-10-15T22:43:23.000Z",
-      "simple_summary": "ChatGPT's helper tool for the Chrome web browser can now look at the other websites you have open. You have to give it permission by tagging Chrome when you use it.",
-      "why_it_matters": "If you use ChatGPT and have the Chrome extension installed, it might be easier to ask ChatGPT questions about your open websites, but it also means ChatGPT can see what you're looking at."
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge",
-      "date": "2026-10-15T22:35:55.000Z",
-      "simple_summary": "A video game company released a fixed-up old game but had to stop selling it because it was full of bugs. The company also used AI to make the old graphics look newer, which didn't work well.",
-      "why_it_matters": "If you bought this game, you might want a refund. Otherwise this is mainly a story about one company's bad launch."
-    },
-    {
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge",
-      "date": "2026-10-15T21:39:52.000Z",
-      "simple_summary": "Several movies coming out in 2026 are criticizing big tech companies and their leaders. These films show a more negative view of how Silicon Valley is changing society.",
-      "why_it_matters": "This doesn't really affect your daily life. It's just entertainment taking a harder look at the tech world."
-    },
-    {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge",
-      "date": "2026-10-15T21:09:33.000Z",
-      "simple_summary": "President Trump posted photos of White House work on social media, but one photo appears to have been changed using AI to look better. An AI detector caught the changes.",
-      "why_it_matters": "This doesn't affect you directly, but it shows that AI-edited images are getting more common and that even important people are using them."
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch",
-      "date": "2026-10-15T20:04:53.000Z",
-      "simple_summary": "Meta and Apple partnered to create an AI tool called Muse Spark Open that can work on Apple computers. It's an AI model that runs on your own computer instead of somewhere else online.",
-      "why_it_matters": "If you own a Mac, this might let you use powerful AI tools without sending your information to the internet. This mostly matters to people who care about privacy or need advanced AI on their computer."
+      "date": "2026-10-16T15:33:49.000Z",
+      "simple_summary": "A new AI model called Jev became very popular very quickly among people using Vercel's service, which is a platform developers use to build websites and applications.",
+      "why_it_matters": "This mostly matters to software developers and tech investors. It doesn't affect your daily life or small business unless you're a web developer."
     },
     {
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "source": "The Verge",
-      "date": "2026-10-15T19:57:16.000Z",
-      "simple_summary": "Bluesky's AI tool now helps you create simple games, polls, and dashboards that you can share with other people. It's a way to build things without knowing how to code.",
-      "why_it_matters": "If you're interested in making simple games or interactive tools to share with friends, this makes it easier. Most people won't need this."
+      "date": "2026-10-16T15:00:00.000Z",
+      "simple_summary": "Nvidia made new laptop processors called RTX Spark that are meant to be very fast and powerful, competing with similar chips from Apple and other companies.",
+      "why_it_matters": "If you're thinking about buying a new laptop soon, RTX Spark laptops might be worth looking at as an option, though they'll probably be expensive."
     },
     {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch",
-      "date": "2026-10-15T19:55:25.000Z",
-      "simple_summary": "Amazon's leader says he thinks future AI devices will work quietly in the background and guess what you need. Instead of you telling a device what to do, it will do things before you ask.",
-      "why_it_matters": "This is about a future idea, not something available now. It's mostly for tech watchers to think about."
+      "date": "2026-10-16T14:26:51.000Z",
+      "simple_summary": "Actor Mark Wahlberg said he thinks using AI in making movies can be okay if it's used to help improve the film, and he might even be open to an AI version of himself being used in future projects.",
+      "why_it_matters": "This is mostly about how Hollywood works and doesn't affect you or a small business owner in a practical way."
     },
     {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T19:14:26.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, is letting outside researchers look at how it works and find problems. The company promises not to block what these researchers publish.",
-      "why_it_matters": "This mostly matters to people who care about AI safety. It shows one company trying to be more open about how it works."
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T18:56:46.000Z",
-      "simple_summary": "Bluesky's Attie platform now lets people create websites, games, and quizzes without knowing how to write computer code. These things can connect to the Bluesky social network.",
-      "why_it_matters": "If you want to make simple interactive tools to share, this makes it possible. Most small business owners won't need this feature."
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
       "source": "The Verge",
-      "date": "2026-10-15T18:15:36.000Z",
-      "simple_summary": "Meta created a powerful AI model called Muse Spark Open that works on expensive Apple computers. It's made to run well on Mac devices.",
-      "why_it_matters": "This mostly matters to tech companies and people with very powerful computers. There's nothing you need to do."
+      "date": "2026-10-16T14:02:40.000Z",
+      "simple_summary": "Meta (which owns Facebook and Instagram) changed its rules so it can take articles and content from news websites and use them to train its AI systems without paying the news sites.",
+      "why_it_matters": "If you run a website or business with online content, Meta may now use that content for free to improve its AI. News publishers are concerned about this."
     },
     {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
       "source": "TechCrunch",
-      "date": "2026-10-15T18:00:00.000Z",
-      "simple_summary": "This is an advertisement for a business conference in Boston on November 4. Early ticket discounts end October 16.",
-      "why_it_matters": "This only matters if you're a business founder or investor who wants to attend a conference. Most people can skip this."
+      "date": "2026-10-16T14:00:00.000Z",
+      "simple_summary": "A company called Veritas is putting tiny chips into products like jewelry, trophies, and perfume bottles to prove they're real and not fake copies.",
+      "why_it_matters": "If you buy luxury items or sell products online, this technology might help protect you from buying counterfeits, though it will only work if sellers actually use these chips."
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T12:55:09.000Z",
+      "simple_summary": "The leader of a software company called Replit thinks that in the future, AI will handle most daily tasks at companies and people will just make the big decisions.",
+      "why_it_matters": "This is mostly a guess about the future from one company leader. It's honest to say we don't know if this will actually happen."
+    },
+    {
+      "title": "Young Indians are learning to work alongside artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEVyNE1jMFVSUWVDU2JiTWpCR3NhdU5yV3lKOVFfWGNtWXdxZXB3SWxSMUVYR3NnTFkyWEo2aTNlUE5Hd0Fyd1dSZWc3MjgwYktWR2NBM0x6NDVpMEw3S2pBSGxfbnRyWHdKNEZHRDR5cGsza3FMdHhOcWI5M2ZMelpjONIBgwFBVV95cUxQZDBjVnRBdlpWbE9Gdm54QS1qSkZHdFNYeGhhRnlrZXhtX3dYSkhTOUZsMnc1VDBZVjVpWUZURTFuQUNyeWlLNmFXR3dTRmU4QzRPa2RJM2NLZ3lxdGI5N3VhaDc3a0JXZEN4RGxiYl95Z2xkc0w3TmdWOXZiTnVSRElFbw?oc=5",
+      "source": "DW.com",
+      "date": "2026-10-16T11:31:30.000Z",
+      "simple_summary": "Young people in India are learning how to work with AI tools as part of their education and careers.",
+      "why_it_matters": "This shows that learning about AI is becoming normal in schools around the world, though the details aren't provided here."
+    },
+    {
+      "title": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-16T11:26:08.000Z",
+      "simple_summary": "A financial news report looked at the week's biggest money stories, including concerns about AI.",
+      "why_it_matters": "This mostly matters to investors and people who follow stock markets. It's too vague to say what you should know."
+    },
+    {
+      "title": "Democrats eyeing the presidency can’t stop talking about this issue",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTl4a3I1RTR4WjFYT1lZa3o3bWF6M1A0NXVqa1NIM1FJNlk5VGsyVnNuSEtiUmNVd1hSTXlHeVkwcEdoS0hYUk9yQ1ItaUFYcXZNa2hKa0pjUnZaQjdwb0Judm1sSWlXaXFaNTVHZUNTZE9aQ3lEX0pNZW9DczZUeUxUQUJwcEZ4ZkdMQjJxeXNDdTZhVlRJendDZ0ZjU1ZoSzZKSWpOdmhORkNGTERsc1c2dDVtRTdLci1KeVJVcw?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-10-16T10:33:03.000Z",
+      "simple_summary": "Politicians running for president are talking a lot about a particular issue, though the headline doesn't say what it is.",
+      "why_it_matters": "Without knowing what issue they're discussing, it's hard to say whether this matters to you."
+    },
+    {
+      "title": "Don’t Let Big Tech Dictate Humanity’s Future",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFkwUTMtRHpzQ2VydmlxZW1mZ0FhXy0xOGRsMkZ0U3FZaVpQM1BYcm9kdmxfd0dTNlh6NVJnNjFvOUlIQXlnLVlhdmFaM1V6S2dQS3dHeXRhc1J4bEF2UHhpTElFcE83cW1Vdk9FcldRNWFXVVU0eG9CRU1jcDcySjM3TFExUVhkSEl1Z1BGNUo?oc=5",
+      "source": "The Atlantic",
+      "date": "2026-10-16T10:00:00.000Z",
+      "simple_summary": "An opinion piece suggests that big tech companies shouldn't be allowed to control how AI develops and affects society.",
+      "why_it_matters": "This is a debate about policy and values rather than a news story about what's actually happening."
+    },
+    {
+      "title": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tOHlmZ29mTmVUOUU1OGJ6NW0yRWo1c1lrVFV0VmNSd2FwMzViZGNtNWIyVHVmaVUwTERmeFVKZkhwN1R5Z0xmWHlDSS1IaG1kaUNoY3lnQUd5cVgzN3pIRGZGR3Y1V29Gc2hSbnRfX0NPRi1EVWZSM1RxMA?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-16T09:02:57.000Z",
+      "simple_summary": "Groups of regular people who do scientific research are noticing that AI is being used to create fake or low-quality information, making it harder to find real scientific data.",
+      "why_it_matters": "If you rely on internet research for hobbies or work, you may need to be more careful about checking whether information is real or made by AI."
     }
   ]
 }
