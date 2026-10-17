@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-17T10:49:05.395Z",
+  "generated_at": "2026-10-17T15:38:50.377Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmdaME9UZTNjODdob3gtbDdzRnU3RnY1N2tRdzlYdVJKOHpMbEdIalBpY0JaNFV3T2pvLWhZajVRQWJYTkU2ZWRLQ3pfMDB3WnFSd1lEUkQ1bG5pX09GNVUxUl9XcWJaa2ZkVVpycEJCOUotY1FRNklrUzR0aUF6SWV6TGlCQmpxUHdmbmtNbERpOThFRG55bzdoMFdib3NYNnpjdg?oc=5",
+      "source": "Fortune",
+      "date": "2026-10-17T14:32:00.000Z",
+      "simple_summary": "Several states are suing OpenAI because they say ChatGPT can be used to help hackers break into computers and that it harms children and tricks adults into believing false things.",
+      "why_it_matters": "If you use ChatGPT, know that some government officials worry about its safety. For small business owners, this reminds you to be careful about what information you share with AI tools."
+    },
+    {
+      "title": "News 12 Investigates: ECU professor explains how AI is helping military intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUI4X0k3a0tRWU9QaE1SdHJOLWRQM1ZsV0J3R05MZGVFVTdPaTlzcnlEWjJYamhJY21pOXdidU9pZk45cDVsMVUzLS0wb3FlT3hhXzhCVVNPb0FOU180WHRidTJxc09DVF9TRzQtc0lDM0t1dEh3dUctZ1oyYjViNERzUWVic3JBVXJab2VyRnJYMENWajhCYWoyQm14bW5yMEVQbWNSU3I4UHBpemlrUjBPZw?oc=5",
+      "source": "WCTI",
+      "date": "2026-10-17T14:05:22.000Z",
+      "simple_summary": "A college professor is explaining how the military uses AI to help with intelligence work like watching and understanding threats.",
+      "why_it_matters": "This mostly matters to military personnel and policy makers. There's nothing you need to do about it."
+    },
+    {
+      "title": "How Taiwan’s new AI satellite system aims to speed up PLA tracking",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE81ZldpQ1BMdFV4TnNCeGE0ZmhBUVFyWTNzT3ZnZHpjOWFxZ2Z1QnlGZWUwNkE3QzhqRDJHUWxBSEwxbEFOZWZrbHQwM0NuSWl0Q1RNLU5XQnFXdzlNUkNhdnhlZmtDRVc2eV93RHBjY01rN3hXdXhOV1VsOGZKSndhRTJsQWhXZmx1Z3pmR0R2UlJfQ0JLNFVYazJKSDkyQVBrUVRfMTE0aHVEOG45X081ZUlrVjg2d3VFSy1GUFBLQUJuaXRjMGFDeWFyemV40gHQAUFVX3lxTFBqZDA0WkdrWl90N1BDUlRVYTRUT05mempGd2NhVFhzQTVyWTdWa0R6dXRNREVKd3ktV29ZbTl5djFweEtSVXBTWWRSSS1HczlxeDJDdF96cnFPbTF1ZTI5RjJRUUREbGxDWE9lM0plV2Z2YzMxamFVNGJTejBEbVRTYzc5dDVOZ1QwbWlYTE4wUXU0ZkRmRjROVVNuU0FVbk1jb3NxWV82UWNCQ21OenVPZmhkME02WGNMdDljN3ZCaV95NnRVOFRySFY2U1ZVVWI?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-10-17T14:00:07.000Z",
+      "simple_summary": "Taiwan built a new AI satellite system that can quickly track military movements from mainland China.",
+      "why_it_matters": "This is a military and political matter between countries. It doesn't affect your daily life or business."
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "date": "2026-10-17T13:00:00.000Z",
+      "simple_summary": "Companies are adding rules to stop AI agents from using their websites. AI agents are computer programs that act like helpers, booking reservations or shopping for you, but many website owners don't want them visiting.",
+      "why_it_matters": "If you own a website for your small business, you may want to think about whether to block AI agents or allow them on your site."
+    },
+    {
+      "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2FGbUpiTndHX1kzUGphcGI1Rl9WUTJ1NW5sMHF5X1Y0VjJNMHZuY2I4b21aN2ROZldyY1NfWnFSektrdUJxQndZWFNXVEpzWlg3TDBHVHlSQkswaTZfSTZNQkNCTEYtUFB3UWU0WG05TjN5ZEZyc3EtTThRZVhwVFdtV041QXpsaWV4WWlCTTVZSl9pLUlqeE50VVZCOWExZ1c4NEE5bjhkSjBVNE9PX04zWURWdw?oc=5",
+      "source": "The Guardian",
+      "date": "2026-10-17T11:34:00.000Z",
+      "simple_summary": "British government leaders are worried about AI and concerned that the public doesn't understand it as well as they should.",
+      "why_it_matters": "This is mostly about government planning. There's nothing you need to do right now."
+    },
+    {
+      "title": "North Korea says it tested new torpedo system with AI capabilities - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1tS05uWk1Lb2Jmc0tNaENfMENCay1SMURhWjc5WmxOTFh2X2dUSzZVcXRhaE9LRkxKZEV0cGtxZXJySnBRUi1peFRKV1NlN09Hck9PQm16ZEtsblJlUm5NUGFvMW9FMEZOTGQxY05heEdKTkRZbHZxUXdTT293R1BzSG9hbGg0MHB4TUVOUENqa1cydERoV3luZGdwUU5vVkJLcmFBNnRfdXfSAbABQVVfeXFMUGhET3VnaG9VR0pQVFV3YnJCRWhIMi1feVU3THNDaklZSDJkSV8yQWd6TUNxNS1xbUZ2dEczRVNWbVdRYUFRdlJqcVlOVGVLREFmWU1BOVBoRXdjV0lFLVpUOXI1RUNnNzhsUjNyY0RacU1CdUNIaDVuSERHTnBZX1hvMS02c2I0cGhVVk5kdFQ3SVdEUWFuU2diT3FiVVdjSXFaVWhBS0hYc19NckR5emE?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "date": "2026-10-17T10:45:38.000Z",
+      "simple_summary": "North Korea says it tested a new torpedo that uses AI technology to help guide itself.",
+      "why_it_matters": "This is a military and international security matter. It doesn't affect your daily life or small business."
+    },
+    {
+      "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-17T08:19:38.000Z",
+      "simple_summary": "Chinese companies that make computer chips and AI-related products are selling shares on the stock market even though their values aren't growing as fast as before.",
+      "why_it_matters": "This mostly matters to investors and people who follow the stock market. There's nothing you need to do."
+    },
+    {
+      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IS3E1TUdJMjZlRm11UFdUWWFRTnY0MGJ5TXJZTDFIa09zVFlEd0lBalZXR2c3ems3dWt5UHFfd2hIU0Y3dnM3aFFPUDNaMk1qMFFfM3l3WU1zQnN6Um0tZVVkMzFTTXlOUUZlcVdVbHQ?oc=5",
+      "source": "CBC",
+      "date": "2026-10-17T08:00:00.000Z",
+      "simple_summary": "Experts say governments need to make rules for AI, but doing so is complicated and difficult.",
+      "why_it_matters": "This is about government and policy makers trying to decide what rules to create. In time, these rules might affect how you use AI tools."
+    },
+    {
+      "title": "China says it will curb tech exports, including AI, citing national security risks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
+      "source": "PBS",
+      "date": "2026-10-16T22:00:29.000Z",
+      "simple_summary": "China announced it will limit selling AI technology and computer parts to other countries for reasons of national security.",
+      "why_it_matters": "This is mostly important to large technology companies and governments that buy tech. Small business owners likely won't feel a direct impact."
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "date": "2026-10-16T21:22:28.000Z",
-      "simple_summary": "Replit stopped using technology from a company called Anthropic. The main reason was cost. Replit is now working with a different company called OpenAI instead.",
-      "why_it_matters": "This mostly matters to investors and people who build software. There's nothing you need to do."
+      "simple_summary": "Replit is a programming tool that stopped working together with Anthropic, a company that makes AI. The reasons included saving money.",
+      "why_it_matters": "This mostly matters to computer programmers and tech companies. There's nothing you need to do about it."
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "date": "2026-10-16T17:52:24.000Z",
-      "simple_summary": "People in India discovered that AI programs were doing things they shouldn't do. The problem happened because companies left passwords and settings out in the open where hackers could find them.",
-      "why_it_matters": "If you store any business data in the cloud, make sure your passwords and settings are kept private and not exposed on the internet."
+      "simple_summary": "India reported that AI agents got into computer systems by finding passwords and access information that people left lying around in public places.",
+      "why_it_matters": "This is a warning for small business owners to protect your passwords and computer settings carefully. Don't leave sensitive information in public spots like shared code websites."
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
       "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "An expert who worked at Nvidia says robots are still in early stages. The basic tools robots need, like hands and software, are still being built and improved.",
-      "why_it_matters": "This mostly matters to investors and engineers. Robots won't be taking over jobs anytime soon."
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "A former Nvidia worker now invests money in companies making AI machines that interact with the physical world. He says there's more to this technology than just robots.",
-      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do."
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:01:37.000Z",
-      "simple_summary": "A new AI program called Glimpse can look at images and charts and explain what they mean. It works better than some other programs at understanding scientific pictures.",
-      "why_it_matters": "This mostly matters to engineers and people building AI tools. It's not something you'd use directly."
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T15:33:49.000Z",
-      "simple_summary": "A company called Vercel released an AI model called Jev that developers are adopting very quickly. More programmers chose it than any other model Vercel has released before.",
-      "why_it_matters": "This mostly matters to software developers and companies. There's nothing you need to do."
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "date": "2026-10-16T15:00:00.000Z",
-      "simple_summary": "Nvidia made a new computer chip called RTX Spark for laptops. People tested laptops with this chip and found it works very fast and powerfully.",
-      "why_it_matters": "If you're thinking about buying a new laptop, this chip could make it faster. But you don't need to buy one unless you're planning a computer upgrade anyway."
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T14:26:51.000Z",
-      "simple_summary": "Actor Mark Wahlberg said he thinks using AI in movies is okay as long as it helps make the movie better. He's even open to letting AI create a version of himself for future projects.",
-      "why_it_matters": "This mostly matters to people in the entertainment business. It doesn't affect ordinary people or small business owners."
-    },
-    {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge",
-      "date": "2026-10-16T14:02:40.000Z",
-      "simple_summary": "Meta, which owns Facebook and Instagram, changed its rules. The new rules may let Meta take stories and articles from news websites and use them to train their AI programs without paying for them.",
-      "why_it_matters": "If you run a news website or publish content online, Meta might now use your work for free. If you don't publish online, this doesn't affect you."
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T14:00:00.000Z",
-      "simple_summary": "A company called Veritas makes tiny chips that go into products to prove they're real and not fake copies. They're now putting these chips in jewelry, trophies, and perfume bottles to stop counterfeits.",
-      "why_it_matters": "If you sell expensive items or worry about customers getting fake versions, this technology could help you prove your products are genuine."
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T12:55:09.000Z",
-      "simple_summary": "The boss of Replit thinks one day companies will have AI programs that do everyday work on their own. People would focus on making big decisions instead.",
-      "why_it_matters": "This is speculation about the distant future. Right now, this doesn't affect how your business works."
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch",
-      "date": "2026-10-15T23:44:56.000Z",
-      "simple_summary": "A fitness AI company called Cal AI became very popular with help from influencers on social media. The company made 30 million dollars in two years before being bought by a bigger company.",
-      "why_it_matters": "This mostly matters to investors and people in tech startups. There's nothing you need to do."
+      "simple_summary": "A person who used to work at Nvidia, a big computer company, says robots are still in early stages like building with Lego blocks. Basic robot parts and safety rules need more work before robots can be as helpful as ChatGPT became.",
+      "why_it_matters": "This is mostly interesting to investors and engineers tracking robot technology. Robots won't suddenly change your business tomorrow."
     }
   ]
 }
