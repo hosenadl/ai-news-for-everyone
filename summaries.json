@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-17T15:38:50.377Z",
+  "generated_at": "2026-10-17T20:39:15.397Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmdaME9UZTNjODdob3gtbDdzRnU3RnY1N2tRdzlYdVJKOHpMbEdIalBpY0JaNFV3T2pvLWhZajVRQWJYTkU2ZWRLQ3pfMDB3WnFSd1lEUkQ1bG5pX09GNVUxUl9XcWJaa2ZkVVpycEJCOUotY1FRNklrUzR0aUF6SWV6TGlCQmpxUHdmbmtNbERpOThFRG55bzdoMFdib3NYNnpjdg?oc=5",
-      "source": "Fortune",
-      "date": "2026-10-17T14:32:00.000Z",
-      "simple_summary": "Several states are suing OpenAI because they say ChatGPT can be used to help hackers break into computers and that it harms children and tricks adults into believing false things.",
-      "why_it_matters": "If you use ChatGPT, know that some government officials worry about its safety. For small business owners, this reminds you to be careful about what information you share with AI tools."
+      "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5",
+      "source": "Mother Jones",
+      "date": "2026-10-17T19:20:55.000Z",
+      "simple_summary": "Anthropic, a company that makes AI, proposed new rules about when the government should step in and control AI. Some people think the threshold for action is set too high.",
+      "why_it_matters": "This is mostly about policy and politics. Unless you work in AI regulation, there's nothing you need to do right now."
     },
     {
-      "title": "News 12 Investigates: ECU professor explains how AI is helping military intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUI4X0k3a0tRWU9QaE1SdHJOLWRQM1ZsV0J3R05MZGVFVTdPaTlzcnlEWjJYamhJY21pOXdidU9pZk45cDVsMVUzLS0wb3FlT3hhXzhCVVNPb0FOU180WHRidTJxc09DVF9TRzQtc0lDM0t1dEh3dUctZ1oyYjViNERzUWVic3JBVXJab2VyRnJYMENWajhCYWoyQm14bW5yMEVQbWNSU3I4UHBpemlrUjBPZw?oc=5",
-      "source": "WCTI",
-      "date": "2026-10-17T14:05:22.000Z",
-      "simple_summary": "A college professor is explaining how the military uses AI to help with intelligence work like watching and understanding threats.",
-      "why_it_matters": "This mostly matters to military personnel and policy makers. There's nothing you need to do about it."
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-17T18:48:08.000Z",
+      "simple_summary": "Replit, a coding platform, is switching from using Anthropic's AI to using OpenAI's AI instead. Claude (Anthropic's AI) will still be available but won't be the main choice.",
+      "why_it_matters": "This mostly matters to investors and engineers watching which AI companies are winning. Most small business owners won't notice any change."
     },
     {
-      "title": "How Taiwan’s new AI satellite system aims to speed up PLA tracking",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE81ZldpQ1BMdFV4TnNCeGE0ZmhBUVFyWTNzT3ZnZHpjOWFxZ2Z1QnlGZWUwNkE3QzhqRDJHUWxBSEwxbEFOZWZrbHQwM0NuSWl0Q1RNLU5XQnFXdzlNUkNhdnhlZmtDRVc2eV93RHBjY01rN3hXdXhOV1VsOGZKSndhRTJsQWhXZmx1Z3pmR0R2UlJfQ0JLNFVYazJKSDkyQVBrUVRfMTE0aHVEOG45X081ZUlrVjg2d3VFSy1GUFBLQUJuaXRjMGFDeWFyemV40gHQAUFVX3lxTFBqZDA0WkdrWl90N1BDUlRVYTRUT05mempGd2NhVFhzQTVyWTdWa0R6dXRNREVKd3ktV29ZbTl5djFweEtSVXBTWWRSSS1HczlxeDJDdF96cnFPbTF1ZTI5RjJRUUREbGxDWE9lM0plV2Z2YzMxamFVNGJTejBEbVRTYzc5dDVOZ1QwbWlYTE4wUXU0ZkRmRjROVVNuU0FVbk1jb3NxWV82UWNCQ21OenVPZmhkME02WGNMdDljN3ZCaV95NnRVOFRySFY2U1ZVVWI?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-10-17T14:00:07.000Z",
-      "simple_summary": "Taiwan built a new AI satellite system that can quickly track military movements from mainland China.",
-      "why_it_matters": "This is a military and political matter between countries. It doesn't affect your daily life or business."
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-17T18:00:06.000Z",
+      "simple_summary": "AI companies that borrow money to run their systems are starting to have problems paying back those loans.",
+      "why_it_matters": "This is mainly about investment and finance. It doesn't directly affect your business unless you're involved in lending or investing in AI companies."
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge",
+      "date": "2026-10-17T15:04:36.000Z",
+      "simple_summary": "Meta (Facebook and Instagram's owner) removed the legal permission it had to take stories and articles from news websites without paying. People complained about this, so Meta backed down.",
+      "why_it_matters": "If you run a website or publish content online, this is good news: Meta can't freely grab your work anymore to train its AI."
+    },
+    {
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-17T14:27:13.000Z",
+      "simple_summary": "CoreWeave, a company that rents powerful computers for AI work, is having financial problems. This could hurt the market for these services.",
+      "why_it_matters": "This is mainly for investors and tech companies that rent computer power. Most small business owners won't be affected."
     },
     {
       "title": "Websites are closing their doors to AI agents",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "The Verge",
       "date": "2026-10-17T13:00:00.000Z",
-      "simple_summary": "Companies are adding rules to stop AI agents from using their websites. AI agents are computer programs that act like helpers, booking reservations or shopping for you, but many website owners don't want them visiting.",
-      "why_it_matters": "If you own a website for your small business, you may want to think about whether to block AI agents or allow them on your site."
+      "simple_summary": "Many websites are now blocking AI agents (computer programs that can do tasks online on your behalf like booking reservations) from entering their sites.",
+      "why_it_matters": "If you own a website, you may want to decide whether to let these AI agents access your site or block them like others are doing."
     },
     {
       "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2FGbUpiTndHX1kzUGphcGI1Rl9WUTJ1NW5sMHF5X1Y0VjJNMHZuY2I4b21aN2ROZldyY1NfWnFSektrdUJxQndZWFNXVEpzWlg3TDBHVHlSQkswaTZfSTZNQkNCTEYtUFB3UWU0WG05TjN5ZEZyc3EtTThRZVhwVFdtV041QXpsaWV4WWlCTTVZSl9pLUlqeE50VVZCOWExZ1c4NEE5bjhkSjBVNE9PX04zWURWdw?oc=5",
       "source": "The Guardian",
       "date": "2026-10-17T11:34:00.000Z",
-      "simple_summary": "British government leaders are worried about AI and concerned that the public doesn't understand it as well as they should.",
-      "why_it_matters": "This is mostly about government planning. There's nothing you need to do right now."
+      "simple_summary": "Leaders in the UK Labour party are worried about the power of AI and concerned that the public might fall behind in understanding it.",
+      "why_it_matters": "This is mainly UK political news. It shows governments everywhere are trying to figure out how to handle AI, but there's no immediate action affecting your business."
     },
     {
       "title": "North Korea says it tested new torpedo system with AI capabilities - ABC News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1tS05uWk1Lb2Jmc0tNaENfMENCay1SMURhWjc5WmxOTFh2X2dUSzZVcXRhaE9LRkxKZEV0cGtxZXJySnBRUi1peFRKV1NlN09Hck9PQm16ZEtsblJlUm5NUGFvMW9FMEZOTGQxY05heEdKTkRZbHZxUXdTT293R1BzSG9hbGg0MHB4TUVOUENqa1cydERoV3luZGdwUU5vVkJLcmFBNnRfdXfSAbABQVVfeXFMUGhET3VnaG9VR0pQVFV3YnJCRWhIMi1feVU3THNDaklZSDJkSV8yQWd6TUNxNS1xbUZ2dEczRVNWbVdRYUFRdlJqcVlOVGVLREFmWU1BOVBoRXdjV0lFLVpUOXI1RUNnNzhsUjNyY0RacU1CdUNIaDVuSERHTnBZX1hvMS02c2I0cGhVVk5kdFQ3SVdEUWFuU2diT3FiVVdjSXFaVWhBS0hYc19NckR5emE?oc=5",
       "source": "Breaking News, Latest News and Videos",
       "date": "2026-10-17T10:45:38.000Z",
-      "simple_summary": "North Korea says it tested a new torpedo that uses AI technology to help guide itself.",
-      "why_it_matters": "This is a military and international security matter. It doesn't affect your daily life or small business."
+      "simple_summary": "North Korea announced it tested a new torpedo that uses AI technology. This is military news.",
+      "why_it_matters": "This is geopolitical news with no direct impact on daily life or business operations unless you work in defense or international relations."
     },
     {
       "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
       "source": "Reuters",
       "date": "2026-10-17T08:19:38.000Z",
-      "simple_summary": "Chinese companies that make computer chips and AI-related products are selling shares on the stock market even though their values aren't growing as fast as before.",
-      "why_it_matters": "This mostly matters to investors and people who follow the stock market. There's nothing you need to do."
+      "simple_summary": "Chinese companies that make parts and equipment for AI systems are selling stock on the market, and their prices are holding up okay even though other AI stocks have dropped.",
+      "why_it_matters": "This is investment news for financial professionals. It has no practical impact on running a small business."
     },
     {
-      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IS3E1TUdJMjZlRm11UFdUWWFRTnY0MGJ5TXJZTDFIa09zVFlEd0lBalZXR2c3ems3dWt5UHFfd2hIU0Y3dnM3aFFPUDNaMk1qMFFfM3l3WU1zQnN6Um0tZVVkMzFTTXlOUUZlcVdVbHQ?oc=5",
-      "source": "CBC",
-      "date": "2026-10-17T08:00:00.000Z",
-      "simple_summary": "Experts say governments need to make rules for AI, but doing so is complicated and difficult.",
-      "why_it_matters": "This is about government and policy makers trying to decide what rules to create. In time, these rules might affect how you use AI tools."
+      "title": "Weekend profile: Alexandr Wang, Meta’s Gen Z billionaire AI whizz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG5qc0V5SDRTalBtZ0JJaTZpRkhWaGFvWEZCQXgzMl9yNW5XY0E2RlRjTU5FZGRLeWY0Szl0Z1FULUlVT0RSTVpsd2lJZ0E1QXg1UmhvZ0s3NUxldDNSaWlRSy14NUlWYmItT1NHMGpIQkFud2JJMmlfREhtWUl5ZzRrQmZhYmc1aWpWUjFPbk5ON1R0X2Zn?oc=5",
+      "source": "The Economist",
+      "date": "2026-10-17T00:00:00.000Z",
+      "simple_summary": "A young billionaire named Alexandr Wang works at Meta on AI technology. A magazine wrote a profile about him.",
+      "why_it_matters": "This is just a personality story about someone famous in tech. It doesn't affect your daily life or business."
     },
     {
-      "title": "China says it will curb tech exports, including AI, citing national security risks",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
-      "source": "PBS",
-      "date": "2026-10-16T22:00:29.000Z",
-      "simple_summary": "China announced it will limit selling AI technology and computer parts to other countries for reasons of national security.",
-      "why_it_matters": "This is mostly important to large technology companies and governments that buy tech. Small business owners likely won't feel a direct impact."
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T21:22:28.000Z",
-      "simple_summary": "Replit is a programming tool that stopped working together with Anthropic, a company that makes AI. The reasons included saving money.",
-      "why_it_matters": "This mostly matters to computer programmers and tech companies. There's nothing you need to do about it."
+      "title": "Warsh says rise of AI will prove ‘very bumpy,’ trigger demand shock",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXy1VMGZFM1lDendJV1JaQjFPTllHZU92eW01RDNYNkItUGVOcWh3MldDLXFqNjUzY1RqZDdKVjNCR3NhQm9LOWZFMUQ0d1I1WC1DaXVDVG5PZzhnUVhpT0hoOHpLZkh6a2NRU2pxYmpyaEZITHo0VWdZbnBSQ2tfOHdYWUkxRWRONGllZXF5RlVwekVEWl9scXBfUU1tcTY1SnBrc2NYZF94RllhS3VCRlVDWnF1WjhyblNNdQ?oc=5",
+      "source": "CFO Dive",
+      "date": "2026-10-16T20:57:05.000Z",
+      "simple_summary": "An expert says that as AI grows, changes in the economy will be messy and bumpy. Some jobs and industries may be disrupted.",
+      "why_it_matters": "This is a reminder that AI will likely change how work and jobs function over time. It's worth staying aware, but no specific action is needed today."
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "date": "2026-10-16T17:52:24.000Z",
-      "simple_summary": "India reported that AI agents got into computer systems by finding passwords and access information that people left lying around in public places.",
-      "why_it_matters": "This is a warning for small business owners to protect your passwords and computer settings carefully. Don't leave sensitive information in public spots like shared code websites."
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "A person who used to work at Nvidia, a big computer company, says robots are still in early stages like building with Lego blocks. Basic robot parts and safety rules need more work before robots can be as helpful as ChatGPT became.",
-      "why_it_matters": "This is mostly interesting to investors and engineers tracking robot technology. Robots won't suddenly change your business tomorrow."
+      "simple_summary": "In India, someone discovered that unauthorized AI agents broke into systems and accounts. The break-ins happened because people left their passwords and permission settings exposed online.",
+      "why_it_matters": "If you use cloud services or have apps with login credentials, make sure your passwords and settings are secure and not left sitting in public places online."
     }
   ]
 }
