@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-17T04:32:22.279Z",
+  "generated_at": "2026-10-17T10:49:05.395Z",
   "model": "claude-haiku-4-5",
   "stories": [
-    {
-      "title": "North Korea says it tested new torpedo system with AI capabilities",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTUyQS1BZnJ3MVV1Z0lGdnVxbGZMYkUwTEFJNUt5dDF0cmZUQVBtZkV5UFBHR09wR0tYTHFPaHcySTNBb1lrcmx0TExVS3Q3MUxPMV9jWVhVM3ZEMmZtUjdZdEIwbUJwODhzb2hnQUU2eEt2MHdoYzhTRjN6VEZfTG5vZHFSazVESVlabGNyaUlyNEM0aHc0Zjl2RHRSaE4xX3gwaGRwNVptd0FiYmhJRjg1SUc0TVhIZkRnTnh0Ump1MFdUV3g3WGpB?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-10-17T04:02:07.000Z",
-      "simple_summary": "North Korea says it tested a new type of torpedo that uses artificial intelligence to help it navigate and hit targets. This is a military weapons test.",
-      "why_it_matters": "This mostly matters to governments and military experts. It doesn't affect your daily life or small business."
-    },
-    {
-      "title": "North Korea says tested AI-assisted torpedo system",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdi1NbTJ2TmlIZkRkX0VkMFQ1TTlHb2J0OHF4VHgwWGRpeGN2RTFzbzVDV3czZjMzel9aaVdRY2NOMGo2RlZSc0F4UFJ6cUFGWlo1OUQwSU0wVzdfdTNwRlE3MDBsODJKZVdPUHY5b1ZyOXgzWGR5eHRpc0hZNVRJN25rUzhCSERtdXRj?oc=5",
-      "source": "Yahoo",
-      "date": "2026-10-17T01:44:00.000Z",
-      "simple_summary": "North Korea announced testing a torpedo system that includes AI technology to improve how it works. Similar story to headline 0.",
-      "why_it_matters": "This mostly matters to governments and military experts. It doesn't affect your daily life or small business."
-    },
-    {
-      "title": "China says it will curb tech exports, including AI, citing national security risks",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
-      "source": "PBS",
-      "date": "2026-10-16T22:00:29.000Z",
-      "simple_summary": "China announced it will limit selling advanced technology and AI tools to other countries. The government says this is to protect its own security and interests.",
-      "why_it_matters": "If your small business relies on Chinese technology, prices might rise or products might be harder to get in the future."
-    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "date": "2026-10-16T21:22:28.000Z",
-      "simple_summary": "Replit, a coding company, stopped working with Anthropic (an AI company). They switched to work with OpenAI instead, partly because of cost reasons.",
-      "why_it_matters": "This mostly matters to software programmers and investors. Ordinary people and small business owners won't notice any change."
-    },
-    {
-      "title": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-16T20:15:45.000Z",
-      "simple_summary": "A famous mathematician named Terry Tao is involved in discussions about whether AI will change how mathematics works and is taught. This is a debate among experts.",
-      "why_it_matters": "This is important for educators and scientists to think about. Most small business owners don't need to worry about this right now."
-    },
-    {
-      "title": "Invisible ink and ‘dead drops’: How AI is changing espionage",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnNRV2dVdE1XQjgxMmtmVWtkUS1CdzBtMHdTdF9qVWdhWFZ4MWVmMV9selFXNnRFT0R6ZkV2ZjJ2c2xFOWhpS3VQdVQ2QmR3OGx4aFkzSEswNVEyeDdveGpQTkhlMWQ2TjhLN2M0a0VyQkw4WWlKOEJiYXN5TEF4Q0xuZ2xKbmZ5a1g3MVdHZHZldnhRNmhpRUxqNkpuNzhrUFlmZTFRaHppaEFy?oc=5",
-      "source": "NBC News",
-      "date": "2026-10-16T19:11:48.000Z",
-      "simple_summary": "AI is being used by spies and secret agents to help with their work, including new tricks like invisible messages and secret drops. Technology is changing how espionage happens.",
-      "why_it_matters": "This mostly matters to government officials and security experts. You don't need to do anything different in your daily life."
+      "simple_summary": "Replit stopped using technology from a company called Anthropic. The main reason was cost. Replit is now working with a different company called OpenAI instead.",
+      "why_it_matters": "This mostly matters to investors and people who build software. There's nothing you need to do."
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "date": "2026-10-16T17:52:24.000Z",
-      "simple_summary": "In India, an AI system that wasn't supposed to act on its own started doing things it shouldn't have. Hackers got in because companies left passwords and settings in places they could find them easily, like public websites.",
-      "why_it_matters": "If you have a small business online, make sure you change your passwords regularly and don't leave sensitive settings where hackers can find them."
+      "simple_summary": "People in India discovered that AI programs were doing things they shouldn't do. The problem happened because companies left passwords and settings out in the open where hackers could find them.",
+      "why_it_matters": "If you store any business data in the cloud, make sure your passwords and settings are kept private and not exposed on the internet."
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
       "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "A tech expert who worked at Nvidia says robot technology is still in early stages, like building with basic Lego blocks. We're not ready yet for robots that think like humans do.",
-      "why_it_matters": "This means robots won't be taking over jobs in most small businesses anytime soon. Technology is still being built and tested."
+      "simple_summary": "An expert who worked at Nvidia says robots are still in early stages. The basic tools robots need, like hands and software, are still being built and improved.",
+      "why_it_matters": "This mostly matters to investors and engineers. Robots won't be taking over jobs anytime soon."
     },
     {
       "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
       "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
       "source": "TechCrunch",
       "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "A former Nvidia expert is now investing money in AI that controls physical objects and machines, not just computers. He says this technology is still very early in development.",
-      "why_it_matters": "If you run a small business that uses machines or equipment, major changes from this technology are still years away."
+      "simple_summary": "A former Nvidia worker now invests money in companies making AI machines that interact with the physical world. He says there's more to this technology than just robots.",
+      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do."
     },
     {
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
       "date": "2026-10-16T16:01:37.000Z",
-      "simple_summary": "A new AI model called Glimpse was created that can look at pictures and charts and understand what they mean. Early tests show it works well on certain tasks.",
-      "why_it_matters": "This mostly matters to technology companies and investors. It doesn't affect ordinary people or small businesses right now."
+      "simple_summary": "A new AI program called Glimpse can look at images and charts and explain what they mean. It works better than some other programs at understanding scientific pictures.",
+      "why_it_matters": "This mostly matters to engineers and people building AI tools. It's not something you'd use directly."
     },
     {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch",
       "date": "2026-10-16T15:33:49.000Z",
-      "simple_summary": "Vercel released a new AI model called Jev that became popular very quickly among programmers who use their service. More people adopted it than any other AI tool they've offered before.",
-      "why_it_matters": "This mostly matters to software developers. Small business owners probably don't need to know about this technical change."
+      "simple_summary": "A company called Vercel released an AI model called Jev that developers are adopting very quickly. More programmers chose it than any other model Vercel has released before.",
+      "why_it_matters": "This mostly matters to software developers and companies. There's nothing you need to do."
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "source": "The Verge",
       "date": "2026-10-16T15:00:00.000Z",
-      "simple_summary": "Nvidia made new laptop computer chips that are very powerful and work fast. Tech reviewers tested these new laptops and liked what they saw.",
-      "why_it_matters": "If you're thinking about buying a new laptop for your business, you might want to look at models with this new chip for better performance."
+      "simple_summary": "Nvidia made a new computer chip called RTX Spark for laptops. People tested laptops with this chip and found it works very fast and powerfully.",
+      "why_it_matters": "If you're thinking about buying a new laptop, this chip could make it faster. But you don't need to buy one unless you're planning a computer upgrade anyway."
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T14:26:51.000Z",
+      "simple_summary": "Actor Mark Wahlberg said he thinks using AI in movies is okay as long as it helps make the movie better. He's even open to letting AI create a version of himself for future projects.",
+      "why_it_matters": "This mostly matters to people in the entertainment business. It doesn't affect ordinary people or small business owners."
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge",
+      "date": "2026-10-16T14:02:40.000Z",
+      "simple_summary": "Meta, which owns Facebook and Instagram, changed its rules. The new rules may let Meta take stories and articles from news websites and use them to train their AI programs without paying for them.",
+      "why_it_matters": "If you run a news website or publish content online, Meta might now use your work for free. If you don't publish online, this doesn't affect you."
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T14:00:00.000Z",
+      "simple_summary": "A company called Veritas makes tiny chips that go into products to prove they're real and not fake copies. They're now putting these chips in jewelry, trophies, and perfume bottles to stop counterfeits.",
+      "why_it_matters": "If you sell expensive items or worry about customers getting fake versions, this technology could help you prove your products are genuine."
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T12:55:09.000Z",
+      "simple_summary": "The boss of Replit thinks one day companies will have AI programs that do everyday work on their own. People would focus on making big decisions instead.",
+      "why_it_matters": "This is speculation about the distant future. Right now, this doesn't affect how your business works."
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch",
+      "date": "2026-10-15T23:44:56.000Z",
+      "simple_summary": "A fitness AI company called Cal AI became very popular with help from influencers on social media. The company made 30 million dollars in two years before being bought by a bigger company.",
+      "why_it_matters": "This mostly matters to investors and people in tech startups. There's nothing you need to do."
     }
   ]
 }
