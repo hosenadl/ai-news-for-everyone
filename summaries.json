@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-18T04:38:47.497Z",
+  "generated_at": "2026-10-18T11:12:16.094Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1poLTRfaTgtMmJRb0RTV2tPbVRzd3kxei1KeFJ3cUk0ajY4M0huOGZvcVhKWE1kQnZEUHNKbjJGLUx4YmR5QzlMRjVnZWItVFZHc0dyVUozUWFock8tcDVyU2FCSGVNNF85dk1fN2FxOUZHSHVGWFhGczFneXAybkRnSEs2ZURpb0tHRVF6NGVodEdGYzlOQTEzb2dsVmJ0?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-10-18T09:08:01.000Z",
+      "simple_summary": "President Trump sold his stock in a computer chip company and bought shares in a different large company that works with artificial intelligence. This is mostly a personal investment decision by one wealthy person.",
+      "why_it_matters": "This mostly matters to investors who follow what powerful people are buying and selling. There's nothing you need to do about it."
+    },
+    {
+      "title": "Why metal detecting is booming in the age of social media and AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGSGozTFozS3NUbFRCSlJVbFMyTjAxbUM2LTkxbDVlMVVHWHFOUnV1cnNHNFVidE56Qm82XzBMNnRRZ1BuQXhGUU5LVC1UdUNGd2g1Qm1WWGF2cGc?oc=5",
+      "source": "BBC",
+      "date": "2026-10-18T08:06:04.000Z",
+      "simple_summary": "Metal detecting as a hobby has become more popular, partly because people share their finds on social media and AI is helping identify what they find. The article doesn't specify how AI helps with the hobby itself.",
+      "why_it_matters": "If you enjoy hobbies or want to try something new, metal detecting might be more accessible now because of these tools. Otherwise this doesn't affect your daily life."
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch",
       "date": "2026-10-17T21:31:32.000Z",
-      "simple_summary": "Meta changed the rules on its website to remove language that worried people about how the company collects information from the internet to train its AI system. The company says this change doesn't actually affect how they gather that information.",
-      "why_it_matters": "If you have a website, this might affect whether Meta can copy your content without paying you. Most small websites won't notice a change, but it's worth knowing what big tech companies can do with your work."
+      "simple_summary": "Meta (the company behind Facebook) changed the wording in their legal agreement after people complained. The company says they didn't actually change what they do, just how they describe it.",
+      "why_it_matters": "If you use Facebook, this means Meta is trying to be more careful about what they say they're allowed to do, though their actual practices may not have changed."
     },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
       "source": "TechCrunch",
       "date": "2026-10-17T20:21:19.000Z",
-      "simple_summary": "Anthropic, an AI company, now has more experienced workers and spends more time in meetings than it did a year ago. This suggests the company is getting bigger and more formal.",
-      "why_it_matters": "This mostly matters to investors and people who work there. There's nothing you need to do."
+      "simple_summary": "The company Anthropic says it has hired more experienced workers and now people spend more time in meetings. This is mostly company news for investors.",
+      "why_it_matters": "This mostly matters to investors watching Anthropic. There's nothing you need to do about it."
     },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "date": "2026-10-17T18:48:08.000Z",
-      "simple_summary": "Replit, a website where programmers write code, switched to using OpenAI's AI assistant as the main choice instead of Anthropic's Claude. Users can still pick Claude if they want.",
-      "why_it_matters": "This mostly matters to programmers. If you're a small business owner who doesn't code, this won't affect you."
+      "simple_summary": "Replit, a computer coding website, switched to using OpenAI's chatbot as its default choice instead of Anthropic's Claude. You can still use Claude if you want.",
+      "why_it_matters": "If you don't use Replit for coding, this doesn't affect you. If you do, you'll see a different AI chatbot by default when you visit the site."
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
       "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "source": "The Verge",
       "date": "2026-10-17T15:04:36.000Z",
-      "simple_summary": "Meta removed specific text from its terms of service after people complained. The text suggested Meta could copy content from news websites and other sites to train AI. The language is now gone.",
-      "why_it_matters": "If you run a news website or publish content online, you should know that companies are trying to use your work to train AI. Staying informed about these policies helps protect your business."
+      "simple_summary": "Meta removed certain language from its terms of service that suggested the company could copy news articles from websites without permission to train its AI. After complaints, they decided not to allow this.",
+      "why_it_matters": "If you own a website or write online content, this means Meta is backing off from being able to grab your work without asking. For regular people, it's a small win for protecting original content."
+    },
+    {
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-17T14:27:13.000Z",
+      "simple_summary": "CoreWeave, a company that provides computer power for AI projects, is having serious financial problems that could affect the entire AI industry's equipment market. The details are unclear from the headline alone.",
+      "why_it_matters": "This mostly matters to companies building AI systems and investors. Most small businesses won't feel direct effects unless they rely on AI services that depend on CoreWeave's equipment."
     },
     {
       "title": "Websites are closing their doors to AI agents",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "The Verge",
       "date": "2026-10-17T13:00:00.000Z",
-      "simple_summary": "AI agents are computer programs that can do tasks on the internet by themselves, like booking restaurant reservations or buying things. However, many websites are now blocking these agents from entering.",
-      "why_it_matters": "If you own a website or an online business, you may need to decide whether to allow these AI agents to visit. Right now it's a new issue, but it could become more important soon."
+      "simple_summary": "As AI companies create computer agents that can do tasks like booking reservations or shopping online by themselves, websites are starting to block these agents from visiting them. Owners want to control what the AI can see and do.",
+      "why_it_matters": "If you own a small business with a website, you might soon need to think about whether to allow or block AI agents from visiting your site."
+    },
+    {
+      "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2FGbUpiTndHX1kzUGphcGI1Rl9WUTJ1NW5sMHF5X1Y0VjJNMHZuY2I4b21aN2ROZldyY1NfWnFSektrdUJxQndZWFNXVEpzWlg3TDBHVHlSQkswaTZfSTZNQkNCTEYtUFB3UWU0WG05TjN5ZEZyc3EtTThRZVhwVFdtV041QXpsaWV4WWlCTTVZSl9pLUlqeE50VVZCOWExZ1c4NEE5bjhkSjBVNE9PX04zWURWdw?oc=5",
+      "source": "The Guardian",
+      "date": "2026-10-17T11:34:00.000Z",
+      "simple_summary": "British Labour party leaders are concerned that artificial intelligence could become too powerful and that they might fall behind other countries in AI technology. This is political discussion about AI policy.",
+      "why_it_matters": "This mostly matters to people interested in government policy. It signals that political leaders are paying attention to AI, which may lead to new rules in the future."
+    },
+    {
+      "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-17T08:19:38.000Z",
+      "simple_summary": "Chinese companies that make equipment and supplies for the AI industry are still doing well with their stock offerings, even though some prices have gone down a bit. This is mostly financial news.",
+      "why_it_matters": "This mostly matters to investors watching the Chinese tech market. It shows that AI equipment companies remain valuable despite recent market changes."
+    },
+    {
+      "title": "China says it will curb tech exports, including AI, citing national security risks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
+      "source": "PBS",
+      "date": "2026-10-16T22:00:29.000Z",
+      "simple_summary": "The Chinese government announced it will restrict selling AI technology and related equipment to other countries because it considers these materials important for national security. This is a trade policy decision.",
+      "why_it_matters": "If you run a business that relies on Chinese tech supplies, this could eventually affect your costs or availability. Most small businesses won't see immediate changes."
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "date": "2026-10-16T17:52:24.000Z",
-      "simple_summary": "AI agents got into computer systems in India through passwords and settings that companies left exposed or didn't protect properly. This is a security problem.",
-      "why_it_matters": "If you use cloud services or store business information online, you need to make sure your passwords and settings are secure. Don't leave them where they can be easily found."
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "An expert who worked at Nvidia says robotics is still in early stages, like building with basic Lego blocks. The pieces for real robots aren't finished yet, even though some people think we're close.",
-      "why_it_matters": "This is mostly technical discussion for investors. Robots that can do useful jobs aren't coming to small businesses any time soon."
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00.000Z",
-      "simple_summary": "A former Nvidia leader is now investing in physical AI, which includes robots and other machines that interact with the real world, not just computers that answer questions.",
-      "why_it_matters": "This mostly matters to investors and large companies. For small business owners, robot technology is still years away from being practical and affordable."
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:01:37.000Z",
-      "simple_summary": "A company called Elorian made an AI model that can reason about images and charts instead of just describing what it sees. According to their tests, it performs better than a newer version of ChatGPT on certain tasks.",
-      "why_it_matters": "This mostly matters to engineers and investors. The average person won't notice a difference in their daily life."
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T15:33:49.000Z",
-      "simple_summary": "Vercel, a platform for developers, released a new AI model called Jev that became very popular very quickly with its users.",
-      "why_it_matters": "This mostly matters to software developers. If you don't write code for a living, this won't affect your business."
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "date": "2026-10-16T15:00:00.000Z",
-      "simple_summary": "Nvidia released a new powerful processor called RTX Spark for laptops that can compete with similar chips from Apple, Intel, and others. Reviewers have been testing computers with this new chip.",
-      "why_it_matters": "If you're thinking about buying a new laptop and want it to be fast and powerful, this is an option to consider. The specs are strong, though the price will likely be higher than budget laptops."
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T14:26:51.000Z",
-      "simple_summary": "Actor Mark Wahlberg says he's willing to use AI in movies to improve the filmmaking process and even allow an AI copy of himself to work after he retires.",
-      "why_it_matters": "This mostly matters to people in the film industry. For most businesses and individuals, this is just celebrity news and doesn't affect you directly."
+      "simple_summary": "In India, hackers used rogue AI agents that got access to computer systems by finding passwords and access information that people left exposed in public places or used overly open security settings. The agents then did things the hackers wanted.",
+      "why_it_matters": "If you or your small business use cloud storage or web applications, this is a reminder to keep your passwords and access settings private and secure. Don't leave them in code you post publicly."
     }
   ]
 }
