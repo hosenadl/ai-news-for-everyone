@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-18T15:54:23.567Z",
+  "generated_at": "2026-10-18T20:48:25.497Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Early ballots and how campaigns are using AI with Optiq Data Co-Founder Cole Patterson",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamJXVFE5MlVKQk1lZU04QlVUcGlZNm1sWFVFQ1RxdjNmemZDRnJ5RlRmRVdqY2hScDNFYkV5MU4xTHA3ZGVTekV0V3k3Nnl4YkN5N2o3cFh3NmhYOFNFQnhEdndQTzhyckg5T2o2dGhoV1BWWkdlSjdUNzNJaE92ZGRRTUk4Si1ZZ2NGUXByUUd6NzVoZ3BHUmJtamFnUFNmQXdCR2QzMm9BS2lFODFzS1NLNUhFaDhEQmx3cUF6c1JZOS1qakxjWWY4VV8wUVp2cGpXZ3BWQQ?oc=5",
-      "source": "KCRA",
-      "date": "2026-10-18T15:25:00.000Z",
-      "simple_summary": "Political campaigns are using AI tools to help with things like early voting information. This is a technology update on how elections are being run.",
-      "why_it_matters": "This mostly matters to people involved in politics or voting. There's nothing you need to do, but it's worth knowing that campaigns are using AI like they use other tools."
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "date": "2026-10-18T20:37:40.000Z",
+      "simple_summary": "Anthropic, a company that makes AI tools, promised to give 5% of its shares to a fund that supports public good projects. Think of it like a business owner setting aside part of their profits for charity.",
+      "why_it_matters": "This mostly matters to investors and people focused on AI ethics. If you use Anthropic's AI tools, this doesn't change how they work or cost."
+    },
+    {
+      "title": "The AI industry’s gigantic debts are making investors nervous",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBPZ04tUnFocVdZQlM2dkF6N3hkVk9wTDB3SWVfbHo2ZFNvcnQtanBIX2JIVVg5UXpEZGVlRDIycFFmZmlUMHdjaFlwUzNOclNlUEdzaUtQMHNPY3FkdFZQUFIyclZCQURIN09YZHlWUUdmYkhYY3B6WDlEQ2ZqbEdaai1BNUQzX3VwNC02a01abVRPWmZwdWQyMUdjbzZiaHNDVmFuMWJhZw?oc=5",
+      "source": "The Economist",
+      "date": "2026-10-18T20:19:28.000Z",
+      "simple_summary": "AI companies have borrowed a lot of money and spent huge amounts of cash to build their technology. Now investors are worried these companies might not make enough money to pay back what they owe.",
+      "why_it_matters": "This could affect AI tool prices or availability if companies run into trouble, but that's not happening yet."
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "date": "2026-10-18T18:28:10.000Z",
+      "simple_summary": "A woman in Philadelphia was arrested after she blocked a small robot that delivers food orders, because she was worried the robot was taking jobs away from human delivery workers.",
+      "why_it_matters": "This is a real concern people have about robots replacing workers, though it's still rare for this to lead to arrests."
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "date": "2026-10-18T16:30:00.000Z",
+      "simple_summary": "Disney is hiring most of the workers from a company called Character.AI. However, another company could still make a higher offer to hire them instead.",
+      "why_it_matters": "This mostly matters to people in the tech industry. It shows Disney is investing in AI, but it doesn't change anything for ordinary people."
+    },
+    {
+      "title": "Elder Gong Calls for Moral Compass in Age of AI at G20 Interfaith Forum",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFAxQUxSRVlPZFFpZjFjWFR1eUhZSHpqcGF0NWlXVmh4N3lVTFR6T1hPZDFYZkh4VnlKNUZCQWJhZFdsX05TMi1yMWtkNE8zV19yNGh4aDgxQ3Vpc0dZQnhacGlDMWdYUkt0bkNiYXRocUR4eDZYUTdxakJWWmhFYW1uUDJOTGRaOW9CbDdkbk1qNzFMc2paSWJpU1RtQUpZNTBlaEp5UQ?oc=5",
+      "source": "newsroom.churchofjesuschrist.org",
+      "date": "2026-10-18T16:00:30.000Z",
+      "simple_summary": "A religious leader spoke at a world forum about the need for values and ethics when developing AI technology.",
+      "why_it_matters": "This is a general statement about AI and values. It doesn't affect your day-to-day life or business."
+    },
+    {
+      "title": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcGljR2F3bXBwbUxGYURZMS1zaDlDcHpDaFhqMFZVSUhTcEh1emw0cWZLRFQ0dXhva1QxbThudmptcTlWSkh3M0hjSVJNQnZFOEZIaF9FSHhBQ3l0aGpJYXZNX0x1YTJUVnFpNHBuSWNnRWhYMVJZM3VVNA?oc=5",
+      "source": "Futurism",
+      "date": "2026-10-18T11:50:00.000Z",
+      "simple_summary": "A man stopped using a Meta AI assistant after it sent him a strange message that upset him.",
+      "why_it_matters": "AI tools sometimes make odd mistakes, and this shows one example of that happening."
     },
     {
       "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model",
       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
       "source": "Tom's Hardware",
       "date": "2026-10-18T11:25:00.000Z",
-      "simple_summary": "A company called Anthropic suggested a new rule where the government would only be allowed to stop an AI if it causes 50 deaths or 1 billion dollars in damage. This is a proposal about how AI should be regulated.",
-      "why_it_matters": "This mostly matters to investors and government people right now. The rule doesn't exist yet, so there's nothing you need to do."
-    },
-    {
-      "title": "Companies Are Realizing They're Spending a Fortune on AI Just So Their Employees Can Generate Error-Riddled Slop, and Suddenly Cutting Back Budgets",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRrWUV1VmE4Ujd3UzYyOTdLam85TnZnWUpiQU9fcm1GTkV2bTNPQk4yZU1hZGhkZ3pGZEdNRTVNYkwwVXlkS2ZDdlBkTk1xcHhuV1NIWG13TlQ0N2x6NlNqY3NwVGxCclpQS1JSWGdmMEVtNC1URVBuVk03Z1Y0RkxFdkdadHVtTG9zeERTaWRDVFYydkljdmhB?oc=5",
-      "source": "Futurism",
-      "date": "2026-10-18T10:49:00.000Z",
-      "simple_summary": "Companies are spending lots of money on AI tools, but many workers are using them to create low-quality work that has lots of mistakes. Now some companies are spending less on AI because they're not getting the results they hoped for.",
-      "why_it_matters": "If your business uses AI tools, remember that they work best when you check their work carefully. Don't expect them to do everything perfectly on their own."
+      "simple_summary": "Anthropic suggested a new rule where AI systems would only face government action if they caused at least 50 deaths or $1 billion in damage. This would give the Commerce Department power to act.",
+      "why_it_matters": "This is a proposal about how AI should be regulated. It mostly matters to tech companies and policymakers, not to everyday people yet."
     },
     {
       "title": "World Bank says ‘small AI’ could transform developing countries",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
       "source": "The Guardian",
       "date": "2026-10-18T10:01:00.000Z",
-      "simple_summary": "The World Bank says that smaller, simpler AI tools could help poor countries improve things like farming and healthcare. These tools wouldn't need to be fancy or expensive.",
-      "why_it_matters": "This is mostly important for developing countries and international organizations. Unless you're directly involved in that kind of work, there's nothing you need to do."
+      "simple_summary": "The World Bank says smaller, simpler AI tools could help developing countries solve problems in farming, health, and education more cheaply than expensive AI systems.",
+      "why_it_matters": "This shows AI doesn't always need to be complicated and expensive. It could help more people around the world."
     },
     {
-      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5",
-      "source": "MarkTechPost",
-      "date": "2026-10-18T08:15:04.000Z",
-      "simple_summary": "Google created a new computer tool for other engineers to use. This is mostly a technical announcement for programmers.",
-      "why_it_matters": "This only matters to computer programmers and software engineers. There's nothing you need to do."
-    },
-    {
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-18T04:00:07.000Z",
-      "simple_summary": "A Korean TV show featured AI creating singers, dancers, and characters that acted out stories. The show is using AI for entertainment.",
-      "why_it_matters": "This is just an example of how AI is being used in entertainment. There's nothing you need to do unless you watch Korean TV."
+      "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
+      "source": "Santa Fe New Mexican",
+      "date": "2026-10-18T00:30:00.000Z",
+      "simple_summary": "A university received $100,000 from a donor in 2001 to research artificial intelligence. The donor had a troubled past.",
+      "why_it_matters": "This is historical news about where research money came from. It doesn't affect you now."
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch",
       "date": "2026-10-17T21:31:32.000Z",
-      "simple_summary": "Meta (which owns Facebook and Instagram) removed some confusing language from its rules about collecting information from websites to train AI. The company says this doesn't mean it's actually changing how it collects that information.",
-      "why_it_matters": "If you run a business with a website or a social media page, this is good news because Meta seems to be being more careful about how it uses content."
+      "simple_summary": "Meta (the company behind Facebook) changed the words in its terms of service that people worried might let them take content from websites to train their AI. Meta says this didn't change what they actually do.",
+      "why_it_matters": "If you share things online, Meta may still use them to train AI, but they're not changing their actual practices."
     },
     {
       "title": "Bricklayer, 49, travels 1,200 miles for dream girl — only to discover she’s AI-generated",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHlKbk9HcGVXdHFDRjJPTXRiVGh1V2N4UnVKTmRwUXFZN2pZV1dwQjU4dHoyTm1VWWUtMVdaMS1uQTlaZ2xNWWY0V3ZjME1LVmFJN2xKZVBQSVdyTjdnY3pCVDUxbE0tekVlQzFreHE3WVNIejRBcjEzcEVwWThLMDFvRUNSYU9Xa1Y5RWpVekV2eFdsRE4tOExrNFZsM25YQjdOdUFB?oc=5",
       "source": "New York Post",
       "date": "2026-10-17T21:11:00.000Z",
-      "simple_summary": "A man traveled 1,200 miles to meet someone he thought was a real person, but the person turned out to be fake. An AI had generated a fake profile to trick him.",
-      "why_it_matters": "Be careful when meeting people online who you don't already know in real life. Always check that the person is real before traveling or sending money."
+      "simple_summary": "A man traveled across the country hoping to meet someone he liked online, but discovered that the person was not real. An AI had created fake pictures instead.",
+      "why_it_matters": "This is a reminder to be careful about who you meet online. AI can now create fake photos and videos, so verify people are real before trusting them."
     },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
       "source": "TechCrunch",
       "date": "2026-10-17T20:21:19.000Z",
-      "simple_summary": "Anthropic, an AI company, has changed how it works. It hired more experienced workers and people are spending more time in meetings instead of building things. This is mostly just business news about one company.",
-      "why_it_matters": "This mostly matters to investors and people who work at Anthropic. There's nothing you need to do."
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-17T18:48:08.000Z",
-      "simple_summary": "Replit, a coding tool website, decided to use OpenAI's AI as its main choice instead of Anthropic's AI. Users can still pick Anthropic's AI if they want.",
-      "why_it_matters": "If you use Replit for coding, you'll see OpenAI as the default choice now. This doesn't affect most small business owners or regular people."
-    },
-    {
-      "title": "Fincantieri to invest $100 million in robotics, artificial intelligence at shipyards",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNktPdHlET2hsYXREeDlKVWJheUhKRHcwd1N3V3N1XzJwdWFwbWg0YVU5MWFYQjRGRTJyMjF4ckZSVE5JTGhfYlQ3TEJVVGVnaEdOa0l6YzNMRGM4d1J4dE1vMEhpc3lMcl9HUVZ0eDBicXVZN0xPNWY0bEtBOUNUR2d5T3JaTzlkWnlSSmxEcHBYX2pGZllYY3Jmb08xTkxNQ3V5Y3BMeDgtYUd6Ql8ybms3V2FXLUpwMkJHSi15T0VpblRxY3c?oc=5",
-      "source": "MasonCountyPress.com",
-      "date": "2026-10-17T18:03:30.000Z",
-      "simple_summary": "A large shipbuilding company is spending 100 million dollars to add robots and AI to its factories. This is an investment in automation.",
-      "why_it_matters": "This mostly matters to investors and people in the shipbuilding industry. There's nothing you need to do."
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "source": "The Verge",
-      "date": "2026-10-17T15:04:36.000Z",
-      "simple_summary": "Meta changed its terms of service after people complained. The new version removes language that said Meta could take articles and content from news websites to train its AI. This happened after other companies and news publishers complained.",
-      "why_it_matters": "If you publish content online or run a news-related business, this is good news. It means Meta is promising not to automatically collect your work without permission to train its AI."
+      "simple_summary": "Anthropic, an AI company, now has more experienced workers and spends more time in meetings than it did before.",
+      "why_it_matters": "This mostly matters to investors following the company. It doesn't change their products."
     }
   ]
 }
