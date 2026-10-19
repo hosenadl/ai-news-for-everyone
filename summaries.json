@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-18T20:48:25.497Z",
+  "generated_at": "2026-10-19T04:46:10.653Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Only 8% of fund managers report improved investment returns from AI adoption",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOM1o0RUVTbUxyT1paUDNQYmRoQ2gzVFpWbjNLWHo2WFFQUW1NLWp0bkpQSVV3cFQ0U2pmNE5jSVN0RGc3VW8wMlJIQ2xPV0p1TjdmbEJ0Ymlia2p1UzJtbExNMGNJYmszLWgtMEVvRHQ3UVhRWHIybDU0S2xNMzNMUTFQdE1vb2tYRnlPa0V4UHZzNFRIS29JOGlYZ0FRTFRXeld1YTRNQVVyWWZqOWphd0hxOWdwd1kxQS1yb09VVDNNdkdzczA3al96alptV2FDME53MG9OaTJDZDEzNko0S1JMYWxqWlZZZ3N1dExqc1NUUHAxUGFPRkVCcVRkWjZCdFR6S0pJSTBsbjh6Q2RjVmI0NUFJZ0QzZXFEVmItRkhJWGdm0gHwAUFVX3lxTFBpeXh3TDZzWFZGVWg5R2kzOU03MlJqaEFzZHhuTUxNUVU0MEdmek96ODVnOHdVTTJCTG1yanBvUWNuLWxBQlhBQi0tZzBHNnNVdTI0d3M1NktxZEVMZU9YTExISk0wdTdHWGM2Zm1uR3B1MFhzaUtSaGlhZ3hIQ1pmWnJub2IxeExya0Q0VG5SVi04SE1Pczl1cWZNVFdBZmYzc296QW8tcmJTS2hQOTRMZTlHWFpQalVLeWxDeFd5cDlSTlJCZDhLZ29ld3RNcTFxTTVQVDVrYU9KNGVjZ3ZWazhpWEFqZkowMHkzV0lVUg?oc=5",
+      "source": "ET CIO",
+      "date": "2026-10-19T02:34:00.000Z",
+      "simple_summary": "Most fund managers who tried using AI to pick investments did not see their returns get better. Only 8 out of every 100 reported actually making more money.",
+      "why_it_matters": "If you're thinking about letting AI pick your investments or retirement funds, know that it's not proven to work well yet. Talk to your regular financial advisor before making any changes."
+    },
+    {
+      "title": "China's economic growth picks up as AI boom boosts exports",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
+      "source": "BBC",
+      "date": "2026-10-19T02:03:04.000Z",
+      "simple_summary": "China's economy is growing faster because companies are selling more AI-related products to other countries around the world.",
+      "why_it_matters": "This mostly affects large international businesses and investors. If you run a small local business, this probably won't change your day-to-day work."
+    },
+    {
+      "title": "If I Could Only Own 1 Artificial Intelligence (AI) Memory Stock for the Next 5 Years, It Wouldn't Be Micron.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHpNeVo1Q2E0M012ei04SHFBZVlUeFM1QXpMUEctaVRKdE1PdDJCZWMtMDkyd05OWjliWjJMVHlKNlc2SG5tQjcyN0FWQ2VZS1pHRi1XWUQyRUNYUWtsQmFMYzFIUWxSeW5EU2tRWE00U0FsalRhUm9oaTk1OHlwODVDWHM0YjdNNVNxSzh6aU1zcVU1OGc?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-10-19T00:20:00.000Z",
+      "simple_summary": "An investment expert thinks a certain AI memory company is not the best choice if you want to own just one AI stock for the next five years.",
+      "why_it_matters": "This is for people picking stocks to invest in. There's nothing you need to do unless you're actively managing investments."
+    },
+    {
+      "title": "AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczR6MkNKMHd6X3VfQlgzNFlNTnQ2MDZhRWNBbXd6OE1GZlBaYlJ2RTk1YlNsNjZkVF9uUjNvNjlPd3J4WDVwNFlSYl8xNUp4eHJlMUYyOVRKaklyd0JCemRVbk8xNjdYOGx5U0JrMWU2VVU5Xy01bkF1bjY2SG8zQXJIQUNHS25hUUMxUWE3TmE4ek5Id2M2emZaTWdGYUplc2hLWjNVZDI0VjF3Q3gzbGpwSkg?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-18T23:47:06.000Z",
+      "simple_summary": "A company called Nscale that provides AI computer services wants to sell shares to the public, but investors think the company is asking for too much money.",
+      "why_it_matters": "This mostly matters to investors and business analysts. It doesn't affect small business owners right now."
+    },
+    {
+      "title": "Elder Gong proposes a new test for AI: Humanity’s First Exam",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1NEcUdCTVJ1dTlBeW1GNlJoX1dOWkY0QWRKUjJYWGZFd2k0eUI5VHhrWHJnOE91WmNDdU9pdTZJWmtxeVJDaWl5b0pKY1VRSnF1Q2pKUndLYVlQVUlnWUpyeFFPbHRVb2dnaTN3LUdQNkM2OURqWTBiM2E1QkI2TFRBalJWNmdiekdMUC00RjVCTEN5cDktcHpLOGdGNWZNTVdobmRub1RZNnMxRTNF?oc=5",
+      "source": "Church News",
+      "date": "2026-10-18T23:00:00.000Z",
+      "simple_summary": "Someone named Elder Gong is suggesting a new way to test whether AI systems are actually intelligent and capable.",
+      "why_it_matters": "This is interesting to people who study AI, but it won't change how you use AI tools in your daily life or business."
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "source": "TechCrunch",
       "date": "2026-10-18T20:37:40.000Z",
-      "simple_summary": "Anthropic, a company that makes AI tools, promised to give 5% of its shares to a fund that supports public good projects. Think of it like a business owner setting aside part of their profits for charity.",
-      "why_it_matters": "This mostly matters to investors and people focused on AI ethics. If you use Anthropic's AI tools, this doesn't change how they work or cost."
+      "simple_summary": "Anthropic, a company that makes AI, decided to give 5% of its company ownership to a fund designed to benefit the public rather than just make investors richer.",
+      "why_it_matters": "This shows one AI company trying to think about its impact on society. It's a nice gesture but doesn't directly affect how you use AI."
     },
     {
       "title": "The AI industry’s gigantic debts are making investors nervous",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBPZ04tUnFocVdZQlM2dkF6N3hkVk9wTDB3SWVfbHo2ZFNvcnQtanBIX2JIVVg5UXpEZGVlRDIycFFmZmlUMHdjaFlwUzNOclNlUEdzaUtQMHNPY3FkdFZQUFIyclZCQURIN09YZHlWUUdmYkhYY3B6WDlEQ2ZqbEdaai1BNUQzX3VwNC02a01abVRPWmZwdWQyMUdjbzZiaHNDVmFuMWJhZw?oc=5",
       "source": "The Economist",
       "date": "2026-10-18T20:19:28.000Z",
-      "simple_summary": "AI companies have borrowed a lot of money and spent huge amounts of cash to build their technology. Now investors are worried these companies might not make enough money to pay back what they owe.",
-      "why_it_matters": "This could affect AI tool prices or availability if companies run into trouble, but that's not happening yet."
+      "simple_summary": "AI companies have borrowed a lot of money to build their systems, and this big debt is starting to worry the people who invested money in them.",
+      "why_it_matters": "If AI companies fail because of debt, some AI tools might become less available or more expensive. For now, keep using the tools you rely on, but watch for price increases."
     },
     {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "source": "The Verge",
       "date": "2026-10-18T18:28:10.000Z",
-      "simple_summary": "A woman in Philadelphia was arrested after she blocked a small robot that delivers food orders, because she was worried the robot was taking jobs away from human delivery workers.",
-      "why_it_matters": "This is a real concern people have about robots replacing workers, though it's still rare for this to lead to arrests."
+      "simple_summary": "A woman in Philadelphia was arrested for standing in front of a delivery robot to protest it, believing it takes jobs away from human delivery workers.",
+      "why_it_matters": "Delivery robots are starting to appear in some cities and may eventually replace some delivery jobs. This is worth watching if you're in a field that could be affected."
     },
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "date": "2026-10-18T16:30:00.000Z",
-      "simple_summary": "Disney is hiring most of the workers from a company called Character.AI. However, another company could still make a higher offer to hire them instead.",
-      "why_it_matters": "This mostly matters to people in the tech industry. It shows Disney is investing in AI, but it doesn't change anything for ordinary people."
-    },
-    {
-      "title": "Elder Gong Calls for Moral Compass in Age of AI at G20 Interfaith Forum",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFAxQUxSRVlPZFFpZjFjWFR1eUhZSHpqcGF0NWlXVmh4N3lVTFR6T1hPZDFYZkh4VnlKNUZCQWJhZFdsX05TMi1yMWtkNE8zV19yNGh4aDgxQ3Vpc0dZQnhacGlDMWdYUkt0bkNiYXRocUR4eDZYUTdxakJWWmhFYW1uUDJOTGRaOW9CbDdkbk1qNzFMc2paSWJpU1RtQUpZNTBlaEp5UQ?oc=5",
-      "source": "newsroom.churchofjesuschrist.org",
-      "date": "2026-10-18T16:00:30.000Z",
-      "simple_summary": "A religious leader spoke at a world forum about the need for values and ethics when developing AI technology.",
-      "why_it_matters": "This is a general statement about AI and values. It doesn't affect your day-to-day life or business."
-    },
-    {
-      "title": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcGljR2F3bXBwbUxGYURZMS1zaDlDcHpDaFhqMFZVSUhTcEh1emw0cWZLRFQ0dXhva1QxbThudmptcTlWSkh3M0hjSVJNQnZFOEZIaF9FSHhBQ3l0aGpJYXZNX0x1YTJUVnFpNHBuSWNnRWhYMVJZM3VVNA?oc=5",
-      "source": "Futurism",
-      "date": "2026-10-18T11:50:00.000Z",
-      "simple_summary": "A man stopped using a Meta AI assistant after it sent him a strange message that upset him.",
-      "why_it_matters": "AI tools sometimes make odd mistakes, and this shows one example of that happening."
+      "simple_summary": "Disney hired most of the workers from a company called Character.AI that made AI chatbots designed to chat with people like real characters.",
+      "why_it_matters": "This shows big companies are buying up AI talent and businesses. If you use chat-based AI tools, the service might change or improve under new ownership."
     },
     {
       "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model",
       "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
       "source": "Tom's Hardware",
       "date": "2026-10-18T11:25:00.000Z",
-      "simple_summary": "Anthropic suggested a new rule where AI systems would only face government action if they caused at least 50 deaths or $1 billion in damage. This would give the Commerce Department power to act.",
-      "why_it_matters": "This is a proposal about how AI should be regulated. It mostly matters to tech companies and policymakers, not to everyday people yet."
+      "simple_summary": "Anthropic suggested new safety rules for AI, but the rules would only kick in if an AI system causes 50 deaths or over one billion dollars in damage.",
+      "why_it_matters": "This is mostly important to lawmakers and tech industry people. It shows there's disagreement about how strictly to regulate AI, but rules don't exist yet."
     },
     {
       "title": "World Bank says ‘small AI’ could transform developing countries",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
       "source": "The Guardian",
       "date": "2026-10-18T10:01:00.000Z",
-      "simple_summary": "The World Bank says smaller, simpler AI tools could help developing countries solve problems in farming, health, and education more cheaply than expensive AI systems.",
-      "why_it_matters": "This shows AI doesn't always need to be complicated and expensive. It could help more people around the world."
+      "simple_summary": "The World Bank thinks smaller, simpler AI tools could help poor countries solve problems like education and healthcare more easily than huge expensive AI systems.",
+      "why_it_matters": "This is mainly about international development policy. If you run a small business, this doesn't change what you're doing today."
     },
     {
       "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
       "source": "Santa Fe New Mexican",
       "date": "2026-10-18T00:30:00.000Z",
-      "simple_summary": "A university received $100,000 from a donor in 2001 to research artificial intelligence. The donor had a troubled past.",
-      "why_it_matters": "This is historical news about where research money came from. It doesn't affect you now."
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "date": "2026-10-17T21:31:32.000Z",
-      "simple_summary": "Meta (the company behind Facebook) changed the words in its terms of service that people worried might let them take content from websites to train their AI. Meta says this didn't change what they actually do.",
-      "why_it_matters": "If you share things online, Meta may still use them to train AI, but they're not changing their actual practices."
-    },
-    {
-      "title": "Bricklayer, 49, travels 1,200 miles for dream girl — only to discover she’s AI-generated",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHlKbk9HcGVXdHFDRjJPTXRiVGh1V2N4UnVKTmRwUXFZN2pZV1dwQjU4dHoyTm1VWWUtMVdaMS1uQTlaZ2xNWWY0V3ZjME1LVmFJN2xKZVBQSVdyTjdnY3pCVDUxbE0tekVlQzFreHE3WVNIejRBcjEzcEVwWThLMDFvRUNSYU9Xa1Y5RWpVekV2eFdsRE4tOExrNFZsM25YQjdOdUFB?oc=5",
-      "source": "New York Post",
-      "date": "2026-10-17T21:11:00.000Z",
-      "simple_summary": "A man traveled across the country hoping to meet someone he liked online, but discovered that the person was not real. An AI had created fake pictures instead.",
-      "why_it_matters": "This is a reminder to be careful about who you meet online. AI can now create fake photos and videos, so verify people are real before trusting them."
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
-      "source": "TechCrunch",
-      "date": "2026-10-17T20:21:19.000Z",
-      "simple_summary": "Anthropic, an AI company, now has more experienced workers and spends more time in meetings than it did before.",
-      "why_it_matters": "This mostly matters to investors following the company. It doesn't change their products."
+      "simple_summary": "An old news story came to light showing that a man named Epstein gave money to a university for AI research back in 2001.",
+      "why_it_matters": "This is a historical detail about AI funding that doesn't affect you today. It's mostly relevant to people studying the history of AI."
     }
   ]
 }
