@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-19T13:23:47.811Z",
+  "generated_at": "2026-10-19T22:23:35.429Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Microsoft, Nvidia push provenance checks as open-weight AI adoption accelerates",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJ5cW1scWVFVS1tczZhTmtCS0JER21CcmFVOExwZ3lZRG9WaUFEYXhVSTlNd25zT25oUTdNSU5zWmJ1bEVJTVlrMnRXaG9BeVVSR3p5Ynhoc01IVnZ1dWl0VHVVUHlDcGktdmdNeFpFdkVGRVBzN09NVzh1QjNKV0J2cFhwMW82WW9VZWZqRllKVzJXQ1NzMmd6Uk04YVpObUd4SWs1dWJjeUoycVNmUVNkbHVPSVdPd0E0UWVZWjFDdkE?oc=5",
-      "source": "CSO Online",
-      "date": "2026-10-19T12:35:03.000Z",
-      "simple_summary": "Microsoft and Nvidia are pushing companies to check where AI software comes from and make sure it is safe to use. This is becoming more common as free AI models are used more widely.",
-      "why_it_matters": "This mostly matters to large companies and tech professionals. Small business owners do not need to take action right now."
-    },
-    {
-      "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-19T12:25:44.000Z",
-      "simple_summary": "A Chinese company called MiniMax released a new version of their AI tool and said it works much better than before.",
-      "why_it_matters": "This is mainly of interest to investors and tech enthusiasts. It does not directly affect how you use AI."
-    },
-    {
-      "title": "4 ways to tame shadow AI (hint: you need them all)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2JRRE5JWmcwenRJOVI0U19HNldseFZ4UXA0MnhnTFByZEJfeGE1SGR1bktVQWw0ajJSTDNIWFRtSHFwQnBQaDA3bkVtVHJUT2FRWkJUbVFfUmllU1NVaEcxYy1rUHhyYW94Sk9qODQ2ZlBrY0lubmxQLTBsN1VzdWtlcGp2d3oxaXpXU3hhbEpUd3BzVUJ1QnVYdkMyZnI3?oc=5",
-      "source": "Computerworld",
-      "date": "2026-10-19T12:00:00.000Z",
-      "simple_summary": "The article discusses ways to manage AI that people use without official permission at work or school. Companies and schools need multiple strategies to handle this problem.",
-      "why_it_matters": "If you run a business, you should know that your workers might be using AI tools you have not approved. You may want to set clear rules about which tools they can use."
-    },
-    {
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "source": "The Verge",
-      "date": "2026-10-19T12:00:00.000Z",
-      "simple_summary": "Democrats think supporting or controlling AI could help them win elections. They are thinking about how to handle AI as a political issue.",
-      "why_it_matters": "This is about politics and elections. Unless you work in government, you do not need to do anything about this."
-    },
-    {
-      "title": "There is no AI in Armageddon. Artificial intelligence is a tool, not an apocalypse",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXN1LTFRUWJzN2I2Smtxc3FIUU93QWF3MEd2SjZLMUtsYl9zTEZoMVF6eDdrLWZhcnk3eDN3X1N1d0F3RUpBSlpibzczQWRqUGs4d3RQZTBJZzFrVDV3cTl0NXh6Rzc2RjBUWnY0OFN6M3Rrd05sMzQxUGpBYmU5ckRyd2ZvZFVrX0txSFBKQVN5U2Fwdm130gGcAUFVX3lxTE9MeEFJZm1RVGtYMF9Rc25EYnBhY215VjIyVlMyWGpBajdldDlScmlRb2FIbWxXbklLdm5MUGtOVnM3LXJGWmQzUWdKbWZHZVNDUVVkbF9FLW40SFVEMTdtbHlOWTRwUDFHRkI3Z05yNE1YUGRSRXNpcWl3c1NyM1I3Wmc5dnljYjlYdlVyM3hGczYtaFhNb0F6OWUzaw?oc=5",
-      "source": "Fox News",
-      "date": "2026-10-19T09:00:38.000Z",
-      "simple_summary": "An article argues that AI is just a tool people can use. It is not something that will cause the world to end.",
-      "why_it_matters": "This is an opinion piece. It does not describe anything new happening in the world of AI."
-    },
-    {
-      "title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
-      "source": "BBC",
-      "date": "2026-10-19T06:08:02.000Z",
-      "simple_summary": "China's economy is growing faster lately because more companies are buying Chinese AI products. China's own businesses at home are weaker, but AI sales are making up for that.",
-      "why_it_matters": "This mostly matters to investors and large companies trading with China. It does not affect your daily life."
-    },
-    {
-      "title": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWQ0TlNSVzJETlo2akNxdzBEYmlQdlBNaUpLeEtVZ3duNGtoRVZBSDdUbnpMT2hHWEN4eUtGcDg5ZzVIMjlheEJoYUlOXzY0SS1Qbnd3a2pKZjVmM1g1dDZpR3NDdHRvTUZlU05raV9OUXpwS1pLMWxKRWtnSnVTSWZlaWEtRnFjNzNpTVJsLXJpQjNJNXc?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-10-19T05:20:00.000Z",
-      "simple_summary": "An investment writer is recommending one AI company's stock as the best choice if you can only pick one. The headline does not say which company.",
-      "why_it_matters": "This is investment advice and mostly matters to investors. This writer is not telling you to do anything."
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "source": "TechCrunch",
-      "date": "2026-10-18T20:37:40.000Z",
-      "simple_summary": "Anthropic, an AI company, is setting aside 5 percent of its company ownership for a special fund meant to benefit the public.",
-      "why_it_matters": "This is mostly important to investors and people who care about how AI companies are run. It does not change anything for ordinary people right now."
+      "date": "2026-10-19T22:04:28.000Z",
+      "simple_summary": "Microsoft is warning companies that AI assistants built outside their control can be risky, like having someone access your computer systems without full supervision. They're telling workers to be careful and watch what these tools are doing.",
+      "why_it_matters": "If you use AI tools at your business, you should think about what information you're sharing with them, especially with new tools from smaller companies."
     },
     {
-      "title": "The AI industry’s gigantic debts are making investors nervous",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBPZ04tUnFocVdZQlM2dkF6N3hkVk9wTDB3SWVfbHo2ZFNvcnQtanBIX2JIVVg5UXpEZGVlRDIycFFmZmlUMHdjaFlwUzNOclNlUEdzaUtQMHNPY3FkdFZQUFIyclZCQURIN09YZHlWUUdmYkhYY3B6WDlEQ2ZqbEdaai1BNUQzX3VwNC02a01abVRPWmZwdWQyMUdjbzZiaHNDVmFuMWJhZw?oc=5",
-      "source": "The Economist",
-      "date": "2026-10-18T20:19:28.000Z",
-      "simple_summary": "AI companies have borrowed a lot of money to build their systems. Some investors are getting worried about whether these companies can pay the money back.",
-      "why_it_matters": "This mostly matters to investors. If you are thinking about investing in AI companies, you should know there is some financial risk involved."
-    },
-    {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
       "source": "The Verge",
-      "date": "2026-10-18T18:28:10.000Z",
-      "simple_summary": "A woman in Philadelphia was arrested because she stood in front of a robot that delivers food and packages, blocking its path. She was protesting because she thinks robots are taking jobs from delivery workers.",
-      "why_it_matters": "This shows there is real disagreement about robots doing delivery work. If you run a delivery business, know that some people are unhappy about this trend."
+      "date": "2026-10-19T21:48:01.000Z",
+      "simple_summary": "America is building more coal and natural gas power plants than it has in ten years, even though solar and wind power were growing faster before. Electricity use is climbing quickly because of new data centers, factories, and electric cars.",
+      "why_it_matters": "This mostly matters to investors and policymakers thinking about energy. For your business or daily life, just know that the electricity grid is under strain, which could affect costs or reliability."
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge",
+      "date": "2026-10-19T21:28:20.000Z",
+      "simple_summary": "CoreWeave, a company that rents computer power for AI projects, is having money problems. Some investors are worried that too much investment money is flowing into AI companies that may not be sustainable.",
+      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do right now, though it signals that some AI projects may be burning money faster than they should."
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
       "source": "TechCrunch",
-      "date": "2026-10-18T16:30:00.000Z",
-      "simple_summary": "Disney is hiring most of the workers from a company called Character.AI. The deal is not final yet because another company could offer more money and hire them instead.",
-      "why_it_matters": "This is a business deal between large companies. Unless you work in entertainment or investments, this does not affect you."
+      "date": "2026-10-19T20:09:24.000Z",
+      "simple_summary": "Amazon is building new tools so developers can use AI on Amazon's computer chips instead of only on Nvidia chips. Right now Nvidia controls the tools most people use to build AI, and Amazon wants to change that.",
+      "why_it_matters": "This mostly matters to tech engineers and companies buying expensive computer equipment. If you're not building AI systems, this doesn't affect you yet."
     },
     {
-      "title": "World Bank says ‘small AI’ could transform developing countries",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-10-18T10:01:00.000Z",
-      "simple_summary": "The World Bank says that smaller, simpler AI tools could help poor countries grow and solve problems in ways that large expensive AI cannot.",
-      "why_it_matters": "If you live or do business in a developing country, simpler AI tools might be more useful and affordable than the fancy ones you hear about in the news."
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T19:28:34.000Z",
+      "simple_summary": "Hackers got into an AI coding tool called OpenCode and stole access keys, which are like passwords that let you use AI services. They used stolen keys to run up charges on people's accounts.",
+      "why_it_matters": "If you use any AI coding tools, make sure your passwords are strong and watch your bills for unexpected charges. It's worth checking your accounts if you use this particular tool."
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T19:00:12.000Z",
+      "simple_summary": "A company called Tolan that makes an AI friend to chat with has gotten more money to grow. It now has over 250,000 people using it regularly.",
+      "why_it_matters": "This mostly matters to investors. If you enjoy chatting with AI for company or advice, this just means the service will probably improve, but there's nothing you need to do."
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T18:49:04.000Z",
+      "simple_summary": "A person named Eugenia Kuyda created a new AI assistant called Wabi. She had the same basic idea twelve years ago but is now launching it as a free download that anyone can use.",
+      "why_it_matters": "If you're interested in having a personal AI assistant, this is one option that's free to download. It's just one of many AI companion choices available now."
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T18:37:27.000Z",
+      "simple_summary": "Tenstorrent, a company trying to compete with Nvidia by making computer chips for AI, raised 1.5 billion dollars. The company is now valued at 6.2 billion dollars.",
+      "why_it_matters": "This mostly matters to tech companies and investors. It shows there's money flowing into companies that want to compete with Nvidia, but ordinary people won't feel the effects for a while."
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T16:13:22.000Z",
+      "simple_summary": "Some smart TV owners are using AI to remove all the ads, tracking software, and slow features from their televisions. They're trying to make their smart TVs work simpler and faster like older dumb TVs.",
+      "why_it_matters": "If you have a smart TV that's full of ads or runs slowly, you might eventually see tools that let you clean it up. Right now this is still quite technical, so it mainly appeals to people comfortable tinkering with their devices."
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs ",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T15:37:09.000Z",
+      "simple_summary": "Nvidia is releasing new AI models that companies can run on their own computers instead of relying on Nvidia's online service. They're also focusing on AI helpers that work on personal computers with your private information.",
+      "why_it_matters": "For a business or person worried about privacy, this means more options to use AI without sending your data to the cloud. It's mostly useful for companies with technical teams who can set this up."
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge",
+      "date": "2026-10-19T14:30:00.000Z",
+      "simple_summary": "The governor of Illinois was interviewed about AI and talked about how it could help people live longer or become dangerous like nuclear weapons.",
+      "why_it_matters": "This is mostly a political discussion about the future of AI. There's nothing you need to do based on what one politician thinks about AI."
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge",
+      "date": "2026-10-19T13:58:41.000Z",
+      "simple_summary": "A hacker used an army of AI agents to break into over 100 websites, including ones belonging to John Deere and SharkNinja. The AI agents did most of the work on their own without much human help.",
+      "why_it_matters": "This shows that hackers are now using AI to attack companies more efficiently. If you own a business, make sure your passwords are strong and your computer systems are updated, just as you would have done before."
     }
   ]
 }
