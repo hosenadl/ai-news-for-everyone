@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-30T13:00:21.214Z",
+  "generated_at": "2026-10-30T22:24:30.078Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-30T09:48:16.000Z",
-      "simple_summary": "Foxconn, a major manufacturer, is working with OpenAI, the company behind ChatGPT. Foxconn's leader says that despite recent market worries, artificial intelligence is not experiencing a bubble that will pop.",
-      "why_it_matters": "This mostly matters to investors and tech industry professionals. There is nothing you need to do right now."
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T21:54:34.000Z",
+      "simple_summary": "Intel's computer chip company is struggling because it can't sell as many regular computers anymore. AI systems are buying up all the memory chips instead, which makes computer parts more expensive and harder to find.",
+      "why_it_matters": "This mostly matters to investors and computer makers. Regular people might notice computer prices staying high, but there's nothing you need to do about it."
     },
     {
-      "title": "AI Selloff Deepens, Oil Jumps and Crypto Falls",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5",
-      "source": "WSJ",
-      "date": "2026-10-30T09:48:00.000Z",
-      "simple_summary": "Stock prices for AI companies have been dropping sharply. At the same time, oil prices went up and cryptocurrency prices went down.",
-      "why_it_matters": "If you own AI company stocks in a retirement account or investment portfolio, this decline could affect your account value. Otherwise, this is mainly about financial market movements."
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T21:52:03.000Z",
+      "simple_summary": "A company called Anthropic that makes AI is expected to get a poor credit rating soon. This would make it more expensive for them to borrow money for their operations.",
+      "why_it_matters": "This mostly matters to investors and financial analysts. It doesn't directly affect your everyday use of technology or your small business."
     },
     {
-      "title": "Artificial Intelligence is a Horror Story",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5",
-      "source": "Literary Hub",
-      "date": "2026-10-30T09:00:29.000Z",
-      "simple_summary": "Someone wrote an opinion piece describing artificial intelligence as harmful or dangerous. The headline does not provide details about the specific concerns.",
-      "why_it_matters": "This is one person's opinion. It does not describe an actual event or change that affects your daily life."
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T21:26:59.000Z",
+      "simple_summary": "This is just a silly holiday humor article with costume ideas based on technology jokes.",
+      "why_it_matters": "This doesn't matter for any practical reason. It's just entertainment."
     },
     {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T21:17:40.000Z",
+      "simple_summary": "Big technology companies are spending enormous amounts of money on AI systems, but some people are starting to worry about whether this spending can continue. Companies are taking on debt and not making enough money to cover their costs yet.",
+      "why_it_matters": "If big tech companies run into financial problems, it could eventually affect services you use like Google or Microsoft, but it's too early to know if that will happen."
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
       "source": "The Verge",
-      "date": "2026-10-30T09:00:00.000Z",
-      "simple_summary": "Wikipedia's organization is taking a position in court cases about whether AI companies can legally learn from copyrighted material like books and articles. They want rules that let researchers use AI tools without requiring AI chatbots to give back the original work word for word.",
-      "why_it_matters": "If courts rule the wrong way, Wikipedia and other educational websites might lose useful AI tools, or regular people might see less free knowledge online. This is still being decided in court."
+      "date": "2026-10-30T20:48:43.000Z",
+      "simple_summary": "The head of OpenAI says it would be better if computer memory was stored in large data centers far away rather than in home computers. He thinks this would help with supply shortages.",
+      "why_it_matters": "This is mostly just an opinion from a tech leader. There's nothing you need to do, though it does reflect how AI companies want to centralize computing away from personal computers."
     },
     {
-      "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92RFVzbUMzWGNqc1U0TkNGNWJkdDhlNjJQZW1MV1hjSzJnU3R5YjB6T092TzVNSXJZNHhUR09uMjZuMGttdUNCWVVjZlBveV9HLVA4NE55RnpJc0NhVTJqY205N0dtaU1DcFRvVEt5UWlneTBQT21N0gF8QVVfeXFMTWI4eXFCREZRU1hNVFk2TDZta3RlUEhTV1hMY0xxbDI5eDVrVzJOWlFTR1VZdVY5ck13SUtEcGp2X0VPMHRaUnFVSlRVZUg3c0J0M2tBY0xjMTJIaV8taEFXWTdpVjJ1VWc4RmhnRm82dEtQcDAwNi12ckZ4RA?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-30T08:19:14.000Z",
-      "simple_summary": "An Indian company that builds AI computer systems is trying to borrow three billion dollars to buy very powerful computer chips from Nvidia. This is mostly about business financing.",
-      "why_it_matters": "This mostly matters to investors and tech company executives. It does not affect ordinary people or small business owners."
-    },
-    {
-      "title": "Artificial intelligence news: AI-powered shoplifting detection expands in Chicago-area stores, but some raise concerns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHExeXEtTEVlTWNTMzE1QWNmZXVuVjJIVF9qcFE3MHNyV2xqNnhoVHBzbWVxRlNlUEJaYUtXOU1JZnk4ckdkWHhSUlNJR0tjYmZHNmdKOVk3VGM1VUpPYnlSUWs0Ul9FNDJsanhGa0trSFpiRDJiR25mT0FGblFBalJvWEJ2NmZrVGNYaWg2RE91WnMyQ1liWUp6NURKUVR1RDljWkdNSHllejBUc2JzSXY5U1FWYkVWeDlTVFlORDN0enRHLXhmX3F3YkRoMjVsNFZvcm9sZ2NPNGPSAeABQVVfeXFMUFNkUE1RQzhsRGxUT0hCV2t4SllhNkU1WEhxeFoxWGNLRGJGMjhKU2hnbW1rVkVIckN0NFFmU0JlUzhiaDhVZ2trdmVUNHdEVElRcWhvNGUxVkhGeUVheUxpM3ZSay0yWTA3bmd0dFp2Y3JzbDhYT0pJM3A4TnVKUi1odkRpbDVfUEZOWEJITjJkOHFrb293WC1STTVnQ1lxSU1VVDZNcHZJNWJhVVQ4c2FqZThVMEJTaU9XalJaRGRlXzR4aTRXNkJLUVl4SlNxaVVHLTNPZ2djeDFyTDJkZno?oc=5",
-      "source": "ABC7 Chicago",
-      "date": "2026-10-30T04:40:04.000Z",
-      "simple_summary": "Stores in the Chicago area are using AI-powered cameras to catch shoplifters. Some people worry these cameras might watch customers unfairly or invade privacy.",
-      "why_it_matters": "If you shop in those stores, AI systems may be monitoring the sales floor for theft. Some privacy advocates have concerns about how this works, though the stores believe it reduces crime."
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch",
-      "date": "2026-10-30T01:20:48.000Z",
-      "simple_summary": "A university employee received permission to skip using AI tools at work for religious reasons. This suggests employers might grant exemptions even when someone does not follow a formal religion.",
-      "why_it_matters": "If your workplace requires you to use AI and you have objections, this case suggests you might request an exemption based on your personal beliefs."
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch",
-      "date": "2026-10-29T23:42:22.000Z",
-      "simple_summary": "Amazon's CEO says Amazon wants to earn one trillion dollars in revenue and become the leader in selling AI computing power to other businesses. But first, Amazon will spend enormous amounts of money to build the necessary computer systems.",
-      "why_it_matters": "Amazon plans to invest heavily in AI, which could eventually make their services better or more expensive. For now, this is mainly about Amazon's future business strategy."
-    },
-    {
-      "title": "The Woman Breathing Life Into Next Generation Home-Help Robots",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2NsWHpMX0l5MXZRaGRrUklCYkNLQVdvLXVkaHBGSzZUMEZORFRYU2M2a1NPYUM3QTFidVBEVndSa09ZTjh4UG11VzR5bE1yQ1pkX0Z2dUJZV1V0a0pRS2JR?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-29T23:30:10.000Z",
-      "simple_summary": "Bloomberg published a story about a woman who is helping develop robots designed to assist people in their homes. The headline does not provide details about what the robots will do.",
-      "why_it_matters": "This describes progress in home robots, but without knowing details, it is hard to say whether this affects you soon. Home robots remain mostly experimental rather than common in people's houses."
-    },
-    {
-      "title": "Google value plunges by $500bn as AI search hits ad sales",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
       "source": "BBC",
-      "date": "2026-10-29T22:17:52.000Z",
-      "simple_summary": "Google's stock value dropped by five hundred billion dollars. This happened because people worry that Google's new AI search tool might show fewer advertisements and hurt Google's advertising business.",
-      "why_it_matters": "If you own Google stock or have Google shares in a retirement fund, your account value decreased. Otherwise, this is mainly about how AI might change Google's business."
+      "date": "2026-10-30T20:34:46.000Z",
+      "simple_summary": "Stock prices for major technology companies have dropped sharply as AI companies spend close to one trillion dollars on infrastructure.",
+      "why_it_matters": "This mostly matters to people with stock investments. If you have retirement accounts or own tech stocks, you may have seen lower values this week."
     },
     {
-      "title": "Google just lost $500 billion in a panic over AI",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVFIcUtySkZSRGVOR1dtcGEyWjlnblRKQ2p5RWp5YUtvdFJSVVcwdTl0THBjOE1wUElURXVGTUdPWEpXUFV6OWlJZ2xpTzZobVdRU2otVXdIZUFLcWFQbGZESjZ6ejNEdi1vcjhJLVVJcGdQd2pLTlRQbEFqbUp2VlpaZWpid3RSMTNRc3VXc18zLU1Ub0RoalFnLWhWTzNFWWE4?oc=5",
-      "source": "The Independent",
-      "date": "2026-10-29T22:14:00.000Z",
-      "simple_summary": "Google's stock price fell sharply after investors became nervous about how AI will affect Google's ability to make money from advertising. This is the same event as the previous headline.",
-      "why_it_matters": "Same as the previous story. If you own Google stock, this drop affects your portfolio. Most other people won't see a direct change."
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "date": "2026-10-30T20:26:10.000Z",
+      "simple_summary": "OpenAI, Google, Microsoft, and Anthropic agreed to honor a new standard that lets news websites and publishers tell AI companies to stop copying their content. Publishers won't have to make the same request to each company separately anymore.",
+      "why_it_matters": "If you run a small business with content or a website, you might soon have an easier way to prevent AI companies from using your material without permission."
     },
     {
-      "title": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVh1bVBld3pTNEtQekdfSzJpc2RzTUNhelViZUNLYmU1RzlTMG1zeHllRk80NjNHcGIyeXJNa1dqQjFrYk1rSmFWSTNGWEM2cy12LWlYRFBQaVpSQU5XRzJfa3BmTTU3ZC1sSlA3V2JUdW9ZQl80dFAxa3FSR1pHNURUcm95Mjg?oc=5",
-      "source": "AP News",
-      "date": "2026-10-29T20:18:00.000Z",
-      "simple_summary": "A top administrator at Dartmouth College resigned after people discovered he used AI to help write official materials instead of writing them himself. A provost is a senior administrator who oversees academic matters.",
-      "why_it_matters": "This shows that organizations and professional people are expected not to secretly use AI to do their work. Using AI without telling people can damage your reputation and career."
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "date": "2026-10-30T18:21:38.000Z",
+      "simple_summary": "Google successfully launched a satellite with artificial intelligence chips on it. The AI system was able to write a poem about space while orbiting Earth.",
+      "why_it_matters": "This is a technological achievement but doesn't affect ordinary people or small businesses right now. It's mostly important to researchers and engineers exploring space technology."
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T17:47:12.000Z",
+      "simple_summary": "A new service called Zest uses AI to help groups of people decide where to eat together. You text it your preferences and it finds restaurants, lets everyone vote, and makes the reservation.",
+      "why_it_matters": "If you and your family or coworkers often struggle to agree on restaurants, this tool could save you time and frustration."
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge",
+      "date": "2026-10-30T17:38:04.000Z",
+      "simple_summary": "Starbucks is exploring using AI to show you a custom menu based on your past orders when you drive up to get coffee. The goal is to make ordering faster and easier.",
+      "why_it_matters": "If you regularly visit Starbucks, this could eventually make drive-thru ordering quicker by suggesting your usual drinks automatically."
+    },
+    {
+      "title": "The AI investing story had a rough week. It may be time to take profits while you still can",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMDB1eXN5V1R1ZjNPZV9XT2c5R3ZjUGJ5RDBHQjlEVndKSHVPM3hndmJ5QTVJbGNWS0wxdEwzdUYxTzZzVmdGYTd1dm5GUmI2NFZDemdnOVJsUzJEMWlXOTlCcWtzWVhfRF9uRUFBVEJZZUpVM19kN3pSUnB6dVXSAYQBQVVfeXFMTzBUcGxqV3FxbkpSOVV5WV9KblBpbF9vd1lGNEdPay1SWXNZN20tRlpVOEFyTzRxSzFfQUdsbmVyeTZoWGg5ZlRCSDZNMTd0amZyQlU2VEpTX3NCMVl3Zi1UZEFEQUloWXRpNlMzSTlRS0ZzY252QzAxQ2pEc1RWbHI0YUF4?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-30T17:17:28.000Z",
+      "simple_summary": "Stock market experts are warning people who invested in AI companies that it might be a good time to sell those stocks and lock in profits.",
+      "why_it_matters": "If you own AI or tech company stocks, this is a signal to talk with a financial advisor about your portfolio strategy."
+    },
+    {
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUdha2F4dWZBR01BaWxoM2hndE44blJtcjdreUJsVlczMnlnSWVlbmRyay1RWVJsZFVzLXlOdldmZko2OW1MTmRsaWtMZEIxOEszQXdwNEQtSWFqaHRIeXBxbWJrdnNyUEZNOWVXeFRIUGJNSDVQanJadjRIUG84UTRhMTU?oc=5",
+      "source": "The New York Times",
+      "date": "2026-10-30T17:07:21.000Z",
+      "simple_summary": "This headline mentions a large cryptocurrency hack at Binance and suggests it signals the start of riskier times in the cryptocurrency world.",
+      "why_it_matters": "If you hold cryptocurrency or are thinking about it, this is a reminder that digital assets carry risks, especially with security breaches happening."
     }
   ]
 }
