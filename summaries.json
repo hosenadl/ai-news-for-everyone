@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-20T17:12:42.379Z",
+  "generated_at": "2026-10-30T13:00:21.214Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T16:00:00.000Z",
-      "simple_summary": "A startup built an AI tool that tries to understand what plants are communicating through the electricity flowing in their stems. Right now this is an early science experiment.",
-      "why_it_matters": "This mostly matters to scientists and investors. There's nothing a regular person or small business owner needs to do about it."
+      "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-30T09:48:16.000Z",
+      "simple_summary": "Foxconn, a major manufacturer, is working with OpenAI, the company behind ChatGPT. Foxconn's leader says that despite recent market worries, artificial intelligence is not experiencing a bubble that will pop.",
+      "why_it_matters": "This mostly matters to investors and tech industry professionals. There is nothing you need to do right now."
     },
     {
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "title": "AI Selloff Deepens, Oil Jumps and Crypto Falls",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5",
+      "source": "WSJ",
+      "date": "2026-10-30T09:48:00.000Z",
+      "simple_summary": "Stock prices for AI companies have been dropping sharply. At the same time, oil prices went up and cryptocurrency prices went down.",
+      "why_it_matters": "If you own AI company stocks in a retirement account or investment portfolio, this decline could affect your account value. Otherwise, this is mainly about financial market movements."
+    },
+    {
+      "title": "Artificial Intelligence is a Horror Story",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5",
+      "source": "Literary Hub",
+      "date": "2026-10-30T09:00:29.000Z",
+      "simple_summary": "Someone wrote an opinion piece describing artificial intelligence as harmful or dangerous. The headline does not provide details about the specific concerns.",
+      "why_it_matters": "This is one person's opinion. It does not describe an actual event or change that affects your daily life."
+    },
+    {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
       "source": "The Verge",
-      "date": "2026-10-20T14:18:37.000Z",
-      "simple_summary": "Spotify removed over 50 million songs that were either made entirely by AI or were spam from its recommendation system. The service is now trying to show you more real music made by actual musicians instead.",
-      "why_it_matters": "If you use Spotify, you might find better music recommendations now since the app has cleaned up a lot of junk."
+      "date": "2026-10-30T09:00:00.000Z",
+      "simple_summary": "Wikipedia's organization is taking a position in court cases about whether AI companies can legally learn from copyrighted material like books and articles. They want rules that let researchers use AI tools without requiring AI chatbots to give back the original work word for word.",
+      "why_it_matters": "If courts rule the wrong way, Wikipedia and other educational websites might lose useful AI tools, or regular people might see less free knowledge online. This is still being decided in court."
     },
     {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92RFVzbUMzWGNqc1U0TkNGNWJkdDhlNjJQZW1MV1hjSzJnU3R5YjB6T092TzVNSXJZNHhUR09uMjZuMGttdUNCWVVjZlBveV9HLVA4NE55RnpJc0NhVTJqY205N0dtaU1DcFRvVEt5UWlneTBQT21N0gF8QVVfeXFMTWI4eXFCREZRU1hNVFk2TDZta3RlUEhTV1hMY0xxbDI5eDVrVzJOWlFTR1VZdVY5ck13SUtEcGp2X0VPMHRaUnFVSlRVZUg3c0J0M2tBY0xjMTJIaV8taEFXWTdpVjJ1VWc4RmhnRm82dEtQcDAwNi12ckZ4RA?oc=5",
+      "source": "CNBC",
+      "date": "2026-10-30T08:19:14.000Z",
+      "simple_summary": "An Indian company that builds AI computer systems is trying to borrow three billion dollars to buy very powerful computer chips from Nvidia. This is mostly about business financing.",
+      "why_it_matters": "This mostly matters to investors and tech company executives. It does not affect ordinary people or small business owners."
+    },
+    {
+      "title": "Artificial intelligence news: AI-powered shoplifting detection expands in Chicago-area stores, but some raise concerns",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHExeXEtTEVlTWNTMzE1QWNmZXVuVjJIVF9qcFE3MHNyV2xqNnhoVHBzbWVxRlNlUEJaYUtXOU1JZnk4ckdkWHhSUlNJR0tjYmZHNmdKOVk3VGM1VUpPYnlSUWs0Ul9FNDJsanhGa0trSFpiRDJiR25mT0FGblFBalJvWEJ2NmZrVGNYaWg2RE91WnMyQ1liWUp6NURKUVR1RDljWkdNSHllejBUc2JzSXY5U1FWYkVWeDlTVFlORDN0enRHLXhmX3F3YkRoMjVsNFZvcm9sZ2NPNGPSAeABQVVfeXFMUFNkUE1RQzhsRGxUT0hCV2t4SllhNkU1WEhxeFoxWGNLRGJGMjhKU2hnbW1rVkVIckN0NFFmU0JlUzhiaDhVZ2trdmVUNHdEVElRcWhvNGUxVkhGeUVheUxpM3ZSay0yWTA3bmd0dFp2Y3JzbDhYT0pJM3A4TnVKUi1odkRpbDVfUEZOWEJITjJkOHFrb293WC1STTVnQ1lxSU1VVDZNcHZJNWJhVVQ4c2FqZThVMEJTaU9XalJaRGRlXzR4aTRXNkJLUVl4SlNxaVVHLTNPZ2djeDFyTDJkZno?oc=5",
+      "source": "ABC7 Chicago",
+      "date": "2026-10-30T04:40:04.000Z",
+      "simple_summary": "Stores in the Chicago area are using AI-powered cameras to catch shoplifters. Some people worry these cameras might watch customers unfairly or invade privacy.",
+      "why_it_matters": "If you shop in those stores, AI systems may be monitoring the sales floor for theft. Some privacy advocates have concerns about how this works, though the stores believe it reduces crime."
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "source": "TechCrunch",
-      "date": "2026-10-20T14:13:32.000Z",
-      "simple_summary": "The company Figma is deciding how to connect its design tool to AI systems in a careful way. This is mostly a technical decision about behind-the-scenes standards.",
-      "why_it_matters": "This mostly matters to engineers and investors. It doesn't affect regular people or small business owners."
+      "date": "2026-10-30T01:20:48.000Z",
+      "simple_summary": "A university employee received permission to skip using AI tools at work for religious reasons. This suggests employers might grant exemptions even when someone does not follow a formal religion.",
+      "why_it_matters": "If your workplace requires you to use AI and you have objections, this case suggests you might request an exemption based on your personal beliefs."
     },
     {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
-      "date": "2026-10-20T13:07:24.000Z",
-      "simple_summary": "The US government told all its offices to remove and stop using a Chinese AI tool called DeepSeek because of security worries. The government is treating it as a risk to national safety.",
-      "why_it_matters": "Most small business owners won't be affected unless they work for the federal government or use DeepSeek software in their company."
+      "date": "2026-10-29T23:42:22.000Z",
+      "simple_summary": "Amazon's CEO says Amazon wants to earn one trillion dollars in revenue and become the leader in selling AI computing power to other businesses. But first, Amazon will spend enormous amounts of money to build the necessary computer systems.",
+      "why_it_matters": "Amazon plans to invest heavily in AI, which could eventually make their services better or more expensive. For now, this is mainly about Amazon's future business strategy."
     },
     {
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-      "source": "The Verge",
-      "date": "2026-10-20T13:06:44.000Z",
-      "simple_summary": "Adobe's photo editing app called Lightroom can now fix photos where someone has their eyes closed by using AI to open them with a single tap. It works on phones and tablets.",
-      "why_it_matters": "If you take lots of photos on your phone and use Lightroom, this could save you time fixing pictures where people blinked during the shot."
+      "title": "The Woman Breathing Life Into Next Generation Home-Help Robots",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2NsWHpMX0l5MXZRaGRrUklCYkNLQVdvLXVkaHBGSzZUMEZORFRYU2M2a1NPYUM3QTFidVBEVndSa09ZTjh4UG11VzR5bE1yQ1pkX0Z2dUJZV1V0a0pRS2JR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-29T23:30:10.000Z",
+      "simple_summary": "Bloomberg published a story about a woman who is helping develop robots designed to assist people in their homes. The headline does not provide details about what the robots will do.",
+      "why_it_matters": "This describes progress in home robots, but without knowing details, it is hard to say whether this affects you soon. Home robots remain mostly experimental rather than common in people's houses."
     },
     {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T13:00:00.000Z",
-      "simple_summary": "A company called Eka made a robot arm that is very good at picking up different kinds of objects smoothly and naturally. Investors think it's worth 1.45 billion dollars.",
-      "why_it_matters": "This mostly matters to investors and large factories. Most small businesses won't have use for it yet."
+      "title": "Google value plunges by $500bn as AI search hits ad sales",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "source": "BBC",
+      "date": "2026-10-29T22:17:52.000Z",
+      "simple_summary": "Google's stock value dropped by five hundred billion dollars. This happened because people worry that Google's new AI search tool might show fewer advertisements and hurt Google's advertising business.",
+      "why_it_matters": "If you own Google stock or have Google shares in a retirement fund, your account value decreased. Otherwise, this is mainly about how AI might change Google's business."
     },
     {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T11:00:00.000Z",
-      "simple_summary": "A meeting note-taking tool called Otter.ai just raised 320 million dollars in funding to expand its business. The company wants to grow and reach more customers worldwide.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do about it."
+      "title": "Google just lost $500 billion in a panic over AI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVFIcUtySkZSRGVOR1dtcGEyWjlnblRKQ2p5RWp5YUtvdFJSVVcwdTl0THBjOE1wUElURXVGTUdPWEpXUFV6OWlJZ2xpTzZobVdRU2otVXdIZUFLcWFQbGZESjZ6ejNEdi1vcjhJLVVJcGdQd2pLTlRQbEFqbUp2VlpaZWpid3RSMTNRc3VXc18zLU1Ub0RoalFnLWhWTzNFWWE4?oc=5",
+      "source": "The Independent",
+      "date": "2026-10-29T22:14:00.000Z",
+      "simple_summary": "Google's stock price fell sharply after investors became nervous about how AI will affect Google's ability to make money from advertising. This is the same event as the previous headline.",
+      "why_it_matters": "Same as the previous story. If you own Google stock, this drop affects your portfolio. Most other people won't see a direct change."
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T11:00:00.000Z",
-      "simple_summary": "Yelp is adding AI features to its app that can call restaurants for you to check wait times and give you personalized suggestions based on what you like. It remembers your food preferences.",
-      "why_it_matters": "If you use Yelp to find restaurants, this could save you a phone call and help you discover new places you'd actually enjoy."
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T01:27:03.000Z",
-      "simple_summary": "A New York City official is saying the government hasn't done enough to control AI and is urging New Yorkers to demand stronger rules that protect people's rights. He's arguing against the idea that AI takeover is unavoidable.",
-      "why_it_matters": "If you live in New York, this is about local government pushing for rules that might affect how companies use AI in your city."
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch",
-      "date": "2026-10-19T23:39:38.000Z",
-      "simple_summary": "A company may be doing another very large expensive deal with an AI lab to buy computing power. These kinds of deals are becoming common in the AI industry.",
-      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do about it."
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-19T22:49:27.000Z",
-      "simple_summary": "A policy leader at a major AI organization says that putting neutral observers inside AI companies to check safety isn't a simple solution. It's more complicated than people think.",
-      "why_it_matters": "This mostly matters to government regulators and tech company leaders thinking about AI safety. Most people don't need to worry about this."
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch",
-      "date": "2026-10-19T22:04:28.000Z",
-      "simple_summary": "Microsoft is warning companies that AI agents and tools can be risky and unpredictable if they're not carefully watched. It's like having a new employee you don't fully trust yet.",
-      "why_it_matters": "If your business uses AI tools from other companies, this is a reminder to be careful about what information you give them and to keep an eye on how they work."
+      "title": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVh1bVBld3pTNEtQekdfSzJpc2RzTUNhelViZUNLYmU1RzlTMG1zeHllRk80NjNHcGIyeXJNa1dqQjFrYk1rSmFWSTNGWEM2cy12LWlYRFBQaVpSQU5XRzJfa3BmTTU3ZC1sSlA3V2JUdW9ZQl80dFAxa3FSR1pHNURUcm95Mjg?oc=5",
+      "source": "AP News",
+      "date": "2026-10-29T20:18:00.000Z",
+      "simple_summary": "A top administrator at Dartmouth College resigned after people discovered he used AI to help write official materials instead of writing them himself. A provost is a senior administrator who oversees academic matters.",
+      "why_it_matters": "This shows that organizations and professional people are expected not to secretly use AI to do their work. Using AI without telling people can damage your reputation and career."
     }
   ]
 }
