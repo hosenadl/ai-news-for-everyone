@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-31T12:38:38.018Z",
+  "generated_at": "2026-10-31T21:39:00.594Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "How Much AI Is Too Much AI In Campaign Ads?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXVwcGlZQnFiVHk5R0pKRkRtTEJ1V3JhVzZ5OW9PTzhzMHEySTR5bktLUG16bkZ5TnJVN2F1bUFKSWFpNjl0MU5pV2xJU0x2QTA5X0I4V2ZQOUVta083aVNUQVlWb1pITDdyVW5tNUZZd3FmbTNTZUNZcVFrczlqLXJva0VKMmFoS3VUdWZWRWpKbGdIOVJKb1kzNW1NdWJnY1HSAacBQVVfeXFMTjlxbHE3Zk16N2hIVzA1ZWh0M0o1QVhabG1EUlhKVEc1SzBlY0VXbUx0MG9NVkhQemlyR2pFcE9pMjNvNWlPRmNWMVJBSWJXcGx3TmRsM3hrQ0YxWWJFWWIxNm1IWFEtSGFjSWFib1pYRVZqd0k3U0ZyMEY1VVJKbU9jb0NpNVlQMXhtS2N3S0VITXMzUkt0RVJSQWg2VHlPaGpxMk13alE?oc=5",
-      "source": "HuffPost",
-      "date": "2026-10-31T11:00:17.000Z",
-      "simple_summary": "People are asking how much artificial intelligence should be used in political campaign advertisements. The question is whether there are limits to how much AI should help create or run these ads.",
-      "why_it_matters": "If you watch political ads or vote, you may soon see ads made partly or entirely by AI. It matters to know which ads are real and which ones are computer-generated."
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T21:17:03.000Z",
+      "simple_summary": "A court decided that a lawsuit from the NAACP can move forward. The lawsuit says an AI company owned by SpaceX is polluting the air and breaking environmental laws.",
+      "why_it_matters": "If you live near this data center, this lawsuit could affect air quality in your area. Most people elsewhere won't notice any change."
     },
     {
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-31T11:00:01.000Z",
-      "simple_summary": "Anthropic is a company trying to go public on the stock market. The path to do this has become more difficult and uncertain.",
-      "why_it_matters": "This mostly matters to investors and Anthropic employees. There's nothing you need to do about it."
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5",
+      "source": "Mashable",
+      "date": "2026-10-31T20:05:28.000Z",
+      "simple_summary": "The company that makes Claude, an AI assistant, is taking steps to stop people from using it to figure out how video games work.",
+      "why_it_matters": "This doesn't affect ordinary people or small business owners."
     },
     {
-      "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGVSMFZpNnEzZEFzNmN2NWptMnZMaW9UazBTWDBLcVJyVWpjR0ZDU04zdTZNM2Q4NHNoYi1iMkNfclBWY0lXb1RfNXYtUkIwOEhBQWQ5SlE5MVB4czZoa1c2akY2dXB1Zi1iRFVWV0kyZTFUVXc5cFFZR29xcmdWY0NWZ1QyUQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-31T09:00:53.000Z",
-      "simple_summary": "In San Francisco, where many AI companies are located, dating has changed because so many people work in AI that first dates often turn into job interviews or shop talk about work.",
-      "why_it_matters": "This is interesting social news but doesn't affect your life unless you date in San Francisco's tech scene."
+      "title": "Trump's AI push faces a local ballot test",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXJYSjlaY2l6b1lXd2g3NkszMnJkLWZMWS12YWZiYTdBSmxoRGU4MEE4NlJFT1N2N2daN0Z3OWJQcm9OdUpCQ182blF5a3VOLWhkQS1tV3U5M2tnOG92N200U2ZCNHd0XzFVU09OTjI4LUZKQnJsNWNLQUdFVDNpc2NuUnA2X1N1emRmSnZpYTNDMU1I?oc=5",
+      "source": "Politico",
+      "date": "2026-10-31T18:00:00.000Z",
+      "simple_summary": "There is political debate happening about whether AI technology should be supported and funded.",
+      "why_it_matters": "This is mostly about politics and policy. There's nothing specific you need to do right now."
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T16:12:55.000Z",
+      "simple_summary": "OpenAI, the company behind ChatGPT, is not raising as much money as it hoped in its latest funding round.",
+      "why_it_matters": "This mostly matters to investors and technology companies. It doesn't directly change how ChatGPT works for regular users."
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "date": "2026-10-31T16:05:00.000Z",
+      "simple_summary": "Someone built an AI toy similar to Meta's new product before Meta released theirs.",
+      "why_it_matters": "This doesn't matter for ordinary people. It's just a tech story about a hobby project."
+    },
+    {
+      "title": "Wahoo CEO talks finances, artificial intelligence and the company's 'next big opportunity'",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGh4LU9DQlhQeDFzaEdfZ1dsVllnTzdaMFJ2MmdSb3VOVjBFamx2THYtSGc4c2lVRk9sUnh5MkdGc2x4ellrcmdjVWNrdndObVdCbFVTOUVYaUJ2OGQ3dWN4TWRXUXhDZDRFamY2cG02eGZ0Rl9OZ0xHYVF2N280N2lGRzMtMzlNb3NRV2ZrNTRsdlZWSVZyOG9Na0tCdVNWM0ZOQ0lPbGpscENWNDlNSmpCek9tdUR1VmQ3WXdHcFJ6NTY3OGVWNmJHRWU1bzVuSDBqNmVidw?oc=5",
+      "source": "Cyclingnews",
+      "date": "2026-10-31T09:00:00.000Z",
+      "simple_summary": "The leader of Wahoo, a cycling company, talked about using AI in their business.",
+      "why_it_matters": "If you use Wahoo cycling products, they may add AI features in the future. Otherwise, this doesn't affect you."
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch",
       "date": "2026-10-31T01:20:05.000Z",
-      "simple_summary": "Nvidia, the main company that sells computer chips for AI, is thinking about helping finance a new AI data center in West Virginia by cosigning a loan. This means Nvidia would promise to help pay if the borrower cannot.",
-      "why_it_matters": "This mostly matters to investors. It shows how hard it is getting to find money for expensive AI projects."
+      "simple_summary": "Nvidia, a big chip company, might help pay for an AI data center in West Virginia by supporting a loan.",
+      "why_it_matters": "This mostly matters to investors and large companies. There's nothing ordinary people need to know."
     },
     {
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
       "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch",
       "date": "2026-10-30T22:56:13.000Z",
-      "simple_summary": "Ollie was an AI assistant designed to protect people's privacy. It is shutting down because too many other AI assistants are on the market now and it cannot compete.",
-      "why_it_matters": "If you used Ollie, you need to find a different AI assistant. Many new AI tools fail because there is so much competition."
+      "simple_summary": "An AI assistant called Ollie that promised to protect people's privacy is closing down because too many other AI assistants are competing for customers.",
+      "why_it_matters": "If you were using Ollie, you'll need to switch to another AI assistant. Otherwise, this is just a business closure."
     },
     {
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "source": "The Verge",
       "date": "2026-10-30T22:32:53.000Z",
-      "simple_summary": "Apple is bringing its AI features to iPhones in China starting in November with a test version and then a full release in December.",
-      "why_it_matters": "If you own an iPhone in China, you will be able to use Apple's new AI features like the rest of the world in a few months."
+      "simple_summary": "Apple is bringing its AI features to China on iPhones starting in November or December.",
+      "why_it_matters": "If you own an Apple device in China, you'll get these new features soon. If you live elsewhere, you may already have them."
     },
     {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:54:34.000Z",
-      "simple_summary": "Intel's stock price dropped sharply because fewer people are buying regular computers. AI companies are buying up computer memory and parts instead, making PCs more expensive and harder to sell.",
-      "why_it_matters": "If you are thinking about buying a new computer soon, prices may stay high because AI companies are hoarding the parts."
+      "simple_summary": "Intel's stock price dropped sharply, which also hurt the value of the government's investment in the company. This happened because AI technology is using up computer parts that would normally go to regular computers.",
+      "why_it_matters": "If you own Intel stock or were thinking of buying one, the price is lower now. Computer and laptop prices might also stay high because of this competition for parts."
     },
     {
       "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
       "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:52:03.000Z",
-      "simple_summary": "Anthropic will probably get a low credit rating when it tries to go public. A low credit rating means banks think the company is risky to lend money to.",
-      "why_it_matters": "This mostly matters to investors and people at Anthropic. A bad credit rating makes it harder for the company to borrow money to keep going."
+      "simple_summary": "Financial experts predict that Anthropic will get a poor credit rating when it becomes a public company. A poor rating makes it more expensive to borrow money.",
+      "why_it_matters": "This mostly matters to investors and people in the finance industry. It doesn't affect your daily life."
     },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
       "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:26:59.000Z",
-      "simple_summary": "This article suggests funny Halloween costume ideas for technology workers. There is nothing significant about AI in this piece.",
-      "why_it_matters": "This is just fun entertainment. It has nothing to do with your life or work."
-    },
-    {
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch",
-      "date": "2026-10-30T21:17:40.000Z",
-      "simple_summary": "Big technology companies are spending enormous amounts of money on AI infrastructure. However, they are taking on a lot of debt and not making money yet, which is making investors worried that this spending cannot continue.",
-      "why_it_matters": "If AI companies run out of money and fail, the AI tools you might be using could disappear. Prices for AI services could also rise if companies need to recover their costs."
-    },
-    {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "date": "2026-10-30T20:48:43.000Z",
-      "simple_summary": "Sam Altman, who runs OpenAI, says it would be better if computer memory was kept in big data centers rather than in individual personal computers. He believes this is more efficient.",
-      "why_it_matters": "This is mostly an opinion from a tech leader. It does not directly affect what you buy or use today."
-    },
-    {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
-      "source": "BBC",
-      "date": "2026-10-30T20:34:46.000Z",
-      "simple_summary": "Technology company stock prices have fallen sharply as spending on AI approaches one trillion dollars. Investors seem worried about the amount of money being spent.",
-      "why_it_matters": "If you have money in a retirement account or own tech stocks, your investments may have lost value. This suggests the AI spending boom may be slowing down."
+      "simple_summary": "This is a funny article suggesting tech costumes for Halloween.",
+      "why_it_matters": "This is just for fun and doesn't matter at all."
     }
   ]
 }
