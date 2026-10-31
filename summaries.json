@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-30T22:24:30.078Z",
+  "generated_at": "2026-10-31T05:49:25.312Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Sam Altman: All the RAM Should Belong to Me, So I Can Charge People to Use It",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFpBdkg3eElodU52Zmp3QV9DcGlzelJFWURmMnEzX0Y1T29fMHBsWVBobVlja3BwR1Y4MHVJMGxDbGFZSW16THYtR2tkUGZEZnBhNlo5b3ZOSTU1MUpyZEpRc3RCOTEwQlFqaHNRUUFqel9iU0YwMmp2cUNsTEhEX0lEWC1McHZiSWNtT2pjd0p4X0ZKV0NSTGhGU0NiQWVJcXZvN25temRVUQ?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-10-31T03:18:42.000Z",
+      "simple_summary": "This appears to be opinion or commentary rather than news. The headline suggests someone is making an argument about computer memory, but it is unclear what actually happened.",
+      "why_it_matters": "This mostly matters to tech industry people having debates. There is nothing you need to do."
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T01:20:05.000Z",
+      "simple_summary": "Nvidia, which makes the computer chips that power AI, is considering helping finance a new large computer facility in West Virginia. Essentially, the chipmaker is offering to guarantee the loan so investors feel safer putting money into the project.",
+      "why_it_matters": "This is mainly interesting to investors and business owners in West Virginia. For most people and small businesses, this does not affect you directly."
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T22:56:13.000Z",
+      "simple_summary": "A company called Ollie made an AI assistant that was careful about protecting people's privacy. It is shutting down because too many other AI assistants now exist and the company cannot compete.",
+      "why_it_matters": "If you were using Ollie for privacy reasons, you will need to find a different AI assistant. For most people, this changes nothing."
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge",
+      "date": "2026-10-30T22:32:53.000Z",
+      "simple_summary": "Apple is bringing its AI features to iPhones sold in China starting in November with a test version, and then in December with the official version.",
+      "why_it_matters": "If you use an Apple iPhone in China, you will soon get new AI features. If you live elsewhere, this does not affect you."
+    },
     {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:54:34.000Z",
-      "simple_summary": "Intel's computer chip company is struggling because it can't sell as many regular computers anymore. AI systems are buying up all the memory chips instead, which makes computer parts more expensive and harder to find.",
-      "why_it_matters": "This mostly matters to investors and computer makers. Regular people might notice computer prices staying high, but there's nothing you need to do about it."
+      "simple_summary": "Intel's stock price dropped significantly, costing the US government $12 billion in value on the shares it owns. This happened because PC sales are weak while AI companies are buying up all the computer memory and chips, making PC parts expensive.",
+      "why_it_matters": "If you own Intel stock or are thinking of buying it, the price went down. For small business owners buying new computers, prices remain high because AI companies are buying most of the computer parts."
     },
     {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
       "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:52:03.000Z",
-      "simple_summary": "A company called Anthropic that makes AI is expected to get a poor credit rating soon. This would make it more expensive for them to borrow money for their operations.",
-      "why_it_matters": "This mostly matters to investors and financial analysts. It doesn't directly affect your everyday use of technology or your small business."
+      "simple_summary": "A company called Anthropic, which makes AI systems, is planning to go public and may receive a low credit rating. This would make it more expensive for them to borrow money because lenders will see them as riskier.",
+      "why_it_matters": "This mostly matters to investors considering buying Anthropic stock. There is nothing you need to do."
     },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
       "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:26:59.000Z",
-      "simple_summary": "This is just a silly holiday humor article with costume ideas based on technology jokes.",
-      "why_it_matters": "This doesn't matter for any practical reason. It's just entertainment."
+      "simple_summary": "This is a lighthearted article suggesting costume ideas for tech fans on Halloween, not real news about AI developments.",
+      "why_it_matters": "This is entertainment, not real technology news. There is nothing here that affects you."
     },
     {
       "title": "Cracks are emerging in the AI spending boom",
       "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "source": "TechCrunch",
       "date": "2026-10-30T21:17:40.000Z",
-      "simple_summary": "Big technology companies are spending enormous amounts of money on AI systems, but some people are starting to worry about whether this spending can continue. Companies are taking on debt and not making enough money to cover their costs yet.",
-      "why_it_matters": "If big tech companies run into financial problems, it could eventually affect services you use like Google or Microsoft, but it's too early to know if that will happen."
+      "simple_summary": "Big technology companies are spending enormous amounts of money on AI systems, but signs are appearing that this spending boom may not last. Companies are going into debt, not making money yet, and some investors are becoming doubtful.",
+      "why_it_matters": "If companies slow down AI spending, it could affect tech stock prices and hiring in the tech industry. For most small businesses, this does not change anything about how you work today."
     },
     {
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
       "source": "The Verge",
       "date": "2026-10-30T20:48:43.000Z",
-      "simple_summary": "The head of OpenAI says it would be better if computer memory was stored in large data centers far away rather than in home computers. He thinks this would help with supply shortages.",
-      "why_it_matters": "This is mostly just an opinion from a tech leader. There's nothing you need to do, though it does reflect how AI companies want to centralize computing away from personal computers."
+      "simple_summary": "OpenAI's leader said it is wasteful when computer memory stays in personal computers. He believes it is better to have that memory concentrated in large data centers where AI companies can use it.",
+      "why_it_matters": "This is an industry opinion, not something that affects you directly. You will keep using your computer the same way."
     },
     {
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
       "source": "BBC",
       "date": "2026-10-30T20:34:46.000Z",
-      "simple_summary": "Stock prices for major technology companies have dropped sharply as AI companies spend close to one trillion dollars on infrastructure.",
-      "why_it_matters": "This mostly matters to people with stock investments. If you have retirement accounts or own tech stocks, you may have seen lower values this week."
+      "simple_summary": "Stock prices for major US tech companies fell sharply because AI companies are spending close to one trillion dollars and investors are worried this spending is not sustainable.",
+      "why_it_matters": "If you own tech stocks or have a retirement account with tech investments, prices went down. For everyday life and small businesses, this does not change much right now."
     },
     {
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
       "source": "The Verge",
       "date": "2026-10-30T20:26:10.000Z",
-      "simple_summary": "OpenAI, Google, Microsoft, and Anthropic agreed to honor a new standard that lets news websites and publishers tell AI companies to stop copying their content. Publishers won't have to make the same request to each company separately anymore.",
-      "why_it_matters": "If you run a small business with content or a website, you might soon have an easier way to prevent AI companies from using your material without permission."
+      "simple_summary": "OpenAI, Google, Microsoft, and Anthropic agreed to support a new standard that lets publishers tell AI companies not to copy their content. Publishers can use one simple signal instead of having to send separate requests to each company.",
+      "why_it_matters": "If you publish content online, you now have an easier way to protect it from being used to train AI. For readers and most small business owners, this does not affect you."
     },
     {
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "The Verge",
-      "date": "2026-10-30T18:21:38.000Z",
-      "simple_summary": "Google successfully launched a satellite with artificial intelligence chips on it. The AI system was able to write a poem about space while orbiting Earth.",
-      "why_it_matters": "This is a technological achievement but doesn't affect ordinary people or small businesses right now. It's mostly important to researchers and engineers exploring space technology."
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "date": "2026-10-30T17:47:12.000Z",
-      "simple_summary": "A new service called Zest uses AI to help groups of people decide where to eat together. You text it your preferences and it finds restaurants, lets everyone vote, and makes the reservation.",
-      "why_it_matters": "If you and your family or coworkers often struggle to agree on restaurants, this tool could save you time and frustration."
-    },
-    {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
-      "date": "2026-10-30T17:38:04.000Z",
-      "simple_summary": "Starbucks is exploring using AI to show you a custom menu based on your past orders when you drive up to get coffee. The goal is to make ordering faster and easier.",
-      "why_it_matters": "If you regularly visit Starbucks, this could eventually make drive-thru ordering quicker by suggesting your usual drinks automatically."
-    },
-    {
-      "title": "The AI investing story had a rough week. It may be time to take profits while you still can",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMDB1eXN5V1R1ZjNPZV9XT2c5R3ZjUGJ5RDBHQjlEVndKSHVPM3hndmJ5QTVJbGNWS0wxdEwzdUYxTzZzVmdGYTd1dm5GUmI2NFZDemdnOVJsUzJEMWlXOTlCcWtzWVhfRF9uRUFBVEJZZUpVM19kN3pSUnB6dVXSAYQBQVVfeXFMTzBUcGxqV3FxbkpSOVV5WV9KblBpbF9vd1lGNEdPay1SWXNZN20tRlpVOEFyTzRxSzFfQUdsbmVyeTZoWGg5ZlRCSDZNMTd0amZyQlU2VEpTX3NCMVl3Zi1UZEFEQUloWXRpNlMzSTlRS0ZzY252QzAxQ2pEc1RWbHI0YUF4?oc=5",
-      "source": "CNBC",
-      "date": "2026-10-30T17:17:28.000Z",
-      "simple_summary": "Stock market experts are warning people who invested in AI companies that it might be a good time to sell those stocks and lock in profits.",
-      "why_it_matters": "If you own AI or tech company stocks, this is a signal to talk with a financial advisor about your portfolio strategy."
-    },
-    {
-      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUdha2F4dWZBR01BaWxoM2hndE44blJtcjdreUJsVlczMnlnSWVlbmRyay1RWVJsZFVzLXlOdldmZko2OW1MTmRsaWtMZEIxOEszQXdwNEQtSWFqaHRIeXBxbWJrdnNyUEZNOWVXeFRIUGJNSDVQanJadjRIUG84UTRhMTU?oc=5",
-      "source": "The New York Times",
-      "date": "2026-10-30T17:07:21.000Z",
-      "simple_summary": "This headline mentions a large cryptocurrency hack at Binance and suggests it signals the start of riskier times in the cryptocurrency world.",
-      "why_it_matters": "If you hold cryptocurrency or are thinking about it, this is a reminder that digital assets carry risks, especially with security breaches happening."
+      "title": "AI spending fears hammer Google shares, triggering massive one-day loss",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0wybjFZNWFfUzlOejYwWmUzSzhXR3Z6TXczdGEtYmxnR3ptQVAxaUNodDJvbnJ6UWJjbU9YQS1FZEh0NDhDSlVjWHF6MUxocVl1ZVN2OTJjRUJhRnY4eTFxMW9SUVZ5LTJzZmZ3Z2tpQzZPR09NbHNrcDE2dnZrV2V5V2l6LTQ?oc=5",
+      "source": "Fox News",
+      "date": "2026-10-30T20:00:17.000Z",
+      "simple_summary": "Google's stock price fell sharply in one day because investors are concerned about how much money Google is spending on AI and whether that spending will make sense financially.",
+      "why_it_matters": "If you own Google stock or have it in a retirement account, the value dropped. For everyday users of Google's services like Gmail or Search, nothing changes."
     }
   ]
 }
