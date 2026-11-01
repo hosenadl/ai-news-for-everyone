@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-01T13:34:20.986Z",
+  "generated_at": "2026-11-01T22:05:16.799Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T21:55:23.000Z",
+      "simple_summary": "OpenAI wants to call its data centers (buildings full of computers) something friendlier sounding instead. They are trying to improve how people feel about these large facilities.",
+      "why_it_matters": "This mostly matters to investors and people who live near data centers. There is nothing you need to do about it."
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T20:57:58.000Z",
+      "simple_summary": "The article discusses how tech company leaders sometimes say things that don't seem to understand regular people's concerns. Their statements can come across as out of touch.",
+      "why_it_matters": "This is mainly commentary about how business leaders communicate. Unless you run a tech company, this doesn't directly affect you."
+    },
+    {
+      "title": "Wall Street's Black October: Why the worst may still be ahead",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5SVhxOUVISjR6bkhBZHlxalhJODNOSjlCRlhRb1U3SmVtb0ZBQkVTeUNIVjloUjE3X09XeGtXS3g1TEd2OG5INTRnek0tNGJBcVBzVjlsc1MyZ0lQU090dWt3?oc=5",
+      "source": "Ynetnews",
+      "date": "2026-11-01T18:37:41.000Z",
+      "simple_summary": "The article headline suggests the stock market had a bad October and might get worse. No details are provided in what was given.",
+      "why_it_matters": "If you own retirement accounts or investments, stock market changes matter to you. Otherwise, this does not directly affect your daily life."
+    },
+    {
+      "title": "Local mom-and-pops are embracing AI food slop, and residents are revolting",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmZCWm1wR0hsUXRkYlVXcVp0aDBFbWJkSUpZeE5oOXNnM0FzU0ZaeHhFbndfRUI1ZXBueGF5R1VheEptX1dmektlZzlwbTFtR0kzWXI5Y25XbGd6NXVjUnpybFhxWTFyOHpDX0RLMTJSTm9fYzAtX0N0d3IxaFN3VVgxQ2dEb1FFcUVEMHJCNjFTNnMzM3VkVXU5aWpaakFrOEthcC1kbnd1TlhmeGFNbjY5eG83SVZxaFZQY1Bn?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-01T18:00:00.000Z",
+      "simple_summary": "Some local restaurants and food shops are using AI to help make or describe their food, and customers are unhappy about it. People prefer when food is made by actual chefs and cooks.",
+      "why_it_matters": "If you own a small restaurant or food business, your customers care about knowing real people made their food. Using AI for cooking might turn people away."
+    },
+    {
+      "title": "You’ll Never Guess How Scalpers Are Reportedly Snagging Rare iPhone Duos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFBkNE1aZHRwNTJZNmdmXzdTMS1OQnhRV3YxQXRiZFhoVnU0UFAwazV0QUFjVGVIdWVFWmU5ajZLZ1o1bElvR3ZyY3RnQ2hMX3ZIREJUUW9IRlZMZC1JTmlCRTZpbE5WbWhXYkF1NnN6ZTlvVDhHc0FNWHY4RWlMb0pIcmpDQUNWXzhzTlk4ZEg3aHg0Z3ZKMUxubjFzM3B5RE1KZw?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-11-01T17:32:34.000Z",
+      "simple_summary": "The headline mentions scalpers (people who buy things just to resell them at higher prices) finding ways to get rare iPhones. Details were not provided.",
+      "why_it_matters": "This mostly matters if you are trying to buy a specific iPhone model. There is nothing you need to do unless you are shopping for a new phone."
+    },
+    {
+      "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5",
       "source": "Mashable",
-      "date": "2026-11-01T08:54:35.000Z",
-      "simple_summary": "Anthropic, the company that makes an AI called Claude, is working to stop people from using Claude to figure out how video games work so they can cheat or copy them. They want to prevent misuse of their AI tool.",
-      "why_it_matters": "If you play video games or make them, this protects game creators from theft. Most people won't notice any difference."
+      "date": "2026-11-01T17:18:02.000Z",
+      "simple_summary": "Anthropic (a company that makes Claude, an AI assistant) is adding hidden marks to text that older versions of Claude create. These marks will prove the text came from AI.",
+      "why_it_matters": "If you use Claude to write things, know that it will now be marked as AI generated. This is mainly useful for people checking whether something was written by AI or a person."
+    },
+    {
+      "title": "AI is disrupting the art of campaigning",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2ktNFVoR2doWjFiQzBmbHRGeHFHZFR0d285UHZvMS1nS3RJM1pnMkxzREVnOFBjeHJQYnFiakoxaUxxazRpbjY1cl9IMHRDdEFBV0FhTWVfVGVMU1FKYVRGNk42Mkx6eWQ5MzBvV3puVU9WWDI0c2NTWWVMQzFWMjNMM3NsU2VRbVhtSHZCdUphdW5L?oc=5",
+      "source": "The Economist",
+      "date": "2026-11-01T14:10:44.000Z",
+      "simple_summary": "AI is changing how political campaigns work. The article does not explain how in the headline.",
+      "why_it_matters": "This is interesting to know as you vote and see campaign ads. The details matter more than the headline, so you would need to read the full article."
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "source": "TechCrunch",
       "date": "2026-10-31T21:41:00.000Z",
-      "simple_summary": "Apple's leader said the company won't release AI features just to have AI. They want to make sure any AI they create actually helps people do something useful.",
-      "why_it_matters": "This means Apple will likely release fewer AI tools, but the ones they do release should actually work well and solve real problems."
+      "simple_summary": "Apple's leader says the company will not just add AI features to products for the sake of having them. Apple wants AI to be useful when they use it.",
+      "why_it_matters": "If you use Apple products, this means they will take time to make AI features that actually help you instead of rushing them out."
     },
     {
       "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "source": "TechCrunch",
       "date": "2026-10-31T21:36:07.000Z",
-      "simple_summary": "This is an advertisement for a business networking event happening in Boston on November 4. People can meet other business owners and learn new ideas.",
-      "why_it_matters": "Only relevant if you're in Boston and interested in attending networking events. There's nothing you need to do otherwise."
+      "simple_summary": "This is an advertisement for a conference event happening November 4 in Boston where startup founders can meet and network. It is a paid event.",
+      "why_it_matters": "This only matters if you run a startup company and want to attend networking events. Most small-business owners and retired people will not need this."
     },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "source": "TechCrunch",
       "date": "2026-10-31T21:17:03.000Z",
-      "simple_summary": "A lawsuit says an AI company owned by Elon Musk is polluting the air and breaking environmental laws. A judge decided the lawsuit can continue.",
-      "why_it_matters": "This could eventually affect energy prices and environmental rules in that area, but for most people it's a legal matter between lawyers."
-    },
-    {
-      "title": "Trump’s AI push collides with data center backlash",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXJYSjlaY2l6b1lXd2g3NkszMnJkLWZMWS12YWZiYTdBSmxoRGU4MEE4NlJFT1N2N2daN0Z3OWJQcm9OdUpCQ182blF5a3VOLWhkQS1tV3U5M2tnOG92N200U2ZCNHd0XzFVU09OTjI4LUZKQnJsNWNLQUdFVDNpc2NuUnA2X1N1emRmSnZpYTNDMU1I?oc=5",
-      "source": "Politico",
-      "date": "2026-10-31T18:00:00.000Z",
-      "simple_summary": "The government wants to build more AI data centers, but people in some communities don't want them built near their homes because of pollution concerns.",
-      "why_it_matters": "If you live near where a data center might be built, this affects you. Otherwise, it mainly concerns people living in those specific areas."
+      "simple_summary": "A lawsuit says that Elon Musk's xAI company's data center (building full of computers) is polluting the air and breaking environmental laws. A judge allowed the case to continue.",
+      "why_it_matters": "If you live near the data center in question, this lawsuit might help protect your air quality. Most people in other areas will not be affected."
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "TechCrunch",
       "date": "2026-10-31T16:12:55.000Z",
-      "simple_summary": "OpenAI, which makes ChatGPT, is raising money from investors but not as much money as they originally hoped for.",
-      "why_it_matters": "This mostly matters to investors. Your everyday use of AI tools shouldn't change."
+      "simple_summary": "OpenAI tried to raise money from investors but is not getting as much as they had hoped. They are lowering how much money they want to ask for.",
+      "why_it_matters": "This mostly matters to investors and people who care about OpenAI's business plans. It does not change how the AI works or affect regular users."
     },
     {
       "title": "I built an AI Tamagotchi before Meta could",
       "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "source": "The Verge",
       "date": "2026-10-31T16:05:00.000Z",
-      "simple_summary": "Meta is selling a small cute AI toy that you can carry around like an old digital pet. Someone else also made a similar toy first.",
-      "why_it_matters": "If you want a cute AI companion toy to carry around, this is now an option. Most people won't need one."
-    },
-    {
-      "title": "Report from the Vatican",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4a2xLRGtVZGVONkV4VW9mVmVnSGtnV1dMMmxEWllBd0pWSXZHMHM3alV3amszU0JfNkNiaTVOY21KTVBlcm9sVjQxS21tTnVEMWduYXdLV2JhMW5jTEpBZmpDajFlbk9L?oc=5",
-      "source": "Marcus on AI | Substack",
-      "date": "2026-10-31T15:17:33.000Z",
-      "simple_summary": "Someone published a report about artificial intelligence and the Vatican, which is the headquarters of the Catholic Church.",
-      "why_it_matters": "This mostly interests people studying how religions view AI. Most ordinary people won't need to read it."
-    },
-    {
-      "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs — Darkbloom network sees earnings drop to $1.23 a day as Anthropic tokens fall 77%",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQb3d1LS16enNVOHNfejNON0kxenFocnEtWlMwZnVyU2RFeGdpX2lIcTR0VFdyQ0ZnT2ZDcHlkUkhHT2hmNzl2UTNWamJwX244R2V5QzRfbjlzNGhka1JzU3A5QlF4RVdjMHVzRlZ0VDJwb1F2NEJsVHJjUTlPbHlfUFFLcmljckRHVExHUnpDSVNQaXdoX3FselNFUEhVaXNPMEkzVXphVmNmVXY5VVB3aC1mV0s5X1dOOUZyTGlYYWdtN25udjFNMzhCUzlNelpMdEFGZ1FCWjJCUEdkTEZLZ21ReDZOZXFLdV9FeS1Xd2luQWFvRWtHd0k5ZEpNWlgwZ3Zjb0tDS3EwZ0xQMFc5dmdGeUNqT2xNVS01YU9kY3pKdzI1YlA4Tzg1b2tGYnhORlh5VFRfUnhYVkJaOXFLRndTQUV3dkJXaElLVm1mS1RSODlaSGxzcnFVRi1HTXlKbHFxbDBHajgzMDkyM0g4TFN0NA?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-10-31T13:49:09.000Z",
-      "simple_summary": "A company let people earn money by renting out their unused computers to help AI companies. But earnings dropped dramatically because AI processing has become much cheaper.",
-      "why_it_matters": "If you were thinking of renting out your computer this way, you'd make very little money now. Most people won't be affected."
-    },
-    {
-      "title": "Big Tech's AI bill comes due, but Michigan automakers see a rebound",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1URVlaSzR4T3lZbFhGeW5Hb3U5SEg1N2xPcXJpMEZSX3g5aUVIUUNlanRQX0lTV2Vudm56cVh2UEZiSFp6V1hXSm5mSGxMZWZBNTcyUmNjRkVYc1hEMkJra2NXVEhHSklEX1JIczlDWERxeGtNeHRDNkc0WmR5bWJKdko2TFVFYjN6Z185WTI2Y3JfaUUwZm1DZFFzRGFVMmtKc01pUHJaWEctcmZYVw?oc=5",
-      "source": "Detroit Free Press",
-      "date": "2026-10-31T12:02:00.000Z",
-      "simple_summary": "Big technology companies are spending a lot of money on AI, but car companies in Michigan are starting to do better in their business.",
-      "why_it_matters": "If you work in or own a Michigan car business, this is good news for your industry."
-    },
-    {
-      "title": "How Much AI Is Too Much AI In Campaign Ads?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXVwcGlZQnFiVHk5R0pKRkRtTEJ1V3JhVzZ5OW9PTzhzMHEySTR5bktLUG16bkZ5TnJVN2F1bUFKSWFpNjl0MU5pV2xJU0x2QTA5X0I4V2ZQOUVta083aVNUQVlWb1pITDdyVW5tNUZZd3FmbTNTZUNZcVFrczlqLXJva0VKMmFoS3VUdWZWRWpKbGdIOVJKb1kzNW1NdWJnY1HSAacBQVVfeXFMTjlxbHE3Zk16N2hIVzA1ZWh0M0o1QVhabG1EUlhKVEc1SzBlY0VXbUx0MG9NVkhQemlyR2pFcE9pMjNvNWlPRmNWMVJBSWJXcGx3TmRsM3hrQ0YxWWJFWWIxNm1IWFEtSGFjSWFib1pYRVZqd0k3U0ZyMEY1VVJKbU9jb0NpNVlQMXhtS2N3S0VITXMzUkt0RVJSQWg2VHlPaGpxMk13alE?oc=5",
-      "source": "HuffPost",
-      "date": "2026-10-31T11:00:17.000Z",
-      "simple_summary": "People are debating whether politicians should use AI to create or change campaign advertisements, and how much is too much.",
-      "why_it_matters": "When you see political ads during an election, some might be made by AI. It's worth thinking about what's real and what's generated by a computer."
-    },
-    {
-      "title": "Investor Says We're Rapidly Approaching the Point At Which Economic Systems Collapse Under the Weight of AI",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSXYxMDlTRkhZSkxVS1B1aW84NGhELWNfRUx3TUJEQmxSSTNKZlU2RmljaU9ZZlg4blEzM3ZLVXp4OVAxZDJzT0d3YmFLNUFiX0NHSVloNTJESkw0Wk1NM2taZDBCVmM5UE5ua01pQUFkS3Y1SkNPU3I3Yzg5TjA?oc=5",
-      "source": "Futurism",
-      "date": "2026-10-31T10:53:00.000Z",
-      "simple_summary": "One investor thinks AI is using so much electricity and money that it could eventually break economic systems. This is a warning about potential future problems.",
-      "why_it_matters": "This is one person's opinion about the future. No concrete changes are happening yet, so there's nothing specific you need to do right now."
+      "simple_summary": "Meta created a small AI device shaped like a cute toy that you can carry around. The author mentions making their own version rather than buying Meta's product.",
+      "why_it_matters": "This is entertainment and product news. You do not need an AI Tamagotchi unless you want one as a fun toy or gift."
     }
   ]
 }
