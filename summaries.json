@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-03T14:21:17.907Z",
+  "generated_at": "2026-11-03T23:26:09.107Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch",
-      "date": "2026-11-03T14:00:00.000Z",
-      "simple_summary": "TechCrunch is selling passes to a business conference in Boston. Prices are going up tomorrow morning.",
-      "why_it_matters": "This only matters if you want to attend a tech industry conference. There's nothing you need to do otherwise."
+      "date": "2026-11-03T22:41:03.000Z",
+      "simple_summary": "Anthropic is building a system called FlashProve that lets you verify an AI response actually came from the AI model it claims to be from, like checking a letter's seal to prove it's genuine.",
+      "why_it_matters": "This helps protect you from fake AI responses or scams pretending to use a trusted AI system, though this matters mainly to people who work with AI regularly."
     },
     {
-      "title": "Artificial Intelligence Resurrections Are Becoming Big Business, But Who Really Benefits From Bringing Back The Dead?",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXNLN1hnZks3X29KdHlXSE9JekdUU3JtenY1cU51VWdFcDJ0Smx3eHlhMmltQVU5WWNjQ2FLUUdfNjhoVVk4RXowdTQtaVlYNjk1cmZaRG81cUJwbktfQlltM0VMdE43em1Qb2VlRlNHMHk0dHlOZlI3c0EzWlp1WVdDN2J0UFU0cVVQSnhDeVM3NDF3Rko3WW4yakVCN24yMzQwVnJPWXFtZ1NuNlpZeEpkTUE2SFJaWFhCU0EyQjkwdzVmajM4RzY5RHJ0X19jTVVUMG5jQmpTR2pjUDVnU3VB?oc=5",
-      "source": "IFLScience",
-      "date": "2026-11-03T11:51:50.000Z",
-      "simple_summary": "Companies are now offering services that use AI to create digital versions of people who have died. The headline asks who actually benefits from this.",
-      "why_it_matters": "This is a new technology that exists, but it's not something most people will encounter in their daily life."
+      "title": "Canva announces first redundancy round in its 13-year history",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3NRbGkxVHRmNEpLTUZiaVFMWllDa2VCMEZIeGtMb0hneU02QnhzLXI1V0o4YnZVY0VyMk5lWlg3SDdoc05fbGNRaXk4WDFQQjBIdUNfNURWR3ViSHFLYnI1M3dqVThYdElna3B6R3JLQTB3RVVnV2s4aGNjeU1qTkQ3YmpIdXhQdFhIU19yYlA1S1M3RU5RTXJuRDBrUDA1dDQzaHJidVYxQlF6cWZzUVFuZw?oc=5",
+      "source": "AFR",
+      "date": "2026-11-03T22:25:00.000Z",
+      "simple_summary": "Canva, a popular design software company, laid off some employees for the first time in its 13 years of operating.",
+      "why_it_matters": "If you use Canva for your business, the company is still running but may be cutting costs like other tech firms have done recently."
     },
     {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "source": "TechCrunch",
-      "date": "2026-11-03T07:20:00.000Z",
-      "simple_summary": "Apple watches will soon have AI features that listen to conversations and remind you what was said. Apple is testing this now before releasing it.",
-      "why_it_matters": "If you own an Apple Watch, you may get a tool to help you remember important details from conversations without taking notes yourself."
+      "date": "2026-11-03T22:19:53.000Z",
+      "simple_summary": "Data centers that power AI need enormous amounts of electricity, and because new power sources take years to arrive, they're now using old airplane engines that are less efficient and worse for the environment.",
+      "why_it_matters": "This shows AI requires massive energy and infrastructure, which affects electricity prices and the environment over time."
     },
     {
-      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVJnZjBKWi04YnlCcDEtMGZvTmIyUTQ2bDFSay1YMVdSa2E0aHdCMV9abmctblEtYnVNR3ZLRnpSTkszTmtNdDdsU3dMN0hVWVR6a1RhbjhISlFmb0dZN2xKLXZyR05QLXlhNV8tSDFxRzQ1aVlGYVd1X0RWbjc1emdLV094SmNRNzJQUnM1ZVM2eldlMms1QmU2V1pXVGNwcEJxSjdlX181ZDlLckdtN1JnZ1J2RnNZMjFYbWN2aG5WR09IdUJ6bjN4VjJHdWc?oc=5",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T21:43:08.000Z",
+      "simple_summary": "An investment firm that funds cybersecurity companies is raising nearly $500 million in new money because AI is making cybersecurity more important.",
+      "why_it_matters": "This mostly matters to investors. It's mostly noise about money moving around the tech industry."
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T21:05:55.000Z",
+      "simple_summary": "Palantir, a tech company, just made more money from private companies than from the U.S. government for the first time ever.",
+      "why_it_matters": "This mostly matters to investors and people who follow stock performance. There's nothing you need to do."
+    },
+    {
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "source": "The Verge",
+      "date": "2026-11-03T21:01:07.000Z",
+      "simple_summary": "Fake photos using AI are circulating online showing bald famous people with full heads of hair, which never actually happened.",
+      "why_it_matters": "This shows how easy it's becoming to create convincing fake images of real people, so be skeptical of images you see online."
+    },
+    {
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-03T20:53:40.000Z",
+      "simple_summary": "Google announced it will stop providing its search tool to schools that do not use or accept artificial intelligence.",
+      "why_it_matters": "If you're involved with a school, this means Google is making AI use a requirement to access their search services."
+    },
+    {
+      "title": "Former Trump Army secretary lands new job at tech company",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeFBVQm1wUmZFMlhDQjhrN1BQUEZHVXAyU1pWMHdYd1V4T3o1WVpsUTFOSE1jSjRXQmJEdlNIV182NFBsTlFrLVB1RDk0akJqcm5yYjgxRWRKTFAtZzlFU09LNzRkYlQwT1h6bUhxdEhZbVJweWV5d3ZWWk40RVlPYy1iQS1scHB5TFd5bXJDbmo2akhLWkR2ZE83ZmlMSHRkRWE1S0lzWWY2a2ZJWGdodW5XRkdiMW9NRS12SzJSZ0tIajlqX2x0V0JMbGRGbjlucmJJRw?oc=5",
+      "source": "Fox Business",
+      "date": "2026-11-03T20:52:00.000Z",
+      "simple_summary": "Someone who previously worked for the U.S. Army in a high position has taken a job at a technology company.",
+      "why_it_matters": "This headline is too vague to say what it means. You'd need more details about the job or company involved."
+    },
+    {
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5",
       "source": "The Guardian",
-      "date": "2026-11-03T06:02:00.000Z",
-      "simple_summary": "A lawyer in Chicago used an AI search tool to find a court case but the AI made up a case that doesn't exist. The lawyer presented this fake case to a court.",
-      "why_it_matters": "This shows AI tools can seem confident while giving you completely false information, so you cannot trust them to do legal research or important work without checking their answers."
+      "date": "2026-11-03T20:31:00.000Z",
+      "simple_summary": "Google says that using its search engine now always involves artificial intelligence, whether you want it to or not.",
+      "why_it_matters": "If you use Google Search, AI is automatically part of how your results are found and shown to you."
     },
     {
-      "title": "America’s AI Ambitions Depend on Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RakI0Ti1SUzdEaU9nUkQ0WVU5YzMwUEV2UXZEYkZCVTl0bjl6eGJmVEM3R21WX0FPRWkyZXZFQXVuWTAwZVhEOWxxTkswRUoySjVYeThEaXZqVFBRMUtkTlczV0FTOHRHdUllaDJLZlNEcWZseE5EX0ZKU3J4UQ?oc=5",
-      "source": "Foreign Affairs",
-      "date": "2026-11-03T05:00:00.000Z",
-      "simple_summary": "The United States needs Taiwan to make advanced computer chips, which are essential for building powerful AI systems.",
-      "why_it_matters": "This mostly matters to investors and government leaders. It doesn't directly affect your daily life right now."
-    },
-    {
-      "title": "Anthropic Claims to Be Near Recursive Self-Improvement",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5",
+      "title": "ChatGPT Claims to Have Achieved 20% of Google’s Search Volume",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFI0VXV0NHh5UWRwZUZhV29wZHQwd1NwdUlaOXZ3dEpEVV9BQnVPQnVpcEtWWkFKX0JkSUZmMXpCMjhkeW4tTnZteEZmUVFlaHhsWmtCWVE0V0hTU0hjWG5jdFpoaW0waDlZSUxIMzR6M1hxdmxkM3pSVmhGTFFxWmlTVDZEa3NtaFc2UlBlaVhZRVE5?oc=5",
       "source": "Gizmodo",
-      "date": "2026-11-03T04:03:24.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, says it is getting close to creating AI that can improve itself without human help.",
-      "why_it_matters": "This matters mainly to AI researchers and investors tracking the industry. There's nothing you need to do."
+      "date": "2026-11-03T20:30:14.000Z",
+      "simple_summary": "ChatGPT reports it's now handling about 20 percent as many searches as Google does, suggesting it's becoming a major alternative to Google Search.",
+      "why_it_matters": "This suggests some people are switching from Google to ChatGPT to find information, though the numbers come from ChatGPT itself so they may not be completely independent."
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T03:30:00.000Z",
-      "simple_summary": "Google has a tool called Dreambeans that uses AI to create personal stories. Google just added the ability to use it in 13 Indian languages.",
-      "why_it_matters": "If you speak an Indian language and want to create personalized AI-written stories, this tool is now available to you."
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge",
+      "date": "2026-11-03T20:16:17.000Z",
+      "simple_summary": "Apple is updating its Siri voice assistant to work with other apps on your phone, letting Siri do tasks across different software programs.",
+      "why_it_matters": "If you use Siri on your iPhone or iPad, you'll be able to ask it to do more things in different apps without switching between them."
     },
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T01:49:52.000Z",
-      "simple_summary": "Apple is looking for ways to make money by working with other companies' AI apps. The company hasn't announced specifics yet.",
-      "why_it_matters": "This mostly matters to investors watching Apple's business strategy. It doesn't affect you unless you're an app developer."
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T00:35:52.000Z",
-      "simple_summary": "A powerful person at a startup company uses AI tools so much that he pays $200,000 per year to use them. He says he loves AI so much he barely sleeps.",
-      "why_it_matters": "This is about one person's expensive hobby with AI tools. Most small business owners don't spend anywhere near this amount."
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T23:13:53.000Z",
-      "simple_summary": "A new company called Trajectory raised $45 million from investors. The company makes AI training easier for people without technical skills.",
-      "why_it_matters": "This mostly matters to investors and people developing AI. There's nothing you need to do unless you're involved in AI development."
-    },
-    {
-      "title": "Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdS1LX2NIT2xSeTRSSk00YUVVOENZMDFvdENwZV90MkN3U1VEcDhkQ0tPX2lyTzQ4YTdIZjd5VlJqWl9yUkM4ZG9tdDVaZ01jWlFXVGVtTkJyZF9QdlpMZWl1MTc4bXNCaGNUcFp1WXRFUHFITWJtS3FubGlLU2R0MFE1c3h3aGl3SVBkaW5hYUktYVZ5cHlRNzFMbExxNUE5cXR5RUh4M0dTU1ozM2VfcEtTYWp2VmVPZjBPajBzUnp3dk5u?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-02T22:37:46.000Z",
-      "simple_summary": "A court ruled that when a law firm uses AI to help with its work, the firm cannot charge lower fees to clients just because AI made the work cheaper.",
-      "why_it_matters": "If you hire a lawyer, this means the law firm's use of AI tools probably won't lower your bill. The savings stay with the firm."
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T22:14:50.000Z",
-      "simple_summary": "Anthropic, an AI company, is warning that AI is getting so advanced that it may soon be able to improve itself automatically and grow extremely powerful very quickly.",
-      "why_it_matters": "This is an important concern for AI researchers and policy makers. Most ordinary people won't notice changes in their day-to-day life yet."
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2ZaWEJmWkg2SkRXRVB0Y3VReEpxb0FWYlFIT3ZoMllPSWRPNjlpcGdrTjdET19TUjdXXzhIdzZpcnFucXB1dUNmZGpmSlBwYXRxR0dZNXRPMk5XeVlKTTUtb2ZaODlJYUh4WlA3NFp5MmswdEhnanFsRF95dlVYNDBJUWxTOWdWSmp6eWxPNE1tNUJXdU1iZVQxaDRpdEVYMG9XdEpQS1U4aFo3aFdXUHduZjlRMlFJelhwMEJLSTZ0cWx0NGFF?oc=5",
+      "source": "Nikkei Asia",
+      "date": "2026-11-03T20:02:00.000Z",
+      "simple_summary": "Major U.S. tech companies have built up over $3 trillion in hidden costs related to AI development and running AI systems, and this debt jumped 90 percent in just six months.",
+      "why_it_matters": "This mostly matters to investors and people studying tech industry finances. It signals that tech companies are spending enormous sums on AI."
     }
   ]
 }
