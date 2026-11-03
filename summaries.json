@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-02T16:14:29.552Z",
+  "generated_at": "2026-11-03T01:01:19.616Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Notre Dame director to lead presentation on AI at Seton Hill University in Greensburg",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHZRQU5nSWJvMlhZc1VqVXZ0TFc5bHRVLUtQVTFCWU9EZlczZWNSSjVPdnVWNWpfbFhSRkJVUEFlZWVfY2pCRi03azlGZk9vOEFKWUhQY1hzM3VON3p5REQ4N3lqczJ1U3UzLXAwUEFwUzZGQnRrMHRYUDFXQ09LeXNUMlpqc3VERTFNRDBkT1pGRHgyRm5vQUhkdnFKdG1zTm41cXRiWXltUFNGSldRMG9FR0Nhckpaa3JFMEpDczA1dFd2?oc=5",
-      "source": "TribLIVE.com",
-      "date": "2026-11-02T15:49:26.000Z",
-      "simple_summary": "A director from Notre Dame will give a talk about artificial intelligence at a university in Pennsylvania. This is an educational event for people to learn more about AI.",
-      "why_it_matters": "This mostly matters if you live nearby and want to attend a lecture. There's nothing you need to do otherwise."
-    },
-    {
-      "title": "Will artificial intelligence make caddies a thing of the past?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVdMdXp4SjZETnhDSzItM3RnRHlDUE01ZHZleXlDdWZQaVNVcEZOUTNxVWZ6aUIxSlppZUwweXU2bjI2TzVLcXB4UzhWZWI2R3BqZ1VXVVhyQTY2cHJnZFhsNVNxN25SQ3M2LWUtY05QNkJQM3ZUOENCSjBYVmpTTTg1LTViRXkzWmUwejBZSkkzOVl2Tnc?oc=5",
-      "source": "Yahoo Sports",
-      "date": "2026-11-02T15:43:14.000Z",
-      "simple_summary": "Some people wonder if AI might replace golf caddies, the people who carry clubs and help golfers during rounds. The headline asks whether this job could disappear.",
-      "why_it_matters": "If you play golf or know caddies, this is worth thinking about. For most people, this doesn't directly affect your daily life yet."
-    },
-    {
-      "title": "Why mandating AI use in the workplace can backfire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc01IeDljYkxEaWZBUHVSTmVQMnJJbmF1OUtJbnhUVUZ0TGI2TEYzZ0lYbTRKTjZYVWg3cGtHVlFHcmo1a1N5UDhHcmk0TmtMNHpvWnNtbk5xd2YxQ1FRU0FYMUNSWGJRUzJvdFJhWmpDelJnNGtQY2JFREdFVmYtYW41U0w4dzJCQnlMc3NaMVo4ay03YnNuY2lkMA?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-11-02T15:32:50.000Z",
-      "simple_summary": "A newspaper article explains that forcing workers to use AI tools can sometimes cause problems instead of helping. Bosses need to introduce new tools carefully.",
-      "why_it_matters": "If you run a small business, this reminds you to involve your employees when adopting AI instead of simply ordering them to use new systems."
-    },
-    {
-      "title": "Tempted to ask AI about your skin? Think again",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWdyVENRZFY3OUpwTmxvQ0tKMjRVcG5hcmM5MFNrcGF2Z05yYms5MmsyeEhONHlDTnBBZUdZSlc2UXM2Q0VnUVloZ3ozd2hpLXRVMmhjWkFwWXc3MjNyUWQtX0dVLXJFTkdIZVROWUNIaVFKLThzdzI5R043NGJ5eW5UZldEbk9sTWdGaW50TTA4VzdJSTlRS285aU1pT2dNVE94WXBYQzhLeldfRHc?oc=5",
-      "source": "USA Today",
-      "date": "2026-11-02T15:10:21.000Z",
-      "simple_summary": "AI chatbots might not give you reliable advice about skin problems or skin health. A newspaper warns that you should talk to a real doctor instead.",
-      "why_it_matters": "If you have a skin concern, ask your doctor or dermatologist rather than asking an AI tool. Don't rely on AI for medical advice."
-    },
-    {
-      "title": "Inside Anthropic’s Urgent Hunt for A.I. Computing Power",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-02T15:08:36.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, is working very hard to get access to more powerful computers to run their AI systems. These computers are expensive and hard to find.",
-      "why_it_matters": "This mostly matters to investors and people who work in AI companies. You don't need to do anything in response."
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch",
-      "date": "2026-11-02T15:00:00.000Z",
-      "simple_summary": "Two small tech companies joined together in a $16 million deal. Both companies were trying to solve problems with water usage in large computer facilities.",
-      "why_it_matters": "This mostly matters to investors and tech companies. Unless you own a large data center, this doesn't affect you."
+      "date": "2026-11-02T23:13:53.000Z",
+      "simple_summary": "A company called Trajectory just raised 45 million dollars to help people who are not computer experts train AI models, which is like teaching AI to do tasks. This is mostly important to investors and tech companies rather than everyday people.",
+      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do right now."
     },
     {
-      "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzVEMzgteFE3WjdEamlMczRCT25YRHlBWFVua3QyaDRiZVlaelUyLVRtbTUxRGJmQ1RwS0xFdERXQ0lTUlVLWUV1TmlrX2F5dzNYYmw2MHFYT1NrQ3FKMjZaQ1JsZnRoSmNEdUtiUUhMODJ6SWtiV1ZydlpEOXBrdVZ2bWQ1Z0hWUEp6eGpiY3pCOUszWGtPZWd6dGt5cE9vOVZzMUVZYVhibVE1?oc=5",
-      "source": "Fierce Biotech",
-      "date": "2026-11-02T14:51:59.000Z",
-      "simple_summary": "A company called Biossil, which is funded by OpenAI, is buying another company's research about breaking down antibiotics. The deal could be worth up to $91 million.",
-      "why_it_matters": "This mostly matters to investors and pharmaceutical companies. This is about very specialized medical research, not something that affects everyday life yet."
-    },
-    {
-      "title": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UDJLTlRLck1UTTdLZE5Mb1M3OWFjekVJTDRUUmxxanRNR1N5UzRlcjZxMDM0Rnh3S2hKTGF1STVmN2s4SFNnODNYd0tGa2NRTmlSYnUtSTRDNmJtcDBUV2ZNV2txci1WUDVTTmxn0gFzQVVfeXFMT28xaUpnSkY1R2JoeTk3bWRVSlZ6bUNKdXNQWTRVMDBIMjJ0bTZiVFpxMW9UQmFoVEpSb0pIMWdjTHhoRkxDVzk5ei1ZbzBDUjRnMnJLNE8xOWVqSmxoVjJURmRpTXJqX24zZmQwNzFIWFg4VQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-02T14:10:42.000Z",
-      "simple_summary": "Marvell, a computer chip company, is buying another company called Lumentum. The deal shows that big tech companies are spending enormous amounts of money on AI-related equipment.",
-      "why_it_matters": "This mostly matters to investors in tech stocks. If you have a 401k with tech company investments, this might indirectly affect you very slightly."
-    },
-    {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "source": "TechCrunch",
-      "date": "2026-11-02T14:00:00.000Z",
-      "simple_summary": "TechCrunch is holding a conference for business founders in Boston on November 4. They are offering discounts on tickets to get people to attend.",
-      "why_it_matters": "This only matters if you're a business founder interested in attending a conference. Most people don't need to pay attention."
+      "date": "2026-11-02T22:14:50.000Z",
+      "simple_summary": "Anthropic, a company that makes AI, is warning that AI might soon be able to teach itself how to get better without much human help. Some people worry this could lead to AI becoming very powerful very quickly in ways we cannot control.",
+      "why_it_matters": "This is mostly important to people who study AI and think about its future. For now, it does not change anything in your daily life or business."
     },
     {
-      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "title": "Palm Beach plane crash footage isn’t AI-generated, despite social media claims",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE9DNjMxVXpDZlY0SHdycXpuQWljc001LS0zOHlNWFpZblNxaHpIWU1zRk9zNDJsZnRRMEYxSkk4Q2pGN2V2LVN4MFI5ajYyVDM2VjJSeWhIV2RxUk1nQmN5YVp3RjFxVXd3dWlmcTV1ZTVMQ3pRanNuRW01X1hEU1VDMkNCQlVwT1JjMUFKQ3lBb28xYTlkbQ?oc=5",
+      "source": "PolitiFact",
+      "date": "2026-11-02T21:14:05.000Z",
+      "simple_summary": "After a plane crash in Palm Beach, some people on social media claimed the video was made by AI. This is not true, according to fact checkers.",
+      "why_it_matters": "This is a good reminder to be careful about claims on social media and check facts before you believe or share them."
+    },
+    {
+      "title": "SEC’s AI Disclosure Scrutiny Meets Growing Unease Over Infrastructure Financing",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTk9YZ1BoVXFMZXMtZFhPd0RmRjNwV2RJSEtJc19zd09fLXhEbFBVMElRaURfaU5lSHFHU1J2d242VGJzaEFPYVh2TzZPMlVfX3NyWUQ4TlR1S0tsUmZZMXVzbmJmQ2Z0d1VLbU9qb1ZTM01iejhzbnNidHljNjhiWlJ6OGhES3RTMk1UX0xKcE5KdWFfV1lEeG1PZVJ5VUZNb0llV2ltR2gtajR6Skp2OWxVbUFmTFZmQmE0aFNyYWhkOEN0UDY4NW05WlZSeFUwc3ZXMEVqM3RKaGtNdVlrYkxtWnhyLVlBSEVPYnBWUzN6VFZv?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-11-02T21:05:22.000Z",
+      "simple_summary": "The government agency that watches over money and investments is looking closely at whether companies are being honest about how they use AI. There are also questions about who pays for the powerful computers that AI needs.",
+      "why_it_matters": "This mostly matters to large companies and investors. There's nothing you need to do."
+    },
+    {
+      "title": "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXFYcmFYMHhOQnVGY0ZNSk1pdTVqQXd5RFZsZFhIMkhMeVlMX0RqbVZBZE5FbmNWbktPM0QzZExrTjNNVUZSMnRDV2tvZENuSW9FSkRHekhFaGI2bTB1cFlTSzgtOTY0RERGTjJacWlCeGtROFRMb3pBRE5iOERWZkR1TEFlTm9iMFo5ajVab01CdDhpczBZZzc0ejFzTHl3c1FoRl91WS1NLWdEbmlxNVY0ZHE4SElvc0NFUTZvRjlSQQ?oc=5",
+      "source": "Fierce Healthcare",
+      "date": "2026-11-02T20:00:00.000Z",
+      "simple_summary": "Zocdoc, a website that helps people find doctors and make appointments, is now letting AI assistants work with their system. They partnered with a company called Instinct to make this happen.",
+      "why_it_matters": "If you use Zocdoc to book doctor appointments, AI might start helping with that process in ways that could make it easier or faster."
+    },
+    {
+      "title": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVgyclEzYW9fSDdrWUljZzJvMXpMU0JkcTRQOXcwWGNGeWNqUWllVGo3RHBhMnJ6cF9HSy1MbEtia0dQamdqdkpFd093d3RoaGxCUW9MVWxNem1CR0E3VVdsMjJxanpsVHoyWElDSzVuQWRDamsyRWNUMHdEdjdYRThvQ1NKdURlTi1HZnV2b2RhNDkxeHpV?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-11-02T19:42:00.000Z",
+      "simple_summary": "A financial advice website picked three AI company stocks that they think might be good investments to buy this month.",
+      "why_it_matters": "This mostly matters to investors and people managing retirement accounts. There's nothing you need to do."
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
       "source": "TechCrunch",
-      "date": "2026-11-02T13:57:53.000Z",
-      "simple_summary": "OpenAI is changing how ChatGPT works by combining its chat section and work section into one. This is a small technical reorganization of how the software is structured.",
-      "why_it_matters": "If you use ChatGPT, this is just a minor change to how the interface looks and works. Nothing major is happening."
+      "date": "2026-11-02T19:25:59.000Z",
+      "simple_summary": "Squarespace, a popular company that helps small businesses build websites, just let go of 19 percent of its workers as part of reorganizing its business. The company did not explain the exact reasons why.",
+      "why_it_matters": "If you use Squarespace to run your website, this could mean changes to the service you receive, but there's no immediate action you need to take."
     },
     {
-      "title": "AI, Taxes and Real Estate Collide in San Francisco’s BART Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFh1MlIwUTZxbDZfc25qelFVX2tMb25QUFJCR3RQQjVmelB2TDl5MmFpMjA3dlg3TnRVUXlIaHJLM0RPOGZza01pQ0RCNl9NYmN5VHowcWJUVlNpSjZDMmdOZnVPaUJDcEZXQ3M3UFdXR29VeXR6aTVvVHlCRUZQNlhQOV9hdHBCanNzZXpjakZBSGdJNmNNNWNJODRYWlZ4ZmFLRV91YWhzRnc2VGxTZVZlb2NOVmJQX2JzZjdDWGM?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-02T13:54:03.000Z",
-      "simple_summary": "A news article connects three big topics: artificial intelligence, taxes, and real estate. It looks at how these things are affecting San Francisco's public transportation system.",
-      "why_it_matters": "Unless you live in San Francisco or own property there, this article is mostly about local issues. It probably won't affect you directly."
+      "title": "WSCC HumanKind series to explore impact of artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1hrTGZ1bWVGSldSeDdkV0V4R0hCY1Z5UXVqOE5kdnNTeUxnc2IyMnJwREJjWHBEUzlMTHVNczZxeUdzQWM5Q2Q2S0lKRFVhRHR3NUk5OXN1Q1JUYnpDNkxzenIzSWFjWFpud0NfbnRsTjBXckdFTVVGR0FPNkNfQlFoWDR6OE9xcS1HaUtveDR1QWpIVmZRZ2hnODJtTnFZT0ZrZlE2VEhlZFYtMGNlUg?oc=5",
+      "source": "MasonCountyPress.com",
+      "date": "2026-11-02T19:21:24.000Z",
+      "simple_summary": "A college series called HumanKind is planning to explore how artificial intelligence is changing society and people's lives.",
+      "why_it_matters": "If you're interested in learning about AI, this educational series might be worth watching to understand what AI does and how it affects communities."
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "source": "TechCrunch",
-      "date": "2026-11-01T21:55:23.000Z",
-      "simple_summary": "OpenAI is thinking about calling their large computer facilities \"AI compute campuses\" instead of \"data centers.\" The company wants to make these facilities sound more appealing to the communities near them.",
-      "why_it_matters": "This doesn't affect you. It's just a name change by one company to help with public relations in their neighborhoods."
+      "date": "2026-11-02T19:19:17.000Z",
+      "simple_summary": "The New York Times and other news outlets are suing a web browser called Brave for taking their news articles and sharing them without permission. Brave gave this content to AI companies like Anthropic.",
+      "why_it_matters": "This is about who owns words and pictures on the internet and whether companies can use them without asking. It's a legal fight between big companies, though it could shape how AI gets trained in the future."
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "date": "2026-11-02T18:56:02.000Z",
+      "simple_summary": "Anthropic made rules for its Claude AI tool so people cannot use it to copy old video games. They want to stop people from making AI versions of games that already exist.",
+      "why_it_matters": "This mostly matters to game developers and programmers. There's nothing you need to do."
+    },
+    {
+      "title": "Johns Hopkins cancer cell mapping technology chosen for Anthropic AI project",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQldCbnFMMG95WWZLYVJ0WUJnTHUtYU84enppOVdjSFllRm50WldNM3NfWl9oYXpkVkc0UEhRaGxqWGpHaGJ1a04xbTBXeTVpZ0pNaWZIbi1kNTVmNVZDX0FsLU5KMEJDVWFDR1gxRjVUVDJWaVVkRDV4SDVzdklLMzZ3?oc=5",
+      "source": "Johns Hopkins University",
+      "date": "2026-11-02T18:55:00.000Z",
+      "simple_summary": "Johns Hopkins University created technology for mapping cancer cells, and now it's being used in a project with Anthropic, an AI company.",
+      "why_it_matters": "This could help doctors and medical researchers understand cancer better by using AI, which might lead to better cancer treatments someday."
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge",
+      "date": "2026-11-02T18:01:30.000Z",
+      "simple_summary": "OpenAI says it will run a program in Georgia where its data centers will give power back to the local area during emergencies or extreme heat. This could power air conditioners in about 700,000 homes when needed.",
+      "why_it_matters": "If you live near where OpenAI builds its computer centers, this program might help keep the local power grid stable during hot weather or emergencies."
     }
   ]
 }
