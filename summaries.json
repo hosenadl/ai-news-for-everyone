@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-03T01:01:19.616Z",
+  "generated_at": "2026-11-03T14:21:17.907Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T14:00:00.000Z",
+      "simple_summary": "TechCrunch is selling passes to a business conference in Boston. Prices are going up tomorrow morning.",
+      "why_it_matters": "This only matters if you want to attend a tech industry conference. There's nothing you need to do otherwise."
+    },
+    {
+      "title": "Artificial Intelligence Resurrections Are Becoming Big Business, But Who Really Benefits From Bringing Back The Dead?",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXNLN1hnZks3X29KdHlXSE9JekdUU3JtenY1cU51VWdFcDJ0Smx3eHlhMmltQVU5WWNjQ2FLUUdfNjhoVVk4RXowdTQtaVlYNjk1cmZaRG81cUJwbktfQlltM0VMdE43em1Qb2VlRlNHMHk0dHlOZlI3c0EzWlp1WVdDN2J0UFU0cVVQSnhDeVM3NDF3Rko3WW4yakVCN24yMzQwVnJPWXFtZ1NuNlpZeEpkTUE2SFJaWFhCU0EyQjkwdzVmajM4RzY5RHJ0X19jTVVUMG5jQmpTR2pjUDVnU3VB?oc=5",
+      "source": "IFLScience",
+      "date": "2026-11-03T11:51:50.000Z",
+      "simple_summary": "Companies are now offering services that use AI to create digital versions of people who have died. The headline asks who actually benefits from this.",
+      "why_it_matters": "This is a new technology that exists, but it's not something most people will encounter in their daily life."
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T07:20:00.000Z",
+      "simple_summary": "Apple watches will soon have AI features that listen to conversations and remind you what was said. Apple is testing this now before releasing it.",
+      "why_it_matters": "If you own an Apple Watch, you may get a tool to help you remember important details from conversations without taking notes yourself."
+    },
+    {
+      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVJnZjBKWi04YnlCcDEtMGZvTmIyUTQ2bDFSay1YMVdSa2E0aHdCMV9abmctblEtYnVNR3ZLRnpSTkszTmtNdDdsU3dMN0hVWVR6a1RhbjhISlFmb0dZN2xKLXZyR05QLXlhNV8tSDFxRzQ1aVlGYVd1X0RWbjc1emdLV094SmNRNzJQUnM1ZVM2eldlMms1QmU2V1pXVGNwcEJxSjdlX181ZDlLckdtN1JnZ1J2RnNZMjFYbWN2aG5WR09IdUJ6bjN4VjJHdWc?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-03T06:02:00.000Z",
+      "simple_summary": "A lawyer in Chicago used an AI search tool to find a court case but the AI made up a case that doesn't exist. The lawyer presented this fake case to a court.",
+      "why_it_matters": "This shows AI tools can seem confident while giving you completely false information, so you cannot trust them to do legal research or important work without checking their answers."
+    },
+    {
+      "title": "America’s AI Ambitions Depend on Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RakI0Ti1SUzdEaU9nUkQ0WVU5YzMwUEV2UXZEYkZCVTl0bjl6eGJmVEM3R21WX0FPRWkyZXZFQXVuWTAwZVhEOWxxTkswRUoySjVYeThEaXZqVFBRMUtkTlczV0FTOHRHdUllaDJLZlNEcWZseE5EX0ZKU3J4UQ?oc=5",
+      "source": "Foreign Affairs",
+      "date": "2026-11-03T05:00:00.000Z",
+      "simple_summary": "The United States needs Taiwan to make advanced computer chips, which are essential for building powerful AI systems.",
+      "why_it_matters": "This mostly matters to investors and government leaders. It doesn't directly affect your daily life right now."
+    },
+    {
+      "title": "Anthropic Claims to Be Near Recursive Self-Improvement",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5",
+      "source": "Gizmodo",
+      "date": "2026-11-03T04:03:24.000Z",
+      "simple_summary": "Anthropic, a company that makes AI, says it is getting close to creating AI that can improve itself without human help.",
+      "why_it_matters": "This matters mainly to AI researchers and investors tracking the industry. There's nothing you need to do."
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T03:30:00.000Z",
+      "simple_summary": "Google has a tool called Dreambeans that uses AI to create personal stories. Google just added the ability to use it in 13 Indian languages.",
+      "why_it_matters": "If you speak an Indian language and want to create personalized AI-written stories, this tool is now available to you."
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T01:49:52.000Z",
+      "simple_summary": "Apple is looking for ways to make money by working with other companies' AI apps. The company hasn't announced specifics yet.",
+      "why_it_matters": "This mostly matters to investors watching Apple's business strategy. It doesn't affect you unless you're an app developer."
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T00:35:52.000Z",
+      "simple_summary": "A powerful person at a startup company uses AI tools so much that he pays $200,000 per year to use them. He says he loves AI so much he barely sleeps.",
+      "why_it_matters": "This is about one person's expensive hobby with AI tools. Most small business owners don't spend anywhere near this amount."
+    },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch",
       "date": "2026-11-02T23:13:53.000Z",
-      "simple_summary": "A company called Trajectory just raised 45 million dollars to help people who are not computer experts train AI models, which is like teaching AI to do tasks. This is mostly important to investors and tech companies rather than everyday people.",
-      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do right now."
+      "simple_summary": "A new company called Trajectory raised $45 million from investors. The company makes AI training easier for people without technical skills.",
+      "why_it_matters": "This mostly matters to investors and people developing AI. There's nothing you need to do unless you're involved in AI development."
+    },
+    {
+      "title": "Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdS1LX2NIT2xSeTRSSk00YUVVOENZMDFvdENwZV90MkN3U1VEcDhkQ0tPX2lyTzQ4YTdIZjd5VlJqWl9yUkM4ZG9tdDVaZ01jWlFXVGVtTkJyZF9QdlpMZWl1MTc4bXNCaGNUcFp1WXRFUHFITWJtS3FubGlLU2R0MFE1c3h3aGl3SVBkaW5hYUktYVZ5cHlRNzFMbExxNUE5cXR5RUh4M0dTU1ozM2VfcEtTYWp2VmVPZjBPajBzUnp3dk5u?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-02T22:37:46.000Z",
+      "simple_summary": "A court ruled that when a law firm uses AI to help with its work, the firm cannot charge lower fees to clients just because AI made the work cheaper.",
+      "why_it_matters": "If you hire a lawyer, this means the law firm's use of AI tools probably won't lower your bill. The savings stay with the firm."
     },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "source": "TechCrunch",
       "date": "2026-11-02T22:14:50.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, is warning that AI might soon be able to teach itself how to get better without much human help. Some people worry this could lead to AI becoming very powerful very quickly in ways we cannot control.",
-      "why_it_matters": "This is mostly important to people who study AI and think about its future. For now, it does not change anything in your daily life or business."
-    },
-    {
-      "title": "Palm Beach plane crash footage isn’t AI-generated, despite social media claims",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE9DNjMxVXpDZlY0SHdycXpuQWljc001LS0zOHlNWFpZblNxaHpIWU1zRk9zNDJsZnRRMEYxSkk4Q2pGN2V2LVN4MFI5ajYyVDM2VjJSeWhIV2RxUk1nQmN5YVp3RjFxVXd3dWlmcTV1ZTVMQ3pRanNuRW01X1hEU1VDMkNCQlVwT1JjMUFKQ3lBb28xYTlkbQ?oc=5",
-      "source": "PolitiFact",
-      "date": "2026-11-02T21:14:05.000Z",
-      "simple_summary": "After a plane crash in Palm Beach, some people on social media claimed the video was made by AI. This is not true, according to fact checkers.",
-      "why_it_matters": "This is a good reminder to be careful about claims on social media and check facts before you believe or share them."
-    },
-    {
-      "title": "SEC’s AI Disclosure Scrutiny Meets Growing Unease Over Infrastructure Financing",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTk9YZ1BoVXFMZXMtZFhPd0RmRjNwV2RJSEtJc19zd09fLXhEbFBVMElRaURfaU5lSHFHU1J2d242VGJzaEFPYVh2TzZPMlVfX3NyWUQ4TlR1S0tsUmZZMXVzbmJmQ2Z0d1VLbU9qb1ZTM01iejhzbnNidHljNjhiWlJ6OGhES3RTMk1UX0xKcE5KdWFfV1lEeG1PZVJ5VUZNb0llV2ltR2gtajR6Skp2OWxVbUFmTFZmQmE0aFNyYWhkOEN0UDY4NW05WlZSeFUwc3ZXMEVqM3RKaGtNdVlrYkxtWnhyLVlBSEVPYnBWUzN6VFZv?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-11-02T21:05:22.000Z",
-      "simple_summary": "The government agency that watches over money and investments is looking closely at whether companies are being honest about how they use AI. There are also questions about who pays for the powerful computers that AI needs.",
-      "why_it_matters": "This mostly matters to large companies and investors. There's nothing you need to do."
-    },
-    {
-      "title": "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXFYcmFYMHhOQnVGY0ZNSk1pdTVqQXd5RFZsZFhIMkhMeVlMX0RqbVZBZE5FbmNWbktPM0QzZExrTjNNVUZSMnRDV2tvZENuSW9FSkRHekhFaGI2bTB1cFlTSzgtOTY0RERGTjJacWlCeGtROFRMb3pBRE5iOERWZkR1TEFlTm9iMFo5ajVab01CdDhpczBZZzc0ejFzTHl3c1FoRl91WS1NLWdEbmlxNVY0ZHE4SElvc0NFUTZvRjlSQQ?oc=5",
-      "source": "Fierce Healthcare",
-      "date": "2026-11-02T20:00:00.000Z",
-      "simple_summary": "Zocdoc, a website that helps people find doctors and make appointments, is now letting AI assistants work with their system. They partnered with a company called Instinct to make this happen.",
-      "why_it_matters": "If you use Zocdoc to book doctor appointments, AI might start helping with that process in ways that could make it easier or faster."
-    },
-    {
-      "title": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVgyclEzYW9fSDdrWUljZzJvMXpMU0JkcTRQOXcwWGNGeWNqUWllVGo3RHBhMnJ6cF9HSy1MbEtia0dQamdqdkpFd093d3RoaGxCUW9MVWxNem1CR0E3VVdsMjJxanpsVHoyWElDSzVuQWRDamsyRWNUMHdEdjdYRThvQ1NKdURlTi1HZnV2b2RhNDkxeHpV?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-11-02T19:42:00.000Z",
-      "simple_summary": "A financial advice website picked three AI company stocks that they think might be good investments to buy this month.",
-      "why_it_matters": "This mostly matters to investors and people managing retirement accounts. There's nothing you need to do."
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T19:25:59.000Z",
-      "simple_summary": "Squarespace, a popular company that helps small businesses build websites, just let go of 19 percent of its workers as part of reorganizing its business. The company did not explain the exact reasons why.",
-      "why_it_matters": "If you use Squarespace to run your website, this could mean changes to the service you receive, but there's no immediate action you need to take."
-    },
-    {
-      "title": "WSCC HumanKind series to explore impact of artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1hrTGZ1bWVGSldSeDdkV0V4R0hCY1Z5UXVqOE5kdnNTeUxnc2IyMnJwREJjWHBEUzlMTHVNczZxeUdzQWM5Q2Q2S0lKRFVhRHR3NUk5OXN1Q1JUYnpDNkxzenIzSWFjWFpud0NfbnRsTjBXckdFTVVGR0FPNkNfQlFoWDR6OE9xcS1HaUtveDR1QWpIVmZRZ2hnODJtTnFZT0ZrZlE2VEhlZFYtMGNlUg?oc=5",
-      "source": "MasonCountyPress.com",
-      "date": "2026-11-02T19:21:24.000Z",
-      "simple_summary": "A college series called HumanKind is planning to explore how artificial intelligence is changing society and people's lives.",
-      "why_it_matters": "If you're interested in learning about AI, this educational series might be worth watching to understand what AI does and how it affects communities."
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T19:19:17.000Z",
-      "simple_summary": "The New York Times and other news outlets are suing a web browser called Brave for taking their news articles and sharing them without permission. Brave gave this content to AI companies like Anthropic.",
-      "why_it_matters": "This is about who owns words and pictures on the internet and whether companies can use them without asking. It's a legal fight between big companies, though it could shape how AI gets trained in the future."
-    },
-    {
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge",
-      "date": "2026-11-02T18:56:02.000Z",
-      "simple_summary": "Anthropic made rules for its Claude AI tool so people cannot use it to copy old video games. They want to stop people from making AI versions of games that already exist.",
-      "why_it_matters": "This mostly matters to game developers and programmers. There's nothing you need to do."
-    },
-    {
-      "title": "Johns Hopkins cancer cell mapping technology chosen for Anthropic AI project",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQldCbnFMMG95WWZLYVJ0WUJnTHUtYU84enppOVdjSFllRm50WldNM3NfWl9oYXpkVkc0UEhRaGxqWGpHaGJ1a04xbTBXeTVpZ0pNaWZIbi1kNTVmNVZDX0FsLU5KMEJDVWFDR1gxRjVUVDJWaVVkRDV4SDVzdklLMzZ3?oc=5",
-      "source": "Johns Hopkins University",
-      "date": "2026-11-02T18:55:00.000Z",
-      "simple_summary": "Johns Hopkins University created technology for mapping cancer cells, and now it's being used in a project with Anthropic, an AI company.",
-      "why_it_matters": "This could help doctors and medical researchers understand cancer better by using AI, which might lead to better cancer treatments someday."
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "source": "The Verge",
-      "date": "2026-11-02T18:01:30.000Z",
-      "simple_summary": "OpenAI says it will run a program in Georgia where its data centers will give power back to the local area during emergencies or extreme heat. This could power air conditioners in about 700,000 homes when needed.",
-      "why_it_matters": "If you live near where OpenAI builds its computer centers, this program might help keep the local power grid stable during hot weather or emergencies."
+      "simple_summary": "Anthropic, an AI company, is warning that AI is getting so advanced that it may soon be able to improve itself automatically and grow extremely powerful very quickly.",
+      "why_it_matters": "This is an important concern for AI researchers and policy makers. Most ordinary people won't notice changes in their day-to-day life yet."
     }
   ]
 }
