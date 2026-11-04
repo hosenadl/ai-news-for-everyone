@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-04T06:30:01.072Z",
+  "generated_at": "2026-11-04T19:48:32.355Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Google will cut off search access for students at schools that reject AI",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3JaTFNENDNRVDRWb2RQRDhMeGNaVzdKbWJ4alZfUHN5Z1drdklzYUEzZDdqYTY2NjdXT09Jb1QwSnF3WWdWcUVPZzJFeTRGZlc2bUFWdHVBQ2lpUDMyVDZTbHhGQVJjV0lNVFF5clRQRjFLSEFmdmdaTHdIZkRLN0U0cEt3b0FGa3NZMFVzVHUyU3A2SE5nYXItbmV1TDhQWllZQWxBWXNZQ2FhR0hYVnZTdnRyd0RUSzlDM2lZZlp1Qy1zN19oY2h6Xzk?oc=5",
-      "source": "WRAL",
-      "date": "2026-11-04T02:17:03.000Z",
-      "simple_summary": "Google is saying it will stop letting students use Google Search if their schools don't accept AI tools. Schools would have to allow AI use to keep search access for their students.",
-      "why_it_matters": "If you have school-age grandchildren, this could affect whether they can use Google at school. For small business owners, this shows how aggressively companies are pushing AI into places where people might not want it."
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "date": "2026-11-04T19:30:04.000Z",
+      "simple_summary": "Free AI tools that anyone can use and modify are becoming popular with businesses and governments because they cost less and give people more control. The question now is how companies make money when these tools are freely available.",
+      "why_it_matters": "If you use AI tools for your small business, understanding that cheaper open options exist might help you save money compared to expensive subscription services."
     },
     {
-      "title": "Google researchers are fighting the company to tell the world what they know about AI",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-11-04T00:42:29.000Z",
-      "simple_summary": "Google researchers want to tell the public things they've learned about AI risks. The company may be stopping them from speaking publicly.",
-      "why_it_matters": "This mostly matters to people interested in AI safety. It doesn't directly change anything you need to do, but it's worth knowing that employees sometimes want to share information their bosses prefer to keep quiet."
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "date": "2026-11-04T19:29:52.000Z",
+      "simple_summary": "DuckDuckGo, a search engine alternative to Google, is trying to get schools to switch by offering search without AI features that Google includes.",
+      "why_it_matters": "This mostly matters to schools and their technology decisions. There's nothing you need to do unless you're involved in education."
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "source": "TechCrunch",
+      "date": "2026-11-04T18:44:57.000Z",
+      "simple_summary": "This article discusses how companies can make money and stay competitive when they build on free AI tools that anyone can use.",
+      "why_it_matters": "This is mainly about business strategy for tech companies. There's nothing you need to do about this."
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
       "source": "The Verge",
-      "date": "2026-11-04T00:42:10.000Z",
-      "simple_summary": "A big website where people share custom additions for games now requires creators to say whether they used AI to help make their mods. This is about being honest and transparent.",
-      "why_it_matters": "If you play PC games or have hobbies online, you'll now know which additions used AI. For small business owners, this shows how accountability for AI is becoming normal."
+      "date": "2026-11-04T18:00:00.000Z",
+      "simple_summary": "A reviewer is testing an Amazon gadget and sharing personal thoughts about whether it's worth keeping.",
+      "why_it_matters": "This doesn't relate to AI in a meaningful way and is just one person's opinion about a product."
     },
     {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "title": "ChatGPT will now make you animated GIFs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
       "source": "The Verge",
-      "date": "2026-11-03T23:37:45.000Z",
-      "simple_summary": "A writer is tired of people asking when AI investment will crash and lose money. Nobody actually knows the answer, including experts.",
-      "why_it_matters": "This mostly matters to investors. If you're not investing in AI companies, there's nothing here you need to worry about."
+      "date": "2026-11-04T18:00:00.000Z",
+      "simple_summary": "ChatGPT, an AI chatbot, can now create short animated video clips called GIFs that you can customize and share.",
+      "why_it_matters": "If you use ChatGPT for work or creative projects, you now have a new tool to make animated images without needing special software."
     },
     {
-      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGk5Z3RYZDNLZmJIN2FraWVkTm9paXBOd0w0c0lTQ2p1Z2lXZjhzR0VnTjJCVk5UU1pGRG5sTElvY3hhYW5Ta19pN1dHNzcwZW9PSDFoLXlBcTBQVFlSbFZYQWxPaXE1WHFVOFZUTHZ0ZTlWLTBpNjE3cnRPWllZYlVDUjRmaVY0QXgzODRxLW1nSmw3VXBLV0EyZENMeDVkU24tR2VwTmZoYmJnOFI3QVp6am9md9IBuwFBVV95cUxNTmsxR1FYWlNubkpfbXhSNmZDcmlhWjBWb3ZETDRnOVd2VWp4bU11Rmg0Rnc4b2hnLUF5WEJtWE0tT0EwdGswZE54ODhRWl9EYWYzLW93S2ZhVDFOTWRXSFg5WWN4TS1IdGJ3YnNMb2JEdDU2cnlkb2JPVl9HcnNJdUNkLU9BaXdFWkxDMkRYNXBqSnBQNGlDd1gwQW5uZzhvLWJsTnZaR3otbEZSVUxjamNUdlhKN0poblR3?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-03T23:37:07.000Z",
-      "simple_summary": "CrowdStrike, a security company, says it has created a way to stop AI agents that misbehave or go out of control. It's like an emergency brake for rogue AI.",
-      "why_it_matters": "This is mostly for tech companies and investors. For ordinary people and small business owners, this doesn't require any action on your part."
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
       "source": "TechCrunch",
-      "date": "2026-11-03T22:41:03.000Z",
-      "simple_summary": "A company called Anthropic is building a system to verify that an AI response actually came from the AI it claims to be from. It's like checking a signature on a letter to make sure it's real.",
-      "why_it_matters": "This mostly matters to tech specialists and investors. As AI becomes more common, having ways to verify it's real AI will matter more, but right now there's nothing you need to do."
+      "date": "2026-11-04T16:51:35.000Z",
+      "simple_summary": "Apple's new Siri feature can now give you summaries of your daily activities on your phone. It works well but some people worry about privacy.",
+      "why_it_matters": "If you own an Apple device, you might find this feature helpful for keeping track of your day, though you can choose not to use it."
     },
     {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
       "source": "TechCrunch",
-      "date": "2026-11-03T22:19:53.000Z",
-      "simple_summary": "Companies building data centers for AI are using old jet engines to power them because there aren't enough new power sources available. Jet engines work but waste energy and harm the environment.",
-      "why_it_matters": "This shows that AI is using so much power that power grids can't keep up. Long-term, everyone's electricity bills could be affected as energy becomes harder to access."
+      "date": "2026-11-04T16:17:22.000Z",
+      "simple_summary": "Google announced a plan that would limit search access for schools that restrict AI. Critics say this is unfair because Google has too much power in search.",
+      "why_it_matters": "This is a dispute between Google and schools about how AI should be taught. If you don't work in education, this won't directly affect you."
     },
     {
-      "title": "Google says there’s no way to use Search without using artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-03T21:47:00.000Z",
-      "simple_summary": "Google says that Search now always uses artificial intelligence in the background. You can't use Search without it anymore, whether you know it's happening or not.",
-      "why_it_matters": "If you use Google Search, AI is already helping find your results. You don't have to do anything, but it's good to know Google's core product now depends on AI."
+      "title": "Data centers lost the midterms",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "source": "The Verge",
+      "date": "2026-11-04T16:05:39.000Z",
+      "simple_summary": "Voters in many states just voted against allowing companies to build huge computer centers needed for AI. This makes it harder for AI companies to expand.",
+      "why_it_matters": "This could slow down how fast AI develops and spreads, which might affect prices and availability of AI tools in the future."
     },
     {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T21:43:08.000Z",
-      "simple_summary": "An investment company that focuses on cybersecurity is trying to raise a large amount of money. They believe AI is making cybersecurity more important and valuable.",
-      "why_it_matters": "This mostly matters to investors. For small business owners, it signals that spending on security to protect against hackers will probably keep increasing."
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "source": "The Verge",
+      "date": "2026-11-04T15:58:45.000Z",
+      "simple_summary": "Uber tested letting AI agents arrange rides and food orders, but only 4 rides and around 500 food orders actually happened. The experiment didn't work well.",
+      "why_it_matters": "AI agents taking over jobs is moving much slower than people feared. This suggests human workers are still needed for services like Uber."
     },
     {
-      "title": "As artificial intelligence advances and the labor market improves, the country will not need to accept so many foreign workers under the Specified Skilled Worker program.",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNGVQS0d1NGMtUGJaU2hYY0NETUR4bGhfcmpOS3h5ci1nMnNiWU45TEY0YnlqZkZvWE0xQWNqSEtXb183UE9YeGdQZWdWZTZNa1dwbmUzUGVpWkRGTmR3Mldnc3pnQVdkZ0EzUlBWNWVtY1dsNHpWeHNjU0E0WWE0ZENINFZqUFZ1djdtcGc3NDBOeUFSclFjdnNEQmxoN3hGQnZTbzhvVGY2c0QyZTNwZmtMQjJOM05FdXdLaDl4UUtzTEZtekVZcUlfRzNHRDBFMUFzQ0hlVUtsSmRzalV2VVFLYm41ZkVLYlZSZGpKbS1aR3l4OVpRdldtS3R5aG8xdG50RmVfUF9CSDFsa3JaUUpIVkxRcVFiTzIwdFhDM0RlNDhDQ3d4X19mbl9uZk9sZXRKUm5uMEV2d3pldXc?oc=5",
-      "source": "Japan Today",
-      "date": "2026-11-03T21:28:37.000Z",
-      "simple_summary": "Japan's government is saying it may not need to bring in as many foreign workers because AI and a stronger job market could fill some of those positions.",
-      "why_it_matters": "This is mainly important if you follow international labor policy. For most people, it doesn't directly affect daily life."
+      "title": "'AI earthquake': Democrats eye a Silicon Valley reckoning",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9BYnlkekhXbVVvWktfYnhhcmpwdEpHV2FMYm00MlZWc2R5WU1zVnFtbTNqSjV6XzJuYlNZVjByeVhQN2loUEdmUlNWenNNbVhXWVkzd01RUF9GTXFaUXZMYVNmSWdHLUFBbmpVdWZkRGh0N1ZjbE0zWnRvMkNUVXoycDlmalJDX19Fa1g2TlZ6QTJKWnZSbg?oc=5",
+      "source": "Politico",
+      "date": "2026-11-04T15:06:00.000Z",
+      "simple_summary": "This headline mentions Democrats looking at holding Silicon Valley accountable but doesn't give enough details about what that means.",
+      "why_it_matters": "Without more information, it's hard to say what this will mean for regular people or small businesses."
     },
     {
-      "title": "AMD forecast eases AI spending fears as data-center sales surge",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-03T21:18:00.000Z",
-      "simple_summary": "The computer chip company AMD sold more products than expected, especially for data centers that run AI. This suggests companies are still spending heavily on AI infrastructure.",
-      "why_it_matters": "For small business owners, this shows that large companies are continuing to invest in AI, which means AI tools will probably keep improving and becoming more available."
+      "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "source": "The Verge",
+      "date": "2026-11-04T14:46:01.000Z",
+      "simple_summary": "The head of OpenAI defended his comments about computer memory by joking that people should buy as much RAM as they want for their computers.",
+      "why_it_matters": "This is a technical joke between tech leaders. There's nothing you need to do about this."
     },
     {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T21:05:55.000Z",
-      "simple_summary": "The company Palantir, which does data analysis work, just made more money from regular businesses than from the government for the first time. This shows the company is growing in the regular business world.",
-      "why_it_matters": "This mostly matters to investors watching the company's growth. For small business owners, it suggests that data analysis tools from big tech companies are becoming more widespread in regular companies."
+      "title": "'Sovereign AI agents' could evade every kill switch and threaten national security, report warns",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYUtfUldrYU9oWDdoZ09UYkFCR3RsQXFnWGFmN0ZPcVBjOHJoaWJDTDNudTByamZWOThwTmpsSmp6RUYxcHF4UXB1ZWxvS2JQem9BSmMtNllUNG5LSWQxTGs4UEYxRTRXRElqUnpZZHN1b3JYN05mZFB2cTNtQlVRUmdtWl92Y1NjUldYbHN0N3pnY3RNQnVCeURBLWhYcm1ESzlaek9vZ1BMc3BweHBSRXg2VUFkWjF0SmpvMEpzZ01MVEJG?oc=5",
+      "source": "Euronews.com",
+      "date": "2026-11-04T14:20:28.000Z",
+      "simple_summary": "A report warns that advanced AI systems that operate independently could escape safety measures and create security problems for countries.",
+      "why_it_matters": "This is a warning for government officials and AI researchers about future risks. Right now it's mostly a concern for experts and policymakers."
     }
   ]
 }
