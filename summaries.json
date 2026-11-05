@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-05T06:53:19.408Z",
+  "generated_at": "2026-11-05T19:59:27.558Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "source": "TechCrunch",
-      "date": "2026-11-05T01:26:22.000Z",
-      "simple_summary": "Apple is spending less money on artificial intelligence tools that help its own engineers do their jobs. This is a decision the company made internally about its own budgets.",
-      "why_it_matters": "This mostly matters to investors and people who work at Apple. There's nothing you need to do as a customer or small business owner."
+      "date": "2026-11-05T19:48:28.000Z",
+      "simple_summary": "Meta has created an animated character powered by AI that can have video calls with you. You can customize how this character looks and acts.",
+      "why_it_matters": "This is mostly interesting to people who like trying new tech toys. Most small business owners won't need this right now."
     },
     {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TechCrunch",
-      "date": "2026-11-05T01:02:14.000Z",
-      "simple_summary": "People from both political parties are starting to oppose large data centers in their communities. Data centers are huge facilities that store information and power AI systems.",
-      "why_it_matters": "If data centers get blocked or restricted in your area, it could slow down how fast internet and AI services work for local businesses and residents."
+      "date": "2026-11-05T19:12:39.000Z",
+      "simple_summary": "Meta is worried that communities don't want giant data centers built near them, which could slow down their plans to build more AI systems.",
+      "why_it_matters": "This mostly matters to investors. It won't directly affect your business or daily life unless you live near a proposed data center."
     },
     {
-      "title": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1k5RGJiaWR6SlNIbnRFal9JaE9qVi1weExBYUNpQ2lkQU1UclBReG9KYnlmR3lEZG53cFN1VDQ3aFVrQUx1NGdQb214OGNsanJtOWRlMms3ZzJ5eXA5bWNzRXFGYnpXaUNfUGpDd2JwY08xb190OEhacTlxcWJvMVJ2NXc2S1NyWFJJclVaVDRQUTEzVXNlSndUaDlsVldsQVhyV3NYdkVwTUpxOWVVMW9kdy1vdGlmLXfSAboBQVVfeXFMUG1TQnliZEdvY3ZzSnpkTnloT08yYWkyVFFUazZFVWVIQ2RhT3Z0bXJiOU5FcGpiTzlhU1BDS3RVQm15VGI1TllKOU1GbVRoeHFHZGgyMklRRWQ4X1VWRDg4eUwxRUgwSlA4UE12T0lMZXNrWDdkY19kMzlaczBHOGc1Nm5jRk03blpCbS1PRDU1VHQ4cGJjUXl1RmlNQS1UbElWQTFreEFtSkRlejlYRG50UWc5QlhzVVl3?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-11-05T01:00:08.000Z",
-      "simple_summary": "A famous mathematician from the United States has moved to China and is now focusing on artificial intelligence work instead of pure mathematics. This is mostly just career news about one person's choice.",
-      "why_it_matters": "This mostly matters to universities and technology researchers. There's nothing you need to do."
-    },
-    {
-      "title": "NEWSLETTER: In midterm ballot measures, voters send a message to AI builders",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNallWOEU2by0wRExyWXN4NUl2MEtUTEFnN2wyRTZyQlc1cnJncGFQb0xWYm5xNnBoSU1maEsyalhsYUdqck5Ca2Qta0dlZHBha0p3R3BuaEtubHoxT1ZhT0hKc3lZRDRsVXN4dDlZR2R3aFhKcEVNMnRreVJSWXhiM1ptRTQyWm9hempneFVZZEVIT0NCeG9uUFJUTmdPdjdlZElzRm9QcHFBa3BUckVPczNGYWhtclpZOHVEUFh1cmgxdmxM?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-04T22:56:46.000Z",
-      "simple_summary": "During recent elections, voters in multiple states sent messages about their concerns regarding AI through ballot measures and voting choices. People were expressing their views on how AI should be handled.",
-      "why_it_matters": "This shows that voters care about AI rules and safety. It could mean new laws about AI are coming to your state or community."
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "TechCrunch",
-      "date": "2026-11-04T22:45:09.000Z",
-      "simple_summary": "Companies in the AI industry spent millions of dollars trying to influence elections through political groups called PACs, with only mixed success in 2026. They are already planning to spend more money on the next election.",
-      "why_it_matters": "This mostly matters to people who follow politics and elections closely. For ordinary people, it means you may see more AI-related political ads in the future."
+      "date": "2026-11-05T19:06:12.000Z",
+      "simple_summary": "OpenAI released a new AI tool designed to help find and fix computer security problems.",
+      "why_it_matters": "This is mostly important for large companies and tech professionals. Small business owners should focus on basic security like strong passwords instead."
     },
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-05T18:02:27.000Z",
+      "simple_summary": "OpenAI's leader says the company might become publicly traded by 2027, meaning regular people could buy stock in it.",
+      "why_it_matters": "This mostly matters to investors interested in tech companies. It doesn't change how AI works or affects your daily life."
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "date": "2026-11-05T18:00:00.000Z",
+      "simple_summary": "Claude, an AI assistant, can now look at your bank accounts and credit cards to answer questions about your spending and money.",
+      "why_it_matters": "If you use Claude and want help tracking where your money goes, this could be helpful. You should only use it if you trust both Claude and the service connecting to your bank."
+    },
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
       "source": "The Verge",
-      "date": "2026-11-04T22:42:15.000Z",
-      "simple_summary": "Qualcomm is a company that makes computer chips. Smartphone sales are dropping, so the company is moving its focus toward building powerful computers that run AI systems for companies like Amazon and Meta.",
-      "why_it_matters": "This mostly matters to investors and tech professionals. It shows AI is becoming a bigger part of how technology companies make money."
+      "date": "2026-11-05T18:00:00.000Z",
+      "simple_summary": "Claude can now connect directly to your bank and card accounts to help you understand your spending habits.",
+      "why_it_matters": "If you're comfortable sharing your banking information with AI, this could help you see spending patterns. Most people should stick with their bank's own money tools for now."
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source": "TechCrunch",
-      "date": "2026-11-04T22:13:16.000Z",
-      "simple_summary": "A phone company called Nothing says it will release a new device next month that uses AI to help you be more productive. The company has not yet explained exactly what this device will do.",
-      "why_it_matters": "If you like trying new phone technology, you might want to watch for this product. Most people will probably wait to see what it actually does before deciding whether to buy it."
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch",
-      "date": "2026-11-04T21:56:01.000Z",
-      "simple_summary": "Uber says almost nobody is using AI assistants to book their rides. During a very busy week, only four people out of millions used this AI booking feature.",
-      "why_it_matters": "This shows that people still prefer booking rides the old way, by tapping buttons themselves. New AI features take time before people trust and use them."
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
       "source": "The Verge",
-      "date": "2026-11-04T21:45:00.000Z",
-      "simple_summary": "This is a critical opinion article suggesting that someone spent a large amount of money in a wasteful way, possibly related to social media or internet activities. The article uses humor and complaints about social media.",
-      "why_it_matters": "This is opinion writing, not news about something that affects you. There's nothing you need to do."
+      "date": "2026-11-05T17:51:52.000Z",
+      "simple_summary": "This headline discusses election results but doesn't explain what it has to do with AI.",
+      "why_it_matters": "You can't tell from this headline how it relates to AI or why it matters. Skip this one."
     },
     {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-05T17:00:11.000Z",
+      "simple_summary": "Parents are suing Google because they're concerned about AI safety problems on school computers called Chromebooks.",
+      "why_it_matters": "If your grandchildren use Chromebooks at school, this reminds us that schools should think carefully about AI tools. You might want to talk with schools about what AI features are active on student devices."
+    },
+    {
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "source": "The Verge",
+      "date": "2026-11-05T17:00:00.000Z",
+      "simple_summary": "A movie made mostly by AI will appear in movie theaters, and pop star Grimes will act in it.",
+      "why_it_matters": "This is mostly entertainment news. AI-made movies are still experimental, and most films you watch won't be created this way anytime soon."
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "The Verge",
+      "date": "2026-11-05T17:00:00.000Z",
+      "simple_summary": "OpenAI released an improved AI tool for cybersecurity that finds computer vulnerabilities more effectively and is less likely to cause unintended damage.",
+      "why_it_matters": "This is technical news for security professionals. Regular people don't need to do anything with this information."
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch",
-      "date": "2026-11-04T21:25:44.000Z",
-      "simple_summary": "OpenAI, a major artificial intelligence company, is working to influence the presidential election in 2028. A leader at the company wants AI to be a central topic in that election and hopes it benefits both the country and OpenAI's business.",
-      "why_it_matters": "This shows that big AI companies are getting involved in politics. It means you should think carefully about AI policies and not just trust what these companies say is best."
+      "date": "2026-11-05T16:16:45.000Z",
+      "simple_summary": "A new AI startup is using AI to check if mathematical proofs are correct, fighting against messy or wrong AI-generated math.",
+      "why_it_matters": "This only matters to mathematicians and researchers. It won't affect your daily life or business."
     },
     {
-      "title": "Arm Holdings Sales Climb 27% on AI Demand",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
-      "source": "WSJ",
-      "date": "2026-11-04T21:20:00.000Z",
-      "simple_summary": "Arm Holdings, a company that designs computer chips, saw its sales go up by 27 percent because of increased demand for AI-related products. This is strong business growth.",
-      "why_it_matters": "This mostly matters to investors and technology professionals. It shows the AI industry is growing quickly and companies are spending money on it."
-    },
-    {
-      "title": "Google Tries to Walk Back Controversial School AI Policy Following Political Backlash",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWtmZGRlNUN2NDd2UzZQNFBpUUY0SHJiS3hsakRvSmR1MzVnajc5WVpmSmVtT0Jja29VMTR6bXdObWVuVkFwV2xmbEoyNTQ5MUNGY180N3NQNGFfUzBGZVdtOWFLMDdOZEgtVjZJeTBXSjhOMFBheFlKUF9vOENVVDV3SW9zVzlQVTFvUmZJaTN6NC1DZ0pocFV5Y3M1YmtvVjNubWJBVTFWN0FmX2JmNFNhOGhzM1E?oc=5",
-      "source": "Gizmodo",
-      "date": "2026-11-04T21:15:17.000Z",
-      "simple_summary": "Google tried to launch a policy about using AI in schools, but people complained about it. Now Google is backing away from that policy because of the complaints.",
-      "why_it_matters": "If you have children or grandchildren in school, you should pay attention to how schools use AI. Parents and communities can push back on policies they don't like."
+      "title": "Google’s AI success is putting its search dominance at risk",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXRaM2g0dlE5cmV2VjI4MkFkRGFNUFpVOS1YUnNvZmYtU3d4Y2luSWVDSmF4b1hMV3V3X0pjNWM0aXRYX0lsdTlYVExpMUsxQ2tjNUJIN3h4blR3WnRyYXVYM3QyUlMxaFpNWk1UNjNzZ0lqQXZOXy0wOUlUd1VxR1BHYVVtYWlBSGFibjJnUmw5eHpDazE2TFJlVE43MDFHZXZOTW12eTV3a3cz?oc=5",
+      "source": "Los Angeles Times",
+      "date": "2026-11-05T16:09:00.000Z",
+      "simple_summary": "Google's success with AI tools could threaten its position as the main search engine people use.",
+      "why_it_matters": "Google's search has competition now, but most people will keep using Google. You don't need to change anything about how you search."
     }
   ]
 }
