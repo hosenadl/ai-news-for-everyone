@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-05T19:59:27.558Z",
+  "generated_at": "2026-11-06T06:53:01.376Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T06:28:32.000Z",
+      "simple_summary": "A big computer security company called Palo Alto Networks is trying to buy a smaller AI security company called Clutch for $500 million.",
+      "why_it_matters": "This mostly matters to investors and people who work in computer security. There's nothing you need to do."
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge",
+      "date": "2026-11-06T00:37:56.000Z",
+      "simple_summary": "OpenAI said it will stop using secret agreements with government officials when building large power-hungry computer facilities. This is because voters recently said they don't want these data centers in their towns.",
+      "why_it_matters": "Communities might have an easier time finding out what AI companies are planning to build near them, but this doesn't directly affect your daily life or business."
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge",
+      "date": "2026-11-06T00:06:12.000Z",
+      "simple_summary": "Airbnb is building an AI helper that will plan vacations for you and book your hotels and flights, coming out sometime in the first half of 2027.",
+      "why_it_matters": "If you travel or run a business that deals with bookings, this AI might save you time searching for trips, though it won't be ready for over a year."
+    },
+    {
+      "title": "Wall Street, AI stocks tumble as voter backlash threatens data center expansion",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWVxRTFWRE9ieFZXWXM2VU9KbEtua1VBSFljaVA5aW5KRFI3VlR2Z2pLSk53M2pUYTUxVkZITUlfS0ZWbk04YWdKYXBUU040alh6U3VZZG5rcTFaQUc0eFQzQklZdC1HNGpHYnRVQ1dTOFR5WlFGRTFURy1veVV5UEZsSVhoTFNfcVFuUjJZVThnc1JHMTVxdDlVbWs3U2hSbnctZVpxdWQ3eXBxNUNEWVpabzNlaUNC?oc=5",
+      "source": "WYFF",
+      "date": "2026-11-05T22:42:30.000Z",
+      "simple_summary": "Stock prices for AI companies and Wall Street investors dropped after elections because people voted against building more data centers in their areas.",
+      "why_it_matters": "This mostly matters to investors. If you own AI company stocks, you might want to pay attention, but regular business and life go on as usual."
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-05T22:40:55.000Z",
+      "simple_summary": "Airbnb confirmed it's creating an AI assistant that will help travelers book trips, compare options, and get help during their stay starting in 2027.",
+      "why_it_matters": "If you travel often or work in travel planning, this AI helper might become useful when it launches next year."
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge",
+      "date": "2026-11-05T22:26:50.000Z",
+      "simple_summary": "A company called Perplexity made AI workers that can do jobs in offices, remember past projects, and work together like a team.",
+      "why_it_matters": "This is mostly relevant to larger businesses and tech companies exploring AI workers. Small business owners don't need to act on this now."
+    },
+    {
+      "title": "Incoming Democratic majorities put AI giants on notice",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalZiZFlvRzJ1TThrcE5tUlhOMGlqUWV0Vm9NS0VDVzR4QmkyR3ZtcGc2NVkxdFF1bVdaSVdKTXlhZ2RsU29oTzNFUTcxMWdtZ1pRRkg1NWxLMUFaMk5yTExCZXIydHh3UHFjcDRZaHd6NGhEVGFpZWswem9MZjJtdUl6NV9tX1YxTzJRMXBydFdLUkxac3RDWXhuYjV1OW5QZkE0SC1sbU16YVpqSFAwejFGU0VONWRuSFp6X0JSWVM5RTNldzY0anAyQ0RwcU1GM3JjOFM3eGNyZlN1NHlGR0h2V1BtOHc?oc=5",
+      "source": "KOMO",
+      "date": "2026-11-05T22:25:16.000Z",
+      "simple_summary": "Democratic politicians say they want to regulate and limit how fast AI companies can expand, following the midterm elections.",
+      "why_it_matters": "AI regulation might move forward slowly over the coming years, which could affect large tech companies more than small businesses."
+    },
+    {
+      "title": "IREN tops quarterly revenue estimates, delays some Microsoft AI infrastructure deliveries",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-05T22:20:06.000Z",
+      "simple_summary": "A company called IREN made more money than expected this quarter, but it's delaying some promised computer systems for Microsoft.",
+      "why_it_matters": "This mostly matters to people who invest in tech companies. There's nothing you need to do."
+    },
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+      "source": "BBC",
+      "date": "2026-11-05T22:13:38.000Z",
+      "simple_summary": "Prices of big tech company stocks fell after the midterm elections because people worry AI development might slow down.",
+      "why_it_matters": "If you have stock in tech companies, prices dropped, but this doesn't affect everyday life or running a small business."
+    },
+    {
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
+      "source": "CNBC",
+      "date": "2026-11-05T20:16:52.000Z",
+      "simple_summary": "Democratic politicians are calling for a pause on building new data centers where AI companies train their systems.",
+      "why_it_matters": "This could affect where and how quickly AI companies build facilities, but it won't change your use of AI tools anytime soon."
+    },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
       "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "source": "TechCrunch",
       "date": "2026-11-05T19:48:28.000Z",
-      "simple_summary": "Meta has created an animated character powered by AI that can have video calls with you. You can customize how this character looks and acts.",
-      "why_it_matters": "This is mostly interesting to people who like trying new tech toys. Most small business owners won't need this right now."
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T19:12:39.000Z",
-      "simple_summary": "Meta is worried that communities don't want giant data centers built near them, which could slow down their plans to build more AI systems.",
-      "why_it_matters": "This mostly matters to investors. It won't directly affect your business or daily life unless you live near a proposed data center."
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T19:06:12.000Z",
-      "simple_summary": "OpenAI released a new AI tool designed to help find and fix computer security problems.",
-      "why_it_matters": "This is mostly important for large companies and tech professionals. Small business owners should focus on basic security like strong passwords instead."
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T18:02:27.000Z",
-      "simple_summary": "OpenAI's leader says the company might become publicly traded by 2027, meaning regular people could buy stock in it.",
-      "why_it_matters": "This mostly matters to investors interested in tech companies. It doesn't change how AI works or affects your daily life."
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T18:00:00.000Z",
-      "simple_summary": "Claude, an AI assistant, can now look at your bank accounts and credit cards to answer questions about your spending and money.",
-      "why_it_matters": "If you use Claude and want help tracking where your money goes, this could be helpful. You should only use it if you trust both Claude and the service connecting to your bank."
-    },
-    {
-      "title": "Claude AI can plug directly into your bank account",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "source": "The Verge",
-      "date": "2026-11-05T18:00:00.000Z",
-      "simple_summary": "Claude can now connect directly to your bank and card accounts to help you understand your spending habits.",
-      "why_it_matters": "If you're comfortable sharing your banking information with AI, this could help you see spending patterns. Most people should stick with their bank's own money tools for now."
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "source": "The Verge",
-      "date": "2026-11-05T17:51:52.000Z",
-      "simple_summary": "This headline discusses election results but doesn't explain what it has to do with AI.",
-      "why_it_matters": "You can't tell from this headline how it relates to AI or why it matters. Skip this one."
+      "simple_summary": "Meta's AI agent can now receive video calls and show up as an animated character on your screen, like a digital person.",
+      "why_it_matters": "This is mostly experimental technology in development. For now it doesn't affect ordinary people unless you're trying out Meta's latest AI features."
     },
     {
       "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5",
       "source": "The New York Times",
-      "date": "2026-11-05T17:00:11.000Z",
-      "simple_summary": "Parents are suing Google because they're concerned about AI safety problems on school computers called Chromebooks.",
-      "why_it_matters": "If your grandchildren use Chromebooks at school, this reminds us that schools should think carefully about AI tools. You might want to talk with schools about what AI features are active on student devices."
-    },
-    {
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "source": "The Verge",
-      "date": "2026-11-05T17:00:00.000Z",
-      "simple_summary": "A movie made mostly by AI will appear in movie theaters, and pop star Grimes will act in it.",
-      "why_it_matters": "This is mostly entertainment news. AI-made movies are still experimental, and most films you watch won't be created this way anytime soon."
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "source": "The Verge",
-      "date": "2026-11-05T17:00:00.000Z",
-      "simple_summary": "OpenAI released an improved AI tool for cybersecurity that finds computer vulnerabilities more effectively and is less likely to cause unintended damage.",
-      "why_it_matters": "This is technical news for security professionals. Regular people don't need to do anything with this information."
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T16:16:45.000Z",
-      "simple_summary": "A new AI startup is using AI to check if mathematical proofs are correct, fighting against messy or wrong AI-generated math.",
-      "why_it_matters": "This only matters to mathematicians and researchers. It won't affect your daily life or business."
-    },
-    {
-      "title": "Google’s AI success is putting its search dominance at risk",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXRaM2g0dlE5cmV2VjI4MkFkRGFNUFpVOS1YUnNvZmYtU3d4Y2luSWVDSmF4b1hMV3V3X0pjNWM0aXRYX0lsdTlYVExpMUsxQ2tjNUJIN3h4blR3WnRyYXVYM3QyUlMxaFpNWk1UNjNzZ0lqQXZOXy0wOUlUd1VxR1BHYVVtYWlBSGFibjJnUmw5eHpDazE2TFJlVE43MDFHZXZOTW12eTV3a3cz?oc=5",
-      "source": "Los Angeles Times",
-      "date": "2026-11-05T16:09:00.000Z",
-      "simple_summary": "Google's success with AI tools could threaten its position as the main search engine people use.",
-      "why_it_matters": "Google's search has competition now, but most people will keep using Google. You don't need to change anything about how you search."
+      "date": "2026-11-05T19:27:58.000Z",
+      "simple_summary": "Parents are suing Google because they say AI features on school Chromebooks (computers used in classrooms) could hurt children.",
+      "why_it_matters": "If your grandchildren use school Chromebooks, this lawsuit might lead to safer AI settings, though the outcome will take time to determine."
     }
   ]
 }
