@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-06T06:53:01.376Z",
+  "generated_at": "2026-11-06T19:27:10.994Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch",
-      "date": "2026-11-06T06:28:32.000Z",
-      "simple_summary": "A big computer security company called Palo Alto Networks is trying to buy a smaller AI security company called Clutch for $500 million.",
-      "why_it_matters": "This mostly matters to investors and people who work in computer security. There's nothing you need to do."
+      "date": "2026-11-06T18:44:38.000Z",
+      "simple_summary": "A tool used by computer security experts to test for weaknesses was accidentally left exposed on the internet. This means hackers could have easily found it and used it to break into computers.",
+      "why_it_matters": "If you run a small business that stores customer information or payments online, weak security tools floating around increases the risk that someone could hack into your systems. You should make sure your IT support person keeps your business's security up to date."
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge",
-      "date": "2026-11-06T00:37:56.000Z",
-      "simple_summary": "OpenAI said it will stop using secret agreements with government officials when building large power-hungry computer facilities. This is because voters recently said they don't want these data centers in their towns.",
-      "why_it_matters": "Communities might have an easier time finding out what AI companies are planning to build near them, but this doesn't directly affect your daily life or business."
-    },
-    {
-      "title": "Airbnb is working on an AI travel agent",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "source": "The Verge",
-      "date": "2026-11-06T00:06:12.000Z",
-      "simple_summary": "Airbnb is building an AI helper that will plan vacations for you and book your hotels and flights, coming out sometime in the first half of 2027.",
-      "why_it_matters": "If you travel or run a business that deals with bookings, this AI might save you time searching for trips, though it won't be ready for over a year."
-    },
-    {
-      "title": "Wall Street, AI stocks tumble as voter backlash threatens data center expansion",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWVxRTFWRE9ieFZXWXM2VU9KbEtua1VBSFljaVA5aW5KRFI3VlR2Z2pLSk53M2pUYTUxVkZITUlfS0ZWbk04YWdKYXBUU040alh6U3VZZG5rcTFaQUc0eFQzQklZdC1HNGpHYnRVQ1dTOFR5WlFGRTFURy1veVV5UEZsSVhoTFNfcVFuUjJZVThnc1JHMTVxdDlVbWs3U2hSbnctZVpxdWQ3eXBxNUNEWVpabzNlaUNC?oc=5",
-      "source": "WYFF",
-      "date": "2026-11-05T22:42:30.000Z",
-      "simple_summary": "Stock prices for AI companies and Wall Street investors dropped after elections because people voted against building more data centers in their areas.",
-      "why_it_matters": "This mostly matters to investors. If you own AI company stocks, you might want to pay attention, but regular business and life go on as usual."
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "source": "TechCrunch",
-      "date": "2026-11-05T22:40:55.000Z",
-      "simple_summary": "Airbnb confirmed it's creating an AI assistant that will help travelers book trips, compare options, and get help during their stay starting in 2027.",
-      "why_it_matters": "If you travel often or work in travel planning, this AI helper might become useful when it launches next year."
+      "date": "2026-11-06T18:44:20.000Z",
+      "simple_summary": "Meta is adding a new feature called Spaces to its AI assistant Muse. This lets the AI create customized mini-apps that work just the way you need them to.",
+      "why_it_matters": "This mostly matters to people already using Meta's AI. There's nothing you need to do unless you use Muse and want to try the new Spaces feature."
     },
     {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "source": "The Verge",
-      "date": "2026-11-05T22:26:50.000Z",
-      "simple_summary": "A company called Perplexity made AI workers that can do jobs in offices, remember past projects, and work together like a team.",
-      "why_it_matters": "This is mostly relevant to larger businesses and tech companies exploring AI workers. Small business owners don't need to act on this now."
+      "date": "2026-11-06T18:10:10.000Z",
+      "simple_summary": "Meta's Muse AI assistant can now build custom mini-apps for you. For example, it could create a shopping hub, a music tracker, or a school dashboard that you interact with right inside the app.",
+      "why_it_matters": "This mostly matters to people already using Meta's AI. There's nothing you need to do unless you want to experiment with this new way of organizing information."
     },
     {
-      "title": "Incoming Democratic majorities put AI giants on notice",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalZiZFlvRzJ1TThrcE5tUlhOMGlqUWV0Vm9NS0VDVzR4QmkyR3ZtcGc2NVkxdFF1bVdaSVdKTXlhZ2RsU29oTzNFUTcxMWdtZ1pRRkg1NWxLMUFaMk5yTExCZXIydHh3UHFjcDRZaHd6NGhEVGFpZWswem9MZjJtdUl6NV9tX1YxTzJRMXBydFdLUkxac3RDWXhuYjV1OW5QZkE0SC1sbU16YVpqSFAwejFGU0VONWRuSFp6X0JSWVM5RTNldzY0anAyQ0RwcU1GM3JjOFM3eGNyZlN1NHlGR0h2V1BtOHc?oc=5",
-      "source": "KOMO",
-      "date": "2026-11-05T22:25:16.000Z",
-      "simple_summary": "Democratic politicians say they want to regulate and limit how fast AI companies can expand, following the midterm elections.",
-      "why_it_matters": "AI regulation might move forward slowly over the coming years, which could affect large tech companies more than small businesses."
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T18:00:00.000Z",
+      "simple_summary": "After recent elections, voters rejected almost all proposals to build new data centers. Data centers are huge warehouses that hold computer servers. This could slow down AI companies' ability to build the infrastructure they need.",
+      "why_it_matters": "This mostly matters to investors and tech executives. It may eventually affect how expensive AI services become, but it won't directly impact you right now."
     },
     {
-      "title": "IREN tops quarterly revenue estimates, delays some Microsoft AI infrastructure deliveries",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T22:20:06.000Z",
-      "simple_summary": "A company called IREN made more money than expected this quarter, but it's delaying some promised computer systems for Microsoft.",
-      "why_it_matters": "This mostly matters to people who invest in tech companies. There's nothing you need to do."
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T17:23:52.000Z",
+      "simple_summary": "Election results suggest that voters rejected proposals to expand data centers. This could make it harder and more expensive for AI companies to grow over the next two years.",
+      "why_it_matters": "This mostly matters to investors and tech companies. There's nothing you need to do, though higher costs for AI companies could eventually mean slower AI improvements or higher prices for AI services you use."
     },
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "source": "The Verge",
+      "date": "2026-11-06T17:00:00.000Z",
+      "simple_summary": "Young people using dating apps are starting to see AI use as a major factor in whether they want to date someone. Some think AI use shows important things about someone's values.",
+      "why_it_matters": "Unless you are dating or advising young people on dating, this won't affect you. It's mostly interesting as a sign of how people now care about AI in their personal decisions."
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge",
+      "date": "2026-11-06T16:38:02.000Z",
+      "simple_summary": "Voters in recent elections voted against big tech companies, particularly rejecting plans to build more data centers. This suggests the coming years will bring tougher rules for technology companies.",
+      "why_it_matters": "This mostly matters to investors and tech executives. You should know that regulations on tech companies may increase, which could eventually affect services you use or their cost."
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge",
+      "date": "2026-11-06T16:34:39.000Z",
+      "simple_summary": "Two music equipment makers, Akai and Moog, decided to let their community of users modify and customize their products. They are sharing the tools people need to do this.",
+      "why_it_matters": "If you are a musician who likes to tinker with equipment and customize it, this is good news. Most people won't be affected by this."
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T15:54:47.000Z",
+      "simple_summary": "Companies are using more AI, but they are not spending more money on it because prices have dropped and they are being smarter about costs. This surprises investors who expected spending to keep rising.",
+      "why_it_matters": "This mostly matters to investors. It shows that AI is becoming cheaper and more efficient, which is good for you if you use AI services, but there is nothing you need to do right now."
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T14:10:00.000Z",
+      "simple_summary": "Amazon is adding a feature that lets you text shopping requests to Alexa instead of speaking out loud. Alexa can now help you buy items by reading your text descriptions or even looking at photos you send.",
+      "why_it_matters": "If you own an Amazon Echo device and like to shop online, this could make it easier to add items to your cart without saying commands out loud. Texting might work better if you are in a quiet household or prefer typing."
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge",
+      "date": "2026-11-06T14:00:00.000Z",
+      "simple_summary": "Amazon's shopping assistant Alexa now accepts text messages instead of only voice commands. You can type a description of what you want to buy, or even send a photo, and Alexa will find matching products.",
+      "why_it_matters": "If you use Amazon frequently and own an Alexa device, this adds a convenient new way to shop. You might prefer texting over voice commands, especially if you live in a noisy home or are in public."
+    },
+    {
+      "title": "Global tech stocks plunge amid AI slowdown fears - live updates",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5",
       "source": "BBC",
-      "date": "2026-11-05T22:13:38.000Z",
-      "simple_summary": "Prices of big tech company stocks fell after the midterm elections because people worry AI development might slow down.",
-      "why_it_matters": "If you have stock in tech companies, prices dropped, but this doesn't affect everyday life or running a small business."
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-05T20:16:52.000Z",
-      "simple_summary": "Democratic politicians are calling for a pause on building new data centers where AI companies train their systems.",
-      "why_it_matters": "This could affect where and how quickly AI companies build facilities, but it won't change your use of AI tools anytime soon."
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "date": "2026-11-05T19:48:28.000Z",
-      "simple_summary": "Meta's AI agent can now receive video calls and show up as an animated character on your screen, like a digital person.",
-      "why_it_matters": "This is mostly experimental technology in development. For now it doesn't affect ordinary people unless you're trying out Meta's latest AI features."
-    },
-    {
-      "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-05T19:27:58.000Z",
-      "simple_summary": "Parents are suing Google because they say AI features on school Chromebooks (computers used in classrooms) could hurt children.",
-      "why_it_matters": "If your grandchildren use school Chromebooks, this lawsuit might lead to safer AI settings, though the outcome will take time to determine."
+      "date": "2026-11-06T13:10:16.000Z",
+      "simple_summary": "Stocks of big technology companies dropped significantly. This happened because investors are worried that AI growth might be slowing down.",
+      "why_it_matters": "If you own tech stocks in a retirement account or investment portfolio, your holdings lost value. If you don't own tech stocks, this doesn't directly affect you, though overall market changes can matter to your savings and investments."
     }
   ]
 }
