@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-08T06:07:39.798Z",
+  "generated_at": "2026-11-08T13:29:49.907Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Plugged in, not locked in: middle powers navigate US-China AI rivalry",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmt4ZE9jZXpldFdLaldHQ2oweEhVb213aFMzWkgwRzBzM3dfNEdrbGtiODdOb3VsWi1adnNuTmdsOFBiYWZyQm9TckJTd2dRNEJpYXZBMmY1NUozcEk5Mm9IRHZEbE92em1GUTE3UW5iVHpROTFaRFlzbGo0Zmh5OEZ5LXFmWFV2NTE4dHNpNEdiNm1jYXhJZEtIRklQX2FuZjF1emdfaWRMVjlRZnBHU09tNVlhUmdqZDQ4?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-11-08T09:09:21.000Z",
+      "simple_summary": "Countries that are not the US or China are trying to figure out how to use AI technology without being forced to pick a side in the conflict between these two superpowers.",
+      "why_it_matters": "This mostly affects government leaders and diplomats. For ordinary people and small business owners, it doesn't change anything you need to do right now."
+    },
+    {
+      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5",
+      "source": "WRAL",
+      "date": "2026-11-08T08:12:35.000Z",
+      "simple_summary": "The US government center that studies AI safety is now reporting directly to the White House, which some people worry means it might not be independent anymore.",
+      "why_it_matters": "This is important mainly for people who follow government policy. It does not affect your daily life or business operations."
+    },
+    {
+      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW1WLUp3ZVE4OWpCZFlzazVycDF6bWFRcVdKUE1kZ0lKdW92WEM2UnRLWUtvbTNhTDJUQ2ZLMEpDODZqbE1LbEdseW9TUHNEUUtfdmdaR0ZqRGhiMjNhOXNPTVhGcmlBcGUwbFl2VUtnM3N4SzRGTmZSaEp0R2tCNVNkNFZKMS1UMkRBUVp6Rm13Q1ZuYkhmcEl3UjVrbG9fX1ZRMFNjUjF0VFVUWmI5dVZ1aWMxSGZSUDl4Z1NtUHBzbEMwYnppWWdmczVGQQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-08T08:02:00.000Z",
+      "simple_summary": "UK government offices are getting flooded with complaints that were written by AI chatbots instead of real people, and it is making their jobs harder.",
+      "why_it_matters": "This matters if you work in customer service. It shows that AI-written messages can create problems when they are not checked carefully by humans first."
+    },
     {
       "title": "Americans are anxious about the AI boom going bust",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
       "source": "The Washington Post",
       "date": "2026-11-08T02:00:00.000Z",
-      "simple_summary": "People are worried that the excitement around AI might fade away and companies will stop spending money on it. This concern is spreading among Americans who watch the tech industry.",
-      "why_it_matters": "If people lose confidence in AI, companies that have invested heavily may slow down their hiring and spending, which could affect the broader economy, though this is mostly economic speculation at this point."
+      "simple_summary": "Many Americans are worried that the big investment boom in AI companies might suddenly stop or fail.",
+      "why_it_matters": "This mostly concerns investors and people with stock portfolios. There is no action a small business owner needs to take based on this worry."
     },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "source": "TechCrunch",
       "date": "2026-11-07T22:07:22.000Z",
-      "simple_summary": "Political elections (the midterms) may create new rules that make it harder for Elon Musk and other tech companies to build the large computer facilities that power AI.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers. New rules might eventually affect which AI tools are available to you, but there is nothing you need to do right now."
+      "simple_summary": "Recent elections may create problems for Elon Musk and companies building large AI data centers.",
+      "why_it_matters": "This mostly matters to investors. There is nothing specific you need to do."
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch",
       "date": "2026-11-07T21:17:08.000Z",
-      "simple_summary": "According to U.S. intelligence, China reportedly tried to recruit someone who works in tech to gather secrets about Nvidia, a major AI chip company.",
-      "why_it_matters": "This is a story about national security and corporate espionage. It does not directly affect ordinary people or small business owners."
+      "simple_summary": "According to US intelligence, China tried to recruit a female technology executive to spy on the leader of a major chip company called Nvidia.",
+      "why_it_matters": "This is mostly a story about international spy concerns. It does not affect your small business or personal life."
     },
     {
       "title": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3Nud2hXOWhzVERQMlp4akVYNHpnUzdsUThQRUJJdVc5WjFJOHJkTGtEeGkyUzRNb0hkQmdUeFFIdmlnSjVRQzJ4bUtGQlZXMVFuMWU3Mi1POWdRNGt6dUNsb2I5WURoaW1ROUZGempNOWRkbnRfOVFGbWN1OXMybkJyVGFVVjRGLTlGVDNnVE9rNGJjblJkSWdDM0NZeno3?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-11-07T17:05:02.000Z",
-      "simple_summary": "The headline claims the AI industry will keep growing for many years and names some companies that might succeed.",
-      "why_it_matters": "This mostly matters to people thinking about investing money in tech stocks. There is nothing you need to do."
+      "simple_summary": "Some financial experts believe AI companies will continue to do well and make money for a long time.",
+      "why_it_matters": "This mostly concerns people investing their money in stocks. There is nothing you need to act on."
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
       "source": "The Verge",
       "date": "2026-11-07T15:50:00.000Z",
-      "simple_summary": "The New York Times added an AI assistant to help cooks plan meals and prepare dinner. One person tried it and found it helpful for chicken dishes but less helpful for baking a cake.",
-      "why_it_matters": "If you subscribe to NYT Cooking and want help deciding what to make for dinner, you could try this AI tool as a free feature."
+      "simple_summary": "The New York Times created an AI helper for cooking that gave one person good advice for chicken dinner but bad advice for a cake.",
+      "why_it_matters": "If you use cooking apps or AI assistants to help plan meals, remember that they sometimes make mistakes. Always use your own judgment about the final result."
     },
     {
       "title": "The US let Nvidia sell chips to an empty office in China",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "source": "The Verge",
       "date": "2026-11-07T15:43:45.000Z",
-      "simple_summary": "The U.S. government approved Nvidia to sell advanced computer chips to a Chinese company, but that company appears to have an empty office with no actual workers there.",
-      "why_it_matters": "This is a story about whether government safety rules are being followed correctly. It does not affect you unless you work in government or international trade."
+      "simple_summary": "The US government let Nvidia sell powerful computer chips to a company in China, but the company appears to be fake or empty with no real employees.",
+      "why_it_matters": "This is mostly important to government officials and international trade experts. It does not affect ordinary business."
     },
     {
       "title": "AI broke the cybersecurity world. What’s next?",
       "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "source": "The Verge",
       "date": "2026-11-07T15:00:00.000Z",
-      "simple_summary": "AI has made computer security much more difficult and confusing because hackers can now use AI to attack systems more effectively.",
-      "why_it_matters": "This is mostly a story for tech professionals. It suggests that the people protecting your data have harder jobs now, though basic security practices still matter."
+      "simple_summary": "Computer security has become much harder and messier now that AI is being used by hackers and by companies trying to defend against them.",
+      "why_it_matters": "If you run a business with computers and customer data, this is a reminder to take cybersecurity seriously and keep your defenses updated."
     },
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
       "source": "The Verge",
       "date": "2026-11-07T12:30:00.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, is using AI to help build even better AI, and their progress is speeding up much faster than before.",
-      "why_it_matters": "This mostly matters to investors and AI researchers concerned about safety. It shows that AI development is advancing quickly, but there is nothing you need to do today."
+      "simple_summary": "A company called Anthropic is using AI to help build even better AI, and it is working so well that improvements are happening twice as fast as they were before. Some safety researchers think this is concerning.",
+      "why_it_matters": "This is mostly relevant to technology investors and AI researchers. For your small business, you do not need to change anything today."
     },
     {
       "title": "Israeli researchers develop AI self teaching method without human-generated data",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5",
       "source": "The Jerusalem Post",
       "date": "2026-11-07T11:50:04.000Z",
-      "simple_summary": "Israeli researchers figured out how to teach AI without needing humans to create training materials first.",
-      "why_it_matters": "This is a technical breakthrough mostly interesting to engineers and researchers. It does not affect you right now."
-    },
-    {
-      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-07T06:07:00.000Z",
-      "simple_summary": "Environmental groups are starting to use AI to help their work, but they are also worried that the huge computer buildings required to run AI use a lot of electricity and harm the environment.",
-      "why_it_matters": "This shows a real problem: AI tools can help protect nature, but they also cause environmental damage. As an everyday person, you might encounter more AI tools that fight pollution, but the environment cost remains a concern."
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "date": "2026-11-07T01:40:28.000Z",
-      "simple_summary": "A company called Crusoe had trouble finishing a large computer facility in Wyoming, so it sold the project to Google instead.",
-      "why_it_matters": "This mostly matters to investors and business analysts. It shows that building the massive computer centers for AI is harder and more expensive than expected."
-    },
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "date": "2026-11-06T23:46:18.000Z",
-      "simple_summary": "OpenAI is now worth 1.25 trillion dollars after raising 11 billion dollars from investors. Another AI company called Anthropic is preparing to sell stock to the public soon.",
-      "why_it_matters": "This mostly matters to investors thinking about buying stock. These are very valuable companies, but nothing here requires action from you unless you are an investor."
+      "simple_summary": "Israeli researchers created a new method that teaches AI to learn and improve on its own without needing humans to prepare training data for it.",
+      "why_it_matters": "This is mainly of interest to AI engineers and researchers. It does not have a direct impact on your business today."
     }
   ]
 }
