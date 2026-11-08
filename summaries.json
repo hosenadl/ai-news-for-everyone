@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-08T13:29:49.907Z",
+  "generated_at": "2026-11-08T22:10:05.091Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Plugged in, not locked in: middle powers navigate US-China AI rivalry",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmt4ZE9jZXpldFdLaldHQ2oweEhVb213aFMzWkgwRzBzM3dfNEdrbGtiODdOb3VsWi1adnNuTmdsOFBiYWZyQm9TckJTd2dRNEJpYXZBMmY1NUozcEk5Mm9IRHZEbE92em1GUTE3UW5iVHpROTFaRFlzbGo0Zmh5OEZ5LXFmWFV2NTE4dHNpNEdiNm1jYXhJZEtIRklQX2FuZjF1emdfaWRMVjlRZnBHU09tNVlhUmdqZDQ4?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-11-08T09:09:21.000Z",
-      "simple_summary": "Countries that are not the US or China are trying to figure out how to use AI technology without being forced to pick a side in the conflict between these two superpowers.",
-      "why_it_matters": "This mostly affects government leaders and diplomats. For ordinary people and small business owners, it doesn't change anything you need to do right now."
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "date": "2026-11-08T17:23:19.000Z",
+      "simple_summary": "Music companies that own Elvis and Eminem songs are suing an AI music company called Suno. They say Suno's program illegally copies their artists' styles to create new songs.",
+      "why_it_matters": "If you're a musician or songwriter, this case will help decide whether AI can freely copy your style. For regular listeners, it may affect what music AI tools can create in the future."
     },
     {
-      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5",
-      "source": "WRAL",
-      "date": "2026-11-08T08:12:35.000Z",
-      "simple_summary": "The US government center that studies AI safety is now reporting directly to the White House, which some people worry means it might not be independent anymore.",
-      "why_it_matters": "This is important mainly for people who follow government policy. It does not affect your daily life or business operations."
-    },
-    {
-      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW1WLUp3ZVE4OWpCZFlzazVycDF6bWFRcVdKUE1kZ0lKdW92WEM2UnRLWUtvbTNhTDJUQ2ZLMEpDODZqbE1LbEdseW9TUHNEUUtfdmdaR0ZqRGhiMjNhOXNPTVhGcmlBcGUwbFl2VUtnM3N4SzRGTmZSaEp0R2tCNVNkNFZKMS1UMkRBUVp6Rm13Q1ZuYkhmcEl3UjVrbG9fX1ZRMFNjUjF0VFVUWmI5dVZ1aWMxSGZSUDl4Z1NtUHBzbEMwYnppWWdmczVGQQ?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-08T08:02:00.000Z",
-      "simple_summary": "UK government offices are getting flooded with complaints that were written by AI chatbots instead of real people, and it is making their jobs harder.",
-      "why_it_matters": "This matters if you work in customer service. It shows that AI-written messages can create problems when they are not checked carefully by humans first."
-    },
-    {
-      "title": "Americans are anxious about the AI boom going bust",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+      "title": "The only town in the U.S. that said yes to data centers",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0xGeGhDLWU0MHpHNUlQZ1o1dGF6dGozR2JwOF9TcjJUX2FPRkI2TzZsUGlDQ2ZWYkp2emg1QmpfZDc0NFVWUEdINXk0QVExNV9pQl9aMU04QjVZYm5lT18yelJlcE9BRFpnV3FOV3ZyaWZKaGgyZXoxXzA0cUFKZDhLTVh4VEw4V19zQ2I5V2ljN3ZESjY3aXpLMWdsRzA?oc=5",
       "source": "The Washington Post",
-      "date": "2026-11-08T02:00:00.000Z",
-      "simple_summary": "Many Americans are worried that the big investment boom in AI companies might suddenly stop or fail.",
-      "why_it_matters": "This mostly concerns investors and people with stock portfolios. There is no action a small business owner needs to take based on this worry."
+      "date": "2026-11-08T16:02:25.000Z",
+      "simple_summary": "One town in America agreed to let data centers be built there. Data centers are huge buildings filled with computers that store and process information for companies.",
+      "why_it_matters": "Honestly, this mostly matters to that town and investors. It won't change much for you unless you live there or pay attention to data center expansion."
+    },
+    {
+      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5",
+      "source": "CNBC",
+      "date": "2026-11-08T14:14:11.000Z",
+      "simple_summary": "New experiments show that AI programs working together inside companies could cause problems. The AI agents might make unexpected or risky decisions without humans catching the mistakes first.",
+      "why_it_matters": "If your business uses AI programs that make decisions on their own, you should stay involved and check what they're doing before problems happen."
+    },
+    {
+      "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5",
+      "source": "Tom's Hardware",
+      "date": "2026-11-08T13:00:00.000Z",
+      "simple_summary": "The US government approved two Chinese companies to buy powerful computer chips from Nvidia. But investigators found these companies have fake offices and hidden connections to the Chinese military.",
+      "why_it_matters": "This mostly matters to US government officials worried about national security. It doesn't directly affect your daily life or small business."
+    },
+    {
+      "title": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeFZMN0dsM2JJT003SV9KSVF6Wk9pNHBFXzJ4T09fbDV3NnlmT3dZVVRTdzJRaXBBdzdaZk4wZ1U5TFZpMUcyNDl1Umpjajk2Q0htRURTV3FhNG4wemtaSXYzN0ZiWHhDRk5Dal9jV2VYUEdJaDZQWUdWdGRqX1lPNzhDT2Jleks1Ny1ycElLYXlmc2kzaU82bmZER1BXNXAwVnVQS1Ywb3c1SHo4aVhkaUI3aFlEeHpYRTVZellKcFhUbkpWM0RMeVJPT0JHbGdGVkFMeQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-08T12:00:00.000Z",
+      "simple_summary": "A cartoonist made a comic strip about how people use AI and the prompts they write to ask AI for help.",
+      "why_it_matters": "If you enjoy comics, you might find this one interesting. Otherwise it's just entertainment and doesn't affect you."
+    },
+    {
+      "title": "Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWRTRTRFXzg3M2F5SW4tTDNQOWFkcEY5aWhtNUNCNjlaM0hnVjlseFZyUDFNcnp1UkdINGRIV0FYNjR6Q0xWZXU5RWFTTVlSa0o1Y3hFenRlbTBja2xCU3QxXzRKand2XzUyN0hBYWNZU0gxcWlKMDczdFFvXzVFTU92anBhMEF3SzFaY29xWkp2OXgzclNybzlzSXBpUWtLOEsyVjhxU2E0M2d0U1pKUXJR?oc=5",
+      "source": "STAT",
+      "date": "2026-11-08T09:34:05.000Z",
+      "simple_summary": "New heart medicine didn't work as well as companies hoped. This shows we should be careful about believing wild promises from companies using AI, because AI's predictions aren't always right.",
+      "why_it_matters": "Before you trust any big health claim or product promise from an AI company, remember that even AI makes mistakes. It's wise to ask questions."
     },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "source": "TechCrunch",
       "date": "2026-11-07T22:07:22.000Z",
-      "simple_summary": "Recent elections may create problems for Elon Musk and companies building large AI data centers.",
-      "why_it_matters": "This mostly matters to investors. There is nothing specific you need to do."
+      "simple_summary": "Election results may cause problems for Elon Musk's plans to build more data centers across the country.",
+      "why_it_matters": "This mostly affects Elon Musk and his business plans. Average people don't need to do anything about this."
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch",
       "date": "2026-11-07T21:17:08.000Z",
-      "simple_summary": "According to US intelligence, China tried to recruit a female technology executive to spy on the leader of a major chip company called Nvidia.",
-      "why_it_matters": "This is mostly a story about international spy concerns. It does not affect your small business or personal life."
+      "simple_summary": "A secret US government memo says China tried to recruit a woman who works in tech to spy on Nvidia's CEO by having an affair with him.",
+      "why_it_matters": "This is mainly about international spying and politics. It doesn't affect your business or daily life."
+    },
+    {
+      "title": "Secret US intelligence memo alleges Nvidia CEO had affair with suspected Chinese spy",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCbFJMM1M4ZjBBdHZ6SUxEcFBpM21qWFJtaTBPbFl0OEprM1JORHJvdURjeEp3ektKQUZJMWxEQ3lrTl9fOXdoREVDbTR4dGVoMmMyajkxVVZwRFBfNU8tUnFrdmJHbkFneFVzTg?oc=5",
+      "source": "ynetnews",
+      "date": "2026-11-07T17:06:39.000Z",
+      "simple_summary": "A secret memo from US intelligence suggests Nvidia's CEO may have had a relationship with a woman suspected of being a Chinese spy.",
+      "why_it_matters": "This is about international espionage and politics. It has nothing to do with your life or small business."
     },
     {
       "title": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3Nud2hXOWhzVERQMlp4akVYNHpnUzdsUThQRUJJdVc5WjFJOHJkTGtEeGkyUzRNb0hkQmdUeFFIdmlnSjVRQzJ4bUtGQlZXMVFuMWU3Mi1POWdRNGt6dUNsb2I5WURoaW1ROUZGempNOWRkbnRfOVFGbWN1OXMybkJyVGFVVjRGLTlGVDNnVE9rNGJjblJkSWdDM0NZeno3?oc=5",
       "source": "Yahoo Finance",
       "date": "2026-11-07T17:05:02.000Z",
-      "simple_summary": "Some financial experts believe AI companies will continue to do well and make money for a long time.",
-      "why_it_matters": "This mostly concerns people investing their money in stocks. There is nothing you need to act on."
+      "simple_summary": "An article says AI companies will keep growing and suggests some companies might make good investments.",
+      "why_it_matters": "This mostly matters to people who buy stocks. The article doesn't say anything new that changes how regular people should use AI."
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
       "source": "The Verge",
       "date": "2026-11-07T15:50:00.000Z",
-      "simple_summary": "The New York Times created an AI helper for cooking that gave one person good advice for chicken dinner but bad advice for a cake.",
-      "why_it_matters": "If you use cooking apps or AI assistants to help plan meals, remember that they sometimes make mistakes. Always use your own judgment about the final result."
+      "simple_summary": "The New York Times created an AI helper that can give you cooking advice. It helped one person fix a chicken dinner but gave bad advice for baking a cake.",
+      "why_it_matters": "If you like cooking and want AI suggestions for meals, this tool might help sometimes. Just remember it can give you wrong advice, so use common sense with recipes that matter to you."
     },
     {
       "title": "The US let Nvidia sell chips to an empty office in China",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "source": "The Verge",
       "date": "2026-11-07T15:43:45.000Z",
-      "simple_summary": "The US government let Nvidia sell powerful computer chips to a company in China, but the company appears to be fake or empty with no real employees.",
-      "why_it_matters": "This is mostly important to government officials and international trade experts. It does not affect ordinary business."
-    },
-    {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "date": "2026-11-07T15:00:00.000Z",
-      "simple_summary": "Computer security has become much harder and messier now that AI is being used by hackers and by companies trying to defend against them.",
-      "why_it_matters": "If you run a business with computers and customer data, this is a reminder to take cybersecurity seriously and keep your defenses updated."
-    },
-    {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "date": "2026-11-07T12:30:00.000Z",
-      "simple_summary": "A company called Anthropic is using AI to help build even better AI, and it is working so well that improvements are happening twice as fast as they were before. Some safety researchers think this is concerning.",
-      "why_it_matters": "This is mostly relevant to technology investors and AI researchers. For your small business, you do not need to change anything today."
-    },
-    {
-      "title": "Israeli researchers develop AI self teaching method without human-generated data",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "2026-11-07T11:50:04.000Z",
-      "simple_summary": "Israeli researchers created a new method that teaches AI to learn and improve on its own without needing humans to prepare training data for it.",
-      "why_it_matters": "This is mainly of interest to AI engineers and researchers. It does not have a direct impact on your business today."
+      "simple_summary": "The US government approved a Chinese company to buy advanced computer chips from Nvidia. But the company's office appears to be empty and fake, which raises questions about whether the government checked things carefully.",
+      "why_it_matters": "This is about government oversight and national security concerns. It doesn't affect what you buy or how you run your small business."
     }
   ]
 }
