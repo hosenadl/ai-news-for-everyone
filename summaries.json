@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-07T21:54:30.533Z",
+  "generated_at": "2026-11-08T06:07:39.798Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Americans are anxious about the AI boom going bust",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-08T02:00:00.000Z",
+      "simple_summary": "People are worried that the excitement around AI might fade away and companies will stop spending money on it. This concern is spreading among Americans who watch the tech industry.",
+      "why_it_matters": "If people lose confidence in AI, companies that have invested heavily may slow down their hiring and spending, which could affect the broader economy, though this is mostly economic speculation at this point."
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-11-07T22:07:22.000Z",
+      "simple_summary": "Political elections (the midterms) may create new rules that make it harder for Elon Musk and other tech companies to build the large computer facilities that power AI.",
+      "why_it_matters": "This mostly matters to investors and tech industry watchers. New rules might eventually affect which AI tools are available to you, but there is nothing you need to do right now."
+    },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch",
       "date": "2026-11-07T21:17:08.000Z",
-      "simple_summary": "According to a US intelligence memo, China allegedly tried to recruit a female technology executive to spy on Nvidia's CEO. This is a story about international espionage and corporate secrets.",
-      "why_it_matters": "This mostly matters to investors and government officials tracking national security issues. There is nothing you need to do about this."
+      "simple_summary": "According to U.S. intelligence, China reportedly tried to recruit someone who works in tech to gather secrets about Nvidia, a major AI chip company.",
+      "why_it_matters": "This is a story about national security and corporate espionage. It does not directly affect ordinary people or small business owners."
     },
     {
-      "title": "Men see more career advancement in jobs with AI, as women lose ground",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNk5OVzNZenhsMVlXMHRod1RNSGlOTklPd1NPZjZiaFpYdGdBMWRWdUJ3c21sNEwwUWpEX21xMEdJQjV1bVhvNm1qXzZaNU5QazRUMGZoNmZCVy1BYkVONm53aUlXVm5jLWpHdjNSSHJiNmY1czZYMXRJZnY4TXVWRDdLSlZKSVBKTjItUWx0NFNOa19EUzg3WF9Zc0NMYkFpc2J6bGhpOEtsUy1pRG5XQW15aWU?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-11-07T18:00:00.000Z",
-      "simple_summary": "A new report shows that men are getting promoted faster than women in jobs that use AI tools. Women are falling behind in these kinds of positions.",
-      "why_it_matters": "If you employ people or have young relatives entering the job market, this is worth paying attention to. It shows a growing fairness problem in workplaces using AI."
+      "title": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3Nud2hXOWhzVERQMlp4akVYNHpnUzdsUThQRUJJdVc5WjFJOHJkTGtEeGkyUzRNb0hkQmdUeFFIdmlnSjVRQzJ4bUtGQlZXMVFuMWU3Mi1POWdRNGt6dUNsb2I5WURoaW1ROUZGempNOWRkbnRfOVFGbWN1OXMybkJyVGFVVjRGLTlGVDNnVE9rNGJjblJkSWdDM0NZeno3?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-11-07T17:05:02.000Z",
+      "simple_summary": "The headline claims the AI industry will keep growing for many years and names some companies that might succeed.",
+      "why_it_matters": "This mostly matters to people thinking about investing money in tech stocks. There is nothing you need to do."
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
       "source": "The Verge",
       "date": "2026-11-07T15:50:00.000Z",
-      "simple_summary": "The New York Times added an AI assistant to help cooks plan meals and adjust recipes. It works well for simple dinners but struggled with a cake recipe.",
-      "why_it_matters": "If you like using recipes online or need help with weeknight cooking ideas, this new tool might save you time. It works best for everyday meals rather than tricky baking."
+      "simple_summary": "The New York Times added an AI assistant to help cooks plan meals and prepare dinner. One person tried it and found it helpful for chicken dishes but less helpful for baking a cake.",
+      "why_it_matters": "If you subscribe to NYT Cooking and want help deciding what to make for dinner, you could try this AI tool as a free feature."
     },
     {
       "title": "The US let Nvidia sell chips to an empty office in China",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "source": "The Verge",
       "date": "2026-11-07T15:43:45.000Z",
-      "simple_summary": "The US government approved a Chinese company to receive powerful AI computer chips from Nvidia, but that company appears to have an empty office with no real workers. This suggests safety checks are not working properly.",
-      "why_it_matters": "This mostly matters to investors and government officials worried about national security. It raises questions about whether companies are following the rules, but ordinary people do not need to take action."
+      "simple_summary": "The U.S. government approved Nvidia to sell advanced computer chips to a Chinese company, but that company appears to have an empty office with no actual workers there.",
+      "why_it_matters": "This is a story about whether government safety rules are being followed correctly. It does not affect you unless you work in government or international trade."
     },
     {
       "title": "AI broke the cybersecurity world. What’s next?",
       "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "source": "The Verge",
       "date": "2026-11-07T15:00:00.000Z",
-      "simple_summary": "Computer security experts say AI has created serious new problems in cybersecurity. They are discussing what comes next to fix these problems.",
-      "why_it_matters": "This matters if you have a business or personal information stored online. It signals that security challenges are growing faster than solutions right now."
-    },
-    {
-      "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggling $2 billion in AI chips",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOHM5bTRmeUdpQ0tPcjRZWWlvSlZLQkFfRS1CWFVsQXRoaVlPVFl4VjhoeDdpUGViYXZiRFAtYUVxMnhzSHVkV1E2eGtXcldZbTgyM2tCSUMxS2xnVnphYWZTZkdPY3NYMkhxVjR5OVdQc2ZVX2doOUkzN0FKaE9GZ0ZCWFNPWmc0dGF1bkdnRTJpeVd1bVZrYU11QVliUnNvOFMzS1V4RUw5WlpmVVpvUmg0LTFzX2twSjFtekdGVldTbjhCUmZzbi1RcVVneVN4dENaSzlxa0VUWkNMSWllOVlwZktWZ0xQa1dpYjFTaGR6UVhvNFNtTWJHSzJSbVpDS3Z0Tk5pMG5OTTZQN0w5cm02TVoySncyN1EwWFlRVThBYzlPbTJVUm1GRWJrbnEwR3lvTmRqaVpwODhwRW5aSGNCSE1pd2hyWGFkc1FZMjM0VXFsRjBRU2hZeFBmX2lDanRF?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-11-07T14:47:37.000Z",
-      "simple_summary": "US intelligence officials believe Nvidia's CEO had a romantic relationship with someone who may have been a Chinese spy. This alleged spy is connected to a company suspected of illegally selling billions of dollars worth of AI chips.",
-      "why_it_matters": "This mostly matters to investors and government officials tracking Nvidia and national security. There is nothing ordinary customers need to do."
-    },
-    {
-      "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-07T12:49:19.000Z",
-      "simple_summary": "Berkshire Hathaway's stock price went up while other stocks on Wall Street went down. This happened because investors are worried about AI taking over the market.",
-      "why_it_matters": "This mostly matters to investors and people with retirement accounts in stocks. If you own Berkshire shares or diverse stock funds, this reflects bigger market shifts worth watching."
+      "simple_summary": "AI has made computer security much more difficult and confusing because hackers can now use AI to attack systems more effectively.",
+      "why_it_matters": "This is mostly a story for tech professionals. It suggests that the people protecting your data have harder jobs now, though basic security practices still matter."
     },
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
       "source": "The Verge",
       "date": "2026-11-07T12:30:00.000Z",
-      "simple_summary": "Anthropic, an AI company, is using AI to help build even more powerful AI. Their models are improving twice as fast as they did a year ago, which worries some AI safety researchers.",
-      "why_it_matters": "This is mostly important to AI researchers and investors. It raises long-term questions about whether AI systems are advancing too quickly to control safely, but there is no immediate action needed."
+      "simple_summary": "Anthropic, a company that makes AI, is using AI to help build even better AI, and their progress is speeding up much faster than before.",
+      "why_it_matters": "This mostly matters to investors and AI researchers concerned about safety. It shows that AI development is advancing quickly, but there is nothing you need to do today."
     },
     {
       "title": "Israeli researchers develop AI self teaching method without human-generated data",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5",
       "source": "The Jerusalem Post",
       "date": "2026-11-07T11:50:04.000Z",
-      "simple_summary": "Israeli researchers created a new way for AI to teach itself and learn without needing human-written examples or data. This is a technical breakthrough in how AI improves itself.",
-      "why_it_matters": "This mostly matters to AI engineers and investors. There is nothing ordinary people need to do about this advance."
+      "simple_summary": "Israeli researchers figured out how to teach AI without needing humans to create training materials first.",
+      "why_it_matters": "This is a technical breakthrough mostly interesting to engineers and researchers. It does not affect you right now."
     },
     {
       "title": "Environmental groups embrace AI, even as they warn of data center impacts",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
       "source": "Reuters",
       "date": "2026-11-07T06:07:00.000Z",
-      "simple_summary": "Environmental groups are using AI tools to help with their work, but they are also warning about the energy and pollution costs of the large computer centers that power AI.",
-      "why_it_matters": "If you care about climate change or the environment, this shows that AI can help solve problems but creates new ones. It is a real trade-off worth thinking about."
+      "simple_summary": "Environmental groups are starting to use AI to help their work, but they are also worried that the huge computer buildings required to run AI use a lot of electricity and harm the environment.",
+      "why_it_matters": "This shows a real problem: AI tools can help protect nature, but they also cause environmental damage. As an everyday person, you might encounter more AI tools that fight pollution, but the environment cost remains a concern."
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch",
       "date": "2026-11-07T01:40:28.000Z",
-      "simple_summary": "Crusoe Energy sold a large AI data center project in Wyoming to Google. The sale shows that building these massive computer facilities is harder and more expensive than expected.",
-      "why_it_matters": "This mostly matters to investors and construction companies. It signals challenges in scaling up AI infrastructure, but ordinary people do not need to respond."
+      "simple_summary": "A company called Crusoe had trouble finishing a large computer facility in Wyoming, so it sold the project to Google instead.",
+      "why_it_matters": "This mostly matters to investors and business analysts. It shows that building the massive computer centers for AI is harder and more expensive than expected."
     },
     {
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "source": "The Verge",
       "date": "2026-11-06T23:46:18.000Z",
-      "simple_summary": "OpenAI is now valued at 1.25 trillion dollars after raising another 11 billion dollars from investors. This makes it one of the world's most valuable companies, alongside Google and Apple.",
-      "why_it_matters": "This mostly matters to investors deciding where to put their money. It shows how much investors believe in AI's future, but it does not directly affect how you use AI tools today."
+      "simple_summary": "OpenAI is now worth 1.25 trillion dollars after raising 11 billion dollars from investors. Another AI company called Anthropic is preparing to sell stock to the public soon.",
+      "why_it_matters": "This mostly matters to investors thinking about buying stock. These are very valuable companies, but nothing here requires action from you unless you are an investor."
     }
   ]
 }
