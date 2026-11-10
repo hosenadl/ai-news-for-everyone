@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-10T07:23:56.962Z",
+  "generated_at": "2026-11-10T19:46:46.694Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Puerto Rico business leaders analyze new rules of competitiveness amidst advancing artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQajVLU0d4UmlJNEg0ZTBFV24xemtfajM5YnpvbnhySWh6cnBkTkZrdTZyei1IWUxmY19oQnFvLTRhWTV2eUFmZHZZVktaOWloaW5oS2tVTEt4empGWnB6c3RGNTdVUmE2SzN3ek9hbGhVQUl5UWctc0t4VS1lZ0pfMDZUTlllaC01TEtRY004MXk1c21Qb3VHWkVFMGxmMUwzTjA3VUV1ZlVtNy1kM0RPSWFHUEJZNjFfYkY4WWtkWGRRNk1SZjhwSHhlNnB3OG5pb3lBclZhcm84c2U3cmpsR0JhUWNVbW5QNm4tV053?oc=5",
-      "source": "El Nuevo Día",
-      "date": "2026-11-10T03:26:08.000Z",
-      "simple_summary": "Business leaders in Puerto Rico are talking about how artificial intelligence is changing what it takes to stay competitive in business.",
-      "why_it_matters": "If you run a small business, you may need to learn how AI tools could help you work faster or serve customers better. This is worth paying attention to."
-    },
-    {
-      "title": "Salinas school district to delete social media accounts over AI privacy concerns",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXk5bWFMb2FYLVJSeU1JZmdNa3dyRHZkVlA2UGJXanlsbG0wby1ObWJQVmZxQ2trYmtwWkl3XzhubjBSWENLLWNpZEF0dTZub3hCcGZhS1JpYmt0OC1TU1JGNEpfcWZnbDFYV3lSTzdpdDV1WGhjMkJZTUJmYWxQUXRYSk14UVZWYUpJR2U1ZGlYTjBNYjNWWg?oc=5",
-      "source": "KSBW",
-      "date": "2026-11-10T03:22:00.000Z",
-      "simple_summary": "A school district in California is deleting its social media accounts because they worry that artificial intelligence might be collecting private information about students.",
-      "why_it_matters": "This shows schools are taking seriously the risk that AI could misuse student data. Parents and teachers should know schools are thinking about this."
-    },
-    {
-      "title": "Qantas just showed you how AI will kill white-collar jobs",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERXS3EtU2hQQVBMemN2Q1l0ZG9iaUhrUkRySk90YzltZlg1eTAyc1I3OWlDUG81cEoyaS05c1VhUHU2WjY3bFF4UEMxOWEtMnpDV0wzWTROaUlISXhEYVg1ZlVkVWQ4NEg5bkFQaXdneXBhSXBBbTFvY0h5dEgtRkRRZjVDS2NiTFkwRUZPVmFDeERJNWVkaEVXZzE3V3k4aE1zam93XzQ?oc=5",
-      "source": "AFR",
-      "date": "2026-11-10T03:22:00.000Z",
-      "simple_summary": "Qantas airline is using AI in ways that could replace some office jobs that people do today.",
-      "why_it_matters": "If you work in an office doing tasks like scheduling or paperwork, you should start learning new skills. AI will handle routine work, so workers need to develop abilities that machines cannot do."
-    },
-    {
-      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-10T02:33:00.000Z",
-      "simple_summary": "Australia is making new rules so that when AI systems go wrong or get hacked, companies must report it to the government.",
-      "why_it_matters": "If you have a business that uses AI tools, you may need to follow new reporting rules in the future if something goes wrong. It's similar to how restaurants must report health problems."
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "source": "TechCrunch",
-      "date": "2026-11-10T01:27:12.000Z",
-      "simple_summary": "Anthropic, a company that makes AI software, is planning to sell shares to the public for the first time and set a price for the company this week.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do, though it shows the AI industry is still growing fast."
+      "date": "2026-11-10T19:23:34.000Z",
+      "simple_summary": "A company called Oura is buying a health care startup called Counsel Health for 625 million dollars. This deal happened after Oura decided not to go public right now due to market conditions.",
+      "why_it_matters": "This mostly matters to investors and people who use Oura's health ring. There is nothing you need to do about it."
     },
     {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "date": "2026-11-10T00:28:49.000Z",
-      "simple_summary": "A Hollywood studio leader thinks artificial intelligence could change movie making as much as special effects did. He believes AI will help filmmakers create new kinds of stories.",
-      "why_it_matters": "If you watch movies or work in entertainment, AI tools may make production faster and cheaper in the coming years. This could mean new types of films you will see."
-    },
-    {
-      "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9BOVl3aFJiZW9yUXNoSVgxWWtPUVdtNTMxcE8wdVRSMEx2TWJiTHdhYjB0eWtRNWcwejByTzhKdHRPX3hBUVVPX2VwY09BYVVkU05ScC1LOFNaNlRVbFJibjNmSHAtaWpxNUpWbjRISHVGczVZUElTTHdfMW5YWXk4MU9fYXE1WWlmaGNhYmE1dlV2VU5ZU2FoeTlEMXpmc3RTVzY2NWF2Zw?oc=5",
-      "source": "PBS",
-      "date": "2026-11-09T23:55:35.000Z",
-      "simple_summary": "The CEO of Nvidia, a major computer chip company, is facing questions about a personal relationship with someone accused of spying for China.",
-      "why_it_matters": "This is mainly a news story about a public figure's scandal and national security concerns. It does not directly affect your life or business."
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "date": "2026-11-09T23:51:58.000Z",
-      "simple_summary": "Nvidia makes the computer chips that power most advanced AI systems around the world. The company is extremely powerful and important to the entire AI industry.",
-      "why_it_matters": "This mostly matters to investors and large companies. Understanding Nvidia's power helps explain why AI technology keeps advancing, but ordinary people do not need to make decisions based on this."
-    },
-    {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "source": "The Verge",
-      "date": "2026-11-09T23:47:46.000Z",
-      "simple_summary": "President Trump answered questions about what he knew regarding the Nvidia CEO's personal scandal involving an alleged Chinese spy.",
-      "why_it_matters": "This is a political and news story. It does not affect how you use AI or run a business."
-    },
-    {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
       "source": "TechCrunch",
-      "date": "2026-11-09T23:28:37.000Z",
-      "simple_summary": "Nvidia's CEO hired a public relations firm a year ago that specializes in handling embarrassing situations for famous people. This was shortly before news broke about his personal life.",
-      "why_it_matters": "This is part of a scandal involving a company leader. It does not affect how AI works or how you should use it."
+      "date": "2026-11-10T19:03:52.000Z",
+      "simple_summary": "A company called PSI used AI to help solve a difficult question about quantum computers that scientists have been stuck on for almost 20 years. They used a powerful AI model from a company called Anthropic to do this.",
+      "why_it_matters": "This mostly matters to scientists and tech companies. For now, it does not affect ordinary people or small businesses."
     },
     {
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUh5TFdGSHdZMldSRkxUUjRNYjFRV3ZVdURtUkEwSG9mSHVhdlhES2ZObmtJVzFLRUhNbm4xdkl6YmZHV2d1VUNHNE9Md2ZKVlowUU5yOU8wa1AyMGNtdWNlX2NIUXpsOUJVa3pJNjRKa2MxWGdrTW9jYVNqLVM5cmpCblZSVzkwTVR5YzJ2TER0c3VpZ3AyZw?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-09T23:27:05.000Z",
-      "simple_summary": "The U.S. Commerce Department stopped investigating a company called Megaspeed after Nvidia got involved.",
-      "why_it_matters": "This is mostly relevant to people tracking government investigations and corporate power. It does not affect your daily life or small business operations."
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T18:49:52.000Z",
+      "simple_summary": "OpenAI is adding new features to ChatGPT to help businesses show up when people search for things. ChatGPT is starting to work more like Google, letting businesses list themselves so people can find them.",
+      "why_it_matters": "Small business owners might eventually benefit if ChatGPT becomes a good way for customers to discover their business, similar to how Google search works today."
     },
     {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "source": "The Verge",
-      "date": "2026-11-09T23:07:59.000Z",
-      "simple_summary": "The Nvidia CEO has admitted to a personal relationship with a Megaspeed executive. Reports say U.S. intelligence believes that executive may have connections to foreign intelligence.",
-      "why_it_matters": "This is a serious news story about national security and corporate leadership, but it does not change how ordinary people or small businesses use AI tools."
+      "date": "2026-11-10T17:32:47.000Z",
+      "simple_summary": "Independent game makers are arguing about using AI to help make video games. Some people who judge games say they will not vote for games that use AI at all, but one popular game called Big Walk says it used AI only a little bit at the end to help finish development.",
+      "why_it_matters": "This is mostly important to video game makers and the gaming community. Regular people who play games will not be directly affected."
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T17:30:00.000Z",
+      "simple_summary": "Anthropic released a new tool called Claude Meetings that listens to your work conversations and automatically writes down plans, creates timelines, and answers questions during the meeting. It can also look up information from your other work apps.",
+      "why_it_matters": "If you run a business or work in an office, this tool could save time by turning your spoken discussion into written plans and action items automatically."
+    },
+    {
+      "title": "Anthropic has its own AI-powered office suite now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "source": "The Verge",
+      "date": "2026-11-10T17:30:00.000Z",
+      "simple_summary": "Anthropic, a company that makes AI, is expanding its products beyond coding and enterprise tools. They are building more AI tools that work together like an office suite, similar to what Microsoft Office or Google Workspace does.",
+      "why_it_matters": "This is mostly important to businesses and tech investors right now. As these tools develop, small businesses might eventually use them to replace some of their current office software."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T17:04:19.000Z",
+      "simple_summary": "The CEO of Nvidia had an affair with someone who is being investigated as a possible Chinese spy. This story is raising concerns about national security and the race between countries to build the best AI computers.",
+      "why_it_matters": "This is a news story about a public figure. For most people and businesses, there is nothing you need to do about it."
+    },
+    {
+      "title": "IBM and Microsoft Launch AI Agent Platform",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVE2Q3B0dFJkLUtMcGFOc3VjZGRXcldQZUJNWlJjd3RQOGl1Zmd3QWhQd2lwLUdwR3dyVmlOSGNPNnRhbWlPZy1jV2pPeVBtdGc3cUE2U1hIb1hQRnBYaTJVMkF5cDRFR2pDdkdzLUI1NUJLeFR3M1dvQWlzdlVtLU5XRWdrRkRWREY0dlNXOWhicWMzSVZjeDU5bjIwNjhEcGc?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-11-10T16:48:04.000Z",
+      "simple_summary": "IBM and Microsoft announced that they are working together to launch a platform for AI agents. However, there is not enough detail in this headline to explain what this platform does.",
+      "why_it_matters": "This is mostly important to large corporations and technology investors. There is not enough information to say what it means for small businesses."
+    },
+    {
+      "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-10T16:36:13.000Z",
+      "simple_summary": "The Nvidia CEO's affair with an alleged Chinese spy is raising concerns about potential problems for the U.S. economy and national security. The article suggests this could have serious ramifications as countries compete in AI technology.",
+      "why_it_matters": "This is a geopolitical and economics news story. For ordinary people and small business owners, there is nothing specific you need to do right now."
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge",
+      "date": "2026-11-10T16:20:30.000Z",
+      "simple_summary": "eBay has blocked AI agents from using its website to shop for items. This means tools like Meta's Muse cannot automatically browse eBay and create shopping lists for people anymore.",
+      "why_it_matters": "If you were using an AI agent to automatically shop on eBay, that tool no longer works there. For most small business owners and ordinary people, this does not affect you."
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge",
+      "date": "2026-11-10T16:00:00.000Z",
+      "simple_summary": "Google released a new AI model called Gemini 4 Carbon that is designed to be very powerful and can coordinate multiple AI agents working together like a group. Google says it is their strongest model yet.",
+      "why_it_matters": "This is mainly important to tech companies and people building advanced AI systems. For small businesses and everyday people, there is nothing you need to do right now."
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T15:54:08.000Z",
+      "simple_summary": "Google made two new computer chips designed to help run AI models better. One chip helps with private AI training and another gives AI systems more memory to work with.",
+      "why_it_matters": "This mostly matters to tech companies and investors. There is nothing you need to do about it."
     }
   ]
 }
