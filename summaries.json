@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-10T19:46:46.694Z",
+  "generated_at": "2026-11-11T06:30:41.174Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Nvidia’s spy scandal threatens America’s AI edge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5",
+      "source": "Politico",
+      "date": "2026-11-10T23:14:00.000Z",
+      "simple_summary": "Someone may have stolen important secrets from Nvidia, a company that makes computer chips needed for AI. This could affect America's position as a world leader in AI technology.",
+      "why_it_matters": "This is mainly important to government officials and investors thinking about national security. For regular people and small businesses, you should not do anything right now."
+    },
+    {
+      "title": "Company says engineer stole secrets, asked AI how to get away with it",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlJDb2pGcm9lYUxla19fekhhTzhnUWRIYThMRm4teTlwMURuU2RKa3B2a1JycmN1cXA2WVBfS3J3Yy11YU5KNUlqZGdUNXAteDRuUXRjZDFpbmJFcUxkR0ZUWFVOdDJVWGxNYnVCbjUtektwRURXZjZLd3NvNlFVdk1TUEs2RVVuUUlubmxONzlaMGoyOUVVdkktdFI3Vjh4V1puandFMTJNZ1F2SndDMW9IczhGUlhUMEFkRUlB?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T22:55:44.000Z",
+      "simple_summary": "A company says one of its engineers took secret information and then asked an AI chatbot how to hide what they did. The AI chatbot answered the question.",
+      "why_it_matters": "This shows how AI tools can be misused by people trying to do something wrong, but this mostly affects big companies dealing with secrets. It does not change how you should use AI."
+    },
+    {
+      "title": "AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGJYNGxxVW91eG8xNXlCVUJPZjUxa0Zoc0xrcW9fU2VPYkxmUGs2TFVYY1M1WGR1QVdkTklua2FVcERGTExkVjhqRVFXUzF2bDB0LUtaOGFpaUViVkFsUGFhbExJM2sxazNWY1pOb0w5aVFZUkFGWXU3OExvQTdONUVWdnlpT1NwT1doUW9hQXFtR3VhTUhrMDJ5dzVmTFM0NnI3bFF5a0JYWUhkYmV5WmU3UER4VjNUOWNUZkhTOWFXdEVH?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-10T22:14:02.000Z",
+      "simple_summary": "This article briefly mentioned AI safety alongside news about Australian banks and business hiring. The headline is too vague to explain what specifically happened.",
+      "why_it_matters": "Without more details, it is hard to say if this affects you. Check the full article if you want to know more."
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T21:08:52.000Z",
+      "simple_summary": "OpenAI, a company that makes ChatGPT, bought a travel startup. They have not said yet what they plan to do with it.",
+      "why_it_matters": "This is mostly important to investors and people working in the travel industry. There is nothing you need to do."
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T20:52:13.000Z",
+      "simple_summary": "New York State passed a new law requiring big AI companies to show how they keep their systems safe and report serious problems. Companies that don't follow the rules will pay fines.",
+      "why_it_matters": "This means AI companies will have to be more careful and open about how they work. Over time, this could make AI tools safer for everyone to use."
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T19:57:52.000Z",
+      "simple_summary": "The seven leaders who started the company Anthropic are planning to sell shares in their company and each will make about 250 million dollars. They will still control the company after the sale.",
+      "why_it_matters": "This is important to investors and people who work at the company. For ordinary people and small business owners, this does not affect you."
+    },
     {
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "source": "TechCrunch",
       "date": "2026-11-10T19:23:34.000Z",
-      "simple_summary": "A company called Oura is buying a health care startup called Counsel Health for 625 million dollars. This deal happened after Oura decided not to go public right now due to market conditions.",
-      "why_it_matters": "This mostly matters to investors and people who use Oura's health ring. There is nothing you need to do about it."
+      "simple_summary": "A health and fitness company is buying a startup that uses AI to provide medical care. This deal costs 625 million dollars.",
+      "why_it_matters": "This shows AI is moving into healthcare, which could eventually make some medical services more available or cheaper, but changes will take time."
+    },
+    {
+      "title": "North Smithfield man accused of creating AI-generated child sexual abuse material",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQZFNJVTVfVkQ0RUNfaFlIQVZzZFRjVlE3SDZnTnFLeXYweGFsM0tMZUlBZzJSTXhQdldZUjNVUXdLV0ZZWmR2bVg3dUgzRkRyTG43OWdmbTJ6QjNLSXlteDRfeHFhVE1GTnpBMjhtSkxDMDh6YVVuTlBXOE1LNmdsLVFmTktSSkY3N2hmNXlqdzFHOEtXT1lvbjBLNzI1WWQtbVdDTnBwM3RDN3ZUcVJCR1RudFR6LTNaTTBxZkw0Q2hna0lRN2lic2lqMjhsT1hWNGxYdXFQQ1d1ZE5rVUVUVGVieXRsQlZyb0Z2S0JFTUhWV21hMXExRzg0Um1oYWdpclBsRWZYUENsQ0E3LURaRVRhRGQ5TG5fNU5SeUZ3?oc=5",
+      "source": "WJAR",
+      "date": "2026-11-10T19:19:24.000Z",
+      "simple_summary": "A person has been accused of using AI tools to create illegal images involving children. Police arrested them.",
+      "why_it_matters": "This is a serious crime. It shows how AI can be misused to harm children, which is why laws against this are needed."
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "date": "2026-11-10T19:04:05.000Z",
+      "simple_summary": "Jensen Huang runs Nvidia, the company that makes chips America needs to stay ahead in AI. Other countries may try to steal his company's secrets.",
+      "why_it_matters": "This is mainly a concern for government officials and investors. For you, it might eventually affect how available or expensive AI tools become."
     },
     {
       "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
       "source": "TechCrunch",
       "date": "2026-11-10T19:03:52.000Z",
-      "simple_summary": "A company called PSI used AI to help solve a difficult question about quantum computers that scientists have been stuck on for almost 20 years. They used a powerful AI model from a company called Anthropic to do this.",
-      "why_it_matters": "This mostly matters to scientists and tech companies. For now, it does not affect ordinary people or small businesses."
+      "simple_summary": "A company used a new AI model from Anthropic to help answer a difficult science question that scientists had been trying to solve for almost twenty years.",
+      "why_it_matters": "This shows AI can help solve hard science problems faster, but this is mainly important to scientists and researchers. It does not affect your daily life right now."
     },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
       "source": "TechCrunch",
       "date": "2026-11-10T18:49:52.000Z",
-      "simple_summary": "OpenAI is adding new features to ChatGPT to help businesses show up when people search for things. ChatGPT is starting to work more like Google, letting businesses list themselves so people can find them.",
-      "why_it_matters": "Small business owners might eventually benefit if ChatGPT becomes a good way for customers to discover their business, similar to how Google search works today."
-    },
-    {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "source": "The Verge",
-      "date": "2026-11-10T17:32:47.000Z",
-      "simple_summary": "Independent game makers are arguing about using AI to help make video games. Some people who judge games say they will not vote for games that use AI at all, but one popular game called Big Walk says it used AI only a little bit at the end to help finish development.",
-      "why_it_matters": "This is mostly important to video game makers and the gaming community. Regular people who play games will not be directly affected."
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "date": "2026-11-10T17:30:00.000Z",
-      "simple_summary": "Anthropic released a new tool called Claude Meetings that listens to your work conversations and automatically writes down plans, creates timelines, and answers questions during the meeting. It can also look up information from your other work apps.",
-      "why_it_matters": "If you run a business or work in an office, this tool could save time by turning your spoken discussion into written plans and action items automatically."
-    },
-    {
-      "title": "Anthropic has its own AI-powered office suite now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "source": "The Verge",
-      "date": "2026-11-10T17:30:00.000Z",
-      "simple_summary": "Anthropic, a company that makes AI, is expanding its products beyond coding and enterprise tools. They are building more AI tools that work together like an office suite, similar to what Microsoft Office or Google Workspace does.",
-      "why_it_matters": "This is mostly important to businesses and tech investors right now. As these tools develop, small businesses might eventually use them to replace some of their current office software."
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "date": "2026-11-10T17:04:19.000Z",
-      "simple_summary": "The CEO of Nvidia had an affair with someone who is being investigated as a possible Chinese spy. This story is raising concerns about national security and the race between countries to build the best AI computers.",
-      "why_it_matters": "This is a news story about a public figure. For most people and businesses, there is nothing you need to do about it."
-    },
-    {
-      "title": "IBM and Microsoft Launch AI Agent Platform",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVE2Q3B0dFJkLUtMcGFOc3VjZGRXcldQZUJNWlJjd3RQOGl1Zmd3QWhQd2lwLUdwR3dyVmlOSGNPNnRhbWlPZy1jV2pPeVBtdGc3cUE2U1hIb1hQRnBYaTJVMkF5cDRFR2pDdkdzLUI1NUJLeFR3M1dvQWlzdlVtLU5XRWdrRkRWREY0dlNXOWhicWMzSVZjeDU5bjIwNjhEcGc?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-11-10T16:48:04.000Z",
-      "simple_summary": "IBM and Microsoft announced that they are working together to launch a platform for AI agents. However, there is not enough detail in this headline to explain what this platform does.",
-      "why_it_matters": "This is mostly important to large corporations and technology investors. There is not enough information to say what it means for small businesses."
+      "simple_summary": "OpenAI is adding new features to ChatGPT so businesses can show up better when people search for things. It is making ChatGPT work more like Google's search engine.",
+      "why_it_matters": "If you own a small business, you may eventually be able to use ChatGPT to help customers find you, similar to how Google searches work today."
     },
     {
       "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
       "source": "The Washington Post",
-      "date": "2026-11-10T16:36:13.000Z",
-      "simple_summary": "The Nvidia CEO's affair with an alleged Chinese spy is raising concerns about potential problems for the U.S. economy and national security. The article suggests this could have serious ramifications as countries compete in AI technology.",
-      "why_it_matters": "This is a geopolitical and economics news story. For ordinary people and small business owners, there is nothing specific you need to do right now."
-    },
-    {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "date": "2026-11-10T16:20:30.000Z",
-      "simple_summary": "eBay has blocked AI agents from using its website to shop for items. This means tools like Meta's Muse cannot automatically browse eBay and create shopping lists for people anymore.",
-      "why_it_matters": "If you were using an AI agent to automatically shop on eBay, that tool no longer works there. For most small business owners and ordinary people, this does not affect you."
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "date": "2026-11-10T16:00:00.000Z",
-      "simple_summary": "Google released a new AI model called Gemini 4 Carbon that is designed to be very powerful and can coordinate multiple AI agents working together like a group. Google says it is their strongest model yet.",
-      "why_it_matters": "This is mainly important to tech companies and people building advanced AI systems. For small businesses and everyday people, there is nothing you need to do right now."
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch",
-      "date": "2026-11-10T15:54:08.000Z",
-      "simple_summary": "Google made two new computer chips designed to help run AI models better. One chip helps with private AI training and another gives AI systems more memory to work with.",
-      "why_it_matters": "This mostly matters to tech companies and investors. There is nothing you need to do about it."
+      "date": "2026-11-10T18:00:00.000Z",
+      "simple_summary": "Nvidia's CEO may have a personal relationship with someone accused of being a foreign spy. This could create security risks for Nvidia.",
+      "why_it_matters": "This is a concern for national security experts and investors in Nvidia. For ordinary people and small businesses, there is nothing you need to do about this."
     }
   ]
 }
