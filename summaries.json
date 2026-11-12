@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-12T07:15:57.321Z",
+  "generated_at": "2026-11-12T19:58:19.356Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "source": "TechCrunch",
-      "date": "2026-11-12T03:13:10.000Z",
-      "simple_summary": "A tech website is guessing who might become the next boss of Nvidia if the current CEO has to leave. The company doesn't have an official plan for who would take over.",
-      "why_it_matters": "This mostly matters to investors and people who own Nvidia stock. It doesn't affect what you buy or use."
+      "date": "2026-11-12T19:27:45.000Z",
+      "simple_summary": "Google is making its search engine better at understanding tricky questions and showing you more helpful information in different formats like pictures and links.",
+      "why_it_matters": "If you use Google to look things up, you might get clearer answers to difficult questions without having to rephrase what you're asking."
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "source": "TechCrunch",
-      "date": "2026-11-11T23:50:00.000Z",
-      "simple_summary": "The founder of Nvidia is in trouble over personal matters that involve someone from China. This is causing concern among U.S. government officials who worry about secrets being shared.",
-      "why_it_matters": "If Nvidia's leadership becomes unstable, it could affect the technology companies depend on, but any major changes will take time."
+      "date": "2026-11-12T19:11:00.000Z",
+      "simple_summary": "A company called Nectar built a robot helper that finds social media influencers for brands and automatically reaches out to them about partnerships.",
+      "why_it_matters": "This mostly matters to marketing companies and large brands. Small business owners probably won't use this directly."
     },
     {
-      "title": "Google Brings Gemini Live to Apple CarPlay",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlBkWUppQkFFTDdhR2N5RTFTanBidVZSOGJNcFhFRFFheHhKOHFyc1ZpTU05aW00SWRiaXFFT2V5Q0F4MGtEallGRW5BVU9Uem5uQXFITDBWYXlLSUtzUHZZVWdwNjViWnRfeW9Vd0xseTNqYXJCRklLb3VQakJrUUFaMU52UUM5SXRpS3Y2RTRMUTZ3RzdHc1ZEczYyUlo4U3c?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-11-11T23:46:07.000Z",
-      "simple_summary": "Google's AI assistant Gemini can now work in Apple car dashboards so you can talk to it while driving. You would use voice commands like asking questions or getting help with tasks.",
-      "why_it_matters": "If you drive an Apple CarPlay car and like using voice assistants, this gives you another option to try."
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "source": "TechCrunch",
-      "date": "2026-11-11T23:28:45.000Z",
-      "simple_summary": "Nvidia's board of directors may vote to fire the company's longtime CEO within days. The stock price has fallen because investors are worried about this change.",
-      "why_it_matters": "This mostly affects Nvidia investors and stock owners. It could eventually influence the price of AI technology services, but not immediately."
+      "date": "2026-11-12T18:39:23.000Z",
+      "simple_summary": "A top leader at a computer chip company called Nvidia is leaving, which makes people worry that the company might change its policies about sharing AI technology openly.",
+      "why_it_matters": "This is mainly important to investors and people in the AI industry. You don't need to do anything about it."
     },
     {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch",
-      "date": "2026-11-11T23:17:05.000Z",
-      "simple_summary": "The Nvidia CEO is accused of having a second affair, this time with someone who works at his company. This comes after he already admitted to a separate affair involving someone with connections to China.",
-      "why_it_matters": "This is personal scandal news. It doesn't directly change anything about AI products or services you use."
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "source": "The Verge",
-      "date": "2026-11-11T22:44:36.000Z",
-      "simple_summary": "Nvidia's board is reportedly preparing to remove the CEO from his job following reports of multiple affairs. One involved someone alleged to have ties to Chinese intelligence.",
-      "why_it_matters": "Major leadership changes at a big tech company can create uncertainty, but regular people won't notice effects right away."
+      "date": "2026-11-12T18:06:54.000Z",
+      "simple_summary": "This article is an opinion piece about a company leader making political statements. It's not reporting a specific technology event.",
+      "why_it_matters": "This doesn't relate to something you'd encounter as a regular person or small business owner."
     },
     {
-      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjJRY2daaGR0MlE5NzU0bndocWZPVF9qODRlRlBzUUVLN1dyNkE2VXlJeUdGanF2NkQ5OGVZMmJTYk9xY244NU9sUHppeFU2dVlHcVRwWFptNG9CSUN6ay1Ic3NVdFJRZTNkY05nQzJJUFJsSVp1N21LRElnSHotZmZyYVR2a25v?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-11T21:59:34.000Z",
-      "simple_summary": "Politicians in Washington are calling for the Nvidia CEO to resign and discussing ways to limit what technology Nvidia can sell to China. The CEO's personal behavior is now becoming a national security issue.",
-      "why_it_matters": "This is mostly political and security news. For now it doesn't change what technology you can buy or use."
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "title": "The Jensen Huang scandal is hardly over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
       "source": "The Verge",
-      "date": "2026-11-11T21:54:21.000Z",
-      "simple_summary": "United Airlines says it won't allow AI assistants to book flights for you on its website. The airline is worried about privacy and following the law, and it hasn't seen many people try to do this anyway.",
-      "why_it_matters": "If you were hoping an AI assistant could automatically book your flights, you'll still need to do it yourself or call the airline."
+      "date": "2026-11-12T17:44:33.000Z",
+      "simple_summary": "This is an opinion article discussing personal news about a company leader at Nvidia. It's not about a technology change or product.",
+      "why_it_matters": "This doesn't affect your daily life or business operations."
     },
     {
-      "title": "Why the data center you dread might never even be built",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "source": "TechCrunch",
-      "date": "2026-11-11T20:15:15.000Z",
-      "simple_summary": "Big companies want to build huge computer centers to run AI, but these projects face real problems. Local communities don't want them, paperwork takes forever, and there's not enough electricity. Many of these announced projects may never actually get built.",
-      "why_it_matters": "If AI services start costing more because these data centers aren't built, you might notice higher prices for AI tools. For now it's mostly just industry gossip."
+      "date": "2026-11-12T17:36:40.000Z",
+      "simple_summary": "After the leader left Nvidia, the boss of a company that shares free AI tools promised to keep fighting to let people use AI without restrictions.",
+      "why_it_matters": "This mostly matters to tech companies and investors. It doesn't change what AI tools you can use right now."
     },
     {
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
       "source": "TechCrunch",
-      "date": "2026-11-11T20:12:01.000Z",
-      "simple_summary": "A top engineer who built computer systems at Meta for 15 years is stepping down from his job. The company hasn't said why yet.",
-      "why_it_matters": "This is mostly industry news. It could matter if it affects how well Meta's services run, but there's no sign of problems yet."
+      "date": "2026-11-12T17:17:58.000Z",
+      "simple_summary": "United Airlines said it won't let AI chatbots book plane tickets for customers because they worry it could create security problems.",
+      "why_it_matters": "If you fly United, you can't have an AI assistant book your flight for you yet. You'll need to book directly on their website or call them."
     },
     {
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
       "source": "TechCrunch",
-      "date": "2026-11-11T20:02:14.000Z",
-      "simple_summary": "Companies trying to build enormous computer centers for AI are running into obstacles. Local people don't want them in their towns, getting permits takes a long time, and power supplies are hard to find. Many planned projects may never happen.",
-      "why_it_matters": "If fewer of these giant computer centers get built, AI services might become more expensive for small businesses and individuals."
+      "date": "2026-11-12T17:00:52.000Z",
+      "simple_summary": "SoftBank, a big investment company, lost billions of dollars by ordering powerful machines to run AI systems, which has affected plans in the power industry.",
+      "why_it_matters": "This mostly matters to investors and energy companies. It doesn't change your electric bill or internet service."
     },
     {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
       "source": "TechCrunch",
-      "date": "2026-11-11T19:54:00.000Z",
-      "simple_summary": "A company called CoreWeave that rents out computer power for AI projects is asking customers to pay money upfront and work with shorter contracts. This is how the company is trying to fund its growth.",
-      "why_it_matters": "This is mostly relevant to large companies renting computer power. Small businesses using AI probably won't notice a difference."
+      "date": "2026-11-12T17:00:00.000Z",
+      "simple_summary": "A new tool uses AI to automatically make regular photos look better and more professional without you having to do much work.",
+      "why_it_matters": "If you like taking photos and want them to look polished, this could be a helpful tool to try for improving your pictures."
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge",
+      "date": "2026-11-12T17:00:00.000Z",
+      "simple_summary": "When people ask popular AI chatbots where to buy products, sometimes the chatbots recommend fake websites that could be dangerous or scams.",
+      "why_it_matters": "If you use ChatGPT or similar tools to find places to shop online, you should double-check the website name and make sure it's real before entering your payment information."
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge",
+      "date": "2026-11-12T17:00:00.000Z",
+      "simple_summary": "More video game makers are using AI tools to help create games, with four out of every ten developers now using AI as part of their work.",
+      "why_it_matters": "This means games might be made faster and possibly cheaper, which could lead to more options for players, but doesn't change how you play games."
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T16:36:37.000Z",
+      "simple_summary": "The leader of Nvidia who left his job recently agreed to answer questions from members of Congress about his departure.",
+      "why_it_matters": "This is a legal and political matter involving a major company leader. It doesn't directly affect you as a person or small business owner."
     }
   ]
 }
