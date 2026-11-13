@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-12T19:58:19.356Z",
+  "generated_at": "2026-11-13T06:50:19.438Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T19:27:45.000Z",
-      "simple_summary": "Google is making its search engine better at understanding tricky questions and showing you more helpful information in different formats like pictures and links.",
-      "why_it_matters": "If you use Google to look things up, you might get clearer answers to difficult questions without having to rephrase what you're asking."
+      "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-13T02:54:00.000Z",
+      "simple_summary": "Government officials met to talk about how bad actors could use AI to attack computer systems and steal information. They want to figure out ways to protect against these attacks.",
+      "why_it_matters": "This doesn't affect your daily life right now, but it shows the government is thinking about AI safety. There's nothing you need to do today."
     },
     {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T19:11:00.000Z",
-      "simple_summary": "A company called Nectar built a robot helper that finds social media influencers for brands and automatically reaches out to them about partnerships.",
-      "why_it_matters": "This mostly matters to marketing companies and large brands. Small business owners probably won't use this directly."
+      "title": "Union County moms say daughters are victims of AI child porn created by classmates",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDItX1E1dVhYTHBraFJMeTZYVk1URTAtUWFMSm1vbFl6TWZZQUtkdEVZWG1tNk1hM0toUHRWSHFzMGR2d1hQT0d1MFpjOERycllrSXRaaHVmeklOMFRpVlZaR0pRZEZVOHpHZm9oa3NHdUJObWxELVdGdUtKVmJFQWxZZDM4TEtfbWFBYmM3SmZwNW0xNUNrRzNWem5abWVHa1plRkVtNXVDM2FvZlFYcHBB0gHGAUFVX3lxTFA0V28tdVRMcnR3cVE5cWwzQWpRQm8ydWo5cGtDdEhWM0txcWNNeHd6cVdOSGxTbEZQUzE4bzBQYTloVHFLSFNFNnNibzV5U0FlZ0NjSTJXSzRSbzNkdWRTekZobXBYZDVhaExQT2Z2QkdnbHJXYURzMDIzenhRRlFBZFRNeThITnctc0JQMVFqQzB5YVVVc0E2eDRtcy0xUmhoUmYyVzNpalJWUW5MdWpiclcyMUpkVS1TWEQ3bVdJajJERy0wZw?oc=5",
+      "source": "WBTV",
+      "date": "2026-11-13T00:54:00.000Z",
+      "simple_summary": "Some parents say their daughters were victimized when classmates used AI to create fake inappropriate images of them. This is a serious crime that involves fake pictures made by computer.",
+      "why_it_matters": "If you have grandchildren or know young people, this is a real danger. Talk to them about not sharing photos with classmates and about reporting this kind of thing to adults immediately."
     },
     {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "source": "TechCrunch",
-      "date": "2026-11-12T18:39:23.000Z",
-      "simple_summary": "A top leader at a computer chip company called Nvidia is leaving, which makes people worry that the company might change its policies about sharing AI technology openly.",
-      "why_it_matters": "This is mainly important to investors and people in the AI industry. You don't need to do anything about it."
+      "date": "2026-11-12T22:42:51.000Z",
+      "simple_summary": "Congress is investigating Nvidia, a big computer chip company, because of questions about its business deals and whether there are political favors involved. This is the second investigation into the same company.",
+      "why_it_matters": "This mostly matters to investors and people who own Nvidia stock. There's nothing you need to do."
     },
     {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "source": "Politico",
+      "date": "2026-11-12T22:24:00.000Z",
+      "simple_summary": "Some nonprofit groups are suing big tech companies because they want them to stop racing to build bigger and more powerful AI systems. They're asking courts to freeze these companies' AI development.",
+      "why_it_matters": "This doesn't directly affect you right now, but these lawsuits could slow down how fast AI changes things. The outcome could matter more in a few years."
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T22:22:28.000Z",
+      "simple_summary": "An AI system called Muse can now make phone calls to businesses for you, but you have to pay to use this service. It's not free like some other AI tools.",
+      "why_it_matters": "If you run a business, you need to know that AI systems might start calling you. If you get strange calls from an AI, you can ask the caller to identify themselves."
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "source": "The Verge",
-      "date": "2026-11-12T18:06:54.000Z",
-      "simple_summary": "This article is an opinion piece about a company leader making political statements. It's not reporting a specific technology event.",
-      "why_it_matters": "This doesn't relate to something you'd encounter as a regular person or small business owner."
+      "date": "2026-11-12T21:55:32.000Z",
+      "simple_summary": "Google made a new AI assistant that's better at understanding questions that have multiple parts or are confusing. It can now break down complicated questions and answer each part separately.",
+      "why_it_matters": "If you use Google to search for things, your search results might get a little better when you ask complicated questions. This is a small improvement."
     },
     {
-      "title": "The Jensen Huang scandal is hardly over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "title": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1NTVmFaaGxYUlRucGtIRzJRYlJrMGN6Y3E0TVF0bmhuOFRKTE0wSGc3alFkUnpCQkZDaUhPVFR2NnJ0T0tUVHdTazlYRHVfVFhHU0xxaFJwYV94X003QjZaQmNwdFRadmJEeDNrdmpwZ3gwWWRMdGNiOFFJR0gxOXVIMUVPQmljOWpJRlFfSGM1cnFRLTFwSjNfRkxYeDJqYllKOTl5Qzg0MGFFUzlvMU50RVE?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-12T21:37:51.000Z",
+      "simple_summary": "Wall Street investors are ignoring potential risks about Nvidia's future and continuing to buy the company's stock. Experts worry they may be making a risky bet.",
+      "why_it_matters": "This mostly matters to investors who own stocks. There's nothing you need to do unless you have money in the stock market."
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T21:35:00.000Z",
+      "simple_summary": "The head of Nvidia, Jensen Huang, stepped down from his job after personal scandals came to light. Some people worry this could affect America's competition with China in building advanced computer systems.",
+      "why_it_matters": "This is big company news that might affect Nvidia's stock price, but it probably won't change your life. There's nothing you need to do."
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T21:27:10.000Z",
+      "simple_summary": "A company called Nebius is planning to spend 40 billion dollars building AI computer centers. They plan to raise this money from customers paying upfront and from banks lending them money.",
+      "why_it_matters": "This mostly matters to investors and people in the tech industry. There's nothing you need to do."
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-12T20:30:00.000Z",
+      "simple_summary": "United Airlines turned off the ability for AI systems to book flights on its website. The airline decided to stop letting AI agents make purchases directly.",
+      "why_it_matters": "If you book flights through an AI assistant, you'll now have to complete the booking yourself instead of letting the AI do it all. This change makes things slightly less convenient but perhaps more secure."
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T20:26:47.000Z",
+      "simple_summary": "News reports say Jensen Huang, the head of Nvidia, was involved in a third affair with an employee. He has already stepped down from his position at the company.",
+      "why_it_matters": "This is company scandal news that mostly affects Nvidia's reputation and employees there. There's nothing you need to do."
+    },
+    {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "source": "The Verge",
-      "date": "2026-11-12T17:44:33.000Z",
-      "simple_summary": "This is an opinion article discussing personal news about a company leader at Nvidia. It's not about a technology change or product.",
-      "why_it_matters": "This doesn't affect your daily life or business operations."
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T17:36:40.000Z",
-      "simple_summary": "After the leader left Nvidia, the boss of a company that shares free AI tools promised to keep fighting to let people use AI without restrictions.",
-      "why_it_matters": "This mostly matters to tech companies and investors. It doesn't change what AI tools you can use right now."
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T17:17:58.000Z",
-      "simple_summary": "United Airlines said it won't let AI chatbots book plane tickets for customers because they worry it could create security problems.",
-      "why_it_matters": "If you fly United, you can't have an AI assistant book your flight for you yet. You'll need to book directly on their website or call them."
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T17:00:52.000Z",
-      "simple_summary": "SoftBank, a big investment company, lost billions of dollars by ordering powerful machines to run AI systems, which has affected plans in the power industry.",
-      "why_it_matters": "This mostly matters to investors and energy companies. It doesn't change your electric bill or internet service."
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T17:00:00.000Z",
-      "simple_summary": "A new tool uses AI to automatically make regular photos look better and more professional without you having to do much work.",
-      "why_it_matters": "If you like taking photos and want them to look polished, this could be a helpful tool to try for improving your pictures."
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge",
-      "date": "2026-11-12T17:00:00.000Z",
-      "simple_summary": "When people ask popular AI chatbots where to buy products, sometimes the chatbots recommend fake websites that could be dangerous or scams.",
-      "why_it_matters": "If you use ChatGPT or similar tools to find places to shop online, you should double-check the website name and make sure it's real before entering your payment information."
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge",
-      "date": "2026-11-12T17:00:00.000Z",
-      "simple_summary": "More video game makers are using AI tools to help create games, with four out of every ten developers now using AI as part of their work.",
-      "why_it_matters": "This means games might be made faster and possibly cheaper, which could lead to more options for players, but doesn't change how you play games."
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "TechCrunch",
-      "date": "2026-11-12T16:36:37.000Z",
-      "simple_summary": "The leader of Nvidia who left his job recently agreed to answer questions from members of Congress about his departure.",
-      "why_it_matters": "This is a legal and political matter involving a major company leader. It doesn't directly affect you as a person or small business owner."
+      "date": "2026-11-12T19:42:40.000Z",
+      "simple_summary": "A Google researcher claimed AI agents helped him discover an ancient Maya site in Mexico that nobody knew about. The claim turned out to be false because the site was already discovered and published in an academic paper a year earlier.",
+      "why_it_matters": "This shows that even smart AI systems can make mistakes and spread wrong information if they're not checked carefully. Always check important facts from multiple sources, even when AI systems say something."
     }
   ]
 }
