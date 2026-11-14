@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-14T06:29:47.773Z",
+  "generated_at": "2026-11-14T18:09:12.887Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "U.S. grounds flights days after Trump administration expands new AI air traffic system",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2dVa3NvVWwtdEJkMVJscWRQWlItWnQtTnVNVDVobHE2aU5fdzNwOWJpM3RrNUd6SFZMZm1wQ2doQVNINDVtXy1iQTRGYlZJVWR6MkMyR1BxeXFZOTdvYXdFX2dWUHVqdXVDNmhNLTQ0bzI1Q3ZwUmRjU1BsSnpRRFJLbUdUVEJTQml5eExobGhCd2djeE1OVmVLb3kxYkM3VkVLZkptQWlEZkpjVVBGektyVlFLT3paOXc?oc=5",
-      "source": "Scientific American",
-      "date": "2026-11-14T00:00:00.000Z",
-      "simple_summary": "The U.S. government stopped all airplane flights for a few days after starting to use a new AI system to manage air traffic. Officials are now investigating whether the AI system caused the problem.",
-      "why_it_matters": "If you fly or depend on people flying goods to you, this matters. We need to make sure new technology is tested carefully before it affects something as important as flying."
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "date": "2026-11-14T17:30:00.000Z",
+      "simple_summary": "Many AI projects have failed or disappointed people. Examples include Apple's Siri improvements and OpenAI's new app.",
+      "why_it_matters": "This mostly matters to investors and tech workers. It shows that not every AI project succeeds, just like not every new restaurant stays open."
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-14T16:34:15.000Z",
+      "simple_summary": "Asian governments are checking on their relationships with Nvidia after the CEO stepped down. Some want to make sure they can still buy the computer chips they need.",
+      "why_it_matters": "This mostly matters to government officials and large companies. Ordinary people won't notice any change."
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "date": "2026-11-14T12:00:00.000Z",
+      "simple_summary": "The article talks about Jensen Huang, Nvidia's leader, getting applause at a big event. It discusses whether famous company founders still inspire people the way they used to.",
+      "why_it_matters": "This mostly matters to investors and tech fans. It doesn't affect your daily life or business."
+    },
+    {
+      "title": "New awards show celebrates AI music and its creators",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGtiYXF6RWUzZFVXRm9lUTc0QlRNQ1pfLTZGZTZUeXlJdTFtZll2WUdrMmRGdy1oT3RzN3djckdpSHJ3OWRxZnJXSlByWnFNcXlJQ3VJOS1kblRmd1NCRFhYRThOWl9RRVhvUDJMZHpZQkU5RVRJcV9VTzJoUFF1aU1UTXBkQW8zOWR4S2h6RkYxTUxDVXpyLU5CQ1R5cU42RjFN?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-14T09:05:46.000Z",
+      "simple_summary": "A new awards show is recognizing music made with AI and the people who created it.",
+      "why_it_matters": "If you make music or care about music, this shows AI tools are becoming more normal in that world. Otherwise, it's just entertainment news."
+    },
+    {
+      "title": "The Nvidia Scandal Is Heightening America's AI Rivalry With China Ahead of Trump's Visit",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRkJHX1NheTI0ZlhOb0otWE5oTlVHamNWT0YzazVKZF9OZnprRkFHVTNPbWlrV0hiVFl6OWNNYk1ZaUNkanVpYVVuTnQ0M3VyaTU5Ymc4SkNCSHlacU9faHpTTWQzakViMVRyM0tWOXllWnBERHdUMno4cFZhSzZCdGxoU1ROYTJ1cFVyMHE4Vl9BWlQyTHRJWDdBTmpTOHdxb0czUkVFOGJvSW5nYWVyajNXR0xjcDVWVVNQZHBZR1RBSEN4OFp4M1h1dFBWQW5BMms1bWw1cS1vaFE?oc=5",
+      "source": "U.S. News &amp; World Report",
+      "date": "2026-11-14T05:17:00.000Z",
+      "simple_summary": "There is worry that Nvidia chips meant to be blocked from China may have reached there anyway. This is part of a bigger competition between America and China over AI technology.",
+      "why_it_matters": "This mostly matters to government policy makers. It doesn't directly affect your business or shopping."
+    },
+    {
+      "title": "US officials raise alarm over restricted Nvidia AI chips reaching China",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFpobkxyVTA0ZzV3YXMwdVowaGxzRFduTXpGSzZNbUx4c1hiUzVybzZXaV9oNk1FaVRjdm9ZTEVIUUh2a2RWNWlmVHQ0eVNwNTRMS2NpRzBZYzQ2YUJPSTd0Q1FOejFaNWN0V3RudTlUSHlEd2pXV2JlN29VTHVuMWNLLVpNWkZ6S0NZMmJnVmE1SzNnUm1jYnM1WlYwc2pDRENtcFBLaHE1NVZ1bldDdlF5ei1iZw?oc=5",
+      "source": "KATU",
+      "date": "2026-11-14T02:54:53.000Z",
+      "simple_summary": "US officials are concerned that special computer chips Nvidia was not supposed to sell to China have somehow gotten there.",
+      "why_it_matters": "This mostly matters to government officials and large tech companies. It won't change anything you do."
     },
     {
       "title": "Amazon has a plan to index the world’s online shopping data",
       "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "source": "The Verge",
       "date": "2026-11-13T23:49:11.000Z",
-      "simple_summary": "Amazon is building a giant catalog of information about every product sold anywhere on the internet, including products it doesn't sell itself. It wants to show all this information on Amazon's website.",
-      "why_it_matters": "If you sell products online or run a small store, Amazon may now make it harder for customers to leave and shop elsewhere, since everything they need is in one place."
+      "simple_summary": "Amazon is building a database of every product sold anywhere online, even items Amazon doesn't sell itself. They plan to show this information on their website to keep shoppers from leaving.",
+      "why_it_matters": "If you shop online, Amazon is trying to become the one place you look before buying anything. This could mean you see more items when you start on Amazon, but also that Amazon gets more power in online shopping."
     },
     {
       "title": "FAA investigating whether new AI technology contributed to nationwide ground stop",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5",
       "source": "Click2Houston",
       "date": "2026-11-13T22:57:09.000Z",
-      "simple_summary": "The government's aviation safety agency is looking into whether the new AI air traffic system played a role in the nationwide ground stop that happened recently.",
-      "why_it_matters": "This is part of the same flight shutdown story. It shows that safety officials are being careful about investigating what went wrong."
-    },
-    {
-      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
-      "source": "Futurism",
-      "date": "2026-11-13T22:56:00.000Z",
-      "simple_summary": "Days after the government rolled out a new AI tool to manage air traffic, all U.S. flights were grounded. People are wondering if the AI tool caused it.",
-      "why_it_matters": "This is the same major story as the other flight headlines. The takeaway is that when new technology runs important systems, problems can affect millions of people quickly."
+      "simple_summary": "The FAA is looking into whether new AI technology had something to do with a nationwide flight ground stop.",
+      "why_it_matters": "If you travel by airplane, this matters because it checks whether new AI is safe enough to use in flying systems. An official investigation means they're being careful before trusting AI with something important."
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch",
       "date": "2026-11-13T22:43:00.000Z",
-      "simple_summary": "Jensen Huang is stepping down from leading Nvidia, a major company that makes computer chips for AI. Other companies that wanted his money and support for AI startups are now worried he won't give them as much.",
-      "why_it_matters": "This mostly matters to investors and startup founders. There's nothing you need to do, but it shows changes happening at the top of the AI industry."
-    },
-    {
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-13T21:00:12.000Z",
-      "simple_summary": "The Federal Reserve, which oversees U.S. banks, surveyed financial experts and found they think AI poses the biggest risk to the banking system right now.",
-      "why_it_matters": "If you have a bank account or savings, this matters. Banks need to make sure AI systems don't cause new types of problems or fraud."
+      "simple_summary": "Nvidia's boss Jensen Huang has stepped down. Now smaller AI companies that got money from Nvidia are worried they won't get as much funding in the future.",
+      "why_it_matters": "This matters mainly to investors and AI startup owners. If you run a regular small business, it doesn't affect you."
     },
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "source": "The Verge",
       "date": "2026-11-13T20:45:10.000Z",
-      "simple_summary": "OpenAI is now letting its AI assistants use a digital wallet to buy things on your behalf. You can link your credit card, and the AI can make purchases without you typing in the order.",
-      "why_it_matters": "If you use ChatGPT, you should understand that this feature lets AI spend your money automatically. Be careful about which AI agents you give wallet access to."
+      "simple_summary": "OpenAI is letting its ChatGPT AI agents spend money on your behalf if you link a credit card. Only paying subscribers can use this right now.",
+      "why_it_matters": "If you use ChatGPT and decide to give it access to your card, you're letting AI make purchases for you. Be careful, because you're responsible for what it buys. Most people don't need this feature."
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch",
       "date": "2026-11-13T19:37:57.000Z",
-      "simple_summary": "LangChain, a company that helps other companies build and run AI systems, was just valued at 3 billion dollars. This is a significant valuation jump.",
-      "why_it_matters": "This mostly matters to investors and tech companies. It shows that businesses are spending money to build better AI tools."
+      "simple_summary": "A company called LangChain that helps other companies build AI tools reached a very high value in funding. They say 7,000 companies use their product.",
+      "why_it_matters": "This mostly matters to investors and tech companies building AI. There's nothing you need to do."
     },
     {
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
       "date": "2026-11-13T18:40:30.000Z",
-      "simple_summary": "Research shows that China's most advanced AI systems were trained using expensive computer chips that the U.S. government banned from selling to China. This means China found a way around the restrictions.",
-      "why_it_matters": "This matters because it involves national security between the U.S. and China. It's a complex political situation with no immediate effect on ordinary people or small businesses."
-    },
-    {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch",
-      "date": "2026-11-13T16:00:12.000Z",
-      "simple_summary": "OpenAI is testing a feature that lets AI agents use a digital wallet to shop online for you. You put in your credit card information, and the AI can complete purchases.",
-      "why_it_matters": "This is similar to the other ChatGPT Wallet story. Only early users can test it now, but understand that giving AI control over your wallet means it can spend money."
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "date": "2026-11-13T15:58:00.000Z",
-      "simple_summary": "Jensen Huang, the CEO of Nvidia, has resigned from his job following personal issues. This could affect national security because Nvidia is central to the competition between the U.S. and China for advanced AI technology.",
-      "why_it_matters": "This is mostly a business and politics story. There's nothing you need to do personally, but leadership changes at major tech companies can ripple through the industry."
-    },
-    {
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge",
-      "date": "2026-11-13T14:47:16.000Z",
-      "simple_summary": "With Jensen Huang stepping down from Nvidia, people are now examining bigger questions about Nvidia's business dealings with China and whether the U.S. government will investigate or change its policies.",
-      "why_it_matters": "This mostly affects investors and government policy makers. It shows that Nvidia's leadership change has opened up larger questions about how AI companies do business internationally."
+      "simple_summary": "Researchers found that China's most advanced AI systems were built using Nvidia computer chips that America is supposed to keep from selling to China.",
+      "why_it_matters": "This mostly matters to government officials concerned about keeping up in AI competition with China. It doesn't change what AI tools you can use or buy."
     }
   ]
 }
