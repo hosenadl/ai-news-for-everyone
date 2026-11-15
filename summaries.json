@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-14T22:28:59.280Z",
+  "generated_at": "2026-11-15T06:39:13.292Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Franklin County students shaping conversations around artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1dMeHhkWHlFZjB2T1Z1TjU5WGFuNFRqWExSdmEtRkI0T3JUY3ZNQkdKaVdDVUtEYlA1aS1LbDUzcTZRMFNpZG96TUdVVFhqRlFEeXJsWXU1c1ZhNDgyR1paWHFsMDRDS01uQVJoLVh1MnVBVGo0MURvOUJ4dmpfMWlfRm5OY1hsOXBmMVozd0lTS3hqQ1dodVNqdS1jZXMzTGo5WXpFdkdXZmhRc1hlby1vYTdiWVBUazVfRDd6MXFwRFVLUWtkbjRVZVY5OV9SUjVNYTY5aEQtemN6WWFld25RUmpPc1pkaHdjQg?oc=5",
+      "source": "10TV",
+      "date": "2026-11-15T00:45:00.000Z",
+      "simple_summary": "Students in Franklin County are learning about artificial intelligence and discussing how it works and affects society.",
+      "why_it_matters": "This is mostly about education. If you have grandchildren, they're probably learning about AI in school, so understanding the basics helps you talk with them about it."
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T00:08:07.000Z",
+      "simple_summary": "Nvidia's top security officer left quietly last summer. Now the company's CEO has stepped down due to personal relationships, and experts worry the security team missed warning signs about sensitive information leaking.",
+      "why_it_matters": "This mostly matters to investors and Nvidia employees. For ordinary people, it shows why big companies need strong security, but it doesn't directly affect your daily life."
+    },
+    {
+      "title": "Artificial Intelligence: Why are traditional industries adopting it?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
+      "source": "BBC",
+      "date": "2026-11-15T00:00:55.000Z",
+      "simple_summary": "Traditional businesses like factories, farms, and stores are starting to use artificial intelligence in their work.",
+      "why_it_matters": "If you own a small business, this shows that AI tools are becoming part of how many industries operate. You may hear more about it or be asked about it by customers or competitors."
+    },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "source": "TechCrunch",
       "date": "2026-11-14T21:41:22.000Z",
-      "simple_summary": "Many tech leaders, including Elon Musk, signed a petition asking Nvidia to bring back Jensen Huang. Over 115,000 people signed it.",
-      "why_it_matters": "This mostly matters to investors and tech industry watchers. There's nothing you need to do about it."
+      "simple_summary": "More than 115,000 people signed a petition asking Nvidia to rehire its CEO Jensen Huang after he stepped down.",
+      "why_it_matters": "This is mostly about what investors and tech insiders think. There's nothing you need to do about it."
     },
     {
       "title": "How criminals are using AI to abuse kids",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmpiQkt4dHA2aFNTOGJFOEFDbWlOVkFHaEZoUlBNdVM2Y1YyektfR1hLdzBNOFVzZFJMMzRFTTh1QnVnN0dtek5YMDhDZVpMT3JOMEYwclhaOGg2Sjk4NzkwSVhNOVJLSlEzcHllN2xsT2NydFhhTmhHekd1NTF0MEQ2T1hoY2RHeFRmZmdfcjQtbGVxUzhObUhoZGVTZG8tUWhfNmJmaTRCWFM1cU1VZ09LMGVITThiLU9GMFVBRlY?oc=5",
       "source": "CBC",
       "date": "2026-11-14T18:59:14.000Z",
-      "simple_summary": "Criminals are using AI tools to harm children in new ways.",
-      "why_it_matters": "If you have grandchildren or young relatives, it's worth knowing that AI technology can be misused to target kids, so you might want to talk to them about online safety."
-    },
-    {
-      "title": "Most AI Stocks Need Perfect Conditions to Win. This One Doesn't.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREUxb1ByZnRuQnlGdlV2R0t6cVJuOXMtVWVFNTlMRjJvY2dJVWNBbUtyaHZ5ZVE4dTFCQjBnUnQ2dENMZnBZTEVlVDVNLWltdlduejRqVWZCaDJiR255NEhOOFhpTUhJZG9rdWk0RkhlRk9XRkIxVGJYeEx5VmdzTFVoZkN3LVZVcFN0ejZqRjFOZ0ExNi1TcFUwSldQZw?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-11-14T18:57:00.000Z",
-      "simple_summary": "This headline discusses stock investments in AI companies.",
-      "why_it_matters": "This mostly matters to people who invest in stocks. There's nothing you need to do."
-    },
-    {
-      "title": "Trump administration rocked by Nvidia shockwave",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEF4MzByaElPMmdpbmNEVmxpQV9ER2VMaHFBRFd4OFNXRVpxeGtqcmlhYXZ2N0pKX1JNT2pfS2xtbmpEMTc5SUwySkhQZWIySmtZVmNfSF9Ia0ZldDkwWXJ2RnRmWDJnNjZEWTZONThBcGJiMW91QlV1M3NDQ2pYSjYtRVpSbXZoMGJVenMyNzdCdHFiRGU3blo3VGdxQ2dIM3pSMzVDd2VMV1JxNXhveVlUc20wMGs?oc=5",
-      "source": "Le Monde.fr",
-      "date": "2026-11-14T18:24:26.000Z",
-      "simple_summary": "Something about Nvidia and the Trump administration happened, but the headline doesn't give enough detail to explain what.",
-      "why_it_matters": "Without more information, it's hard to say if this affects ordinary people."
+      "simple_summary": "Criminals are using artificial intelligence tools to harm children in illegal ways.",
+      "why_it_matters": "This matters because parents and grandparents should know this happens. Teaching kids to be careful online and talk to trusted adults about uncomfortable interactions is more important than ever."
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch",
       "date": "2026-11-14T17:30:00.000Z",
-      "simple_summary": "Many AI projects have failed or shut down, from Apple's Siri improvements to OpenAI's app launches.",
-      "why_it_matters": "This shows that AI companies don't always succeed with their plans, so don't assume every new AI tool you hear about will actually exist or work as promised."
-    },
-    {
-      "title": "Using AI to accelerate neuroscience research",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNjdkbTNTaU8wM1hIQkJYUElOMXR3SVNhNDhGd19Lak9ZelpCWUp0aXdHNm5IMjJaT0psUUJRalpUUGpvQ0JHaDNSenZOOUJIc1Znb2RxRXduU09HM0MzNWRWNEM2ODJ6X2ZZ?oc=5",
-      "source": "Medical Xpress",
-      "date": "2026-11-14T17:00:24.000Z",
-      "simple_summary": "Scientists are using AI to help them study how the brain works faster and better.",
-      "why_it_matters": "This could eventually lead to better treatments for brain diseases like Alzheimer's, though these discoveries usually take many years to reach patients."
+      "simple_summary": "Many artificial intelligence projects and startups have failed or shut down, including Apple's Siri updates and OpenAI's new app launch.",
+      "why_it_matters": "This shows that not every AI tool succeeds. Some companies promise great things but don't deliver, so it's smart to wait and see if new AI products actually work before trusting them."
     },
     {
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
       "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
       "source": "TechCrunch",
       "date": "2026-11-14T16:34:15.000Z",
-      "simple_summary": "Asian governments are responding to news about Jensen Huang by checking on their computer chip supplies and other AI deals.",
-      "why_it_matters": "This mostly matters to investors and government leaders. There's nothing you need to do."
+      "simple_summary": "Governments in Asia are checking whether they can still get computer chips from Nvidia after the CEO's departure, and some are investigating related problems.",
+      "why_it_matters": "This mostly matters to governments and large companies. It could eventually affect prices of electronics, but there's nothing you need to do right now."
     },
     {
       "title": "AI Tools Huang Championed Now Star in Memes of His Downfall",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUdLOHQ2SVNyRjBEN0JRZ21IQ2QybFlrWWs2cG1aVVBDSVJPZ1NxM2hwLXAtSnJ0Q1RKYi1zVHF2bFZ3REFNWXgtbzZRcklWWHJpVXdlVWZqNDJfSWVJeXJnNzd0X3h3c0pDMFhFUHVuNDE2MzVZSTAxRGZzS29iWnpQNmdBczREYy04VTNNdnZBR3hOWFpsTXhhNVdMdlR5ZHlWRzBKMHZsSG55NGgw?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-11-14T15:57:58.000Z",
-      "simple_summary": "People are making jokes online about Jensen Huang using AI tools he used to promote.",
-      "why_it_matters": "This is entertainment news about internet culture. It doesn't affect your daily life."
+      "simple_summary": "People on the internet are making jokes and memes about Nvidia's CEO using the AI tools he promoted.",
+      "why_it_matters": "This is just internet humor and doesn't affect you. It matters only to people who follow tech news and social media closely."
     },
     {
       "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "source": "The Verge",
       "date": "2026-11-14T15:00:00.000Z",
-      "simple_summary": "A woman who helped fire an AI company leader is saying we can't trust AI CEOs to be honest yet.",
-      "why_it_matters": "This is a cautionary reminder that AI company leaders don't always have the best judgment, so be skeptical about their big promises."
+      "simple_summary": "A board member who made the decision to fire OpenAI's CEO says AI company leaders still cannot be fully trusted to run their businesses properly.",
+      "why_it_matters": "This is mostly about how AI companies should be managed and governed. It matters if you're concerned about whether AI companies are trustworthy, but most small business owners don't need to worry about it."
     },
     {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
       "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "source": "The Verge",
       "date": "2026-11-14T12:00:00.000Z",
-      "simple_summary": "Jensen Huang, the head of Nvidia, had a big public event where he appeared like a celebrity or rockstar on stage.",
-      "why_it_matters": "This mostly matters to tech industry watchers. There's nothing you need to do."
+      "simple_summary": "This is about the history of Nvidia's CEO and his style as a company leader who puts on big shows for fans and investors.",
+      "why_it_matters": "This is mostly a story about business leadership style and celebrity culture in the tech world. There's nothing you need to do about it."
     },
     {
       "title": "New awards show celebrates AI music and its creators",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGtiYXF6RWUzZFVXRm9lUTc0QlRNQ1pfLTZGZTZUeXlJdTFtZll2WUdrMmRGdy1oT3RzN3djckdpSHJ3OWRxZnJXSlByWnFNcXlJQ3VJOS1kblRmd1NCRFhYRThOWl9RRVhvUDJMZHpZQkU5RVRJcV9VTzJoUFF1aU1UTXBkQW8zOWR4S2h6RkYxTUxDVXpyLU5CQ1R5cU42RjFN?oc=5",
       "source": "Reuters",
       "date": "2026-11-14T09:05:46.000Z",
-      "simple_summary": "A new awards show is recognizing AI-created music and the people who made it.",
-      "why_it_matters": "If you enjoy music, it's worth knowing that AI can now create songs, though this is still very new."
+      "simple_summary": "A new awards show is celebrating music made by artificial intelligence and the people who created it.",
+      "why_it_matters": "If you enjoy music or know musicians, you might see AI-made music become more common. This shows that AI is now part of entertainment, but you can always choose to listen to music made by people instead."
     },
     {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "date": "2026-11-13T23:49:11.000Z",
-      "simple_summary": "Amazon is building a huge database of almost every product sold on the internet, even ones Amazon doesn't sell, so shoppers will find things on Amazon's website.",
-      "why_it_matters": "If you shop online, Amazon will try even harder to keep you on their site and might show you products from other sellers to get your business."
+      "title": "Does the Trump Administration’s Campaign to Rebrand AI as ‘Super Intelligence’ Matter?",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTB2WXVOTHRMRElJZDJyQ2hZa053UkRyRndaRzNEajhxQnJyakgtWGRRUEI1TXhTMzRucUJTS3d6dngwOXpLbFo0RkhJNUpJMTRCZDl2NXcyUWU0aWhXaHBScWhjcGZ1UFAzM0s1TkpPMjd5NGhSajlzYzdLWWZaZ1NnUnFHcTM1Yk1Fc2hlTXduTVpJaUpSb1NSTTRsQXJVY0luUWthNVdLNm1fZk5rMnln?oc=5",
+      "source": "Tech Policy Press",
+      "date": "2026-11-14T00:44:55.000Z",
+      "simple_summary": "The Trump administration is trying to change the name from 'artificial intelligence' to 'super intelligence' in its public messaging.",
+      "why_it_matters": "This is mostly about political branding and communication strategy. What we call AI doesn't change what it actually does, so this matters very little to you in practical terms."
     }
   ]
 }
