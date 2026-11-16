@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-15T18:53:50.361Z",
+  "generated_at": "2026-11-16T06:36:31.615Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+      "source": "WSJ",
+      "date": "2026-11-16T03:59:00.000Z",
+      "simple_summary": "The government is considering picking Nvidia, a major computer chip company, as one of America's most important AI businesses. This is mostly politics and business strategy at the highest level.",
+      "why_it_matters": "This mostly matters to investors and people who own Nvidia stock. There's nothing you need to do."
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-16T02:30:00.000Z",
+      "simple_summary": "Reports of illegal images involving children have jumped dramatically because of AI tools that can create fake images. This is a serious crime problem that law enforcement is fighting.",
+      "why_it_matters": "This affects society and safety but doesn't require action from you personally unless you report illegal content you see online."
+    },
+    {
+      "title": "Apple and OpenEvidence launch experimental health chat app",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTJIWldKX3NmaVZIRnh4RE5zQ3UyNGFNZGlHdTl2OGZfSzdWWlhVMk5raTNKeEl1RS0yYy1EMEpWeUxUY2Z0Q3BRMGNRbDRlLWotVGxGbmRSUlhSVzFoYWZVYkxhRWRfMko3aDEwMU5MZWlMS2d2akF1d0t5Ynh4UXVyZ09OQnRKNzVuaTJoMDlPbVlUXzN3?oc=5",
+      "source": "STAT",
+      "date": "2026-11-16T02:25:35.000Z",
+      "simple_summary": "Apple and a medical AI company are testing a new app that answers health questions using AI. They want to see if it actually helps people get useful medical information.",
+      "why_it_matters": "If this works well, you might eventually be able to ask health questions to an app instead of always going to your doctor, though it wouldn't replace real medical care."
+    },
+    {
+      "title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1VKTHI4cWNWNG10TkNPUDNKb0tLQXlxMmJ1aHE2d0twMW5Gb3NfREZMZmRhcnlMeFpHWVBfU0xoYnJ2TW1KTXRLbWxHOW5hWVZITUlRUW1OTlcxVENtM2t2aXRQZV9VR0tnVkVJU0podW1wLWRiVUJXLWQ0UWtGYTBkTGthd1o5YzQyOGJyR3lWSUtaWlRXblZZUVVIUnFfSkYxcEh4ckFaM3FqVi02amp3?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-11-16T02:00:00.000Z",
+      "simple_summary": "Alibaba, a large Chinese company, released a new AI system to compete with American AI companies like OpenAI and Google. This is about business competition between countries.",
+      "why_it_matters": "This mostly matters to investors and tech industry people. It doesn't change anything for everyday users right now."
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "date": "2026-11-16T01:30:00.000Z",
+      "simple_summary": "Apple created a study app where people can help test how well AI answers everyday health questions. They're trying to understand if these AI health tools are actually useful and accurate.",
+      "why_it_matters": "If you join this study, you'd help Apple make health AI tools better, but it's completely optional."
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "date": "2026-11-16T01:26:56.000Z",
+      "simple_summary": "Apple is studying how people use AI to ask medical questions and whether the answers are actually helpful and correct. They're working with a medical AI company to check if these tools really work.",
+      "why_it_matters": "This research helps make AI health tools safer and more trustworthy, which matters if you ever use AI to ask about your health."
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T23:30:00.000Z",
+      "simple_summary": "A startup in India received 24 million dollars to build special computer sensors that use AI. These sensors will be used by other companies for various purposes.",
+      "why_it_matters": "This mostly matters to investors and technology engineers. It doesn't affect ordinary people or small businesses yet."
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T21:56:35.000Z",
+      "simple_summary": "The article questions whether problems at Nvidia's leadership could hurt the entire AI industry since Nvidia makes chips so many AI companies depend on. This is a business concern.",
+      "why_it_matters": "This matters mainly to investors. If you don't own tech company stock, this doesn't directly affect you."
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "date": "2026-11-15T20:43:49.000Z",
+      "simple_summary": "There's drama at Nvidia after the CEO had to step down, and there are rumors he might try to come back to lead the company again. Corporate leadership changes can create uncertainty.",
+      "why_it_matters": "This is mostly about how the company is run internally. It doesn't affect you unless you own Nvidia stock."
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T20:20:57.000Z",
+      "simple_summary": "The TV show Saturday Night Live made jokes about tech company leaders and executives. It was just comedy entertainment.",
+      "why_it_matters": "This is entertainment news and doesn't affect your life or technology in any way."
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "date": "2026-11-15T19:15:43.000Z",
+      "simple_summary": "Congress wants to make it harder for companies to sell advanced AI computer chips to other countries, especially after a scandal involving Nvidia's former leader and a suspected spy. They want to protect American technology.",
+      "why_it_matters": "This could affect whether American tech companies can sell products globally, but for ordinary people and small businesses, the impact is indirect and distant."
+    },
     {
       "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV212VERNUTlDS3VueEZDd19WaG12V3FseS0ydmZITFhmWi1kcEpsQVVOSE43cXYyWWJUbllDUzltNGZyTWk1VWRzS2JnVE13bkNRamFTQ0hWMkZNY3NITHl6VmlUMk10cWFsODJrWGtGMjNLSEpsN3VuMzNwNi1UMEg3TEEyRkRSWi1rcTJMaHZvNFU3ODRwMFZxVmhIMzQxeFJLeHZtcGFQaWxSakZBblY0eHY2SkE2TF9TT21zYURrbDNEOWRtV1dVV29qSTBsQUEyeU91WDhwYTg4c01hdHFn?oc=5",
       "source": "The Motley Fool",
       "date": "2026-11-15T13:25:00.000Z",
-      "simple_summary": "A financial newsletter suggests that AMD, a computer chip company, might be a good investment right now because AI is becoming popular and important.",
-      "why_it_matters": "This mostly matters to investors looking to buy stocks. There's nothing you need to do about your personal finances or business unless you already own tech stocks."
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge",
-      "date": "2026-11-15T13:00:00.000Z",
-      "simple_summary": "The leader of Nvidia, a major AI company, has left his job amid some difficult situations and controversy.",
-      "why_it_matters": "This mostly matters to investors and tech industry workers. Most small businesses and retirees won't feel any direct impact."
-    },
-    {
-      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-15T11:48:00.000Z",
-      "simple_summary": "Someone who scored nearly perfectly on an important tax exam in South Korea admitted they used artificial intelligence to cheat and get that high score.",
-      "why_it_matters": "This shows that AI can help people do things they shouldn't do. It's a reminder to be careful about trusting people's credentials if AI might have helped them cheat."
-    },
-    {
-      "title": "In a Sloppified A.I. World, Only Humans Can Build ‘Ecosystems’",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qb25zOHkxMEs3MklSS1pOSGQ0UjRFZkFEMVExQkFoUlRFR0dUcFdEam41SFRqLXBkWGsxNkd0dG1YbG1STmItV0hRSUdodVdCaU8zSTRPOG90UVBxMHRtR3p4S0Ewa1VmTXhvcmh5QXhJS0ZQdVhibnJLVQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-15T10:00:14.000Z",
-      "simple_summary": "An article discusses how AI is becoming less reliable and careful, and suggests that only humans can build strong business relationships and systems that actually work together.",
-      "why_it_matters": "This is mostly opinion and theory from a newspaper. It doesn't require you to do anything specific right now."
-    },
-    {
-      "title": "Artificial Intelligence: Why are traditional industries adopting it?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
-      "source": "BBC",
-      "date": "2026-11-15T09:10:07.000Z",
-      "simple_summary": "Regular industries like manufacturing, healthcare, and retail are starting to use artificial intelligence tools to do their work better and faster.",
-      "why_it_matters": "If you own a small business, AI tools might be worth learning about since your competitors could start using them to work more efficiently than you."
-    },
-    {
-      "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZzVkMWRTZnoxeVZBby1YM1I3bXVZam82eVRqODZhZlJ0T2ZYbGtMd0JmTDRDOEMxVDgtY2NxZVJqWk1xbXlES21yRkZUTXVsdUxNTWo1R094ckpJTnVuX3FjNTZBOXkxR213OC1QWmk4ZVFIS1ZMbGpveXpzTXhET3RjaTFHRl9Zc0JubnVzYWx0Qy14RWxvb1VmU0NFNUQ4RTViYVBQVE9HNzZRRkljZTdsQzNkd2VFY0lNMmRaTVNkbzNXaE85SHhod044WTlLWmMxQnRNWDFkSDQ?oc=5",
-      "source": "France 24",
-      "date": "2026-11-15T07:04:31.000Z",
-      "simple_summary": "A Microsoft computer problem caused planes to be grounded, and people worried it might be a cyberattack or problem with AI systems.",
-      "why_it_matters": "This shows how much we now depend on computer systems that can fail. If you use cloud services or Microsoft products for your business, knowing about these risks helps you plan backups."
-    },
-    {
-      "title": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUXI5LURJcVJrU2NVeWlKeFZ0NUxseVRTZjlwMWdqYkJ5WXZ6dmtNQWxhRFdtSWdGd09TOHFWTTRkZVlGX3RXOTdBdnZNbzR1QU9JSldkRlRtNzBNaC15NExqYTVXZnBsRC1nLUM4VE5MX1owM1dSSDBEQVkxX0RGOGNwX1FKS05kMDJKVUFvVmtaUnpES0RUMXVvbjRYMVhuUzhEVnF3S3B0dFNTRXJiMW9OdGJpWm5LYVlMR3ZaQW1kNk5WcVVTNDlRckhiTmJIZmptUlRzV2EwNGxtU3o2R25hbXRnU2Y1NUtyb25rUkxXOTJJS3Y5azlsVk9makhtWVRVZ2JDWGtGdVRJZ1NxWW00SzFkWk1wZ1HSAZ8CQVVfeXFMTS1ndWxudVYzNTZ0N1dJSWtjNnExeGNvcWFWNy1lVjJJcVZScHlMck0zZmtFSG5mV2tjaXN3MG16NXZBMGNZZ25Walg3Y0Y4ZFUxQ0F1UFNmMW1RMkl0ekhrWHBMX0k1TkFzTDI0VE9QNkNiZVdLeFZEWkdFdU5tTDAwMG5kTUoyUVVlNlJrT19JbWtjRDdWa1MzT2VJZGhBdjBJWm11aFZxc1otcnRRX2xDSGNlTk5yMWJjYjBPR1JNOXRwNlNYcE94WjdBd3VGRVZjQW5rclQ0NUozSERhemZnZzhiT204LTMxb09Ba0dYSEJVSW5Ga21KVmVzQkhxdzh2Z2daZ0hpbVRWR0hJdVh1YWl3Z2FLTGp0SlJ2SlU?oc=5",
-      "source": "The Times of India",
-      "date": "2026-11-15T05:00:00.000Z",
-      "simple_summary": "An investment bank predicts the world economy will grow at a healthy rate in 2027, partly because spending on AI technology will keep increasing.",
-      "why_it_matters": "This is mostly important for investors watching the overall economy. For your personal finances or small business, general economic growth is good news."
-    },
-    {
-      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-15T04:29:00.000Z",
-      "simple_summary": "Someone who achieved the top score on South Korea's important tax exam admitted they used artificial intelligence to help them cheat.",
-      "why_it_matters": "This is the same situation as headline two. It reminds us that AI can help people do wrong things, and we should be careful about trusting accomplishments."
-    },
-    {
-      "title": "Top tax accountant exam scorer admits to cheating using AI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEczRGtVTlBSSmcwSEFDX0hxU05vWGc0TXFDelNPdXB4X0lZTmUyMk5fY2Z2aHhGOHBQdUFBWFpzX0dESURjMjhWQV9SWjlkMEl2eDRtbjk5N0F4dHNNZ1ZQRTlTRU1XY3NtVVplQ3g2MVp3czhTTmVEeGgza0xKeFhNUl9ZbE14SHI2YVZXSS1LY2RKNHZGODBsTnUxdHdCOW1ERXpZN3RwRklTUkNIMmxrUmgwcVAw0gG-AUFVX3lxTFBPc0JyZUttd1FEbWJ5X09seDVRVlAxZXV5X3RmbDFNLUZtLWd6RkxsRmUtSW9GQ21TRnAwUUFGSVJEOFVRakQtZDZxeGZyZVp3bUp1LTlsM0s1UzRVYjZMWTJLVUFPUFJ6aFJIekNCcjZobTg3cGR6eEM5Q0NlakpOTjIwU0xhRkRTUFlwcHh0dWhHRHc0bEg5eXZ2VXhFWENSMHMycjJGT213enhNY0h1MG52VjhRUUVyMml5VXc?oc=5",
-      "source": "The Korea Times",
-      "date": "2026-11-15T01:51:02.000Z",
-      "simple_summary": "A person who scored highest on a South Korean tax certification exam confessed to using AI to help them cheat on the test.",
-      "why_it_matters": "This is the same story as headlines two and seven. It demonstrates that AI can help people cheat on professional exams, which is a real concern for fair testing."
-    },
-    {
-      "title": "Where was Nvidia’s security team?",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch",
-      "date": "2026-11-15T00:08:07.000Z",
-      "simple_summary": "Nvidia's top security officer left his job in August, and now that the company's leader has stepped down due to some questionable relationships, experts are questioning whether Nvidia's security team could have caught these problems earlier.",
-      "why_it_matters": "This mostly matters to investors in Nvidia and tech industry workers. It's not something that affects your everyday business or life."
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "date": "2026-11-14T21:41:22.000Z",
-      "simple_summary": "Over 115,000 people, including Elon Musk and other tech leaders, signed a petition asking Nvidia to rehire their former CEO Jensen Huang.",
-      "why_it_matters": "This is mostly important to tech industry investors and workers. It doesn't affect your personal finances or business unless you own Nvidia stock."
-    },
-    {
-      "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2F0bGpoYmJFOWdyQWg0OW0ySlZ5MkZSanBJbUdqS05yYWFQdGlLNnBYWEhqYkFUdTVPbWpnVnZDRHlyTEttczM4aDZOclNnWUFNTU9MTlFpSllQUWRXMGV3b3VwME5YZm5ENWFSZ3hyZzM4RGFKQTRsSFI5LVNENFl3?oc=5",
-      "source": "Futurism",
-      "date": "2026-11-14T19:03:00.000Z",
-      "simple_summary": "An AI program ordered way too many eggs for someone, and when asked why it did this, the AI couldn't give a clear reason for its strange choice.",
-      "why_it_matters": "This is a humorous story that shows AI sometimes makes weird mistakes and can't always explain why. It's not a serious concern for most people using AI tools today."
+      "simple_summary": "An investment article suggests that AMD, a computer chip company that competes with Nvidia, might be a good stock to buy right now. This is investment advice for people with stock portfolios.",
+      "why_it_matters": "This is only relevant if you invest in stocks. Otherwise there's nothing you need to know."
     }
   ]
 }
