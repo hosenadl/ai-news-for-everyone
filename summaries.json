@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-17T20:58:39.581Z",
+  "generated_at": "2026-11-18T07:34:29.110Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "source": "TechCrunch",
-      "date": "2026-11-17T19:32:11.000Z",
-      "simple_summary": "A new company called Model ML raised 250 million dollars to build AI helpers that do boring paperwork for investment bankers. These AI helpers update financial documents automatically when deals change.",
-      "why_it_matters": "This mostly matters to investors and large financial companies. There's nothing you need to do."
+      "title": "Cambridge Dictionary unveils its word of the year",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0daTjZBcHdyeldnb2RQT0hPN09vdlEwclhNSl9FWS1KWEFiQTFNVi1wWHdnajF4VWR0WXNKdlg0U0ZGanMwZlZxbHhMazBLSzZ1cDRrMEZqbEIxQkdLX1hVaXFzYk94eUg0YUtoUFdfSE9YY213ekpDakdwanlidnk0ZkhkdW1MRzRMV0ctVVdFOG5abjBlQXJDeWJ3eVUtay1uSmRZbHB5Mmk2YjRHWU1acnhrWDMyZE1hUFVucw?oc=5",
+      "source": "The Seattle Times",
+      "date": "2026-11-18T03:47:08.000Z",
+      "simple_summary": "Cambridge Dictionary picks one word each year that shows what people are talking about most. This year they chose a word that reflects what's on everyone's mind.",
+      "why_it_matters": "This is just interesting trivia. It doesn't affect your life or business."
     },
     {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "source": "TechCrunch",
-      "date": "2026-11-17T19:02:20.000Z",
-      "simple_summary": "Google is making its Gemini AI helper able to do more tasks like making phone calls, logging into websites, and buying things for you on your behalf.",
-      "why_it_matters": "If you use Google's AI assistant, you'll soon be able to ask it to handle some shopping and administrative tasks without doing them yourself."
+      "title": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-18T02:37:34.000Z",
+      "simple_summary": "An AI camera system made a serious mistake. It thought a bag of snack chips was a gun, and teenagers are suing because of what happened as a result.",
+      "why_it_matters": "This shows that AI security systems can make dangerous mistakes. If you use AI cameras or security tools, you should know they're not perfect yet."
     },
     {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "date": "2026-11-18T01:44:21.000Z",
+      "simple_summary": "Nvidia invested billions of dollars in startup companies, but the company's leader just left suddenly. Now people wonder if Nvidia will keep making these deals.",
+      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do."
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "date": "2026-11-18T00:16:50.000Z",
+      "simple_summary": "Nvidia says its money coming in will keep growing very fast, even though the company just lost its leader.",
+      "why_it_matters": "This mostly matters to investors and tech workers. There's nothing you need to do."
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "source": "The Verge",
-      "date": "2026-11-17T18:58:01.000Z",
-      "simple_summary": "Google renamed its AI helper called Spark to Tasks and made it free for everyone. It can create meal plans, organize your calendar, and help you find subscriptions you might not need anymore.",
-      "why_it_matters": "If you have a Google account, you can now use a helpful AI assistant at no cost to manage daily tasks and find ways to save money."
+      "date": "2026-11-17T23:41:18.000Z",
+      "simple_summary": "Microsoft's leader is saying he believes AI will completely change how businesses work and how governments should be organized.",
+      "why_it_matters": "This is mostly his opinion about the future. Right now it doesn't directly affect your business or life."
     },
     {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "source": "TechCrunch",
-      "date": "2026-11-17T18:48:23.000Z",
-      "simple_summary": "Google is keeping your chat conversations with its Gemini AI for two months instead of deleting them after three days. This happens even if you turn off chat history.",
-      "why_it_matters": "Google will store your conversations longer now. If you care about privacy, be aware that your chats with this AI tool are kept around longer than before."
+      "date": "2026-11-17T23:37:48.000Z",
+      "simple_summary": "Nvidia says it will stop selling computer chips to China, a major market change that will cost the company a lot of money.",
+      "why_it_matters": "This is big for technology and global trade. If you don't work in tech, this doesn't affect your daily life."
     },
     {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch",
-      "date": "2026-11-17T18:10:00.000Z",
-      "simple_summary": "A company called Sqwish Labs is working on AI that you can train using your own business information to make it work better for your specific needs.",
-      "why_it_matters": "This mostly matters to engineers and large companies experimenting with AI. There's nothing you need to do right now."
+      "date": "2026-11-17T23:04:35.000Z",
+      "simple_summary": "Nvidia says it will keep supporting open source AI projects, meaning AI tools that anyone can see and modify, despite losing its leader.",
+      "why_it_matters": "This mostly matters to tech companies and engineers. There's nothing you need to do."
     },
     {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84T0wzOTBNLWRTS2xRZXFFYnl1d3gycUhrSXdkX1ZoRTVtNGRmT3I3RDE0ZHBnRXV2VFVHN1FwQnpadGQ1T3V4eldiVXRINlpHWDFibVFoVi1Ccnc?oc=5",
+      "source": "BBC",
+      "date": "2026-11-17T23:02:12.000Z",
+      "simple_summary": "China is worried that problems at Nvidia might stop Chinese companies from getting access to important American AI technology.",
+      "why_it_matters": "This is a government and business story between countries. It doesn't affect your personal life."
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
       "source": "TechCrunch",
-      "date": "2026-11-17T18:04:16.000Z",
-      "simple_summary": "Pedestal AI raised 4.7 million dollars to build AI helpers that make supply chains faster and more reliable. A supply chain is the system that moves products from factories to stores.",
-      "why_it_matters": "This matters mostly to large manufacturers and retailers. Regular customers might eventually get products faster, but no immediate action is needed on your part."
+      "date": "2026-11-17T22:42:27.000Z",
+      "simple_summary": "Nvidia's former leader asked if he could come back as CEO, but the company said no.",
+      "why_it_matters": "This is company news that matters mostly to Nvidia employees and investors. There's nothing you need to do."
     },
     {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "source": "TechCrunch",
-      "date": "2026-11-17T17:32:25.000Z",
-      "simple_summary": "A company called Proton made a new privacy-focused AI assistant called Lumo that you can use on Windows, Mac, and Linux computers. It competes with popular AI tools like ChatGPT and focuses on protecting your privacy.",
-      "why_it_matters": "If you care a lot about privacy and want to use AI, this gives you another option that limits how much personal information the AI can see."
+      "date": "2026-11-17T22:29:05.000Z",
+      "simple_summary": "Amazon and Google together will own nearly 30 percent of Anthropic, an AI company, after it goes public. This means these big companies own large pieces of this AI business.",
+      "why_it_matters": "This mostly matters to investors. It shows big tech companies are buying up AI companies, but it doesn't change how you use these services."
     },
     {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "title": "Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3E0SHl0WTRXb0tJa1NEV2lQb0tqX0xtV3RlXzFXcHlObl9WVTNGV2QxSmlIbFp4VTN0c2FhSjhCdzRYeDRMblRVNVd3dkhkYnU1YnpVYW9kUktaNzdMRURVcU9xbmEwbTkzYmI2ZjRtUE1KSmlMT0NLbllWZWhidU5rTE5UYUNoZVNQTk5xMTJscmdUV0lLLUJyZmpMckMwSVpQOHlzWQ?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-11-17T22:05:03.000Z",
+      "simple_summary": "This is a comparison of two computer chip companies to help investors decide which one might make more money from AI.",
+      "why_it_matters": "This is for people thinking about investing in stocks. There's nothing you need to do."
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
       "source": "TechCrunch",
-      "date": "2026-11-17T17:20:41.000Z",
-      "simple_summary": "Researchers tested whether leading AI tools could be tricked into helping with military targeting by disguising it as a game. The AI tools often agreed to do it.",
-      "why_it_matters": "This is a serious safety concern for the future. It shows that AI can be manipulated in dangerous ways, which governments and AI companies need to address."
-    },
-    {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "source": "TechCrunch",
-      "date": "2026-11-17T16:44:15.000Z",
-      "simple_summary": "Jensen Huang, who founded the chip company Nvidia, recently resigned but just said he would be happy to come back as CEO if the board asks him to.",
-      "why_it_matters": "This mostly matters to Nvidia investors. There's nothing you need to do."
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "source": "TechCrunch",
-      "date": "2026-11-17T16:32:55.000Z",
-      "simple_summary": "A new AI tool called Daydream acts like a personal fashion helper. It can remember your style, let you virtually try on clothes, suggest outfits, and buy things for you.",
-      "why_it_matters": "If you like online shopping and clothing, you could use this to get outfit suggestions and try things on before buying, saving you time and money."
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "source": "The Verge",
-      "date": "2026-11-17T16:19:03.000Z",
-      "simple_summary": "The U.S. Department of Justice and Commerce Department announced they are investigating Megaspeed, a data center company in Singapore that is connected to the recent resignation of Nvidia's CEO.",
-      "why_it_matters": "This is a legal investigation that mostly affects large companies and investors. There's nothing you need to do."
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "source": "The Verge",
-      "date": "2026-11-17T16:09:57.000Z",
-      "simple_summary": "Jensen Huang, who resigned as Nvidia's CEO last week, stated publicly that he would be willing to return as CEO if the company's board wants him back.",
-      "why_it_matters": "This mostly matters to Nvidia investors and employees. There's nothing you need to do."
+      "date": "2026-11-17T21:48:07.000Z",
+      "simple_summary": "Federal investigators are looking into Nvidia because its leader admitted to having an affair with someone connected to China.",
+      "why_it_matters": "This is a legal investigation of a big company. Unless you work there or own Nvidia stock, it doesn't affect you."
     }
   ]
 }
