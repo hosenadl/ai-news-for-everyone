@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-18T07:34:29.110Z",
+  "generated_at": "2026-11-18T20:36:21.206Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Cambridge Dictionary unveils its word of the year",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0daTjZBcHdyeldnb2RQT0hPN09vdlEwclhNSl9FWS1KWEFiQTFNVi1wWHdnajF4VWR0WXNKdlg0U0ZGanMwZlZxbHhMazBLSzZ1cDRrMEZqbEIxQkdLX1hVaXFzYk94eUg0YUtoUFdfSE9YY213ekpDakdwanlidnk0ZkhkdW1MRzRMV0ctVVdFOG5abjBlQXJDeWJ3eVUtay1uSmRZbHB5Mmk2YjRHWU1acnhrWDMyZE1hUFVucw?oc=5",
-      "source": "The Seattle Times",
-      "date": "2026-11-18T03:47:08.000Z",
-      "simple_summary": "Cambridge Dictionary picks one word each year that shows what people are talking about most. This year they chose a word that reflects what's on everyone's mind.",
-      "why_it_matters": "This is just interesting trivia. It doesn't affect your life or business."
-    },
-    {
-      "title": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-18T02:37:34.000Z",
-      "simple_summary": "An AI camera system made a serious mistake. It thought a bag of snack chips was a gun, and teenagers are suing because of what happened as a result.",
-      "why_it_matters": "This shows that AI security systems can make dangerous mistakes. If you use AI cameras or security tools, you should know they're not perfect yet."
-    },
-    {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
       "source": "TechCrunch",
-      "date": "2026-11-18T01:44:21.000Z",
-      "simple_summary": "Nvidia invested billions of dollars in startup companies, but the company's leader just left suddenly. Now people wonder if Nvidia will keep making these deals.",
-      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do."
+      "date": "2026-11-18T20:07:01.000Z",
+      "simple_summary": "Sam Altman, who runs OpenAI, says that an actor playing him in a movie is not even close to the strangest thing that happens in his life.",
+      "why_it_matters": "This mostly matters to people interested in celebrity news. There is nothing you need to do or know about this for your daily life or business."
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
       "source": "TechCrunch",
-      "date": "2026-11-18T00:16:50.000Z",
-      "simple_summary": "Nvidia says its money coming in will keep growing very fast, even though the company just lost its leader.",
-      "why_it_matters": "This mostly matters to investors and tech workers. There's nothing you need to do."
+      "date": "2026-11-18T19:56:39.000Z",
+      "simple_summary": "Snapchat now lets people create special visual effects (called AR Lenses) by simply describing what they want, and an AI assistant does the technical work for them.",
+      "why_it_matters": "If you are a small business that uses Snapchat to reach younger customers, this tool could make it easier for you to create fun, custom effects without hiring expensive designers."
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
       "source": "The Verge",
-      "date": "2026-11-17T23:41:18.000Z",
-      "simple_summary": "Microsoft's leader is saying he believes AI will completely change how businesses work and how governments should be organized.",
-      "why_it_matters": "This is mostly his opinion about the future. Right now it doesn't directly affect your business or life."
+      "date": "2026-11-18T19:40:36.000Z",
+      "simple_summary": "This headline is too unclear from the excerpt given. It seems to involve President Trump and an AI project in the Philippines, but the details are not explained in what was provided.",
+      "why_it_matters": "Without clearer information, it is hard to say how or if this affects ordinary people or small business owners."
     },
     {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "source": "The Verge",
+      "date": "2026-11-18T19:30:00.000Z",
+      "simple_summary": "Nvidia, a company that makes the computer chips that run AI systems, is making enormous amounts of money every second because AI is so popular right now.",
+      "why_it_matters": "This is mostly interesting to investors. If you use AI tools in your business, you should know that Nvidia's chips are likely powering them, but nothing about this story changes how you use AI."
+    },
+    {
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "source": "The Verge",
+      "date": "2026-11-18T19:07:29.000Z",
+      "simple_summary": "Congress is working on new laws to protect people from harmful deepfakes (fake videos that look real) and to make sure victims of online harm can sue the platforms that hurt them.",
+      "why_it_matters": "If someone creates a fake video of you or your business using deepfake technology, these new laws could give you better tools to fight back and hold the platforms responsible."
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge",
+      "date": "2026-11-18T18:34:15.000Z",
+      "simple_summary": "Some people in Silicon Valley think that one person, Jensen Huang (a former CEO), is so important to AI that the technology cannot survive without him.",
+      "why_it_matters": "This is mostly a story for investors and business news watchers. It does not affect how you use or work with AI tools."
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
       "source": "TechCrunch",
-      "date": "2026-11-17T23:37:48.000Z",
-      "simple_summary": "Nvidia says it will stop selling computer chips to China, a major market change that will cost the company a lot of money.",
-      "why_it_matters": "This is big for technology and global trade. If you don't work in tech, this doesn't affect your daily life."
+      "date": "2026-11-18T18:04:05.000Z",
+      "simple_summary": "Google's AI search feature now has a temporary chat mode that does not save your conversations or track what you ask for.",
+      "why_it_matters": "If you use Google Search and want to ask the AI questions without Google remembering them, this new option gives you more privacy when you search."
     },
     {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "source": "The Verge",
+      "date": "2026-11-18T17:50:57.000Z",
+      "simple_summary": "Disney is testing new robot characters at its theme parks that can have real conversations with visitors instead of just repeating the same movements over and over.",
+      "why_it_matters": "If you visit Disney parks, the characters you meet there will soon feel more alive and responsive. This probably does not affect small business owners unless you work in entertainment."
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
       "source": "TechCrunch",
-      "date": "2026-11-17T23:04:35.000Z",
-      "simple_summary": "Nvidia says it will keep supporting open source AI projects, meaning AI tools that anyone can see and modify, despite losing its leader.",
-      "why_it_matters": "This mostly matters to tech companies and engineers. There's nothing you need to do."
+      "date": "2026-11-18T17:32:10.000Z",
+      "simple_summary": "Several banks, including Citi, are telling customers that if they use AI assistants to manage their money and something goes wrong, the bank will not take responsibility for protecting them.",
+      "why_it_matters": "If you are thinking about using an AI tool to help manage your business bank account, you should be careful and check with your bank first about what they will do if something goes wrong or the account gets hacked."
     },
     {
-      "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84T0wzOTBNLWRTS2xRZXFFYnl1d3gycUhrSXdkX1ZoRTVtNGRmT3I3RDE0ZHBnRXV2VFVHN1FwQnpadGQ1T3V4eldiVXRINlpHWDFibVFoVi1Ccnc?oc=5",
-      "source": "BBC",
-      "date": "2026-11-17T23:02:12.000Z",
-      "simple_summary": "China is worried that problems at Nvidia might stop Chinese companies from getting access to important American AI technology.",
-      "why_it_matters": "This is a government and business story between countries. It doesn't affect your personal life."
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
       "source": "TechCrunch",
-      "date": "2026-11-17T22:42:27.000Z",
-      "simple_summary": "Nvidia's former leader asked if he could come back as CEO, but the company said no.",
-      "why_it_matters": "This is company news that matters mostly to Nvidia employees and investors. There's nothing you need to do."
+      "date": "2026-11-18T16:59:00.000Z",
+      "simple_summary": "Sam Altman says he worries about AI systems becoming so smart that they make important decisions without human approval, but he is working to keep humans in control.",
+      "why_it_matters": "This is a conversation about safety concerns in AI development. For now, humans are still in charge of deciding what AI systems do, and this story shows the leaders are thinking about how to keep it that way."
     },
     {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
       "source": "TechCrunch",
-      "date": "2026-11-17T22:29:05.000Z",
-      "simple_summary": "Amazon and Google together will own nearly 30 percent of Anthropic, an AI company, after it goes public. This means these big companies own large pieces of this AI business.",
-      "why_it_matters": "This mostly matters to investors. It shows big tech companies are buying up AI companies, but it doesn't change how you use these services."
+      "date": "2026-11-18T16:14:09.000Z",
+      "simple_summary": "Sam Altman says that Jensen Huang, the founder of Nvidia, is so important to the AI industry that it would be hard to imagine it without him, after Huang stepped down as CEO.",
+      "why_it_matters": "This is mostly about leadership changes at big tech companies. It does not affect how you use AI tools or run your business."
     },
     {
-      "title": "Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron?",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3E0SHl0WTRXb0tJa1NEV2lQb0tqX0xtV3RlXzFXcHlObl9WVTNGV2QxSmlIbFp4VTN0c2FhSjhCdzRYeDRMblRVNVd3dkhkYnU1YnpVYW9kUktaNzdMRURVcU9xbmEwbTkzYmI2ZjRtUE1KSmlMT0NLbllWZWhidU5rTE5UYUNoZVNQTk5xMTJscmdUV0lLLUJyZmpMckMwSVpQOHlzWQ?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-11-17T22:05:03.000Z",
-      "simple_summary": "This is a comparison of two computer chip companies to help investors decide which one might make more money from AI.",
-      "why_it_matters": "This is for people thinking about investing in stocks. There's nothing you need to do."
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "source": "TechCrunch",
-      "date": "2026-11-17T21:48:07.000Z",
-      "simple_summary": "Federal investigators are looking into Nvidia because its leader admitted to having an affair with someone connected to China.",
-      "why_it_matters": "This is a legal investigation of a big company. Unless you work there or own Nvidia stock, it doesn't affect you."
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge",
+      "date": "2026-11-18T15:44:02.000Z",
+      "simple_summary": "Earlier this year, some AI companies promised to slow down their development of the most powerful AI systems, but new evidence suggests they are still building them as fast as before.",
+      "why_it_matters": "This is a story about whether major tech companies are keeping their safety promises. It matters mainly to people who follow AI safety and business news. There is nothing specific you need to do about it."
     }
   ]
 }
