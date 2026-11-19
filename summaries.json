@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-19T07:30:16.128Z",
+  "generated_at": "2026-11-19T20:41:27.557Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV19sWEZ5SEZ6RFJiZUdGMWlSbG1XM2ZNSXVnOWpuSzRpYzJhdktCNzhYdmFTakk1U2I1UXpRcFdZZ0lUa0pyNEZ2bW1iV2xpVGdUaEMtZ3dmVzM1c0dRUTBuZ0o1UjdfZG9FUDJKejNNMWVQRW1zRW16NFY3X0s0ZVlQS2N1eS1xOXI4eWtGQXUxS3l1UDl1WWtENTFLRHgzYlo0aUJDU0xrVGdBcTBpLVFXekNKenRNRWZjSXlwNV9TcDFBTTZJOGkyckNNaldSS3c?oc=5",
-      "source": "PYMNTS.com",
-      "date": "2026-11-19T01:48:36.000Z",
-      "simple_summary": "Palo Alto Networks is buying a computer company called Applied Compute for 4.5 billion dollars. This company helps run artificial intelligence systems.",
-      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do."
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch",
-      "date": "2026-11-19T00:42:56.000Z",
-      "simple_summary": "Microsoft's leader offered money to 60,000 workers if they would voluntarily quit their jobs. He did this because the company is shifting focus toward artificial intelligence.",
-      "why_it_matters": "If you work at Microsoft this affects you directly. Otherwise this shows big tech companies are reorganizing around AI, which may eventually change how you use computers."
+      "date": "2026-11-19T20:18:49.000Z",
+      "simple_summary": "The leader of Nvidia, a major computer company, resigned after an affair became public. This could matter for how quickly the U.S. and China develop advanced computer technology.",
+      "why_it_matters": "Unless you work in tech investing, this is mostly important as business news. It doesn't affect what AI tools you can use."
     },
     {
-      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45ZV9aZUpNTGl2cUJrTEZ3SzR5a2ZjcW42VURGbElXZ1B1TUtISE4zeXhEVlFTWW11ajJpV2FSNzNCM0lRYlBWREpXMURsUWJGUlppbTdnbUpjdXNuVU1yQ3VFLW1wam5kNDVZQ1o1cDE2bVg0UUFweWE3VQ?oc=5",
-      "source": "NPR",
-      "date": "2026-11-18T23:54:56.000Z",
-      "simple_summary": "Anthropic, a company that makes AI software, sold shares to the public for the first time and raised 81.3 billion dollars. This is a record amount of money for this type of sale.",
-      "why_it_matters": "This mostly matters to investors. It shows people are very confident about AI's future, but it doesn't change how you'd use AI today."
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
-      "date": "2026-11-18T23:45:00.000Z",
-      "simple_summary": "Microsoft's leader warned that much of our connected systems cannot be easily updated to fix security problems. He said AI creates both new opportunities and new dangers for computer security.",
-      "why_it_matters": "This matters to everyone because it means critical systems like power grids or hospitals have safety risks. The good news is experts are aware of the problem."
+      "date": "2026-11-19T19:10:45.000Z",
+      "simple_summary": "Anthropic, an AI company, is planning to give away an estimated 156 billion dollars to charity when it sells shares publicly. This would happen through their special charity foundation and employee donations.",
+      "why_it_matters": "This is interesting if you care about companies doing good, but it mostly matters to investors. There's nothing you need to do."
     },
     {
-      "title": "Claude-maker Anthropic poised for $1.4tn IPO",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "source": "BBC",
-      "date": "2026-11-18T23:44:27.000Z",
-      "simple_summary": "Anthropic, which makes an AI assistant called Claude, is selling shares to the public and was valued at 1.4 trillion dollars. This headline repeats information from an earlier story.",
-      "why_it_matters": "This mostly matters to investors. It shows confidence in the AI market but doesn't change how ordinary people use technology."
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch",
-      "date": "2026-11-18T23:25:17.000Z",
-      "simple_summary": "Elon Musk made a comparison saying that removing Jensen Huang from his company would be like kicking a star player off a sports team. Musk was defending Huang against questions about his loyalty.",
-      "why_it_matters": "This mostly matters to investors and technology industry watchers. There's nothing you need to do."
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "Gemini on Mac can now use your computer",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
       "source": "The Verge",
-      "date": "2026-11-18T23:18:35.000Z",
-      "simple_summary": "Big school districts in New York, Los Angeles, and Chicago are thinking about switching away from Google Search. This is because Google is forcing schools to use its AI features if they want to keep using Search.",
-      "why_it_matters": "If you have grandchildren in these large school districts, this could affect what tools they use in class. Schools are pushing back because they want control over which tools their students use."
+      "date": "2026-11-19T18:21:13.000Z",
+      "simple_summary": "Google's Gemini AI tool on Apple computers can now do tasks for you on your screen, like filling out forms or organizing files. You ask it what you need, and it does the clicking and typing.",
+      "why_it_matters": "If you use a Mac and want help with repetitive office tasks, this tool could save you time on paperwork and organizing."
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "source": "TechCrunch",
-      "date": "2026-11-18T23:17:28.000Z",
-      "simple_summary": "Microsoft's leader said he still trusts Nvidia even though Jensen Huang stepped down from running the company. A new person named Colette Kress is now temporarily leading Nvidia.",
-      "why_it_matters": "This mostly matters to investors and companies that buy computer chips from Nvidia. It signals that Nvidia is likely still a reliable partner."
+      "date": "2026-11-19T18:09:11.000Z",
+      "simple_summary": "Google updated Gemini to work like a helper on your Mac. It can organize your files, fill in forms, and handle multi-step tasks without you doing each step yourself.",
+      "why_it_matters": "Mac users might find this helpful for speeding up paperwork and office tasks if they're comfortable trying new tools."
     },
     {
-      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
-      "source": "AP News",
-      "date": "2026-11-18T23:09:06.000Z",
-      "simple_summary": "Anthropic sold its first shares to the public at 83 dollars per share. The company is now worth 1.5 trillion dollars based on these prices.",
-      "why_it_matters": "This mostly matters to investors. It's a repeat of earlier news about Anthropic's public stock sale."
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "source": "TechCrunch",
-      "date": "2026-11-18T22:58:11.000Z",
-      "simple_summary": "Microsoft's leader thinks AI assistants will change how money flows on the internet. Companies like Amazon may have to find new ways to attract customers instead of relying on paid advertisements.",
-      "why_it_matters": "This could eventually change how online shopping and websites work, but it's still mostly prediction and ideas rather than something happening right now."
+      "date": "2026-11-19T17:38:40.000Z",
+      "simple_summary": "Meta's AI assistant Muse made serious mistakes by showing employees other people's private information. For example, it showed someone else's bank balance or personal messages that weren't theirs.",
+      "why_it_matters": "If your business uses Meta's AI tools, be cautious and don't put sensitive information into them until these problems are fixed."
     },
     {
-      "title": "Nvidia retreats as strong outlook fails to dispel uncertainty",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-18T22:17:53.000Z",
-      "simple_summary": "Nvidia's stock price fell even though the company gave positive predictions about its future business.",
-      "why_it_matters": "This mostly matters to investors who own Nvidia stock. It shows some people are unsure about the company despite good news."
-    },
-    {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
       "source": "TechCrunch",
-      "date": "2026-11-18T22:11:15.000Z",
-      "simple_summary": "Anthropic sold its first shares to the public at 83 dollars per share, which was higher than expected. The sale values the AI company at 1.5 trillion dollars.",
-      "why_it_matters": "This mostly matters to investors. It's similar information to an earlier headline about the same stock sale."
+      "date": "2026-11-19T17:00:00.000Z",
+      "simple_summary": "A company called Everful raised 48.5 million dollars to help small stores buy products directly from factories in China. The more money means they can grow and help more retailers.",
+      "why_it_matters": "If you run a small retail store and buy products from overseas, you might eventually use this service to skip middlemen and save money."
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T16:59:23.000Z",
+      "simple_summary": "Anthropic, an AI company, sold shares publicly and started at 111 dollars per share, worth much more than the starting price of 83 dollars. The company raised about 80 billion dollars in new money.",
+      "why_it_matters": "This matters mostly to investors and tech watchers. It signals that people are very confident in AI, but it doesn't change how you use AI tools."
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "source": "The Verge",
+      "date": "2026-11-19T16:52:01.000Z",
+      "simple_summary": "Anthropic became a public company and started trading on the stock market today under the symbol ANT. The company's total value reached around 1.5 trillion dollars, making it one of the most valuable debuts ever.",
+      "why_it_matters": "This is big news for investors, but unless you own stock or work in tech, it's mostly a headline milestone."
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T16:19:41.000Z",
+      "simple_summary": "The leader of Anthropic spoke at the stock market opening and promised the company will develop AI carefully, even if faster progress would make more money.",
+      "why_it_matters": "This shows Anthropic is trying to balance profit with safety, but it's mainly a message to investors about company values."
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge",
+      "date": "2026-11-19T15:16:45.000Z",
+      "simple_summary": "ChatGPT can now listen to you talking and write down what you say in real time. You don't have to wait until you finish speaking to send your message.",
+      "why_it_matters": "If you use ChatGPT, this makes it easier to give voice commands without recording your whole message first. It's a convenience upgrade."
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T14:54:39.000Z",
+      "simple_summary": "Anthropic's public launch highlights how companies like Amazon and Google profit from AI businesses even when other AI companies struggle. Anthropic has very expensive computer costs ahead.",
+      "why_it_matters": "This is mostly relevant to investors who want to understand tech business competition."
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge",
+      "date": "2026-11-19T14:25:37.000Z",
+      "simple_summary": "Anthropic went public today and became the most valuable company debut ever, raising 81.3 billion dollars. The company was founded with a promise to build AI safely, and now it must keep that promise as a public company.",
+      "why_it_matters": "If you care whether AI companies prioritize safety over profit, Anthropic's growth as a public company is worth watching."
     }
   ]
 }
