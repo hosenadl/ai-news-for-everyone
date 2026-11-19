@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-18T20:36:21.206Z",
+  "generated_at": "2026-11-19T07:30:16.128Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "title": "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV19sWEZ5SEZ6RFJiZUdGMWlSbG1XM2ZNSXVnOWpuSzRpYzJhdktCNzhYdmFTakk1U2I1UXpRcFdZZ0lUa0pyNEZ2bW1iV2xpVGdUaEMtZ3dmVzM1c0dRUTBuZ0o1UjdfZG9FUDJKejNNMWVQRW1zRW16NFY3X0s0ZVlQS2N1eS1xOXI4eWtGQXUxS3l1UDl1WWtENTFLRHgzYlo0aUJDU0xrVGdBcTBpLVFXekNKenRNRWZjSXlwNV9TcDFBTTZJOGkyckNNaldSS3c?oc=5",
+      "source": "PYMNTS.com",
+      "date": "2026-11-19T01:48:36.000Z",
+      "simple_summary": "Palo Alto Networks is buying a computer company called Applied Compute for 4.5 billion dollars. This company helps run artificial intelligence systems.",
+      "why_it_matters": "This mostly matters to investors and technology companies. There's nothing you need to do."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
-      "date": "2026-11-18T20:07:01.000Z",
-      "simple_summary": "Sam Altman, who runs OpenAI, says that an actor playing him in a movie is not even close to the strangest thing that happens in his life.",
-      "why_it_matters": "This mostly matters to people interested in celebrity news. There is nothing you need to do or know about this for your daily life or business."
+      "date": "2026-11-19T00:42:56.000Z",
+      "simple_summary": "Microsoft's leader offered money to 60,000 workers if they would voluntarily quit their jobs. He did this because the company is shifting focus toward artificial intelligence.",
+      "why_it_matters": "If you work at Microsoft this affects you directly. Otherwise this shows big tech companies are reorganizing around AI, which may eventually change how you use computers."
     },
     {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45ZV9aZUpNTGl2cUJrTEZ3SzR5a2ZjcW42VURGbElXZ1B1TUtISE4zeXhEVlFTWW11ajJpV2FSNzNCM0lRYlBWREpXMURsUWJGUlppbTdnbUpjdXNuVU1yQ3VFLW1wam5kNDVZQ1o1cDE2bVg0UUFweWE3VQ?oc=5",
+      "source": "NPR",
+      "date": "2026-11-18T23:54:56.000Z",
+      "simple_summary": "Anthropic, a company that makes AI software, sold shares to the public for the first time and raised 81.3 billion dollars. This is a record amount of money for this type of sale.",
+      "why_it_matters": "This mostly matters to investors. It shows people are very confident about AI's future, but it doesn't change how you'd use AI today."
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "source": "TechCrunch",
-      "date": "2026-11-18T19:56:39.000Z",
-      "simple_summary": "Snapchat now lets people create special visual effects (called AR Lenses) by simply describing what they want, and an AI assistant does the technical work for them.",
-      "why_it_matters": "If you are a small business that uses Snapchat to reach younger customers, this tool could make it easier for you to create fun, custom effects without hiring expensive designers."
+      "date": "2026-11-18T23:45:00.000Z",
+      "simple_summary": "Microsoft's leader warned that much of our connected systems cannot be easily updated to fix security problems. He said AI creates both new opportunities and new dangers for computer security.",
+      "why_it_matters": "This matters to everyone because it means critical systems like power grids or hospitals have safety risks. The good news is experts are aware of the problem."
     },
     {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "source": "The Verge",
-      "date": "2026-11-18T19:40:36.000Z",
-      "simple_summary": "This headline is too unclear from the excerpt given. It seems to involve President Trump and an AI project in the Philippines, but the details are not explained in what was provided.",
-      "why_it_matters": "Without clearer information, it is hard to say how or if this affects ordinary people or small business owners."
+      "title": "Claude-maker Anthropic poised for $1.4tn IPO",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+      "source": "BBC",
+      "date": "2026-11-18T23:44:27.000Z",
+      "simple_summary": "Anthropic, which makes an AI assistant called Claude, is selling shares to the public and was valued at 1.4 trillion dollars. This headline repeats information from an earlier story.",
+      "why_it_matters": "This mostly matters to investors. It shows confidence in the AI market but doesn't change how ordinary people use technology."
     },
     {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "source": "The Verge",
-      "date": "2026-11-18T19:30:00.000Z",
-      "simple_summary": "Nvidia, a company that makes the computer chips that run AI systems, is making enormous amounts of money every second because AI is so popular right now.",
-      "why_it_matters": "This is mostly interesting to investors. If you use AI tools in your business, you should know that Nvidia's chips are likely powering them, but nothing about this story changes how you use AI."
-    },
-    {
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "source": "The Verge",
-      "date": "2026-11-18T19:07:29.000Z",
-      "simple_summary": "Congress is working on new laws to protect people from harmful deepfakes (fake videos that look real) and to make sure victims of online harm can sue the platforms that hurt them.",
-      "why_it_matters": "If someone creates a fake video of you or your business using deepfake technology, these new laws could give you better tools to fight back and hold the platforms responsible."
-    },
-    {
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "source": "The Verge",
-      "date": "2026-11-18T18:34:15.000Z",
-      "simple_summary": "Some people in Silicon Valley think that one person, Jensen Huang (a former CEO), is so important to AI that the technology cannot survive without him.",
-      "why_it_matters": "This is mostly a story for investors and business news watchers. It does not affect how you use or work with AI tools."
-    },
-    {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
       "source": "TechCrunch",
-      "date": "2026-11-18T18:04:05.000Z",
-      "simple_summary": "Google's AI search feature now has a temporary chat mode that does not save your conversations or track what you ask for.",
-      "why_it_matters": "If you use Google Search and want to ask the AI questions without Google remembering them, this new option gives you more privacy when you search."
+      "date": "2026-11-18T23:25:17.000Z",
+      "simple_summary": "Elon Musk made a comparison saying that removing Jensen Huang from his company would be like kicking a star player off a sports team. Musk was defending Huang against questions about his loyalty.",
+      "why_it_matters": "This mostly matters to investors and technology industry watchers. There's nothing you need to do."
     },
     {
-      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
       "source": "The Verge",
-      "date": "2026-11-18T17:50:57.000Z",
-      "simple_summary": "Disney is testing new robot characters at its theme parks that can have real conversations with visitors instead of just repeating the same movements over and over.",
-      "why_it_matters": "If you visit Disney parks, the characters you meet there will soon feel more alive and responsive. This probably does not affect small business owners unless you work in entertainment."
+      "date": "2026-11-18T23:18:35.000Z",
+      "simple_summary": "Big school districts in New York, Los Angeles, and Chicago are thinking about switching away from Google Search. This is because Google is forcing schools to use its AI features if they want to keep using Search.",
+      "why_it_matters": "If you have grandchildren in these large school districts, this could affect what tools they use in class. Schools are pushing back because they want control over which tools their students use."
     },
     {
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "source": "TechCrunch",
-      "date": "2026-11-18T17:32:10.000Z",
-      "simple_summary": "Several banks, including Citi, are telling customers that if they use AI assistants to manage their money and something goes wrong, the bank will not take responsibility for protecting them.",
-      "why_it_matters": "If you are thinking about using an AI tool to help manage your business bank account, you should be careful and check with your bank first about what they will do if something goes wrong or the account gets hacked."
+      "date": "2026-11-18T23:17:28.000Z",
+      "simple_summary": "Microsoft's leader said he still trusts Nvidia even though Jensen Huang stepped down from running the company. A new person named Colette Kress is now temporarily leading Nvidia.",
+      "why_it_matters": "This mostly matters to investors and companies that buy computer chips from Nvidia. It signals that Nvidia is likely still a reliable partner."
     },
     {
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
+      "source": "AP News",
+      "date": "2026-11-18T23:09:06.000Z",
+      "simple_summary": "Anthropic sold its first shares to the public at 83 dollars per share. The company is now worth 1.5 trillion dollars based on these prices.",
+      "why_it_matters": "This mostly matters to investors. It's a repeat of earlier news about Anthropic's public stock sale."
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
       "source": "TechCrunch",
-      "date": "2026-11-18T16:59:00.000Z",
-      "simple_summary": "Sam Altman says he worries about AI systems becoming so smart that they make important decisions without human approval, but he is working to keep humans in control.",
-      "why_it_matters": "This is a conversation about safety concerns in AI development. For now, humans are still in charge of deciding what AI systems do, and this story shows the leaders are thinking about how to keep it that way."
+      "date": "2026-11-18T22:58:11.000Z",
+      "simple_summary": "Microsoft's leader thinks AI assistants will change how money flows on the internet. Companies like Amazon may have to find new ways to attract customers instead of relying on paid advertisements.",
+      "why_it_matters": "This could eventually change how online shopping and websites work, but it's still mostly prediction and ideas rather than something happening right now."
     },
     {
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "title": "Nvidia retreats as strong outlook fails to dispel uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-18T22:17:53.000Z",
+      "simple_summary": "Nvidia's stock price fell even though the company gave positive predictions about its future business.",
+      "why_it_matters": "This mostly matters to investors who own Nvidia stock. It shows some people are unsure about the company despite good news."
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
-      "date": "2026-11-18T16:14:09.000Z",
-      "simple_summary": "Sam Altman says that Jensen Huang, the founder of Nvidia, is so important to the AI industry that it would be hard to imagine it without him, after Huang stepped down as CEO.",
-      "why_it_matters": "This is mostly about leadership changes at big tech companies. It does not affect how you use AI tools or run your business."
-    },
-    {
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "source": "The Verge",
-      "date": "2026-11-18T15:44:02.000Z",
-      "simple_summary": "Earlier this year, some AI companies promised to slow down their development of the most powerful AI systems, but new evidence suggests they are still building them as fast as before.",
-      "why_it_matters": "This is a story about whether major tech companies are keeping their safety promises. It matters mainly to people who follow AI safety and business news. There is nothing specific you need to do about it."
+      "date": "2026-11-18T22:11:15.000Z",
+      "simple_summary": "Anthropic sold its first shares to the public at 83 dollars per share, which was higher than expected. The sale values the AI company at 1.5 trillion dollars.",
+      "why_it_matters": "This mostly matters to investors. It's similar information to an earlier headline about the same stock sale."
     }
   ]
 }
