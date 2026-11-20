@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-20T07:21:39.418Z",
+  "generated_at": "2026-11-20T20:25:54.591Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTk9tWHVaM3MxVm13S2hselgzcGZIekZxZnU1dHhmTnl5UWVFYUdubmJHenJ3UnU3RTJFMkV0TGJnYVF1VnhUOGY3X3ZyTi1LbkZZeHItN2FvbGRSYXE3Q3ZncWZVbkJKd1JpdmQtQ0hhNFdsc09oeGI4ZHluWXF6a0ZHOS1SUkhWRFIzNzgybW9aYjNRRWItYmtRN2puejAycUdiM3RCY1ltVnhHUHNWeHFlLTZucjVuOENQY2FsMVhqenl3cjJV?oc=5",
-      "source": "WRAL",
-      "date": "2026-11-20T05:07:10.000Z",
-      "simple_summary": "Anthropic, a company that makes AI software, just became a public company that people can buy stock in. The company grew very fast but has had some mixed results along the way.",
-      "why_it_matters": "This mostly matters to investors buying and selling stock. If you use AI tools made by Anthropic, nothing will change for you right now."
-    },
-    {
-      "title": "The ‘new norm’: How AI is driving mass tech outages",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92bndjYXU1Y1FBLVdoV0dwUUZlcFA1OXFpWE50ZTk5MTRvdlpkNnkzSnM0SV8tNWZzUThXUVhJbnhJMFo3d0syZzI5eVZsZkZKYUtNWnV5OU5YQTNpd1U5NTdYOFlEQVE3d2MxWTJlZnBtUmtUeDR3T2lMWEMzeDg?oc=5",
-      "source": "Politico",
-      "date": "2026-11-20T02:17:00.000Z",
-      "simple_summary": "Computers and websites have been crashing more often lately, and some experts think it might be connected to how companies are using AI tools. These outages affect airlines, banks, and other services people rely on.",
-      "why_it_matters": "If you book flights or use online banking, you might experience more glitches and downtime than before."
-    },
-    {
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
-      "source": "CNBC",
-      "date": "2026-11-20T01:07:00.000Z",
-      "simple_summary": "Stock prices for technology companies in Asia dropped sharply after Anthropic's public offering. This happened because some investors got nervous and sold their stocks.",
-      "why_it_matters": "This mostly matters to investors. Unless you own stock in Asian tech companies, this doesn't directly affect your daily life."
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
-      "date": "2026-11-20T00:56:01.000Z",
-      "simple_summary": "Apple is working on an AI helper for your computer that can do multiple tasks for you, like browse the web or help you write code. It would work similar to other AI helpers made by other companies.",
-      "why_it_matters": "In the future, your Mac computer might be smarter and do more things automatically for you, though we don't know when or how much this will cost."
+      "date": "2026-11-20T19:53:41.000Z",
+      "simple_summary": "A music company founder is investing money in a startup that wants to create a new type of power plant using fusion energy. The startup was started by someone who works with AI.",
+      "why_it_matters": "This mostly matters to investors and engineers. Fusion power is decades away from being practical, so it won't affect your home or business soon."
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
-      "date": "2026-11-20T00:43:50.000Z",
-      "simple_summary": "When Anthropic became a public company, its seven founders each made about 280 million dollars, and the company raised about 105 billion dollars in total. This is a record-breaking amount of money.",
-      "why_it_matters": "This mostly matters to investors and people interested in business news. It doesn't change how the company's AI tools work for regular users."
+      "date": "2026-11-20T19:32:08.000Z",
+      "simple_summary": "AI computers and a human mathematician have both claimed to solve a very difficult math puzzle that has stumped experts for 167 years. Mathematicians are excited but need to check if these answers are correct.",
+      "why_it_matters": "This mostly matters to mathematicians and investors. Unless you work in advanced math, this won't change your daily life."
     },
     {
-      "title": "Why Canada is embracing AI data centres while the US pushes back",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JeEdjWUp3djR5cl9JQ1oybjgxMmhfQ1dZb3FCeDluZmJFaW94VHJIeW9vSmtfSFpKRkQtUXlqM01qUHlHaG56M1lodF80dEZzWFlLWmFvLU9qWXc?oc=5",
-      "source": "BBC",
-      "date": "2026-11-20T00:13:24.000Z",
-      "simple_summary": "Canada is building big facilities to process information for AI companies, while the United States is making it harder to do this. The two countries have different rules about where this work can happen.",
-      "why_it_matters": "This is mostly important to large technology companies and business policy makers. It's unlikely to affect you as a small-business owner or customer."
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
-      "source": "BBC",
-      "date": "2026-11-19T23:33:51.000Z",
-      "simple_summary": "Anthropic became one of the world's most valuable companies after it started selling stock to the public for the first time. The company reached a very high valuation based on how much people were willing to pay for shares.",
-      "why_it_matters": "This mostly matters to investors. For people using Anthropic's AI tools, the company's value doesn't change how the tools work."
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge",
-      "date": "2026-11-19T22:31:41.000Z",
-      "simple_summary": "Apple is hiring engineers to build an AI assistant that can do many different tasks on your computer, including browsing websites, using multiple programs, writing code, and making phone calls. The company posted a job listing looking for someone to lead this project.",
-      "why_it_matters": "In the future, Apple might give you an AI helper that works across your devices and does complicated tasks for you automatically."
+      "date": "2026-11-20T18:50:19.000Z",
+      "simple_summary": "The president said he wants to tax companies heavily if they build data centers outside the United States. Data centers are large buildings full of computers that store information.",
+      "why_it_matters": "This could matter to your electricity bills and internet costs eventually, since data centers need a lot of power. But the actual impact depends on whether this plan actually happens."
     },
     {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "title": "Chips can survive the space environment — can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "date": "2026-11-20T17:40:01.000Z",
+      "simple_summary": "Banks that lend money are worried about companies putting computer equipment in space because they don't want their collateral floating in orbit. The article questions whether space data centers can get the money they need to operate.",
+      "why_it_matters": "This mostly matters to investors and space companies. It won't affect ordinary people unless space-based internet services become popular later."
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "source": "The Verge",
-      "date": "2026-11-19T21:59:35.000Z",
-      "simple_summary": "Nvidia's stock price dropped about 40 percent from its highest point in early October, falling to around 150 dollars per share. The chip company makes processors that power AI systems.",
-      "why_it_matters": "This mostly matters to investors in Nvidia. If you don't own Nvidia stock, the price changes don't directly affect you."
+      "date": "2026-11-20T16:34:13.000Z",
+      "simple_summary": "A mathematician working at an AI company used a powerful AI called Claude to solve the same difficult 167-year-old math puzzle mentioned in the news. If other experts confirm this answer is right, it would be a big deal for AI.",
+      "why_it_matters": "This mostly matters to mathematicians, students, and AI researchers. Unless you use advanced math at work, this doesn't affect your life."
     },
     {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "source": "TechCrunch",
-      "date": "2026-11-19T21:58:06.000Z",
-      "simple_summary": "Meta is working on a wearable device that you can wear on your body or clothes, and it might cost around 300 dollars. The company has not officially confirmed the price or exact features yet.",
-      "why_it_matters": "If you're interested in AI wearable devices and have around 300 dollars to spend, you might want to wait for official information from Meta before it comes out."
+      "date": "2026-11-20T14:55:44.000Z",
+      "simple_summary": "A major computer chip company had leadership problems and removed its CEO, but the company still reported strong profits. The company also announced it will stop selling certain high-end chips to China.",
+      "why_it_matters": "This mostly matters to investors and technology industry watchers. For your business or home, it probably won't change anything."
     },
     {
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-19T21:44:56.000Z",
-      "simple_summary": "Apple is developing an AI helper that can control your devices and programs, browse the internet, write code, and do other tasks for you on your computer. The company is currently looking for engineers to build it.",
-      "why_it_matters": "Eventually your Apple devices might become smarter and do more tasks on their own, though it could be quite a while before this feature arrives."
+      "title": "The week everything fell apart",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge",
+      "date": "2026-11-20T14:06:59.000Z",
+      "simple_summary": "Several important computer systems and services stopped working for days this week, including email, airlines, banks, and cloud storage. It was like watching multiple parts of the internet break at once.",
+      "why_it_matters": "If you rely on email, banking, or airline systems, you may have been affected this week. This shows how much we depend on a few companies to keep everything running."
     },
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "source": "TechCrunch",
-      "date": "2026-11-19T21:42:31.000Z",
-      "simple_summary": "Several important computer systems have crashed recently, affecting airlines, banks, and work tools. Some cybersecurity experts think these outages might be connected to how companies are using new AI technology, not just bad luck.",
-      "why_it_matters": "You might experience more service interruptions with banks and airlines until these problems get fixed, so it's good to have backup ways to reach these services."
+      "date": "2026-11-20T14:00:00.000Z",
+      "simple_summary": "Several new gadgets with AI built in can help you work better at home, like smart cameras and automatic notetakers. These are products you can buy to upgrade your workspace.",
+      "why_it_matters": "If you work from home or run a small business, trying one of these tools might save you time, but most of these gadgets are just nice-to-have extras, not essential."
+    },
+    {
+      "title": "Can Anthropic Revive the A.I. Trade?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWt6aDNNRUd4TDBObHJrUnVUbTJxXzIzRU9UWGVtd2xSaVdPOVdYOGllQU5JelhTRXQ2V2M5MmptU3JyaVphZEpkUjBuMlZBUmc4bzF1YTM2b2R5ZzFCRkp4bVhvWnhCODFVS1JFVm5ldHlmUE9aWExwRFFlcnVTUlpwWERFYnM?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-20T13:01:11.000Z",
+      "simple_summary": "An article is about whether an AI company called Anthropic can help the AI industry keep growing and doing well.",
+      "why_it_matters": "The headline is too vague to explain clearly. Depending on what the article says, it might be important to investors or general news about AI's future."
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge",
+      "date": "2026-11-20T12:30:47.000Z",
+      "simple_summary": "A privacy-focused messaging app called Signal is blocking AI features built into phones from reading what is on your screen and your messages. This protects your private conversations from being seen by AI systems.",
+      "why_it_matters": "If you use Signal and care about privacy, this is good news. If you use other messaging apps, they may not have this same protection."
+    },
+    {
+      "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-20T11:51:04.000Z",
+      "simple_summary": "Large medicine companies are looking at AI to help them create new drugs faster. They are watching an AI company called Anthropic to see what it can do.",
+      "why_it_matters": "This mostly matters to investors and the medicine industry. Medicine development takes many years, so improvements here won't help patients immediately."
+    },
+    {
+      "title": "JudgeGPT? Artificial intelligence enters Philly judicial chambers, raising questions over accuracy",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2g1Y2lzUzJSYzhIMVVnWFRLcGN5d0NrYmIxcmZyRnVyc1Y1dUFOSzFNNjJ4bkNrd1F3U0VVNk9UbjBPanN5TVBVY1FGMUlXOE5wbjdpQkh0NHlEVlBsODlfMk95T2VQU0I3eW90LWlWSUFNNEc2QTdzUDhHZjNlbm82Q1lCNmlTR0l5ODM2cWdXQ3BzQ0E1eWw5QU56YzU2YXRFc0dSYUNYYmxIOVRQVS13aEhsNGVrV1k2UVp3?oc=5",
+      "source": "Inquirer.com",
+      "date": "2026-11-20T10:01:00.000Z",
+      "simple_summary": "Philadelphia is testing whether AI can help judges make decisions or write reports in their offices. Some people are worried the AI might make mistakes.",
+      "why_it_matters": "If you are involved in a court case in Philadelphia, AI might be used to help the judge. It is too early to know if this will be helpful or cause problems."
     }
   ]
 }
