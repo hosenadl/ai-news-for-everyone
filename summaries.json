@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-19T20:41:27.557Z",
+  "generated_at": "2026-11-20T07:21:39.418Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T20:18:49.000Z",
-      "simple_summary": "The leader of Nvidia, a major computer company, resigned after an affair became public. This could matter for how quickly the U.S. and China develop advanced computer technology.",
-      "why_it_matters": "Unless you work in tech investing, this is mostly important as business news. It doesn't affect what AI tools you can use."
+      "title": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTk9tWHVaM3MxVm13S2hselgzcGZIekZxZnU1dHhmTnl5UWVFYUdubmJHenJ3UnU3RTJFMkV0TGJnYVF1VnhUOGY3X3ZyTi1LbkZZeHItN2FvbGRSYXE3Q3ZncWZVbkJKd1JpdmQtQ0hhNFdsc09oeGI4ZHluWXF6a0ZHOS1SUkhWRFIzNzgybW9aYjNRRWItYmtRN2puejAycUdiM3RCY1ltVnhHUHNWeHFlLTZucjVuOENQY2FsMVhqenl3cjJV?oc=5",
+      "source": "WRAL",
+      "date": "2026-11-20T05:07:10.000Z",
+      "simple_summary": "Anthropic, a company that makes AI software, just became a public company that people can buy stock in. The company grew very fast but has had some mixed results along the way.",
+      "why_it_matters": "This mostly matters to investors buying and selling stock. If you use AI tools made by Anthropic, nothing will change for you right now."
     },
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T19:10:45.000Z",
-      "simple_summary": "Anthropic, an AI company, is planning to give away an estimated 156 billion dollars to charity when it sells shares publicly. This would happen through their special charity foundation and employee donations.",
-      "why_it_matters": "This is interesting if you care about companies doing good, but it mostly matters to investors. There's nothing you need to do."
+      "title": "The ‘new norm’: How AI is driving mass tech outages",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92bndjYXU1Y1FBLVdoV0dwUUZlcFA1OXFpWE50ZTk5MTRvdlpkNnkzSnM0SV8tNWZzUThXUVhJbnhJMFo3d0syZzI5eVZsZkZKYUtNWnV5OU5YQTNpd1U5NTdYOFlEQVE3d2MxWTJlZnBtUmtUeDR3T2lMWEMzeDg?oc=5",
+      "source": "Politico",
+      "date": "2026-11-20T02:17:00.000Z",
+      "simple_summary": "Computers and websites have been crashing more often lately, and some experts think it might be connected to how companies are using AI tools. These outages affect airlines, banks, and other services people rely on.",
+      "why_it_matters": "If you book flights or use online banking, you might experience more glitches and downtime than before."
     },
     {
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
+      "source": "CNBC",
+      "date": "2026-11-20T01:07:00.000Z",
+      "simple_summary": "Stock prices for technology companies in Asia dropped sharply after Anthropic's public offering. This happened because some investors got nervous and sold their stocks.",
+      "why_it_matters": "This mostly matters to investors. Unless you own stock in Asian tech companies, this doesn't directly affect your daily life."
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "date": "2026-11-20T00:56:01.000Z",
+      "simple_summary": "Apple is working on an AI helper for your computer that can do multiple tasks for you, like browse the web or help you write code. It would work similar to other AI helpers made by other companies.",
+      "why_it_matters": "In the future, your Mac computer might be smarter and do more things automatically for you, though we don't know when or how much this will cost."
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-20T00:43:50.000Z",
+      "simple_summary": "When Anthropic became a public company, its seven founders each made about 280 million dollars, and the company raised about 105 billion dollars in total. This is a record-breaking amount of money.",
+      "why_it_matters": "This mostly matters to investors and people interested in business news. It doesn't change how the company's AI tools work for regular users."
+    },
+    {
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JeEdjWUp3djR5cl9JQ1oybjgxMmhfQ1dZb3FCeDluZmJFaW94VHJIeW9vSmtfSFpKRkQtUXlqM01qUHlHaG56M1lodF80dEZzWFlLWmFvLU9qWXc?oc=5",
+      "source": "BBC",
+      "date": "2026-11-20T00:13:24.000Z",
+      "simple_summary": "Canada is building big facilities to process information for AI companies, while the United States is making it harder to do this. The two countries have different rules about where this work can happen.",
+      "why_it_matters": "This is mostly important to large technology companies and business policy makers. It's unlikely to affect you as a small-business owner or customer."
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
+      "source": "BBC",
+      "date": "2026-11-19T23:33:51.000Z",
+      "simple_summary": "Anthropic became one of the world's most valuable companies after it started selling stock to the public for the first time. The company reached a very high valuation based on how much people were willing to pay for shares.",
+      "why_it_matters": "This mostly matters to investors. For people using Anthropic's AI tools, the company's value doesn't change how the tools work."
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "source": "The Verge",
-      "date": "2026-11-19T18:21:13.000Z",
-      "simple_summary": "Google's Gemini AI tool on Apple computers can now do tasks for you on your screen, like filling out forms or organizing files. You ask it what you need, and it does the clicking and typing.",
-      "why_it_matters": "If you use a Mac and want help with repetitive office tasks, this tool could save you time on paperwork and organizing."
+      "date": "2026-11-19T22:31:41.000Z",
+      "simple_summary": "Apple is hiring engineers to build an AI assistant that can do many different tasks on your computer, including browsing websites, using multiple programs, writing code, and making phone calls. The company posted a job listing looking for someone to lead this project.",
+      "why_it_matters": "In the future, Apple might give you an AI helper that works across your devices and does complicated tasks for you automatically."
     },
     {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T18:09:11.000Z",
-      "simple_summary": "Google updated Gemini to work like a helper on your Mac. It can organize your files, fill in forms, and handle multi-step tasks without you doing each step yourself.",
-      "why_it_matters": "Mac users might find this helpful for speeding up paperwork and office tasks if they're comfortable trying new tools."
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T17:38:40.000Z",
-      "simple_summary": "Meta's AI assistant Muse made serious mistakes by showing employees other people's private information. For example, it showed someone else's bank balance or personal messages that weren't theirs.",
-      "why_it_matters": "If your business uses Meta's AI tools, be cautious and don't put sensitive information into them until these problems are fixed."
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T17:00:00.000Z",
-      "simple_summary": "A company called Everful raised 48.5 million dollars to help small stores buy products directly from factories in China. The more money means they can grow and help more retailers.",
-      "why_it_matters": "If you run a small retail store and buy products from overseas, you might eventually use this service to skip middlemen and save money."
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T16:59:23.000Z",
-      "simple_summary": "Anthropic, an AI company, sold shares publicly and started at 111 dollars per share, worth much more than the starting price of 83 dollars. The company raised about 80 billion dollars in new money.",
-      "why_it_matters": "This matters mostly to investors and tech watchers. It signals that people are very confident in AI, but it doesn't change how you use AI tools."
-    },
-    {
-      "title": "Anthropic starts trading on Wall Street",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
       "source": "The Verge",
-      "date": "2026-11-19T16:52:01.000Z",
-      "simple_summary": "Anthropic became a public company and started trading on the stock market today under the symbol ANT. The company's total value reached around 1.5 trillion dollars, making it one of the most valuable debuts ever.",
-      "why_it_matters": "This is big news for investors, but unless you own stock or work in tech, it's mostly a headline milestone."
+      "date": "2026-11-19T21:59:35.000Z",
+      "simple_summary": "Nvidia's stock price dropped about 40 percent from its highest point in early October, falling to around 150 dollars per share. The chip company makes processors that power AI systems.",
+      "why_it_matters": "This mostly matters to investors in Nvidia. If you don't own Nvidia stock, the price changes don't directly affect you."
     },
     {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "source": "TechCrunch",
-      "date": "2026-11-19T16:19:41.000Z",
-      "simple_summary": "The leader of Anthropic spoke at the stock market opening and promised the company will develop AI carefully, even if faster progress would make more money.",
-      "why_it_matters": "This shows Anthropic is trying to balance profit with safety, but it's mainly a message to investors about company values."
+      "date": "2026-11-19T21:58:06.000Z",
+      "simple_summary": "Meta is working on a wearable device that you can wear on your body or clothes, and it might cost around 300 dollars. The company has not officially confirmed the price or exact features yet.",
+      "why_it_matters": "If you're interested in AI wearable devices and have around 300 dollars to spend, you might want to wait for official information from Meta before it comes out."
     },
     {
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "source": "The Verge",
-      "date": "2026-11-19T15:16:45.000Z",
-      "simple_summary": "ChatGPT can now listen to you talking and write down what you say in real time. You don't have to wait until you finish speaking to send your message.",
-      "why_it_matters": "If you use ChatGPT, this makes it easier to give voice commands without recording your whole message first. It's a convenience upgrade."
+      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-19T21:44:56.000Z",
+      "simple_summary": "Apple is developing an AI helper that can control your devices and programs, browse the internet, write code, and do other tasks for you on your computer. The company is currently looking for engineers to build it.",
+      "why_it_matters": "Eventually your Apple devices might become smarter and do more tasks on their own, though it could be quite a while before this feature arrives."
     },
     {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "source": "TechCrunch",
-      "date": "2026-11-19T14:54:39.000Z",
-      "simple_summary": "Anthropic's public launch highlights how companies like Amazon and Google profit from AI businesses even when other AI companies struggle. Anthropic has very expensive computer costs ahead.",
-      "why_it_matters": "This is mostly relevant to investors who want to understand tech business competition."
-    },
-    {
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "source": "The Verge",
-      "date": "2026-11-19T14:25:37.000Z",
-      "simple_summary": "Anthropic went public today and became the most valuable company debut ever, raising 81.3 billion dollars. The company was founded with a promise to build AI safely, and now it must keep that promise as a public company.",
-      "why_it_matters": "If you care whether AI companies prioritize safety over profit, Anthropic's growth as a public company is worth watching."
+      "date": "2026-11-19T21:42:31.000Z",
+      "simple_summary": "Several important computer systems have crashed recently, affecting airlines, banks, and work tools. Some cybersecurity experts think these outages might be connected to how companies are using new AI technology, not just bad luck.",
+      "why_it_matters": "You might experience more service interruptions with banks and airlines until these problems get fixed, so it's good to have backup ways to reach these services."
     }
   ]
 }
