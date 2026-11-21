@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-21T07:14:54.642Z",
+  "generated_at": "2026-11-21T19:20:21.551Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages ",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T17:00:00.000Z",
+      "simple_summary": "Several AI assistants can now work inside text messaging apps like you use on your phone. These tools help with general tasks, planning trips, family coordination, and work projects.",
+      "why_it_matters": "If you text a lot, this gives you quick access to AI help without opening a separate app. However, you need to decide if you're comfortable letting an AI see your personal messages."
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T16:00:00.000Z",
+      "simple_summary": "An actor sold the rights to use his face in AI videos to a company that makes short movies. This is becoming popular in China and might spread to Hollywood.",
+      "why_it_matters": "This is mostly a question for actors and entertainers, not for ordinary people. For now, there's nothing you need to do about it."
+    },
     {
       "title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
       "source": "The Washington Post",
       "date": "2026-11-21T03:48:21.000Z",
-      "simple_summary": "A mathematician says they used an AI tool to help solve a very difficult math problem that experts have been stuck on for a long time. This is exciting because it shows AI can help with serious intellectual work.",
-      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+      "simple_summary": "A mathematician says they used AI to help solve a very hard math puzzle that experts have worked on for a very long time.",
+      "why_it_matters": "This is exciting for mathematicians and scientists, but it doesn't affect your daily life or business."
     },
     {
       "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students &amp; staff",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
       "source": "WRAL",
       "date": "2026-11-21T03:16:44.000Z",
-      "simple_summary": "A young person at a school used AI to create fake nude pictures of other students and staff members. The school principal caught this and reported it.",
-      "why_it_matters": "If you work with young people or run a school, you should know that AI tools can be misused this way. Talk to children in your life about not using technology to hurt others."
+      "simple_summary": "A young person used AI tools to create fake nude pictures of students and teachers at a school. Police got involved.",
+      "why_it_matters": "This shows AI can be misused to hurt people. Parents and schools need to teach kids about these dangers, and everyone should know this is illegal."
     },
     {
       "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
       "source": "The New York Times",
       "date": "2026-11-21T00:33:39.000Z",
-      "simple_summary": "A person at a company called Anthropic claims their AI called Claude helped solve a famous unsolved math problem. This is the same story as the first headline.",
-      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+      "simple_summary": "A mathematician working at an AI company called Anthropic claims to have solved a famous 167-year-old math problem using Claude, an AI assistant.",
+      "why_it_matters": "This is important for math experts and the AI industry to know about. For everyday life, it doesn't change anything."
     },
     {
       "title": "Anthropic may have solved major maths problem Reimann hypothesis",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
       "source": "BBC",
       "date": "2026-11-20T23:08:57.000Z",
-      "simple_summary": "A company might have solved a very hard math puzzle with the help of AI technology. Mathematicians are still checking if this is correct.",
-      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+      "simple_summary": "An AI company may have helped solve a major unsolved math problem called the Riemann hypothesis.",
+      "why_it_matters": "This matters mostly to mathematicians and science professionals. It doesn't affect ordinary people or small businesses."
     },
     {
       "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ob3hScHE5WEtocmdSUXFobzZzSFVPdHB5bjlVM0MyVW5fNWFzZUVpNkpYV1ZwQTBBN3NtUEJUWFFnblBMUUhlZG1FQk9FbHN2WDlSRHc2cjJXSko2Rl9vdlFVODQxTHd0d1JZTm0tbHR3T3ZQeTVNeURDSQ?oc=5",
       "source": "Futurism",
       "date": "2026-11-20T21:23:23.000Z",
-      "simple_summary": "A story has come out about a business leader's management style. The headline suggests he treated employees harshly.",
-      "why_it_matters": "This is about a company's internal problems and mostly matters to investors. It doesn't affect your daily life."
+      "simple_summary": "An article discusses how the head of an AI chip company treated people badly, based on reported stories about his behavior.",
+      "why_it_matters": "This is a story about a business leader's behavior. It's mostly interesting to investors and people who work in tech companies."
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
       "source": "BBC",
       "date": "2026-11-20T20:54:12.000Z",
-      "simple_summary": "The U.S. government is threatening to tax companies heavily if they build AI computer centers in other countries instead of America. This is about where expensive computer equipment gets built.",
-      "why_it_matters": "This mostly affects large companies and investors. If you own a small business, you probably won't feel the impact directly."
+      "simple_summary": "The president said the government will tax American companies heavily if they build large computer centers for AI outside the United States.",
+      "why_it_matters": "This could affect where AI companies put their equipment, which might influence AI prices and where new tech jobs appear. Most small business owners won't feel this directly for a while."
     },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
       "date": "2026-11-20T19:53:41.000Z",
-      "simple_summary": "The founder of Spotify is investing money in a company that is trying to build a new type of power plant using fusion energy. An AI researcher is leading this company.",
-      "why_it_matters": "This mostly matters to investors. For now, it doesn't affect small business owners or ordinary people."
+      "simple_summary": "The founder of Spotify is investing money in a company building fusion power plants. The company was started by someone who also works in AI research.",
+      "why_it_matters": "Fusion power could eventually provide huge amounts of clean electricity. This is mostly interesting to investors and tech enthusiasts right now."
     },
     {
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "date": "2026-11-20T19:32:08.000Z",
-      "simple_summary": "AI has claimed to solve a very hard math problem that stumped experts for over 150 years. At the same time, a human mathematician has also come up with a solution.",
-      "why_it_matters": "This mostly matters to mathematicians and investors. There's nothing you need to do."
+      "simple_summary": "An AI program claims to have solved the Riemann hypothesis, a 167-year-old math mystery. At the same time, a human mathematician also announced a solution.",
+      "why_it_matters": "This is exciting news for the math world and shows what AI can do. For regular people and small businesses, it's not something you need to act on."
     },
     {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge",
       "date": "2026-11-20T18:50:19.000Z",
-      "simple_summary": "The government is warning companies they will face heavy taxes if they build expensive computer centers outside the United States. This is a policy about where companies can build their equipment.",
-      "why_it_matters": "This mostly affects large companies and investors. For small businesses and ordinary people, the impact is minimal right now."
+      "simple_summary": "The president plans to put heavy taxes on companies that build large AI computer centers outside the United States.",
+      "why_it_matters": "This policy might make it more expensive for companies to build AI equipment overseas, which could affect tech prices and job locations. Most small business owners won't feel direct effects immediately."
     },
     {
       "title": "If I Could Only Own 1 Trillion-Dollar Artificial Intelligence (AI) Stock Through 2030, It Would Be Anthropic, Nvidia, or Alphabet. Here’s My Top Pick.",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWHEwZzB6MUFKZDF0OW41SjF6OGtoOWs3N3RhZ2NRVzBVVkhjV1hhVFhEeWtteTZxVjVVVVY0Zk96LUw4SlNiMEFsRnM1eXhDRi1ULTh0UXpicWYzZHlCTXlsVmhLSVp4YjByeHluMWpVYUNkbFBRN3dueGdrVzh3R0RGeGlITGFacmNDZkhzM28yNEdVMTlDRl9IY1BiTXEzLU9yeExrTXlGcVZsemVkQTlsRi1EVVNaYUdoOXdqVDJBX0lfbmJ2ZFc3aHZUcmM2MjViZXVFNFJydHJOODZzUmJnMHd4UTZoYUR2bEF4MjRGbHp1eFRDZF9jUDlPZFZrZnF5QlkzMzBkQTl3VllnbTFUVWU?oc=5",
       "source": "The Motley Fool",
       "date": "2026-11-20T18:00:02.000Z",
-      "simple_summary": "An investment expert is saying that one of three companies will be a great investment choice for people who want to own AI stocks over the next ten years. This is an investment opinion piece.",
-      "why_it_matters": "This is for investors only. If you're not investing in company stocks, you don't need to worry about this."
-    },
-    {
-      "title": "Chips can survive the space environment — can their financing?",
-      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T17:40:01.000Z",
-      "simple_summary": "Banks are nervous about lending money for computer equipment that companies want to shoot into space because they worry about losing their money. This creates a problem for companies trying to build data centers in orbit.",
-      "why_it_matters": "This is a specialized finance and technology issue. For most small business owners and ordinary people, this doesn't matter."
-    },
-    {
-      "title": "Exclusive | Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
-      "source": "WSJ",
-      "date": "2026-11-20T17:01:00.000Z",
-      "simple_summary": "The company Nestle is looking at using AI-controlled factory equipment to make their products and might work with big tech companies like Google and Microsoft. This is about automating their manufacturing.",
-      "why_it_matters": "If you own a manufacturing business, pay attention. Automation is becoming more common. For other small businesses and consumers, there's nothing urgent to do yet."
+      "simple_summary": "A financial writer says if they could invest in one giant AI company stock until 2030, they would pick Anthropic, Nvidia, or Alphabet, and they explain which one.",
+      "why_it_matters": "This is investment advice for people with money to invest in stocks. If you're not in the stock market, this doesn't affect you."
     }
   ]
 }
