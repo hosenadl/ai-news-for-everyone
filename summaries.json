@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-20T20:25:54.591Z",
+  "generated_at": "2026-11-21T07:14:54.642Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-21T03:48:21.000Z",
+      "simple_summary": "A mathematician says they used an AI tool to help solve a very difficult math problem that experts have been stuck on for a long time. This is exciting because it shows AI can help with serious intellectual work.",
+      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+    },
+    {
+      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students &amp; staff",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
+      "source": "WRAL",
+      "date": "2026-11-21T03:16:44.000Z",
+      "simple_summary": "A young person at a school used AI to create fake nude pictures of other students and staff members. The school principal caught this and reported it.",
+      "why_it_matters": "If you work with young people or run a school, you should know that AI tools can be misused this way. Talk to children in your life about not using technology to hurt others."
+    },
+    {
+      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-21T00:33:39.000Z",
+      "simple_summary": "A person at a company called Anthropic claims their AI called Claude helped solve a famous unsolved math problem. This is the same story as the first headline.",
+      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+    },
+    {
+      "title": "Anthropic may have solved major maths problem Reimann hypothesis",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
+      "source": "BBC",
+      "date": "2026-11-20T23:08:57.000Z",
+      "simple_summary": "A company might have solved a very hard math puzzle with the help of AI technology. Mathematicians are still checking if this is correct.",
+      "why_it_matters": "This mostly matters to mathematicians and investors. For ordinary people and small business owners, there's nothing you need to do right now."
+    },
+    {
+      "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ob3hScHE5WEtocmdSUXFobzZzSFVPdHB5bjlVM0MyVW5fNWFzZUVpNkpYV1ZwQTBBN3NtUEJUWFFnblBMUUhlZG1FQk9FbHN2WDlSRHc2cjJXSko2Rl9vdlFVODQxTHd0d1JZTm0tbHR3T3ZQeTVNeURDSQ?oc=5",
+      "source": "Futurism",
+      "date": "2026-11-20T21:23:23.000Z",
+      "simple_summary": "A story has come out about a business leader's management style. The headline suggests he treated employees harshly.",
+      "why_it_matters": "This is about a company's internal problems and mostly matters to investors. It doesn't affect your daily life."
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
+      "source": "BBC",
+      "date": "2026-11-20T20:54:12.000Z",
+      "simple_summary": "The U.S. government is threatening to tax companies heavily if they build AI computer centers in other countries instead of America. This is about where expensive computer equipment gets built.",
+      "why_it_matters": "This mostly affects large companies and investors. If you own a small business, you probably won't feel the impact directly."
+    },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
       "date": "2026-11-20T19:53:41.000Z",
-      "simple_summary": "A music company founder is investing money in a startup that wants to create a new type of power plant using fusion energy. The startup was started by someone who works with AI.",
-      "why_it_matters": "This mostly matters to investors and engineers. Fusion power is decades away from being practical, so it won't affect your home or business soon."
+      "simple_summary": "The founder of Spotify is investing money in a company that is trying to build a new type of power plant using fusion energy. An AI researcher is leading this company.",
+      "why_it_matters": "This mostly matters to investors. For now, it doesn't affect small business owners or ordinary people."
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "date": "2026-11-20T19:32:08.000Z",
-      "simple_summary": "AI computers and a human mathematician have both claimed to solve a very difficult math puzzle that has stumped experts for 167 years. Mathematicians are excited but need to check if these answers are correct.",
-      "why_it_matters": "This mostly matters to mathematicians and investors. Unless you work in advanced math, this won't change your daily life."
+      "simple_summary": "AI has claimed to solve a very hard math problem that stumped experts for over 150 years. At the same time, a human mathematician has also come up with a solution.",
+      "why_it_matters": "This mostly matters to mathematicians and investors. There's nothing you need to do."
     },
     {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge",
       "date": "2026-11-20T18:50:19.000Z",
-      "simple_summary": "The president said he wants to tax companies heavily if they build data centers outside the United States. Data centers are large buildings full of computers that store information.",
-      "why_it_matters": "This could matter to your electricity bills and internet costs eventually, since data centers need a lot of power. But the actual impact depends on whether this plan actually happens."
+      "simple_summary": "The government is warning companies they will face heavy taxes if they build expensive computer centers outside the United States. This is a policy about where companies can build their equipment.",
+      "why_it_matters": "This mostly affects large companies and investors. For small businesses and ordinary people, the impact is minimal right now."
+    },
+    {
+      "title": "If I Could Only Own 1 Trillion-Dollar Artificial Intelligence (AI) Stock Through 2030, It Would Be Anthropic, Nvidia, or Alphabet. Here’s My Top Pick.",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWHEwZzB6MUFKZDF0OW41SjF6OGtoOWs3N3RhZ2NRVzBVVkhjV1hhVFhEeWtteTZxVjVVVVY0Zk96LUw4SlNiMEFsRnM1eXhDRi1ULTh0UXpicWYzZHlCTXlsVmhLSVp4YjByeHluMWpVYUNkbFBRN3dueGdrVzh3R0RGeGlITGFacmNDZkhzM28yNEdVMTlDRl9IY1BiTXEzLU9yeExrTXlGcVZsemVkQTlsRi1EVVNaYUdoOXdqVDJBX0lfbmJ2ZFc3aHZUcmM2MjViZXVFNFJydHJOODZzUmJnMHd4UTZoYUR2bEF4MjRGbHp1eFRDZF9jUDlPZFZrZnF5QlkzMzBkQTl3VllnbTFUVWU?oc=5",
+      "source": "The Motley Fool",
+      "date": "2026-11-20T18:00:02.000Z",
+      "simple_summary": "An investment expert is saying that one of three companies will be a great investment choice for people who want to own AI stocks over the next ten years. This is an investment opinion piece.",
+      "why_it_matters": "This is for investors only. If you're not investing in company stocks, you don't need to worry about this."
     },
     {
       "title": "Chips can survive the space environment — can their financing?",
       "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TechCrunch",
       "date": "2026-11-20T17:40:01.000Z",
-      "simple_summary": "Banks that lend money are worried about companies putting computer equipment in space because they don't want their collateral floating in orbit. The article questions whether space data centers can get the money they need to operate.",
-      "why_it_matters": "This mostly matters to investors and space companies. It won't affect ordinary people unless space-based internet services become popular later."
+      "simple_summary": "Banks are nervous about lending money for computer equipment that companies want to shoot into space because they worry about losing their money. This creates a problem for companies trying to build data centers in orbit.",
+      "why_it_matters": "This is a specialized finance and technology issue. For most small business owners and ordinary people, this doesn't matter."
     },
     {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "source": "The Verge",
-      "date": "2026-11-20T16:34:13.000Z",
-      "simple_summary": "A mathematician working at an AI company used a powerful AI called Claude to solve the same difficult 167-year-old math puzzle mentioned in the news. If other experts confirm this answer is right, it would be a big deal for AI.",
-      "why_it_matters": "This mostly matters to mathematicians, students, and AI researchers. Unless you use advanced math at work, this doesn't affect your life."
-    },
-    {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T14:55:44.000Z",
-      "simple_summary": "A major computer chip company had leadership problems and removed its CEO, but the company still reported strong profits. The company also announced it will stop selling certain high-end chips to China.",
-      "why_it_matters": "This mostly matters to investors and technology industry watchers. For your business or home, it probably won't change anything."
-    },
-    {
-      "title": "The week everything fell apart",
-      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "source": "The Verge",
-      "date": "2026-11-20T14:06:59.000Z",
-      "simple_summary": "Several important computer systems and services stopped working for days this week, including email, airlines, banks, and cloud storage. It was like watching multiple parts of the internet break at once.",
-      "why_it_matters": "If you rely on email, banking, or airline systems, you may have been affected this week. This shows how much we depend on a few companies to keep everything running."
-    },
-    {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T14:00:00.000Z",
-      "simple_summary": "Several new gadgets with AI built in can help you work better at home, like smart cameras and automatic notetakers. These are products you can buy to upgrade your workspace.",
-      "why_it_matters": "If you work from home or run a small business, trying one of these tools might save you time, but most of these gadgets are just nice-to-have extras, not essential."
-    },
-    {
-      "title": "Can Anthropic Revive the A.I. Trade?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWt6aDNNRUd4TDBObHJrUnVUbTJxXzIzRU9UWGVtd2xSaVdPOVdYOGllQU5JelhTRXQ2V2M5MmptU3JyaVphZEpkUjBuMlZBUmc4bzF1YTM2b2R5ZzFCRkp4bVhvWnhCODFVS1JFVm5ldHlmUE9aWExwRFFlcnVTUlpwWERFYnM?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-20T13:01:11.000Z",
-      "simple_summary": "An article is about whether an AI company called Anthropic can help the AI industry keep growing and doing well.",
-      "why_it_matters": "The headline is too vague to explain clearly. Depending on what the article says, it might be important to investors or general news about AI's future."
-    },
-    {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge",
-      "date": "2026-11-20T12:30:47.000Z",
-      "simple_summary": "A privacy-focused messaging app called Signal is blocking AI features built into phones from reading what is on your screen and your messages. This protects your private conversations from being seen by AI systems.",
-      "why_it_matters": "If you use Signal and care about privacy, this is good news. If you use other messaging apps, they may not have this same protection."
-    },
-    {
-      "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T11:51:04.000Z",
-      "simple_summary": "Large medicine companies are looking at AI to help them create new drugs faster. They are watching an AI company called Anthropic to see what it can do.",
-      "why_it_matters": "This mostly matters to investors and the medicine industry. Medicine development takes many years, so improvements here won't help patients immediately."
-    },
-    {
-      "title": "JudgeGPT? Artificial intelligence enters Philly judicial chambers, raising questions over accuracy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2g1Y2lzUzJSYzhIMVVnWFRLcGN5d0NrYmIxcmZyRnVyc1Y1dUFOSzFNNjJ4bkNrd1F3U0VVNk9UbjBPanN5TVBVY1FGMUlXOE5wbjdpQkh0NHlEVlBsODlfMk95T2VQU0I3eW90LWlWSUFNNEc2QTdzUDhHZjNlbm82Q1lCNmlTR0l5ODM2cWdXQ3BzQ0E1eWw5QU56YzU2YXRFc0dSYUNYYmxIOVRQVS13aEhsNGVrV1k2UVp3?oc=5",
-      "source": "Inquirer.com",
-      "date": "2026-11-20T10:01:00.000Z",
-      "simple_summary": "Philadelphia is testing whether AI can help judges make decisions or write reports in their offices. Some people are worried the AI might make mistakes.",
-      "why_it_matters": "If you are involved in a court case in Philadelphia, AI might be used to help the judge. It is too early to know if this will be helpful or cause problems."
+      "title": "Exclusive | Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "source": "WSJ",
+      "date": "2026-11-20T17:01:00.000Z",
+      "simple_summary": "The company Nestle is looking at using AI-controlled factory equipment to make their products and might work with big tech companies like Google and Microsoft. This is about automating their manufacturing.",
+      "why_it_matters": "If you own a manufacturing business, pay attention. Automation is becoming more common. For other small businesses and consumers, there's nothing urgent to do yet."
     }
   ]
 }
