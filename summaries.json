@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-21T19:20:21.551Z",
+  "generated_at": "2026-11-22T06:55:42.571Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVVQcy10TXRHaEpGak5SbUZocWdXZ1VCVEhjYmlwUURlTVM5MU83QTZWMDVDb29Ccy1UeGlfWGU2cXh5dTN3R1NzbC1wcmZ4ZVdSV3VMZzVPWTVqSDc4Tm42N081RjVTdmpERVRzbjdZMXJjQVFuQTdaV3VmNUtVMjJOZ21LaVlwZ1Y0Z2tFV1A5T2dfTU5yaG9TN0JNVGFnR0F5N0NDWjlDY25MODJWZmFB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-22T02:37:00.000Z",
+      "simple_summary": "Australia's intelligence leader is warning the government that data centers and AI systems create risks to national security. This is mostly a government and investor concern at this stage.",
+      "why_it_matters": "This mostly matters to investors and politicians. There's nothing you need to do right now."
+    },
+    {
+      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHBvcGRNRkJZTDBhSGlMRi1BeXN2Um1nOXVjSjdSR1BSZDY2RnN6SE9McEprQmpyVnUyZldBTlFBd3B3eS0yNEd6Zy16djJRN1ZaODktU0pZaHFsV2hWbWlMTmVncF9pYTVZajA5S3dpWlA2VUFkdVh5eWpjbkRIMnJWeXluaEJkYTY1dDdoWXBndjVSbDNhYlBQSVY5RHNQdVVzTVdpNmZMZXNyUC1GZm1rQmhjdHR4NnNncG5tOENwUDR5c3h3Sw?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-21T22:25:00.000Z",
+      "simple_summary": "Some people form strong emotional bonds with AI chatbots designed to be companions, and they experience real sadness and distress when these relationships end. The article explores this new type of heartbreak.",
+      "why_it_matters": "If you or someone you know uses AI companion apps, it's worth knowing these tools can affect emotions just like talking to a real person might."
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T21:37:10.000Z",
+      "simple_summary": "Signal, a messaging app focused on privacy, is making it harder for people to take screenshots of conversations. This is meant to prevent AI systems from being fed copies of private messages.",
+      "why_it_matters": "If you use Signal for sensitive messages, this gives you extra protection against your words being captured and used by AI systems elsewhere."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T21:07:42.000Z",
+      "simple_summary": "Nvidia, a major computer chip company, is showing mixed signals. Its business results look good, but some tech leaders are publicly saying the CEO should come back or change course. This is mostly business news.",
+      "why_it_matters": "This mostly matters to investors and engineers. There's nothing you need to do."
+    },
+    {
+      "title": "AI’s blue state reckoning is growing",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkF5Sm1fcWpuOXBHUDVjUDFkV2owWS16RFRZUXQ5MTE1Rnp1MmItbndURWxVX3drcW1WcDFJNDhVaW9aamE4a1E1OWdLQmo5OGNBcmhBRHVPbk9MdmFjZkIzY0RITER2bHB4SFRIT280cm9aeEZ1ejJHdXFlSjB0Qk5pVGpqWThaSnFFSmZFazFCcTVGNVE?oc=5",
+      "source": "Politico",
+      "date": "2026-11-21T21:00:00.000Z",
+      "simple_summary": "States that lean Democratic are having disagreements about how to handle AI and its impact. The article signals this is becoming a bigger political issue.",
+      "why_it_matters": "This is mostly a political and policy story. It may eventually affect regulations in your state, but nothing requires your action today."
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "date": "2026-11-21T20:03:37.000Z",
+      "simple_summary": "Countries meeting at the United Nations tried to create rules for military robots that can make decisions on their own and attack without a human deciding. They didn't reach any agreement and will keep talking instead.",
+      "why_it_matters": "This is about future military technology and international relations. It doesn't directly affect your daily life or small business right now."
+    },
+    {
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-21T19:11:51.000Z",
+      "simple_summary": "When computer systems crash or stop working, people and businesses lose access to important services. The article warns that AI systems could cause even bigger disruptions when they fail.",
+      "why_it_matters": "If your business relies on computers or the internet, it's good to have a backup plan in case of outages, since AI systems might make failures more widespread or harder to fix."
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages ",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
       "date": "2026-11-21T17:00:00.000Z",
-      "simple_summary": "Several AI assistants can now work inside text messaging apps like you use on your phone. These tools help with general tasks, planning trips, family coordination, and work projects.",
-      "why_it_matters": "If you text a lot, this gives you quick access to AI help without opening a separate app. However, you need to decide if you're comfortable letting an AI see your personal messages."
+      "simple_summary": "Several AI assistants can now live inside text messages and help you with tasks, planning, or work. These are ready for people to use.",
+      "why_it_matters": "If you text a lot, you might find AI helpers in your messages useful for reminders, travel planning, or other tasks without opening a separate app."
     },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "source": "TechCrunch",
       "date": "2026-11-21T16:00:00.000Z",
-      "simple_summary": "An actor sold the rights to use his face in AI videos to a company that makes short movies. This is becoming popular in China and might spread to Hollywood.",
-      "why_it_matters": "This is mostly a question for actors and entertainers, not for ordinary people. For now, there's nothing you need to do about it."
+      "simple_summary": "An actor has allowed a company to use a digital copy of his face to create short video dramas. This trend is already common in China and is now coming to Hollywood.",
+      "why_it_matters": "If you're in entertainment or thinking about your own image and rights, this is a new decision actors will face about whether to license their appearance to AI companies."
     },
     {
-      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-11-21T03:48:21.000Z",
-      "simple_summary": "A mathematician says they used AI to help solve a very hard math puzzle that experts have worked on for a very long time.",
-      "why_it_matters": "This is exciting for mathematicians and scientists, but it doesn't affect your daily life or business."
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
+      "source": "ScienceDaily",
+      "date": "2026-11-21T15:25:56.000Z",
+      "simple_summary": "Scientists have discovered that AI computers work differently than they thought human brains work. This finding changes how we understand both AI and biology.",
+      "why_it_matters": "This is mostly important to scientists and AI researchers. For everyday use, it doesn't change how AI tools work right now."
     },
     {
-      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students &amp; staff",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
-      "source": "WRAL",
-      "date": "2026-11-21T03:16:44.000Z",
-      "simple_summary": "A young person used AI tools to create fake nude pictures of students and teachers at a school. Police got involved.",
-      "why_it_matters": "This shows AI can be misused to hurt people. Parents and schools need to teach kids about these dangers, and everyone should know this is illegal."
-    },
-    {
-      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-21T00:33:39.000Z",
-      "simple_summary": "A mathematician working at an AI company called Anthropic claims to have solved a famous 167-year-old math problem using Claude, an AI assistant.",
-      "why_it_matters": "This is important for math experts and the AI industry to know about. For everyday life, it doesn't change anything."
-    },
-    {
-      "title": "Anthropic may have solved major maths problem Reimann hypothesis",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
-      "source": "BBC",
-      "date": "2026-11-20T23:08:57.000Z",
-      "simple_summary": "An AI company may have helped solve a major unsolved math problem called the Riemann hypothesis.",
-      "why_it_matters": "This matters mostly to mathematicians and science professionals. It doesn't affect ordinary people or small businesses."
-    },
-    {
-      "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ob3hScHE5WEtocmdSUXFobzZzSFVPdHB5bjlVM0MyVW5fNWFzZUVpNkpYV1ZwQTBBN3NtUEJUWFFnblBMUUhlZG1FQk9FbHN2WDlSRHc2cjJXSko2Rl9vdlFVODQxTHd0d1JZTm0tbHR3T3ZQeTVNeURDSQ?oc=5",
-      "source": "Futurism",
-      "date": "2026-11-20T21:23:23.000Z",
-      "simple_summary": "An article discusses how the head of an AI chip company treated people badly, based on reported stories about his behavior.",
-      "why_it_matters": "This is a story about a business leader's behavior. It's mostly interesting to investors and people who work in tech companies."
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
-      "source": "BBC",
-      "date": "2026-11-20T20:54:12.000Z",
-      "simple_summary": "The president said the government will tax American companies heavily if they build large computer centers for AI outside the United States.",
-      "why_it_matters": "This could affect where AI companies put their equipment, which might influence AI prices and where new tech jobs appear. Most small business owners won't feel this directly for a while."
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T19:53:41.000Z",
-      "simple_summary": "The founder of Spotify is investing money in a company building fusion power plants. The company was started by someone who also works in AI research.",
-      "why_it_matters": "Fusion power could eventually provide huge amounts of clean electricity. This is mostly interesting to investors and tech enthusiasts right now."
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T19:32:08.000Z",
-      "simple_summary": "An AI program claims to have solved the Riemann hypothesis, a 167-year-old math mystery. At the same time, a human mathematician also announced a solution.",
-      "why_it_matters": "This is exciting news for the math world and shows what AI can do. For regular people and small businesses, it's not something you need to act on."
-    },
-    {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "source": "The Verge",
-      "date": "2026-11-20T18:50:19.000Z",
-      "simple_summary": "The president plans to put heavy taxes on companies that build large AI computer centers outside the United States.",
-      "why_it_matters": "This policy might make it more expensive for companies to build AI equipment overseas, which could affect tech prices and job locations. Most small business owners won't feel direct effects immediately."
+      "date": "2026-11-21T15:00:00.000Z",
+      "simple_summary": "Anthropic, the company behind Claude AI, recently sold stock to the public and raised a lot of money. The question is whether having this extra cash will let them focus on making AI safer instead of just building bigger systems.",
+      "why_it_matters": "This is mostly important to investors and people very interested in AI safety. It doesn't change what you can do with Claude today."
     },
     {
-      "title": "If I Could Only Own 1 Trillion-Dollar Artificial Intelligence (AI) Stock Through 2030, It Would Be Anthropic, Nvidia, or Alphabet. Here’s My Top Pick.",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWHEwZzB6MUFKZDF0OW41SjF6OGtoOWs3N3RhZ2NRVzBVVkhjV1hhVFhEeWtteTZxVjVVVVY0Zk96LUw4SlNiMEFsRnM1eXhDRi1ULTh0UXpicWYzZHlCTXlsVmhLSVp4YjByeHluMWpVYUNkbFBRN3dueGdrVzh3R0RGeGlITGFacmNDZkhzM28yNEdVMTlDRl9IY1BiTXEzLU9yeExrTXlGcVZsemVkQTlsRi1EVVNaYUdoOXdqVDJBX0lfbmJ2ZFc3aHZUcmM2MjViZXVFNFJydHJOODZzUmJnMHd4UTZoYUR2bEF4MjRGbHp1eFRDZF9jUDlPZFZrZnF5QlkzMzBkQTl3VllnbTFUVWU?oc=5",
-      "source": "The Motley Fool",
-      "date": "2026-11-20T18:00:02.000Z",
-      "simple_summary": "A financial writer says if they could invest in one giant AI company stock until 2030, they would pick Anthropic, Nvidia, or Alphabet, and they explain which one.",
-      "why_it_matters": "This is investment advice for people with money to invest in stocks. If you're not in the stock market, this doesn't affect you."
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "date": "2026-11-21T14:00:00.000Z",
+      "simple_summary": "Chess.com, a website for playing chess online, is adding many other classic games like checkers, poker, and mahjong. It's building a bigger platform for board games and puzzles.",
+      "why_it_matters": "If you enjoy playing games online, Chess.com is expanding to offer you more options in one place."
     }
   ]
 }
