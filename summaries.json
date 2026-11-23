@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-22T19:44:37.849Z",
+  "generated_at": "2026-11-23T07:44:38.131Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T01:25:53.000Z",
+      "simple_summary": "Some big investment companies are putting billions of dollars into a company called Anthropic before it sells shares to the public. These investors believe the company will be valuable in the future.",
+      "why_it_matters": "This mostly matters to investors. There's nothing you need to do."
+    },
+    {
+      "title": "India’s tech talent meets Singapore’s capital: match made in AI heaven?",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUEzaTZQSzNXVVZ5MFBZSS0zQWVEdEN3Z3BZWVVvSTVoWkRCbnhpRS1ESjl5d0k5TGtHeHlUZ1pTMXRlemZVQS1BaEFiVkFRU3lsdk54YWpHMkdQZ282SHRXQ3R1NnNzYzVuZkh6UUJVVU84cmUzNEVZaU1TZDVKWVVWSnNzbFhvUkRhSnc1bEdSNDRQQW5Rc19xd24xZlRXa3NkRnJZX0l5bzNlYW9hdXFZQzQxVWc4NUJ3LUZ30gG-AUFVX3lxTE16Mkp1R3NHRW1FNTBGSkw0a2kwUDZJUXVnMUd6cGJ3Z3ktNXRPQm1mWmY1NE5FeHhDWEVXa1ltamlMZ2tPUzVhUUczMWJuRGpuMkRUZGdzS2ZXRU1lYTB5d2E3UVNvUk0wY2FWam85NVlHZEhqU3BmT3Rxa3UzalNqOGUyNTdsRW9yUFU4RWc0cUpCZDdkZUlwVkJlV1ZGTjNHbVhCTDFsU1EwRm1ET0ZkR0psRmdIbjRXZjBqaEE?oc=5",
+      "source": "South China Morning Post",
+      "date": "2026-11-23T01:00:09.000Z",
+      "simple_summary": "India has talented technology workers and Singapore has investment money to spend. These two regions are starting to work together on AI projects.",
+      "why_it_matters": "This is mostly about international business partnerships. It doesn't directly affect your daily life or small business."
+    },
+    {
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5",
+      "source": "BBC",
+      "date": "2026-11-23T00:49:22.000Z",
+      "simple_summary": "The NHS in Britain is testing whether AI can help doctors spot breast cancer earlier by examining medical images. This is the largest trial of this kind in the world.",
+      "why_it_matters": "If this works well, it could help people get better healthcare. For now, it's part of a research project, but it shows AI might become useful in hospitals."
+    },
+    {
+      "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-22T23:05:30.000Z",
+      "simple_summary": "China's AI companies are struggling financially, which is hurting Chinese stock prices more than it's hurting China's overall economy.",
+      "why_it_matters": "This mostly matters to investors in Chinese tech stocks. It doesn't affect your small business unless you trade stocks or work in that industry."
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "date": "2026-11-22T22:48:02.000Z",
+      "simple_summary": "Several major computer systems have recently stopped working and caused problems for businesses. Experts expect more of these outages to happen in the future.",
+      "why_it_matters": "If you use email or online banking for your small business, big outages could disrupt your work. It's worth having a backup plan."
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-22T21:14:07.000Z",
+      "simple_summary": "OpenAI's chief scientist is suggesting that the AI industry should slow down its speed of development. First, everyone needs to agree on how to measure how fast AI is improving.",
+      "why_it_matters": "This is mostly about discussions among tech experts. Right now it doesn't affect what you do."
+    },
+    {
+      "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-22T19:40:54.000Z",
+      "simple_summary": "OpenAI's top scientist is urging companies in the AI industry to limit how fast they develop AI technology.",
+      "why_it_matters": "This is mostly about discussions among tech experts and industry leaders. Right now it doesn't affect what you do."
+    },
     {
       "title": "Why data centers are at the center of the Big Tech backlash",
       "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
       "source": "TechCrunch",
       "date": "2026-11-22T18:08:43.000Z",
-      "simple_summary": "Some people are starting to push back against big tech companies because of the huge data centers they build and operate. These centers use lots of electricity and land.",
-      "why_it_matters": "This mostly matters to tech investors and policy makers right now. For small business owners and everyday people, it's worth knowing that the AI services you might use require massive physical infrastructure that has real environmental costs."
+      "simple_summary": "A journalist wrote a book about how big tech companies build massive data centers, and is explaining why this has caused backlash from the public.",
+      "why_it_matters": "This is about concerns over how much electricity and water these huge computer centers use. It matters if you care about environmental issues."
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "date": "2026-11-22T17:25:20.000Z",
+      "simple_summary": "A video game developer used AI-generated music in their game without telling people. Players got upset and left bad reviews.",
+      "why_it_matters": "If you buy video games, you might want to check whether a game uses AI music if that matters to you. For small businesses, this shows customers care about knowing when AI is used."
     },
     {
       "title": "The vibe-coding revolution is coming to all the gadgets",
       "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "source": "The Verge",
       "date": "2026-11-22T13:00:00.000Z",
-      "simple_summary": "AI companies are working on new technology that lets you control devices through what feels like natural conversation or intuition, rather than pressing buttons or typing commands.",
-      "why_it_matters": "This could eventually make it easier for you to use gadgets and services without having to learn complicated steps. However, this is still early stage and there is nothing you need to do right now."
+      "simple_summary": "AI technology is starting to be built into many everyday devices so people can control them by just describing what they want. This is becoming more common across different gadgets.",
+      "why_it_matters": "This means more devices you use will understand spoken instructions. It could make phones, computers, and appliances easier to control."
     },
     {
       "title": "Looking for the Formula to Stop an Apocalypse",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdPMjdyb0d3TFdwd1Z3UFpTclNLd2ZBTG85dndEU0JFTk95UHNnNlM3ZHZkajZ3MUh2dFdlR0pDYkF5QkpLLXhsSnFPTzAxbTg1NDk4a21kUzRMWC01YWpjbFlMeURCQXh5Ym1LOXBqRlNsX2JfWjluQW0zNEJKVDlUM2VfSmVrUVVWWm1uRlN4VW8tSzB3c3dR?oc=5",
       "source": "The New York Times",
-      "date": "2026-11-22T10:02:04.000Z",
-      "simple_summary": "A story about looking for solutions to serious AI risks.",
-      "why_it_matters": "Without more details, it is hard to say what this means for you. The headline alone does not explain what specific problem or solution is being discussed."
+      "date": "2026-11-22T12:27:46.000Z",
+      "simple_summary": "This headline is too vague to explain what the article is actually about from the headline alone.",
+      "why_it_matters": "Without more details, I can't say why this matters to you."
     },
     {
-      "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-11-22T09:34:02.000Z",
-      "simple_summary": "Nvidia is a company that makes computer chips for AI, and their business results were very good. This article is suggesting that people should invest in other AI companies instead.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do. If you do not own stock in tech companies, this news does not affect your daily life."
-    },
-    {
-      "title": "An A.I. Editor’s Essential Tool: The Typewriter",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWVFN3U2YzhTSFhMUkxpNUVGV1NtZ0E1dmp6a3Z3OXRSTG45UWZZZFQ4ZllQRzVpX3Npc2Jpc09YSkhaYUhadkdGU0tHNWJlY1JOUkpWQjFhdk9Ccld3dUhRME5uSkFSVmtvaHhaeGJlWUZKSlZzMk9Td0dmaWZNaHZxNE5XdVZPTUE?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-22T08:00:07.000Z",
-      "simple_summary": "Some AI editors who write with help from computer programs are choosing to use old-fashioned typewriters for part of their work.",
-      "why_it_matters": "This is interesting but probably not relevant to you unless you are a professional writer using AI tools. It is a story about personal working style choices, not a change that affects your life."
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T21:37:10.000Z",
-      "simple_summary": "Signal, which is a secure messaging app, is preventing people from taking screenshots in the app because it worries that AI tools could use those screenshots to spy on users' conversations.",
-      "why_it_matters": "If you use Signal for private messaging, this change makes your messages slightly harder for someone to capture and analyze with AI tools. For most people, this is a small helpful safety improvement."
-    },
-    {
-      "title": "A tale of two Nvidias",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T21:07:42.000Z",
-      "simple_summary": "Nvidia's business results look very strong, but some tech executives are publicly saying they want the company's leader Jensen Huang to come back or change direction.",
-      "why_it_matters": "This mostly matters to investors and tech industry insiders. There's nothing you need to do. This is about disagreement among wealthy people in the tech world."
-    },
-    {
-      "title": "AI’s blue state reckoning is growing",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkF5Sm1fcWpuOXBHUDVjUDFkV2owWS16RFRZUXQ5MTE1Rnp1MmItbndURWxVX3drcW1WcDFJNDhVaW9aamE4a1E1OWdLQmo5OGNBcmhBRHVPbk9MdmFjZkIzY0RITER2bHB4SFRIT280cm9aeEZ1ejJHdXFlSjB0Qk5pVGpqWThaSnFFSmZFazFCcTVGNVE?oc=5",
-      "source": "Politico",
-      "date": "2026-11-21T21:00:00.000Z",
-      "simple_summary": "States that lean more liberal are starting to create their own rules and limits around how AI is used in their area.",
-      "why_it_matters": "If you live in a liberal-leaning state or do business there, you may eventually see rules that require AI companies to be more careful about how they handle your data or use AI in services you buy."
-    },
-    {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge",
-      "date": "2026-11-21T20:03:37.000Z",
-      "simple_summary": "Countries meeting at the United Nations tried to agree on rules for weapons that use AI and work on their own without a human making each decision, but they did not reach an agreement. They only agreed to keep talking.",
-      "why_it_matters": "This is mostly about military policy between nations. For ordinary people, it shows that the world has not yet figured out how to safely control powerful AI weapons, which is a long-term concern."
-    },
-    {
-      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-21T19:15:00.000Z",
-      "simple_summary": "Some people worry that as robots get better at using hands and doing physical tasks, they might take human jobs and make people less needed in society.",
-      "why_it_matters": "This is a real long-term question for the future, but robotic hands are still far from replacing most human workers. It is worth thinking about these concerns, but it is not an immediate threat to most jobs today."
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages ",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T17:00:00.000Z",
-      "simple_summary": "Several new AI assistants have been created that can live inside text message apps and help you with different tasks like planning travel or organizing family schedules.",
-      "why_it_matters": "If you are comfortable texting, you might be able to use these AI helpers for everyday tasks without learning a new app. However, this is optional and you do not need to use it."
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T16:00:00.000Z",
-      "simple_summary": "An actor has allowed a startup to make a digital copy of his face that can be used in short video dramas. This is becoming popular in China and might spread to Hollywood.",
-      "why_it_matters": "If you are an actor or performer, this could eventually become a way to earn money or stay employed. For most people, it raises questions about whether AI copies of real people's faces are used fairly and legally."
+      "title": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDFrQ25PZnI2YzNGbXhxQ2JqemZTcHNlOEVEalV6dkRtSzVNZWVfdm5DaHBfQjc1aWJiMTFybFZOQ0R6eVVFWHJmZ1pqcjAtVTE0QmdZNnpQR0NfYTB3bS1LMlZTekNPMExmRjctMnZQNkFITHhKYUNhMGpjbTZodTdEN3RYZ2g0TGVuQUV5S0E3Q0hVWDFxQXN5bm9wSWhQamNYcmFmeDZkTlFUM0pXVDEzMXlzN3M?oc=5",
+      "source": "France 24",
+      "date": "2026-11-22T09:34:15.000Z",
+      "simple_summary": "Military organizations in NATO countries are depending on AI and computer technology made by private companies. This creates concerns about whether countries keep control of their own defense systems.",
+      "why_it_matters": "This is mostly about national security policy. It doesn't directly affect your business or daily life."
     }
   ]
 }
