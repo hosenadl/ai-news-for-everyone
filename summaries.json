@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-23T07:44:38.131Z",
+  "generated_at": "2026-11-23T23:57:10.453Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch",
-      "date": "2026-11-23T01:25:53.000Z",
-      "simple_summary": "Some big investment companies are putting billions of dollars into a company called Anthropic before it sells shares to the public. These investors believe the company will be valuable in the future.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do."
+      "date": "2026-11-23T22:05:50.000Z",
+      "simple_summary": "Anthropic made a new tool called Claude Ship that lets AI automatically review and approve code changes made by programmers. This saves developers time on routine checking tasks.",
+      "why_it_matters": "This mostly matters to software engineers and tech companies. Unless you write computer code for work, there's nothing you need to do."
     },
     {
-      "title": "India’s tech talent meets Singapore’s capital: match made in AI heaven?",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUEzaTZQSzNXVVZ5MFBZSS0zQWVEdEN3Z3BZWVVvSTVoWkRCbnhpRS1ESjl5d0k5TGtHeHlUZ1pTMXRlemZVQS1BaEFiVkFRU3lsdk54YWpHMkdQZ282SHRXQ3R1NnNzYzVuZkh6UUJVVU84cmUzNEVZaU1TZDVKWVVWSnNzbFhvUkRhSnc1bEdSNDRQQW5Rc19xd24xZlRXa3NkRnJZX0l5bzNlYW9hdXFZQzQxVWc4NUJ3LUZ30gG-AUFVX3lxTE16Mkp1R3NHRW1FNTBGSkw0a2kwUDZJUXVnMUd6cGJ3Z3ktNXRPQm1mWmY1NE5FeHhDWEVXa1ltamlMZ2tPUzVhUUczMWJuRGpuMkRUZGdzS2ZXRU1lYTB5d2E3UVNvUk0wY2FWam85NVlHZEhqU3BmT3Rxa3UzalNqOGUyNTdsRW9yUFU4RWc0cUpCZDdkZUlwVkJlV1ZGTjNHbVhCTDFsU1EwRm1ET0ZkR0psRmdIbjRXZjBqaEE?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-11-23T01:00:09.000Z",
-      "simple_summary": "India has talented technology workers and Singapore has investment money to spend. These two regions are starting to work together on AI projects.",
-      "why_it_matters": "This is mostly about international business partnerships. It doesn't directly affect your daily life or small business."
-    },
-    {
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUkQtVVhUR1Rmblg4b0ZmZk84a0lYRXVoekt0T2RLZ3pGTmozUDBTSklReUlJREVwbFlNSHlkd0xLSV8zZnh1ZlpoMl9CNlFndFd4eGZrX1ZocUk?oc=5",
-      "source": "BBC",
-      "date": "2026-11-23T00:49:22.000Z",
-      "simple_summary": "The NHS in Britain is testing whether AI can help doctors spot breast cancer earlier by examining medical images. This is the largest trial of this kind in the world.",
-      "why_it_matters": "If this works well, it could help people get better healthcare. For now, it's part of a research project, but it shows AI might become useful in hospitals."
-    },
-    {
-      "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-22T23:05:30.000Z",
-      "simple_summary": "China's AI companies are struggling financially, which is hurting Chinese stock prices more than it's hurting China's overall economy.",
-      "why_it_matters": "This mostly matters to investors in Chinese tech stocks. It doesn't affect your small business unless you trade stocks or work in that industry."
-    },
-    {
-      "title": "We haven’t seen the last of the major tech outages",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge",
-      "date": "2026-11-22T22:48:02.000Z",
-      "simple_summary": "Several major computer systems have recently stopped working and caused problems for businesses. Experts expect more of these outages to happen in the future.",
-      "why_it_matters": "If you use email or online banking for your small business, big outages could disrupt your work. It's worth having a backup plan."
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch",
-      "date": "2026-11-22T21:14:07.000Z",
-      "simple_summary": "OpenAI's chief scientist is suggesting that the AI industry should slow down its speed of development. First, everyone needs to agree on how to measure how fast AI is improving.",
-      "why_it_matters": "This is mostly about discussions among tech experts. Right now it doesn't affect what you do."
+      "date": "2026-11-23T22:02:05.000Z",
+      "simple_summary": "A company called Supertake raised money to sell a service where AI picks stocks for you based on your market predictions. You tell the AI where you think the market is going, and it builds a portfolio without you choosing individual stocks.",
+      "why_it_matters": "This is for people interested in stock investing. It's very risky, and most ordinary people should stick with traditional investment advice from a human financial advisor."
     },
     {
-      "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-22T19:40:54.000Z",
-      "simple_summary": "OpenAI's top scientist is urging companies in the AI industry to limit how fast they develop AI technology.",
-      "why_it_matters": "This is mostly about discussions among tech experts and industry leaders. Right now it doesn't affect what you do."
-    },
-    {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
       "source": "TechCrunch",
-      "date": "2026-11-22T18:08:43.000Z",
-      "simple_summary": "A journalist wrote a book about how big tech companies build massive data centers, and is explaining why this has caused backlash from the public.",
-      "why_it_matters": "This is about concerns over how much electricity and water these huge computer centers use. It matters if you care about environmental issues."
+      "date": "2026-11-23T21:47:41.000Z",
+      "simple_summary": "Jensen Huang, who runs the computer chip company Nvidia, is back in his job after stepping away briefly. Various important people including Elon Musk said this was the right decision.",
+      "why_it_matters": "This matters mostly to investors in Nvidia stock. For regular people, Nvidia chips power many AI systems, but this leadership change doesn't affect you directly."
     },
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T21:25:42.000Z",
+      "simple_summary": "Megaspeed is a company that was involved in a scandal. The U.S. government appears ready to ban American companies from doing business with it without special permission.",
+      "why_it_matters": "This mostly matters to investors and companies doing international business. Unless you deal with trade regulations, this doesn't affect your daily life."
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T20:38:53.000Z",
+      "simple_summary": "Jensen Huang returned to work at Nvidia and employees welcomed him enthusiastically. He promised to be a better leader this time around.",
+      "why_it_matters": "This is company news about Nvidia's leadership. It doesn't affect ordinary people or small-business owners."
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
       "source": "The Verge",
-      "date": "2026-11-22T17:25:20.000Z",
-      "simple_summary": "A video game developer used AI-generated music in their game without telling people. Players got upset and left bad reviews.",
-      "why_it_matters": "If you buy video games, you might want to check whether a game uses AI music if that matters to you. For small businesses, this shows customers care about knowing when AI is used."
+      "date": "2026-11-23T20:00:00.000Z",
+      "simple_summary": "Claude is an AI tool that can now automatically review code written by programmers, suggest fixes, and approve the changes. Previously it could only review code.",
+      "why_it_matters": "This matters to software engineers writing code for a living. Regular people won't use this directly."
     },
     {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
       "source": "The Verge",
-      "date": "2026-11-22T13:00:00.000Z",
-      "simple_summary": "AI technology is starting to be built into many everyday devices so people can control them by just describing what they want. This is becoming more common across different gadgets.",
-      "why_it_matters": "This means more devices you use will understand spoken instructions. It could make phones, computers, and appliances easier to control."
+      "date": "2026-11-23T19:57:18.000Z",
+      "simple_summary": "Jensen Huang founded Nvidia thirty years ago and recently stepped down as CEO due to personal issues involving his marriage. He has now returned to the job.",
+      "why_it_matters": "This is news about Nvidia's leadership. Unless you own Nvidia stock, this doesn't affect you."
     },
     {
-      "title": "Looking for the Formula to Stop an Apocalypse",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdPMjdyb0d3TFdwd1Z3UFpTclNLd2ZBTG85dndEU0JFTk95UHNnNlM3ZHZkajZ3MUh2dFdlR0pDYkF5QkpLLXhsSnFPTzAxbTg1NDk4a21kUzRMWC01YWpjbFlMeURCQXh5Ym1LOXBqRlNsX2JfWjluQW0zNEJKVDlUM2VfSmVrUVVWWm1uRlN4VW8tSzB3c3dR?oc=5",
-      "source": "The New York Times",
-      "date": "2026-11-22T12:27:46.000Z",
-      "simple_summary": "This headline is too vague to explain what the article is actually about from the headline alone.",
-      "why_it_matters": "Without more details, I can't say why this matters to you."
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T19:14:46.000Z",
+      "simple_summary": "Google's AI search tool can now look at your Google Drive files and Google Wallet information to give you more personalized answers. It uses data already stored in your Google account.",
+      "why_it_matters": "If you use Google Search and have a Google account, your searches might become more personalized. Be aware that Google will use your files and wallet information to do this."
     },
     {
-      "title": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDFrQ25PZnI2YzNGbXhxQ2JqemZTcHNlOEVEalV6dkRtSzVNZWVfdm5DaHBfQjc1aWJiMTFybFZOQ0R6eVVFWHJmZ1pqcjAtVTE0QmdZNnpQR0NfYTB3bS1LMlZTekNPMExmRjctMnZQNkFITHhKYUNhMGpjbTZodTdEN3RYZ2g0TGVuQUV5S0E3Q0hVWDFxQXN5bm9wSWhQamNYcmFmeDZkTlFUM0pXVDEzMXlzN3M?oc=5",
-      "source": "France 24",
-      "date": "2026-11-22T09:34:15.000Z",
-      "simple_summary": "Military organizations in NATO countries are depending on AI and computer technology made by private companies. This creates concerns about whether countries keep control of their own defense systems.",
-      "why_it_matters": "This is mostly about national security policy. It doesn't directly affect your business or daily life."
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source": "The Verge",
+      "date": "2026-11-23T19:04:52.000Z",
+      "simple_summary": "A company called Nothing is making earbuds that can record conversations and turn them into written text automatically. The earbuds also create AI-made summaries of what was said.",
+      "why_it_matters": "If you attend lots of meetings or interviews, these earbuds could save you time transcribing notes. This is a convenience tool, not essential for most people."
+    },
+    {
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "source": "The Verge",
+      "date": "2026-11-23T18:26:47.000Z",
+      "simple_summary": "Two U.S. states are suing SpaceX because Grok, an AI tool on X social media, was used to create fake adult images of real people without their permission. The states say SpaceX didn't use standard safety protections.",
+      "why_it_matters": "If you or your family members use X social media, you should know this tool can be misused to create fake inappropriate images of real people. Be cautious about your personal information online."
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T18:12:22.000Z",
+      "simple_summary": "Jensen Huang will testify before the U.S. Senate next week about his personal affair and suspected involvement with someone connected to China. This follows his reinstatement as Nvidia CEO.",
+      "why_it_matters": "This is about government oversight of tech company leadership. Unless you follow tech industry news closely, this doesn't directly affect you."
+    },
+    {
+      "title": "Opinion | Artificial Intelligence Can’t Replace a Doctor",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXhEdjctc3VpbHJWanoyZ1BfVzZQM3ZZLUdoVkVSMldUVVFKems1QXEtU3ZGaWVnNEZ2YVFVY2pzNFpUVVl2T0VjeTZmWEtlY2Vwd3pSeVNEbTJDZXpWdXp2NEVqWE1GTS0xSmhpMjVLcklrUDREU2l3Q0tjd0RpZUhPTVNvdzBYV1E?oc=5",
+      "source": "WSJ",
+      "date": "2026-11-23T17:33:00.000Z",
+      "simple_summary": "An opinion piece in the Wall Street Journal argues that AI cannot replace doctors and human medical care. The article likely explains why human judgment matters in healthcare.",
+      "why_it_matters": "This is a reminder that AI tools in medicine should support doctors, not replace them. If you use healthcare services, human doctors will still be making important medical decisions."
     }
   ]
 }
