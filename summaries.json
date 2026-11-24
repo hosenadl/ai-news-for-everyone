@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-24T09:58:16.393Z",
+  "generated_at": "2026-11-24T22:29:46.888Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Sunway Group Accelerates Secure and Sovereign Enterprise-wide Artificial Intelligence With HPE",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWxDMkk1RlV6MkI4elVCS0VNMWs0N2IzN2pEdjZVS1owM2VFWm9BWF9EZ2hGVzhBLThUaHZRMXdUaW4tTFdrTUwzTWRqQ3AzeXpnUUUyTE4yRDlhUzhYMkF6SG5OT0Z2X3hoYXM2ZFozOVdOcW9md0RlWHZPcS1zZGZwb1RDbk1Celk2cXlwV2o0a2hLUEhRdUVLUDBWcW1BU2I3d2FfWkc?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-11-24T03:00:00.000Z",
-      "simple_summary": "A company called Sunway Group is working with HPE to build AI tools that stay within their own country instead of relying on outside companies. This is about keeping their AI systems secure and under their own control.",
-      "why_it_matters": "This mostly matters to large companies and investors. If you run a small business, it doesn't change how you use AI tools."
-    },
-    {
-      "title": "Opinion | Jensen Huang’s presidential pardon",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlzemtGMjFFd3lZRjZkeDgwWFozODd5eW1OR3NpRThfNDJFLXU1aTZ4ZXluSHJCejl1YVByYmVMb3J3NGlzcGNGTmVrMlhnd0FoTUowbF9WSERNbEVYUVpCbFZQVDgzRjRxUm5VM2theFBBNmk2aHBsUDFsdkNkWm1xcWlHOHdQdWJDby1Ka01mbzZ0TFZCYnZMZzJVdXlTQ3NsNGV3bkNBckVueTdV?oc=5",
-      "source": "The Washington Post",
-      "date": "2026-11-24T02:37:58.000Z",
-      "simple_summary": "This is an opinion piece about Jensen Huang from Nvidia. The headline suggests it's about politics rather than AI technology itself.",
-      "why_it_matters": "This is politics and opinion, not really about AI affecting you. There's nothing you need to do."
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWmFFQUd3NWtmLW9aWW1MZWI4M0VFa3lBWk5remd1ODRiUjk3VVBodk9nbDhjbU96cEdqVHhYYnk3YjZ4Zkc2dlB0ZlhKWW9ORndOcGRsTGl4Sjg?oc=5",
-      "source": "BBC",
-      "date": "2026-11-23T23:16:08.000Z",
-      "simple_summary": "The U.S. government is banning a company called Megaspeed from doing business with American companies. This happened because of a scandal involving Nvidia's leader.",
-      "why_it_matters": "This mostly matters to large tech companies and investors. As a small business owner, this won't affect you unless you buy products from Megaspeed."
-    },
-    {
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "source": "The Verge",
-      "date": "2026-11-23T22:25:12.000Z",
-      "simple_summary": "Jensen Huang, the leader of Nvidia, stepped down as CEO after personal scandals came to light. President Trump publicly said Huang would do fine anyway.",
-      "why_it_matters": "This is about business leadership and politics, not really about AI technology itself. It doesn't affect how you use AI."
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "date": "2026-11-23T22:10:32.000Z",
-      "simple_summary": "Jensen Huang is back as CEO of Nvidia after initially stepping down following reports of personal affairs.",
-      "why_it_matters": "This is company news that matters mostly to Nvidia investors. It doesn't change AI tools available to small businesses."
-    },
-    {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "source": "The Verge",
-      "date": "2026-11-23T22:09:26.000Z",
-      "simple_summary": "An opinion piece about Jensen Huang returning to lead Nvidia, suggesting powerful people get treated differently than ordinary people.",
-      "why_it_matters": "This is opinion and politics, not about AI affecting you. There's nothing you need to do."
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "source": "TechCrunch",
-      "date": "2026-11-23T22:05:50.000Z",
-      "simple_summary": "Anthropic, an AI company, made new tools that let AI helpers review and approve computer code changes automatically. This saves programmers time on routine work.",
-      "why_it_matters": "This matters mostly to software developers and tech companies. If you don't write computer code, this doesn't affect your business."
+      "date": "2026-11-24T21:48:27.000Z",
+      "simple_summary": "The leader of Nvidia apologized to his employees and said he is getting help from a therapist. He thanked government leaders for giving him another chance to run the company.",
+      "why_it_matters": "This mostly matters to investors and Nvidia employees. There's nothing you need to do."
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch",
-      "date": "2026-11-23T22:02:05.000Z",
-      "simple_summary": "A company called Supertake got $20 million in funding to let people invest in the stock market by telling AI what they think will happen, instead of picking individual stocks themselves.",
-      "why_it_matters": "This is mostly interesting to investors and venture capitalists. If you're not actively trading stocks, this doesn't change anything for you."
+      "date": "2026-11-24T21:33:29.000Z",
+      "simple_summary": "Even the smartest AI helpers today cannot reliably handle normal daily tasks without making mistakes or causing problems. Researchers tested this and found it to be true.",
+      "why_it_matters": "If you are thinking about using an AI assistant to help you with everyday tasks, you should double-check its work because it may not get things right."
     },
     {
-      "title": "Nvidia's Jensen Huang - the indispensable godfather of AI",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU5qX1BORFNxVlloNGxUNm5hYW1Ba1FWQnczUDdCUGkwNnZzNU4ydldRV01lTGFtOGlDQ3RRcnd6dFdLWGVYSmVjU3U5bFZ3V1libTROekxrYklBWXc5d3hQd2xQa0d0YjNzYlFyRHhfdDQ0LTZBanBnblowRUw4SzViSEVMSXBpSzFiSjl3?oc=5",
-      "source": "Yahoo News Singapore",
-      "date": "2026-11-23T21:56:58.000Z",
-      "simple_summary": "An article calling Jensen Huang from Nvidia a key figure in AI development. It's praise for his role in the industry.",
-      "why_it_matters": "This is business news about a tech company leader. It doesn't affect how you use AI in your daily life."
-    },
-    {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "source": "TechCrunch",
-      "date": "2026-11-23T21:47:41.000Z",
-      "simple_summary": "Jensen Huang has been reinstated as Nvidia CEO after stepping down. Other tech leaders like Elon Musk publicly welcomed his return.",
-      "why_it_matters": "This is company leadership news that matters mostly to investors. It doesn't change AI tools or services available to small businesses."
+      "date": "2026-11-24T21:32:38.000Z",
+      "simple_summary": "Walmart now lets shoppers buy things on sale using Meta's Muse AI helper, which is a computer program you chat with. Instead of browsing the website yourself, you can tell the AI what you want and it helps you shop.",
+      "why_it_matters": "This is just another way to shop online if you prefer chatting with an AI instead of clicking through a website yourself. You do not have to use it if you do not want to."
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "source": "TechCrunch",
-      "date": "2026-11-23T21:25:42.000Z",
-      "simple_summary": "Megaspeed, the company involved in the scandal with Jensen Huang, is being blocked from doing business with U.S. companies.",
-      "why_it_matters": "This matters mostly to tech companies and investors. Unless you buy from Megaspeed directly, this doesn't affect you."
+      "date": "2026-11-24T21:19:52.000Z",
+      "simple_summary": "A new company called Maple built a special kind of AI that keeps your private information secret, locked up in a way that even Maple's own workers cannot read it. It is like a letter in an envelope that only you can open.",
+      "why_it_matters": "If privacy worries you when using AI tools, this company is trying to offer an option where your information stays truly private."
     },
     {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch",
+      "date": "2026-11-24T18:30:42.000Z",
+      "simple_summary": "A big AI company called Anthropic sold stock to the public recently, but the stock price has dropped below what it was when they first sold it. Other new AI companies may now struggle to raise money.",
+      "why_it_matters": "This mostly matters to investors and people who work in AI companies. There's nothing you need to do."
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
       "source": "The Verge",
-      "date": "2026-11-23T21:09:37.000Z",
-      "simple_summary": "AI data centers use enormous amounts of electricity, which makes it harder for the world to switch to clean energy. World leaders are struggling to figure out how to handle this problem.",
-      "why_it_matters": "This matters for the planet's future. As energy demands grow, everyone may eventually see higher electricity costs if the problem isn't solved."
+      "date": "2026-11-24T18:15:00.000Z",
+      "simple_summary": "Some people think the new movie by director David Fincher used AI-generated pictures. The visuals in the film look strange and do not match up with each other in ways that make people suspect AI was used.",
+      "why_it_matters": "If you plan to watch this movie and want to know if it used AI, the director has not confirmed anything yet, so this is just speculation right now."
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch",
+      "date": "2026-11-24T18:02:59.000Z",
+      "simple_summary": "British government cybersecurity experts warn that hackers are now using AI tools to find and exploit old security problems. Many companies have weak security that is easy to break into.",
+      "why_it_matters": "If you run a small business, now is a good time to make sure your passwords are strong and your security is updated, since AI is making hacking easier."
+    },
+    {
+      "title": "House duo wants oversight for self-improving AI models",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHVsTTZmb0tCUUwxN0FadE9BUkVtdkp2WFpPM0JMSm94Z1U2dVB2NjRiWmE5TGJLMFBLTHkyLU81WmFyYkFJRzBCTkJUN1NTT3VNSXpfQkp2SkdxazZ3X0VaU25zci15dzRYUVYxY1NDbWx0VHBjdGM3QlMtWHFqdW83QUhyUkxwZ2F0RE1Cemp6bzRkX0hBZEVRTFhYb3NIWlE?oc=5",
+      "source": "Politico",
+      "date": "2026-11-24T17:49:08.000Z",
+      "simple_summary": "Two members of the U.S. House of Representatives want new rules to watch over AI systems that improve themselves without human help.",
+      "why_it_matters": "This mostly matters to tech companies and policy experts. There's nothing you need to do right now."
+    },
+    {
+      "title": "The global AI data center debate explained: How tech infrastructure is straining electricity and water resources",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFdxbDI3YmxHeTdfV1ExX0ZTakZ0Z3U1Yy1LSDVXSzJkblhIaDdTXzYtcTJubkpIOU9xWG9SM084VjZyZ2stSHpYTVlrOWJOVW1vMW10U2xjZU5FUGh0dm9wUEFENU45cHpKRG5jZHNva3VtUWRCQ1phVXhxS3lJQTZhMmZFOWJIZXNibGlkZFVnbzJPREtIanMwaEwwWHVBbi1zVm1zWVZNNWhUdkhSa2ljUEk?oc=5",
+      "source": "NBC News",
+      "date": "2026-11-24T17:36:48.000Z",
+      "simple_summary": "AI data centers use huge amounts of electricity and water to operate, and this is putting strain on power and water resources around the world.",
+      "why_it_matters": "This is a big picture problem about how AI affects the environment and resources, but it does not directly change what you do day to day."
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "date": "2026-11-24T17:17:09.000Z",
+      "simple_summary": "The music streaming service Tidal will delete about 29 million songs made entirely by AI computers starting December 9th. They are removing AI-generated music but keeping songs made by humans with some AI help.",
+      "why_it_matters": "If you use Tidal to listen to music, you may notice some songs disappearing, but this mostly affects artists who made music entirely by computers."
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch",
+      "date": "2026-11-24T17:00:00.000Z",
+      "simple_summary": "Meta's AI helper called Muse now works directly inside Instagram's messaging system. You can chat with it without switching to a separate app.",
+      "why_it_matters": "If you use Instagram messages, you will see an AI helper available to chat with, but you do not have to use it."
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch",
+      "date": "2026-11-24T16:46:00.000Z",
+      "simple_summary": "Tidal is removing millions of songs that were created entirely by AI computers. The company will still allow songs where human musicians used AI as a tool during the making process.",
+      "why_it_matters": "If you are a musician who uses AI tools to help with your work, Tidal will still accept your music as long as a human made most of it."
     }
   ]
 }
