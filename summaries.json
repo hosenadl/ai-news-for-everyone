@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-23T23:57:10.453Z",
+  "generated_at": "2026-11-24T09:58:16.393Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Sunway Group Accelerates Secure and Sovereign Enterprise-wide Artificial Intelligence With HPE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWxDMkk1RlV6MkI4elVCS0VNMWs0N2IzN2pEdjZVS1owM2VFWm9BWF9EZ2hGVzhBLThUaHZRMXdUaW4tTFdrTUwzTWRqQ3AzeXpnUUUyTE4yRDlhUzhYMkF6SG5OT0Z2X3hoYXM2ZFozOVdOcW9md0RlWHZPcS1zZGZwb1RDbk1Celk2cXlwV2o0a2hLUEhRdUVLUDBWcW1BU2I3d2FfWkc?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-11-24T03:00:00.000Z",
+      "simple_summary": "A company called Sunway Group is working with HPE to build AI tools that stay within their own country instead of relying on outside companies. This is about keeping their AI systems secure and under their own control.",
+      "why_it_matters": "This mostly matters to large companies and investors. If you run a small business, it doesn't change how you use AI tools."
+    },
+    {
+      "title": "Opinion | Jensen Huang’s presidential pardon",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlzemtGMjFFd3lZRjZkeDgwWFozODd5eW1OR3NpRThfNDJFLXU1aTZ4ZXluSHJCejl1YVByYmVMb3J3NGlzcGNGTmVrMlhnd0FoTUowbF9WSERNbEVYUVpCbFZQVDgzRjRxUm5VM2theFBBNmk2aHBsUDFsdkNkWm1xcWlHOHdQdWJDby1Ka01mbzZ0TFZCYnZMZzJVdXlTQ3NsNGV3bkNBckVueTdV?oc=5",
+      "source": "The Washington Post",
+      "date": "2026-11-24T02:37:58.000Z",
+      "simple_summary": "This is an opinion piece about Jensen Huang from Nvidia. The headline suggests it's about politics rather than AI technology itself.",
+      "why_it_matters": "This is politics and opinion, not really about AI affecting you. There's nothing you need to do."
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWmFFQUd3NWtmLW9aWW1MZWI4M0VFa3lBWk5remd1ODRiUjk3VVBodk9nbDhjbU96cEdqVHhYYnk3YjZ4Zkc2dlB0ZlhKWW9ORndOcGRsTGl4Sjg?oc=5",
+      "source": "BBC",
+      "date": "2026-11-23T23:16:08.000Z",
+      "simple_summary": "The U.S. government is banning a company called Megaspeed from doing business with American companies. This happened because of a scandal involving Nvidia's leader.",
+      "why_it_matters": "This mostly matters to large tech companies and investors. As a small business owner, this won't affect you unless you buy products from Megaspeed."
+    },
+    {
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge",
+      "date": "2026-11-23T22:25:12.000Z",
+      "simple_summary": "Jensen Huang, the leader of Nvidia, stepped down as CEO after personal scandals came to light. President Trump publicly said Huang would do fine anyway.",
+      "why_it_matters": "This is about business leadership and politics, not really about AI technology itself. It doesn't affect how you use AI."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "date": "2026-11-23T22:10:32.000Z",
+      "simple_summary": "Jensen Huang is back as CEO of Nvidia after initially stepping down following reports of personal affairs.",
+      "why_it_matters": "This is company news that matters mostly to Nvidia investors. It doesn't change AI tools available to small businesses."
+    },
+    {
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
+      "date": "2026-11-23T22:09:26.000Z",
+      "simple_summary": "An opinion piece about Jensen Huang returning to lead Nvidia, suggesting powerful people get treated differently than ordinary people.",
+      "why_it_matters": "This is opinion and politics, not about AI affecting you. There's nothing you need to do."
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch",
       "date": "2026-11-23T22:05:50.000Z",
-      "simple_summary": "Anthropic made a new tool called Claude Ship that lets AI automatically review and approve code changes made by programmers. This saves developers time on routine checking tasks.",
-      "why_it_matters": "This mostly matters to software engineers and tech companies. Unless you write computer code for work, there's nothing you need to do."
+      "simple_summary": "Anthropic, an AI company, made new tools that let AI helpers review and approve computer code changes automatically. This saves programmers time on routine work.",
+      "why_it_matters": "This matters mostly to software developers and tech companies. If you don't write computer code, this doesn't affect your business."
     },
     {
       "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch",
       "date": "2026-11-23T22:02:05.000Z",
-      "simple_summary": "A company called Supertake raised money to sell a service where AI picks stocks for you based on your market predictions. You tell the AI where you think the market is going, and it builds a portfolio without you choosing individual stocks.",
-      "why_it_matters": "This is for people interested in stock investing. It's very risky, and most ordinary people should stick with traditional investment advice from a human financial advisor."
+      "simple_summary": "A company called Supertake got $20 million in funding to let people invest in the stock market by telling AI what they think will happen, instead of picking individual stocks themselves.",
+      "why_it_matters": "This is mostly interesting to investors and venture capitalists. If you're not actively trading stocks, this doesn't change anything for you."
+    },
+    {
+      "title": "Nvidia's Jensen Huang - the indispensable godfather of AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU5qX1BORFNxVlloNGxUNm5hYW1Ba1FWQnczUDdCUGkwNnZzNU4ydldRV01lTGFtOGlDQ3RRcnd6dFdLWGVYSmVjU3U5bFZ3V1libTROekxrYklBWXc5d3hQd2xQa0d0YjNzYlFyRHhfdDQ0LTZBanBnblowRUw4SzViSEVMSXBpSzFiSjl3?oc=5",
+      "source": "Yahoo News Singapore",
+      "date": "2026-11-23T21:56:58.000Z",
+      "simple_summary": "An article calling Jensen Huang from Nvidia a key figure in AI development. It's praise for his role in the industry.",
+      "why_it_matters": "This is business news about a tech company leader. It doesn't affect how you use AI in your daily life."
     },
     {
       "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
       "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
       "source": "TechCrunch",
       "date": "2026-11-23T21:47:41.000Z",
-      "simple_summary": "Jensen Huang, who runs the computer chip company Nvidia, is back in his job after stepping away briefly. Various important people including Elon Musk said this was the right decision.",
-      "why_it_matters": "This matters mostly to investors in Nvidia stock. For regular people, Nvidia chips power many AI systems, but this leadership change doesn't affect you directly."
+      "simple_summary": "Jensen Huang has been reinstated as Nvidia CEO after stepping down. Other tech leaders like Elon Musk publicly welcomed his return.",
+      "why_it_matters": "This is company leadership news that matters mostly to investors. It doesn't change AI tools or services available to small businesses."
     },
     {
       "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
       "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "source": "TechCrunch",
       "date": "2026-11-23T21:25:42.000Z",
-      "simple_summary": "Megaspeed is a company that was involved in a scandal. The U.S. government appears ready to ban American companies from doing business with it without special permission.",
-      "why_it_matters": "This mostly matters to investors and companies doing international business. Unless you deal with trade regulations, this doesn't affect your daily life."
+      "simple_summary": "Megaspeed, the company involved in the scandal with Jensen Huang, is being blocked from doing business with U.S. companies.",
+      "why_it_matters": "This matters mostly to tech companies and investors. Unless you buy from Megaspeed directly, this doesn't affect you."
     },
     {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T20:38:53.000Z",
-      "simple_summary": "Jensen Huang returned to work at Nvidia and employees welcomed him enthusiastically. He promised to be a better leader this time around.",
-      "why_it_matters": "This is company news about Nvidia's leadership. It doesn't affect ordinary people or small-business owners."
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "source": "The Verge",
-      "date": "2026-11-23T20:00:00.000Z",
-      "simple_summary": "Claude is an AI tool that can now automatically review code written by programmers, suggest fixes, and approve the changes. Previously it could only review code.",
-      "why_it_matters": "This matters to software engineers writing code for a living. Regular people won't use this directly."
-    },
-    {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "source": "The Verge",
-      "date": "2026-11-23T19:57:18.000Z",
-      "simple_summary": "Jensen Huang founded Nvidia thirty years ago and recently stepped down as CEO due to personal issues involving his marriage. He has now returned to the job.",
-      "why_it_matters": "This is news about Nvidia's leadership. Unless you own Nvidia stock, this doesn't affect you."
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T19:14:46.000Z",
-      "simple_summary": "Google's AI search tool can now look at your Google Drive files and Google Wallet information to give you more personalized answers. It uses data already stored in your Google account.",
-      "why_it_matters": "If you use Google Search and have a Google account, your searches might become more personalized. Be aware that Google will use your files and wallet information to do this."
-    },
-    {
-      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "source": "The Verge",
-      "date": "2026-11-23T19:04:52.000Z",
-      "simple_summary": "A company called Nothing is making earbuds that can record conversations and turn them into written text automatically. The earbuds also create AI-made summaries of what was said.",
-      "why_it_matters": "If you attend lots of meetings or interviews, these earbuds could save you time transcribing notes. This is a convenience tool, not essential for most people."
-    },
-    {
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "source": "The Verge",
-      "date": "2026-11-23T18:26:47.000Z",
-      "simple_summary": "Two U.S. states are suing SpaceX because Grok, an AI tool on X social media, was used to create fake adult images of real people without their permission. The states say SpaceX didn't use standard safety protections.",
-      "why_it_matters": "If you or your family members use X social media, you should know this tool can be misused to create fake inappropriate images of real people. Be cautious about your personal information online."
-    },
-    {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T18:12:22.000Z",
-      "simple_summary": "Jensen Huang will testify before the U.S. Senate next week about his personal affair and suspected involvement with someone connected to China. This follows his reinstatement as Nvidia CEO.",
-      "why_it_matters": "This is about government oversight of tech company leadership. Unless you follow tech industry news closely, this doesn't directly affect you."
-    },
-    {
-      "title": "Opinion | Artificial Intelligence Can’t Replace a Doctor",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXhEdjctc3VpbHJWanoyZ1BfVzZQM3ZZLUdoVkVSMldUVVFKems1QXEtU3ZGaWVnNEZ2YVFVY2pzNFpUVVl2T0VjeTZmWEtlY2Vwd3pSeVNEbTJDZXpWdXp2NEVqWE1GTS0xSmhpMjVLcklrUDREU2l3Q0tjd0RpZUhPTVNvdzBYV1E?oc=5",
-      "source": "WSJ",
-      "date": "2026-11-23T17:33:00.000Z",
-      "simple_summary": "An opinion piece in the Wall Street Journal argues that AI cannot replace doctors and human medical care. The article likely explains why human judgment matters in healthcare.",
-      "why_it_matters": "This is a reminder that AI tools in medicine should support doctors, not replace them. If you use healthcare services, human doctors will still be making important medical decisions."
+      "date": "2026-11-23T21:09:37.000Z",
+      "simple_summary": "AI data centers use enormous amounts of electricity, which makes it harder for the world to switch to clean energy. World leaders are struggling to figure out how to handle this problem.",
+      "why_it_matters": "This matters for the planet's future. As energy demands grow, everyone may eventually see higher electricity costs if the problem isn't solved."
     }
   ]
 }
