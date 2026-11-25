@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-24T22:29:46.888Z",
+  "generated_at": "2026-11-25T08:41:25.718Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch",
+      "date": "2026-11-25T00:12:02.000Z",
+      "simple_summary": "A Yale business professor says Nvidia, the chip company, may actually be harmful to America's strength because it has sold advanced chips to countries that compete against us. The founder's return to run the company might create legal problems.",
+      "why_it_matters": "This is mostly about big business and politics. Unless you own stock in Nvidia or work in the semiconductor industry, this doesn't affect your day-to-day life or small business."
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch",
+      "date": "2026-11-24T22:27:52.000Z",
+      "simple_summary": "Nvidia's founder Jensen Huang doesn't like the idea of training someone else to take over his job. This is unusual since the company just went through a rough patch when he stepped away.",
+      "why_it_matters": "This is mostly interesting to investors and company watchers. It doesn't impact how you use AI or run a small business."
+    },
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
       "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "source": "TechCrunch",
       "date": "2026-11-24T21:48:27.000Z",
-      "simple_summary": "The leader of Nvidia apologized to his employees and said he is getting help from a therapist. He thanked government leaders for giving him another chance to run the company.",
-      "why_it_matters": "This mostly matters to investors and Nvidia employees. There's nothing you need to do."
+      "simple_summary": "Jensen Huang apologized to his employees after returning to lead Nvidia and said he is seeing a therapist. He thanked the White House for supporting his return.",
+      "why_it_matters": "This is company news that mainly interests investors and Nvidia employees. It won't change how AI works for you."
     },
     {
       "title": "Even the best AI agents struggle with everyday life",
       "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch",
       "date": "2026-11-24T21:33:29.000Z",
-      "simple_summary": "Even the smartest AI helpers today cannot reliably handle normal daily tasks without making mistakes or causing problems. Researchers tested this and found it to be true.",
-      "why_it_matters": "If you are thinking about using an AI assistant to help you with everyday tasks, you should double-check its work because it may not get things right."
+      "simple_summary": "AI helpers that people are starting to use can't reliably do everyday tasks like shopping or booking appointments without making mistakes. Even the best AI still struggles with real-world problems.",
+      "why_it_matters": "This matters to you because it means AI assistants aren't ready to handle important tasks alone yet. Don't expect them to fully replace humans for critical decisions."
     },
     {
       "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
       "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "source": "TechCrunch",
       "date": "2026-11-24T21:32:38.000Z",
-      "simple_summary": "Walmart now lets shoppers buy things on sale using Meta's Muse AI helper, which is a computer program you chat with. Instead of browsing the website yourself, you can tell the AI what you want and it helps you shop.",
-      "why_it_matters": "This is just another way to shop online if you prefer chatting with an AI instead of clicking through a website yourself. You do not have to use it if you do not want to."
+      "simple_summary": "Walmart now lets customers browse and buy Black Friday deals using Meta's AI helper called Muse instead of visiting the website or store themselves.",
+      "why_it_matters": "If you shop at Walmart during Black Friday, you have one more way to find deals. It's just another shopping option, so you can skip it if you prefer the regular way."
     },
     {
       "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "source": "TechCrunch",
       "date": "2026-11-24T21:19:52.000Z",
-      "simple_summary": "A new company called Maple built a special kind of AI that keeps your private information secret, locked up in a way that even Maple's own workers cannot read it. It is like a letter in an envelope that only you can open.",
-      "why_it_matters": "If privacy worries you when using AI tools, this company is trying to offer an option where your information stays truly private."
+      "simple_summary": "A new company called Maple built AI tools that use special encryption to keep your private information secret. Even Maple's own workers can't see your data.",
+      "why_it_matters": "This matters if you worry about privacy when using AI tools. This company is trying to solve that problem, though it's still a new startup and mostly for tech-savvy users right now."
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge",
+      "date": "2026-11-24T20:02:03.000Z",
+      "simple_summary": "Jensen Huang told Nvidia employees that the White House and other leaders did not help him get rehired as CEO, though news reports suggest otherwise.",
+      "why_it_matters": "This is company politics and doesn't affect how you use technology or run a business."
     },
     {
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "source": "TechCrunch",
       "date": "2026-11-24T18:30:42.000Z",
-      "simple_summary": "A big AI company called Anthropic sold stock to the public recently, but the stock price has dropped below what it was when they first sold it. Other new AI companies may now struggle to raise money.",
-      "why_it_matters": "This mostly matters to investors and people who work in AI companies. There's nothing you need to do."
+      "simple_summary": "Anthropic, an AI company, sold shares to the public but the stock price has dropped below what it was worth during the sale. This may cause other AI companies to be worth less too.",
+      "why_it_matters": "This mostly matters to investors. If you don't own stock in AI companies, this financial news doesn't directly change your life."
     },
     {
       "title": "David Fincher is being dragged for suspected use of AI in his latest film",
       "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
       "source": "The Verge",
       "date": "2026-11-24T18:15:00.000Z",
-      "simple_summary": "Some people think the new movie by director David Fincher used AI-generated pictures. The visuals in the film look strange and do not match up with each other in ways that make people suspect AI was used.",
-      "why_it_matters": "If you plan to watch this movie and want to know if it used AI, the director has not confirmed anything yet, so this is just speculation right now."
+      "simple_summary": "Some people think the new movie by director David Fincher may have used AI to create some scenes because parts of the film look strange and unnatural.",
+      "why_it_matters": "This is entertainment news. It shows AI is showing up in movies, but it doesn't affect your daily life unless you're concerned about how movies are made."
     },
     {
       "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
       "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
       "source": "TechCrunch",
       "date": "2026-11-24T18:02:59.000Z",
-      "simple_summary": "British government cybersecurity experts warn that hackers are now using AI tools to find and exploit old security problems. Many companies have weak security that is easy to break into.",
-      "why_it_matters": "If you run a small business, now is a good time to make sure your passwords are strong and your security is updated, since AI is making hacking easier."
+      "simple_summary": "The UK's cyber security agency warns that hackers are now using AI tools to attack computers and networks by finding old security problems that companies haven't fixed yet.",
+      "why_it_matters": "This matters to your small business if you have a computer network. Make sure you install security updates and change weak passwords, because AI makes it easier for criminals to find those mistakes."
     },
     {
       "title": "House duo wants oversight for self-improving AI models",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHVsTTZmb0tCUUwxN0FadE9BUkVtdkp2WFpPM0JMSm94Z1U2dVB2NjRiWmE5TGJLMFBLTHkyLU81WmFyYkFJRzBCTkJUN1NTT3VNSXpfQkp2SkdxazZ3X0VaU25zci15dzRYUVYxY1NDbWx0VHBjdGM3QlMtWHFqdW83QUhyUkxwZ2F0RE1Cemp6bzRkX0hBZEVRTFhYb3NIWlE?oc=5",
       "source": "Politico",
       "date": "2026-11-24T17:49:08.000Z",
-      "simple_summary": "Two members of the U.S. House of Representatives want new rules to watch over AI systems that improve themselves without human help.",
-      "why_it_matters": "This mostly matters to tech companies and policy experts. There's nothing you need to do right now."
+      "simple_summary": "Two members of the House of Representatives want new rules to watch and control AI models that can improve themselves over time.",
+      "why_it_matters": "This is about possible future laws but nothing is decided yet. Keep an eye on AI news if new regulations would affect your business, but no action is needed from you right now."
     },
     {
       "title": "The global AI data center debate explained: How tech infrastructure is straining electricity and water resources",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFdxbDI3YmxHeTdfV1ExX0ZTakZ0Z3U1Yy1LSDVXSzJkblhIaDdTXzYtcTJubkpIOU9xWG9SM084VjZyZ2stSHpYTVlrOWJOVW1vMW10U2xjZU5FUGh0dm9wUEFENU45cHpKRG5jZHNva3VtUWRCQ1phVXhxS3lJQTZhMmZFOWJIZXNibGlkZFVnbzJPREtIanMwaEwwWHVBbi1zVm1zWVZNNWhUdkhSa2ljUEk?oc=5",
       "source": "NBC News",
       "date": "2026-11-24T17:36:48.000Z",
-      "simple_summary": "AI data centers use huge amounts of electricity and water to operate, and this is putting strain on power and water resources around the world.",
-      "why_it_matters": "This is a big picture problem about how AI affects the environment and resources, but it does not directly change what you do day to day."
-    },
-    {
-      "title": "Tidal will start banning AI-generated music next month",
-      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "source": "The Verge",
-      "date": "2026-11-24T17:17:09.000Z",
-      "simple_summary": "The music streaming service Tidal will delete about 29 million songs made entirely by AI computers starting December 9th. They are removing AI-generated music but keeping songs made by humans with some AI help.",
-      "why_it_matters": "If you use Tidal to listen to music, you may notice some songs disappearing, but this mostly affects artists who made music entirely by computers."
-    },
-    {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "source": "TechCrunch",
-      "date": "2026-11-24T17:00:00.000Z",
-      "simple_summary": "Meta's AI helper called Muse now works directly inside Instagram's messaging system. You can chat with it without switching to a separate app.",
-      "why_it_matters": "If you use Instagram messages, you will see an AI helper available to chat with, but you do not have to use it."
-    },
-    {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch",
-      "date": "2026-11-24T16:46:00.000Z",
-      "simple_summary": "Tidal is removing millions of songs that were created entirely by AI computers. The company will still allow songs where human musicians used AI as a tool during the making process.",
-      "why_it_matters": "If you are a musician who uses AI tools to help with your work, Tidal will still accept your music as long as a human made most of it."
+      "simple_summary": "AI data centers, which are huge computer facilities that power AI tools, use enormous amounts of electricity and water. This is straining the world's power and water supplies.",
+      "why_it_matters": "This matters to everyone because it affects the environment and could eventually lead to higher energy and water costs in your area as AI demand grows."
     }
   ]
 }
