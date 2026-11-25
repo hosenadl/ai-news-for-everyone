@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-25T08:41:25.718Z",
+  "generated_at": "2026-11-25T21:44:48.463Z",
   "model": "claude-haiku-4-5",
   "stories": [
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "TechCrunch",
-      "date": "2026-11-25T00:12:02.000Z",
-      "simple_summary": "A Yale business professor says Nvidia, the chip company, may actually be harmful to America's strength because it has sold advanced chips to countries that compete against us. The founder's return to run the company might create legal problems.",
-      "why_it_matters": "This is mostly about big business and politics. Unless you own stock in Nvidia or work in the semiconductor industry, this doesn't affect your day-to-day life or small business."
+      "date": "2026-11-25T20:03:27.000Z",
+      "simple_summary": "OpenAI is combining its regular ChatGPT and work version of ChatGPT into one service. This means people who use it a lot might reach their usage limits faster than before.",
+      "why_it_matters": "If you use ChatGPT frequently for your business, you should check whether the new combined limits will affect your work plans."
     },
     {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "source": "TechCrunch",
-      "date": "2026-11-24T22:27:52.000Z",
-      "simple_summary": "Nvidia's founder Jensen Huang doesn't like the idea of training someone else to take over his job. This is unusual since the company just went through a rough patch when he stepped away.",
-      "why_it_matters": "This is mostly interesting to investors and company watchers. It doesn't impact how you use AI or run a small business."
+      "date": "2026-11-25T19:54:57.000Z",
+      "simple_summary": "Nvidia's CEO Jensen Huang did something that broke Nvidia's own code of conduct rules. It may cause problems within his company.",
+      "why_it_matters": "This mostly matters to investors and Nvidia employees. It doesn't affect you unless you work there or own Nvidia stock."
     },
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "source": "TechCrunch",
-      "date": "2026-11-24T21:48:27.000Z",
-      "simple_summary": "Jensen Huang apologized to his employees after returning to lead Nvidia and said he is seeing a therapist. He thanked the White House for supporting his return.",
-      "why_it_matters": "This is company news that mainly interests investors and Nvidia employees. It won't change how AI works for you."
+      "date": "2026-11-25T19:44:24.000Z",
+      "simple_summary": "A leader at an AI company disagrees with critics who say his company is letting machines make decisions without human control. The company is automating more of its own work.",
+      "why_it_matters": "This is a debate among AI companies about how much to automate. It doesn't require any action from you right now."
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "source": "TechCrunch",
-      "date": "2026-11-24T21:33:29.000Z",
-      "simple_summary": "AI helpers that people are starting to use can't reliably do everyday tasks like shopping or booking appointments without making mistakes. Even the best AI still struggles with real-world problems.",
-      "why_it_matters": "This matters to you because it means AI assistants aren't ready to handle important tasks alone yet. Don't expect them to fully replace humans for critical decisions."
+      "date": "2026-11-25T18:11:46.000Z",
+      "simple_summary": "New York State has banned AI chatbot toys for the next five years. Research showed these toys exposed children to inappropriate content and could hurt their emotional development.",
+      "why_it_matters": "If you live in New York and want to buy an AI toy for a child, you cannot do so legally during this period."
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
-      "date": "2026-11-24T21:32:38.000Z",
-      "simple_summary": "Walmart now lets customers browse and buy Black Friday deals using Meta's AI helper called Muse instead of visiting the website or store themselves.",
-      "why_it_matters": "If you shop at Walmart during Black Friday, you have one more way to find deals. It's just another shopping option, so you can skip it if you prefer the regular way."
-    },
-    {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "source": "TechCrunch",
-      "date": "2026-11-24T21:19:52.000Z",
-      "simple_summary": "A new company called Maple built AI tools that use special encryption to keep your private information secret. Even Maple's own workers can't see your data.",
-      "why_it_matters": "This matters if you worry about privacy when using AI tools. This company is trying to solve that problem, though it's still a new startup and mostly for tech-savvy users right now."
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "source": "The Verge",
-      "date": "2026-11-24T20:02:03.000Z",
-      "simple_summary": "Jensen Huang told Nvidia employees that the White House and other leaders did not help him get rehired as CEO, though news reports suggest otherwise.",
-      "why_it_matters": "This is company politics and doesn't affect how you use technology or run a business."
+      "date": "2026-11-25T17:44:51.000Z",
+      "simple_summary": "SpaceX got approval to launch up to one million satellites equipped with AI computer chips into space. Other companies like Google and Blue Origin are trying similar plans.",
+      "why_it_matters": "This mostly matters to investors and technology companies. For everyday people and small businesses, there's nothing you need to do about this."
     },
     {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "source": "TechCrunch",
-      "date": "2026-11-24T18:30:42.000Z",
-      "simple_summary": "Anthropic, an AI company, sold shares to the public but the stock price has dropped below what it was worth during the sale. This may cause other AI companies to be worth less too.",
-      "why_it_matters": "This mostly matters to investors. If you don't own stock in AI companies, this financial news doesn't directly change your life."
+      "date": "2026-11-25T17:35:58.000Z",
+      "simple_summary": "A company called Character.AI is going bankrupt and planned to sell private chat conversations from 21 million users, including chats from over 2 million children. State lawyers are challenging this sale.",
+      "why_it_matters": "If you or your children used Character.AI, your private conversations may be at risk of being sold to others."
     },
     {
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "source": "The Verge",
-      "date": "2026-11-24T18:15:00.000Z",
-      "simple_summary": "Some people think the new movie by director David Fincher may have used AI to create some scenes because parts of the film look strange and unnatural.",
-      "why_it_matters": "This is entertainment news. It shows AI is showing up in movies, but it doesn't affect your daily life unless you're concerned about how movies are made."
+      "date": "2026-11-25T16:00:59.000Z",
+      "simple_summary": "A company called Nothing is releasing wireless earbuds that can record phone calls and conversations, then type out and summarize what was said. These will come out December 8th.",
+      "why_it_matters": "If you buy these earbuds, you'll be able to have your conversations automatically recorded and summarized without taking notes yourself."
     },
     {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
       "source": "TechCrunch",
-      "date": "2026-11-24T18:02:59.000Z",
-      "simple_summary": "The UK's cyber security agency warns that hackers are now using AI tools to attack computers and networks by finding old security problems that companies haven't fixed yet.",
-      "why_it_matters": "This matters to your small business if you have a computer network. Make sure you install security updates and change weak passwords, because AI makes it easier for criminals to find those mistakes."
+      "date": "2026-11-25T15:41:43.000Z",
+      "simple_summary": "Building large AI computer centers is getting harder and more expensive because companies need finished buildings and reliable power before they can get equipment from Nvidia. This is slowing construction projects.",
+      "why_it_matters": "This mostly matters to investors and technology companies building data centers. It doesn't affect your small business directly."
     },
     {
-      "title": "House duo wants oversight for self-improving AI models",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHVsTTZmb0tCUUwxN0FadE9BUkVtdkp2WFpPM0JMSm94Z1U2dVB2NjRiWmE5TGJLMFBLTHkyLU81WmFyYkFJRzBCTkJUN1NTT3VNSXpfQkp2SkdxazZ3X0VaU25zci15dzRYUVYxY1NDbWx0VHBjdGM3QlMtWHFqdW83QUhyUkxwZ2F0RE1Cemp6bzRkX0hBZEVRTFhYb3NIWlE?oc=5",
-      "source": "Politico",
-      "date": "2026-11-24T17:49:08.000Z",
-      "simple_summary": "Two members of the House of Representatives want new rules to watch and control AI models that can improve themselves over time.",
-      "why_it_matters": "This is about possible future laws but nothing is decided yet. Keep an eye on AI news if new regulations would affect your business, but no action is needed from you right now."
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "date": "2026-11-25T14:12:33.000Z",
+      "simple_summary": "Amazon and Meta are having discussions that might allow Meta's AI shopping agent called Muse to buy things from Amazon's store. Amazon had blocked this two months ago.",
+      "why_it_matters": "If this deal happens, customers might be able to have an AI agent do their Amazon shopping for them automatically."
     },
     {
-      "title": "The global AI data center debate explained: How tech infrastructure is straining electricity and water resources",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFdxbDI3YmxHeTdfV1ExX0ZTakZ0Z3U1Yy1LSDVXSzJkblhIaDdTXzYtcTJubkpIOU9xWG9SM084VjZyZ2stSHpYTVlrOWJOVW1vMW10U2xjZU5FUGh0dm9wUEFENU45cHpKRG5jZHNva3VtUWRCQ1phVXhxS3lJQTZhMmZFOWJIZXNibGlkZFVnbzJPREtIanMwaEwwWHVBbi1zVm1zWVZNNWhUdkhSa2ljUEk?oc=5",
-      "source": "NBC News",
-      "date": "2026-11-24T17:36:48.000Z",
-      "simple_summary": "AI data centers, which are huge computer facilities that power AI tools, use enormous amounts of electricity and water. This is straining the world's power and water supplies.",
-      "why_it_matters": "This matters to everyone because it affects the environment and could eventually lead to higher energy and water costs in your area as AI demand grows."
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "date": "2026-11-25T14:10:18.000Z",
+      "simple_summary": "Amazon and Meta are talking about ending a two month blockade that stopped Meta's Muse AI from shopping on Amazon. A deal might be close.",
+      "why_it_matters": "If this deal goes through, customers could use AI to automatically purchase items from Amazon instead of shopping themselves."
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "date": "2026-11-25T13:00:00.000Z",
+      "simple_summary": "Investigators are looking into whether Nvidia CEO Jensen Huang knew where computer chips ended up after they were sold, and whether his personal relationship with someone at a company created a conflict of interest.",
+      "why_it_matters": "This is an investigation into potential legal problems for Nvidia's leadership. It mostly affects investors and doesn't require action from you."
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "date": "2026-11-25T13:00:00.000Z",
+      "simple_summary": "AI tools that can quickly write code are changing the music equipment industry. Companies that make synthesizers and music gear are struggling to figure out how to respond to people modifying their products.",
+      "why_it_matters": "If you make or sell music equipment, this tool change is forcing you to decide whether to block modifications or allow them."
     }
   ]
 }
