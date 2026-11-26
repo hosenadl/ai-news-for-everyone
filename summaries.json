@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-26T08:25:58.542Z",
+  "generated_at": "2026-11-26T21:37:52.819Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "date": "2026-11-26T20:03:54.000Z",
+      "simple_summary": "Nvidia stopped sending computer chips to some Southeast Asian countries because the U.S. government wants to prevent these powerful AI chips from reaching China.",
+      "why_it_matters": "This mostly affects large technology companies and investors. As an ordinary person or small business owner, you won't notice a direct change."
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "date": "2026-11-26T16:00:00.000Z",
+      "simple_summary": "A new video game called Grand Theft Auto VI became hugely popular and successful, while a different company (Anthropic) started selling stock to the public on the same day.",
+      "why_it_matters": "This is mostly interesting to investors and entertainment fans. It doesn't affect your daily life or business."
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "date": "2026-11-26T09:54:40.000Z",
+      "simple_summary": "Forty-two state officials are trying to stop a company called Character.AI from selling the private conversations of over 21 million people, including chats from children, as the company goes through bankruptcy.",
+      "why_it_matters": "If you or someone in your family used this service, your private conversations could have been sold to others without permission. This shows why you should be careful about what personal information you share with AI chatbots."
+    },
     {
       "title": "S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "source": "TechCrunch",
       "date": "2026-11-25T22:44:32.000Z",
-      "simple_summary": "A credit rating company is thinking about downgrading Nvidia's financial rating because of concerns about the company's leadership and decision-making structure.",
-      "why_it_matters": "This mostly matters to investors and people who own Nvidia stock. There's nothing you need to do."
+      "simple_summary": "A credit rating agency is thinking about giving Nvidia a lower credit score because of concerns about how the company is managed.",
+      "why_it_matters": "This matters mostly to investors and people who lend money to Nvidia. Regular people won't feel an impact."
     },
     {
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "source": "The Verge",
       "date": "2026-11-25T21:51:26.000Z",
-      "simple_summary": "Google tried to patent a system that would create fake AI videos and ads personalized just for you based on everything the company knows about you. The patent was rejected, but Google might try again.",
-      "why_it_matters": "This matters for anyone who watches videos online. If this ever gets approved and used, you could see more ads and videos designed to keep you watching longer."
+      "simple_summary": "Google tried to get a patent for a system that would create AI-made videos and ads just for you based on what it knows about you, but the patent was rejected so far.",
+      "why_it_matters": "If this ever happens, you would see more videos and ads that Google creates specifically to target you. Right now it's just an idea, so there's nothing to worry about yet."
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "TechCrunch",
       "date": "2026-11-25T20:03:27.000Z",
-      "simple_summary": "OpenAI is combining its ChatGPT service into one system and may limit how much heavy users can access it.",
-      "why_it_matters": "If you pay for ChatGPT and use it a lot, you might hit your usage limit faster after this change."
+      "simple_summary": "OpenAI is combining its ChatGPT service into one system and says heavy users may hit their monthly limits faster than before.",
+      "why_it_matters": "If you use ChatGPT a lot, you might find yourself unable to ask questions as quickly as you do now. Casual users probably won't notice much difference."
     },
     {
       "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
       "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "source": "TechCrunch",
       "date": "2026-11-25T19:54:57.000Z",
-      "simple_summary": "The CEO of Nvidia broke the company's own rules of conduct that apply to everyone else.",
-      "why_it_matters": "This mostly matters to Nvidia employees who may feel upset that the leader doesn't follow the same rules. There's nothing you need to do."
+      "simple_summary": "The leader of Nvidia broke the company's own rules of conduct, and workers might remember this.",
+      "why_it_matters": "This is mostly about how the company treats its employees. It doesn't directly affect customers or small business owners outside Nvidia."
     },
     {
       "title": "SpaceX gets green light to deploy 1 million satellites for data centers in space",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE1ZSDI1cldnWVJ2dFE3RnRhVFlXWXZCcW1aR3EwcEVfYUh2ZWJ1MWV6S3hDTEpXYVJ3VVlfM3Y5OGVrZzMzMHdDSzEtbkVHV3hJbDR4ODFueUtxNEVENzlBSlRjdTRqcWc1SDJ2dUlGcFRIdUNKaTJId0pPZTVfdmJCMWFVai1WTnRQdGFSc21ZTkRodVBCTVAtbUNLRW1HREwzY2xSU3Z3dGl5OWtv?oc=5",
       "source": "NBC News",
       "date": "2026-11-25T19:54:25.000Z",
-      "simple_summary": "SpaceX got permission to launch up to 1 million satellites into space to use as data centers.",
-      "why_it_matters": "This is mostly important to investors and technology companies. It could eventually lead to faster internet, but that's years away."
+      "simple_summary": "SpaceX got permission to launch up to 1 million satellites equipped with AI computers into space.",
+      "why_it_matters": "This is a major technology project for investors and engineers to watch. For ordinary people, it's too early to know if it will change anything in daily life."
     },
     {
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
       "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "source": "TechCrunch",
       "date": "2026-11-25T19:44:24.000Z",
-      "simple_summary": "The leader of Anthropic (a company that makes AI) says the accusations that he wants machines to make their own decisions without humans is false and ridiculous.",
-      "why_it_matters": "This mostly matters to investors and AI industry experts. There's nothing you need to do."
+      "simple_summary": "The leader of Anthropic (an AI company) says it's not true that his company wants to let AI make decisions without people controlling it.",
+      "why_it_matters": "This is a disagreement between technology company leaders. It doesn't affect what you do in your daily life or business right now."
     },
     {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "source": "TechCrunch",
       "date": "2026-11-25T18:11:46.000Z",
-      "simple_summary": "New York banned AI toys that chat with kids for five years because they found safety problems, like kids seeing inappropriate content and possible harm to their feelings.",
-      "why_it_matters": "If you live in New York and want to buy your grandchild or child a chatbot toy, you cannot do that now."
+      "simple_summary": "New York banned AI chatbot toys for the next five years because they can expose children to bad content and may hurt their emotional development.",
+      "why_it_matters": "If you live in New York and want to buy an AI toy for a child this Christmas, you won't be able to legally purchase one. If you live elsewhere, the toys are still available for now."
     },
     {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "source": "The Verge",
       "date": "2026-11-25T17:44:51.000Z",
-      "simple_summary": "The government approved SpaceX's plan to put up to 1 million satellites with AI chips in space to run like computer centers in the sky.",
-      "why_it_matters": "This is mostly important to investors and big technology companies. There's nothing you need to do right now."
+      "simple_summary": "The Federal Communications Commission approved SpaceX's plan to send up to 1 million satellites with AI computer chips into space as part of a project called Starmind.",
+      "why_it_matters": "This is a future technology project. It's too early to know if it will help or harm people outside the company."
     },
     {
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "source": "TechCrunch",
       "date": "2026-11-25T17:35:58.000Z",
-      "simple_summary": "Character.AI, a company in financial trouble, was planning to sell its users' private conversations as part of going out of business. State officials say this violates privacy, especially because over 2 million children had accounts there.",
-      "why_it_matters": "If you or your family used Character.AI, your private conversations might be at risk. This shows why you should be careful about what personal things you share with AI chatbots."
-    },
-    {
-      "title": "Miss Universe 2026 Faces Backlash for Response to AI Question",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHFjazh5SzVPUm0tamtOMmxMOG1NYXRybGhDUG9sMko2QVhVNmoxWEU5eFFOWm5MZmxWbXluMmUwNHNvaldFV2hlTXRzaUpVUEZKMXNpUFBZNXl6RG5aTFlpMTVFQzN1MVhySXFTWDZQb0J3cUxQT2hacVlxSXRpd1dGRTVsb1NCVWJ6OUpYWHVjVzA?oc=5",
-      "source": "People.com",
-      "date": "2026-11-25T16:43:06.000Z",
-      "simple_summary": "The person chosen to be Miss Universe in 2026 gave an answer about AI that upset some people.",
-      "why_it_matters": "This is celebrity news. There's nothing you need to do."
-    },
-    {
-      "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU04NkxmTUxkT0VjQmdFWHFtdVF6czdpd2ZsWXNtOE5yNmxBU2tRQVZIajNVMzY3aVBIeWRibmg1S19scVE0WXNQN0pkMXpNWGNFaGpJZkJ5WkE1aV9CandtcnRaTEllcWFUWVR1RXExRWJVc1hUa1F3VVl4RXphOU5ZZVZ4YXkwTXpIUlpPRU9DMmI4NlR0ZmpwSUpDQXJB?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-11-25T16:13:02.000Z",
-      "simple_summary": "An article recommends a particular company's stock as a good investment in AI.",
-      "why_it_matters": "This mostly matters to investors. There's nothing you need to do."
-    },
-    {
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "The Verge",
-      "date": "2026-11-25T16:00:59.000Z",
-      "simple_summary": "A company called Nothing is releasing wireless earbuds that can record phone calls and turn them into written text summaries.",
-      "why_it_matters": "If you use wireless earbuds and want one that can record and summarize your conversations, this is a new option to consider."
+      "simple_summary": "State officials are fighting to stop Character.AI from selling the saved private conversations of over 21 million people, including about 2.1 million children, during its bankruptcy.",
+      "why_it_matters": "If you or your children used Character.AI, your private chats could have been sold without permission unless these officials succeed in blocking it. This is a serious privacy concern."
     }
   ]
 }
