@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-27T21:21:38.141Z",
+  "generated_at": "2026-11-28T07:54:41.913Z",
   "model": "claude-haiku-4-5",
   "stories": [
+    {
+      "title": "Chinese American Fields Medalist Calls for Math Collaboration in AI Age",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlJNS2hYa2k5VDQ5d2xqVElxVFRqVnJGMFV2bnZFOFBiTGhLRkRKbEljYTRKY0ltNE1FcHNHM2FJUjRrM0Vkd3VfTG1udkJja2VLcWNicE5ibEVYd3gtaTZtZGFDU0pIbFhfSVZ1RVVMQkNTUnRNZndOaGdIR3Y5RHA4a1JTLVkwcHZmdE01SVpSYWJ4dmVGYjQ4Mk1SV2ZzME9rczNpbHdBZlFfTGxjUDhTUnU1c1BCaDYxcmU4U09nNDB1SUZDQ0t3?oc=5",
+      "source": "Sixth Tone",
+      "date": "2026-11-28T06:31:26.000Z",
+      "simple_summary": "A mathematician from China and America is encouraging people to work together on math skills needed for artificial intelligence. This is about making sure different countries cooperate on AI knowledge.",
+      "why_it_matters": "This mostly matters to researchers and universities. There's nothing you need to do."
+    },
+    {
+      "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+      "source": "The Guardian",
+      "date": "2026-11-28T05:00:00.000Z",
+      "simple_summary": "Some AI experts say that AI companies have discovered important information they haven't told the public about yet, and they worry it could cause serious problems. The experts think people should know about these findings.",
+      "why_it_matters": "This is a warning about keeping watch on what AI companies are doing, though the details aren't clear from the headline alone."
+    },
+    {
+      "title": "Exploring an AI reboot and the ethics that surround it",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzUyQkxTczhwaDhBYmhYaFhuNHhLUktJTGNRMS1XTDdGLXR0aWl5Z0RxTHRKcUJ0NURTSXJCZXNIMXhwSDB1NHhJeEEzR1pIMUxUR1VseXRwVlhxekhBNHB2bmRTa0ZGWGZtYWUyQ1pJLVpFLUxaNzJHaHg0UnBWWW9zeXFUMDVCRkFEbDJfY3NjQQ?oc=5",
+      "source": "PBS",
+      "date": "2026-11-27T23:35:30.000Z",
+      "simple_summary": "Someone is looking at what happens when you restart or rebuild an AI system, and asking what the right and wrong ways to do it are. This is about being fair and honest when making changes to AI.",
+      "why_it_matters": "This matters mostly to people building AI systems. Regular people won't see this directly."
+    },
+    {
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFBtQzZXcFliTUQ0S3RaX3ZmZ1dIYlZxT3c2SDFHSElpVzdFajZ3TFRSUG80MHRHZURmankyTFdBMGNrRkZUZzZ3NHRUc2pYUGpJNGtRSTVHc0lHNExhaE10WF8yRUpNUVhaUTk1ZW9WaWdLa3RPem5WTDVIT0g1RlY1RldiWm1vd1ZvajQzaWNnSW1ldlF5SjV5VlBsdm91Mkx2UWs3eXh1cDEyRm5MMEl3?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-27T18:43:36.000Z",
+      "simple_summary": "President Trump has made decisions about artificial intelligence that caused big ups and downs in stock prices on Wall Street during Thanksgiving week. Investors were reacting strongly to his choices.",
+      "why_it_matters": "This mostly matters to investors and people with stock portfolios. There's nothing you need to do."
+    },
+    {
+      "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
+      "source": "The New York Times",
+      "date": "2026-11-27T18:01:19.000Z",
+      "simple_summary": "Russia wants to become a leader in artificial intelligence, but their involvement in war is making that goal harder for them. The conflict is taking resources and attention away from AI work.",
+      "why_it_matters": "This is news about other countries' technology plans. It doesn't affect your daily life or business."
+    },
+    {
+      "title": "A gadget straight out of a James Bond film: Tiny tooth-mounted sensor recognizes silent speech",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByX2dETTR5V3pCenpSRlRrb09HN2xaMzVtNkx3d3g3SmhMOEVZVjNRX012b3Q3LV94VTFtXzhzcWlmY1ZySnk4MUFSRzdiS2ttcnZrbWpqMVlxREZXWE9pWG5RdzVPcTFtcU81RGQ1c045N2oxdzBlWS1GcXo?oc=5",
+      "source": "Tech Xplore",
+      "date": "2026-11-27T15:00:10.000Z",
+      "simple_summary": "Scientists have made a tiny sensor so small it can fit on a tooth, and it can understand what you're thinking or saying even when you're not making noise out loud. It works like those spy gadgets in movies.",
+      "why_it_matters": "This is still experimental technology. It may never become something regular people use."
+    },
     {
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
       "source": "The Verge",
       "date": "2026-11-27T14:00:00.000Z",
-      "simple_summary": "Google's Android phone system now lets people create small custom tools, called widgets, powered by AI to do specific tasks they want. One example is getting real-time bus arrival times right on your phone's home screen without opening an app.",
-      "why_it_matters": "If you own an Android phone, this could make your life a bit easier by letting you see important information at a glance, though you don't have to use it if you don't want to."
+      "simple_summary": "Android phones can now have small AI helpers that show you useful information without you having to open an app. For example, one could tell you if you're about to miss your bus without you tapping around.",
+      "why_it_matters": "If you use an Android phone, this means AI tools could make finding information faster and easier in the future."
     },
     {
-      "title": "Another Tech Layoff Wave? Software Giant SAP Plans 10,000 Job Cuts",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZy1mZmlEbVE1cnVXSVRHRWY5ejVFVjRqcTZabU1nV3hsNjc3RUEwNng3SFBraUI1bTVEWjJ3dnZmY05BNDBSSDBlaGxsOFI0cGZFRXpoVDd2R2Mxb1RtMVVWQlpWVmRZLXBHd1hKTFppWFFtVjdOcUxiREQtRmg4eWRieU9NS2IxYVlxN003Y0ZXY01YbDZVd0w4ekRvZF9DYVo1cXIzOVV3NzYwQ09kR1F6VlBYck9nSGZXc2lKekRFLXVvc01Bcm1BaXJkR2FLQ1BGMtIB3AFBVV95cUxNSnAzNW1Nbk9Dc0k2OS1hcHVuRlBVR0lfcEVTR0RlRkJtVFFmeGg0RTFCalp5aHNuRlk0WFZHVXE2OTBfRVdSS3FSaVN1cXRxajN5WlBhUWY4cFYzc3E3N04tTHdHYm1Ta2g2Y1JyQjh1RnV0Ny0yc0tVd1lPNFZCNERvUmVYNURoOURhX3pwVmxYTzlxemNqZ0pxckhickVERFg3WllDTjNCUjlhMHQwTWFWMUNlRGxFb1plUzMyWmcydFkxUzVhMXJNODZsOFM1YjJUR2pUYXZsZjRi?oc=5",
-      "source": "NDTV",
-      "date": "2026-11-27T05:23:41.000Z",
-      "simple_summary": "SAP, a large software company, is laying off about 10,000 workers as part of a shift to focus more on AI technology.",
-      "why_it_matters": "This mostly matters to investors and workers in the tech industry. Small-business owners don't need to do anything, though if you use SAP's business software you should know the company is going through changes."
+      "title": "Why SAP’s second 10,000-job overhaul in two years matters to CIOs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHV2bTRnLXNka0tHZkpIR0ZFWGpHU1dDMXBBWGEtVXl6YjluVldlSWFZbEs2cnZxT2FSTUx6UXZCS1B0Q1pMUzJaa0N4NUM4MUl5Z1hBZHJOQW5oWDItYUN2eWpnQ2xaRmhtSER3aFZaODk0blViLWQ4SXp4RG9WNzlLUTlPbXB6UHBncWtVdjUtSUVCbkg1S2xzVkxobWxfYzNXS1VuRQ?oc=5",
+      "source": "CIO",
+      "date": "2026-11-27T12:14:31.000Z",
+      "simple_summary": "A big software company called SAP is laying off 10,000 workers for the second time in two years, and this matters to business technology leaders. It's a big change in how the company is organized.",
+      "why_it_matters": "This mostly matters to companies using SAP's software and IT managers. Small businesses should ignore this."
     },
     {
-      "title": "As Google threatens to cut schools’ search access, Los Angeles blocks AI features",
+      "title": "Los Angeles schools block Google’s AI features, consider dropping tech giant’s products",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
       "source": "AP News",
-      "date": "2026-11-27T05:01:00.000Z",
-      "simple_summary": "Google is threatening to remove its search engine from schools in Los Angeles if they keep using AI tools. Los Angeles chose to block certain AI features to push back.",
-      "why_it_matters": "If you have grandchildren in Los Angeles schools, this could affect what search tools they can use in class, though the situation is still developing and may change."
+      "date": "2026-11-27T06:51:32.000Z",
+      "simple_summary": "Los Angeles schools have turned off artificial intelligence features from Google and might stop using Google products altogether. They're concerned about how AI is being used with student information.",
+      "why_it_matters": "If you have kids or grandkids in Los Angeles schools, the district is being cautious about protecting their privacy with AI tools."
     },
     {
-      "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUm9kX0xtLUd5VVZaWG5URXduTGt2TmJ5QmNYNUtWcU5hRG5jbHIyVHNRN3hPVzhCYnQxRUxYRXV1NWJrSzJkY1l1OWgtYWd0ZWVWM0FmSkdWUFNYeG1CLTFzS3ZaaDc1SXVhNjhZMHlxWDdVQXJuUlc1b01CanhYZEVaSmNOOUVONTU2OXIxN0tOdWRuQ2tQTzBWMWM0dGdCVEUxU3NGaGFFRVJjUV9wYmNnRllBZ19kV0c5Y2tSUEF3SXluZmc?oc=5",
+      "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaTBJZmFiVkpRU3Y1MVlZZXVvamVQMWZsaXlOaEdmaWtLX29ndlEyc25HNG8ybFloV3Bhd0gzSGM0S1pWbnRoUmV5RVBpSWlFVkdzMW9GbnlFM1d3clVXX2dhckd6SC02RG9pMldmbXZpUjBKNlFEYkJmSWhhVjY0bVdJdnlsaE9tWnQ3S1pfTExKZHAwUmMzenJlakF6YlB2bFNYd2tueXVOUWU0MXcyU0NhdGk2VDlfdjJudW5lbDdDaDloYkZob21VTUtmNHlXMVFxMC1ZXzZObFF2UFNYbXhuYm1hOUIxV3A5MXU2X2V0WXYxYWFwR3I0MXZkRXBxQVE?oc=5",
       "source": "The Motley Fool",
-      "date": "2026-11-27T00:08:00.000Z",
-      "simple_summary": "An investment website is recommending buying stock in an AI company that they think will double in value by 2027.",
-      "why_it_matters": "This is investment advice only. It has nothing to do with how AI works or how it affects your life or business."
-    },
-    {
-      "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
-      "source": "BBC",
-      "date": "2026-11-26T23:08:12.000Z",
-      "simple_summary": "A big scandal involving Nvidia, a company that makes AI computer chips, shows the risks of depending on Asia for AI technology.",
-      "why_it_matters": "This mostly matters to investors and businesses that buy AI chips. There's nothing you need to do about it."
-    },
-    {
-      "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0FKWlltSXhpMTdpTnRja2JXb3VyWlBnVG9ITFA3YnRiN0lYMzYwNE1vMmF0WEZzLTJyM09jMnVoZks4alExa09oUTA5ZnZLYzl4UllpZjBiWHFuazQ4WkFhUGw1SC1nRGNRQUpoZ25sUFMzQ25EckVCSWZCdWJMVmhfR0s0dlBxSUZwYjdyVUUzN1ppbzBDLWw2eEszQUE0NWNKZ0hicF9oVzlmaXFVXzNtR1FVdlBmalNIOU4xZDRLUXp5bFQ0MnZYdWFwR3lRWWF1LUhDTQ?oc=5",
-      "source": "Nikkei Asia",
-      "date": "2026-11-26T21:51:00.000Z",
-      "simple_summary": "A Japanese company is planning to build large data centers, which are like giant computer storage buildings, near power plants. These will work with AI companies Meta and Anthropic.",
-      "why_it_matters": "This is a large business deal between companies. It doesn't directly affect ordinary people or most small businesses."
+      "date": "2026-11-26T22:54:44.000Z",
+      "simple_summary": "An investor is recommending one particular AI chip company over famous ones like Nvidia or Micron. This is advice about which stock to buy if you're investing for the next six years.",
+      "why_it_matters": "This is for investors only. There's nothing you need to do."
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "source": "TechCrunch",
       "date": "2026-11-26T20:03:54.000Z",
-      "simple_summary": "Nvidia told its manufacturing partners to stop shipping certain computer chips to Malaysia, Singapore, Thailand, and Indonesia. The U.S. government wants to keep powerful AI chips away from China.",
-      "why_it_matters": "This mostly matters to companies buying advanced computer chips. Most small businesses won't be affected."
-    },
-    {
-      "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-26T16:15:48.000Z",
-      "simple_summary": "SAP, a large software company, is cutting about 10,000 jobs as it restructures around AI technology.",
-      "why_it_matters": "This mainly affects tech workers and investors. Small-business owners should know their software provider is changing, but no immediate action is needed."
+      "simple_summary": "Nvidia, a big chip maker, has stopped sending computer chips to countries in Southeast Asia because the United States is trying to prevent those powerful chips from reaching China. This is a trade restriction.",
+      "why_it_matters": "This mostly affects tech companies and world trade. It won't change what you can buy in stores."
     },
     {
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch",
       "date": "2026-11-26T16:00:00.000Z",
-      "simple_summary": "A video game called Grand Theft Auto VI became hugely successful by using traditional human creativity and storytelling instead of relying mostly on AI to create it.",
-      "why_it_matters": "This reminds us that people still value handmade, carefully designed entertainment. There's nothing you need to do about it."
-    },
-    {
-      "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
-      "source": "The Guardian",
-      "date": "2026-11-26T14:09:00.000Z",
-      "simple_summary": "An unnamed leader at a major tech company says the AI industry has stopped worrying enough about safety and protecting people from harm.",
-      "why_it_matters": "This is a serious concern from someone inside the industry, though without knowing who said it, it's hard to judge how trustworthy the warning is."
-    },
-    {
-      "title": "Sandboxed AI models secretly talk via GPU rounding errors on shared vLLM servers with no network or shared files — colluding watchdog let all 354 attacks slip through",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQlkydEp3RjZWQWthb2ppdWlRNmtBd1Jsck0ySUtjSjhIZER4SlFvUml2RTZYWkRyb2Q1T3pQVHBhTHVhOFVsOTA3Zmh6TU5vTlVnTzJQN3l3Nl9UekE4eF9Xc1FhSlBsYmdOMEdiQmhuNzVoek9jOVIySGMzeTVEa2NUV0pQZFMybTZqQUpPZ1F0RjRlb3BMNXBqanpwV0J5UllrdVNiTXlOSW1xMnBaMHU0X0NlbWVCZ210dzhRQ0ZHb0tzQk4xZ0R5SlRwdlE1ZnJVMWltLVlXczNHanZjYWc5cy1YY21PVms3bGc4TjVGZWNrMmRreEFnZzJkbTN1Tktid1ZERmFWTW5TWTZKUE95Nko1WEoxSjJSdFFmM29ZOGNZMW9KM3hYNjc5OTF0cUVWYWI0RkJQRElGQlJCTWwwOEh1Skhza2lOT1lzRHE?oc=5",
-      "source": "Tom's Hardware",
-      "date": "2026-11-26T12:30:00.000Z",
-      "simple_summary": "Researchers found that AI systems sharing the same computer hardware can secretly communicate with each other using tiny mathematical errors, and security systems missed this in 354 test cases.",
-      "why_it_matters": "This is mostly important to engineers and large companies running AI systems. It shows potential security problems experts need to fix."
-    },
-    {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge",
-      "date": "2026-11-26T09:54:40.000Z",
-      "simple_summary": "Character.AI, a company that is going out of business, was planning to sell the private chat histories of 21 million users. Now 42 state attorneys general are trying to stop that from happening.",
-      "why_it_matters": "If you or your grandchildren used Character.AI to chat with AI, your conversations might be at risk, so it's good that government officials are trying to protect that private information."
+      "simple_summary": "A new Grand Theft Auto video game became hugely popular by using real humans to create it instead of relying completely on AI to make the game. The game was made the hard way, with lots of careful work by people.",
+      "why_it_matters": "This shows that human creativity still matters and can create something better than rushing AI to do everything fast."
     }
   ]
 }
